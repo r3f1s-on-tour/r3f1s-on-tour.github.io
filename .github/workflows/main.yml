@@ -7,7 +7,7 @@ on:
       - "docs/**"
       - "mkdocs.yml"
       - ".github/workflows/main.yml"
-      # - "scripts/**"
+      - "scripts/**"
       # - "templates/**"
   workflow_dispatch:
 
@@ -22,10 +22,12 @@ concurrency:
 
 jobs:
   build:
+    # Optionaler Schutz: starte nicht bei Bot-Pushes (weil wir am Ende committen)
+    # if: ${{ github.actor != 'github-actions[bot]' }}
     runs-on: ubuntu-latest
     env:
-      COMMIT_BANNER_CHANGES: "true"   # nur der Übersicht halber; Commit kommt am ENDE
-      DEBUG_BANNER: "1"               # zeigt, welche Banner-Dateien gezählt wurden (optional)
+      COMMIT_BANNER_CHANGES: "true"   # Commit am ENDE des Build-Jobs
+      DEBUG_BANNER: "1"               # optionales Debug-Log für die Zählung
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -62,11 +64,11 @@ jobs:
           echo "----- docs/index.md (HEAD) -----"
           (test -f docs/index.md && sed -n '1,160p' docs/index.md) || echo "docs/index.md missing"
 
-      # >>> Erzeugt/überschreibt docs/index.md und docs/banner/index.md
+      # ⇨ erzeugt/überschreibt docs/index.md und docs/banner/index.md
       - name: Run banner pages updater
         run: python scripts/update_banner_pages.py
 
-      # (Optional) zusätzliche Stats-Datei erzeugen
+      # optionales Zusatzfile
       - name: Generate banner stats (optional)
         run: |
           python scripts/make_banner_stats.py --banner-dir docs/banner --out docs/banner/stats.md
@@ -97,7 +99,7 @@ jobs:
         with:
           path: ./site
 
-      # <<< Commit & Push AM ENDE (nach dem Build/Artifact Upload)
+      # ✅ Commit & Push GANZ AM ENDE (nach Artifact-Upload)
       - name: Commit updated docs (final step)
         if: ${{ env.COMMIT_BANNER_CHANGES == 'true' }}
         run: |
@@ -105,12 +107,10 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # nur adden, wenn existent
           git add docs/index.md || true
           git add docs/banner/index.md || true
           git add docs/banner/stats.md || true
 
-          # commit nur, wenn wirklich Änderungen
           if ! git diff --cached --quiet; then
             git commit -m "chore: update banner stats and directory [skip ci]"
             git push
@@ -118,3 +118,14 @@ jobs:
           else
             echo "No changes to commit."
           fi
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
