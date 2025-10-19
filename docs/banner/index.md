@@ -84,6 +84,7 @@ _(no entries)_
 
 - [Silhouette von Stralsund](./5_silhouette-von-stralsund_2015/)
 - [Starry Night TARDIS](./4_starry-night-tardis_2015/)
+- [Stats](./stats/)
 
 ## T
 

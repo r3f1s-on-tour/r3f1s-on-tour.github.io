@@ -41,6 +41,7 @@ docs_dir: docs
 nav:
   - Home: index.md
   - Banner:
+      - Stats: banner/stats.md
       - Overview: banner/index.md
       - Gallery: banner/gallery.md
   - Profil: profil/index.md

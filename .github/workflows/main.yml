@@ -51,8 +51,13 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; else pip install mkdocs; fi
 
-      # - name: Build gallery
-      #   run: python make_duck_gallery.py
+      - name: update_banner_counters
+        run: python scripts/update_banner_counters.py
+
+      - name: Generate banner stats
+        run: |
+          python -m pip install pyyaml
+          python scripts/make_banner_stats.py --banner-dir docs/banner --out docs/banner/stats.md
 
       - name: Build MkDocs site
         run: |
