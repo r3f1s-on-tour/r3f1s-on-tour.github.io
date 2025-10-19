@@ -99,7 +99,7 @@ jobs:
         if: ${{ env.COMMIT_BANNER_CHANGES == 'true' }}
         run: |
           set -e
-          if ! git diff --quiet -- docs/stats.md docs/banner/stats.md; then
+          if ! git diff --quiet -- docs/banner/stats.md docs/banner/stats.md; then
             git config user.name  "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add docs/stats.md docs/banner/stats.md
