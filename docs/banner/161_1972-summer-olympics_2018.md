@@ -11,12 +11,13 @@ missions: "24"
 date: "2018"
 bg-link: https://bannergress.com/banner/1972-summer-olympics-b055
 onyx: "0"
-description: Visit the places where the games took place: Olympic Village, Olympiapark, Nymphenburg Palace, Oberschleißheim Regatta Course, Firing Range Garching, Rudi-Sedlmayer-Hall Sendling, Riding stadium Riem
+description: Visit the places where the games took place Olympic Village, Olympiapark, Nymphenburg Palace, Oberschleißheim Regatta Course, Firing Range Garching, Rudi-Sedlmayer-Hall Sendling, Riding stadium Riem
 lengthKMeters: 64,57
 title: 1972 Summer Olympics
 ---
 
 #{{ page.meta.title}}
+
 _**Datum:** {{ page.meta.date }} • **Country:**{{ page.meta.country}}_
 
 ## Bild
