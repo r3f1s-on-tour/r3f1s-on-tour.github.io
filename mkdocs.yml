@@ -1,0 +1,81 @@
+site_name: "r3f1s-on-tour"
+site_description: "r3f1s banner tour"
+site_author: "r3f1Zul"
+site_url: "https://r3f1s-on-tour.github.io"
+
+repo_url: "https://github.com/r3f1s-on-tour/r3f1s-on-tour.github.io"
+
+repo_name: "r3f1s-on-tour.github.io"
+
+theme:
+  name: material
+  language: en
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green
+      accent: teal
+      toogle:
+        icon: material/weather-sunny
+        name: Enable light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      accent: teal
+      toogle:
+        icon: material/weather-night
+        name: Enable dark mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - toc.follow
+    - content.code.copy
+    - conten.action.edit
+  icon:
+    repo: fontawesome/brands/github
+
+docs_dir: docs
+
+nav:
+  - Home: index.md
+  - Banner:
+      - Overview: banner/index.md
+      - Gallery: banner/gallery.md
+  - Profil: profil/index.md
+  - Trips: trips/index.md
+  - About: about.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+  - admonition
+  - def_list
+  - footnotes
+  - attr_list
+  - abbr
+  - md_in_html
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.details
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+plugins:
+  - search
+  - macros
+  - git-revision-date-localized
+
+# extra:
+#   social:
+#     - icon: fontawesome/brands/telegram
+#       link: https://t.me/semsduckies
+
+copyright: "This is a fan site that is not affiliated with Niantic Inc. Ingress is a registered trademark of Niantic Inc."
