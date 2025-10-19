@@ -99,7 +99,7 @@ def main():
         sys.exit(1)
 
     banner_files = sorted([p for p in BANNER_DIR.glob("*.md")
-                           if p.name.lower() not in {"index.md","gallery.md"}])
+                           if p.name.lower() not in {"index.md","gallery.md","stats.md"}])
     banner_count=len(banner_files)
     entries=[]; max_completed=0; max_candidates=[]
 
