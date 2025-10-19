@@ -62,7 +62,7 @@ _(no entries)_
 
 ## N
 
-_(no entries)_
+- [Neubrandenburg im Morgennebel](./7_neubrandenburg-im-morgennebel_2015/)
 
 ## O
 
