@@ -16,7 +16,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write   # wichtig für Auto-Commit
   pages: write
   id-token: write
 
