@@ -16,21 +16,21 @@ lengthKMeters: ""
 title: "Raute Blau Weiß 1"
 ---
 
-#{{ page.meta.title}}
-_**Datum:** {{ page.meta.date }} • **Country:**{{ page.meta.country}}_
+# {{ page.meta.title }}
+_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
 
 ## Bild
-![{{page.meta.title | default('Bild')}}]({{page.meta.picture}})
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
-- **bg-link**: {% raw %}[{{ page.meta.bg-link }}]({{ page.meta.bg-link }}){% endraw %}
+- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
 ## Infos
-- **nummer**:{{ page.meta.nummer}}
-- **startLatitude**:{{ page.meta.startLatitude}}
-- **startLongitude**:{{ page.meta.startLongitude}}
-- **region**:{{ page.meta.region}}
-- **country**:{{ page.meta.country}}
-- **completed**:{{ page.meta.completed}}
-- **missions**:{{ page.meta.missions}}
+- **nummer**: {{ page.meta.nummer }}
+- **startLatitude**: {{ page.meta.startLatitude }}
+- **startLongitude**: {{ page.meta.startLongitude }}
+- **region**: {{ page.meta.region }}
+- **country**: {{ page.meta.country }}
+- **completed**: {{ page.meta.completed }}
+- **missions**: {{ page.meta.missions }}
 

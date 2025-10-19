@@ -16,14 +16,14 @@ lengthKMeters: ""
 title: "Łowicz-Muster Tour in Szczecin"
 ---
 
-#{{ page.meta.title}}
-_**Datum:** {{ page.meta.date }} • **Country:**{{ page.meta.country}}_
+# {{ page.meta.title }}
+_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
 
 ## Infos
-- **nummer**:{{ page.meta.nummer}}
-- **region**:{{ page.meta.region}}
-- **country**:{{ page.meta.country}}
-- **completed**:{{ page.meta.completed}}
-- **missions**:{{ page.meta.missions}}
-- **onyx**:{{ page.meta.onyx}}
+- **nummer**: {{ page.meta.nummer }}
+- **region**: {{ page.meta.region }}
+- **country**: {{ page.meta.country }}
+- **completed**: {{ page.meta.completed }}
+- **missions**: {{ page.meta.missions }}
+- **onyx**: {{ page.meta.onyx }}
 
