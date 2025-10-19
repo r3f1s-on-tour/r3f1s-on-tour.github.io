@@ -1,14 +1,7 @@
 ---
-banner_count: 4
-completed_current: 132
-completed_from_banner_slug: 4_starry-night-tardis_2015
-completed_from_banner_title: Starry Night TARDIS
-next_milestone: 500
-remaining_to_next: 368
-progress_pct_to_next: 26.4
-last_updated: '2025-10-19T13:17:21Z'
+{}
 ---
-# Banner Übersicht
+# Banner Directory
 
 [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z)
 
@@ -17,31 +10,31 @@ last_updated: '2025-10-19T13:17:21Z'
 
 ## A
 
-_(keine Einträge)_
+_(no entries)_
 
 ## B
 
-_(keine Einträge)_
+_(no entries)_
 
 ## C
 
-_(keine Einträge)_
+_(no entries)_
 
 ## D
 
-_(keine Einträge)_
+_(no entries)_
 
 ## E
 
-_(keine Einträge)_
+_(no entries)_
 
 ## F
 
-_(keine Einträge)_
+_(no entries)_
 
 ## G
 
-_(keine Einträge)_
+_(no entries)_
 
 ## H
 
@@ -49,39 +42,39 @@ _(keine Einträge)_
 
 ## I
 
-_(keine Einträge)_
+_(no entries)_
 
 ## J
 
-_(keine Einträge)_
+_(no entries)_
 
 ## K
 
-_(keine Einträge)_
+_(no entries)_
 
 ## L
 
-_(keine Einträge)_
+_(no entries)_
 
 ## M
 
-_(keine Einträge)_
+_(no entries)_
 
 ## N
 
-_(keine Einträge)_
+_(no entries)_
 
 ## O
 
-_(keine Einträge)_
+_(no entries)_
 
 ## P
 
-_(keine Einträge)_
+_(no entries)_
 
 ## Q
 
-_(keine Einträge)_
+_(no entries)_
 
 ## R
 
@@ -89,15 +82,16 @@ _(keine Einträge)_
 
 ## S
 
+- [Silhouette von Stralsund](./5_silhouette-von-stralsund_2015/)
 - [Starry Night TARDIS](./4_starry-night-tardis_2015/)
 
 ## T
 
-_(keine Einträge)_
+_(no entries)_
 
 ## U
 
-_(keine Einträge)_
+_(no entries)_
 
 ## V
 
@@ -105,16 +99,16 @@ _(keine Einträge)_
 
 ## W
 
-_(keine Einträge)_
+_(no entries)_
 
 ## X
 
-_(keine Einträge)_
+_(no entries)_
 
 ## Y
 
-_(keine Einträge)_
+_(no entries)_
 
 ## Z
 
-_(keine Einträge)_
+_(no entries)_
