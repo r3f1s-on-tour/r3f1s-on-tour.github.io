@@ -2,18 +2,18 @@
 nummer: "304"
 startLatitude: "52.5203"
 startLongitude: "13.411325"
-titel: Nomadic Empire
-picture: 
-region: Berlin
-country: Deutschland
+titel: "Nomadic Empire"
+picture: ""
+region: "Berlin"
+country: "Deutschland"
 completed: "7104"
 missions: "30"
 date: "2021"
-bg-link: https://bannergress.com/banner/mongol-nomadic-empire-75d0
+bg-link: "https://bannergress.com/banner/mongol-nomadic-empire-75d0"
 onyx: "0"
-description: A nice walk from Alexanderplatz along the Kollwitzkietz to Brunnenviertel with its famous railway-facilities.
-lengthKMeters: 9,70
-title: Nomadic Empire
+description: "A nice walk from Alexanderplatz along the Kollwitzkietz to Brunnenviertel with its famous railway-facilities."
+lengthKMeters: "9,70"
+title: "Nomadic Empire"
 ---
 
 #{{ page.meta.title}}

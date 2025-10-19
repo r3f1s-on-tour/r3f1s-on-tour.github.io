@@ -1,19 +1,19 @@
 ---
 nummer: "524"
-startLatitude: 52,756645
-startLongitude: 13,244983
-titel: Second Sunday Yoga Oranienburg
-picture: Bitte Url nachtragen
-region: Oranienburg
-country: Deutschland
+startLatitude: "52,756645"
+startLongitude: "13,244983"
+titel: "Second Sunday Yoga Oranienburg"
+picture: "Bitte Url nachtragen"
+region: "Oranienburg"
+country: "Deutschland"
 completed: "11.082"
 missions: "6"
 date: "2023"
-bg-link: 
+bg-link: ""
 onyx: "0"
-description: Starte eine Runde durch Oranienburg zum Second Sunday und denke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg
-lengthKMeters: 1,29
-title: Second Sunday Yoga Oranienburg
+description: "Starte eine Runde durch Oranienburg zum Second Sunday und denke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg"
+lengthKMeters: "1,29"
+title: "Second Sunday Yoga Oranienburg"
 ---
 
 #{{ page.meta.title}}

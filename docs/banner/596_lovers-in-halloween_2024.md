@@ -1,19 +1,19 @@
 ---
 nummer: "596"
-startLatitude: 39,444296
-startLongitude: -0,393369
-titel: Lovers in Halloween
-picture: Bitte Url nachtragen
-region: València
-country: España
+startLatitude: "39,444296"
+startLongitude: "-0,393369"
+titel: "Lovers in Halloween"
+picture: "Bitte Url nachtragen"
+region: "València"
+country: "España"
 completed: "13.164"
 missions: "42"
 date: "2024"
-bg-link: https://bannergress.com/banner/lovers-in-halloween-bd93
+bg-link: "https://bannergress.com/banner/lovers-in-halloween-bd93"
 onyx: "0"
-description: Celebra Halloween haciendo este bonito mural por las calles de Valencia.
-lengthKMeters: 10,574
-title: Lovers in Halloween
+description: "Celebra Halloween haciendo este bonito mural por las calles de Valencia."
+lengthKMeters: "10,574"
+title: "Lovers in Halloween"
 ---
 
 #{{ page.meta.title}}

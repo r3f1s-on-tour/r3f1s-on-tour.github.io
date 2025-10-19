@@ -1,19 +1,19 @@
 ---
 nummer: "517"
-startLatitude: 53,507239
-startLongitude: 13,745734
-titel: Grüne Tour durch Strasburg
-picture: Bitte Url nachtragen
-region: Strasburg (Uckermark)
-country: Deutschland
+startLatitude: "53,507239"
+startLongitude: "13,745734"
+titel: "Grüne Tour durch Strasburg"
+picture: "Bitte Url nachtragen"
+region: "Strasburg (Uckermark)"
+country: "Deutschland"
 completed: "10.980"
 missions: "6"
 date: "2022"
-bg-link: https://bannergress.com/banner/gr%C3%BCne-tour-durch-strasburg-5081
+bg-link: "https://bannergress.com/banner/gr%C3%BCne-tour-durch-strasburg-5081"
 onyx: "0"
-description: Starte am Marktplatz  einen Rundgang und entdecke Strasburg. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet auf dem Marktplatz
-lengthKMeters: 3,514
-title: Grüne Tour durch Strasburg
+description: "Starte am Marktplatz  einen Rundgang und entdecke Strasburg. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet auf dem Marktplatz"
+lengthKMeters: "3,514"
+title: "Grüne Tour durch Strasburg"
 ---
 
 #{{ page.meta.title}}

@@ -1,20 +1,19 @@
 ---
 nummer: "504"
-startLatitude: 51,253636
-startLongitude: 6,771298
-titel: Find the Alien
-picture: Bitte Url nachtragen
-region: Düsseldorf
-country: Deutschland
+startLatitude: "51,253636"
+startLongitude: "6,771298"
+titel: "Find the Alien"
+picture: "Bitte Url nachtragen"
+region: "Düsseldorf"
+country: "Deutschland"
 completed: "10.776"
 missions: "24"
 date: "2022"
-bg-link: https://bannergress.com/banner/find-the-alien-90f6
+bg-link: "https://bannergress.com/banner/find-the-alien-90f6"
 onyx: "0"
-description: "Willkommen auf dem Düsseldorfer Nordfriedhof. Nachdem hier schon die Borg gesichtet worden sind, 
-gibt es starke Anzeichen dass es hier auch Aliens gibt. Folge der Route in der richtigen Reihenfolge!"
-lengthKMeters: 5,541
-title: Find the Alien
+description: "Willkommen auf dem Düsseldorfer Nordfriedhof. Nachdem hier schon die Borg gesichtet worden sind, \ngibt es starke Anzeichen dass es hier auch Aliens gibt. Folge der Route in der richtigen Reihenfolge!"
+lengthKMeters: "5,541"
+title: "Find the Alien"
 ---
 
 #{{ page.meta.title}}

@@ -1,19 +1,19 @@
 ---
 nummer: "472"
-startLatitude: 52,509237
-startLongitude: 13,497382
-titel: Catwalk VI
-picture: Bitte Url nachtragen
-region: Berlin
-country: Deutschland
+startLatitude: "52,509237"
+startLongitude: "13,497382"
+titel: "Catwalk VI"
+picture: "Bitte Url nachtragen"
+region: "Berlin"
+country: "Deutschland"
 completed: "10.338"
 missions: "18"
 date: "2022"
-bg-link: https://bannergress.com/banner/catwalk-vi-87a3
+bg-link: "https://bannergress.com/banner/catwalk-vi-87a3"
 onyx: "0"
-description: Begleite den Kater auf seinem Entdeckungsstreifzug vom S+U Lichtenberg nach Friedrichsfelde und dort im Bogen durch den Weitlingkiez zurück zu seinem Ausgangspunkt.
-lengthKMeters: 6,875
-title: Catwalk VI
+description: "Begleite den Kater auf seinem Entdeckungsstreifzug vom S+U Lichtenberg nach Friedrichsfelde und dort im Bogen durch den Weitlingkiez zurück zu seinem Ausgangspunkt."
+lengthKMeters: "6,875"
+title: "Catwalk VI"
 ---
 
 #{{ page.meta.title}}

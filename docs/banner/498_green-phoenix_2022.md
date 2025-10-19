@@ -1,19 +1,19 @@
 ---
 nummer: "498"
-startLatitude: 50,944624
-startLongitude: 7,098962
-titel: Green Phoenix
-picture: Bitte Url nachtragen
-region: Bergisch Gladbach
-country: Deutschland
+startLatitude: "50,944624"
+startLongitude: "7,098962"
+titel: "Green Phoenix"
+picture: "Bitte Url nachtragen"
+region: "Bergisch Gladbach"
+country: "Deutschland"
 completed: "10.668"
 missions: "60"
 date: "2022"
-bg-link: https://bannergress.com/banner/green-phoenix-736c
+bg-link: "https://bannergress.com/banner/green-phoenix-736c"
 onyx: "0"
-description: Willkommen im Wildpark Brück. Entdecke bei 60 Missionen die Vielfalt des Waldes.
-lengthKMeters: 3,096
-title: Green Phoenix
+description: "Willkommen im Wildpark Brück. Entdecke bei 60 Missionen die Vielfalt des Waldes."
+lengthKMeters: "3,096"
+title: "Green Phoenix"
 ---
 
 #{{ page.meta.title}}

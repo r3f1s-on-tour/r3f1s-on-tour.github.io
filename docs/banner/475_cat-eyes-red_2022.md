@@ -1,25 +1,19 @@
 ---
 nummer: "475"
-startLatitude: 52,50885
-startLongitude: 13,497454
-titel: Cat Eyes Red
-picture: Bitte Url nachtragen
-region: Berlin
-country: Deutschland
+startLatitude: "52,50885"
+startLongitude: "13,497454"
+titel: "Cat Eyes Red"
+picture: "Bitte Url nachtragen"
+region: "Berlin"
+country: "Deutschland"
 completed: "10.368"
 missions: "6"
 date: "2022"
-bg-link: https://bannergress.com/banner/cat-eyes-red-31ed
+bg-link: "https://bannergress.com/banner/cat-eyes-red-31ed"
 onyx: "0"
-description: "Dieses Banner ist die vierte Farbe von insgesamt 6. 
-Sie startet und Endet am S+U Lichtenberg. 
-Als Passphrase wird jedweils die aktuelle Missionsnummer abgefragt
-
-This banner is the fourth colour of a total of 6. 
-It starts and ends at S+U Lichtenberg. 
-The passphrases are only asking for the current mission number."
-lengthKMeters: 2,258
-title: Cat Eyes Red
+description: "Dieses Banner ist die vierte Farbe von insgesamt 6. \nSie startet und Endet am S+U Lichtenberg. \nAls Passphrase wird jedweils die aktuelle Missionsnummer abgefragt\n\nThis banner is the fourth colour of a total of 6. \nIt starts and ends at S+U Lichtenberg. \nThe passphrases are only asking for the current mission number."
+lengthKMeters: "2,258"
+title: "Cat Eyes Red"
 ---
 
 #{{ page.meta.title}}

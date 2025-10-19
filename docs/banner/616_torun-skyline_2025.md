@@ -1,19 +1,19 @@
 ---
 nummer: "616"
-startLatitude: 
-startLongitude: 
-titel: Torun skyline
-picture: 
-region: Torun
-country: Polska
+startLatitude: ""
+startLongitude: ""
+titel: "Torun skyline"
+picture: ""
+region: "Torun"
+country: "Polska"
 completed: "13.470"
 missions: "18"
 date: "2025"
-bg-link: 
+bg-link: ""
 onyx: "0"
-description: 
-lengthKMeters: 3,7
-title: Torun skyline
+description: ""
+lengthKMeters: "3,7"
+title: "Torun skyline"
 ---
 
 #{{ page.meta.title}}

@@ -1,19 +1,19 @@
 ---
 nummer: "562"
-startLatitude: 53,561402
-startLongitude: 13,261756
-titel: Treptower Tor
-picture: Bitte Url nachtragen
-region: Neubrandenburg
-country: Deutschland
+startLatitude: "53,561402"
+startLongitude: "13,261756"
+titel: "Treptower Tor"
+picture: "Bitte Url nachtragen"
+region: "Neubrandenburg"
+country: "Deutschland"
 completed: "12.456"
 missions: "24"
 date: "2023"
-bg-link: https://bannergress.com/banner/treptower-tor-3721
+bg-link: "https://bannergress.com/banner/treptower-tor-3721"
 onyx: "0"
-description: Das Treptower Tor ist eines von 4 Toren  in Neubrandenburg. Im Baustil  der norddeutschen Backsteingotik wurde das Tor im 14. Jahrhundert errichtet.
-lengthKMeters: 10,222
-title: Treptower Tor
+description: "Das Treptower Tor ist eines von 4 Toren  in Neubrandenburg. Im Baustil  der norddeutschen Backsteingotik wurde das Tor im 14. Jahrhundert errichtet."
+lengthKMeters: "10,222"
+title: "Treptower Tor"
 ---
 
 #{{ page.meta.title}}

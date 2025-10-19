@@ -1,19 +1,19 @@
 ---
 nummer: "494"
-startLatitude: 50,943451
-startLongitude: 6,959376
-titel: Deifel in Köln
-picture: Bitte Url nachtragen
-region: Köln
-country: Deutschland
+startLatitude: "50,943451"
+startLongitude: "6,959376"
+titel: "Deifel in Köln"
+picture: "Bitte Url nachtragen"
+region: "Köln"
+country: "Deutschland"
 completed: "10.566"
 missions: "6"
 date: "2022"
-bg-link: https://bannergress.com/banner/deifel-in-k%C3%B6ln-7270
+bg-link: "https://bannergress.com/banner/deifel-in-k%C3%B6ln-7270"
 onyx: "0"
-description: Starte am Hauptbahnhof einen Rundgang und entdecke Köln. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten, historische Orte und den Kölner Dom. Die Runde endet am Hansaring
+description: "Starte am Hauptbahnhof einen Rundgang und entdecke Köln. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten, historische Orte und den Kölner Dom. Die Runde endet am Hansaring"
 lengthKMeters: "2"
-title: Deifel in Köln
+title: "Deifel in Köln"
 ---
 
 #{{ page.meta.title}}

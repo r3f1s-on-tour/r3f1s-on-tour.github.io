@@ -1,19 +1,19 @@
 ---
 nummer: "507"
-startLatitude: 51,25423
-startLongitude: 7,149983
-titel: Deifel in Wuppertal
-picture: Bitte Url nachtragen
-region: Wuppertal
-country: Deutschland
+startLatitude: "51,25423"
+startLongitude: "7,149983"
+titel: "Deifel in Wuppertal"
+picture: "Bitte Url nachtragen"
+region: "Wuppertal"
+country: "Deutschland"
 completed: "10.824"
 missions: "6"
 date: "2022"
-bg-link: https://bannergress.com/banner/deifel-in-wuppertal-5ea7
+bg-link: "https://bannergress.com/banner/deifel-in-wuppertal-5ea7"
 onyx: "0"
-description: Starte am Hauptbahnhof einen Rundgang und entdecke Wuppertal. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet wieder am Hauptbahnhof
-lengthKMeters: 1,323
-title: Deifel in Wuppertal
+description: "Starte am Hauptbahnhof einen Rundgang und entdecke Wuppertal. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet wieder am Hauptbahnhof"
+lengthKMeters: "1,323"
+title: "Deifel in Wuppertal"
 ---
 
 #{{ page.meta.title}}

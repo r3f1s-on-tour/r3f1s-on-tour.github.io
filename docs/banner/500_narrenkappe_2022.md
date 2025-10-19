@@ -1,19 +1,19 @@
 ---
 nummer: "500"
-startLatitude: 50,943701
-startLongitude: 6,933796
-titel: Narrenkappe
-picture: Bitte Url nachtragen
-region: Köln
-country: Deutschland
+startLatitude: "50,943701"
+startLongitude: "6,933796"
+titel: "Narrenkappe"
+picture: "Bitte Url nachtragen"
+region: "Köln"
+country: "Deutschland"
 completed: "10.704"
 missions: "24"
 date: "2022"
-bg-link: https://bannergress.com/banner/narrenkappe-f124
+bg-link: "https://bannergress.com/banner/narrenkappe-f124"
 onyx: "0"
-description: Take a walk around Koeln-Ehrenfeld. This district is known for its variety of street art.
-lengthKMeters: 9,984
-title: Narrenkappe
+description: "Take a walk around Koeln-Ehrenfeld. This district is known for its variety of street art."
+lengthKMeters: "9,984"
+title: "Narrenkappe"
 ---
 
 #{{ page.meta.title}}

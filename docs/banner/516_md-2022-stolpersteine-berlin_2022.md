@@ -1,19 +1,19 @@
 ---
 nummer: "516"
-startLatitude: 52,502456
-startLongitude: 13,303693
-titel: MD 2022: Stolpersteine, Berlin
-picture: Bitte Url nachtragen
-region: Berlin
-country: Deutschland
+startLatitude: "52,502456"
+startLongitude: "13,303693"
+titel: "MD 2022- Stolpersteine, Berlin"
+picture: "Bitte Url nachtragen"
+region: "Berlin"
+country: "Deutschland"
 completed: "10.974"
 missions: "6"
 date: "2022"
-bg-link: https://bannergress.com/banner/md-2022-stolpersteine-berlin-0d29
+bg-link: "https://bannergress.com/banner/md-2022-stolpersteine-berlin-0d29"
 onyx: "0"
-description: Part of MD 2022: Stolpersteine
-lengthKMeters: 2,946
-title: MD 2022: Stolpersteine, Berlin
+description: "Part of MD 2022- Stolpersteine"
+lengthKMeters: "2,946"
+title: "MD 2022- Stolpersteine, Berlin"
 ---
 
 #{{ page.meta.title}}

@@ -1,19 +1,19 @@
 ---
 nummer: "613"
-startLatitude: 
-startLongitude: 
-titel: lowdic Muster
-picture: 
-region: Berlin
-country: Deutschland
+startLatitude: ""
+startLongitude: ""
+titel: "lowdic Muster"
+picture: ""
+region: "Berlin"
+country: "Deutschland"
 completed: "13.422"
 missions: "6"
 date: "2025"
-bg-link: 
+bg-link: ""
 onyx: "0"
-description: 
-lengthKMeters: 
-title: lowdic Muster
+description: ""
+lengthKMeters: ""
+title: "lowdic Muster"
 ---
 
 #{{ page.meta.title}}

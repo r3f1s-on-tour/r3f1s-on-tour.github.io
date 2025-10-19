@@ -1,19 +1,19 @@
 ---
 nummer: "585"
-startLatitude: 51,057646
-startLongitude: 13,740839
-titel: Happy Penguins
-picture: Bitte Url nachtragen
-region: Dresden
-country: Deutschland
+startLatitude: "51,057646"
+startLongitude: "13,740839"
+titel: "Happy Penguins"
+picture: "Bitte Url nachtragen"
+region: "Dresden"
+country: "Deutschland"
 completed: "13.008"
 missions: "6"
 date: "2023"
-bg-link: https://bannergress.com/banner/happy-penguins-d971
+bg-link: "https://bannergress.com/banner/happy-penguins-d971"
 onyx: "0"
-description: Weihnachtliche Pinguine verstecken sich am Dresdner Elbufer. Kannst du sie finden?
-lengthKMeters: 1,619
-title: Happy Penguins
+description: "Weihnachtliche Pinguine verstecken sich am Dresdner Elbufer. Kannst du sie finden?"
+lengthKMeters: "1,619"
+title: "Happy Penguins"
 ---
 
 #{{ page.meta.title}}

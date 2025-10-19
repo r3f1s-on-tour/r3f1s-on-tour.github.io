@@ -1,19 +1,19 @@
 ---
 nummer: "592"
-startLatitude: 50,997138
-startLongitude: 7,464665
-titel: Held der Kindheit
-picture: Bitte Url nachtragen
-region: Ründeroth
-country: Deutschland
+startLatitude: "50,997138"
+startLongitude: "7,464665"
+titel: "Held der Kindheit"
+picture: "Bitte Url nachtragen"
+region: "Ründeroth"
+country: "Deutschland"
 completed: "13.086"
 missions: "12"
 date: "2024"
-bg-link: https://bannergress.com/banner/held-der-kindheit-975c
+bg-link: "https://bannergress.com/banner/held-der-kindheit-975c"
 onyx: "0"
-description: Eine Runde rund um und durch Ründeroth, entlang alter Handelswege und vieler historischer Denkmäler. Länge beträgt ca. 5 km und dauert ca. 2 Stunden. Viel Spaß.
-lengthKMeters: 4,887
-title: Held der Kindheit
+description: "Eine Runde rund um und durch Ründeroth, entlang alter Handelswege und vieler historischer Denkmäler. Länge beträgt ca. 5 km und dauert ca. 2 Stunden. Viel Spaß."
+lengthKMeters: "4,887"
+title: "Held der Kindheit"
 ---
 
 #{{ page.meta.title}}

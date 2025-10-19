@@ -1,19 +1,19 @@
 ---
 nummer: "615"
-startLatitude: 
-startLongitude: 
-titel: Warszawska akwarela
-picture: 
-region: Warsaw
-country: Polska
+startLatitude: ""
+startLongitude: ""
+titel: "Warszawska akwarela"
+picture: ""
+region: "Warsaw"
+country: "Polska"
 completed: "13.452"
 missions: "12"
 date: "2025"
-bg-link: 
+bg-link: ""
 onyx: "0"
-description: 
-lengthKMeters: 
-title: Warszawska akwarela
+description: ""
+lengthKMeters: ""
+title: "Warszawska akwarela"
 ---
 
 #{{ page.meta.title}}

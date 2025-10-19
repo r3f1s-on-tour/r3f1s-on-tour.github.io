@@ -1,24 +1,19 @@
 ---
 nummer: "584"
-startLatitude: 51,038546
-startLongitude: 13,702053
-titel: Schneeflöckchen
-picture: Bitte Url nachtragen
-region: Dresden
-country: Deutschland
+startLatitude: "51,038546"
+startLongitude: "13,702053"
+titel: "Schneeflöckchen"
+picture: "Bitte Url nachtragen"
+region: "Dresden"
+country: "Deutschland"
 completed: "13.002"
 missions: "6"
 date: "2023"
-bg-link: https://bannergress.com/banner/schneefl%C3%B6ckchen-0616
+bg-link: "https://bannergress.com/banner/schneefl%C3%B6ckchen-0616"
 onyx: "1"
-description: "\"Schneeflöckchen, Weißröckchen
-Wann kommst du geschneit?
-Du kommst aus den Wolken
-Dein Weg ist so weit\"
-
-Ein Spaziergang durch Löbtau-Süd"
-lengthKMeters: 1,693
-title: Schneeflöckchen
+description: "\"Schneeflöckchen, Weißröckchen\nWann kommst du geschneit?\nDu kommst aus den Wolken\nDein Weg ist so weit\"\n\nEin Spaziergang durch Löbtau-Süd"
+lengthKMeters: "1,693"
+title: "Schneeflöckchen"
 ---
 
 #{{ page.meta.title}}

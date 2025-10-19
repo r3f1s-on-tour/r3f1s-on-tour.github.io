@@ -1,19 +1,19 @@
 ---
 nummer: "614"
-startLatitude: 
-startLongitude: 
-titel: Wrocławska akwarela
-picture: 
-region: Wroclaw
-country: Polska
+startLatitude: ""
+startLongitude: ""
+titel: "Wrocławska akwarela"
+picture: ""
+region: "Wroclaw"
+country: "Polska"
 completed: "13.440"
 missions: "18"
 date: "2025"
-bg-link: 
+bg-link: ""
 onyx: "0"
-description: 
-lengthKMeters: 
-title: Wrocławska akwarela
+description: ""
+lengthKMeters: ""
+title: "Wrocławska akwarela"
 ---
 
 #{{ page.meta.title}}

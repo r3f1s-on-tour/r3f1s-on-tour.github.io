@@ -1,19 +1,19 @@
 ---
 nummer: "429"
-startLatitude: 53,555945
-startLongitude: 13,291601
-titel: Visit Requiem Munich - Neubrandenburg
-picture: Bitte Url nachtragen
-region: Neubrandenburg
-country: Deutschland
+startLatitude: "53,555945"
+startLongitude: "13,291601"
+titel: "Visit Requiem Munich - Neubrandenburg"
+picture: "Bitte Url nachtragen"
+region: "Neubrandenburg"
+country: "Deutschland"
 completed: "8.922"
 missions: "6"
 date: "2022"
-bg-link: https://bannergress.com/banner/visit-requiem-munich-neubrandenburg-0a5c
+bg-link: "https://bannergress.com/banner/visit-requiem-munich-neubrandenburg-0a5c"
 onyx: "0"
-description: In 2020 there will be an epic fight between the enlightened and resistance in Munich! Join our forces and spread the message by filling out this banner.
-lengthKMeters: 4,21
-title: Visit Requiem Munich - Neubrandenburg
+description: "In 2020 there will be an epic fight between the enlightened and resistance in Munich! Join our forces and spread the message by filling out this banner."
+lengthKMeters: "4,21"
+title: "Visit Requiem Munich - Neubrandenburg"
 ---
 
 #{{ page.meta.title}}

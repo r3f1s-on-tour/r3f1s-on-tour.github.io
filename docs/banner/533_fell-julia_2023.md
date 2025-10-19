@@ -1,19 +1,19 @@
 ---
 nummer: "533"
-startLatitude: 52,756645
-startLongitude: 13,244983
-titel: Fell-Julia
-picture: Bitte Url nachtragen
-region: Oranienburg
-country: Deutschland
+startLatitude: "52,756645"
+startLongitude: "13,244983"
+titel: "Fell-Julia"
+picture: "Bitte Url nachtragen"
+region: "Oranienburg"
+country: "Deutschland"
 completed: "11.652"
 missions: "72"
 date: "2023"
-bg-link: 
+bg-link: ""
 onyx: "0"
-description: Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg. Starte in der Bernauer Straße
-lengthKMeters: 19,4
-title: Fell-Julia
+description: "Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg. Starte in der Bernauer Straße"
+lengthKMeters: "19,4"
+title: "Fell-Julia"
 ---
 
 #{{ page.meta.title}}

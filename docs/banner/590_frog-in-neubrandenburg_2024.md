@@ -1,19 +1,19 @@
 ---
 nummer: "590"
-startLatitude: 53,561425
-startLongitude: 13,259994
-titel: Frog in Neubrandenburg
-picture: Bitte Url nachtragen
-region: Neubrandenburg
-country: Deutschland
+startLatitude: "53,561425"
+startLongitude: "13,259994"
+titel: "Frog in Neubrandenburg"
+picture: "Bitte Url nachtragen"
+region: "Neubrandenburg"
+country: "Deutschland"
 completed: "13.068"
 missions: "18"
 date: "2024"
-bg-link: https://bannergress.com/banner/frog-in-neubrandenburg-fbd3
+bg-link: "https://bannergress.com/banner/frog-in-neubrandenburg-fbd3"
 onyx: "0"
-description: Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde die Sehenswürdigkeiten und Denkmäler der Stadt.
-lengthKMeters: 4,795
-title: Frog in Neubrandenburg
+description: "Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde die Sehenswürdigkeiten und Denkmäler der Stadt."
+lengthKMeters: "4,795"
+title: "Frog in Neubrandenburg"
 ---
 
 #{{ page.meta.title}}

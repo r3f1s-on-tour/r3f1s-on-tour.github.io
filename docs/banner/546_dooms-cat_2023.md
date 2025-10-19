@@ -1,18 +1,18 @@
 ---
 nummer: "546"
-startLatitude: 50,8357
-startLongitude: 12,924143
+startLatitude: "50,8357"
+startLongitude: "12,924143"
 titel: "Do(o)m's Cat"
-picture: Bitte Url nachtragen
-region: Chemnitz
-country: Deutschland
+picture: "Bitte Url nachtragen"
+region: "Chemnitz"
+country: "Deutschland"
 completed: "12.120"
 missions: "48"
 date: "2023"
-bg-link: https://bannergress.com/banner/do-o-m-s-cat-1b2d
+bg-link: "https://bannergress.com/banner/do-o-m-s-cat-1b2d"
 onyx: "0"
-description: Explore Chemnitz Downtown while collecting the pieces of this Do(o)mCat
-lengthKMeters: 18,487
+description: "Explore Chemnitz Downtown while collecting the pieces of this Do(o)mCat"
+lengthKMeters: "18,487"
 title: "Do(o)m's Cat"
 ---
 

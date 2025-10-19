@@ -1,19 +1,19 @@
 ---
 nummer: "539"
-startLatitude: 53,56027
-startLongitude: 13,261232
-titel: Second Sunday Tower in Neubrandenburg
-picture: Bitte Url nachtragen
-region: Neubrandenburg
-country: Deutschland
+startLatitude: "53,56027"
+startLongitude: "13,261232"
+titel: "Second Sunday Tower in Neubrandenburg"
+picture: "Bitte Url nachtragen"
+region: "Neubrandenburg"
+country: "Deutschland"
 completed: "11.958"
 missions: "96"
 date: "2023"
-bg-link: https://bannergress.com/banner/second-sunday-tower-in-neubrandenburg-ca2b
+bg-link: "https://bannergress.com/banner/second-sunday-tower-in-neubrandenburg-ca2b"
 onyx: "0"
-description: Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Neubrandenburg. Starte am Bahnhof deine Runde
-lengthKMeters: 5,756
-title: Second Sunday Tower in Neubrandenburg
+description: "Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Neubrandenburg. Starte am Bahnhof deine Runde"
+lengthKMeters: "5,756"
+title: "Second Sunday Tower in Neubrandenburg"
 ---
 
 #{{ page.meta.title}}

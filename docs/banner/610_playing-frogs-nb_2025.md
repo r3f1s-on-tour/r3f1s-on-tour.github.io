@@ -2,18 +2,18 @@
 nummer: "610"
 startLatitude: "53.561265"
 startLongitude: "13.259266"
-titel: Playing Frogs NB
-picture: Bitte Url nachtragen
-region: Neubrandenburg
-country: Deutschland
+titel: "Playing Frogs NB"
+picture: "Bitte Url nachtragen"
+region: "Neubrandenburg"
+country: "Deutschland"
 completed: "13.362"
 missions: "24"
 date: "2025"
-bg-link: https://bannergress.com/banner/playing-frogs-nb-2fed
+bg-link: "https://bannergress.com/banner/playing-frogs-nb-2fed"
 onyx: "0"
-description: Diese Missionen führen entlang des Strandbads Brodas und dem Kulturpark von Neubrandenburg. Entdecke dabei auch die zahlreichen Skulpturen im Kulturpark.
-lengthKMeters: 6,965
-title: Playing Frogs NB
+description: "Diese Missionen führen entlang des Strandbads Brodas und dem Kulturpark von Neubrandenburg. Entdecke dabei auch die zahlreichen Skulpturen im Kulturpark."
+lengthKMeters: "6,965"
+title: "Playing Frogs NB"
 ---
 
 #{{ page.meta.title}}

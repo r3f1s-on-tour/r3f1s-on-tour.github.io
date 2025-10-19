@@ -1,19 +1,19 @@
 ---
 nummer: "612"
-startLatitude: 
-startLongitude: 
-titel: Marx is calling you - Berlin
-picture: 
-region: Berlin
-country: Deutschland
+startLatitude: ""
+startLongitude: ""
+titel: "Marx is calling you - Berlin"
+picture: ""
+region: "Berlin"
+country: "Deutschland"
 completed: "13.416"
 missions: "6"
 date: "2025"
-bg-link: 
+bg-link: ""
 onyx: "0"
-description: 
-lengthKMeters: 
-title: Marx is calling you - Berlin
+description: ""
+lengthKMeters: ""
+title: "Marx is calling you - Berlin"
 ---
 
 #{{ page.meta.title}}

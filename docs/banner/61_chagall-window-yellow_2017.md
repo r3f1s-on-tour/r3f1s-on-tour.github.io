@@ -2,18 +2,18 @@
 nummer: "61"
 startLatitude: "47.374777"
 startLongitude: "8.537097"
-titel: Chagall Window yellow
-picture: 
-region: Zürich
-country: Schweiz/Suisse/Svizzera/Svizra
+titel: "Chagall Window yellow"
+picture: ""
+region: "Zürich"
+country: "Schweiz/Suisse/Svizzera/Svizra"
 completed: "1356"
 missions: "6"
 date: "2017"
-bg-link: https://bannergress.com/banner/chagall-window-yellow-b02b
+bg-link: "https://bannergress.com/banner/chagall-window-yellow-b02b"
 onyx: "0"
-description: 
-lengthKMeters: 1,20
-title: Chagall Window yellow
+description: ""
+lengthKMeters: "1,20"
+title: "Chagall Window yellow"
 ---
 
 #{{ page.meta.title}}

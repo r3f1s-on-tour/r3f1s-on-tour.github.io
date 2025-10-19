@@ -1,19 +1,19 @@
 ---
 nummer: "568"
-startLatitude: 51,749995
-startLongitude: 14,324926
-titel: Visit Cottbus
-picture: Bitte Url nachtragen
-region: Cottbus - Chóśebuz
-country: Deutschland
+startLatitude: "51,749995"
+startLongitude: "14,324926"
+titel: "Visit Cottbus"
+picture: "Bitte Url nachtragen"
+region: "Cottbus - Chóśebuz"
+country: "Deutschland"
 completed: "12.558"
 missions: "6"
 date: "2023"
-bg-link: https://bannergress.com/banner/visit-cottbus-70f4
+bg-link: "https://bannergress.com/banner/visit-cottbus-70f4"
 onyx: "0"
-description: Diese Mission beginnt am Bahnhof und geht über die Bahnhofstraße in Richtung Theater.
-lengthKMeters: 5,169
-title: Visit Cottbus
+description: "Diese Mission beginnt am Bahnhof und geht über die Bahnhofstraße in Richtung Theater."
+lengthKMeters: "5,169"
+title: "Visit Cottbus"
 ---
 
 #{{ page.meta.title}}

@@ -1,20 +1,19 @@
 ---
 nummer: "548"
-startLatitude: 52,687011
-startLongitude: 13,282528
-titel: MZFPK-Birkenwerder
-picture: Bitte Url nachtragen
-region: Birkenwerder
-country: Deutschland
+startLatitude: "52,687011"
+startLongitude: "13,282528"
+titel: "MZFPK-Birkenwerder"
+picture: "Bitte Url nachtragen"
+region: "Birkenwerder"
+country: "Deutschland"
 completed: "12.132"
 missions: "6"
 date: "2023"
-bg-link: https://bannergress.com/banner/mzfpk-birkenwerder-20c4
+bg-link: "https://bannergress.com/banner/mzfpk-birkenwerder-20c4"
 onyx: "0"
-description: "Erkunde Birkenwerder zum MZFPK am 18.März
-Builder.Enginer-Hacker-Purifier-Translator-Trekker"
-lengthKMeters: 0,926
-title: MZFPK-Birkenwerder
+description: "Erkunde Birkenwerder zum MZFPK am 18.März\nBuilder.Enginer-Hacker-Purifier-Translator-Trekker"
+lengthKMeters: "0,926"
+title: "MZFPK-Birkenwerder"
 ---
 
 #{{ page.meta.title}}

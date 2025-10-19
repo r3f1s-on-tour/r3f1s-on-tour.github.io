@@ -1,19 +1,19 @@
 ---
 nummer: "495"
-startLatitude: 50,942198
-startLongitude: 6,958069
-titel: Dom-Panorama
-picture: Bitte Url nachtragen
-region: Köln
-country: Deutschland
+startLatitude: "50,942198"
+startLongitude: "6,958069"
+titel: "Dom-Panorama"
+picture: "Bitte Url nachtragen"
+region: "Köln"
+country: "Deutschland"
 completed: "10.590"
 missions: "24"
 date: "2022"
-bg-link: https://bannergress.com/banner/dom-panorama-06e2
+bg-link: "https://bannergress.com/banner/dom-panorama-06e2"
 onyx: "0"
-description: Diese Mission führt an der Nordseite des Doms vorbei. Alle 24 Missionen ergeben ein Panoramabild von Dom und Hohenzollernbrücke.
-lengthKMeters: 6,941
-title: Dom-Panorama
+description: "Diese Mission führt an der Nordseite des Doms vorbei. Alle 24 Missionen ergeben ein Panoramabild von Dom und Hohenzollernbrücke."
+lengthKMeters: "6,941"
+title: "Dom-Panorama"
 ---
 
 #{{ page.meta.title}}

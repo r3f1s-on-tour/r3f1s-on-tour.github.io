@@ -1,19 +1,19 @@
 ---
 nummer: "621"
-startLatitude: 
-startLongitude: 
-titel: MD Cambridge
-picture: 
-region: Cambridge
-country: Großbritannien
+startLatitude: ""
+startLongitude: ""
+titel: "MD Cambridge"
+picture: ""
+region: "Cambridge"
+country: "Großbritannien"
 completed: "13.524"
 missions: "12"
 date: "2025"
-bg-link: 
+bg-link: ""
 onyx: "0"
-description: 
-lengthKMeters: 
-title: MD Cambridge
+description: ""
+lengthKMeters: ""
+title: "MD Cambridge"
 ---
 
 #{{ page.meta.title}}

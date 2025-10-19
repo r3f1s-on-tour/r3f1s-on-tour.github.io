@@ -1,19 +1,19 @@
 ---
 nummer: "491"
-startLatitude: 53,506861
-startLongitude: 13,74885
-titel: Deifel in Strasburg
-picture: Bitte Url nachtragen
-region: Strasburg (Uckermark)
-country: Deutschland
+startLatitude: "53,506861"
+startLongitude: "13,74885"
+titel: "Deifel in Strasburg"
+picture: "Bitte Url nachtragen"
+region: "Strasburg (Uckermark)"
+country: "Deutschland"
 completed: "10.536"
 missions: "6"
 date: "2022"
-bg-link: 
+bg-link: ""
 onyx: "0"
-description: Starte am Marktplatz  einen Rundgang und entdecke Strasburg. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet auf dem Marktplatz
+description: "Starte am Marktplatz  einen Rundgang und entdecke Strasburg. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet auf dem Marktplatz"
 lengthKMeters: "2"
-title: Deifel in Strasburg
+title: "Deifel in Strasburg"
 ---
 
 #{{ page.meta.title}}

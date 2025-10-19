@@ -2,18 +2,18 @@
 nummer: "147"
 startLatitude: "48.367413"
 startLongitude: "10.89815"
-titel: Süße Verführung in Augsburg
-picture: https://lh3.googleusercontent.com/pw/AM-JKLUwW9dhPjbjUoxAc9J2PZAhDcDc1qXFEdgNFLWs7AOGQTl-vNrkq5x5wpa1rmjKqdA7qjuvYo-SSsylwmUs8omJ41nha_0usUVnsT1g2p6Al7JojAdt4syaBvpcmIUm6j73K4fmCuaiBecNR06q0kxk3g=w1080-h759-no?authuser=0
-region: Augsburg
-country: Deutschland
+titel: "Süße Verführung in Augsburg"
+picture: "https://lh3.googleusercontent.com/pw/AM-JKLUwW9dhPjbjUoxAc9J2PZAhDcDc1qXFEdgNFLWs7AOGQTl-vNrkq5x5wpa1rmjKqdA7qjuvYo-SSsylwmUs8omJ41nha_0usUVnsT1g2p6Al7JojAdt4syaBvpcmIUm6j73K4fmCuaiBecNR06q0kxk3g=w1080-h759-no?authuser=0"
+region: "Augsburg"
+country: "Deutschland"
 completed: "3576"
 missions: "30"
 date: "2018"
-bg-link: 
+bg-link: ""
 onyx: "0"
-description: 
-lengthKMeters: 
-title: Süße Verführung in Augsburg
+description: ""
+lengthKMeters: ""
+title: "Süße Verführung in Augsburg"
 ---
 
 #{{ page.meta.title}}

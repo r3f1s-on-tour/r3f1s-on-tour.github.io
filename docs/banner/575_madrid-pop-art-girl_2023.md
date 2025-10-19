@@ -1,19 +1,19 @@
 ---
 nummer: "575"
-startLatitude: 40,418027
-startLongitude: -3,699493
-titel: MADRID POP ART GIRL
-picture: Bitte Url nachtragen
-region: Madrid
-country: España
+startLatitude: "40,418027"
+startLongitude: "-3,699493"
+titel: "MADRID POP ART GIRL"
+picture: "Bitte Url nachtragen"
+region: "Madrid"
+country: "España"
 completed: "12.750"
 missions: "48"
 date: "2023"
-bg-link: https://bannergress.com/banner/madrid-pop-art-girl-fa2f
+bg-link: "https://bannergress.com/banner/madrid-pop-art-girl-fa2f"
 onyx: "0"
-description: Descubre los lugares más emblematicos y con encato de Madrid. Desde Sol a la Plaza de la Villa, pasando por la Plaza de Oriente.
-lengthKMeters: 8,268
-title: MADRID POP ART GIRL
+description: "Descubre los lugares más emblematicos y con encato de Madrid. Desde Sol a la Plaza de la Villa, pasando por la Plaza de Oriente."
+lengthKMeters: "8,268"
+title: "MADRID POP ART GIRL"
 ---
 
 #{{ page.meta.title}}

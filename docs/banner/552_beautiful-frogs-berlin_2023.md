@@ -1,19 +1,19 @@
 ---
 nummer: "552"
-startLatitude: 52,54767
-startLongitude: 13,413923
-titel: Beautiful Frogs Berlin
-picture: Bitte Url nachtragen
-region: Berlin
-country: Deutschland
+startLatitude: "52,54767"
+startLongitude: "13,413923"
+titel: "Beautiful Frogs Berlin"
+picture: "Bitte Url nachtragen"
+region: "Berlin"
+country: "Deutschland"
 completed: "12.258"
 missions: "6"
 date: "2023"
-bg-link: https://bannergress.com/banner/beautiful-frogs-berlin-35db
+bg-link: "https://bannergress.com/banner/beautiful-frogs-berlin-35db"
 onyx: "0"
-description: Have a walk around the Gethsemane church.
-lengthKMeters: 1,459
-title: Beautiful Frogs Berlin
+description: "Have a walk around the Gethsemane church."
+lengthKMeters: "1,459"
+title: "Beautiful Frogs Berlin"
 ---
 
 #{{ page.meta.title}}

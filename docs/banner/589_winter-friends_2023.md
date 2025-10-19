@@ -1,19 +1,19 @@
 ---
 nummer: "589"
-startLatitude: 51,038546
-startLongitude: 13,702053
-titel: Winter Friends
-picture: Bitte Url nachtragen
-region: Dresden
-country: Deutschland
+startLatitude: "51,038546"
+startLongitude: "13,702053"
+titel: "Winter Friends"
+picture: "Bitte Url nachtragen"
+region: "Dresden"
+country: "Deutschland"
 completed: "13.050"
 missions: "6"
 date: "2023"
-bg-link: https://bannergress.com/banner/winter-friends-95cd
+bg-link: "https://bannergress.com/banner/winter-friends-95cd"
 onyx: "0"
-description: Geh mit deinen Freunden durch Löbtau
-lengthKMeters: 1,889
-title: Winter Friends
+description: "Geh mit deinen Freunden durch Löbtau"
+lengthKMeters: "1,889"
+title: "Winter Friends"
 ---
 
 #{{ page.meta.title}}

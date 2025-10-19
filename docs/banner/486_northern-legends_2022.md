@@ -1,19 +1,19 @@
 ---
 nummer: "486"
-startLatitude: 52,50834
-startLongitude: 13,45134
-titel: Northern Legends
-picture: Bitte Url nachtragen
-region: Berlin
-country: Deutschland
+startLatitude: "52,50834"
+startLongitude: "13,45134"
+titel: "Northern Legends"
+picture: "Bitte Url nachtragen"
+region: "Berlin"
+country: "Deutschland"
 completed: "10.488"
 missions: "6"
 date: "2022"
-bg-link: https://bannergress.com/banner/northern-legends-5c88
+bg-link: "https://bannergress.com/banner/northern-legends-5c88"
 onyx: "0"
-description: Follow your path through the neighborhood of Friedrichshain.
-lengthKMeters: 1,259
-title: Northern Legends
+description: "Follow your path through the neighborhood of Friedrichshain."
+lengthKMeters: "1,259"
+title: "Northern Legends"
 ---
 
 #{{ page.meta.title}}

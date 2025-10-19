@@ -1,19 +1,19 @@
 ---
 nummer: "578"
-startLatitude: 40,417009
-startLongitude: -3,70231
-titel: La Muerte
-picture: Bitte Url nachtragen
-region: Madrid
-country: España
+startLatitude: "40,417009"
+startLongitude: "-3,70231"
+titel: "La Muerte"
+picture: "Bitte Url nachtragen"
+region: "Madrid"
+country: "España"
 completed: "12.840"
 missions: "36"
 date: "2023"
-bg-link: https://bannergress.com/banner/la-muerte-c60f
+bg-link: "https://bannergress.com/banner/la-muerte-c60f"
 onyx: "0"
-description: recorrido por la puerta del sol
-lengthKMeters: 9,344
-title: La Muerte
+description: "recorrido por la puerta del sol"
+lengthKMeters: "9,344"
+title: "La Muerte"
 ---
 
 #{{ page.meta.title}}

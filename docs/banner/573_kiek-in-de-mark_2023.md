@@ -1,19 +1,19 @@
 ---
 nummer: "573"
-startLatitude: 53,502666
-startLongitude: 13,989784
-titel: Kiek in de Mark
-picture: Bitte Url nachtragen
-region: Pasewalk
-country: Deutschland
+startLatitude: "53,502666"
+startLongitude: "13,989784"
+titel: "Kiek in de Mark"
+picture: "Bitte Url nachtragen"
+region: "Pasewalk"
+country: "Deutschland"
 completed: "12.630"
 missions: "6"
 date: "2023"
-bg-link: https://bannergress.com/banner/kiek-in-de-mark-80d9
+bg-link: "https://bannergress.com/banner/kiek-in-de-mark-80d9"
 onyx: "0"
-description: Walk through the city and pick up a banner with the tower in rainbow colours.
-lengthKMeters: 3,24
-title: Kiek in de Mark
+description: "Walk through the city and pick up a banner with the tower in rainbow colours."
+lengthKMeters: "3,24"
+title: "Kiek in de Mark"
 ---
 
 #{{ page.meta.title}}

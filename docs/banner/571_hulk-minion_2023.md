@@ -1,19 +1,19 @@
 ---
 nummer: "571"
-startLatitude: 51,42971
-startLongitude: 14,23195
-titel: Hulk-Minion
-picture: Bitte Url nachtragen
-region: Dörgenhausen - Němcy
-country: Deutschland
+startLatitude: "51,42971"
+startLongitude: "14,23195"
+titel: "Hulk-Minion"
+picture: "Bitte Url nachtragen"
+region: "Dörgenhausen - Němcy"
+country: "Deutschland"
 completed: "12.618"
 missions: "18"
 date: "2023"
-bg-link: https://bannergress.com/banner/hulk-minion-941a
+bg-link: "https://bannergress.com/banner/hulk-minion-941a"
 onyx: "0"
-description: Starte eine Tour durch Hoyerswerda und puzzle dir diesen kleinen Minion zusammen...
-lengthKMeters: 8,602
-title: Hulk-Minion
+description: "Starte eine Tour durch Hoyerswerda und puzzle dir diesen kleinen Minion zusammen..."
+lengthKMeters: "8,602"
+title: "Hulk-Minion"
 ---
 
 #{{ page.meta.title}}

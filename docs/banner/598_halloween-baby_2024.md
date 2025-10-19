@@ -1,19 +1,19 @@
 ---
 nummer: "598"
-startLatitude: 39,473851
-startLongitude: -0,375319
-titel: Halloween Baby
-picture: Bitte Url nachtragen
-region: València
-country: España
+startLatitude: "39,473851"
+startLongitude: "-0,375319"
+titel: "Halloween Baby"
+picture: "Bitte Url nachtragen"
+region: "València"
+country: "España"
 completed: "13.200"
 missions: "30"
 date: "2024"
-bg-link: https://bannergress.com/banner/halloween-baby-d7fe
+bg-link: "https://bannergress.com/banner/halloween-baby-d7fe"
 onyx: "0"
-description: Recorre nuestra capital y llévate pequeño recuerdo de Halloween 2019
-lengthKMeters: 4,536
-title: Halloween Baby
+description: "Recorre nuestra capital y llévate pequeño recuerdo de Halloween 2019"
+lengthKMeters: "4,536"
+title: "Halloween Baby"
 ---
 
 #{{ page.meta.title}}

@@ -1,22 +1,19 @@
 ---
 nummer: "510"
-startLatitude: 51,255334
-startLongitude: 7,145981
-titel: A fantasy Icon
-picture: Bitte Url nachtragen
-region: Wuppertal
-country: Deutschland
+startLatitude: "51,255334"
+startLongitude: "7,145981"
+titel: "A fantasy Icon"
+picture: "Bitte Url nachtragen"
+region: "Wuppertal"
+country: "Deutschland"
 completed: "10.878"
 missions: "18"
 date: "2022"
-bg-link: https://bannergress.com/banner/a-fantasy-icon-7e9d
+bg-link: "https://bannergress.com/banner/a-fantasy-icon-7e9d"
 onyx: "0"
-description: "At last, Sir Terry we must walk together
-A tribute mission through Wuppertal
-
-With pretty hard questions. If you need help contact @ElliOpp via telegram."
-lengthKMeters: 3,869
-title: A fantasy Icon
+description: "At last, Sir Terry we must walk together\nA tribute mission through Wuppertal\n\nWith pretty hard questions. If you need help contact @ElliOpp via telegram."
+lengthKMeters: "3,869"
+title: "A fantasy Icon"
 ---
 
 #{{ page.meta.title}}

@@ -1,19 +1,19 @@
 ---
 nummer: "514"
-startLatitude: 50,741751
-startLongitude: 7,095997
-titel: Cherry Blossom
-picture: Bitte Url nachtragen
-region: Bonn
-country: Deutschland
+startLatitude: "50,741751"
+startLongitude: "7,095997"
+titel: "Cherry Blossom"
+picture: "Bitte Url nachtragen"
+region: "Bonn"
+country: "Deutschland"
 completed: "10.944"
 missions: "24"
 date: "2022"
-bg-link: https://bannergress.com/banner/cherry-blossom-7cc3
+bg-link: "https://bannergress.com/banner/cherry-blossom-7cc3"
 onyx: "0"
-description: Welcome to Bonn! Have a great time and enjoy the Cherry Blossom.
-lengthKMeters: 5,954
-title: Cherry Blossom
+description: "Welcome to Bonn! Have a great time and enjoy the Cherry Blossom."
+lengthKMeters: "5,954"
+title: "Cherry Blossom"
 ---
 
 #{{ page.meta.title}}

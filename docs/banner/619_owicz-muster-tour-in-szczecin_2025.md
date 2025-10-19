@@ -1,19 +1,19 @@
 ---
 nummer: "619"
-startLatitude: 
-startLongitude: 
-titel: Łowicz-Muster Tour in Szczecin
-picture: 
-region: Szczecin
-country: Polska
+startLatitude: ""
+startLongitude: ""
+titel: "Łowicz-Muster Tour in Szczecin"
+picture: ""
+region: "Szczecin"
+country: "Polska"
 completed: "13.506"
 missions: "6"
 date: "2025"
-bg-link: 
+bg-link: ""
 onyx: "0"
-description: 
-lengthKMeters: 
-title: Łowicz-Muster Tour in Szczecin
+description: ""
+lengthKMeters: ""
+title: "Łowicz-Muster Tour in Szczecin"
 ---
 
 #{{ page.meta.title}}

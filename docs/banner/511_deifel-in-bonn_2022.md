@@ -1,19 +1,19 @@
 ---
 nummer: "511"
-startLatitude: 50,732038
-startLongitude: 7,097646
-titel: Deifel in Bonn
-picture: Bitte Url nachtragen
-region: Bonn
-country: Deutschland
+startLatitude: "50,732038"
+startLongitude: "7,097646"
+titel: "Deifel in Bonn"
+picture: "Bitte Url nachtragen"
+region: "Bonn"
+country: "Deutschland"
 completed: "10.884"
 missions: "6"
 date: "2022"
-bg-link: https://bannergress.com/banner/deifel-in-bonn-c2e4
+bg-link: "https://bannergress.com/banner/deifel-in-bonn-c2e4"
 onyx: "0"
-description: Starte am Hauptbahnhof einen Rundgang und entdecke Wuppertal. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet wieder am Hauptbahnhof
+description: "Starte am Hauptbahnhof einen Rundgang und entdecke Wuppertal. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet wieder am Hauptbahnhof"
 lengthKMeters: "3"
-title: Deifel in Bonn
+title: "Deifel in Bonn"
 ---
 
 #{{ page.meta.title}}

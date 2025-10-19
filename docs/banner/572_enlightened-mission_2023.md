@@ -1,19 +1,19 @@
 ---
 nummer: "572"
-startLatitude: 51,435879
-startLongitude: 14,259929
-titel: Enlightened Mission
-picture: Bitte Url nachtragen
-region: Hoyerswerda - Wojerecy
-country: Deutschland
+startLatitude: "51,435879"
+startLongitude: "14,259929"
+titel: "Enlightened Mission"
+picture: "Bitte Url nachtragen"
+region: "Hoyerswerda - Wojerecy"
+country: "Deutschland"
 completed: "12.624"
 missions: "6"
 date: "2023"
-bg-link: https://bannergress.com/banner/enlightened-mission-6db8
+bg-link: "https://bannergress.com/banner/enlightened-mission-6db8"
 onyx: "0"
-description: Ne Fixe Runde durch Hoyerswerda damit hier die Erleuchtung wieder einkehrt!
-lengthKMeters: 5,127
-title: Enlightened Mission
+description: "Ne Fixe Runde durch Hoyerswerda damit hier die Erleuchtung wieder einkehrt!"
+lengthKMeters: "5,127"
+title: "Enlightened Mission"
 ---
 
 #{{ page.meta.title}}

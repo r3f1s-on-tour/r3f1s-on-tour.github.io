@@ -1,19 +1,19 @@
 ---
 nummer: "543"
-startLatitude: 53,507919
-startLongitude: 13,746105
-titel: A Second Sunday Cat Paws in Strasburg
-picture: Bitte Url nachtragen
-region: Strasburg (Uckermark)
-country: Deutschland
+startLatitude: "53,507919"
+startLongitude: "13,746105"
+titel: "A Second Sunday Cat Paws in Strasburg"
+picture: "Bitte Url nachtragen"
+region: "Strasburg (Uckermark)"
+country: "Deutschland"
 completed: "12.000"
 missions: "6"
 date: "2023"
-bg-link: https://bannergress.com/banner/a-second-sunday-cat-paws-in-strasburg-9199
+bg-link: "https://bannergress.com/banner/a-second-sunday-cat-paws-in-strasburg-9199"
 onyx: "1"
-description: Beginne eine Runde durch Strasburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Strasburg. Starte in der Schulstraße
-lengthKMeters: 1,047
-title: A Second Sunday Cat Paws in Strasburg
+description: "Beginne eine Runde durch Strasburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Strasburg. Starte in der Schulstraße"
+lengthKMeters: "1,047"
+title: "A Second Sunday Cat Paws in Strasburg"
 ---
 
 #{{ page.meta.title}}

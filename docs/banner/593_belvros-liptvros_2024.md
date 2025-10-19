@@ -1,19 +1,19 @@
 ---
 nummer: "593"
-startLatitude: 47,497523
-startLongitude: 19,054263
-titel: Belváros-Lipótváros
-picture: Bitte Url nachtragen
-region: Budapest
-country: Magyarország
+startLatitude: "47,497523"
+startLongitude: "19,054263"
+titel: "Belváros-Lipótváros"
+picture: "Bitte Url nachtragen"
+region: "Budapest"
+country: "Magyarország"
 completed: "13.110"
 missions: "24"
 date: "2024"
-bg-link: https://bannergress.com/banner/belv%C3%A1ros-lip%C3%B3tv%C3%A1ros-57e4
+bg-link: "https://bannergress.com/banner/belv%C3%A1ros-lip%C3%B3tv%C3%A1ros-57e4"
 onyx: "0"
-description: Discover the central part of Budapest in District V, situated on the east bank of the river Danube.
-lengthKMeters: 4,671
-title: Belváros-Lipótváros
+description: "Discover the central part of Budapest in District V, situated on the east bank of the river Danube."
+lengthKMeters: "4,671"
+title: "Belváros-Lipótváros"
 ---
 
 #{{ page.meta.title}}

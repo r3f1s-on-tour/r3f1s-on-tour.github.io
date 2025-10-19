@@ -1,19 +1,19 @@
 ---
 nummer: "488"
-startLatitude: 52,756318
-startLongitude: 13,244588
-titel: Black Cats in Oranienburg
-picture: Bitte Url nachtragen
-region: Oranienburg
-country: Deutschland
+startLatitude: "52,756318"
+startLongitude: "13,244588"
+titel: "Black Cats in Oranienburg"
+picture: "Bitte Url nachtragen"
+region: "Oranienburg"
+country: "Deutschland"
 completed: "10.506"
 missions: "6"
 date: "2022"
-bg-link: 
+bg-link: ""
 onyx: "0"
-description: Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
-lengthKMeters: 1,259
-title: Black Cats in Oranienburg
+description: "Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße."
+lengthKMeters: "1,259"
+title: "Black Cats in Oranienburg"
 ---
 
 #{{ page.meta.title}}

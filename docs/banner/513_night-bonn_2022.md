@@ -1,19 +1,19 @@
 ---
 nummer: "513"
-startLatitude: 50,73647
-startLongitude: 7,104341
-titel: Night Bonn
-picture: Bitte Url nachtragen
-region: Bonn
-country: Deutschland
+startLatitude: "50,73647"
+startLongitude: "7,104341"
+titel: "Night Bonn"
+picture: "Bitte Url nachtragen"
+region: "Bonn"
+country: "Deutschland"
 completed: "10.920"
 missions: "18"
 date: "2022"
-bg-link: https://bannergress.com/banner/night-bonn-26dc
+bg-link: "https://bannergress.com/banner/night-bonn-26dc"
 onyx: "0"
-description: Walking in the city center
-lengthKMeters: 4,149
-title: Night Bonn
+description: "Walking in the city center"
+lengthKMeters: "4,149"
+title: "Night Bonn"
 ---
 
 #{{ page.meta.title}}

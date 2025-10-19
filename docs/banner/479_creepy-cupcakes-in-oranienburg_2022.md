@@ -1,19 +1,19 @@
 ---
 nummer: "479"
-startLatitude: 52,756318
-startLongitude: 13,244588
-titel: Creepy Cupcakes in Oranienburg
-picture: Bitte Url nachtragen
-region: Oranienburg
-country: Deutschland
+startLatitude: "52,756318"
+startLongitude: "13,244588"
+titel: "Creepy Cupcakes in Oranienburg"
+picture: "Bitte Url nachtragen"
+region: "Oranienburg"
+country: "Deutschland"
 completed: "10.410"
 missions: "6"
 date: "2022"
-bg-link: 
+bg-link: ""
 onyx: "0"
-description: Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
-lengthKMeters: 1,599
-title: Creepy Cupcakes in Oranienburg
+description: "Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße."
+lengthKMeters: "1,599"
+title: "Creepy Cupcakes in Oranienburg"
 ---
 
 #{{ page.meta.title}}

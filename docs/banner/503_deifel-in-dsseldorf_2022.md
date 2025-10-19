@@ -1,19 +1,19 @@
 ---
 nummer: "503"
-startLatitude: 51,220016
-startLongitude: 6,79448
-titel: Deifel in Düsseldorf
-picture: Bitte Url nachtragen
-region: Düsseldorf
-country: Deutschland
+startLatitude: "51,220016"
+startLongitude: "6,79448"
+titel: "Deifel in Düsseldorf"
+picture: "Bitte Url nachtragen"
+region: "Düsseldorf"
+country: "Deutschland"
 completed: "10.752"
 missions: "6"
 date: "2022"
-bg-link: https://bannergress.com/banner/deifel-in-d%C3%BCsseldorf-0642
+bg-link: "https://bannergress.com/banner/deifel-in-d%C3%BCsseldorf-0642"
 onyx: "0"
-description: Starte am Hauptbahnhof einen Rundgang und entdecke Düsseldorf. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet wieder am Hauptbahnhof
+description: "Starte am Hauptbahnhof einen Rundgang und entdecke Düsseldorf. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet wieder am Hauptbahnhof"
 lengthKMeters: "4"
-title: Deifel in Düsseldorf
+title: "Deifel in Düsseldorf"
 ---
 
 #{{ page.meta.title}}

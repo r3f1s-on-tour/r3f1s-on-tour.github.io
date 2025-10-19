@@ -1,19 +1,19 @@
 ---
 nummer: "557"
-startLatitude: 50,946435
-startLongitude: 7,455323
-titel: Frog Wall Drabenderhöhe
-picture: Bitte Url nachtragen
-region: Drabenderhöhe
-country: Deutschland
+startLatitude: "50,946435"
+startLongitude: "7,455323"
+titel: "Frog Wall Drabenderhöhe"
+picture: "Bitte Url nachtragen"
+region: "Drabenderhöhe"
+country: "Deutschland"
 completed: "12.390"
 missions: "6"
 date: "2023"
-bg-link: https://bannergress.com/banner/frog-wall-drabenderh%C3%B6he-176f
+bg-link: "https://bannergress.com/banner/frog-wall-drabenderh%C3%B6he-176f"
 onyx: "0"
-description: Kleine Runde um die Kirche und dem Turm der Erinnerung in Drabenderhöhe.
-lengthKMeters: 2,081
-title: Frog Wall Drabenderhöhe
+description: "Kleine Runde um die Kirche und dem Turm der Erinnerung in Drabenderhöhe."
+lengthKMeters: "2,081"
+title: "Frog Wall Drabenderhöhe"
 ---
 
 #{{ page.meta.title}}

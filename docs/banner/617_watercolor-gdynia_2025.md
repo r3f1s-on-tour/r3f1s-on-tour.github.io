@@ -1,19 +1,19 @@
 ---
 nummer: "617"
-startLatitude: 
-startLongitude: 
-titel: Watercolor Gdynia
-picture: 
-region: Gdynia
-country: Polska
+startLatitude: ""
+startLongitude: ""
+titel: "Watercolor Gdynia"
+picture: ""
+region: "Gdynia"
+country: "Polska"
 completed: "13.488"
 missions: "18"
 date: "2025"
-bg-link: 
+bg-link: ""
 onyx: "0"
-description: 
-lengthKMeters: 
-title: Watercolor Gdynia
+description: ""
+lengthKMeters: ""
+title: "Watercolor Gdynia"
 ---
 
 #{{ page.meta.title}}

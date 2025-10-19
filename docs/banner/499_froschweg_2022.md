@@ -1,19 +1,19 @@
 ---
 nummer: "499"
-startLatitude: 50,941403
-startLongitude: 6,956613
-titel: Froschweg
-picture: Bitte Url nachtragen
-region: Köln
-country: Deutschland
+startLatitude: "50,941403"
+startLongitude: "6,956613"
+titel: "Froschweg"
+picture: "Bitte Url nachtragen"
+region: "Köln"
+country: "Deutschland"
 completed: "10.680"
 missions: "12"
 date: "2022"
-bg-link: https://bannergress.com/banner/froschweg-a707
+bg-link: "https://bannergress.com/banner/froschweg-a707"
 onyx: "0"
-description: Durch die kleinen Gassen von Köln
-lengthKMeters: 2,81
-title: Froschweg
+description: "Durch die kleinen Gassen von Köln"
+lengthKMeters: "2,81"
+title: "Froschweg"
 ---
 
 #{{ page.meta.title}}

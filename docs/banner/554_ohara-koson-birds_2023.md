@@ -1,19 +1,19 @@
 ---
 nummer: "554"
-startLatitude: 53,56027
-startLongitude: 13,261232
-titel: Ohara Koson Birds
-picture: Bitte Url nachtragen
-region: Neubrandenburg
-country: Deutschland
+startLatitude: "53,56027"
+startLongitude: "13,261232"
+titel: "Ohara Koson Birds"
+picture: "Bitte Url nachtragen"
+region: "Neubrandenburg"
+country: "Deutschland"
 completed: "12.360"
 missions: "96"
 date: "2023"
-bg-link: https://bannergress.com/banner/second-sunday-bird-in-neubrandenburg-fff5
+bg-link: "https://bannergress.com/banner/second-sunday-bird-in-neubrandenburg-fff5"
 onyx: "0"
-description: Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Neubrandenburg. Starte am Bahnhof deine Runde
-lengthKMeters: 5,756
-title: Ohara Koson Birds
+description: "Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Neubrandenburg. Starte am Bahnhof deine Runde"
+lengthKMeters: "5,756"
+title: "Ohara Koson Birds"
 ---
 
 #{{ page.meta.title}}

@@ -1,19 +1,19 @@
 ---
 nummer: "481"
-startLatitude: 52,756318
-startLongitude: 13,244588
-titel: Halloween Ghosts in Oranienburg
-picture: Bitte Url nachtragen
-region: Oranienburg
-country: Deutschland
+startLatitude: "52,756318"
+startLongitude: "13,244588"
+titel: "Halloween Ghosts in Oranienburg"
+picture: "Bitte Url nachtragen"
+region: "Oranienburg"
+country: "Deutschland"
 completed: "10.422"
 missions: "6"
 date: "2022"
-bg-link: https://bannergress.com/banner/halloween-ghosts-in-oranienburg-b9e6
+bg-link: "https://bannergress.com/banner/halloween-ghosts-in-oranienburg-b9e6"
 onyx: "0"
-description: Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
-lengthKMeters: 1,599
-title: Halloween Ghosts in Oranienburg
+description: "Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße."
+lengthKMeters: "1,599"
+title: "Halloween Ghosts in Oranienburg"
 ---
 
 #{{ page.meta.title}}

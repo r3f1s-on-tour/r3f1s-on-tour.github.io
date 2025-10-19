@@ -1,19 +1,19 @@
 ---
 nummer: "493"
-startLatitude: 52,756491
-startLongitude: 13,245295
-titel: Mein grüner Kaktus in Oranienburg
-picture: Bitte Url nachtragen
-region: Oranienburg
-country: Deutschland
+startLatitude: "52,756491"
+startLongitude: "13,245295"
+titel: "Mein grüner Kaktus in Oranienburg"
+picture: "Bitte Url nachtragen"
+region: "Oranienburg"
+country: "Deutschland"
 completed: "10.560"
 missions: "18"
 date: "2022"
-bg-link: https://bannergress.com/banner/mein-gr%C3%BCner-kaktus-in-oranienburg-fa23
+bg-link: "https://bannergress.com/banner/mein-gr%C3%BCner-kaktus-in-oranienburg-fa23"
 onyx: "0"
-description: Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
+description: "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße"
 lengthKMeters: "8"
-title: Mein grüner Kaktus in Oranienburg
+title: "Mein grüner Kaktus in Oranienburg"
 ---
 
 #{{ page.meta.title}}

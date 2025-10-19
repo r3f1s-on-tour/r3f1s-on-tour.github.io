@@ -1,19 +1,19 @@
 ---
 nummer: "561"
-startLatitude: 53,506861
-startLongitude: 13,74885
-titel: A Echo XM Anomaly Strasburg UM
-picture: Bitte Url nachtragen
-region: Strasburg (Uckermark)
-country: Deutschland
+startLatitude: "53,506861"
+startLongitude: "13,74885"
+titel: "A Echo XM Anomaly Strasburg UM"
+picture: "Bitte Url nachtragen"
+region: "Strasburg (Uckermark)"
+country: "Deutschland"
 completed: "12.432"
 missions: "6"
 date: "2023"
-bg-link: https://bannergress.com/banner/a-echo-xm-anomaly-strasburg-um-381b
+bg-link: "https://bannergress.com/banner/a-echo-xm-anomaly-strasburg-um-381b"
 onyx: "0"
-description: Führen Sie anlässlich der Echo XM Anomaly in Athen eine Event-Mission durch.
-lengthKMeters: 2,058
-title: A Echo XM Anomaly Strasburg UM
+description: "Führen Sie anlässlich der Echo XM Anomaly in Athen eine Event-Mission durch."
+lengthKMeters: "2,058"
+title: "A Echo XM Anomaly Strasburg UM"
 ---
 
 #{{ page.meta.title}}

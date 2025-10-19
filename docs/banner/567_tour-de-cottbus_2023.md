@@ -1,19 +1,19 @@
 ---
 nummer: "567"
-startLatitude: 51,757653
-startLongitude: 14,333559
-titel: Tour de Cottbus
-picture: Bitte Url nachtragen
-region: Cottbus - Chóśebuz
-country: Deutschland
+startLatitude: "51,757653"
+startLongitude: "14,333559"
+titel: "Tour de Cottbus"
+picture: "Bitte Url nachtragen"
+region: "Cottbus - Chóśebuz"
+country: "Deutschland"
 completed: "12.552"
 missions: "24"
 date: "2023"
-bg-link: https://bannergress.com/banner/tour-de-cottbus-f2cd
+bg-link: "https://bannergress.com/banner/tour-de-cottbus-f2cd"
 onyx: "0"
-description: Etappe 1 von 24 beginnt am Wahrzeichen von Cottbus und ist eine Runde um den  Spremberger Turm. Am letzten Portal gibt es den Hinweis auf die nächste Etappe.
-lengthKMeters: 16,661
-title: Tour de Cottbus
+description: "Etappe 1 von 24 beginnt am Wahrzeichen von Cottbus und ist eine Runde um den  Spremberger Turm. Am letzten Portal gibt es den Hinweis auf die nächste Etappe."
+lengthKMeters: "16,661"
+title: "Tour de Cottbus"
 ---
 
 #{{ page.meta.title}}

@@ -1,19 +1,19 @@
 ---
 nummer: "531"
-startLatitude: 52,756645
-startLongitude: 13,244983
-titel: Green Bloom
-picture: Bitte Url nachtragen
-region: Oranienburg
-country: Deutschland
+startLatitude: "52,756645"
+startLongitude: "13,244983"
+titel: "Green Bloom"
+picture: "Bitte Url nachtragen"
+region: "Oranienburg"
+country: "Deutschland"
 completed: "11.508"
 missions: "72"
 date: "2023"
-bg-link: 
+bg-link: ""
 onyx: "1"
-description: Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg. Starte in der Bernauer Straße
-lengthKMeters: 19,4
-title: Green Bloom
+description: "Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg. Starte in der Bernauer Straße"
+lengthKMeters: "19,4"
+title: "Green Bloom"
 ---
 
 #{{ page.meta.title}}

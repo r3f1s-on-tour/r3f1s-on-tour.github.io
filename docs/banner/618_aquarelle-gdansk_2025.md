@@ -1,19 +1,19 @@
 ---
 nummer: "618"
-startLatitude: 
-startLongitude: 
-titel: Aquarelle Gdansk
-picture: 
-region: Gdansk
-country: Polska
+startLatitude: ""
+startLongitude: ""
+titel: "Aquarelle Gdansk"
+picture: ""
+region: "Gdansk"
+country: "Polska"
 completed: "13.500"
 missions: "12"
 date: "2025"
-bg-link: 
+bg-link: ""
 onyx: "1"
-description: 
-lengthKMeters: 
-title: Aquarelle Gdansk
+description: ""
+lengthKMeters: ""
+title: "Aquarelle Gdansk"
 ---
 
 #{{ page.meta.title}}

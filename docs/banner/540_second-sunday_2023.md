@@ -1,19 +1,19 @@
 ---
 nummer: "540"
-startLatitude: 53,56603
-startLongitude: 13,259574
-titel: Second Sunday
-picture: Bitte Url nachtragen
-region: Neubrandenburg
-country: Deutschland
+startLatitude: "53,56603"
+startLongitude: "13,259574"
+titel: "Second Sunday"
+picture: "Bitte Url nachtragen"
+region: "Neubrandenburg"
+country: "Deutschland"
 completed: "11.964"
 missions: "6"
 date: "2023"
-bg-link: https://bannergress.com/banner/second-sunday-2075
+bg-link: "https://bannergress.com/banner/second-sunday-2075"
 onyx: "0"
-description: Second Sunday im Oktober 2022 in Neubrandenburg
-lengthKMeters: 2,132
-title: Second Sunday
+description: "Second Sunday im Oktober 2022 in Neubrandenburg"
+lengthKMeters: "2,132"
+title: "Second Sunday"
 ---
 
 #{{ page.meta.title}}

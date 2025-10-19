@@ -1,19 +1,19 @@
 ---
 nummer: "519"
-startLatitude: 52,756491
-startLongitude: 13,245295
-titel: Evil Penguins in Oranienburg
-picture: Bitte Url nachtragen
-region: Oranienburg
-country: Deutschland
+startLatitude: "52,756491"
+startLongitude: "13,245295"
+titel: "Evil Penguins in Oranienburg"
+picture: "Bitte Url nachtragen"
+region: "Oranienburg"
+country: "Deutschland"
 completed: "10.992"
 missions: "6"
 date: "2023"
-bg-link: 
+bg-link: ""
 onyx: "0"
-description: Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
-lengthKMeters: 1,29
-title: Evil Penguins in Oranienburg
+description: "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße"
+lengthKMeters: "1,29"
+title: "Evil Penguins in Oranienburg"
 ---
 
 #{{ page.meta.title}}

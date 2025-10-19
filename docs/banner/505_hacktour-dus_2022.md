@@ -1,19 +1,19 @@
 ---
 nummer: "505"
-startLatitude: 51,228083
-startLongitude: 6,788523
-titel: Hacktour DUS
-picture: Bitte Url nachtragen
-region: Düsseldorf
-country: Deutschland
+startLatitude: "51,228083"
+startLongitude: "6,788523"
+titel: "Hacktour DUS"
+picture: "Bitte Url nachtragen"
+region: "Düsseldorf"
+country: "Deutschland"
 completed: "10.782"
 missions: "6"
 date: "2022"
-bg-link: https://bannergress.com/banner/hacktour-dus-6e84
+bg-link: "https://bannergress.com/banner/hacktour-dus-6e84"
 onyx: "0"
-description: 
-lengthKMeters: 2,309
-title: Hacktour DUS
+description: ""
+lengthKMeters: "2,309"
+title: "Hacktour DUS"
 ---
 
 #{{ page.meta.title}}

@@ -1,19 +1,19 @@
 ---
 nummer: "586"
-startLatitude: 51,062715
-startLongitude: 13,745904
-titel: #FS Rubik Cube
-picture: Bitte Url nachtragen
-region: Dresden
-country: Deutschland
+startLatitude: "51,062715"
+startLongitude: "13,745904"
+titel: "#FS Rubik Cube"
+picture: "Bitte Url nachtragen"
+region: "Dresden"
+country: "Deutschland"
 completed: "13.014"
 missions: "6"
 date: "2023"
-bg-link: https://bannergress.com/banner/fs-rubik-cube-5915
+bg-link: "https://bannergress.com/banner/fs-rubik-cube-5915"
 onyx: "0"
-description: Can you solve this riddle at the FS in Dresden?
-lengthKMeters: 1,828
-title: #FS Rubik Cube
+description: "Can you solve this riddle at the FS in Dresden?"
+lengthKMeters: "1,828"
+title: "#FS Rubik Cube"
 ---
 
 #{{ page.meta.title}}

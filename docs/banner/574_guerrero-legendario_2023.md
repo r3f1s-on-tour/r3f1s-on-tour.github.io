@@ -1,19 +1,19 @@
 ---
 nummer: "574"
-startLatitude: 40,417009
-startLongitude: -3,70231
-titel: Guerrero Legendario
-picture: Bitte Url nachtragen
-region: Madrid
-country: España
+startLatitude: "40,417009"
+startLongitude: "-3,70231"
+titel: "Guerrero Legendario"
+picture: "Bitte Url nachtragen"
+region: "Madrid"
+country: "España"
 completed: "12.702"
 missions: "72"
 date: "2023"
-bg-link: https://bannergress.com/banner/guerrero-legendario-62df
+bg-link: "https://bannergress.com/banner/guerrero-legendario-62df"
 onyx: "0"
-description: Paseo por el centro de Madrid
-lengthKMeters: 18,342
-title: Guerrero Legendario
+description: "Paseo por el centro de Madrid"
+lengthKMeters: "18,342"
+title: "Guerrero Legendario"
 ---
 
 #{{ page.meta.title}}

@@ -1,19 +1,19 @@
 ---
 nummer: "583"
-startLatitude: 51,039343
-startLongitude: 13,701401
-titel: Toast Heros Dresden
-picture: Bitte Url nachtragen
-region: Dresden
-country: Deutschland
+startLatitude: "51,039343"
+startLongitude: "13,701401"
+titel: "Toast Heros Dresden"
+picture: "Bitte Url nachtragen"
+region: "Dresden"
+country: "Deutschland"
 completed: "12.996"
 missions: "6"
 date: "2023"
-bg-link: https://bannergress.com/banner/toast-heros-dresden-54da
+bg-link: "https://bannergress.com/banner/toast-heros-dresden-54da"
 onyx: "0"
-description: Eine kleine Runde durch den schönen Stadtteil Dresden Löbtau.
-lengthKMeters: 1,313
-title: Toast Heros Dresden
+description: "Eine kleine Runde durch den schönen Stadtteil Dresden Löbtau."
+lengthKMeters: "1,313"
+title: "Toast Heros Dresden"
 ---
 
 #{{ page.meta.title}}

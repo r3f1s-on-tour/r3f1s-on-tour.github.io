@@ -1,19 +1,19 @@
 ---
 nummer: "508"
-startLatitude: 51,260319
-startLongitude: 7,145203
-titel: Elberfeld im Schneckentempo
-picture: Bitte Url nachtragen
-region: Wuppertal
-country: Deutschland
+startLatitude: "51,260319"
+startLongitude: "7,145203"
+titel: "Elberfeld im Schneckentempo"
+picture: "Bitte Url nachtragen"
+region: "Wuppertal"
+country: "Deutschland"
 completed: "10.836"
 missions: "12"
 date: "2022"
-bg-link: https://bannergress.com/banner/elberfeld-im-schneckentempo-82c3
+bg-link: "https://bannergress.com/banner/elberfeld-im-schneckentempo-82c3"
 onyx: "0"
-description: Eine gemütliche Runde durch den Stadtbezirk Elberfeld der Stadt Wuppertal.
-lengthKMeters: 2,828
-title: Elberfeld im Schneckentempo
+description: "Eine gemütliche Runde durch den Stadtbezirk Elberfeld der Stadt Wuppertal."
+lengthKMeters: "2,828"
+title: "Elberfeld im Schneckentempo"
 ---
 
 #{{ page.meta.title}}

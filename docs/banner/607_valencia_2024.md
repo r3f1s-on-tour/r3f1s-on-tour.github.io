@@ -1,19 +1,19 @@
 ---
 nummer: "607"
-startLatitude: 39,467501
-startLongitude: -0,333273
-titel: Valencia
-picture: Bitte Url nachtragen
-region: València
-country: España
+startLatitude: "39,467501"
+startLongitude: "-0,333273"
+titel: "Valencia"
+picture: "Bitte Url nachtragen"
+region: "València"
+country: "España"
 completed: "13.308"
 missions: "6"
 date: "2024"
-bg-link: https://bannergress.com/banner/valencia-5b22
+bg-link: "https://bannergress.com/banner/valencia-5b22"
 onyx: "0"
-description: Es hora de pasear y conocer un poco el Canyamelar
-lengthKMeters: 1,66
-title: Valencia
+description: "Es hora de pasear y conocer un poco el Canyamelar"
+lengthKMeters: "1,66"
+title: "Valencia"
 ---
 
 #{{ page.meta.title}}

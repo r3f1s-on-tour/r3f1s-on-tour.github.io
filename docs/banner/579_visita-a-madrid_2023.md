@@ -1,19 +1,19 @@
 ---
 nummer: "579"
-startLatitude: 40,417009
-startLongitude: -3,70231
-titel: Visita a Madrid
-picture: Bitte Url nachtragen
-region: Madrid
-country: España
+startLatitude: "40,417009"
+startLongitude: "-3,70231"
+titel: "Visita a Madrid"
+picture: "Bitte Url nachtragen"
+region: "Madrid"
+country: "España"
 completed: "12.846"
 missions: "6"
 date: "2023"
-bg-link: https://bannergress.com/banner/visita-a-madrid-cbcd
+bg-link: "https://bannergress.com/banner/visita-a-madrid-cbcd"
 onyx: "0"
-description: Primera parte de la visita al la Puerta del Sol y sus alrededores, centro turístico y emblemático de la Capital de España, que no se puede dejar de visitar al ir a esta importante ciudad.
+description: "Primera parte de la visita al la Puerta del Sol y sus alrededores, centro turístico y emblemático de la Capital de España, que no se puede dejar de visitar al ir a esta importante ciudad."
 lengthKMeters: "949"
-title: Visita a Madrid
+title: "Visita a Madrid"
 ---
 
 #{{ page.meta.title}}

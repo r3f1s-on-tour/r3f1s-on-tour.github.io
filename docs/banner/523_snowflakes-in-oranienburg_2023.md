@@ -1,19 +1,19 @@
 ---
 nummer: "523"
-startLatitude: 52,756645
-startLongitude: 13,244983
-titel: Snowflakes in Oranienburg
-picture: Bitte Url nachtragen
-region: Oranienburg
-country: Deutschland
+startLatitude: "52,756645"
+startLongitude: "13,244983"
+titel: "Snowflakes in Oranienburg"
+picture: "Bitte Url nachtragen"
+region: "Oranienburg"
+country: "Deutschland"
 completed: "11.076"
 missions: "66"
 date: "2023"
-bg-link: 
+bg-link: ""
 onyx: "0"
-description: Starte eine Runde durch Oranienburg zum Second Sunday und denke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg
-lengthKMeters: 17,7
-title: Snowflakes in Oranienburg
+description: "Starte eine Runde durch Oranienburg zum Second Sunday und denke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg"
+lengthKMeters: "17,7"
+title: "Snowflakes in Oranienburg"
 ---
 
 #{{ page.meta.title}}
