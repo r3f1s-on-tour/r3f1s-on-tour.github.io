@@ -3,7 +3,7 @@ nummer: "525"
 startLatitude: "52,756318"
 startLongitude: "13,244588"
 titel: "Green Fireworks in Oranienburg"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Oranienburg"
 country: "Deutschland"
 completed: "11.100"
@@ -18,9 +18,6 @@ title: "Green Fireworks in Oranienburg"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Infos
 - **nummer**: {{ page.meta.nummer }}

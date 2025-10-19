@@ -3,7 +3,7 @@ nummer: "551"
 startLatitude: "53,55268"
 startLongitude: "13,26112"
 titel: "Neubr. Stadtmusikanten"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Neubrandenburg"
 country: "Deutschland"
 completed: "12.252"
@@ -18,9 +18,6 @@ title: "Neubr. Stadtmusikanten"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

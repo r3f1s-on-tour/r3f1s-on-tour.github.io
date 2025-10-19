@@ -3,7 +3,7 @@ nummer: "597"
 startLatitude: "39,467715"
 startLongitude: "-0,376814"
 titel: "Halloween in Valencia"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "València"
 country: "España"
 completed: "13.170"
@@ -18,9 +18,6 @@ title: "Halloween in Valencia"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

@@ -3,7 +3,7 @@ nummer: "583"
 startLatitude: "51,039343"
 startLongitude: "13,701401"
 titel: "Toast Heros Dresden"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Dresden"
 country: "Deutschland"
 completed: "12.996"
@@ -18,9 +18,6 @@ title: "Toast Heros Dresden"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

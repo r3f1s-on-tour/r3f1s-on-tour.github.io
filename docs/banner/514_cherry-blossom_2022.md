@@ -3,7 +3,7 @@ nummer: "514"
 startLatitude: "50,741751"
 startLongitude: "7,095997"
 titel: "Cherry Blossom"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Bonn"
 country: "Deutschland"
 completed: "10.944"
@@ -18,9 +18,6 @@ title: "Cherry Blossom"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

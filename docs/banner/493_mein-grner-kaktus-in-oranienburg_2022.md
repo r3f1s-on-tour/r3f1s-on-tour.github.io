@@ -3,7 +3,7 @@ nummer: "493"
 startLatitude: "52,756491"
 startLongitude: "13,245295"
 titel: "Mein grüner Kaktus in Oranienburg"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Oranienburg"
 country: "Deutschland"
 completed: "10.560"
@@ -18,9 +18,6 @@ title: "Mein grüner Kaktus in Oranienburg"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

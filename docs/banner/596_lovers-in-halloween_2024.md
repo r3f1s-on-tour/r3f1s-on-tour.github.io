@@ -3,7 +3,7 @@ nummer: "596"
 startLatitude: "39,444296"
 startLongitude: "-0,393369"
 titel: "Lovers in Halloween"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "València"
 country: "España"
 completed: "13.164"
@@ -18,9 +18,6 @@ title: "Lovers in Halloween"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

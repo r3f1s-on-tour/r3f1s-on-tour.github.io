@@ -3,7 +3,7 @@ nummer: "429"
 startLatitude: "53,555945"
 startLongitude: "13,291601"
 titel: "Visit Requiem Munich - Neubrandenburg"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Neubrandenburg"
 country: "Deutschland"
 completed: "8.922"
@@ -18,9 +18,6 @@ title: "Visit Requiem Munich - Neubrandenburg"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

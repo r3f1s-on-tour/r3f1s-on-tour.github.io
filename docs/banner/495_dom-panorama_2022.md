@@ -3,7 +3,7 @@ nummer: "495"
 startLatitude: "50,942198"
 startLongitude: "6,958069"
 titel: "Dom-Panorama"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Köln"
 country: "Deutschland"
 completed: "10.590"
@@ -18,9 +18,6 @@ title: "Dom-Panorama"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

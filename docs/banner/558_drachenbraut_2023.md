@@ -3,7 +3,7 @@ nummer: "558"
 startLatitude: "50,997731"
 startLongitude: "9,733295"
 titel: "Drachenbraut"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Rotenburg an der Fulda"
 country: "Deutschland"
 completed: "12.408"
@@ -18,9 +18,6 @@ title: "Drachenbraut"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

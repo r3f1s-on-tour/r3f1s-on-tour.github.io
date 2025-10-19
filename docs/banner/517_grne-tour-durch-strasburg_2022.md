@@ -3,7 +3,7 @@ nummer: "517"
 startLatitude: "53,507239"
 startLongitude: "13,745734"
 titel: "Grüne Tour durch Strasburg"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Strasburg (Uckermark)"
 country: "Deutschland"
 completed: "10.980"
@@ -18,9 +18,6 @@ title: "Grüne Tour durch Strasburg"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

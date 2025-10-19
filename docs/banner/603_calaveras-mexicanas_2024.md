@@ -3,7 +3,7 @@ nummer: "603"
 startLatitude: "39,466853"
 startLongitude: "-0,375619"
 titel: "CALAVERAS MEXICANAS"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "València"
 country: "España"
 completed: "13.272"
@@ -18,9 +18,6 @@ title: "CALAVERAS MEXICANAS"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

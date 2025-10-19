@@ -3,7 +3,7 @@ nummer: "546"
 startLatitude: "50,8357"
 startLongitude: "12,924143"
 titel: "Do(o)m's Cat"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Chemnitz"
 country: "Deutschland"
 completed: "12.120"
@@ -18,9 +18,6 @@ title: "Do(o)m's Cat"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

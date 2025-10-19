@@ -3,7 +3,7 @@ nummer: "14"
 startLatitude: "53.55797"
 startLongitude: "9.989297"
 titel: "Planten un Blomen Mosaik"
-picture: "https://lh3.googleusercontent.com/lr/AFBm1_ablE9t8dguFAVa7WkC20igXNC_CJ3d0McZzTG7KJhzuGBn9UfxHTPUdIFlps5ptwZvsB10lzlgMSPE0vTCpQa4bniIwVuFppgUzhPYfAZihqPwwQi8NdcdLYJkLluUbsmpLR2-FfQ-o2sy6AwCYysvuisy3KdwZA73of1fql_Q-bygNBnRUiZIshLbsxqqsm8XbhLEO_RZArsxgL02Bimb7zLkQbjFR22uVJeg9XNy-_7-wTJ7Xy0xcI9wOQJ16bdnOaOm0S3_uJwHEcj9N7sPAxAtdfqDavp8j3vZ4GEJ-TXbKNddv6mxuu5Fpo7mOjadBBhK20BW630oP6nebO8MWvvZBe_L2jxXHvckIybLOuPsMTT3Q3MKBVcVv5jW2kUYyQhZQnkAN8Q5q4jgDU-yBERRyQCC3W_PocDN1cqoCWQ29RvCWPz2oMZPzQKYpnDYDg9hdNve7kWpaezKhubVFL8K2-IqUhCPuYvjyO7P0LRcrUQtI0ew7STHOo2pCIrgwAdOgMkwtFrIZPFOrKYcbdtJ4yTpFH_SXaiuCTFH5sBNAPwG6GfF8UOg8ezPRObT3-7BL1gALxgAOERl5Scp50sV-jfxQ5Hy_a0ANWUdpz6yZ9pFHj5y54ToEF8j23O61CEwVjcRxTberVg3f4hraaMU2ctAL8jjEMu3TOcDoivcaxQxslcTdB0VQ5D8aV5o5zpyfA"
+picture: ""
 region: "Hamburg"
 country: "Deutschland"
 completed: "276"
@@ -18,9 +18,6 @@ title: "Planten un Blomen Mosaik"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

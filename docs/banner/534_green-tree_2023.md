@@ -3,7 +3,7 @@ nummer: "534"
 startLatitude: "52,756645"
 startLongitude: "13,244983"
 titel: "Green Tree"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Oranienburg"
 country: "Deutschland"
 completed: "11.724"
@@ -18,9 +18,6 @@ title: "Green Tree"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Infos
 - **nummer**: {{ page.meta.nummer }}

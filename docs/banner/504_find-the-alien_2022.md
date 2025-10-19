@@ -3,7 +3,7 @@ nummer: "504"
 startLatitude: "51,253636"
 startLongitude: "6,771298"
 titel: "Find the Alien"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Düsseldorf"
 country: "Deutschland"
 completed: "10.776"
@@ -18,9 +18,6 @@ title: "Find the Alien"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

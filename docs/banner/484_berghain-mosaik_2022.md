@@ -3,7 +3,7 @@ nummer: "484"
 startLatitude: "52,509603"
 startLongitude: "13,43469"
 titel: "Berghain Mosaik"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Berlin"
 country: "Deutschland"
 completed: "10.452"
@@ -18,9 +18,6 @@ title: "Berghain Mosaik"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

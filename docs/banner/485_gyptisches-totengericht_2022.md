@@ -3,7 +3,7 @@ nummer: "485"
 startLatitude: "52,516466"
 startLongitude: "13,45299"
 titel: "Ägyptisches Totengericht"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Berlin"
 country: "Deutschland"
 completed: "10.482"
@@ -18,9 +18,6 @@ title: "Ägyptisches Totengericht"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

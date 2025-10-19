@@ -3,7 +3,7 @@ nummer: "565"
 startLatitude: "52,390195"
 startLongitude: "13,06678"
 titel: "Build a GBA"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Potsdam"
 country: "Deutschland"
 completed: "12.522"
@@ -18,9 +18,6 @@ title: "Build a GBA"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

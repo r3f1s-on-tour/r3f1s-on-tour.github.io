@@ -3,7 +3,7 @@ nummer: "486"
 startLatitude: "52,50834"
 startLongitude: "13,45134"
 titel: "Northern Legends"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Berlin"
 country: "Deutschland"
 completed: "10.488"
@@ -18,9 +18,6 @@ title: "Northern Legends"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

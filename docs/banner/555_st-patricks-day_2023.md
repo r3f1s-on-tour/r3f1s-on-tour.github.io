@@ -3,7 +3,7 @@ nummer: "555"
 startLatitude: "53,568315"
 startLongitude: "13,276832"
 titel: "St-Patricks-Day"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Neubrandenburg"
 country: "Deutschland"
 completed: "12.366"
@@ -18,9 +18,6 @@ title: "St-Patricks-Day"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

@@ -3,7 +3,7 @@ nummer: "608"
 startLatitude: "53,561118"
 startLongitude: "13,26153"
 titel: "Frog in Town"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Neubrandenburg"
 country: "Deutschland"
 completed: "13.332"
@@ -18,9 +18,6 @@ title: "Frog in Town"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

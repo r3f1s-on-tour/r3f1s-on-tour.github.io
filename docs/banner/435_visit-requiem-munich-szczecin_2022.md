@@ -3,7 +3,7 @@ nummer: "435"
 startLatitude: "53,431731"
 startLongitude: "14,566931"
 titel: "Visit Requiem Munich - Szczecin"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Szczecin"
 country: "Polska"
 completed: "9.078"
@@ -18,9 +18,6 @@ title: "Visit Requiem Munich - Szczecin"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

@@ -3,7 +3,7 @@ nummer: "584"
 startLatitude: "51,038546"
 startLongitude: "13,702053"
 titel: "Schneeflöckchen"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Dresden"
 country: "Deutschland"
 completed: "13.002"
@@ -18,9 +18,6 @@ title: "Schneeflöckchen"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

@@ -3,7 +3,7 @@ nummer: "571"
 startLatitude: "51,42971"
 startLongitude: "14,23195"
 titel: "Hulk-Minion"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Dörgenhausen - Němcy"
 country: "Deutschland"
 completed: "12.618"
@@ -18,9 +18,6 @@ title: "Hulk-Minion"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

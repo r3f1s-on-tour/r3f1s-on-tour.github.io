@@ -3,7 +3,7 @@ nummer: "500"
 startLatitude: "50,943701"
 startLongitude: "6,933796"
 titel: "Narrenkappe"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Köln"
 country: "Deutschland"
 completed: "10.704"
@@ -18,9 +18,6 @@ title: "Narrenkappe"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

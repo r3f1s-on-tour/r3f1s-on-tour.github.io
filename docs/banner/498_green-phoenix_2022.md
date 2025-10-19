@@ -3,7 +3,7 @@ nummer: "498"
 startLatitude: "50,944624"
 startLongitude: "7,098962"
 titel: "Green Phoenix"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Bergisch Gladbach"
 country: "Deutschland"
 completed: "10.668"
@@ -18,9 +18,6 @@ title: "Green Phoenix"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

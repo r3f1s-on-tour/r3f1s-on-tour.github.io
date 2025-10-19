@@ -3,7 +3,7 @@ nummer: "499"
 startLatitude: "50,941403"
 startLongitude: "6,956613"
 titel: "Froschweg"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Köln"
 country: "Deutschland"
 completed: "10.680"
@@ -18,9 +18,6 @@ title: "Froschweg"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

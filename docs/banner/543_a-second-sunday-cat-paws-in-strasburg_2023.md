@@ -3,7 +3,7 @@ nummer: "543"
 startLatitude: "53,507919"
 startLongitude: "13,746105"
 titel: "A Second Sunday Cat Paws in Strasburg"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Strasburg (Uckermark)"
 country: "Deutschland"
 completed: "12.000"
@@ -18,9 +18,6 @@ title: "A Second Sunday Cat Paws in Strasburg"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

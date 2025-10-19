@@ -3,7 +3,7 @@ nummer: "575"
 startLatitude: "40,418027"
 startLongitude: "-3,699493"
 titel: "MADRID POP ART GIRL"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Madrid"
 country: "España"
 completed: "12.750"
@@ -18,9 +18,6 @@ title: "MADRID POP ART GIRL"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

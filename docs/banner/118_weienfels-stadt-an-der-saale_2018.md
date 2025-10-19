@@ -3,7 +3,7 @@ nummer: "118"
 startLatitude: "51.200384"
 startLongitude: "11.975287"
 titel: "Weißenfels Stadt an der Saale"
-picture: "https://lh3.googleusercontent.com/pw/AM-JKLW7pmGtJPVh3UFTYy9jH3uOA6VrjDDaXncK2G_80p6qJB0fW8keRvr7ww3N94WVMaOvBk8MwXPxNTS5iIPwMCVjZLReD9NJGllFkXR2pmDMSR9nsh0blO1QkkLlbnpkP3p_AbW9cQ6zx2AKmv77oEsOIQ=w1080-h466-no?authuser=0"
+picture: ""
 region: "Weißenfels"
 country: "Deutschland"
 completed: "2880"
@@ -18,9 +18,6 @@ title: "Weißenfels Stadt an der Saale"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

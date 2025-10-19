@@ -3,7 +3,7 @@ nummer: "609"
 startLatitude: "53,561402"
 startLongitude: "13,261756"
 titel: "Marx is calling you - Neubrandenburg"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Neubrandenburg"
 country: "Deutschland"
 completed: "13.338"
@@ -18,9 +18,6 @@ title: "Marx is calling you - Neubrandenburg"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

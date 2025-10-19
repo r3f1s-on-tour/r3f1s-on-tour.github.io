@@ -3,7 +3,7 @@ nummer: "579"
 startLatitude: "40,417009"
 startLongitude: "-3,70231"
 titel: "Visita a Madrid"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Madrid"
 country: "España"
 completed: "12.846"
@@ -18,9 +18,6 @@ title: "Visita a Madrid"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

@@ -3,7 +3,7 @@ nummer: "580"
 startLatitude: "51,66616"
 startLongitude: "6,450327"
 titel: "Hafentempel Xanten"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Lüttingen"
 country: "Deutschland"
 completed: "12.864"
@@ -18,9 +18,6 @@ title: "Hafentempel Xanten"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

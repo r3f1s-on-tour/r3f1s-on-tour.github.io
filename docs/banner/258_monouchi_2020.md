@@ -3,7 +3,7 @@ nummer: "258"
 startLatitude: "52.531797"
 startLongitude: "13.419476"
 titel: "Monouchi"
-picture: "https://lh3.googleusercontent.com/lr/AFBm1_YhUMBvqAmLCpmLeAo_oMvI3d8hj1fWRkvi_-D8LbdDLvpVu0SEhNA-xbJLJ1C1hdFQRPsl225VNpNgJ1gReh_ynl7d3BR-xwzpNBK_anAohOJhXr4sWorrf2mikZTMPacq_ZaWYw5i4jDxVLdG_kC15cLHeN19I0XC1pSQrY9LIw_11sLV7X4Th197s94ybHLf14MnDYJx-BLuzgjrfl9ysP4lXF8Ye4Y7b2jSg996i09cXpmp6frPNTWtbSMN7l3DgJ_VUkraV_aQZv2MJscgV8fcQ60IdrYLt2MkA0vyy32gonK1hEBWwlyEbdBvlKJF5n2Msb8UGbPoT1kZ_wm4YvnZ9T4K6IoU6vGdL30XTeM_LygOIcwspUABL4QZVCBkdnSfDDVYLjtZDzQ6EcAsVtH1W2U0yIgmxSIpTjnXD-xqavphO1uNnVg99-E_NXGTr2bT2E5K0HDcNSZwWr6SABLE4SIbNE6wRErPITZ4jj4Y1F8Fd0ILxpanI8uWMwSJEnLXNCVbgmROCaSgoDh1F3SFE4DMDP4fJbHuDALRPOjlZDVEmCltToqlWYoSgg0DPorVB3A7rptjyMFBhxDV8x7L3GkYBkwMFwEn0xJHaANPP1oiyTWrpp8RCXsyXCe1OQ7EqfcjtgptvuiCnzaOZ3VJOV818bAUCWAa5qGirUGDvxV5l3fzTjBUM9Yp4TpYkOti_UF8XTtevW0TlswOjarRtBqMZo-ce3ZgXRj81cJXtypHrIduF7KTt7RBwuCm-tBUss45aWve7wSXWAYqnPP0Lsfc8-5l5XNZOWk5kcAm3VaDgySyVU5triiqh99LK6yNBlvp5Ui2wL20uCNL20ewEuo"
+picture: ""
 region: "Berlin"
 country: "Deutschland"
 completed: "6192"
@@ -18,9 +18,6 @@ title: "Monouchi"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

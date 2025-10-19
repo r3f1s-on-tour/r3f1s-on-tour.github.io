@@ -3,7 +3,7 @@ nummer: "532"
 startLatitude: "52,756645"
 startLongitude: "13,244983"
 titel: "Brennende Julia"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Oranienburg"
 country: "Deutschland"
 completed: "11.580"
@@ -18,9 +18,6 @@ title: "Brennende Julia"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Infos
 - **nummer**: {{ page.meta.nummer }}

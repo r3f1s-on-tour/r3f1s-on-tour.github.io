@@ -3,7 +3,7 @@ nummer: "507"
 startLatitude: "51,25423"
 startLongitude: "7,149983"
 titel: "Deifel in Wuppertal"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Wuppertal"
 country: "Deutschland"
 completed: "10.824"
@@ -18,9 +18,6 @@ title: "Deifel in Wuppertal"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

@@ -3,7 +3,7 @@ nummer: "552"
 startLatitude: "52,54767"
 startLongitude: "13,413923"
 titel: "Beautiful Frogs Berlin"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Berlin"
 country: "Deutschland"
 completed: "12.258"
@@ -18,9 +18,6 @@ title: "Beautiful Frogs Berlin"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

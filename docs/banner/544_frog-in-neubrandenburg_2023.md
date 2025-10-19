@@ -3,7 +3,7 @@ nummer: "544"
 startLatitude: "53,556959"
 startLongitude: "13,26129"
 titel: "Frog in Neubrandenburg"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Neubrandenburg"
 country: "Deutschland"
 completed: "12.036"
@@ -18,9 +18,6 @@ title: "Frog in Neubrandenburg"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

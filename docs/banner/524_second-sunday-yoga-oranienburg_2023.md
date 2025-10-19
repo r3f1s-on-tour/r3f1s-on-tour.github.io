@@ -3,7 +3,7 @@ nummer: "524"
 startLatitude: "52,756645"
 startLongitude: "13,244983"
 titel: "Second Sunday Yoga Oranienburg"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Oranienburg"
 country: "Deutschland"
 completed: "11.082"
@@ -18,9 +18,6 @@ title: "Second Sunday Yoga Oranienburg"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Infos
 - **nummer**: {{ page.meta.nummer }}

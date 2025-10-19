@@ -3,7 +3,7 @@ nummer: "516"
 startLatitude: "52,502456"
 startLongitude: "13,303693"
 titel: "MD 2022- Stolpersteine, Berlin"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Berlin"
 country: "Deutschland"
 completed: "10.974"
@@ -18,9 +18,6 @@ title: "MD 2022- Stolpersteine, Berlin"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

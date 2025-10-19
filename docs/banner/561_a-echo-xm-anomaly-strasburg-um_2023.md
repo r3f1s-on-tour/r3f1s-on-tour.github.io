@@ -3,7 +3,7 @@ nummer: "561"
 startLatitude: "53,506861"
 startLongitude: "13,74885"
 titel: "A Echo XM Anomaly Strasburg UM"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Strasburg (Uckermark)"
 country: "Deutschland"
 completed: "12.432"
@@ -18,9 +18,6 @@ title: "A Echo XM Anomaly Strasburg UM"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

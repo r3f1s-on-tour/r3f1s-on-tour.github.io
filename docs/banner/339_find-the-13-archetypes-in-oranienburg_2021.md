@@ -3,7 +3,7 @@ nummer: "339"
 startLatitude: "52.754504"
 startLongitude: "13.248415"
 titel: "Find the 13 Archetypes in Oranienburg"
-picture: "https://lh3.googleusercontent.com/lr/AFBm1_b8opwpw7LTloigHz9Fz_wJZLHF_Jxl37iMgLX3vS0eYSUDfhdPYOtAR9z76amud79yXU9ehH5QV2mSKlTtowfEUjwNjeyHmbeU7NgYYWCAnc_u7aKZZekK4BUW0QHyPPBySHaxQCIuitgzEM-S-JWA06ZSNrdoIAJG3SV5KPvv9f9nPy8hjkzb1n5yGIUC-wi00LW3X3QO6P1eT3FarwugmkuLxx-85S58DzeuTdaiPOvAEr8j5YDnnMJGx-5hG_3RVC-mgkQyg_qjbPoahSu0dd7Tzd7Ccu3TDD6S41_3XSTZVaicrZBCjFwYOaW-imBamZYFcHPnv8EgrMMZ1h09nB_kOumWGj30Zf3KAqmWAjUclZzr3XDDlUcwwQ_ykxD2aHPtv2Cz_aWuXblYZXH8N3BVgPbxkn6MOromRpYO4zQZXIZQHOMF6_dTSKMN8OGyDG5Fy4rgayx6mvAqLGkFUZU-hlK1ZAY_2QF_3eRvGlCV0kdiPhanwl69wAAVCfXTb3H9qUjevYrRuYBu_TUiOHOPUJ6EkrjsD4LcmOlYfj52GWt3tceol3Cg-py3X_C1V1VfTjuAZV-Xegz0RLorn80YbK2svGnv8-GPdsZgvXQ3H1Tdyak8nJ8OP8JdjEm3uI3DNUOzKfXY1kCfhL5GWIM1DaHngYZ2TaxPuGN29_2eTjWuadbl7NV263tQATLNtSrkuIyv9BzKNkgjTuYnS105xkr0FCY7DLHtC0hvfy6izqyeCg77Td6E6TIcGA4KIGMYooaYSwiMnDr6Ag4WOkPWNnID6YNKTOFkGsrbusi4y4Bo7zVCmRgTX1w73ZBsYwI4Jn8kyWODG14Pf46GppZ2tN89AFIn"
+picture: ""
 region: "Oranienburg"
 country: "Deutschland"
 completed: "7698"
@@ -18,9 +18,6 @@ title: "Find the 13 Archetypes in Oranienburg"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

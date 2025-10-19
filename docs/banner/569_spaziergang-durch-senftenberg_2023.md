@@ -3,7 +3,7 @@ nummer: "569"
 startLatitude: "51,516258"
 startLongitude: "14,006949"
 titel: "Spaziergang durch Senftenberg"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Senftenberg - Zły Komorow"
 country: "Deutschland"
 completed: "12.564"
@@ -18,9 +18,6 @@ title: "Spaziergang durch Senftenberg"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

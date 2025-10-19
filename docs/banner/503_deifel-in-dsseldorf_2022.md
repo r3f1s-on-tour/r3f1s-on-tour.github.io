@@ -3,7 +3,7 @@ nummer: "503"
 startLatitude: "51,220016"
 startLongitude: "6,79448"
 titel: "Deifel in Düsseldorf"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Düsseldorf"
 country: "Deutschland"
 completed: "10.752"
@@ -18,9 +18,6 @@ title: "Deifel in Düsseldorf"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

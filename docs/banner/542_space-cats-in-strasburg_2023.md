@@ -3,7 +3,7 @@ nummer: "542"
 startLatitude: "53,507919"
 startLongitude: "13,746105"
 titel: "Space Cats in Strasburg"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Strasburg (Uckermark)"
 country: "Deutschland"
 completed: "11.994"
@@ -18,9 +18,6 @@ title: "Space Cats in Strasburg"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

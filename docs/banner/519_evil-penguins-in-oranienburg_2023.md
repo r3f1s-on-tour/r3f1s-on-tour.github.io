@@ -3,7 +3,7 @@ nummer: "519"
 startLatitude: "52,756491"
 startLongitude: "13,245295"
 titel: "Evil Penguins in Oranienburg"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Oranienburg"
 country: "Deutschland"
 completed: "10.992"
@@ -18,9 +18,6 @@ title: "Evil Penguins in Oranienburg"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Infos
 - **nummer**: {{ page.meta.nummer }}

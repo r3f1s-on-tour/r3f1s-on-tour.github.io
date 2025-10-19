@@ -3,7 +3,7 @@ nummer: "501"
 startLatitude: "50,939974"
 startLongitude: "6,938444"
 titel: "Dragon Moon"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Köln"
 country: "Deutschland"
 completed: "10.728"
@@ -18,9 +18,6 @@ title: "Dragon Moon"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

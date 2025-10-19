@@ -3,7 +3,7 @@ nummer: "512"
 startLatitude: "50,732331"
 startLongitude: "7,097059"
 titel: "Feldzug durch Bonn"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Bonn"
 country: "Deutschland"
 completed: "10.902"
@@ -18,9 +18,6 @@ title: "Feldzug durch Bonn"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

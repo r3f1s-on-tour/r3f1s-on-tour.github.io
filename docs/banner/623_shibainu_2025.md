@@ -3,7 +3,7 @@ nummer: "623"
 startLatitude: "52,50885"
 startLongitude: "13,497454"
 titel: "ShibaInu"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Berlin"
 country: "Deutschland"
 completed: "13578"
@@ -18,9 +18,6 @@ title: "ShibaInu"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

@@ -3,7 +3,7 @@ nummer: "622"
 startLatitude: "53,561425"
 startLongitude: "13,259994"
 titel: "Stadtmauer in Neubrandenburg"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Neubrandenburg"
 country: "Deutschland"
 completed: "13386"
@@ -18,9 +18,6 @@ title: "Stadtmauer in Neubrandenburg"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

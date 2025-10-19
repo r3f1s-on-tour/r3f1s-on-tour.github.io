@@ -3,7 +3,7 @@ nummer: "553"
 startLatitude: "53,506861"
 startLongitude: "13,74885"
 titel: "Echo Brighton"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Strasburg (Uckermark)"
 country: "Deutschland"
 completed: "12.264"
@@ -18,9 +18,6 @@ title: "Echo Brighton"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Infos
 - **nummer**: {{ page.meta.nummer }}

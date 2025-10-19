@@ -3,7 +3,7 @@ nummer: "472"
 startLatitude: "52,509237"
 startLongitude: "13,497382"
 titel: "Catwalk VI"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Berlin"
 country: "Deutschland"
 completed: "10.338"
@@ -18,9 +18,6 @@ title: "Catwalk VI"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

@@ -3,7 +3,7 @@ nummer: "557"
 startLatitude: "50,946435"
 startLongitude: "7,455323"
 titel: "Frog Wall Drabenderhöhe"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Drabenderhöhe"
 country: "Deutschland"
 completed: "12.390"
@@ -18,9 +18,6 @@ title: "Frog Wall Drabenderhöhe"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

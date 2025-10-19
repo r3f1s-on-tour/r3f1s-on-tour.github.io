@@ -68,6 +68,14 @@ jobs:
       - name: Run banner pages updater
         run: python scripts/update_banner_pages.py
 
+      # 2) Galerie erzeugen (einspaltig, lazy)
+      - name: Build banner gallery
+        run: |
+          python scripts/make_banner_gallery.py \
+            --root docs \
+            --banner_dir banner \
+            --outfile gallery.md
+
       # optionales Zusatzfile
       - name: Generate banner stats (optional)
         run: |
@@ -110,6 +118,8 @@ jobs:
           git add docs/index.md || true
           git add docs/banner/index.md || true
           git add docs/banner/stats.md || true
+          git add docs/banner/gallery.md || true
+
 
           if ! git diff --cached --quiet; then
             git commit -m "chore: update banner stats and directory [skip ci]"

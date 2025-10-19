@@ -3,7 +3,7 @@ nummer: "104"
 startLatitude: "48.884298"
 startLongitude: "12.56265"
 titel: "Topographia Bavariae Straubinga"
-picture: "https://lh3.googleusercontent.com/lr/AFBm1_YUwGst4su6CYWc95905-k4BLw6rIz38mH9Nb39fqfRgwQtfMicK9Xtg-zPHpd6vlwfyg6fPV4PdmHGnXXrsihqiBO4PMGLJshqPV5wfuipS3sQt8FKmI0yUgBM4iJLPs_vbNNEpmH7PHPZcWuA8ADgw2z6JVyqGklkkbxkrMySe0uSYUw_vUSkCzqxWnJvo_cDcMUK14M97rtGQyb215K0QeNgJUgVajUr96PO13bE6RCU12sFWFZcRDjXTeguKTxdlFwqEo9aMFEwM8PlZQBgE1x2vX08fK-wdnlxJRfEIWuStx3cxTOIOx4TrToFIEFpFI5oXuisGbLzfaUCDgm9PtYGOGpv1Y5gGrxkqC0zZkS6ZxlWwgE8-1__wBkOcRblUh7AIRi25Agk79yCNwIOGPpZ_s319x4Jc-7VMoc5YD8p4uMrFPrcXTMgztpzbjmebl7-w5stEQHlomB6g9Jpxw3x4h8CLaq0NnimHw5zFvoMUfUDWuYp8UH1xTfh-6mTMSpEYR2sm4yq7U2TDNle1sazwAmTw5duLrbeFcSSdHh27uJHiVvG3l5LUGUGcmNoDhuZd04_-vF0bNxjOS8ZddabpjmaQXmGPgeNKEnm45-qiQABbxmv37FlLLczzqeNBjU7LeyrMLOlOA5gE7a5RhLMSmxf-JYm_JWOzVOBUMul-1o5cVQFJBA4vemcTGtI0JWA1Q"
+picture: ""
 region: "Straubing"
 country: "Deutschland"
 completed: "2664"
@@ -18,9 +18,6 @@ title: "Topographia Bavariae Straubinga"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

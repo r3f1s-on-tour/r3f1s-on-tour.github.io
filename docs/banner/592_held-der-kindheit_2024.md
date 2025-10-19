@@ -3,7 +3,7 @@ nummer: "592"
 startLatitude: "50,997138"
 startLongitude: "7,464665"
 titel: "Held der Kindheit"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Ründeroth"
 country: "Deutschland"
 completed: "13.086"
@@ -18,9 +18,6 @@ title: "Held der Kindheit"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

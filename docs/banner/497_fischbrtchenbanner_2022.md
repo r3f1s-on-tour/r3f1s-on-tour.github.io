@@ -3,7 +3,7 @@ nummer: "497"
 startLatitude: "50,925167"
 startLongitude: "6,958304"
 titel: "Fischbrötchenbanner"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Köln"
 country: "Deutschland"
 completed: "10.608"
@@ -18,9 +18,6 @@ title: "Fischbrötchenbanner"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

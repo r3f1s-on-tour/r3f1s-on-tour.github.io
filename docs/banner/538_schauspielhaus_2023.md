@@ -3,7 +3,7 @@ nummer: "538"
 startLatitude: "53,558893"
 startLongitude: "13,261834"
 titel: "Schauspielhaus"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Neubrandenburg"
 country: "Deutschland"
 completed: "11.862"
@@ -18,9 +18,6 @@ title: "Schauspielhaus"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

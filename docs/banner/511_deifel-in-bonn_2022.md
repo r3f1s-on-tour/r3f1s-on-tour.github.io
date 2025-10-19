@@ -3,7 +3,7 @@ nummer: "511"
 startLatitude: "50,732038"
 startLongitude: "7,097646"
 titel: "Deifel in Bonn"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Bonn"
 country: "Deutschland"
 completed: "10.884"
@@ -18,9 +18,6 @@ title: "Deifel in Bonn"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

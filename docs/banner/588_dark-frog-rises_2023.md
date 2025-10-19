@@ -3,7 +3,7 @@ nummer: "588"
 startLatitude: "51,044895"
 startLongitude: "13,739913"
 titel: "DARK FROG RISES"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Dresden"
 country: "Deutschland"
 completed: "13.044"
@@ -18,9 +18,6 @@ title: "DARK FROG RISES"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

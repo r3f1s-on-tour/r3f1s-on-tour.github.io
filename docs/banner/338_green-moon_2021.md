@@ -3,7 +3,7 @@ nummer: "338"
 startLatitude: "52.551748"
 startLongitude: "13.414479"
 titel: "Green Moon"
-picture: "https://lh3.googleusercontent.com/lr/AFBm1_Z_rLPc-ukZNUzgK10Sj-r-Javewp7QIb2_-L89lW3fEeitCStwmPKS6RyvYIro7DHaLTeoTIRTNWD-Aib__yROz-T0LlyUkD1lAqiUEadk8QB4dnOqxA_kap1_8LyBrvLlJ-ctDoZASp1V_23LuJUW299RYWsXsl7M4jWuAoT34Hc0Tvceo02OJHTXMa-eyvAVYpp9RWOitLi27YnsCfCFm3Bo0xgIMZ0Q9Vv9TpsLmoJJos6cwaIfPN1ZjTAebdxJiRxU8KN2Gt_RuJaLz5rYvnr-6sN_7zdUCLoqpC2HoiZ27-o5o3nKmhCivzfrKxpxBKmG7F8P0JvTg6hwbCuCsf60sr6XcXDizZ00035DbpSeuru5HiQEhGyUvePXdplNfXG58sV9IYZZW_-4DvFG58BlcRe0TAjo_QhsewjffIaZWZsFmS85dlCqWnLjLnwAsmLFldKBpZ7ZLtbH2QHoFrTA5DGE4bfx7rBlFUstYM-5Qg-O2afe_pL6q3dz5s2NFk_e9Aioyk_G_uvT-B9Nw_HG_Mz2TQOlX4L4W0epBEQHC4yJOdHfh60TcekM8Ytyr3b_yJPbCncfh2JHow_7cEx1bChD1qhadPpj2bPA76wi6-zlkg4eu9BilAIeUTCXJd8WmjlJZ_591d4tAJb0c5QWMp4Wl3KDm6lnjAGyFmNBZ63K8Zg11zYFa4rFgt6Ja-JXbarSKU7Nu7fHIF9gLOhyg4A6LHQdPi-xIaNPDgyf63AUGfQhWDMhw0HkB8vEChkDExdiZC-74oKe7woCnjH03Mq5Tx21DV5dZZ9ivWyOrtl10jAsuO3czW2gSEXsQrbK2ddd_WSjh-mgymSxHuuO-BNc_wig"
+picture: ""
 region: "Berlin"
 country: "Deutschland"
 completed: "7680"
@@ -18,9 +18,6 @@ title: "Green Moon"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

@@ -3,7 +3,7 @@ nummer: "515"
 startLatitude: "52,505506"
 startLongitude: "13,306116"
 titel: "Banksy - Stop and Search"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Berlin"
 country: "Deutschland"
 completed: "10.968"
@@ -18,9 +18,6 @@ title: "Banksy - Stop and Search"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

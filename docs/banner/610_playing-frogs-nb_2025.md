@@ -3,7 +3,7 @@ nummer: "610"
 startLatitude: "53.561265"
 startLongitude: "13.259266"
 titel: "Playing Frogs NB"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Neubrandenburg"
 country: "Deutschland"
 completed: "13.362"
@@ -18,9 +18,6 @@ title: "Playing Frogs NB"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

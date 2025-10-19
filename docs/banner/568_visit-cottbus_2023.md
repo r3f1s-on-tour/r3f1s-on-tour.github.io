@@ -3,7 +3,7 @@ nummer: "568"
 startLatitude: "51,749995"
 startLongitude: "14,324926"
 titel: "Visit Cottbus"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Cottbus - Chóśebuz"
 country: "Deutschland"
 completed: "12.558"
@@ -18,9 +18,6 @@ title: "Visit Cottbus"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

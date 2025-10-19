@@ -3,7 +3,7 @@ nummer: "601"
 startLatitude: "39,479126"
 startLongitude: "-0,376042"
 titel: "Conillets"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "València"
 country: "España"
 completed: "13.242"
@@ -18,9 +18,6 @@ title: "Conillets"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

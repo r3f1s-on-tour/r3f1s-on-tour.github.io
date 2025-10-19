@@ -3,7 +3,7 @@ nummer: "607"
 startLatitude: "39,467501"
 startLongitude: "-0,333273"
 titel: "Valencia"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "València"
 country: "España"
 completed: "13.308"
@@ -18,9 +18,6 @@ title: "Valencia"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

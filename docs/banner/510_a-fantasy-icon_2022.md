@@ -3,7 +3,7 @@ nummer: "510"
 startLatitude: "51,255334"
 startLongitude: "7,145981"
 titel: "A fantasy Icon"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Wuppertal"
 country: "Deutschland"
 completed: "10.878"
@@ -18,9 +18,6 @@ title: "A fantasy Icon"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

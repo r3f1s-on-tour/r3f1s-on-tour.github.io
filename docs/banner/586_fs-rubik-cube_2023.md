@@ -3,7 +3,7 @@ nummer: "586"
 startLatitude: "51,062715"
 startLongitude: "13,745904"
 titel: "#FS Rubik Cube"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Dresden"
 country: "Deutschland"
 completed: "13.014"
@@ -18,9 +18,6 @@ title: "#FS Rubik Cube"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

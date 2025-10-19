@@ -3,7 +3,7 @@ nummer: "478"
 startLatitude: "52,756318"
 startLongitude: "13,244588"
 titel: "Spooky Green Second Sunday in Oranienburg"
-picture: "Bitte Url nachtragen"
+picture: ""
 region: "Oranienburg"
 country: "Deutschland"
 completed: "10.404"
@@ -18,9 +18,6 @@ title: "Spooky Green Second Sunday in Oranienburg"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

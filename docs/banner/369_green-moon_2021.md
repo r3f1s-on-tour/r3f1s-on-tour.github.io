@@ -3,7 +3,7 @@ nummer: "369"
 startLatitude: "53.557736"
 startLongitude: "13.26025"
 titel: "Green Moon"
-picture: "https://api.bannergress.com/bnrs/pictures/30346ed4db295b0f99fa0840c27a8851"
+picture: ""
 region: "Neubrandenburg"
 country: "Deutschland"
 completed: "8106"
@@ -18,9 +18,6 @@ title: "Green Moon"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
