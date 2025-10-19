@@ -1,15 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-make_banner_stats.py (final with year-only 'date' support + overwrite control + 'nummer' filter)
-- Überschreibt stats.md standardmäßig (Option --no-overwrite verhindert das).
-- Erkennt Datum robust (YAML date/datetime, ISO mit Z, verschiedene Formate, sowie Jahr-only wie 2023).
-- Zeitraum: vom ersten erkannten Banner-Jahr bis heute (Jahre = inklusive Zählung).
-- Rekursives Scannen von docs/banner (Unterordner inkl.).
-- **Filter**: Es werden ausschließlich Banner-Dateien berücksichtigt, deren Frontmatter ein Feld 'nummer' enthält.
-- Jahresstatistik mit: Jahr, Banner, Missionen, km gesamt, 500er-Meilensteine.
-- Länder- und Städte-Statistik.
-Benötigt: pyyaml
+make_banner_stats.py
+(final with: year-only 'date', overwrite control, 'nummer' filter, lengthKMeters=km,
+ averages for missions & km per year/month)
 """
 import argparse
 import sys
@@ -23,8 +17,6 @@ try:
 except ImportError:
     print("Dieses Skript benötigt PyYAML. Installiere mit: pip install pyyaml", file=sys.stderr)
     sys.exit(1)
-
-# ------------------------------ helpers ------------------------------
 
 FM_DELIM = re.compile(r'^---\s*$', re.MULTILINE)
 DATE_KEYS = ["date","completed_date","completed_at","done_date","finished_date"]
@@ -50,9 +42,6 @@ def coalesce(*values):
     return None
 
 def parse_date_any(value):
-    """Accepts datetime.date/datetime/int/year-string or full date-string. Returns date or None.
-       Special: If only a year is provided (e.g., 2023 or "2023"), return Jan 1 of that year.
-    """
     if value is None:
         return None
     if isinstance(value, date) and not isinstance(value, datetime):
@@ -101,7 +90,6 @@ def parse_date_any(value):
     return None
 
 def parse_number(value):
-    """Parse int from str or number; returns None if not possible."""
     if value is None:
         return None
     if isinstance(value, (int, float)):
@@ -123,7 +111,6 @@ def parse_number(value):
     return None
 
 def parse_float_km(value):
-    """Parse float km from str/number. Accepts '12,3', '12.3 km' etc."""
     if value is None:
         return 0.0
     if isinstance(value, (int, float)):
@@ -141,7 +128,7 @@ def parse_float_km(value):
 def load_banner_files(banner_dir: Path):
     if not banner_dir.exists():
         raise FileNotFoundError(f"Banner-Ordner nicht gefunden: {banner_dir}")
-    for path in sorted(banner_dir.rglob("*.md")):  # REKURSIV
+    for path in sorted(banner_dir.rglob("*.md")):
         name = path.name.lower()
         if name in ("index.md","gallery.md","stats.md") or name.startswith("_"):
             continue
@@ -179,12 +166,6 @@ def extract_year_and_date(fm: dict):
     return None, None
 
 def banner_distance_km(fm: dict) -> float:
-    """
-    Extract distance for a banner in KM.
-    Interprets the following frontmatter keys as *kilometers* (with decimals allowed):
-      - lengthKMeters  (treat as KM per user info)
-      - distance_km, km, distance, kilometer
-    """
     if "lengthKMeters" in fm and fm.get("lengthKMeters") not in (None, ""):
         return parse_float_km(fm.get("lengthKMeters"))
     return parse_float_km(coalesce(
@@ -203,8 +184,6 @@ def banner_completed_cumulative(fm: dict):
     n = parse_number(fm.get("completed"))
     return n
 
-# ------------------------------ rendering ------------------------------
-
 def make_stats_md(summary, year_rows, country_counts, city_counts):
     lines = []
     lines.append("# Banner-Statistiken")
@@ -221,6 +200,10 @@ def make_stats_md(summary, year_rows, country_counts, city_counts):
     lines.append("")
     lines.append(f"- **Ø Banner pro Jahr (über Zeitraum):** {summary['avg_per_year']:.2f}")
     lines.append(f"- **Ø Banner pro Monat (über Zeitraum):** {summary['avg_per_month']:.2f}")
+    lines.append(f"- **Ø Missionen pro Jahr:** {summary['avg_missions_per_year']:.2f}")
+    lines.append(f"- **Ø Missionen pro Monat:** {summary['avg_missions_per_month']:.2f}")
+    lines.append(f"- **Ø km pro Jahr:** {summary['avg_km_per_year']:.2f}")
+    lines.append(f"- **Ø km pro Monat:** {summary['avg_km_per_month']:.2f}")
     lines.append("")
     lines.append("## Jahresstatistik")
     lines.append("")
@@ -254,8 +237,6 @@ def make_stats_md(summary, year_rows, country_counts, city_counts):
     lines.append("")
     return "\n".join(lines)
 
-# ------------------------------ main ------------------------------
-
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--root", default=".", help="Repo-Wurzel (für relative Pfade)")
@@ -272,7 +253,6 @@ def main():
         print(f"Stats existiert bereits und --no-overwrite gesetzt: {out_path}")
         return 0
 
-    # Sammle Rohdaten je Banner (nur mit 'nummer')
     banners_all = []
     countries_all = []
     cities_all = []
@@ -304,7 +284,6 @@ def main():
 
     banners = banners_all
 
-    # sort chronologisch
     def sort_key(b):
         if b["date"]:
             kdate = b["date"]
@@ -316,7 +295,6 @@ def main():
 
     banners.sort(key=sort_key)
 
-    # Zeitraum: erstes vorhandenes Jahr bis heute
     today = datetime.now().date()
     years_present = [b["year"] for b in banners if b["year"] is not None]
     if years_present:
@@ -330,13 +308,11 @@ def main():
         span_years = 1
         span_days = 0
 
-    # Jahresgruppen + Missionen & km berechnen
     per_year = defaultdict(list)
     for b in banners:
         if b["year"] is not None:
             per_year[b["year"]].append(b)
 
-    # kumulative completed über die Zeit (für Deltas & 500er-Meilensteine)
     prev_cum = None
     for b in banners:
         if b["missions_per_item"] is None:
@@ -362,7 +338,6 @@ def main():
         milestones_per_year[y] = max(0, milestones)
         last_known_cum = max_cum_this_year
 
-    # Jahreszeilen
     year_rows = []
     total_banners = 0
     total_km = 0.0
@@ -384,15 +359,18 @@ def main():
         total_km += km_sum
         total_missions += missions_sum
 
-    # Länder/Städte
     country_counter = Counter([c for c in countries_all if isinstance(c, str) and c.strip() != ""])
     city_counter = Counter([c for c in cities_all if isinstance(c, str) and c.strip() != ""])
     country_counts_sorted = sorted(country_counter.items(), key=lambda x: (-x[1], x[0].lower()))
     city_counts_sorted = sorted(city_counter.items(), key=lambda x: (-x[1], x[0].lower()))
 
-    # Durchschnitt über Zeitraum
+    months = span_years * 12 if span_years else 1
     avg_per_year = total_banners / span_years if span_years else float(total_banners)
-    avg_per_month = total_banners / (span_years * 12) if span_years else float(total_banners)
+    avg_per_month = total_banners / months if months else float(total_banners)
+    avg_missions_per_year = total_missions / span_years if span_years else float(total_missions)
+    avg_missions_per_month = total_missions / months if months else float(total_missions)
+    avg_km_per_year = total_km / span_years if span_years else float(total_km)
+    avg_km_per_month = total_km / months if months else float(total_km)
 
     summary = {
         "total_banners": total_banners,
@@ -404,6 +382,10 @@ def main():
         "unique_countries": len(country_counter),
         "avg_per_year": avg_per_year,
         "avg_per_month": avg_per_month,
+        "avg_missions_per_year": avg_missions_per_year,
+        "avg_missions_per_month": avg_missions_per_month,
+        "avg_km_per_year": avg_km_per_year,
+        "avg_km_per_month": avg_km_per_month,
     }
 
     md = make_stats_md(summary, year_rows, country_counts_sorted, city_counts_sorted)
