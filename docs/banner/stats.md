@@ -12,6 +12,10 @@
 
 - **Ø Banner pro Jahr (über Zeitraum):** 0.64
 - **Ø Banner pro Monat (über Zeitraum):** 0.05
+- **Ø Missionen pro Jahr:** 9.27
+- **Ø Missionen pro Monat:** 0.77
+- **Ø km pro Jahr:** 4.88
+- **Ø km pro Monat:** 0.41
 
 ## Jahresstatistik
 
