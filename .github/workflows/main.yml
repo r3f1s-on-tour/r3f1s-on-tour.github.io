@@ -61,7 +61,7 @@ jobs:
 
 
       - name: Run banner pages updater
-        run: python scripts/update_banner_pages.py
+        run: python scripts/update_banner_counters.py
 
       - name: Show diff after script
         run: |
