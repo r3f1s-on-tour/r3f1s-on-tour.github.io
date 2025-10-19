@@ -2,4 +2,4 @@
 title: "Profil"
 ---
 
-# {{ meta.page.title }}
+# {{ page.meta.title }}

@@ -2,4 +2,4 @@
 title: "Gallery"
 ---
 
-# {{ meta.page.title }}
+# {{ page.meta.title }}

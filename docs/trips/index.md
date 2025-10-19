@@ -2,4 +2,4 @@
 title: "Trips"
 ---
 
-# {{ meta.page.title }}
+# {{ page.meta.title }}

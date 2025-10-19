@@ -2,4 +2,4 @@
 title: "Home"
 ---
 
-# {{ meta.page.title }}
+# {{ page.meta.title }}
