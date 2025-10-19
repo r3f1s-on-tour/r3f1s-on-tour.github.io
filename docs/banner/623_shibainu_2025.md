@@ -1,0 +1,39 @@
+---
+nummer: "623"
+startLatitude: 52,50885
+startLongitude: 13,497454
+titel: ShibaInu
+picture: Bitte Url nachtragen
+region: Berlin
+country: Deutschland
+completed: "13578"
+missions: "6"
+date: "2025"
+bg-link: https://bannergress.com/banner/shibainu-a8c9
+onyx: "0"
+description: Zum 2nd Sunday führt Dich diese kurze Mission durch den Weitlingkiez von Lichtenberg. Start und Endpunkt sind U+S Lichtenberg
+lengthKMeters: 2,097
+title: ShibaInu
+---
+
+#{{ page.meta.title}}
+_**Datum:** {{ page.meta.date }} • **Country:**{{ page.meta.country}}_
+
+## Bild
+![{{page.meta.title | default('Bild')}}]({{page.meta.picture}})
+
+## Links
+- **bg-link**: {% raw %}[{{ page.meta.bg-link }}]({{ page.meta.bg-link }}){% endraw %}
+
+## Infos
+- **nummer**:{{ page.meta.nummer}}
+- **startLatitude**:{{ page.meta.startLatitude}}
+- **startLongitude**:{{ page.meta.startLongitude}}
+- **region**:{{ page.meta.region}}
+- **country**:{{ page.meta.country}}
+- **completed**:{{ page.meta.completed}}
+- **missions**:{{ page.meta.missions}}
+- **onyx**:{{ page.meta.onyx}}
+- **description**:{{ page.meta.description}}
+- **lengthKMeters**:{{ page.meta.lengthKMeters}}
+

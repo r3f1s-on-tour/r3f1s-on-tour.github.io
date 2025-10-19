@@ -1,0 +1,29 @@
+---
+nummer: "620"
+startLatitude: 
+startLongitude: 
+titel: MD Chemnitz
+picture: 
+region: Chemnitz
+country: Deutschland
+completed: "13.512"
+missions: "6"
+date: "2025"
+bg-link: 
+onyx: "0"
+description: 
+lengthKMeters: 
+title: MD Chemnitz
+---
+
+#{{ page.meta.title}}
+_**Datum:** {{ page.meta.date }} • **Country:**{{ page.meta.country}}_
+
+## Infos
+- **nummer**:{{ page.meta.nummer}}
+- **region**:{{ page.meta.region}}
+- **country**:{{ page.meta.country}}
+- **completed**:{{ page.meta.completed}}
+- **missions**:{{ page.meta.missions}}
+- **onyx**:{{ page.meta.onyx}}
+

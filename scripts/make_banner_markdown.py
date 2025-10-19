@@ -4,8 +4,9 @@ Create Markdown files from a CSV.
 - Each row -> docs/banner/<number>_<slugified-title>_<date>.md
 - Writes all CSV columns into YAML front matter.
 - If target file already exists, the row is skipped (unless --overwrite).
-- If a column named like "picture"/"image"/"pic_url" contains http(s) links,
-  they are embedded directly as images in the Markdown body.
+- Body only shows fields present in frontmatter and references them via {{ page.meta.<key> }},
+  styled into sections (no big generic table).
+- Picture-like columns are embedded as images using their {{ page.meta.<key> }} values.
 
 Usage:
   python make_banner_markdown.py --csv path/to/banner.csv --out docs/banner [--overwrite]
@@ -20,6 +21,8 @@ PICTURE_KEYS = [
     "picture", "pictures", "image", "images", "img", "pic", "pic_url",
     "picture_url", "image_url", "bild", "bilder", "pictureurl", "imageurl"
 ]
+
+URL_HINT_KEYS = set(PICTURE_KEYS)
 
 def slugify(value: str) -> str:
     value = value.strip().lower()
@@ -58,24 +61,17 @@ def infer_field(row: dict, keys: list[str]) -> str:
     return ""
 
 def yaml_escape(value: str) -> str:
-    """Quote value if needed for YAML safety."""
     if value is None:
         return '""'
     s = str(value)
-
-    # Heuristik: Werte quoten, die YAML heikel findet
-    # 1) bool/null/zahl-ähnlich
     if re.fullmatch(r"(true|false|null)", s, flags=re.IGNORECASE):
         need = True
     elif re.fullmatch(r"-?\d+(\.\d+)?", s):
         need = True
     else:
         need = False
-        # 2) Sonderzeichen laut YAML + führende/abschließende Spaces + Newlines
-        #    WICHTIG: In der Zeichenklasse das Backslash zuerst platzieren,
-        #    damit keine Range wie '\-?' entsteht.
         if (
-            re.search(r"[\\:#{}\[\],&*!|>@`?-]", s)  # enthält Backslash, Doppelpkt., #, {}, [], usw. oder '-' oder '?'
+            re.search(r"[\\:#{}\\[\\],&*!|>@`?-]", s)
             or s.startswith(" ")
             or s.endswith(" ")
             or "\n" in s
@@ -83,9 +79,7 @@ def yaml_escape(value: str) -> str:
             or "'" in s
         ):
             need = True
-
     if need:
-        # Doppelte Anführungszeichen verwenden und sicher escapen
         s = s.replace("\\", "\\\\").replace('"', '\\"')
         return f'"{s}"'
     return s
@@ -103,67 +97,81 @@ def split_urls(val: str) -> list[str]:
             seen.add(u)
     return unique
 
-def extract_picture_urls(frontmatter: dict) -> list[str]:
-    urls = []
-    for k, v in frontmatter.items():
-        if k.lower() in PICTURE_KEYS and isinstance(v, str):
-            urls.extend(split_urls(v))
-    # de-dupe
-    seen = set()
-    ret = []
-    for u in urls:
-        if u not in seen:
-            ret.append(u)
-            seen.add(u)
-    return ret
+def is_urlish(value: str) -> bool:
+    return isinstance(value, str) and value.strip().startswith(("http://", "https://"))
 
-def write_markdown(out_path: str, frontmatter: dict):
-    # YAML
+def write_markdown(out_path: str, frontmatter: dict, ordered_fields: list[str]):
     lines = ["---"]
-    for k, v in frontmatter.items():
+    for k in ordered_fields:
+        v = frontmatter.get(k, "")
         lines.append(f"{k}: {yaml_escape(v)}")
     lines.append("---")
     lines.append("")
 
-    # Body
-    title = frontmatter.get("title") or frontmatter.get("name") or frontmatter.get("titel") or "Untitled"
-    date_val = frontmatter.get("date") or frontmatter.get("datum") or ""
-    lines.append(f"# {title}")
-    if date_val:
-        lines.append(f"_Date:_ {date_val}")
+    # Titel
+    title_key = None
+    for cand in ("title", "name", "titel"):
+        if cand in frontmatter and str(frontmatter[cand]).strip():
+            title_key = cand
+            break
+    if title_key:
+        lines.append(f"# {{ {{ page.meta.{title_key} }} }}".replace(" { ", "{").replace(" }", "}"))
+    else:
+        lines.append("# {{ page.meta.title | default('Untitled') }}")
+
+    # Meta-Zeile (nur vorhandene Felder)
+    meta_line = []
+    if "date" in frontmatter and str(frontmatter["date"]).strip():
+        meta_line.append("**Datum:** {{ page.meta.date }}")
+    elif "datum" in frontmatter and str(frontmatter["datum"]).strip():
+        meta_line.append("**Datum:** {{ page.meta.datum }}")
+
+    for loc_key in ("city","stadt","ort","location","place","country","land"):
+        if loc_key in frontmatter and str(frontmatter[loc_key]).strip():
+            meta_line.append(f"**{loc_key.capitalize()}:** {{ {{ page.meta.{loc_key} }} }}".replace(" { ", "{").replace(" }", "}"))
+
+    if meta_line:
+        lines.append("_" + " • ".join(meta_line) + "_")
         lines.append("")
 
-    # Bilder einbetten
-    pic_urls = extract_picture_urls(frontmatter)
-    if pic_urls:
-        lines.append("## Bild" if len(pic_urls) == 1 else "## Bilder")
-        for u in pic_urls:
-            lines.append(f"![{title}]({u})")
+    # Bilder (nur Felder, die wirklich existieren)
+    pic_keys_present = [k for k in ordered_fields if k.lower() in PICTURE_KEYS and str(frontmatter.get(k, "")).strip()]
+    if pic_keys_present:
+        lines.append("## Bild" if len(pic_keys_present)==1 else "## Bilder")
+        for k in pic_keys_present:
+            lines.append(f"![{{ {{ page.meta.title | default('Bild') }} }}]({{ {{ page.meta.{k} }} }})".replace(" { ", "{").replace(" }", "}"))
         lines.append("")
 
-    # Weitere Links (aus anderen URL-Feldern, die nicht Bilder sind)
-    links = []
-    embedded = set(pic_urls)
-    for k, v in frontmatter.items():
-        if isinstance(v, str):
-            for u in split_urls(v):
-                if u not in embedded:
-                    links.append(f"- **{k}**: [{u}]({u})")
-    if links:
+    # Links (andere URL-Felder)
+    link_lines = []
+    for k in ordered_fields:
+        if k.lower() in URL_HINT_KEYS:
+            continue
+        val = frontmatter.get(k, "")
+        if is_urlish(val):
+            link_lines.append(f"- **{k}**: {{% raw %}}[{{{{ page.meta.{k} }}}}]({{{{ page.meta.{k} }}}}){{% endraw %}}")
+    if link_lines:
         lines.append("## Links")
-        lines.extend(links)
+        lines.extend(link_lines)
         lines.append("")
 
-    # Details-Tabelle
-    if frontmatter:
-        lines.append("## Details")
-        lines.append("| Field | Value |")
-        lines.append("|---|---|")
-        for k, v in frontmatter.items():
-            sv = str(v).replace("\n", " ").strip()
-            if len(sv) > 200:
-                sv = sv[:197] + "..."
-            lines.append(f"| {k} | {sv} |")
+    # Infos (schöne Liste statt Tabelle)
+    info_lines = []
+    for k in ordered_fields:
+        if k.lower() in PICTURE_KEYS:
+            continue
+        val = str(frontmatter.get(k, "")).strip()
+        if not val:
+            continue
+        if is_urlish(val):
+            continue
+        if k in ("title","name","titel","date","datum"):
+            continue
+        info_lines.append(f"- **{k}**: {{ {{ page.meta.{k} }} }}".replace(" { ", "{").replace(" }", "}"))
+    if info_lines:
+        lines.append("## Infos")
+        lines.extend(info_lines)
+        lines.append("")
 
     content = "\n".join(lines) + "\n"
     with open(out_path, "w", encoding="utf-8") as f:
@@ -194,31 +202,37 @@ def main():
             filename = f"{num}_{slug}_{date_norm}.md"
             out_path = os.path.join(out_dir, filename)
 
-            # Frontmatter in Original-Spaltenreihenfolge aufbauen
+            ordered_fields = list(reader.fieldnames)
             frontmatter = {}
-            for k in reader.fieldnames:
+            for k in ordered_fields:
                 val = row.get(k, "")
                 if isinstance(val, str):
                     val = val.strip()
                 frontmatter[k] = val
-            if "title" not in frontmatter and "titel" in frontmatter and frontmatter["titel"]:
-                frontmatter["title"] = frontmatter["titel"]
-            if "date" not in frontmatter and date_raw:
+
+            # Komfortfelder titel->title, datum->date (falls sinnvoll)
+            if "title" not in frontmatter or not str(frontmatter.get("title","")).strip():
+                if "titel" in frontmatter and str(frontmatter["titel"]).strip():
+                    frontmatter["title"] = frontmatter["titel"]
+                    if "title" not in ordered_fields:
+                        ordered_fields.append("title")
+            if date_raw and ("date" not in frontmatter or not str(frontmatter.get("date","")).strip()):
                 frontmatter["date"] = date_norm
+                if "date" not in ordered_fields:
+                    ordered_fields.append("date")
 
             if os.path.exists(out_path):
                 if args.overwrite:
-                    write_markdown(out_path, frontmatter)
+                    write_markdown(out_path, frontmatter, ordered_fields)
                     overwritten += 1
                 else:
                     skipped += 1
                 continue
 
-            write_markdown(out_path, frontmatter)
+            write_markdown(out_path, frontmatter, ordered_fields)
             created += 1
 
-    msg = f"Done. Created: {created}, Overwritten: {overwritten}, Skipped (exists): {skipped}. Output: {os.path.abspath(out_dir)}"
-    print(msg)
+    print(f"Done. Created: {created}, Overwritten: {overwritten}, Skipped (exists): {skipped}. Output: {os.path.abspath(out_dir)}")
 
 if __name__ == "__main__":
     main()

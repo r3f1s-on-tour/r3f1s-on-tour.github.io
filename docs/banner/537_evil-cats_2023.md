@@ -1,0 +1,36 @@
+---
+nummer: "537"
+startLatitude: 53,506861
+startLongitude: 13,74885
+titel: Evil Cats
+picture: Bitte Url nachtragen
+region: Strasburg (Uckermark)
+country: Deutschland
+completed: "11.838"
+missions: "18"
+date: "2023"
+bg-link: 
+onyx: "0"
+description: Beginne eine Runde durch Strasburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Strasburg. Starte in der Schulstraße
+lengthKMeters: 6,36
+title: Evil Cats
+---
+
+#{{ page.meta.title}}
+_**Datum:** {{ page.meta.date }} • **Country:**{{ page.meta.country}}_
+
+## Bild
+![{{page.meta.title | default('Bild')}}]({{page.meta.picture}})
+
+## Infos
+- **nummer**:{{ page.meta.nummer}}
+- **startLatitude**:{{ page.meta.startLatitude}}
+- **startLongitude**:{{ page.meta.startLongitude}}
+- **region**:{{ page.meta.region}}
+- **country**:{{ page.meta.country}}
+- **completed**:{{ page.meta.completed}}
+- **missions**:{{ page.meta.missions}}
+- **onyx**:{{ page.meta.onyx}}
+- **description**:{{ page.meta.description}}
+- **lengthKMeters**:{{ page.meta.lengthKMeters}}
+

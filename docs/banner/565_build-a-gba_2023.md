@@ -1,0 +1,40 @@
+---
+nummer: "565"
+startLatitude: 52,390195
+startLongitude: 13,06678
+titel: Build a GBA
+picture: Bitte Url nachtragen
+region: Potsdam
+country: Deutschland
+completed: "12.522"
+missions: "24"
+date: "2023"
+bg-link: https://bannergress.com/banner/build-a-gba-9de8
+onyx: "1"
+description: "Discover Potsdam's city center and be rewarded with a nice banner in your Scanner. 
+This mission starts at Potsdam Central Station and is the 1st of 24."
+lengthKMeters: 7,822
+title: Build a GBA
+---
+
+#{{ page.meta.title}}
+_**Datum:** {{ page.meta.date }} • **Country:**{{ page.meta.country}}_
+
+## Bild
+![{{page.meta.title | default('Bild')}}]({{page.meta.picture}})
+
+## Links
+- **bg-link**: {% raw %}[{{ page.meta.bg-link }}]({{ page.meta.bg-link }}){% endraw %}
+
+## Infos
+- **nummer**:{{ page.meta.nummer}}
+- **startLatitude**:{{ page.meta.startLatitude}}
+- **startLongitude**:{{ page.meta.startLongitude}}
+- **region**:{{ page.meta.region}}
+- **country**:{{ page.meta.country}}
+- **completed**:{{ page.meta.completed}}
+- **missions**:{{ page.meta.missions}}
+- **onyx**:{{ page.meta.onyx}}
+- **description**:{{ page.meta.description}}
+- **lengthKMeters**:{{ page.meta.lengthKMeters}}
+

@@ -1,0 +1,39 @@
+---
+nummer: "369"
+startLatitude: "53.557736"
+startLongitude: "13.26025"
+titel: Green Moon
+picture: https://api.bannergress.com/bnrs/pictures/30346ed4db295b0f99fa0840c27a8851
+region: Neubrandenburg
+country: Deutschland
+completed: "8106"
+missions: "18"
+date: "2021"
+bg-link: https://bannergress.com/banner/green-moon-6a50
+onyx: "0"
+description: Mache eine kleine Entdeckungstour durch Neubrandenburg. Die Tour beginnt auf dem Marktplatz und führt durch das Katharienviertel und weiter in die Südstadt und endet auf dem Marktplatz.
+lengthKMeters: 10,00
+title: Green Moon
+---
+
+#{{ page.meta.title}}
+_**Datum:** {{ page.meta.date }} • **Country:**{{ page.meta.country}}_
+
+## Bild
+![{{page.meta.title | default('Bild')}}]({{page.meta.picture}})
+
+## Links
+- **bg-link**: {% raw %}[{{ page.meta.bg-link }}]({{ page.meta.bg-link }}){% endraw %}
+
+## Infos
+- **nummer**:{{ page.meta.nummer}}
+- **startLatitude**:{{ page.meta.startLatitude}}
+- **startLongitude**:{{ page.meta.startLongitude}}
+- **region**:{{ page.meta.region}}
+- **country**:{{ page.meta.country}}
+- **completed**:{{ page.meta.completed}}
+- **missions**:{{ page.meta.missions}}
+- **onyx**:{{ page.meta.onyx}}
+- **description**:{{ page.meta.description}}
+- **lengthKMeters**:{{ page.meta.lengthKMeters}}
+
