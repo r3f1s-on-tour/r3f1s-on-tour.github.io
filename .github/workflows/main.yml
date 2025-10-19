@@ -3,20 +3,16 @@ name: Build and deploy pages
 on:
   push:
     branches: [ "main" ]
-    # Löst bei neuen Dateien UND Änderungen in diesen Pfaden aus
     paths:
       - "docs/**"
       - "mkdocs.yml"
       - ".github/workflows/main.yml"
       # - "scripts/**"
       # - "templates/**"
-      # ggf. weitere relevante Pfade ergänzen:
-      # - "overrides/**"
-      # - "docs/**"
   workflow_dispatch:
 
 permissions:
-  contents: write   # wichtig für Auto-Commit
+  contents: write
   pages: write
   id-token: write
 
@@ -27,11 +23,14 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      COMMIT_BANNER_CHANGES: "true"   # nur der Übersicht halber; Commit kommt am ENDE
+      DEBUG_BANNER: "1"               # zeigt, welche Banner-Dateien gezählt wurden (optional)
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # gut für MkDocs-Plugins, die Git-Metadaten verwenden
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -49,71 +48,46 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; else pip install mkdocs; fi
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            pip install mkdocs ruamel.yaml pyyaml
+          fi
 
       - name: Show pre-change status
         run: |
           echo "PWD=$(pwd)"
           while IFS= read -r l; do printf 'docs: %s\n' "$l"; done < <(ls -la docs)
-          while IFS= read -r l; do printf 'docs/banner: %s\n' "$l"; done < <(ls -la docs/banner)
+          while IFS= read -r l; do printf 'docs/banner: %s\n' "$l"; done < <(ls -la docs/banner || true)
           echo "----- docs/index.md (HEAD) -----"
-          (test -f docs/index.md && sed -n '1,120p' docs/index.md) || echo "docs/index.md missing"
+          (test -f docs/index.md && sed -n '1,160p' docs/index.md) || echo "docs/index.md missing"
 
-
+      # >>> Erzeugt/überschreibt docs/index.md und docs/banner/index.md
       - name: Run banner pages updater
-        run: python scripts/update_banner_counters.py
+        run: python scripts/update_banner_pages.py
 
-      - name: Show diff after script
+      # (Optional) zusätzliche Stats-Datei erzeugen
+      - name: Generate banner stats (optional)
         run: |
-          echo "----- git status -----"
-          git status --porcelain
-          echo "----- diff docs/index.md -----"
-          git diff -- docs/index.md || true
-          echo "----- diff docs/banner/index.md -----"
-          git diff -- docs/banner/index.md || true
-
-      # OPTIONAL: commit & push the updated files to the repo
-      - name: Commit updated indices (optional)
-        if: ${{ env.COMMIT_BANNER_CHANGES == 'true' }}
-        run: |
-          set -e
-          if ! git diff --quiet -- docs/index.md docs/banner/index.md; then
-            git config user.name  "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add docs/index.md docs/banner/index.md
-            git commit -m "chore: update banner stats and directory [skip ci]"
-            git push
-          else
-            echo "No changes to commit."
-          fi
-        env:
-          COMMIT_BANNER_CHANGES: "true"
-
-      - name: Generate banner stats
-        run: |
-          python -m pip install pyyaml
           python scripts/make_banner_stats.py --banner-dir docs/banner --out docs/banner/stats.md
+        continue-on-error: true
 
-      # OPTIONAL: commit & push the updated files to the repo
-      - name: Commit updated indices (optional)
-        if: ${{ env.COMMIT_BANNER_CHANGES == 'true' }}
+      - name: Show post-change status (these files will be built)
         run: |
-          set -e
-          if ! git diff --quiet -- docs/banner/stats.md docs/banner/stats.md; then
-            git config user.name  "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add docs/banner/stats.md docs/banner/stats.md
-            git commit -m "chore: update banner stats and directory [skip ci]"
-            git push
-          else
-            echo "No changes to commit."
-          fi
-        env:
-          COMMIT_BANNER_CHANGES: "true"
+          echo "----- UPDATED docs/index.md -----"
+          sed -n '1,220p' docs/index.md || true
+          echo "----- UPDATED docs/banner/index.md -----"
+          sed -n '1,220p' docs/banner/index.md || true
+          echo "----- UPDATED docs/banner/stats.md -----"
+          sed -n '1,160p' docs/banner/stats.md || echo "no stats.md (optional)"
 
       - name: Build MkDocs site
+        run: mkdocs build --strict
+
+      - name: Inspect built homepage
         run: |
-          mkdocs build --strict
+          echo "----- site/index.html (grep) -----"
+          grep -nE 'Total banners|Current progress|Next milestone|Latest banner|Last updated' site/index.html || true
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
@@ -123,13 +97,24 @@ jobs:
         with:
           path: ./site
 
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      # <<< Commit & Push AM ENDE (nach dem Build/Artifact Upload)
+      - name: Commit updated docs (final step)
+        if: ${{ env.COMMIT_BANNER_CHANGES == 'true' }}
+        run: |
+          set -e
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # nur adden, wenn existent
+          git add docs/index.md || true
+          git add docs/banner/index.md || true
+          git add docs/banner/stats.md || true
+
+          # commit nur, wenn wirklich Änderungen
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update banner stats and directory [skip ci]"
+            git push
+            echo "Pushed post-build updates."
+          else
+            echo "No changes to commit."
+          fi
