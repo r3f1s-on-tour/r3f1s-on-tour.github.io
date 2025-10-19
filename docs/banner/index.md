@@ -10,7 +10,7 @@
 _(no entries)_
 
 ## B
-_(no entries)_
+- [Besuch der 4 Tore](./6_besuch-der-4-tore_2015/)
 
 ## C
 _(no entries)_
@@ -63,7 +63,6 @@ _(no entries)_
 ## S
 - [Silhouette von Stralsund](./5_silhouette-von-stralsund_2015/)
 - [Starry Night TARDIS](./4_starry-night-tardis_2015/)
-- [Stats](./stats/)
 
 ## T
 _(no entries)_
