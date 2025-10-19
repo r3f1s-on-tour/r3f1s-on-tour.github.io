@@ -117,7 +117,6 @@ def upsert_stats_block(body: str, stats_md: str) -> str:
         pre = body.split(STATS_START)[0]
         post = body.split(STATS_END)[-1]
         return f"{pre}{STATS_START}\n{stats_md}\n{STATS_END}{post}"
-    # append block at end
     if body and not body.endswith("\n\n"): body += "\n"
     return f"{body}\n{STATS_START}\n{stats_md}\n{STATS_END}\n"
 
@@ -162,38 +161,41 @@ def main():
         max_slug = latest.stem
         max_title = display_title(fm_latest, max_slug)
 
-    # ---------- write docs/index.md (stats) ----------
+    # ---------- write docs/index.md (stats block) ----------
     root_text = load_text(ROOT_INDEX)
     root_fm, root_body, has_fm = read_frontmatter_and_body(root_text) if root_text else ({}, "", False)
 
+    # derive stats
+    next_ = int(next_milestone(max_completed, 500))
+    remaining = int(max(0, next_ - max_completed))
+    progress_pct = round(100 * (max_completed % 500) / 500, 2)
+    milestones_reached = max_completed // 500  # NEW: how many 500-steps already reached
+
+    # frontmatter values (kept up to date for templates if needed)
     root_fm["banner_count"] = banner_count
     root_fm["completed_current"] = int(max_completed)
     root_fm["completed_from_banner_slug"] = max_slug
     root_fm["completed_from_banner_title"] = max_title
-    root_fm["next_milestone"] = int(next_milestone(max_completed, 500))
-    root_fm["remaining_to_next"] = int(max(0, root_fm["next_milestone"] - max_completed))
-    root_fm["progress_pct_to_next"] = round(100 * (max_completed % 500) / 500, 2)
+    root_fm["next_milestone"] = next_
+    root_fm["remaining_to_next"] = remaining
+    root_fm["progress_pct_to_next"] = progress_pct
+    root_fm["milestones_reached_500"] = int(milestones_reached)  # NEW
     root_fm["last_updated"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
-    # pretty stats section (English)
+    # exact formatting block (code block to match your example precisely)
     stats_lines = [
-        "## My Ingress Banner Stats",
-        "",
-        f"- **Total banners:** {banner_count}",
-        f"- **Current progress:** {max_completed} missions",
-        f"- **Next milestone (×500):** {root_fm['next_milestone']}  "
-          f"(_remaining:_ {root_fm['remaining_to_next']}, "
-          f"_progress:_ {root_fm['progress_pct_to_next']}%)",
+        "```text",
+        f"Total banners: {banner_count}",
+        f"Current progress: {max_completed} missions",
+        f"Milestones reached (×500): {milestones_reached}",
+        f"Next milestone (×500): {next_} (remaining: {remaining}, progress: {progress_pct}%)",
+        f"Latest banner at this progress: {max_title or '-'}",
+        f"Last updated: {root_fm['last_updated']}",
+        "```",
     ]
-    if max_title:
-        stats_lines.insert(3, f"- **Latest banner at this progress:** "
-                              f"[{max_title}](./banner/{max_slug}/)")
-    stats_lines.append(f"- _Last updated:_ {root_fm['last_updated']}")
     stats_md = "\n".join(stats_lines) + "\n"
 
-    # keep user's homepage content; only upsert the marked stats block
     if not root_body.strip():
-        # create a minimal heading if file was empty / no body
         root_body = "# Welcome\n\n"
     new_root_body = upsert_stats_block(root_body, stats_md)
     new_root_content = write_frontmatter_and_body(root_fm, new_root_body)
@@ -205,9 +207,8 @@ def main():
 
     # ---------- write docs/banner/index.md (directory only) ----------
     banner_text = load_text(BANNER_INDEX)
-    banner_fm, _, has_banner_fm = read_frontmatter_and_body(banner_text) if banner_text else ({}, "", False)
-    # keep existing frontmatter as-is (no stats here)
-    banner_body = build_banner_directory(entries)
+    banner_fm, _, _ = read_frontmatter_and_body(banner_text) if banner_text else ({}, "", False)
+    banner_body = build_banner_directory(entries)  # only directory
     new_banner_content = write_frontmatter_and_body(banner_fm, banner_body)
     if new_banner_content != banner_text:
         save_text(BANNER_INDEX, new_banner_content)
