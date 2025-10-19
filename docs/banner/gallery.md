@@ -6,6 +6,16 @@ title: "Banner Galerie"
 
 <div class="banner-gallery-onecol" style="display:block;width:100%;max-width:1000px;margin:0 auto;">
 <div class="banner-item" style="display:block;width:100%;clear:both;margin:0 0 20px 0;">
+  <a href="/banner/623_shibainu_2025/" style="display:block;width:100%;text-decoration:none;border:0;outline:0;">
+    <figure style="display:block;width:100%;margin:0;">
+      <img src="https://lh3.googleusercontent.com/pw/AP1GczOowgutNnLj6jCuIzIUV1UDldcbPlNZ_S-BOct0AtoHJz29uvMCprzDnzQShZILOSdac21mF1bg2DnnRSTgj7JMKLvxRiCx5OKqL2WdSDcYtpGBGteeT1oIfaznmpHYu249NGYgeise1vnczp8HJqeCRw" alt="#623 — ShibaInu" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:10px;"/>
+      <figcaption style="display:block;width:100%;margin-top:8px;font-size:1rem;opacity:0.9;">
+        <strong>#623</strong> — ShibaInu
+      </figcaption>
+    </figure>
+  </a>
+</div>
+<div class="banner-item" style="display:block;width:100%;clear:both;margin:0 0 20px 0;">
   <a href="/banner/6_besuch-der-4-tore_2015/" style="display:block;width:100%;text-decoration:none;border:0;outline:0;">
     <figure style="display:block;width:100%;margin:0;">
       <img src="https://lh3.googleusercontent.com/pw/AP1GczMm-fJxwsRbALPJLTC-Zl7SMcFXyW54vRBOKRLjytSlbvXZOHFOvJf2RO5ujsN_LCxRAXQUK1c9Aya9tKaYogsDHBbRqNnXjjcam_-suxi7vAU7LV0G1px1zXPhXMESqFDIoOZeKnlGZ4Yfz7BAD3hygA" alt="#6 — Besuch der 4 Tore" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:10px;"/>
