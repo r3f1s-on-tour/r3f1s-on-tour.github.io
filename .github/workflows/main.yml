@@ -102,7 +102,7 @@ jobs:
           if ! git diff --quiet -- docs/banner/stats.md docs/banner/stats.md; then
             git config user.name  "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add docs/stats.md docs/banner/stats.md
+            git add docs/banner/stats.md docs/banner/stats.md
             git commit -m "chore: update banner stats and directory [skip ci]"
             git push
           else
