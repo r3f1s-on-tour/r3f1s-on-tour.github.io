@@ -55,7 +55,19 @@ jobs:
           else
             pip install mkdocs ruamel.yaml pyyaml
           fi
-
+          
+      - name: Download latest CSV (public sheet)
+        env:
+          SHEET_ID:  ${{ secrets.SHEET_ID }}
+          SHEET_GID: ${{ secrets.SHEET_GID }}
+          OUTPUT_CSV: scripts/banner.csv
+        run: |
+          python scripts/download_sheet_csv.py
+          
+      - name: Generate markdown from CSV
+        run: |
+          python3 scripts/make_banner_markdown.py --csv scripts/banner.csv --out docs/banner --overwrite
+          
       - name: Show pre-change status
         run: |
           echo "PWD=$(pwd)"
@@ -108,27 +120,21 @@ jobs:
           path: ./site
 
       # ✅ Commit & Push GANZ AM ENDE (nach Artifact-Upload)
-      - name: Commit updated docs (final step)
-        if: ${{ env.COMMIT_BANNER_CHANGES == 'true' }}
+      - name: Commit changes if any
         run: |
-          set -e
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add docs/index.md || true
-          git add docs/banner/index.md || true
-          git add docs/banner/stats.md || true
-          git add docs/banner/gallery.md || true
+          # Nur Änderungen in docs/banner committen
+          git add docs/banner
 
-
-          if ! git diff --cached --quiet; then
-            git commit -m "chore: update banner stats and directory [skip ci]"
-            git push
-            echo "Pushed post-build updates."
+          if git diff --staged --quiet; then
+            echo "Keine Änderungen in docs/banner."
           else
-            echo "No changes to commit."
+            git commit -m "Update generated banner markdown [skip ci]"
+            git push
           fi
-
+          
   deploy:
     needs: build
     runs-on: ubuntu-latest
