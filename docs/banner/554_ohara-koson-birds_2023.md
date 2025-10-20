@@ -3,7 +3,7 @@ nummer: "554"
 startLatitude: "53,56027"
 startLongitude: "13,261232"
 titel: "Ohara Koson Birds"
-picture: ""
+picture: "https://lh3.googleusercontent.com/pw/AP1GczPsKGtUjCgULDf5zZG4nxKtUseKAcb6zICx9slAc67s2u4iVPHGN4HA3lfUvoKjVdmOn2C_NPd5QFf0Ct7qopS-Xd1i_0YTAkqfgyLEFHmSFx1rJ63BGEf4x1qyLmNVGU6P0hyRke2k2C2DNFMWqp17sA"
 region: "Neubrandenburg"
 country: "Deutschland"
 completed: "12.360"
@@ -18,6 +18,9 @@ title: "Ohara Koson Birds"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
