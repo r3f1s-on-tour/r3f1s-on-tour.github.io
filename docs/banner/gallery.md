@@ -16,6 +16,16 @@ title: "Banner Galerie"
   </a>
 </div>
 <div class="banner-item" style="display:block;width:100%;clear:both;margin:0 0 20px 0;">
+  <a href="/banner/554_ohara-koson-birds_2023/" style="display:block;width:100%;text-decoration:none;border:0;outline:0;">
+    <figure style="display:block;width:100%;margin:0;">
+      <img src="https://lh3.googleusercontent.com/pw/AP1GczPsKGtUjCgULDf5zZG4nxKtUseKAcb6zICx9slAc67s2u4iVPHGN4HA3lfUvoKjVdmOn2C_NPd5QFf0Ct7qopS-Xd1i_0YTAkqfgyLEFHmSFx1rJ63BGEf4x1qyLmNVGU6P0hyRke2k2C2DNFMWqp17sA" alt="#554 — Ohara Koson Birds" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:10px;"/>
+      <figcaption style="display:block;width:100%;margin-top:8px;font-size:1rem;opacity:0.9;">
+        <strong>#554</strong> — Ohara Koson Birds
+      </figcaption>
+    </figure>
+  </a>
+</div>
+<div class="banner-item" style="display:block;width:100%;clear:both;margin:0 0 20px 0;">
   <a href="/banner/7_neubrandenburg-im-morgennebel_2015/" style="display:block;width:100%;text-decoration:none;border:0;outline:0;">
     <figure style="display:block;width:100%;margin:0;">
       <img src="https://lh3.googleusercontent.com/pw/AP1GczPmbMPXUHyfnJM74wDoKNARFhcH8rcOCVLiwk10EYMnl6itxdJA1oIBNnGonL4H371Z-rKih91YQRpWP5wPazUuMhtvMwGHfezZNga2B-I9z_ss4vE3fS7RmUm73URrNaVfKuWtpL61vPrOwNRbdZQBbw" alt="#7 — Neubrandenburg im Morgennebel" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:10px;"/>
