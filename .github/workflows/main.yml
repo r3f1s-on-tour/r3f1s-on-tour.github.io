@@ -55,7 +55,14 @@ jobs:
           else
             pip install mkdocs ruamel.yaml pyyaml
           fi
-          
+      - name: Debug secrets length
+        run: |
+          echo "SHEET_ID length: ${#SHEET_ID}"
+          echo "SHEET_GID: ${SHEET_GID}"
+        env:
+          SHEET_ID:  ${{ secrets.SHEET_ID }}
+          SHEET_GID: ${{ secrets.SHEET_GID }}
+    
       - name: Download latest CSV (public sheet)
         env:
           SHEET_ID:  ${{ secrets.SHEET_ID }}
