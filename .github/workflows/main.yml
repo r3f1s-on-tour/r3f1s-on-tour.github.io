@@ -7,7 +7,7 @@ on:
       - "docs/**"
       - "mkdocs.yml"
       - ".github/workflows/main.yml"
-      - "scripts/**"
+      # - "scripts/**"
       # - "templates/**"
   workflow_dispatch:
 
