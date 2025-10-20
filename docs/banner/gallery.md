@@ -16,6 +16,16 @@ title: "Banner Galerie"
   </a>
 </div>
 <div class="banner-item" style="display:block;width:100%;clear:both;margin:0 0 20px 0;">
+  <a href="/banner/622_stadtmauer-in-neubrandenburg_2025/" style="display:block;width:100%;text-decoration:none;border:0;outline:0;">
+    <figure style="display:block;width:100%;margin:0;">
+      <img src="https://api.bannergress.com/bnrs/pictures/a2561300702212c1df855bbc00074d5e" alt="#622 — Stadtmauer in Neubrandenburg" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:10px;"/>
+      <figcaption style="display:block;width:100%;margin-top:8px;font-size:1rem;opacity:0.9;">
+        <strong>#622</strong> — Stadtmauer in Neubrandenburg
+      </figcaption>
+    </figure>
+  </a>
+</div>
+<div class="banner-item" style="display:block;width:100%;clear:both;margin:0 0 20px 0;">
   <a href="/banner/7_neubrandenburg-im-morgennebel_2015/" style="display:block;width:100%;text-decoration:none;border:0;outline:0;">
     <figure style="display:block;width:100%;margin:0;">
       <img src="https://lh3.googleusercontent.com/pw/AP1GczPmbMPXUHyfnJM74wDoKNARFhcH8rcOCVLiwk10EYMnl6itxdJA1oIBNnGonL4H371Z-rKih91YQRpWP5wPazUuMhtvMwGHfezZNga2B-I9z_ss4vE3fS7RmUm73URrNaVfKuWtpL61vPrOwNRbdZQBbw" alt="#7 — Neubrandenburg im Morgennebel" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:10px;"/>
