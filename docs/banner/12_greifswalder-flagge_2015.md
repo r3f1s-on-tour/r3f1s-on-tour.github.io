@@ -3,7 +3,7 @@ nummer: "12"
 startLatitude: "54.097717"
 startLongitude: "13.456953"
 titel: "Greifswalder Flagge"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/98098407103277f8e6c82ac9c530ea09"
 region: "Greifswald"
 country: "Deutschland"
 completed: "240"
@@ -18,6 +18,9 @@ title: "Greifswalder Flagge"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

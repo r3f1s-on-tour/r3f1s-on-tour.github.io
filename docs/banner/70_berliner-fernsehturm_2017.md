@@ -3,7 +3,7 @@ nummer: "70"
 startLatitude: "52.520724"
 startLongitude: "13.40934"
 titel: "Berliner Fernsehturm"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/31b08225ae72b1f2f2cc3a10d7491b92"
 region: "Berlin"
 country: "Deutschland"
 completed: "1986"
@@ -18,6 +18,9 @@ title: "Berliner Fernsehturm"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
