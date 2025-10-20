@@ -7,7 +7,7 @@ completed_from_banner_title: 'ShibaInu'
 next_milestone: 14000
 remaining_to_next: 422
 progress_pct_to_next: 15.6
-last_updated: '2025-10-20T07:41:16Z'
+last_updated: '2025-10-20T14:00:07Z'
 milestones_reached_500: 27
 ---
 # {{ page.meta.title }}
@@ -21,5 +21,5 @@ milestones_reached_500: 27
 
 <iframe width="100%" height="400px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.de/de/map/r3f1zul-on-tour_19893?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.de/de/map/r3f1zul-on-tour_19893?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true">Fullscreen</a></p>
 
-**Last updated:** 2025-10-20T07:41:16Z
+**Last updated:** 2025-10-20T14:00:07Z
 <!-- BANNER-STATS:END -->
