@@ -711,4 +711,5 @@ _(no entries)_
 - [50 Shades of Cyan](./154_50-shades-of-cyan_2018/)
 - [60 J. Smurfs](./219_60-j-smurfs_2019/)
 - [8000 SpecOps Runde durch Strasburg](./363_8000-specops-runde-durch-strasburg_2021/)
+- [Łowicz-Muster Tour in Berlin](./613_owicz-muster-tour-in-berlin_2025/)
 - [Łowicz-Muster Tour in Szczecin](./619_owicz-muster-tour-in-szczecin_2025/)

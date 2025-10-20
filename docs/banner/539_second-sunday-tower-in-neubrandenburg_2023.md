@@ -3,7 +3,7 @@ nummer: "539"
 startLatitude: "53,56027"
 startLongitude: "13,261232"
 titel: "Second Sunday Tower in Neubrandenburg"
-picture: "https://lh3.googleusercontent.com/pw/AP1GczOoEPor5YTe_BuuhwBgp_1o7j1zgLK3BQbubMD5GHgbriqj73W9Ze6fhzoqmOz4HWcodzBIGRIIoFZcTtRA6TzsZPXq9OsmThMyxv8BnAN3ouJQIA9Ry0yafdCLkjIEQf-Aw_GT8BSomtHicsz0p5pMmg"
+picture: ""
 region: "Neubrandenburg"
 country: "Deutschland"
 completed: "11.958"
@@ -18,9 +18,6 @@ title: "Second Sunday Tower in Neubrandenburg"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
-
-## Bild
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
