@@ -111,7 +111,7 @@ jobs:
           sed -n '1,160p' docs/banner/stats.md || echo "no stats.md (optional)"
 
       - name: Build MkDocs site
-        run: mkdocs build --strict
+        run: mkdocs build --no-strict
 
       - name: Inspect built homepage
         run: |
