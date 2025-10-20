@@ -2,7 +2,7 @@
 
 ## Gesamtstatistik
 
-- **Gesamtzahl Banner:** 624
+- **Gesamtzahl Banner:** 625
 - **Zeitraum:** 2015-01-01 – 2025-10-20 (3946 Tage)
 - **Jahre:** 11
 - **Anzahl Städte:** 105
@@ -10,12 +10,12 @@
 
 ## Durchschnittsstatistik
 
-- **Ø Banner pro Jahr (über Zeitraum):** 56.73
+- **Ø Banner pro Jahr (über Zeitraum):** 56.82
 - **Ø Banner pro Monat (über Zeitraum):** 4.73
-- **Ø Missionen pro Jahr:** 1228.36
-- **Ø Missionen pro Monat:** 102.36
-- **Ø km pro Jahr:** 618.37
-- **Ø km pro Monat:** 51.53
+- **Ø Missionen pro Jahr:** 1228.91
+- **Ø Missionen pro Monat:** 102.41
+- **Ø km pro Jahr:** 618.63
+- **Ø km pro Monat:** 51.55
 
 ## Jahresstatistik
 
@@ -31,13 +31,13 @@
 | 2022 | 138 | 2724 | 1029.94 | 5 |
 | 2023 | 72 | 2070 | 1506.02 | 5 |
 | 2024 | 18 | 258 | 60.23 | 0 |
-| 2025 | 17 | 276 | 40.83 | 1 |
+| 2025 | 18 | 282 | 43.73 | 1 |
 
 ## Länder (nach Anzahl Banner)
 
 | Land | Banner |
 |:-----|------:|
-| Deutschland | 559 |
+| Deutschland | 560 |
 | España | 23 |
 | Polska | 17 |
 | Schweiz/Suisse/Svizzera/Svizra | 8 |
@@ -51,7 +51,7 @@
 
 | Stadt | Banner |
 |:------|------:|
-| Berlin | 115 |
+| Berlin | 116 |
 | Oranienburg | 85 |
 | München | 75 |
 | Neubrandenburg | 39 |

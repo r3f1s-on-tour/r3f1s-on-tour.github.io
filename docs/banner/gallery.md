@@ -26,6 +26,26 @@ title: "Banner Galerie"
   </a>
 </div>
 <div class="banner-item" style="display:block;width:100%;clear:both;margin:0 0 20px 0;">
+  <a href="/banner/619_owicz-muster-tour-in-szczecin_2025/" style="display:block;width:100%;text-decoration:none;border:0;outline:0;">
+    <figure style="display:block;width:100%;margin:0;">
+      <img src="https://api.bannergress.com/bnrs/pictures/20d5ac49d45afb2407fdb2b5f81576b0" alt="#619 — Łowicz-Muster Tour in Szczecin" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:10px;"/>
+      <figcaption style="display:block;width:100%;margin-top:8px;font-size:1rem;opacity:0.9;">
+        <strong>#619</strong> — Łowicz-Muster Tour in Szczecin
+      </figcaption>
+    </figure>
+  </a>
+</div>
+<div class="banner-item" style="display:block;width:100%;clear:both;margin:0 0 20px 0;">
+  <a href="/banner/613_owicz-muster-tour-in-der-oranienburger-strae_2025/" style="display:block;width:100%;text-decoration:none;border:0;outline:0;">
+    <figure style="display:block;width:100%;margin:0;">
+      <img src="https://api.bannergress.com/bnrs/pictures/4eb320933eceae6520fde68d35d23d05" alt="#613 — Łowicz-Muster Tour in der Oranienburger Straße" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:10px;"/>
+      <figcaption style="display:block;width:100%;margin-top:8px;font-size:1rem;opacity:0.9;">
+        <strong>#613</strong> — Łowicz-Muster Tour in der Oranienburger Straße
+      </figcaption>
+    </figure>
+  </a>
+</div>
+<div class="banner-item" style="display:block;width:100%;clear:both;margin:0 0 20px 0;">
   <a href="/banner/7_neubrandenburg-im-morgennebel_2015/" style="display:block;width:100%;text-decoration:none;border:0;outline:0;">
     <figure style="display:block;width:100%;margin:0;">
       <img src="https://lh3.googleusercontent.com/pw/AP1GczPmbMPXUHyfnJM74wDoKNARFhcH8rcOCVLiwk10EYMnl6itxdJA1oIBNnGonL4H371Z-rKih91YQRpWP5wPazUuMhtvMwGHfezZNga2B-I9z_ss4vE3fS7RmUm73URrNaVfKuWtpL61vPrOwNRbdZQBbw" alt="#7 — Neubrandenburg im Morgennebel" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:10px;"/>
