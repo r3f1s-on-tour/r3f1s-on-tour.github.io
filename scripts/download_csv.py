@@ -1,8 +1,4 @@
 #!/usr/bin/env python3
-"""
-Lädt ein öffentlich freigegebenes Google Sheet als CSV herunter.
-"""
-
 import os
 import sys
 import requests
@@ -17,7 +13,7 @@ def getenv_strict(name: str) -> str:
 def main():
     sheet_id = getenv_strict("SHEET_ID")
     gid = getenv_strict("SHEET_GID")
-    output_csv = os.getenv("OUTPUT_CSV", "banner.csv")
+    output_csv = os.getenv("OUTPUT_CSV", "scripts/banner.csv")  # <-- Ziel wie gewünscht
 
     url = f"https://docs.google.com/spreadsheets/d/{sheet_id}/export?format=csv&gid={gid}"
     resp = requests.get(url, timeout=30)
