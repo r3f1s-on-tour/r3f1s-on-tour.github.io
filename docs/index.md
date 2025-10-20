@@ -18,5 +18,8 @@ milestones_reached_500: 27
 **Milestones reached (×500):** 27  
 **Next milestone (×500):** 14000 (remaining: 422, progress: 15.6%)  
 **Latest banner at this progress:** [ShibaInu](./banner/623_shibainu_2025/)  
+## Map
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.de/de/map/r3f1zul-on-tour_19893?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.de/de/map/r3f1zul-on-tour_19893?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true">Fullscreen</a></p>
+
 **Last updated:** 2025-10-20T04:43:20Z
 <!-- BANNER-STATS:END -->
