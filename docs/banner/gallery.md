@@ -16,6 +16,16 @@ title: "Banner Galerie"
   </a>
 </div>
 <div class="banner-item" style="display:block;width:100%;clear:both;margin:0 0 20px 0;">
+  <a href="/banner/7_neubrandenburg-im-morgennebel_2015/" style="display:block;width:100%;text-decoration:none;border:0;outline:0;">
+    <figure style="display:block;width:100%;margin:0;">
+      <img src="https://lh3.googleusercontent.com/pw/AP1GczPmbMPXUHyfnJM74wDoKNARFhcH8rcOCVLiwk10EYMnl6itxdJA1oIBNnGonL4H371Z-rKih91YQRpWP5wPazUuMhtvMwGHfezZNga2B-I9z_ss4vE3fS7RmUm73URrNaVfKuWtpL61vPrOwNRbdZQBbw" alt="#7 — Neubrandenburg im Morgennebel" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:10px;"/>
+      <figcaption style="display:block;width:100%;margin-top:8px;font-size:1rem;opacity:0.9;">
+        <strong>#7</strong> — Neubrandenburg im Morgennebel
+      </figcaption>
+    </figure>
+  </a>
+</div>
+<div class="banner-item" style="display:block;width:100%;clear:both;margin:0 0 20px 0;">
   <a href="/banner/6_besuch-der-4-tore_2015/" style="display:block;width:100%;text-decoration:none;border:0;outline:0;">
     <figure style="display:block;width:100%;margin:0;">
       <img src="https://lh3.googleusercontent.com/pw/AP1GczMm-fJxwsRbALPJLTC-Zl7SMcFXyW54vRBOKRLjytSlbvXZOHFOvJf2RO5ujsN_LCxRAXQUK1c9Aya9tKaYogsDHBbRqNnXjjcam_-suxi7vAU7LV0G1px1zXPhXMESqFDIoOZeKnlGZ4Yfz7BAD3hygA" alt="#6 — Besuch der 4 Tore" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:10px;"/>

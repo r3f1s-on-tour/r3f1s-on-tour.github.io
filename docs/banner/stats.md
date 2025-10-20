@@ -3,7 +3,7 @@
 ## Gesamtstatistik
 
 - **Gesamtzahl Banner:** 623
-- **Zeitraum:** 2015-01-01 – 2025-10-19 (3945 Tage)
+- **Zeitraum:** 2015-01-01 – 2025-10-20 (3946 Tage)
 - **Jahre:** 11
 - **Anzahl Städte:** 105
 - **Anzahl Länder:** 9
