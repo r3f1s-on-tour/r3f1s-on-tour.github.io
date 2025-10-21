@@ -91,7 +91,7 @@ def group_letter(title: str) -> str:
     if not s: return "#"
     s = unicodedata.normalize("NFKD", s.translate(UMLAUT_MAP))
     ch = s[0].upper()
-    return ch if "A" <= ch <= "Z" else "#"
+    return ch if "A" <= ch <= "Z" else "# Other"
 
 def build_banner_directory(entries):
     """entries = [(title, slug)] -> English A–Z body for docs/banner/index.md"""
