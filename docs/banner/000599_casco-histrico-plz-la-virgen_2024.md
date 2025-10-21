@@ -3,7 +3,7 @@ nummer: "599"
 startLatitude: "39,46944"
 startLongitude: "-0,375533"
 titel: "Casco Histórico Plz. La Virgen"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/342c7600849e873a4902bf8f0f8af4d0"
 region: "València"
 country: "España"
 completed: "13.218"
@@ -18,6 +18,9 @@ title: "Casco Histórico Plz. La Virgen"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

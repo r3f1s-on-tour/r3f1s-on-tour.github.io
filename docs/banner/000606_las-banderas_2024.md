@@ -3,7 +3,7 @@ nummer: "606"
 startLatitude: "39,47116"
 startLongitude: "-0,324172"
 titel: "Las Banderas"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/1b12a50c200b30ace4a20b0cd161dc02"
 region: "València"
 country: "España"
 completed: "13.302"
@@ -18,6 +18,9 @@ title: "Las Banderas"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

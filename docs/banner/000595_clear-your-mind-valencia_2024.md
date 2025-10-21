@@ -3,7 +3,7 @@ nummer: "595"
 startLatitude: "39,466133"
 startLongitude: "-0,387857"
 titel: "Clear your mind -Valencia"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/60b33693a25a907d8635e803d0a96741"
 region: "València"
 country: "España"
 completed: "13.122"
@@ -18,6 +18,9 @@ title: "Clear your mind -Valencia"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

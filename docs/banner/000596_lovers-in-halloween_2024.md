@@ -3,7 +3,7 @@ nummer: "596"
 startLatitude: "39,444296"
 startLongitude: "-0,393369"
 titel: "Lovers in Halloween"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/53887dbebfe07c6dd4073575ca5cc182"
 region: "València"
 country: "España"
 completed: "13.164"
@@ -18,6 +18,9 @@ title: "Lovers in Halloween"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

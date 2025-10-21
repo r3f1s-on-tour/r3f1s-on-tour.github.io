@@ -3,7 +3,7 @@ nummer: "598"
 startLatitude: "39,473851"
 startLongitude: "-0,375319"
 titel: "Halloween Baby"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/35460256ed4090d948b3b8e8eccccef7"
 region: "València"
 country: "España"
 completed: "13.200"
@@ -18,6 +18,9 @@ title: "Halloween Baby"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

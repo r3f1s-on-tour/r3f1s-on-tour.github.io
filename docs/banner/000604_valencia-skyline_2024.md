@@ -3,7 +3,7 @@ nummer: "604"
 startLatitude: "39,466853"
 startLongitude: "-0,375619"
 titel: "Valencia Skyline"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/b575cef9c16f79e0b3d1fcb32ac87cf0"
 region: "València"
 country: "España"
 completed: "13.284"
@@ -18,6 +18,9 @@ title: "Valencia Skyline"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
