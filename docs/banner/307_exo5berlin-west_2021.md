@@ -3,7 +3,7 @@ nummer: "307"
 startLatitude: "52.506572"
 startLongitude: "13.332128"
 titel: "EXO5BERLIN West"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/cd0bd932f3624a817bdd17cfe08e6aa4"
 region: "Berlin"
 country: "Deutschland"
 completed: "7206"
@@ -18,6 +18,9 @@ title: "EXO5BERLIN West"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

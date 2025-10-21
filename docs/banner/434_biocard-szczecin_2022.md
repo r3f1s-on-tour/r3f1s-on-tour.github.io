@@ -3,7 +3,7 @@ nummer: "434"
 startLatitude: "53,429481"
 startLongitude: "14,553038"
 titel: "Biocard Szczecin"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/20a058074b53019498efad8705ff63fd"
 region: "Szczecin"
 country: "Polska"
 completed: "9.072"
@@ -18,6 +18,9 @@ title: "Biocard Szczecin"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

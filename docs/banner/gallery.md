@@ -116,11 +116,81 @@ title: "Banner Galerie"
   </a>
 </div>
 <div class="banner-item" style="display:block;width:100%;clear:both;margin:0 0 20px 0;">
+  <a href="/banner/493_mein-grner-kaktus-in-oranienburg_2022/" style="display:block;width:100%;text-decoration:none;border:0;outline:0;">
+    <figure style="display:block;width:100%;margin:0;">
+      <img src="https://api.bannergress.com/bnrs/pictures/8c94f3fbb77c8eef340b0ca8a9eda497" alt="#493 — Mein grüner Kaktus in Oranienburg" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:10px;"/>
+      <figcaption style="display:block;width:100%;margin-top:8px;font-size:1rem;opacity:0.9;">
+        <strong>#493</strong> — Mein grüner Kaktus in Oranienburg
+      </figcaption>
+    </figure>
+  </a>
+</div>
+<div class="banner-item" style="display:block;width:100%;clear:both;margin:0 0 20px 0;">
+  <a href="/banner/456_sturmtruppler-in-neubrandenburg_2022/" style="display:block;width:100%;text-decoration:none;border:0;outline:0;">
+    <figure style="display:block;width:100%;margin:0;">
+      <img src="https://api.bannergress.com/bnrs/pictures/f4c34f53c0e4612d09d9bb4302e5533a" alt="#456 — Sturmtruppler in Neubrandenburg" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:10px;"/>
+      <figcaption style="display:block;width:100%;margin-top:8px;font-size:1rem;opacity:0.9;">
+        <strong>#456</strong> — Sturmtruppler in Neubrandenburg
+      </figcaption>
+    </figure>
+  </a>
+</div>
+<div class="banner-item" style="display:block;width:100%;clear:both;margin:0 0 20px 0;">
+  <a href="/banner/434_biocard-szczecin_2022/" style="display:block;width:100%;text-decoration:none;border:0;outline:0;">
+    <figure style="display:block;width:100%;margin:0;">
+      <img src="https://api.bannergress.com/bnrs/pictures/20a058074b53019498efad8705ff63fd" alt="#434 — Biocard Szczecin" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:10px;"/>
+      <figcaption style="display:block;width:100%;margin-top:8px;font-size:1rem;opacity:0.9;">
+        <strong>#434</strong> — Biocard Szczecin
+      </figcaption>
+    </figure>
+  </a>
+</div>
+<div class="banner-item" style="display:block;width:100%;clear:both;margin:0 0 20px 0;">
+  <a href="/banner/431_manzelbrunnen_2022/" style="display:block;width:100%;text-decoration:none;border:0;outline:0;">
+    <figure style="display:block;width:100%;margin:0;">
+      <img src="https://api.bannergress.com/bnrs/pictures/27731c7eed356342597202a124dc7155" alt="#431 — Manzelbrunnen" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:10px;"/>
+      <figcaption style="display:block;width:100%;margin-top:8px;font-size:1rem;opacity:0.9;">
+        <strong>#431</strong> — Manzelbrunnen
+      </figcaption>
+    </figure>
+  </a>
+</div>
+<div class="banner-item" style="display:block;width:100%;clear:both;margin:0 0 20px 0;">
   <a href="/banner/430_deathly-green-hallows_2022/" style="display:block;width:100%;text-decoration:none;border:0;outline:0;">
     <figure style="display:block;width:100%;margin:0;">
       <img src="https://api.bannergress.com/bnrs/pictures/8aa08bebec436b91fa019ecee5ac6957" alt="#430 — Deathly Green Hallows" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:10px;"/>
       <figcaption style="display:block;width:100%;margin-top:8px;font-size:1rem;opacity:0.9;">
         <strong>#430</strong> — Deathly Green Hallows
+      </figcaption>
+    </figure>
+  </a>
+</div>
+<div class="banner-item" style="display:block;width:100%;clear:both;margin:0 0 20px 0;">
+  <a href="/banner/389_literally-1984_2022/" style="display:block;width:100%;text-decoration:none;border:0;outline:0;">
+    <figure style="display:block;width:100%;margin:0;">
+      <img src="https://api.bannergress.com/bnrs/pictures/b1a64a5bc5afd7cb1c2c6a31abbb74d9" alt="#389 — Literally 1984" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:10px;"/>
+      <figcaption style="display:block;width:100%;margin-top:8px;font-size:1rem;opacity:0.9;">
+        <strong>#389</strong> — Literally 1984
+      </figcaption>
+    </figure>
+  </a>
+</div>
+<div class="banner-item" style="display:block;width:100%;clear:both;margin:0 0 20px 0;">
+  <a href="/banner/307_exo5berlin-west_2021/" style="display:block;width:100%;text-decoration:none;border:0;outline:0;">
+    <figure style="display:block;width:100%;margin:0;">
+      <img src="https://api.bannergress.com/bnrs/pictures/cd0bd932f3624a817bdd17cfe08e6aa4" alt="#307 — EXO5BERLIN West" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:10px;"/>
+      <figcaption style="display:block;width:100%;margin-top:8px;font-size:1rem;opacity:0.9;">
+        <strong>#307</strong> — EXO5BERLIN West
+      </figcaption>
+    </figure>
+  </a>
+</div>
+<div class="banner-item" style="display:block;width:100%;clear:both;margin:0 0 20px 0;">
+  <a href="/banner/306_exo5berlin-east_2021/" style="display:block;width:100%;text-decoration:none;border:0;outline:0;">
+    <figure style="display:block;width:100%;margin:0;">
+      <img src="https://api.bannergress.com/bnrs/pictures/41d6f7b502f08abee0c2b50aec38082a" alt="#306 — EXO5BERLIN East" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:10px;"/>
+      <figcaption style="display:block;width:100%;margin-top:8px;font-size:1rem;opacity:0.9;">
+        <strong>#306</strong> — EXO5BERLIN East
       </figcaption>
     </figure>
   </a>
