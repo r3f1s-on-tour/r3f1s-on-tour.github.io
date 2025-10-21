@@ -3,7 +3,7 @@ nummer: "145"
 startLatitude: "48.138648"
 startLongitude: "11.568919"
 titel: "Grüner Gustl"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/afd44aab35e0ad1a159447ec579015c9"
 region: "München"
 country: "Deutschland"
 completed: "3522"
@@ -18,6 +18,9 @@ title: "Grüner Gustl"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

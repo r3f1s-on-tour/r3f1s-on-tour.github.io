@@ -3,7 +3,7 @@ nummer: "93"
 startLatitude: "53.41929"
 startLongitude: "14.552349"
 titel: "MAGNUS Reawakens Szczecin"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/f3f19c5eebe702c31a6d1e6eb37d766f"
 region: "Szczecin"
 country: "Polska"
 completed: "2418"
@@ -18,6 +18,9 @@ title: "MAGNUS Reawakens Szczecin"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

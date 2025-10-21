@@ -3,7 +3,7 @@ nummer: "39"
 startLatitude: "48.134114"
 startLongitude: "11.389033"
 titel: "Time Space und Fürstenfeldbruck"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/0c9708630f31755d9cb89f468ad2e6ba"
 region: "Germering"
 country: "Deutschland"
 completed: "828"
@@ -18,6 +18,9 @@ title: "Time Space und Fürstenfeldbruck"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

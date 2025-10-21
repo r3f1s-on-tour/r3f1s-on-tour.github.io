@@ -3,7 +3,7 @@ nummer: "67"
 startLatitude: "51.510756"
 startLongitude: "7.462061"
 titel: "Darkness"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/763e628c503f701f61b6e54edd67998c"
 region: "Dortmund"
 country: "Deutschland"
 completed: "1560"
@@ -18,6 +18,9 @@ title: "Darkness"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

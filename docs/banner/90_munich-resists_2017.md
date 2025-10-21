@@ -3,7 +3,7 @@ nummer: "90"
 startLatitude: "48.139956"
 startLongitude: "11.586938"
 titel: "Munich resists!"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/aa450cbf2fff346fcbba9f846ff0b53f"
 region: "München"
 country: "Deutschland"
 completed: "2364"
@@ -18,6 +18,9 @@ title: "Munich resists!"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

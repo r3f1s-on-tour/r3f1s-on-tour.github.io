@@ -3,7 +3,7 @@ nummer: "64"
 startLatitude: "48.140335"
 startLongitude: "11.558931"
 titel: "Endless"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/bd1eb0bffec339aac622bee752caf378"
 region: "München"
 country: "Deutschland"
 completed: "1464"
@@ -18,6 +18,9 @@ title: "Endless"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

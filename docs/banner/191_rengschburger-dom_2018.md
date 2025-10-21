@@ -3,7 +3,7 @@ nummer: "191"
 startLatitude: "49.02045"
 startLongitude: "12.108723"
 titel: "Rengschburger Dom"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/01e618952f674835332465d76a5ce86c"
 region: "Regensburg"
 country: "Deutschland"
 completed: "4566"
@@ -18,6 +18,9 @@ title: "Rengschburger Dom"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

@@ -3,7 +3,7 @@ nummer: "23"
 startLatitude: "53.426583"
 startLongitude: "14.54793"
 titel: "Gryf Szczeciński"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/c06a4e6331dcb9dadd919ff242cc385f"
 region: "Szczecin"
 country: "Polska"
 completed: "420"
@@ -18,6 +18,9 @@ title: "Gryf Szczeciński"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
