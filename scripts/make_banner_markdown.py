@@ -10,8 +10,12 @@ Create Markdown files from a CSV.
 - Replace ":" with "-" in all frontmatter values EXCEPT for keys "bg-link" and "picture".
 - Ensure 'description' is always quoted with "..." and newlines are encoded as "\n" for multiline interpretation.
 
+New:
+- File number is left-padded with zeros to ensure correct lexicographical sorting (default width: 6).
+  Use --pad-width to change the minimum width. If the number exceeds this width, it expands automatically.
+
 Usage:
-  python make_banner_markdown.py --csv path/to/banner.csv --out docs/banner [--overwrite]
+  python make_banner_markdown.py --csv path/to/banner.csv --out docs/banner [--overwrite] [--pad-width 6]
 """
 import argparse
 import csv
@@ -37,7 +41,6 @@ def jinja_meta(k: str) -> str:
     """Return the correct Jinja access for page.meta.<key>, using bracket notation when needed."""
     if IDENTIFIER_RE.fullmatch(k):
         return f"page.meta.{k}"
-    # escape single quotes inside key just in case
     safe = k.replace("'", "\\'")
     return f"page.meta['{safe}']"
 
@@ -102,27 +105,11 @@ def yaml_escape(value: str) -> str:
         return f'"{s}"'
     return s
 
-def split_urls(val: str) -> list[str]:
-    if not val:
-        return []
-    parts = re.split(r"[\s,;|]+", val.strip())
-    urls = [p for p in parts if p.startswith(("http://", "https://"))]
-    seen = set()
-    unique = []
-    for u in urls:
-        if u not in seen:
-            unique.append(u)
-            seen.add(u)
-    return unique
-
 def is_urlish(value: str) -> bool:
     return isinstance(value, str) and value.strip().startswith(("http://", "https://"))
 
 def sanitize_value(key: str, val: str) -> str:
-    """
-    Replace ":" with "-" in values to avoid YAML issues,
-    EXCEPT for keys in EXCLUDED_SANITIZE_KEYS (case-insensitive).
-    """
+    """Replace ":" with "-" in values to avoid YAML issues, except for keys in EXCLUDED_SANITIZE_KEYS."""
     if not isinstance(val, str):
         val = str(val)
     if key.lower() in EXCLUDED_SANITIZE_KEYS:
@@ -136,7 +123,6 @@ def write_markdown(out_path: str, frontmatter: dict, ordered_fields: list[str]):
         v = sanitize_value(k, raw_v)
 
         if k.lower() == "description":
-            # Special handling for multiline-friendly quoted string
             esc = v.replace("\\", "\\\\").replace('"', '\\"')
             esc = esc.replace("\r\n", "\n").replace("\r", "\n").replace("\n", "\\n")
             lines.append(f'{k}: "{esc}"')
@@ -145,18 +131,12 @@ def write_markdown(out_path: str, frontmatter: dict, ordered_fields: list[str]):
     lines.append("---")
     lines.append("")
 
-    # Title
-    title_key = None
-    for cand in ("title", "name", "titel"):
-        if cand in frontmatter and str(frontmatter[cand]).strip():
-            title_key = cand
-            break
+    title_key = next((cand for cand in ("title", "name", "titel") if cand in frontmatter and str(frontmatter[cand]).strip()), None)
     if title_key:
         lines.append(f"# {{{{ {jinja_meta(title_key)} }}}}")
     else:
         lines.append("# {{ page.meta.title | default('Untitled') }}")
 
-    # Meta line
     meta_line = []
     if "date" in frontmatter and str(frontmatter["date"]).strip():
         meta_line.append("**Datum:** {{ page.meta.date }}")
@@ -168,10 +148,8 @@ def write_markdown(out_path: str, frontmatter: dict, ordered_fields: list[str]):
             meta_line.append(f"**{loc_key.capitalize()}:** {{{{ {jinja_meta(loc_key)} }}}}")
 
     if meta_line:
-        lines.append("_" + " • ".join(meta_line) + "_")
-        lines.append("")
+        lines.append("_" + " • ".join(meta_line) + "_\n")
 
-    # Bilder
     pic_keys_present = [k for k in ordered_fields if k.lower() in PICTURE_KEYS and str(frontmatter.get(k, "")).strip()]
     if pic_keys_present:
         lines.append("## Bild" if len(pic_keys_present)==1 else "## Bilder")
@@ -179,10 +157,9 @@ def write_markdown(out_path: str, frontmatter: dict, ordered_fields: list[str]):
             lines.append(f"![{{{{ {jinja_meta('title')} | default('Bild') }}}}]({{{{ {jinja_meta(k)} }}}})")
         lines.append("")
 
-    # Links (no raw! let Jinja render)
     link_lines = []
     for k in ordered_fields:
-        if k.lower() in URL_HINT_KEYS:
+        if k.lower() in PICTURE_KEYS:
             continue
         val = frontmatter.get(k, "")
         if is_urlish(val):
@@ -193,17 +170,12 @@ def write_markdown(out_path: str, frontmatter: dict, ordered_fields: list[str]):
         lines.extend(link_lines)
         lines.append("")
 
-    # Infos
     info_lines = []
     for k in ordered_fields:
-        if k.lower() in PICTURE_KEYS:
+        if k.lower() in PICTURE_KEYS or k in ("title","name","titel","date","datum"):
             continue
         val = str(frontmatter.get(k, "")).strip()
-        if not val:
-            continue
-        if is_urlish(val):
-            continue
-        if k in ("title","name","titel","date","datum"):
+        if not val or is_urlish(val):
             continue
         jm = jinja_meta(k)
         info_lines.append(f"- **{k}**: {{{{ {jm} }}}}")
@@ -212,45 +184,50 @@ def write_markdown(out_path: str, frontmatter: dict, ordered_fields: list[str]):
         lines.extend(info_lines)
         lines.append("")
 
-    content = "\n".join(lines) + "\n"
     with open(out_path, "w", encoding="utf-8") as f:
-        f.write(content)
+        f.write("\n".join(lines) + "\n")
+
+def format_number_for_filename(num_raw: str, min_width: int) -> str:
+    """Pad numeric prefix with leading zeros to at least min_width."""
+    s = str(num_raw).strip()
+    digits = re.sub(r"\D", "", s)
+    if not digits:
+        return s or "000000"
+    width = max(min_width, len(digits))
+    return digits.zfill(width)
 
 def main():
     parser = argparse.ArgumentParser(description="Create Markdown files from CSV rows.")
     parser.add_argument("--csv", required=True, help="Path to input CSV file")
     parser.add_argument("--out", default="docs/banner", help="Output directory (default: docs/banner)")
     parser.add_argument("--overwrite", action="store_true", help="Overwrite existing Markdown files")
+    parser.add_argument("--pad-width", type=int, default=6, help="Minimum zero-pad width for the number prefix (default: 6)")
     args = parser.parse_args()
 
-    in_csv = args.csv
-    out_dir = args.out
-    os.makedirs(out_dir, exist_ok=True)
+    os.makedirs(args.out, exist_ok=True)
 
-    with open(in_csv, "r", encoding="utf-8-sig", newline="") as f:
+    with open(args.csv, "r", encoding="utf-8-sig", newline="") as f:
         reader = csv.DictReader(f)
         if not reader.fieldnames:
             raise SystemExit("CSV has no header row. Please include column names.")
+
         created, skipped, overwritten = 0, 0, 0
+
         for idx, row in enumerate(reader, start=1):
-            num = infer_field(row, ["nummer", "number", "no", "id"]) or str(idx)
+            num_raw = infer_field(row, ["nummer", "number", "no", "id"]) or str(idx)
+            num_padded = format_number_for_filename(num_raw, args.pad_width)
+
             title = infer_field(row, ["title", "titel", "name"]) or f"row-{idx}"
             date_raw = infer_field(row, ["date", "datum", "created", "when", "planned_date"])
             date_norm = normalize_date(date_raw)
             slug = slugify(title)
-            filename = f"{num}_{slug}_{date_norm}.md"
-            out_path = os.path.join(out_dir, filename)
+
+            filename = f"{num_padded}_{slug}_{date_norm}.md"
+            out_path = os.path.join(args.out, filename)
 
             ordered_fields = list(reader.fieldnames)
-            frontmatter = {}
-            for k in ordered_fields:
-                val = row.get(k, "")
-                if isinstance(val, str):
-                    val = val.strip()
-                # per-key sanitize (colons removed except bg-link & picture)
-                frontmatter[k] = sanitize_value(k, val)
+            frontmatter = {k: sanitize_value(k, (row.get(k, "") or "").strip()) for k in ordered_fields}
 
-            # convenience fields
             if "title" not in frontmatter or not str(frontmatter.get("title","")).strip():
                 if "titel" in frontmatter and str(frontmatter["titel"]).strip():
                     frontmatter["title"] = frontmatter["titel"]
@@ -272,7 +249,7 @@ def main():
             write_markdown(out_path, frontmatter, ordered_fields)
             created += 1
 
-    print(f"Done. Created: {created}, Overwritten: {overwritten}, Skipped (exists): {skipped}. Output: {os.path.abspath(out_dir)}")
+    print(f"✅ Done. Created: {created}, Overwritten: {overwritten}, Skipped (exists): {skipped}. Output: {os.path.abspath(args.out)}")
 
 if __name__ == "__main__":
     main()
