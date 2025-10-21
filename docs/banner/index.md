@@ -336,7 +336,6 @@
 - [Literally 1984](./000389_literally-1984_2022/)
 - [Little Dandelion](./000469_little-dandelion_2022/)
 - [Lovers in Halloween](./000596_lovers-in-halloween_2024/)
-- [lowdic Muster](./000613_lowdic-muster_2025/)
 - [LSD](./000232_lsd_2019/)
 - [Luckenwalde](./000566_luckenwalde_2023/)
 - [Lunar New Year 2022](./000402_lunar-new-year-2022_2022/)
