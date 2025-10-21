@@ -3,7 +3,7 @@ nummer: "600"
 startLatitude: "39,470876"
 startLongitude: "-0,376593"
 titel: "Once Upon A Time Under The Valencian Sun"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/ac7cc5b5c57769ac63ca1dee8f5d8afa"
 region: "València"
 country: "España"
 completed: "13.236"
@@ -18,6 +18,9 @@ title: "Once Upon A Time Under The Valencian Sun"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
