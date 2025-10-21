@@ -1,0 +1,36 @@
+---
+nummer: "431"
+startLatitude: "53,421923"
+startLongitude: "14,558712"
+titel: "Manzelbrunnen"
+picture: ""
+region: "Szczecin"
+country: "Polska"
+completed: "9.000"
+missions: "48"
+date: "2022"
+bg-link: "https://bannergress.com/banner/manzelbrunnen-4729"
+onyx: "1"
+description: "Historyczna rzeźba symbolizująca Szczecin, zaginiona w czasie 2 Wojny Światowej. Część  2 - wzdłuż Bulwarów."
+lengthKMeters: "13,08"
+title: "Manzelbrunnen"
+---
+
+# {{ page.meta.title }}
+_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Links
+- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+
+## Infos
+- **nummer**: {{ page.meta.nummer }}
+- **startLatitude**: {{ page.meta.startLatitude }}
+- **startLongitude**: {{ page.meta.startLongitude }}
+- **region**: {{ page.meta.region }}
+- **country**: {{ page.meta.country }}
+- **completed**: {{ page.meta.completed }}
+- **missions**: {{ page.meta.missions }}
+- **onyx**: {{ page.meta.onyx }}
+- **description**: {{ page.meta.description }}
+- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
