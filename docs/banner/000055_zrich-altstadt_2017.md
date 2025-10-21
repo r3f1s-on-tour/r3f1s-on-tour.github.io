@@ -3,7 +3,7 @@ nummer: "55"
 startLatitude: "47.376517"
 startLongitude: "8.548524"
 titel: "Zürich Altstadt"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/1d206fb325d07ff960cb466b2ca723e1"
 region: "Zürich"
 country: "Schweiz/Suisse/Svizzera/Svizra"
 completed: "1272"
@@ -18,6 +18,9 @@ title: "Zürich Altstadt"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

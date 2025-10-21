@@ -3,7 +3,7 @@ nummer: "81"
 startLatitude: "48.135479"
 startLongitude: "11.598087"
 titel: "Mit der 25 nach Grünwald"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/b53d37e0f534572b1c95f217c63c8344"
 region: "München"
 country: "Deutschland"
 completed: "2160"
@@ -18,6 +18,9 @@ title: "Mit der 25 nach Grünwald"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

@@ -3,7 +3,7 @@ nummer: "61"
 startLatitude: "47.374777"
 startLongitude: "8.537097"
 titel: "Chagall Window yellow"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/8611b3520266f1e355ead4be0fa96bec"
 region: "Zürich"
 country: "Schweiz/Suisse/Svizzera/Svizra"
 completed: "1356"
@@ -18,6 +18,9 @@ title: "Chagall Window yellow"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

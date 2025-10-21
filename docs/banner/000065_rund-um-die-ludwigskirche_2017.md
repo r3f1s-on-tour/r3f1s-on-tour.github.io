@@ -3,7 +3,7 @@ nummer: "65"
 startLatitude: "48.148899"
 startLongitude: "11.580952"
 titel: "Rund um die Ludwigskirche"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/41194c44e62f228147d66dbcb6a8e51b"
 region: "München"
 country: "Deutschland"
 completed: "1488"
@@ -18,6 +18,9 @@ title: "Rund um die Ludwigskirche"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

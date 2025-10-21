@@ -3,7 +3,7 @@ nummer: "80"
 startLatitude: "48.077323"
 startLongitude: "11.251291"
 titel: "Sunset at the lake"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/e3e494a190ecc79e317bf49128248159"
 region: "Oberpfaffenhofen"
 country: "Deutschland"
 completed: "2142"
@@ -18,6 +18,9 @@ title: "Sunset at the lake"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

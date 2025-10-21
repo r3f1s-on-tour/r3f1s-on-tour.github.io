@@ -3,7 +3,7 @@ nummer: "75"
 startLatitude: "48.158265"
 startLongitude: "11.503287"
 titel: "Nymphenburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/069e66615474f09b4374fee4f40390be"
 region: "München"
 country: "Deutschland"
 completed: "2046"
@@ -18,6 +18,9 @@ title: "Nymphenburg"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

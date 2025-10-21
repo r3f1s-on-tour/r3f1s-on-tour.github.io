@@ -3,7 +3,7 @@ nummer: "68"
 startLatitude: "49.446999"
 startLongitude: "11.08132"
 titel: "MissionDay Kaiserburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/2104e045dafdef8399f8f8b76ec19f50"
 region: "Nürnberg"
 country: "Deutschland"
 completed: "1590"
@@ -18,6 +18,9 @@ title: "MissionDay Kaiserburg"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

@@ -3,7 +3,7 @@ nummer: "21"
 startLatitude: "53.573784"
 startLongitude: "10.071849"
 titel: "Hunting ground Wandsbek Markt"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/4a9916708f283ca0625a1546dbcf5d55"
 region: "Hamburg"
 country: "Deutschland"
 completed: "360"
@@ -18,6 +18,9 @@ title: "Hunting ground Wandsbek Markt"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

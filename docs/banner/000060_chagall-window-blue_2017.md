@@ -3,7 +3,7 @@ nummer: "60"
 startLatitude: "47.36981"
 startLongitude: "8.541585"
 titel: "Chagall Window blue"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/ea8abd6fbee2c76131fb4a97016de779"
 region: "Zürich"
 country: "Schweiz/Suisse/Svizzera/Svizra"
 completed: "1350"
@@ -18,6 +18,9 @@ title: "Chagall Window blue"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

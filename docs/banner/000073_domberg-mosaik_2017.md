@@ -3,7 +3,7 @@ nummer: "73"
 startLatitude: "48.398697"
 startLongitude: "11.745318"
 titel: "Domberg-Mosaik"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/95d8726bc1d325192bbca93502f70816"
 region: "Freising"
 country: "Deutschland"
 completed: "2040"
@@ -18,6 +18,9 @@ title: "Domberg-Mosaik"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

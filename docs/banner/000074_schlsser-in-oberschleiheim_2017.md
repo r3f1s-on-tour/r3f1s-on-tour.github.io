@@ -3,7 +3,7 @@ nummer: "74"
 startLatitude: "48.248869"
 startLongitude: "11.558202"
 titel: "Schlösser in Oberschleißheim"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/68478dcd093f42017ae41b3a7757c17b"
 region: "Oberschleißheim"
 country: "Deutschland"
 completed: "2043"
@@ -18,6 +18,9 @@ title: "Schlösser in Oberschleißheim"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

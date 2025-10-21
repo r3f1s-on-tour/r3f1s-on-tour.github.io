@@ -3,7 +3,7 @@ nummer: "22"
 startLatitude: "53.462334"
 startLongitude: "13.594348"
 titel: "Erobere Woldegk"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/3c2830ae35ae267284d887f7097ce367"
 region: "Woldegk"
 country: "Deutschland"
 completed: "378"
@@ -18,6 +18,9 @@ title: "Erobere Woldegk"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

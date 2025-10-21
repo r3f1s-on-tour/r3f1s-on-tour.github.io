@@ -3,7 +3,7 @@ nummer: "26"
 startLatitude: "51.338149"
 startLongitude: "12.380866"
 titel: "Drachenfrau"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/1b0601554cccf46bbf897c8a7d97d3b7"
 region: "Leipzig"
 country: "Deutschland"
 completed: "468"
@@ -18,6 +18,9 @@ title: "Drachenfrau"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

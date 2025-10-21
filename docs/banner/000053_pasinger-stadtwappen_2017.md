@@ -3,7 +3,7 @@ nummer: "53"
 startLatitude: "48.150701"
 startLongitude: "11.461687"
 titel: "Pasinger Stadtwappen"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/fd818caf54ddf0a3b1cdbe1e34009f71"
 region: "München"
 country: "Deutschland"
 completed: "1224"
@@ -18,6 +18,9 @@ title: "Pasinger Stadtwappen"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

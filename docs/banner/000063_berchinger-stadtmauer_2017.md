@@ -3,7 +3,7 @@ nummer: "63"
 startLatitude: "49.108382"
 startLongitude: "11.444384"
 titel: "Berchinger Stadtmauer"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/109263d1997f0bef578efd3bf35cd29b"
 region: "Sollngriesbach"
 country: "Deutschland"
 completed: "1404"
@@ -18,6 +18,9 @@ title: "Berchinger Stadtmauer"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

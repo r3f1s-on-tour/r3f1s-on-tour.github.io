@@ -3,7 +3,7 @@ nummer: "54"
 startLatitude: "48.262847"
 startLongitude: "11.437851"
 titel: "Zombie Apokalypse"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/5af621cc1fd0fe4e83ab4d00eea6c11a"
 region: "Webling"
 country: "Deutschland"
 completed: "1236"
@@ -18,6 +18,9 @@ title: "Zombie Apokalypse"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

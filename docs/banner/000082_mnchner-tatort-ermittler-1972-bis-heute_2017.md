@@ -3,7 +3,7 @@ nummer: "82"
 startLatitude: "48.139034"
 startLongitude: "11.570978"
 titel: "Münchner Tatort-Ermittler 1972 bis heute"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/77711b4cacce06b18fab3b10425c745d"
 region: "München"
 country: "Deutschland"
 completed: "2166"
@@ -18,6 +18,9 @@ title: "Münchner Tatort-Ermittler 1972 bis heute"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

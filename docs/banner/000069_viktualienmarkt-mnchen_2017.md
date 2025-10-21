@@ -3,7 +3,7 @@ nummer: "69"
 startLatitude: "48.135108"
 startLongitude: "11.576076"
 titel: "Viktualienmarkt München"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/d78faacdee4e460a4f3aecd6f6df5ff0"
 region: "München"
 country: "Deutschland"
 completed: "1614"
@@ -18,6 +18,9 @@ title: "Viktualienmarkt München"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

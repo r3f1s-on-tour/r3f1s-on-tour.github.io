@@ -3,7 +3,7 @@ nummer: "19"
 startLatitude: "54.312901"
 startLongitude: "13.078783"
 titel: "Das Stralsunder Wappen"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/ac273ab3137912d9cb9b92f74520cf2a"
 region: "Stralsund"
 country: "Deutschland"
 completed: "348"
@@ -18,6 +18,9 @@ title: "Das Stralsunder Wappen"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

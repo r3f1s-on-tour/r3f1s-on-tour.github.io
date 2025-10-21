@@ -3,7 +3,7 @@ nummer: "76"
 startLatitude: "48.254208"
 startLongitude: "11.444106"
 titel: "Stadtwappen Dachau"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/b038833bc9235fa7d58e6918acb67bda"
 region: "Dachau"
 country: "Deutschland"
 completed: "2070"
@@ -18,6 +18,9 @@ title: "Stadtwappen Dachau"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

@@ -3,7 +3,7 @@ nummer: "77"
 startLatitude: "48.134439"
 startLongitude: "11.596121"
 titel: "Wiener Platz"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/017bedff3d4bbcaf87c58d14b36ffd1e"
 region: "München"
 country: "Deutschland"
 completed: "2088"
@@ -18,6 +18,9 @@ title: "Wiener Platz"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

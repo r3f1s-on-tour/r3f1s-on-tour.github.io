@@ -3,7 +3,7 @@ nummer: "46"
 startLatitude: "48.130672"
 startLongitude: "11.545971"
 titel: "Bavaria München"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/f62fd3943e8a8f40cd07ff30a8d09d1a"
 region: "München"
 country: "Deutschland"
 completed: "1050"
@@ -18,6 +18,9 @@ title: "Bavaria München"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

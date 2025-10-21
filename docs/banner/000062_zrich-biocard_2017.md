@@ -3,7 +3,7 @@ nummer: "62"
 startLatitude: "47.377718"
 startLongitude: "8.54146"
 titel: "Zürich Biocard"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/0f8d583886672ef36e28dd0a88fda13f"
 region: "Zürich"
 country: "Schweiz/Suisse/Svizzera/Svizra"
 completed: "1380"
@@ -18,6 +18,9 @@ title: "Zürich Biocard"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
