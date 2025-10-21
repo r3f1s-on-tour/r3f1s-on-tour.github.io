@@ -3,7 +3,7 @@ nummer: "14"
 startLatitude: "53.55797"
 startLongitude: "9.989297"
 titel: "Planten un Blomen Mosaik"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/a844bc123043e26a652f2fef6fa42d3f"
 region: "Hamburg"
 country: "Deutschland"
 completed: "276"
@@ -18,6 +18,9 @@ title: "Planten un Blomen Mosaik"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

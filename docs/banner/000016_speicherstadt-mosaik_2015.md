@@ -3,7 +3,7 @@ nummer: "16"
 startLatitude: "53.546274"
 startLongitude: "9.997115"
 titel: "Speicherstadt Mosaik"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/c06ec1426ed7220a73534afaa62b7fe9"
 region: "Hamburg"
 country: "Deutschland"
 completed: "312"
@@ -18,6 +18,9 @@ title: "Speicherstadt Mosaik"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

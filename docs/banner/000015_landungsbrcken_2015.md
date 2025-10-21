@@ -3,7 +3,7 @@ nummer: "15"
 startLatitude: "53.545576"
 startLongitude: "9.970032"
 titel: "Landungsbrücken"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/b5b4e97a8c42aca70facc47acb35a5ca"
 region: "Hamburg"
 country: "Deutschland"
 completed: "294"
@@ -18,6 +18,9 @@ title: "Landungsbrücken"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
