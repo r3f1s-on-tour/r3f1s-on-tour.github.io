@@ -18,7 +18,7 @@ title: "Banner Galerie"
 <div class="banner-item" style="display:block;width:100%;clear:both;margin:0 0 20px 0;">
   <a href="/banner/000622_stadtmauer-in-neubrandenburg_2025/" style="display:block;width:100%;text-decoration:none;border:0;outline:0;">
     <figure style="display:block;width:100%;margin:0;">
-      <img src="https://api.bannergress.com/bnrs/pictures/a2561300702212c1df855bbc00074d5e" alt="#622 — Stadtmauer in Neubrandenburg" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:10px;"/>
+      <img src="https://api.bannergress.com/bnrs/pictures/a3e4a93dea7c3b00d11dfa7c64c2d3d2" alt="#622 — Stadtmauer in Neubrandenburg" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:10px;"/>
       <figcaption style="display:block;width:100%;margin-top:8px;font-size:1rem;opacity:0.9;">
         <strong>#622</strong> — Stadtmauer in Neubrandenburg
       </figcaption>
@@ -36,11 +36,71 @@ title: "Banner Galerie"
   </a>
 </div>
 <div class="banner-item" style="display:block;width:100%;clear:both;margin:0 0 20px 0;">
+  <a href="/banner/000618_aquarelle-gdansk_2025/" style="display:block;width:100%;text-decoration:none;border:0;outline:0;">
+    <figure style="display:block;width:100%;margin:0;">
+      <img src="https://api.bannergress.com/bnrs/pictures/ec7c1f87079942aabcfc16d660f09708" alt="#618 — Aquarelle Gdansk" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:10px;"/>
+      <figcaption style="display:block;width:100%;margin-top:8px;font-size:1rem;opacity:0.9;">
+        <strong>#618</strong> — Aquarelle Gdansk
+      </figcaption>
+    </figure>
+  </a>
+</div>
+<div class="banner-item" style="display:block;width:100%;clear:both;margin:0 0 20px 0;">
+  <a href="/banner/000617_watercolor-gdynia_2025/" style="display:block;width:100%;text-decoration:none;border:0;outline:0;">
+    <figure style="display:block;width:100%;margin:0;">
+      <img src="https://api.bannergress.com/bnrs/pictures/eee051ad9c7e48a747300f104a5ef880" alt="#617 — Watercolor Gdynia" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:10px;"/>
+      <figcaption style="display:block;width:100%;margin-top:8px;font-size:1rem;opacity:0.9;">
+        <strong>#617</strong> — Watercolor Gdynia
+      </figcaption>
+    </figure>
+  </a>
+</div>
+<div class="banner-item" style="display:block;width:100%;clear:both;margin:0 0 20px 0;">
+  <a href="/banner/000616_torun-skyline_2025/" style="display:block;width:100%;text-decoration:none;border:0;outline:0;">
+    <figure style="display:block;width:100%;margin:0;">
+      <img src="https://api.bannergress.com/bnrs/pictures/d1413bb121e5d1d037822169d6c692b5" alt="#616 — Torun skyline" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:10px;"/>
+      <figcaption style="display:block;width:100%;margin-top:8px;font-size:1rem;opacity:0.9;">
+        <strong>#616</strong> — Torun skyline
+      </figcaption>
+    </figure>
+  </a>
+</div>
+<div class="banner-item" style="display:block;width:100%;clear:both;margin:0 0 20px 0;">
+  <a href="/banner/000615_warszawska-akwarela_2025/" style="display:block;width:100%;text-decoration:none;border:0;outline:0;">
+    <figure style="display:block;width:100%;margin:0;">
+      <img src="https://api.bannergress.com/bnrs/pictures/abbc5fb6e3bb5ec11ded7cf9b51c22aa" alt="#615 — Warszawska akwarela" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:10px;"/>
+      <figcaption style="display:block;width:100%;margin-top:8px;font-size:1rem;opacity:0.9;">
+        <strong>#615</strong> — Warszawska akwarela
+      </figcaption>
+    </figure>
+  </a>
+</div>
+<div class="banner-item" style="display:block;width:100%;clear:both;margin:0 0 20px 0;">
+  <a href="/banner/000614_wrocawska-akwarela_2025/" style="display:block;width:100%;text-decoration:none;border:0;outline:0;">
+    <figure style="display:block;width:100%;margin:0;">
+      <img src="https://api.bannergress.com/bnrs/pictures/3d3813d1331c65663189a5e5a17636a9" alt="#614 — Wrocławska akwarela" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:10px;"/>
+      <figcaption style="display:block;width:100%;margin-top:8px;font-size:1rem;opacity:0.9;">
+        <strong>#614</strong> — Wrocławska akwarela
+      </figcaption>
+    </figure>
+  </a>
+</div>
+<div class="banner-item" style="display:block;width:100%;clear:both;margin:0 0 20px 0;">
   <a href="/banner/000613_owicz-muster-tour-in-der-oranienburger-strae_2025/" style="display:block;width:100%;text-decoration:none;border:0;outline:0;">
     <figure style="display:block;width:100%;margin:0;">
       <img src="https://api.bannergress.com/bnrs/pictures/4eb320933eceae6520fde68d35d23d05" alt="#613 — Łowicz-Muster Tour in der Oranienburger Straße" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:10px;"/>
       <figcaption style="display:block;width:100%;margin-top:8px;font-size:1rem;opacity:0.9;">
         <strong>#613</strong> — Łowicz-Muster Tour in der Oranienburger Straße
+      </figcaption>
+    </figure>
+  </a>
+</div>
+<div class="banner-item" style="display:block;width:100%;clear:both;margin:0 0 20px 0;">
+  <a href="/banner/000612_marx-is-calling-you-berlin_2025/" style="display:block;width:100%;text-decoration:none;border:0;outline:0;">
+    <figure style="display:block;width:100%;margin:0;">
+      <img src="https://api.bannergress.com/bnrs/pictures/b4febc4fc81e9a74a0a8f4477b56ed56" alt="#612 — Marx is calling you - Berlin" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:10px;"/>
+      <figcaption style="display:block;width:100%;margin-top:8px;font-size:1rem;opacity:0.9;">
+        <strong>#612</strong> — Marx is calling you - Berlin
       </figcaption>
     </figure>
   </a>
