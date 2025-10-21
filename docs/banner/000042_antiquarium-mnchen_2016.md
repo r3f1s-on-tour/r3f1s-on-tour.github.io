@@ -3,7 +3,7 @@ nummer: "42"
 startLatitude: "48.141742"
 startLongitude: "11.57772"
 titel: "Antiquarium München"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/84f766e615e30748b7ad56ec92a8e957"
 region: "München"
 country: "Deutschland"
 completed: "930"
@@ -18,6 +18,9 @@ title: "Antiquarium München"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

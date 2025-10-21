@@ -3,7 +3,7 @@ nummer: "50"
 startLatitude: "48.137238"
 startLongitude: "11.576208"
 titel: "Weihnachten am Chinesischen Turm"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/4b5ea303a04b6c745ca69d622a2b195f"
 region: "München"
 country: "Deutschland"
 completed: "1164"
@@ -18,6 +18,9 @@ title: "Weihnachten am Chinesischen Turm"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

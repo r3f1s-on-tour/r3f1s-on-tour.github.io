@@ -3,7 +3,7 @@ nummer: "44"
 startLatitude: "48.136661"
 startLongitude: "11.576878"
 titel: "Munich city walls"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/32a35f14acc45a1c3470909a31431e93"
 region: "München"
 country: "Deutschland"
 completed: "978"
@@ -18,6 +18,9 @@ title: "Munich city walls"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

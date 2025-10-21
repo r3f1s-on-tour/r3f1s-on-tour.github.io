@@ -3,7 +3,7 @@ nummer: "37"
 startLatitude: "48.247019"
 startLongitude: "11.630954"
 titel: "BlueSunGarching"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/534d4ea65f043ae17ab0adaae39ce044"
 region: "Garching bei München"
 country: "Deutschland"
 completed: "774"
@@ -18,6 +18,9 @@ title: "BlueSunGarching"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

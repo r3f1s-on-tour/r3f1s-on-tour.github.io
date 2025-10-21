@@ -3,7 +3,7 @@ nummer: "33"
 startLatitude: "48.140569"
 startLongitude: "11.577356"
 titel: "Siegestor München"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/235ff037bace8063259176a2f8e669d9"
 region: "München"
 country: "Deutschland"
 completed: "672"
@@ -18,6 +18,9 @@ title: "Siegestor München"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

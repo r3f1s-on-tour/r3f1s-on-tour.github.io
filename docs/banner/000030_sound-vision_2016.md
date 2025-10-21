@@ -3,7 +3,7 @@ nummer: "30"
 startLatitude: "48.199911"
 startLongitude: "11.658516"
 titel: "Sound Vision"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/8d9050ef8dec596e64b17a751c9ea9de"
 region: "Unterföhring"
 country: "Deutschland"
 completed: "600"
@@ -18,6 +18,9 @@ title: "Sound Vision"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

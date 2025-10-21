@@ -3,7 +3,7 @@ nummer: "47"
 startLatitude: "48.139141"
 startLongitude: "11.565815"
 titel: "MUNICHS CELTIC KNOT"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/954131ec881716126388a45ec52ad185"
 region: "München"
 country: "Deutschland"
 completed: "1086"
@@ -18,6 +18,9 @@ title: "MUNICHS CELTIC KNOT"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

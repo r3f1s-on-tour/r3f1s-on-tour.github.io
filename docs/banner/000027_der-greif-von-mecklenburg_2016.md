@@ -3,7 +3,7 @@ nummer: "27"
 startLatitude: "54.044188"
 startLongitude: "13.691782"
 titel: "Der Greif von Mecklenburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/4ee2a8167c2085a63047e7820de51ce3"
 region: "Katzow"
 country: "Deutschland"
 completed: "516"
@@ -18,6 +18,9 @@ title: "Der Greif von Mecklenburg"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

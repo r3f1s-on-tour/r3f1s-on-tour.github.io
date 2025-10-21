@@ -3,7 +3,7 @@ nummer: "43"
 startLatitude: "48.257227"
 startLongitude: "11.557779"
 titel: "Schleissheim Postcard"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/f101a454c5de5bc34c2ec4aff03bfe73"
 region: "Oberschleißheim"
 country: "Deutschland"
 completed: "954"
@@ -18,6 +18,9 @@ title: "Schleissheim Postcard"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

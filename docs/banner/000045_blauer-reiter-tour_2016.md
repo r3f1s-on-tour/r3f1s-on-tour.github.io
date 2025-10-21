@@ -3,7 +3,7 @@ nummer: "45"
 startLatitude: "48.146732"
 startLongitude: "11.563926"
 titel: "Blauer Reiter Tour"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/0d330415cd7568296591257b578f2bff"
 region: "München"
 country: "Deutschland"
 completed: "1026"
@@ -18,6 +18,9 @@ title: "Blauer Reiter Tour"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
