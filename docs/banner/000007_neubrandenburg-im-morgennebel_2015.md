@@ -3,7 +3,7 @@ nummer: "7"
 startLatitude: "53.561402"
 startLongitude: "13.261756"
 titel: "Neubrandenburg im Morgennebel"
-picture: ""
+picture: "https://lh3.googleusercontent.com/pw/AP1GczPmbMPXUHyfnJM74wDoKNARFhcH8rcOCVLiwk10EYMnl6itxdJA1oIBNnGonL4H371Z-rKih91YQRpWP5wPazUuMhtvMwGHfezZNga2B-I9z_ss4vE3fS7RmUm73URrNaVfKuWtpL61vPrOwNRbdZQBbw"
 region: "Neubrandenburg"
 country: "Deutschland"
 completed: "174"
@@ -18,6 +18,9 @@ title: "Neubrandenburg im Morgennebel"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

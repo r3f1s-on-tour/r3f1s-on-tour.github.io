@@ -3,7 +3,7 @@ nummer: "430"
 startLatitude: "53,553117"
 startLongitude: "13,301207"
 titel: "Deathly Green Hallows"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/8aa08bebec436b91fa019ecee5ac6957"
 region: "Neubrandenburg"
 country: "Deutschland"
 completed: "8.952"
@@ -18,6 +18,9 @@ title: "Deathly Green Hallows"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

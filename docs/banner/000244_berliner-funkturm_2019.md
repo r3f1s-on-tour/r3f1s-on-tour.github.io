@@ -3,7 +3,7 @@ nummer: "244"
 startLatitude: "52.504929"
 startLongitude: "13.279174"
 titel: "Berliner Funkturm"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/e5bdca79ae49d548bcbd328e0c16509e"
 region: "Berlin"
 country: "Deutschland"
 completed: "5964"
@@ -18,6 +18,9 @@ title: "Berliner Funkturm"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

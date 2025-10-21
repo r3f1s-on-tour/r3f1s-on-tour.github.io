@@ -1,19 +1,19 @@
 ---
-nummer: "619"
+nummer: "613"
 startLatitude: ""
 startLongitude: ""
-titel: "Łowicz-Muster Tour in Szczecin"
-picture: "https://api.bannergress.com/bnrs/pictures/20d5ac49d45afb2407fdb2b5f81576b0"
-region: "Szczecin"
-country: "Polska"
-completed: "13.506"
+titel: "Łowicz-Muster Tour in der Oranienburger Straße"
+picture: "https://api.bannergress.com/bnrs/pictures/4eb320933eceae6520fde68d35d23d05"
+region: "Berlin"
+country: "Deutschland"
+completed: "13.422"
 missions: "6"
 date: "2025"
 bg-link: "https://bannergress.com/banner/%C5%82owicz-muster-tour-in-der-oranienburger-stra%C3%9Fe-75f1"
 onyx: "0"
 description: ""
-lengthKMeters: "1,3"
-title: "Łowicz-Muster Tour in Szczecin"
+lengthKMeters: "1,6"
+title: "Łowicz-Muster Tour in der Oranienburger Straße"
 ---
 
 # {{ page.meta.title }}

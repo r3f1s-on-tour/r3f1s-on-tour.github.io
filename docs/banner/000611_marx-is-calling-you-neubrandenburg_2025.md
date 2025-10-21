@@ -3,7 +3,7 @@ nummer: "611"
 startLatitude: "53.561425"
 startLongitude: "13.259994"
 titel: "Marx is calling you - Neubrandenburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/f31d45d0a261a1a3a1847eb5ec194cf4"
 region: "Neubrandenburg"
 country: "Deutschland"
 completed: "13.410"
@@ -18,6 +18,9 @@ title: "Marx is calling you - Neubrandenburg"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

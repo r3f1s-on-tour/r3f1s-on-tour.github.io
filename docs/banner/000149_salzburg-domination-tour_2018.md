@@ -3,7 +3,7 @@ nummer: "149"
 startLatitude: "47.813104"
 startLongitude: "13.044842"
 titel: "Salzburg Domination Tour"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/d90096600f5757922eb05f93018cbd0e"
 region: "Salzburg"
 country: "Österreich"
 completed: "3642"
@@ -18,6 +18,9 @@ title: "Salzburg Domination Tour"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

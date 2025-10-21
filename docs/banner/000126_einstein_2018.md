@@ -3,7 +3,7 @@ nummer: "126"
 startLatitude: "48.682936"
 startLongitude: "9.37645"
 titel: "Einstein"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/aecabe180f3756b874a65b238f42aad1"
 region: "Wendlingen am Neckar"
 country: "Deutschland"
 completed: "3126"
@@ -18,6 +18,9 @@ title: "Einstein"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

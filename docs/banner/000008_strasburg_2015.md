@@ -3,7 +3,7 @@ nummer: "8"
 startLatitude: "53.506861"
 startLongitude: "13.74885"
 titel: "Strasburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/0c455ff3f2e854d0afd6f146add602bc"
 region: "Strasburg (Uckermark)"
 country: "Deutschland"
 completed: "180"
@@ -18,6 +18,9 @@ title: "Strasburg"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

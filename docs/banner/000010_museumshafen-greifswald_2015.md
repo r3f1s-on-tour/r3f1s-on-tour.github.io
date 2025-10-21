@@ -3,7 +3,7 @@ nummer: "10"
 startLatitude: "54.099775"
 startLongitude: "13.382173"
 titel: "Museumshafen Greifswald"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/01328fd0e24c9c0a82a36a93613be784"
 region: "Greifswald"
 country: "Deutschland"
 completed: "216"
@@ -18,6 +18,9 @@ title: "Museumshafen Greifswald"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

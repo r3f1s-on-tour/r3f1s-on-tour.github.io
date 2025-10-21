@@ -3,7 +3,7 @@ nummer: "574"
 startLatitude: "40,417009"
 startLongitude: "-3,70231"
 titel: "Guerrero Legendario"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/eb1b85cac73dcfcc4de21edf4c16aee3"
 region: "Madrid"
 country: "España"
 completed: "12.702"
@@ -18,6 +18,9 @@ title: "Guerrero Legendario"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

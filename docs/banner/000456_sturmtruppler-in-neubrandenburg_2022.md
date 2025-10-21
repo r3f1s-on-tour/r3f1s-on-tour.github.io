@@ -3,7 +3,7 @@ nummer: "456"
 startLatitude: "53,561425"
 startLongitude: "13,259994"
 titel: "Sturmtruppler in Neubrandenburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/f4c34f53c0e4612d09d9bb4302e5533a"
 region: "Neubrandenburg"
 country: "Deutschland"
 completed: "9.474"
@@ -18,6 +18,9 @@ title: "Sturmtruppler in Neubrandenburg"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

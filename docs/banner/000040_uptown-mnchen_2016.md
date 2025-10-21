@@ -3,7 +3,7 @@ nummer: "40"
 startLatitude: "48.137238"
 startLongitude: "11.576208"
 titel: "Uptown München"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/a295e76d39c5950cbc83463f55857a90"
 region: "München"
 country: "Deutschland"
 completed: "888"
@@ -18,6 +18,9 @@ title: "Uptown München"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

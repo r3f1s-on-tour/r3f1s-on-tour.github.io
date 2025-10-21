@@ -3,7 +3,7 @@ nummer: "49"
 startLatitude: "48.140735"
 startLongitude: "11.599442"
 titel: "Friedensengel"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/07497fdbabbc83aa9d872aec006f5387"
 region: "München"
 country: "Deutschland"
 completed: "1140"
@@ -18,6 +18,9 @@ title: "Friedensengel"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

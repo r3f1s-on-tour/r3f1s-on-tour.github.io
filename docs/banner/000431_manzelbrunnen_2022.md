@@ -3,7 +3,7 @@ nummer: "431"
 startLatitude: "53,421923"
 startLongitude: "14,558712"
 titel: "Manzelbrunnen"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/27731c7eed356342597202a124dc7155"
 region: "Szczecin"
 country: "Polska"
 completed: "9.000"
@@ -18,6 +18,9 @@ title: "Manzelbrunnen"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

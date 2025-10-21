@@ -3,7 +3,7 @@ nummer: "179"
 startLatitude: "48.149014"
 startLongitude: "11.460917"
 titel: "Stammstrecke München"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/a79aadf92efd27e31e9091eebee114de"
 region: "München"
 country: "Deutschland"
 completed: "4308"
@@ -18,6 +18,9 @@ title: "Stammstrecke München"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

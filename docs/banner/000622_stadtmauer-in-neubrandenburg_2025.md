@@ -3,7 +3,7 @@ nummer: "622"
 startLatitude: "53,561425"
 startLongitude: "13,259994"
 titel: "Stadtmauer in Neubrandenburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/a2561300702212c1df855bbc00074d5e"
 region: "Neubrandenburg"
 country: "Deutschland"
 completed: "13386"
@@ -18,6 +18,9 @@ title: "Stadtmauer in Neubrandenburg"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
