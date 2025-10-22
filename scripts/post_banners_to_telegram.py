@@ -223,7 +223,7 @@ def main():
                     help="Pfad zur Template-Datei (Default: templates/tg_caption_template.txt).")
     ap.add_argument("--max-posts", type=int, default=int(os.getenv("MAX_POSTS", "5")),
                     help="Maximale Anzahl an Posts pro Lauf (Default 5; Env MAX_POSTS).")
-    ap.add_argument("--base-url", default=os.getenv("BASE_SITE_URL", "https://r3f1s-on-tour.github.io/"),
+    ap.add_argument("--base-url", default=os.getenv("BASE_SITE_URL", "https://r3f1s-on-tour.github.io/banner/"),
                     help="Basis-URL zur Seitenerzeugung (Default env BASE_SITE_URL oder feste Standard-URL).")
     ap.add_argument("--dry-run", action="store_true", help="Nur anzeigen, nicht wirklich posten.")
     args = ap.parse_args()
