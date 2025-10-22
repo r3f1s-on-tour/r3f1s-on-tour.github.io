@@ -1,30 +1,35 @@
 #!/usr/bin/env python3
 """
-Create Markdown files from a CSV AND build a GeoJSON map from the same rows.
+Create Markdown files from a CSV AND build GeoJSON:
+- Gesamtdatei: data/map.geojson
+- Zusätzlich: Jahres-Splits unter data/years/<YYYY>.geojson basierend auf 'date' in der CSV
 
-- Each row -> docs/banner/<number>_<slugified-title>_<date>.md
-- Writes all CSV columns into YAML front matter.
-- If target file already exists, the row is skipped (unless --overwrite).
-- Body shows fields present in frontmatter with {{ page.meta.<key> }} or {{ page.meta['key'] }}.
-- Picture-like columns are embedded as images using their {{ page.meta... }} values.
-- Replace ":" with "-" in all frontmatter values EXCEPT for keys "bg-link" and "picture".
-- Ensure 'description' is quoted and newlines encoded as "\n".
+Weitere Funktionen:
+- Dateiname: <nummer_zero_padded>_<slugified-title>_<date>.md (Padding default 6)
+- YAML-Frontmatter mit Sanitizing (":" -> "-", außer bei "bg-link" und "picture")
+- description immer als quoted String, Zeilenumbrüche als "\n"
+- Bilderfelder werden im Inhalt gerendert
+- GeoJSON-Feature: top-level "id" = nummer (Fallback: Zeilenindex), geometry=Point [lon, lat]
+- Koordinaten werden robust erkannt (inkl. startLatitude/startLongitude, kombinierte Felder, WKT, GeoJSON)
+- Flags:
+    --overwrite
+    --pad-width
+    --geojson-out
+    --years-dir
+    --lat-key / --lon-key
+    --include-missing-geometry   (nimmt Features ohne Koordinaten mit geometry=null auf)
+    --debug-geo                  (druckt Gründe für ausgelassene Geometrie)
 
-GeoJSON:
-- Builds FeatureCollection at data/map.geojson (configurable via --geojson-out).
-- Detects coordinates in many column name variants (incl. startLatitude/startLongitude) + combined formats.
-- --include-missing-geometry includes features with geometry=null when coordinates are missing.
-- --lat-key/--lon-key can force columns. --debug-geo prints skip reasons.
-- Top-level GeoJSON feature id is set from 'nummer' (fallback: row index).
+Usage:
+  python make_banner_markdown.py --csv scripts/banner.csv --out docs/banner
 """
-
 import argparse
 import csv
 import json
 import os
 import re
 from datetime import datetime
-from typing import Optional, Tuple, Any
+from typing import Optional, Tuple, Any, Dict, List
 
 # --- Configs ---
 PICTURE_KEYS = [
@@ -277,8 +282,22 @@ def extract_coords(row: dict, lat_key_pref: Optional[str], lon_key_pref: Optiona
                 return tpl[0], tpl[1], ""
     return None, None, "no coord columns matched"
 
+def extract_year(row: dict) -> Optional[int]:
+    """Finde das Jahr aus 'date'/'datum'/...; akzeptiert ISO, freie Strings, Zahlen."""
+    raw = infer_field(row, ["date","datum","year","jahr"])
+    if not raw:
+        return None
+    # 1) reine Zahl
+    y = to_int_or_none(raw)
+    if y and 1000 <= y <= 9999:
+        return y
+    # 2) ISO-normalisieren und 4er-Jahr greifen
+    iso = normalize_date(raw)
+    m = re.search(r"\b(1[0-9]{3}|20[0-9]{2}|21[0-9]{2})\b", iso)
+    return int(m.group(0)) if m else None
+
 def build_feature(row: dict, lat: Optional[float], lon: Optional[float], fallback_id: int) -> dict:
-    # Properties (keep 'nummer' inside properties for reference)
+    # Properties (behalten 'nummer' in properties für Referenz)
     props = {}
     for target, candidates in PROP_MAP:
         val = infer_field(row, candidates)
@@ -301,19 +320,19 @@ def build_feature(row: dict, lat: Optional[float], lon: Optional[float], fallbac
     if not props.get("picture"):
         props["picture"] = infer_field(row, list(PICTURE_KEYS)) or None
 
-    # Determine top-level id from 'nummer', fallback to row index
+    # Top-level id
     feature_id = props.get("nummer")
     if feature_id is None:
-        feature_id = fallback_id  # numeric fallback
+        feature_id = fallback_id
 
-    # drop None values from properties
+    # drop None in properties
     props = {k:v for k,v in props.items() if v is not None}
 
     geom = {"type":"Point","coordinates":[lon, lat]} if (lat is not None and lon is not None) else None
 
     return {
         "type": "Feature",
-        "id": feature_id,           # <-- Top-level id (parallel to geometry/properties)
+        "id": feature_id,           # top-level id
         "geometry": geom,
         "properties": props
     }
@@ -326,17 +345,21 @@ def main():
     parser.add_argument("--overwrite", action="store_true")
     parser.add_argument("--pad-width", type=int, default=6)
     parser.add_argument("--geojson-out", default="data/map.geojson")
-    parser.add_argument("--lat-key", default=None, help="Explicit latitude column name")
-    parser.add_argument("--lon-key", default=None, help="Explicit longitude column name")
+    parser.add_argument("--years-dir", default="data/years", help="Ordner für Jahres-GeoJSONs (ein File je Jahr)")
+    parser.add_argument("--lat-key", default=None, help="Expliziter Spaltenname für Latitude")
+    parser.add_argument("--lon-key", default=None, help="Expliziter Spaltenname für Longitude")
     parser.add_argument("--include-missing-geometry", action="store_true",
-                        help="Include features with geometry=null when coordinates are missing")
-    parser.add_argument("--debug-geo", action="store_true", help="Print reasons for skipped geometry")
+                        help="Features ohne Koordinaten auch aufnehmen (geometry=null)")
+    parser.add_argument("--debug-geo", action="store_true", help="Gründe für ausgelassene Geometrien ausgeben")
     args = parser.parse_args()
 
     os.makedirs(args.out, exist_ok=True)
     os.makedirs(os.path.dirname(args.geojson_out) or ".", exist_ok=True)
+    os.makedirs(args.years_dir, exist_ok=True)
 
-    features = []
+    features: List[dict] = []
+    year_buckets: Dict[int, List[dict]] = {}
+
     created = skipped = overwritten = 0
     missing_geo = 0
     debug_samples = []
@@ -389,10 +412,11 @@ def main():
 
             # coords & feature
             lat, lon, reason = extract_coords(row, args.lat_key, args.lon_key)
+            feat = build_feature(row, lat if (lat is not None or args.include_missing_geometry) else None,
+                                      lon if (lon is not None or args.include_missing_geometry) else None,
+                                      idx)
             if lat is None or lon is None:
-                if args.include_missing_geometry:
-                    features.append(build_feature(row, None, None, idx))
-                else:
+                if not args.include_missing_geometry:
                     missing_geo += 1
                     if args.debug_geo and len(debug_samples) < 10:
                         debug_samples.append({
@@ -401,18 +425,36 @@ def main():
                             "reason": reason,
                             "available_keys": list(row.keys())
                         })
-                continue
-            features.append(build_feature(row, lat, lon, idx))
+                    # überspringe GeoJSON-Aufnahme
+                    pass
+                else:
+                    features.append(feat)
+            else:
+                features.append(feat)
 
-    # write geojson
+            # year bucketing (nur wenn ein Jahr ermittelt werden kann)
+            year = extract_year(row)
+            if year is not None:
+                year_buckets.setdefault(year, []).append(feat)
+
+    # write global geojson
     with open(args.geojson_out, "w", encoding="utf-8") as jf:
         json.dump({"type":"FeatureCollection","features": features}, jf, ensure_ascii=False, indent=4)
 
+    # write per-year geojson files
+    written_year_files = 0
+    for year, feats in sorted(year_buckets.items()):
+        out_path = os.path.join(args.years_dir, f"{year}.geojson")
+        with open(out_path, "w", encoding="utf-8") as yf:
+            json.dump({"type":"FeatureCollection","features": feats}, yf, ensure_ascii=False, indent=4)
+        written_year_files += 1
+
     # report
     print(f"✅ Markdown  -> Created: {created}, Overwritten: {overwritten}, Skipped (exists): {skipped}. Out: {os.path.abspath(args.out)}")
-    print(f"🗺️ GeoJSON   -> Features: {len(features)} written to: {os.path.abspath(args.geojson_out)}")
+    print(f"🗺️ GeoJSON   -> Features total: {len(features)} written to: {os.path.abspath(args.geojson_out)}")
+    print(f"📁 Yearly    -> {written_year_files} files in: {os.path.abspath(args.years_dir)}")
     if missing_geo:
-        print(f"ℹ️ Rows without coordinates: {missing_geo} (use --debug-geo / --lat-key/--lon-key / --include-missing-geometry)")
+        print(f"ℹ️ Rows without coordinates (skipped from GeoJSON unless --include-missing-geometry): {missing_geo}")
         if debug_samples:
             print("— Debug samples (first up to 10):")
             for s in debug_samples:
