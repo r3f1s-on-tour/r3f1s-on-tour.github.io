@@ -3,19 +3,15 @@
 """
 Poste Banner-Markdowns als Telegram-Fotoposts – gesteuert über data/posted.yml.
 
-Fixes/Neu:
-- Default-Template-Pfad: template/tg_caption_template.txt (Singular, wie gewünscht)
-- Fallback-Template verlinkt die interne Seite (nicht Bannergress)
-- Optional: --prefer-bannergress (Default: False). Standard ist interner Link.
-
 Kerneigenschaften:
-- Persistente Tracking-Datei: data/posted.yml
-  posted: [ "<slug1>", "<slug2>", ... ]  (Slug = Dateiname ohne .md)
+- Persistente Tracking-Datei: data/posted.yml (posted: [ "<slug1>", ... ])
   -> Slugs in posted.yml werden nicht erneut gepostet.
 - Keine Frontmatter-Updates.
+- Template: template/tg_caption_template.txt (override via --caption-template-file)
+- Klickbare Links (HTML parse_mode) – {link} zeigt per Default auf deine Website.
+- Optionaler Switch --prefer-bannergress: bevorzugt bg-link.
 - Sortierung nach number/nummer/num (numerisch), dann lexikografisch.
-- Rate-Limit: Sleep zwischen Posts (Default 5s).
-- Limit: --max-posts (Default 5; Env MAX_POSTS)
+- Limit: --max-posts (Default 5; Env MAX_POSTS). Sleep: Default 5s.
 
 ENV:
 - TELEGRAM_BOT_TOKEN
@@ -34,7 +30,7 @@ import requests
 import yaml
 
 FRONTMATTER_RE = re.compile(r"^---\s*\n(.*?)\n---\s*\n?", re.DOTALL)
-TELEGRAM_CAPTION_MAX = 1024
+TELEGRAM_CAPTION_MAX = 1024  # Telegram Fotocaption-Limit (konservativ)
 
 # Fallback-Template: verlinkt die interne Seite
 FALLBACK_TEMPLATE = (
@@ -61,6 +57,9 @@ def dump_text(path: str, text: str) -> None:
 # ---------- Markdown Frontmatter ----------
 
 def parse_frontmatter(md_text: str) -> Tuple[Dict[str, Any], str, bool]:
+    """
+    Liefert (frontmatter, body, has_frontmatter).
+    """
     m = FRONTMATTER_RE.match(md_text)
     if not m:
         return {}, md_text, False
@@ -122,6 +121,12 @@ def compute_link_for_path(path: str, base_url: str) -> str:
 # ---------- Posted-Tracking ----------
 
 def load_posted_set(posted_file: str) -> Set[str]:
+    """
+    Lädt data/posted.yml mit Struktur:
+    posted:
+      - slug1
+      - slug2
+    """
     if not os.path.exists(posted_file):
         return set()
     try:
@@ -139,14 +144,28 @@ def save_posted_set(posted_file: str, posted_slugs: Set[str]) -> None:
     dump_text(posted_file, yaml.safe_dump(payload, sort_keys=False, allow_unicode=True))
 
 
-# ---------- Caption-Erzeugung ----------
+# ---------- Caption-Erzeugung (sichere Links) ----------
+
+def truncate_to_fit(rendered_len: int, desc_value: str, max_len: int) -> str:
+    """
+    Kürzt NUR die description so, dass die Caption <= max_len wird.
+    Retourniert eine ggf. gekürzte description (HTML-escaped String).
+    """
+    if rendered_len <= max_len:
+        return desc_value
+    # Sicherheitsmarge: ein Zeichen für Ellipsis
+    overflow = rendered_len - max_len
+    cut = min(len(desc_value), overflow + 1)
+    new_len = max(0, len(desc_value) - cut)
+    return (desc_value[:new_len] + "…") if new_len > 0 else ""
 
 def build_caption(fm: Dict[str, Any], body: str, template: str, link: str, prefer_bannergress: bool) -> str:
     """
-    Unterstützte Platzhalter:
-      {title}, {banner}, {completed}, {missions}, {region}, {country}, {link}
-    Zusatz: {date}, {lengthKMeters}/{distance}, {description}, {bg-link}, {body}
-    Hinweis: Template steuert, ob {link} oder eigener <a>-Tag genutzt wird.
+    Baut die Caption:
+    - Template wird NICHT global ge-escaped (damit <a> klickbar bleibt).
+    - Alle Platzhalterwerte werden HTML-escaped eingesetzt.
+    - {link} zeigt standardmäßig auf deine Website (oder bg-link bei --prefer-bannergress).
+    - Falls zu lang, wird NUR {description} gekürzt.
     """
     def get(*keys: str, default: str = "") -> str:
         for k in keys:
@@ -157,50 +176,54 @@ def build_caption(fm: Dict[str, Any], body: str, template: str, link: str, prefe
                 return str(v)
         return default
 
-    title = get("title", "titel", "name")
-    banner = get("banner", "nummer", "number", "num")
-    region = get("region", "city")
-    country = get("country", "land")
-    date = get("date")
-    completed = get("completed")
-    missions = get("missions")
-    distance = get("lengthKMeters", "distance_km", "distance")
-    description = get("description")
-    bg_link = get("bg-link", "link")
+    # Rohwerte
+    title_raw   = get("title", "titel", "name")
+    banner_raw  = get("banner", "nummer", "number", "num")
+    region_raw  = get("region", "city")
+    country_raw = get("country", "land")
+    date_raw    = get("date")
+    completed_raw = get("completed")
+    missions_raw  = get("missions")
+    distance_raw  = get("lengthKMeters", "distance_km", "distance")
+    desc_raw      = get("description")
+    bg_link_raw   = get("bg-link", "link")
 
-    # Link-Ziel bestimmen (Standard: interne Seite)
-    link_target = bg_link if (prefer_bannergress and bg_link) else link
+    # Linkziel bestimmen
+    link_target = bg_link_raw if (prefer_bannergress and bg_link_raw) else link
+
+    # Werte HTML-sicher machen
+    esc = html_escape
+    mapping = {
+        "title": esc(title_raw),
+        "banner": esc(banner_raw),
+        "completed": esc(completed_raw),
+        "missions": esc(missions_raw),
+        "region": esc(region_raw),
+        "country": esc(country_raw),
+        "link": esc(link_target),   # Template erwartet <a href="{link}">
+        "date": esc(date_raw),
+        "lengthKMeters": esc(distance_raw),
+        "distance": esc(distance_raw),
+        "description": esc(desc_raw),
+        "bg-link": esc(bg_link_raw),
+        "body": esc((body or "").strip()),
+    }
 
     class _SafeDict(dict):
         def __missing__(self, key): return ""
 
-    mapping = _SafeDict({
-        "title": title,
-        "banner": banner,
-        "completed": completed,
-        "missions": missions,
-        "region": region,
-        "country": country,
-        "link": link_target,    # ← wichtig: {link} zeigt auf gewünschtes Ziel
-        "date": date,
-        "lengthKMeters": distance,
-        "distance": distance,
-        "description": description,
-        "bg-link": bg_link,
-        "body": (body or "").strip(),
-    })
+    # Erstes Rendering
+    rendered = template.format_map(_SafeDict(mapping))
 
-    raw = template.format_map(mapping)
-    escaped = html_escape(raw)
-    # HTML erlauben (b, i, a)
-    escaped = (escaped
-               .replace("&lt;b&gt;", "<b>").replace("&lt;/b&gt;", "</b>")
-               .replace("&lt;i&gt;", "<i>").replace("&lt;/i&gt;", "</i>")
-               .replace("&lt;a ", "<a ").replace("&lt;/a&gt;", "</a>")
-               .replace("&gt;", ">").replace("&quot;", '"'))
-    if len(escaped) > TELEGRAM_CAPTION_MAX:
-        escaped = escaped[:TELEGRAM_CAPTION_MAX - 1] + "…"
-    return escaped
+    # Bei Überlänge nur die description kürzen und neu rendern
+    if len(rendered) > TELEGRAM_CAPTION_MAX:
+        new_desc = truncate_to_fit(len(rendered), mapping["description"], TELEGRAM_CAPTION_MAX)
+        mapping["description"] = new_desc
+        rendered = template.format_map(_SafeDict(mapping))
+        if len(rendered) > TELEGRAM_CAPTION_MAX:
+            rendered = rendered[:TELEGRAM_CAPTION_MAX - 1] + "…"
+
+    return rendered
 
 
 # ---------- Telegram ----------
@@ -248,7 +271,10 @@ def process_file(path: str, slug: str, token: str, chat_id: str,
 # ---------- main ----------
 
 def main():
-    ap = argparse.ArgumentParser(description="Poste Banner-Markdowns zu Telegram (posted.yml, kein Frontmatter).", allow_abbrev=False)
+    ap = argparse.ArgumentParser(
+        description="Poste Banner-Markdowns zu Telegram (posted.yml, kein Frontmatter).",
+        allow_abbrev=False
+    )
     ap.add_argument("--glob", default="docs/banner/*.md", help="Glob-Pattern der Markdown-Dateien.")
     ap.add_argument("--sleep-seconds", type=int, default=5, help="Wartezeit zwischen Posts.")
     ap.add_argument("--caption-template-file", default="template/tg_caption_template.txt",
@@ -259,7 +285,7 @@ def main():
                     help="Basis-URL zur Seitenerzeugung (Default env BASE_SITE_URL oder feste Standard-URL).")
     ap.add_argument("--posted-file", default="data/posted.yml", help="Pfad zur Tracking-Datei (Default: data/posted.yml).")
     ap.add_argument("--prefer-bannergress", action="store_true",
-                    help="Wenn gesetzt, bevorzugt der Link {link} den bg-link der Frontmatter (falls vorhanden).")
+                    help="Wenn gesetzt, bevorzugt {link} den bg-link der Frontmatter (falls vorhanden).")
     ap.add_argument("--dry-run", action="store_true", help="Nur anzeigen, nicht wirklich posten.")
     # Rückwärtskompatibel: altes Flag akzeptieren & ignorieren
     ap.add_argument("--flag-key", default=None, help="(deprecated) Wird ignoriert – Tracking erfolgt über data/posted.yml.")
@@ -325,6 +351,7 @@ def main():
             )
             if changed and not args.dry_run:
                 posted_slugs.add(slug)
+                # Sofort persistieren (robust bei Abbrüchen)
                 save_posted_set(args.posted_file, posted_slugs)
                 posted_now += 1
         except Exception as e:
