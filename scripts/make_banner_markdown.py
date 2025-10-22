@@ -42,12 +42,12 @@ IDENTIFIER_RE = re.compile(r"[A-Za-z_][A-Za-z0-9_]*$")
 LAT_KEYS_CANON = [
     "lat","latitude","y","breite","breitengrad","gps_lat","geo_lat",
     "lat_dd","lat_deg","latitude_dd","latitude_deg",
-    "startlatitude",  # added
+    "startlatitude",
 ]
 LON_KEYS_CANON = [
     "lon","lng","long","longitude","x","laenge","länge","laengengrad","längengrad",
     "gps_lon","geo_lon","lon_dd","lon_deg","longitude_dd","longitude_deg",
-    "startlongitude", # added
+    "startlongitude",
 ]
 COMBINED_COORD_KEYS = [
     "coords","coordinates","coordinate","coord","location","geo",
@@ -379,11 +379,11 @@ def main():
             # coords & feature
             lat, lon, reason = extract_coords(row, args.lat_key, args.lon_key)
             if lat is None or lon is None:
-                if args.include-missing-geometry:
+                if args.include_missing_geometry:
                     features.append(build_feature(row, None, None))
                 else:
                     missing_geo += 1
-                    if args.debug-geo and len(debug_samples) < 10:
+                    if args.debug_geo and len(debug_samples) < 10:
                         debug_samples.append({
                             "row": idx,
                             "title": title,
