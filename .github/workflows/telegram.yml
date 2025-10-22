@@ -42,7 +42,7 @@ jobs:
           python scripts/post_banners_to_telegram.py \
             --glob "docs/banner/*.md" \
             --flag-key "tg_posted" \
-            --caption-template-file "templates/tg_caption_template.txt" \
+            --caption-template-file "template/tg_caption_template.txt" \
             --max-posts "${MAX_POSTS}"
 
       - name: Commit & push Änderungen (tg_posted=true)
