@@ -946,6 +946,36 @@ title: "Banner Galerie"
   </a>
 </div>
 <div class="banner-item" style="display:block;width:100%;clear:both;margin:0 0 20px 0;">
+  <a href="/banner/000502_richter-fenster-im-klner-dom_2022/" style="display:block;width:100%;text-decoration:none;border:0;outline:0;">
+    <figure style="display:block;width:100%;margin:0;">
+      <img src="https://api.bannergress.com/bnrs/pictures/6ec737c556775c4c488cff75ae1e450c" alt="#502 — Richter Fenster im Kölner Dom" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:10px;"/>
+      <figcaption style="display:block;width:100%;margin-top:8px;font-size:1rem;opacity:0.9;">
+        <strong>#502</strong> — Richter Fenster im Kölner Dom
+      </figcaption>
+    </figure>
+  </a>
+</div>
+<div class="banner-item" style="display:block;width:100%;clear:both;margin:0 0 20px 0;">
+  <a href="/banner/000501_dragon-moon_2022/" style="display:block;width:100%;text-decoration:none;border:0;outline:0;">
+    <figure style="display:block;width:100%;margin:0;">
+      <img src="https://api.bannergress.com/bnrs/pictures/c07969945042767ca4d5907a3ff5a851" alt="#501 — Dragon Moon" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:10px;"/>
+      <figcaption style="display:block;width:100%;margin-top:8px;font-size:1rem;opacity:0.9;">
+        <strong>#501</strong> — Dragon Moon
+      </figcaption>
+    </figure>
+  </a>
+</div>
+<div class="banner-item" style="display:block;width:100%;clear:both;margin:0 0 20px 0;">
+  <a href="/banner/000500_narrenkappe_2022/" style="display:block;width:100%;text-decoration:none;border:0;outline:0;">
+    <figure style="display:block;width:100%;margin:0;">
+      <img src="https://api.bannergress.com/bnrs/pictures/51f7fff99c8e256ec6b33897ecba2011" alt="#500 — Narrenkappe" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:10px;"/>
+      <figcaption style="display:block;width:100%;margin-top:8px;font-size:1rem;opacity:0.9;">
+        <strong>#500</strong> — Narrenkappe
+      </figcaption>
+    </figure>
+  </a>
+</div>
+<div class="banner-item" style="display:block;width:100%;clear:both;margin:0 0 20px 0;">
   <a href="/banner/000493_mein-grner-kaktus-in-oranienburg_2022/" style="display:block;width:100%;text-decoration:none;border:0;outline:0;">
     <figure style="display:block;width:100%;margin:0;">
       <img src="https://api.bannergress.com/bnrs/pictures/8c94f3fbb77c8eef340b0ca8a9eda497" alt="#493 — Mein grüner Kaktus in Oranienburg" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:10px;"/>

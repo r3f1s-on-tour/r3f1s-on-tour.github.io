@@ -11348,6 +11348,7 @@
             "properties": {
                 "nummer": 500,
                 "title": "Narrenkappe",
+                "picture": "https://api.bannergress.com/bnrs/pictures/51f7fff99c8e256ec6b33897ecba2011",
                 "region": "Köln",
                 "country": "Deutschland",
                 "completed": 10,
@@ -11371,6 +11372,7 @@
             "properties": {
                 "nummer": 501,
                 "title": "Dragon Moon",
+                "picture": "https://api.bannergress.com/bnrs/pictures/c07969945042767ca4d5907a3ff5a851",
                 "region": "Köln",
                 "country": "Deutschland",
                 "completed": 10,
@@ -11394,6 +11396,7 @@
             "properties": {
                 "nummer": 502,
                 "title": "Richter Fenster im Kölner Dom",
+                "picture": "https://api.bannergress.com/bnrs/pictures/6ec737c556775c4c488cff75ae1e450c",
                 "region": "Köln",
                 "country": "Deutschland",
                 "completed": 10,

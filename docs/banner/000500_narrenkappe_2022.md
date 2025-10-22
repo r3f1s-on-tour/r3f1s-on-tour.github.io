@@ -3,7 +3,7 @@ nummer: "500"
 startLatitude: "50,943701"
 startLongitude: "6,933796"
 titel: "Narrenkappe"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/51f7fff99c8e256ec6b33897ecba2011"
 region: "Köln"
 country: "Deutschland"
 completed: "10.704"
@@ -19,6 +19,9 @@ title: "Narrenkappe"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

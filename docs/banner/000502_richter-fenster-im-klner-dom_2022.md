@@ -3,7 +3,7 @@ nummer: "502"
 startLatitude: "50,941286"
 startLongitude: "6,956972"
 titel: "Richter Fenster im Kölner Dom"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/6ec737c556775c4c488cff75ae1e450c"
 region: "Köln"
 country: "Deutschland"
 completed: "10.746"
@@ -19,6 +19,9 @@ title: "Richter Fenster im Kölner Dom"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
