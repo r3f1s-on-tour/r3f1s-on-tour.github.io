@@ -426,6 +426,16 @@ title: "Banner Galerie"
   </a>
 </div>
 <div class="banner-item" style="display:block;width:100%;clear:both;margin:0 0 20px 0;">
+  <a href="/banner/000577_fraws_2023/" style="display:block;width:100%;text-decoration:none;border:0;outline:0;">
+    <figure style="display:block;width:100%;margin:0;">
+      <img src="https://api.bannergress.com/bnrs/pictures/8bc3278f9f3c81b08bb5979bb46d42bf" alt="#577 — FRAWS" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:10px;"/>
+      <figcaption style="display:block;width:100%;margin-top:8px;font-size:1rem;opacity:0.9;">
+        <strong>#577</strong> — FRAWS
+      </figcaption>
+    </figure>
+  </a>
+</div>
+<div class="banner-item" style="display:block;width:100%;clear:both;margin:0 0 20px 0;">
   <a href="/banner/000575_madrid-pop-art-girl_2023/" style="display:block;width:100%;text-decoration:none;border:0;outline:0;">
     <figure style="display:block;width:100%;margin:0;">
       <img src="https://api.bannergress.com/bnrs/pictures/e02f9baada257bc24bc1e6614c1fb79f" alt="#575 — MADRID POP ART GIRL" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:10px;"/>
@@ -801,6 +811,16 @@ title: "Banner Galerie"
       <img src="https://api.bannergress.com/bnrs/pictures/239dec4fc7819ff18dfb77dccbc1c525" alt="#517 — Grüne Tour durch Strasburg" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:10px;"/>
       <figcaption style="display:block;width:100%;margin-top:8px;font-size:1rem;opacity:0.9;">
         <strong>#517</strong> — Grüne Tour durch Strasburg
+      </figcaption>
+    </figure>
+  </a>
+</div>
+<div class="banner-item" style="display:block;width:100%;clear:both;margin:0 0 20px 0;">
+  <a href="/banner/000515_banksy-stop-and-search_2022/" style="display:block;width:100%;text-decoration:none;border:0;outline:0;">
+    <figure style="display:block;width:100%;margin:0;">
+      <img src="https://api.bannergress.com/bnrs/pictures/9fa8dee798ddf525290fe2b7ab8b2e41" alt="#515 — Banksy - Stop and Search" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:10px;"/>
+      <figcaption style="display:block;width:100%;margin-top:8px;font-size:1rem;opacity:0.9;">
+        <strong>#515</strong> — Banksy - Stop and Search
       </figcaption>
     </figure>
   </a>
