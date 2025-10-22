@@ -13,14 +13,11 @@ Create Markdown files from a CSV AND build a GeoJSON map from the same rows.
 GeoJSON:
 - Builds FeatureCollection at data/map.geojson (configurable via --geojson-out).
 - Detects coordinates in many column name variants (incl. startLatitude/startLongitude) + combined formats.
-- --include-missing-geometry includes features without coords (geometry=null).
+- --include-missing-geometry includes features with geometry=null when coordinates are missing.
 - --lat-key/--lon-key can force columns. --debug-geo prints skip reasons.
-
-Usage:
-  python make_banner_markdown.py --csv scripts/banner.csv --out docs/banner \
-    [--overwrite] [--pad-width 6] [--geojson-out data/map.geojson] \
-    [--lat-key LAT] [--lon-key LON] [--include-missing-geometry] [--debug-geo]
+- Top-level GeoJSON feature id is set from 'nummer' (fallback: row index).
 """
+
 import argparse
 import csv
 import json
@@ -280,7 +277,8 @@ def extract_coords(row: dict, lat_key_pref: Optional[str], lon_key_pref: Optiona
                 return tpl[0], tpl[1], ""
     return None, None, "no coord columns matched"
 
-def build_feature(row: dict, lat: Optional[float], lon: Optional[float]) -> dict:
+def build_feature(row: dict, lat: Optional[float], lon: Optional[float], fallback_id: int) -> dict:
+    # Properties (keep 'nummer' inside properties for reference)
     props = {}
     for target, candidates in PROP_MAP:
         val = infer_field(row, candidates)
@@ -292,7 +290,7 @@ def build_feature(row: dict, lat: Optional[float], lon: Optional[float]) -> dict
             yr = to_int_or_none(val)
             props["date"] = yr if yr is not None else (val if val else None)
         elif target == "length_km":
-            props["length_km"] = to_float_or_none(val)  # no /1000!
+            props["length_km"] = to_float_or_none(val)
         elif target == "bg_link":
             props["bg_link"] = val or None
         else:
@@ -303,9 +301,22 @@ def build_feature(row: dict, lat: Optional[float], lon: Optional[float]) -> dict
     if not props.get("picture"):
         props["picture"] = infer_field(row, list(PICTURE_KEYS)) or None
 
+    # Determine top-level id from 'nummer', fallback to row index
+    feature_id = props.get("nummer")
+    if feature_id is None:
+        feature_id = fallback_id  # numeric fallback
+
+    # drop None values from properties
     props = {k:v for k,v in props.items() if v is not None}
+
     geom = {"type":"Point","coordinates":[lon, lat]} if (lat is not None and lon is not None) else None
-    return {"type":"Feature","geometry": geom,"properties": props}
+
+    return {
+        "type": "Feature",
+        "id": feature_id,           # <-- Top-level id (parallel to geometry/properties)
+        "geometry": geom,
+        "properties": props
+    }
 
 # --- Main ---
 def main():
@@ -380,7 +391,7 @@ def main():
             lat, lon, reason = extract_coords(row, args.lat_key, args.lon_key)
             if lat is None or lon is None:
                 if args.include_missing_geometry:
-                    features.append(build_feature(row, None, None))
+                    features.append(build_feature(row, None, None, idx))
                 else:
                     missing_geo += 1
                     if args.debug_geo and len(debug_samples) < 10:
@@ -391,7 +402,7 @@ def main():
                             "available_keys": list(row.keys())
                         })
                 continue
-            features.append(build_feature(row, lat, lon))
+            features.append(build_feature(row, lat, lon, idx))
 
     # write geojson
     with open(args.geojson_out, "w", encoding="utf-8") as jf:
