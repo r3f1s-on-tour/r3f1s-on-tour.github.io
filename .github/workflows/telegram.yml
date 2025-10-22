@@ -16,7 +16,7 @@ jobs:
   post-to-telegram:
     runs-on: ubuntu-latest
     env:
-      MAX_POSTS: "5"  # Standard-Limit
+      MAX_POSTS: "1000"  # Standard-Limit
     steps:
       - name: Checkout
         uses: actions/checkout@v4
