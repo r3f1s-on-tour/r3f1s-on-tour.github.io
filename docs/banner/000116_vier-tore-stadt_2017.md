@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/vier-tore-stadt-5193"
 onyx: "0"
 description: ""
 lengthKMeters: ""
+umap: ""
 title: "Vier-Tore-Stadt"
 ---
 

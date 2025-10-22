@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/uptown-m%C3%BCnchen-a93b"
 onyx: "0"
 description: "Die gläserne Fassade umhüllt das Tragwerk des nach dreijähriger Bauzeit im Jahre 2004 im Stadtteil Moosach fertiggestellten Büroturms. Das Hochhaus wird von vier siebengeschossigen Gebäuden flankiert"
 lengthKMeters: "18,71"
+umap: ""
 title: "Uptown München"
 ---
 

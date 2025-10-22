@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/catwalk-pippa-9bcd"
 onyx: "0"
 description: "Begleite Pippa auf einen Entdeckungsstreifzug vom S+U Lichtenberg nach Friedrichsfelde und dort im Bogen durch den Weitlingkiez zurück zu seinem Ausgangspunkt."
 lengthKMeters: "5,00"
+umap: ""
 title: "Catwalk Pippa"
 ---
 

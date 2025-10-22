@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/raute-blau-wei%C3%9F-teil-ii-63f0"
 onyx: "0"
 description: ""
 lengthKMeters: ""
+umap: ""
 title: "Raute Blau Weiß 2"
 ---
 

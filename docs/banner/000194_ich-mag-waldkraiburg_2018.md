@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/ich-mag-waldkraiburg-d034"
 onyx: "0"
 description: "Eine Tour durch Waldkraiburg. Wenn man die Missionen der Reihe nach macht erhält man den Schriftzug \"Ich mag Waldkraiburg\".\nMission 1- Vom Rathaus Richtung Stadtpark"
 lengthKMeters: "4,01"
+umap: ""
 title: "Ich mag Waldkraiburg"
 ---
 

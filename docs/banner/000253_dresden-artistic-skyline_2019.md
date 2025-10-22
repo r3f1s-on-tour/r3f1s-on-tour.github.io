@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/dresden-artistic-skyline-b160"
 onyx: "0"
 description: "Visit the historic city center of Dresden and create a beautiful artistic Skyline Banner."
 lengthKMeters: "4,86"
+umap: ""
 title: "Dresden Artistic Skyline"
 ---
 

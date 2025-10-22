@@ -13,6 +13,7 @@ bg-link: ""
 onyx: "0"
 description: "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße"
 lengthKMeters: "6,05"
+umap: ""
 title: "Mr Pumpkin Slasher in Oranienburg - Part 2"
 ---
 

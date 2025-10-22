@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/g%C3%B6ttingen-skyline-72aa"
 onyx: "0"
 description: "kleiner walk durch die Stadt vom Liesel bis zum Rathaus. Teil 1 führt dich zur Johanniskirche"
 lengthKMeters: "2,59"
+umap: ""
 title: "Göttingen Skyline"
 ---
 

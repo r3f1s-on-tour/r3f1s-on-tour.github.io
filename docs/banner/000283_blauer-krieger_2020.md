@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/blauer-krieger-9159"
 onyx: "0"
 description: "Erkunde die Stadt München ab dem Hauptbahnhof über Schwanthalerhöhe bis zum Stachus"
 lengthKMeters: "11,78"
+umap: ""
 title: "Blauer Krieger"
 ---
 

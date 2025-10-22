@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/valencia-skyline-4d2a"
 onyx: "0"
 description: "Descubre los lugares más emblemáticos de la ciudad de Valencia y completa este bonito banner.\nDiscover the most emblematic places in Valencia and complete this beautiful banner."
 lengthKMeters: "3,561"
+umap: ""
 title: "Valencia Skyline"
 ---
 

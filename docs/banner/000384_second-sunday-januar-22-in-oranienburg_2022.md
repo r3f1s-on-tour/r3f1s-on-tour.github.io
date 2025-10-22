@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/second-sunday-januar-22-in-oranienburg-
 onyx: "0"
 description: "Mache zum Second Sunday ein kleine Runde durch Oranienburg. Start ist in der Bernauer Straße.\n\nOnline bis 10.01.2022"
 lengthKMeters: "2,13"
+umap: ""
 title: "Second Sunday Januar 22 in Oranienburg"
 ---
 

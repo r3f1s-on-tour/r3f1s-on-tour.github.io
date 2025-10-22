@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/art-walk-1-until-death-do-us-part-2881"
 onyx: "0"
 description: "Starte am Berliner Hauptbahnhof eine Entdeckungsrunde in den Norden von Berlin. Die Tour führt dich dann von Berlin Mitte durch den Bezirk Reinickendorf und endet am U-Bahnhof Rathaus Reinickendorf.\n\nEin Tribute an den großartigen, polnischen Künstler Zdzisław Beksiński (24.02.1929 - 21.02.2005)"
 lengthKMeters: "26,48"
+umap: ""
 title: "Art walk 1 - Until death do us part"
 ---
 

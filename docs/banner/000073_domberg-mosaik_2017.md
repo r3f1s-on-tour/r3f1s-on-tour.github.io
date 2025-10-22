@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/domberg-mosaik-67a6"
 onyx: "0"
 description: "18-teilige Mosaik-Missionen rund um den Freisinger Domberg.\nErster Teil startet im Domhof, wo auch der letzte Teil beendet wird."
 lengthKMeters: "8,44"
+umap: ""
 title: "Domberg-Mosaik"
 ---
 

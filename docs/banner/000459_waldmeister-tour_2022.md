@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/waldmeister-tour-be43"
 onyx: "1"
 description: "Starte eine Waldmeister Tour im Mauerpark und mache eine Entdeckungsreise durch das Gleimviertel und PBerg entdecke auf deinen Weg u.a den Friedrich Jahn Sportpark."
 lengthKMeters: "10,25"
+umap: ""
 title: "Waldmeister Tour"
 ---
 

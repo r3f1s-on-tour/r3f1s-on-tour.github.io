@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/schauspielhaus-a53c"
 onyx: "0"
 description: "Das Schauspielhaus befindet sich im Zentrum von Neubrandenburg. Es ist das älteste erhaltene Theater von Mecklenburg Vorpommern."
 lengthKMeters: "5,061"
+umap: ""
 title: "Schauspielhaus"
 ---
 

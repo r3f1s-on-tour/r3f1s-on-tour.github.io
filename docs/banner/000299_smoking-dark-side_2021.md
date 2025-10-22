@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/smoking-dark-side-28f4"
 onyx: "0"
 description: "Starte einen Spaziergang durch den Kollwitzkiez und dem Winsviertel\nStart ist U-Bahn Eberswalder Straße und endet bei der Tram Prenzlauer Allee / Ecke Knaackstraße"
 lengthKMeters: "7,26"
+umap: ""
 title: "Smoking Dark Side"
 ---
 

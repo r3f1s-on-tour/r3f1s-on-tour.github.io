@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/aiblinger-wolf-be80"
 onyx: "0"
 description: "Hackrunde durch den Kurpark zur Eisdiele.\nInsgesamt 4 Runden. \nNur nach Aufforderung hacken."
 lengthKMeters: "3,47"
+umap: ""
 title: "Aiblinger Wolf"
 ---
 

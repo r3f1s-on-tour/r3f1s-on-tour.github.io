@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/bluesungarching-f7ce"
 onyx: "0"
 description: "A Trip to (nearly) all portals in Garching Hochbrück (1-6), Garching (7-12) and Garching-Forschungszentrum (13-24). The first 3 missions have long Distances. Bycicle is adviced."
 lengthKMeters: "26,52"
+umap: ""
 title: "BlueSunGarching"
 ---
 

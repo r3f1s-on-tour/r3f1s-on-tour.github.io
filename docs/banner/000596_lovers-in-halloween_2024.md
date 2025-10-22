@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/lovers-in-halloween-bd93"
 onyx: "0"
 description: "Celebra Halloween haciendo este bonito mural por las calles de Valencia."
 lengthKMeters: "10,574"
+umap: ""
 title: "Lovers in Halloween"
 ---
 

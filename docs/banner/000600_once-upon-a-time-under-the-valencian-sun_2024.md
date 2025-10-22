@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/once-upon-a-time-under-the-valencian-su
 onyx: "0"
 description: "Discover Valencia's Old Town, where historic charm meets vibrant culture. Wander through medieval streets, admire stunning architecture, and indulge in local cuisine at lively plazas."
 lengthKMeters: "4,879"
+umap: ""
 title: "Once Upon A Time Under The Valencian Sun"
 ---
 

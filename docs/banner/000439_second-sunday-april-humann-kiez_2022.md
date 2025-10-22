@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/second-sunday-april-humann-kiez-f876"
 onyx: "0"
 description: "This mission will guide you from Schoenhauser Allee to Humannplatz"
 lengthKMeters: "1,66"
+umap: ""
 title: "Second Sunday April Humann-Kiez"
 ---
 

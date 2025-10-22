@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/sternbilder-1139"
 onyx: "0"
 description: "Besucht die Stadt am Strelasund. Als Belohnung erwarten euch die 12 Sternzeichen als Sternbild am Himmel."
 lengthKMeters: "3,47"
+umap: ""
 title: "Sternbilder"
 ---
 

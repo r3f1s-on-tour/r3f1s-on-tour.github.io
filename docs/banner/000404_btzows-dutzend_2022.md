@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/b%C3%B6tzows-dutzend-d1f4"
 onyx: "0"
 description: "Als Bötzowviertel wird die Ortslage zwischen der Danziger Straße im Nordosten, dem Volkspark Friedrichshain im Süden und der Greifswalder Straße im Nordwesten bezeichnet."
 lengthKMeters: "6,56"
+umap: ""
 title: "Bötzows Dutzend"
 ---
 

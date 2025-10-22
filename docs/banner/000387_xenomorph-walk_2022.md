@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/xenomorph-walk-afac"
 onyx: "0"
 description: "Starte einen kleinen Spaziergang durch Berlin Mitte. Die Rund startet dabei am Schinkel Pavillion und führt dich zur St Marienkirche und der Martin Luther Statue.\n\nOnline bis 01.05.2022"
 lengthKMeters: "3,92"
+umap: ""
 title: "Xenomorph Walk"
 ---
 

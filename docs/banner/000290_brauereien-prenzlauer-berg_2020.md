@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/brauereien-prenzlauer-berg-deac"
 onyx: "0"
 description: "Auftakt des 12-teiligen Mosaiks\nEin Spaziergang durch den Prenzlauer Berg an 12 ehemaligen Brauereien vorbei. In der Groterja(h)n Brauerei Milastraße 1-4 wurde von 1897 bis 1914 Bier gebraut."
 lengthKMeters: "7,29"
+umap: ""
 title: "Brauereien Prenzlauer Berg"
 ---
 

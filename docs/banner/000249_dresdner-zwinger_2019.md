@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/dresdner-zwinger-eab9"
 onyx: "0"
 description: "Der Zwinger ist eines der bekanntesten barocken Bauwerke in Dresden.\nDieses Mosaik führt euch rund um und in den Zwinger.\nBittet beachtet die Öffnungszeiten des Zwingers!\nTeil 1 von 12"
 lengthKMeters: "2,89"
+umap: ""
 title: "Dresdner Zwinger"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/missionproject-make-love-not-war-berlin
 onyx: "0"
 description: "Explore the famous Bötzowviertel in Prenzlauer Berg and get a banner that shows your support for the people in Ukraine."
 lengthKMeters: "4,13"
+umap: ""
 title: "#MissionProject Make Love Not War Berlin"
 ---
 

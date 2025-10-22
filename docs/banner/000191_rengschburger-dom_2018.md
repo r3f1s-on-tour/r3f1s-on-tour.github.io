@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/rengschburger-dom-1d01"
 onyx: "0"
 description: "Servus, Griaß di und Habedere in Rengschburg! Dieses Mosaik hat insgesamt 60 Missionen und ist auf 3 Teile aufgeteilt. Parken und Start Unterer Wöhrd. Viel Spaß"
 lengthKMeters: "16,84"
+umap: ""
 title: "Rengschburger Dom"
 ---
 

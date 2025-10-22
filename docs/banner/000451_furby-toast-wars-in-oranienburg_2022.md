@@ -13,6 +13,7 @@ bg-link: ""
 onyx: "0"
 description: "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße"
 lengthKMeters: "4"
+umap: ""
 title: "Furby Toast Wars in Oranienburg"
 ---
 

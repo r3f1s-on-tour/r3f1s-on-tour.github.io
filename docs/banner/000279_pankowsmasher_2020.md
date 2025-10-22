@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/pankowsmasher-b978"
 onyx: "0"
 description: "Diese Mission beginnt in Pankow und geleitet euch vorbei an wunderschönen Wasserpumpen, Informationstafeln und historischen Bauwerken.  Sie besteht aus 12 Missionen  und bildet ein  einmaliges Banner."
 lengthKMeters: "8,97"
+umap: ""
 title: "Pankowsmasher"
 ---
 

@@ -104,7 +104,6 @@
 | Vaterstetten | 2 |
 | Woldegk | 2 |
 | Altötting | 1 |
-| Baden-Württemberg | 1 |
 | Bergisch Gladbach | 1 |
 | Binz | 1 |
 | Cambridge | 1 |
@@ -131,6 +130,7 @@
 | Lohwinden | 1 |
 | Luckenwalde | 1 |
 | Lüttingen | 1 |
+| Mannheim | 1 |
 | Marschall | 1 |
 | Oberpfaffenhofen | 1 |
 | Porto | 1 |

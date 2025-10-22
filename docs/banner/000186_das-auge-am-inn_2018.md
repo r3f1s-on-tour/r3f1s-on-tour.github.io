@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/das-auge-am-inn-a19d"
 onyx: "0"
 description: "Erkunde die Rosenheimer Portale am Inn"
 lengthKMeters: "4,83"
+umap: ""
 title: "Das Auge am Inn"
 ---
 

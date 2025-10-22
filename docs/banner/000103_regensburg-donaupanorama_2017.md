@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/regensburg-donaupanorama-8a3d"
 onyx: "0"
 description: "Erlebe unsere wunderschöne Stadt an der Donau durch einen schönen Spaziergang! Ich wünsche euch viel Spaß!"
 lengthKMeters: "8,61"
+umap: ""
 title: "Regensburg Donaupanorama"
 ---
 

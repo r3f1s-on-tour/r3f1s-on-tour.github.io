@@ -13,6 +13,7 @@ bg-link: ""
 onyx: "0"
 description: "Mache eine Entdeckungsrunde durch Strasburg und hole dir ein Feuerschwert ins PRofil"
 lengthKMeters: "2,79"
+umap: ""
 title: "Feuerschwert Tour durch Strasburg"
 ---
 

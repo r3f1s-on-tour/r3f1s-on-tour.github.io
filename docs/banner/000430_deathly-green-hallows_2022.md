@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/deathly-green-hallows-8876"
 onyx: "0"
 description: "Mach eine Entdeckungstour durch den Osten von Neubrandenburg."
 lengthKMeters: "21,08"
+umap: ""
 title: "Deathly Green Hallows"
 ---
 

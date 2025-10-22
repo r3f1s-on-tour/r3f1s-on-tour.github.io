@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/mzfpk-birkenwerder-20c4"
 onyx: "0"
 description: "Erkunde Birkenwerder zum MZFPK am 18.März\nBuilder.Enginer-Hacker-Purifier-Translator-Trekker"
 lengthKMeters: "0,926"
+umap: ""
 title: "MZFPK-Birkenwerder"
 ---
 

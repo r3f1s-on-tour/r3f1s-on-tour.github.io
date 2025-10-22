@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/kloster-f%C3%BCrstenfeld-cd21"
 onyx: "0"
 description: "Das Kloster Fürstenfeld ist eine ehemalige Zisterzienserabtei in Fürstenfeldbruck in der Erzdiözese München und Freising."
 lengthKMeters: "8,19"
+umap: ""
 title: "Kloster Fürstenfeld"
 ---
 

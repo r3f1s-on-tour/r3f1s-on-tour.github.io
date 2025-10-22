@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/erobere-woldegk-13fd"
 onyx: "0"
 description: ""
 lengthKMeters: ""
+umap: ""
 title: "Erobere Woldegk"
 ---
 

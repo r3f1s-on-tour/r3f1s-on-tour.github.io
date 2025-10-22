@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/enlightened-berlinomaly-a9fd"
 onyx: "0"
 description: "Welcome to Berlin, Enlightened Agents! This banner takes you along some of Berlins important sights and results in the offical Berlinomaly logo. \n\nThis mission starts at S Friedrichstrasse."
 lengthKMeters: "12,02"
+umap: ""
 title: "Enlightened Berlinomaly"
 ---
 

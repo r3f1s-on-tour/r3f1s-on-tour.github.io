@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/speicherstadt-mosaik-a9bd"
 onyx: "0"
 description: "All missions are in sequence.\nLocation- Hamburg Germany"
 lengthKMeters: "5,64"
+umap: ""
 title: "Speicherstadt Mosaik"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/playing-frogs-nb-2fed"
 onyx: "0"
 description: "Diese Missionen führen entlang des Strandbads Brodas und dem Kulturpark von Neubrandenburg. Entdecke dabei auch die zahlreichen Skulpturen im Kulturpark."
 lengthKMeters: "6,965"
+umap: ""
 title: "Playing Frogs NB"
 ---
 

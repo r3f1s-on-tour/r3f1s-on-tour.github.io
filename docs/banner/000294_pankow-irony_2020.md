@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/pankow-irony-cf7e"
 onyx: "0"
 description: "Diese 12er Missionsreihe beginnt in Pankow und geleitet euch durch den Pankow Südkiez. Sie besteht aus 12 Missionen und bildet ein einmaliges Banner. Das Banner endet wo es beginnt."
 lengthKMeters: "9,21"
+umap: ""
 title: "Pankow Irony"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/nerv-eva-units-4cc8"
 onyx: "0"
 description: "Small walk through the neighborhood of famous Berlin Friedrichshain."
 lengthKMeters: "1,67"
+umap: ""
 title: "NERV - EVA Units"
 ---
 

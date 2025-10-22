@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/sonne-und-mond-tour-786b"
 onyx: "0"
 description: "Starte am Zeiss-Großplanetarium eine Entdeckungsrunde nach Weissensee"
 lengthKMeters: "8,89"
+umap: ""
 title: "Sonne und Mond Tour"
 ---
 

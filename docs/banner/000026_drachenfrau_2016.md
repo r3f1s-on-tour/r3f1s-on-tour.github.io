@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/drachenfrau-5063"
 onyx: "0"
 description: "In der fast fertig sanierten Innenstadt kann man gut shoppen, altes und neues entdecken oder einfach durch die Gassen wandeln. Viel Spaß dabei."
 lengthKMeters: "7,44"
+umap: ""
 title: "Drachenfrau"
 ---
 

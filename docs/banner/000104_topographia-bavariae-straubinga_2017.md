@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/topographia-bavariae-straubinga-9e97"
 onyx: "0"
 description: "A Tour through the historical Straubing."
 lengthKMeters: "4,14"
+umap: ""
 title: "Topographia Bavariae Straubinga"
 ---
 

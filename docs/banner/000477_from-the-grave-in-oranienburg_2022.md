@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/from-the-grave-in-oranienburg-1694"
 onyx: "0"
 description: "Starte in der Bernauer Straße eine Entdeckungstour durch Oranienburg entdecke auf deiner Runde Sehenswürdigkeiten wie das Schloss und andere Denkmäler. Es geht entlang der Havel zurück zum Bahnhof."
 lengthKMeters: "8,961"
+umap: ""
 title: "From the Grave in Oranienburg"
 ---
 

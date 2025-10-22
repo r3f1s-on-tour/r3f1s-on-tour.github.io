@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/watercolor-munich-9d80"
 onyx: "0"
 description: "Quick walk through Munich city. Start/End Marienplatz."
 lengthKMeters: "2,10"
+umap: ""
 title: "Watercolor Munich"
 ---
 

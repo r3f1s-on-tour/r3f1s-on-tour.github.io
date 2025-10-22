@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/mp-happy-halloween-in-oranienburg-b2cc"
 onyx: "0"
 description: "Mache eine kleine Entdeckungstour durch Oranienburg. Start ist am Bahnhof und führt die zum Schloss wieder zurück zum Bahnhof\n\nBanner geht am 01.11.2021 offline"
 lengthKMeters: "3,64"
+umap: ""
 title: "#MP Happy Halloween in Oranienburg"
 ---
 

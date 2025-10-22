@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/bridge-runner-a158"
 onyx: "0"
 description: "Hin und her auf der Brücke mit Fragen & Hacks. Als 5er- oder 6er-Mission spielbar. / Across the Old Bridge with hacks & questions. Can be played as 5- or 6-mission-set."
 lengthKMeters: "1,59"
+umap: ""
 title: "Bridge Runner"
 ---
 

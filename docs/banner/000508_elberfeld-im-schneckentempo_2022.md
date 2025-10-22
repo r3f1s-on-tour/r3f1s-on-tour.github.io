@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/elberfeld-im-schneckentempo-82c3"
 onyx: "0"
 description: "Eine gemütliche Runde durch den Stadtbezirk Elberfeld der Stadt Wuppertal."
 lengthKMeters: "2,828"
+umap: ""
 title: "Elberfeld im Schneckentempo"
 ---
 

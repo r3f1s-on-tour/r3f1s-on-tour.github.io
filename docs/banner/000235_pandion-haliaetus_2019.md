@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/pandion-haliaetus-98d7"
 onyx: "0"
 description: "Die Missionsreihe führt durch Röbel. Anfang und Ende befinden sich am Müritzufer. Die ersten Portale werden zum Schluss der Reihe nochmals besucht."
 lengthKMeters: "8,90"
+umap: ""
 title: "Pandion haliaetus"
 ---
 

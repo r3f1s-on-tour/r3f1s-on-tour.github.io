@@ -13,6 +13,7 @@ bg-link: ""
 onyx: "1"
 description: "Mache eine Entdeckungsrunde durch Strasburg und hole die 8000 ins Profil"
 lengthKMeters: "2,79"
+umap: ""
 title: "8000 SpecOps Runde durch Strasburg"
 ---
 

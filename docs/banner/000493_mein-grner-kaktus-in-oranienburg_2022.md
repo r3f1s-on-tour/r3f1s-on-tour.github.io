@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/mein-gr%C3%BCner-kaktus-in-oranienburg-
 onyx: "0"
 description: "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße"
 lengthKMeters: "8"
+umap: ""
 title: "Mein grüner Kaktus in Oranienburg"
 ---
 

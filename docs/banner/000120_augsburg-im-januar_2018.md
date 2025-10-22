@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/augsburg-im-januar-a82b"
 onyx: "0"
 description: ""
 lengthKMeters: ""
+umap: ""
 title: "Augsburg im Januar"
 ---
 

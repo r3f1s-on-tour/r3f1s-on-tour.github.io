@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/viktualienmarkt-m%C3%BCnchen-14f4"
 onyx: "0"
 description: "Der Viktualienmarkt am heutigen Ort entstand aus der Verlegung des alten Münchner Stadtmarktes am Schrannenplatz, dem heutigen Marienplatz, der als Handelsort zu klein geworden war."
 lengthKMeters: "7,60"
+umap: ""
 title: "Viktualienmarkt München"
 ---
 

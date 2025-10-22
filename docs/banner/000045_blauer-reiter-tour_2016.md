@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/blauer-reiter-tour-9d18"
 onyx: "1"
 description: "Wünsche viel Spaß beim Spielen beim 48 Mosaik des Blauen Reiters. \n\nErschaffen hat den Blauen Reiter Franz Marc (1880 – 1916), wo man das Original im Lenbachhaus anschauen kann."
 lengthKMeters: "17,08"
+umap: ""
 title: "Blauer Reiter Tour"
 ---
 

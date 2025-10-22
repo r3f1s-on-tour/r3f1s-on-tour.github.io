@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/wei%C3%9Fenfels-stadt-an-der-saale-c456
 onyx: "0"
 description: "Herzlich Willkommen zum 18zener Mosaik der Stadt Weißenfels. In jeder Mission erwartet euch am Ende eine Passphrase. Alle Fragen könnt ihr mit Wiki beantworten. Ich wünsche euch viel Spaß!"
 lengthKMeters: "4,70"
+umap: ""
 title: "Weißenfels Stadt an der Saale"
 ---
 

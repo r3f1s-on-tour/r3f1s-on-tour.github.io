@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/rainbow-bridge-f3e7"
 onyx: "0"
 description: "Make your rounds in the park around the Märkisches Museum and receive a colourful picture for your Scanner."
 lengthKMeters: "2,53"
+umap: ""
 title: "Rainbow Bridge"
 ---
 

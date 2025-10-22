@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/find-the-alien-90f6"
 onyx: "0"
 description: "Willkommen auf dem Düsseldorfer Nordfriedhof. Nachdem hier schon die Borg gesichtet worden sind, \ngibt es starke Anzeichen dass es hier auch Aliens gibt. Folge der Route in der richtigen Reihenfolge!"
 lengthKMeters: "5,541"
+umap: ""
 title: "Find the Alien"
 ---
 

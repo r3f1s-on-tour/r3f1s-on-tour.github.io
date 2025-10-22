@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/prenzlau-marienkirche-c1d5"
 onyx: "0"
 description: "Eine kleine Stadterkundung durch das Zentrum von Prenzlau."
 lengthKMeters: "4,94"
+umap: ""
 title: "Prenzlau Marienkirche"
 ---
 

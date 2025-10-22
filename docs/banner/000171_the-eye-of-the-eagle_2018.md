@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/the-eye-of-the-eagle-066e"
 onyx: "0"
 description: "This is a 18 missions walk through the Fennpfuhl park. At the end you will have an eagle in your profile, the heraldic animal of Poland, Austria, Germany and many other countries."
 lengthKMeters: "5,81"
+umap: ""
 title: "The Eye of the Eagle"
 ---
 

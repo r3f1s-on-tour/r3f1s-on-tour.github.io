@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/sound-vision-f57e"
 onyx: "0"
 description: "Your journey will take you through three beautiful towns of Bavaria. Please enjoy the views and our historical towns."
 lengthKMeters: "40,14"
+umap: ""
 title: "Sound Vision"
 ---
 

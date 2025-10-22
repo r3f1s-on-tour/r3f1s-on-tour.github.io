@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/i-want-to-be-a-pirate-a503"
 onyx: "0"
 description: "Begin at \"the gold factory\" where you buried your treasure and take a stroll on the artificial part of Malmö, \"western harbour\", to be able to draw up your own pirate map.\nAll portals available 24/7"
 lengthKMeters: "6,60"
+umap: ""
 title: "I want to be a pirate!"
 ---
 

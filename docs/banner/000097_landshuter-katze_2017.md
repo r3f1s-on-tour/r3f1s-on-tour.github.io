@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/landshuter-katze-d42b"
 onyx: "0"
 description: "Die Landshuter Katze führt euch durch unser schönes Landshut. \nViel Spaß"
 lengthKMeters: "7,93"
+umap: ""
 title: "Landshuter Katze"
 ---
 

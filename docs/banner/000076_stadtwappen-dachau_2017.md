@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/stadtwappen-dachau-b0c1"
 onyx: "0"
 description: "Zeig allen, dass du Dachau wirklich besucht hast! (Start- Bahnhof)\nShow everyone that you've been to Dachau! (Start- Train Station)\n\nIn rememberance of liberation Dachau's concentration camp."
 lengthKMeters: "11,39"
+umap: ""
 title: "Stadtwappen Dachau"
 ---
 

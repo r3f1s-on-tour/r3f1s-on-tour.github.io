@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/md-n%C3%BCrnberg-2280"
 onyx: "0"
 description: "The former AEG factory premises have been become a lively urban site with IT offices, workshops, photographs’ and artists’ studios, exhibition halls and last but not least Nuremberg’s FabLab."
 lengthKMeters: "31,10"
+umap: ""
 title: "Mission Day Nürnberg"
 ---
 

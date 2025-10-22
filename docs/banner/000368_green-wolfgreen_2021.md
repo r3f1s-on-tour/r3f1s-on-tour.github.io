@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/green-wolfgreen-0f7e"
 onyx: "0"
 description: "Erkunde die Innenstadt von Neubrandenburg mit all ihren mittelalterlichen Gebäuden und moderner Architektur."
 lengthKMeters: "5,56"
+umap: ""
 title: "Green Wolfgreen"
 ---
 

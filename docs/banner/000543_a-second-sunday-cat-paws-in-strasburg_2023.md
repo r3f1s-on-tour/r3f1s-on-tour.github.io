@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/a-second-sunday-cat-paws-in-strasburg-9
 onyx: "1"
 description: "Beginne eine Runde durch Strasburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Strasburg. Starte in der Schulstraße"
 lengthKMeters: "1,047"
+umap: ""
 title: "A Second Sunday Cat Paws in Strasburg"
 ---
 

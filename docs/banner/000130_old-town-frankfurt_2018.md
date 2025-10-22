@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/old-town-frankfurt-e920"
 onyx: "0"
 description: "This tour guides you through the Old Town of Frankfurt. We start on the Roemerberg, where the old city hall called Roemer is placed. This mission is hack-only.\n(Picture from an old postcard of 1915)"
 lengthKMeters: "6,30"
+umap: ""
 title: "Old Town Frankfurt"
 ---
 

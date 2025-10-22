@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/augsburg-st-ulrich-und-afra-7c19"
 onyx: "0"
 description: ""
 lengthKMeters: ""
+umap: ""
 title: "Augsburg St Ulrich und Afra"
 ---
 

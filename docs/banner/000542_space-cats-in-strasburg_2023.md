@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/space-cats-in-strasburg-bacf"
 onyx: "0"
 description: "Beginne eine Runde durch Strasburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Strasburg. Starte in der Schulstraße"
 lengthKMeters: "1,047"
+umap: ""
 title: "Space Cats in Strasburg"
 ---
 

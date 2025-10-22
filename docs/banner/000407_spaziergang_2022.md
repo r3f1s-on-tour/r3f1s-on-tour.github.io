@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/spaziergang-88bd"
 onyx: "0"
 description: "Eine kleine  Runde in Berlin Mitte"
 lengthKMeters: "6,23"
+umap: ""
 title: "SPAZIERGANG"
 ---
 

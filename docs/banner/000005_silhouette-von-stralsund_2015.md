@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/silhouette-von-stralsund-a792"
 onyx: "0"
 description: "Vom Dänholm entlang des Strelasunds in Richtung  Parow charakterisiert die neue Rügenbrücke sowie die drei großen mittelalterlichen Kirchen der Backsteingotik die Silhouette Stralsunds."
 lengthKMeters: "5,51"
+umap: ""
 title: "Silhouette von Stralsund"
 ---
 

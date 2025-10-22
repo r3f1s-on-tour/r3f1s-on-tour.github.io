@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/neubr-stadtmusikanten-8d23"
 onyx: "0"
 description: "Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde die Sehenswürdigkeiten und Denkmäler der Stadt."
 lengthKMeters: "12,503"
+umap: ""
 title: "Neubr. Stadtmusikanten"
 ---
 

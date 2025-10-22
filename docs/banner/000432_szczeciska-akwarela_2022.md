@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/szczeci%C5%84ska-akwarela-19aa"
 onyx: "0"
 description: "Akwarela z charakterystycznymi miejscami Szczecina. Za bardzo się nie zmęczysz przy robieniu tej mozaiki -) \nStart - Brama Portowa!"
 lengthKMeters: "8,59"
+umap: ""
 title: "Szczecińska akwarela"
 ---
 

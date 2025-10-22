@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/z%C3%BCrich-altstadt-2215"
 onyx: "0"
 description: "Entdecke auf diesem grossen Rundgang die mindere und die mehrere Altstadt von Zürich."
 lengthKMeters: "11,49"
+umap: ""
 title: "Zürich Altstadt"
 ---
 

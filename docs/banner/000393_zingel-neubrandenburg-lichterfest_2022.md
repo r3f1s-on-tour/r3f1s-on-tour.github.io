@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/zingel-neubrandenburg-lichterfest-b183"
 onyx: "0"
 description: "Der Rundgang führt durch die Innenstadt von Neubrandenburg. Erlebe dabei die zahlreichen Gebäude aus dem Mittelalter und entdecke die Infotafeln, die die Geschichte der Stadt Neubrandenburg erzählen."
 lengthKMeters: "8,22"
+umap: ""
 title: "Zingel Neubrandenburg Lichterfest"
 ---
 

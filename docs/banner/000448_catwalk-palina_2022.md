@@ -13,6 +13,7 @@ bg-link: ""
 onyx: "0"
 description: "Begleite Palina auf einen Entdeckungsstreifzug vom S+U Lichtenberg nach Friedrichsfelde und dort im Bogen durch den Weitlingkiez zurück zu seinem Ausgangspunkt."
 lengthKMeters: "8,00"
+umap: ""
 title: "Catwalk Palina"
 ---
 

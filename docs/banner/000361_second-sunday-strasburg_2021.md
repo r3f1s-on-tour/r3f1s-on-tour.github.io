@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/second-sunday-strasburg-1872"
 onyx: "0"
 description: "Starte am Marktplatz und entdecke zum Second Sunday die Stadt Strasburg Uckermark"
 lengthKMeters: "3,17"
+umap: ""
 title: "Second Sunday - Strasburg"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/munich-resists-aa8d"
 onyx: "0"
 description: "Sei kein Frosch - und folge dem Weg des Widerstands durch die bayerische Landeshauptstadt!"
 lengthKMeters: "25,94"
+umap: ""
 title: "Munich resists!"
 ---
 

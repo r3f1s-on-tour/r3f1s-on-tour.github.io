@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/kiek-in-de-mark-80d9"
 onyx: "0"
 description: "Walk through the city and pick up a banner with the tower in rainbow colours."
 lengthKMeters: "3,24"
+umap: ""
 title: "Kiek in de Mark"
 ---
 

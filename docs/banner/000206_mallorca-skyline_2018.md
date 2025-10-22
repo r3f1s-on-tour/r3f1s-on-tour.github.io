@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/mallorca-skyline-4eb2"
 onyx: "0"
 description: "Mallorca is one of Spain's Balearic Islands in the Mediterranean. It's known for beach resorts, sheltered coves, limestone mountains and Roman and Moorish remains. Capital Palma has nightlife."
 lengthKMeters: "1,75"
+umap: ""
 title: "Mallorca Skyline"
 ---
 

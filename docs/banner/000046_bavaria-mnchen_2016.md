@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/bavaria-m%C3%BCnchen-78e7"
 onyx: "0"
 description: "Die kolossale und monumental anmutende Bronzestatue der Bavaria wurde im Auftrag von König Ludwig I. (1786–1868) in den Jahren 1843 bis 1850 errichtet. Sie bildet eine Einheit mit der Ruhmeshalle."
 lengthKMeters: "9,69"
+umap: ""
 title: "Bavaria München"
 ---
 

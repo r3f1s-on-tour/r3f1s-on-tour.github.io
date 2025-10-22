@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/friedensengel-8105"
 onyx: "0"
 description: "Der so genannte Friedensengel ist eigentlich der griechischen Siegesgöttin Nike nachempfunden und erinnert an den Friedensschluss nach Ende des Deutsch-Französischen Krieges von 1870/1871."
 lengthKMeters: "13,40"
+umap: ""
 title: "Friedensengel"
 ---
 

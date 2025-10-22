@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/green-phoenix-736c"
 onyx: "0"
 description: "Willkommen im Wildpark Brück. Entdecke bei 60 Missionen die Vielfalt des Waldes."
 lengthKMeters: "3,096"
+umap: ""
 title: "Green Phoenix"
 ---
 

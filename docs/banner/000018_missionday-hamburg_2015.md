@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/md-hamburg-0950"
 onyx: "0"
 description: "The Alsterarkaden is the smallest and oldest shopping arcade in Hamburg."
 lengthKMeters: "71,95"
+umap: ""
 title: "MissionDay Hamburg"
 ---
 

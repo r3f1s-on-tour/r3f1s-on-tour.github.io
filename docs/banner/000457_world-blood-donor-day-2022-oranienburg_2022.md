@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/world-blood-donor-day-2022-oranienburg-
 onyx: "0"
 description: "Am 14. Juni 2022 ist globaler Blutspendetag! Lasst euch mit diesem Banner durch Oranienburg zum Blutspendezentrum leiten. Beachtet, dass ihr euch für eine Blutspende vorher anmelden müsst!"
 lengthKMeters: "3,011"
+umap: ""
 title: "World Blood Donor Day 2022 - Oranienburg"
 ---
 

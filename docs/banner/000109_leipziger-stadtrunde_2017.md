@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/leipziger-stadtrunde-8503"
 onyx: "0"
 description: "Dies ist  eine kleine 6-teilige Missionsreihe durch das Herz der Messestadt und führt euch an dein Sehenswürdigkeiten des alten und neuen Leipzigs.\nIhr startet am ehemals größten Sackbahnhof."
 lengthKMeters: "2,22"
+umap: ""
 title: "Leipziger Stadtrunde"
 ---
 

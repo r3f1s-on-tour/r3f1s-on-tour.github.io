@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/catwalk-kosimo-55e1"
 onyx: "0"
 description: "Join my cat Kosimo on a journey of discovery from S+U Lichtenberg to Friedrichsfelde and then in an arc through the Weitlingkiez back to his starting point."
 lengthKMeters: "6,862"
+umap: ""
 title: "Catwalk Kosimo"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/tour-de-cottbus-f2cd"
 onyx: "0"
 description: "Etappe 1 von 24 beginnt am Wahrzeichen von Cottbus und ist eine Runde um den  Spremberger Turm. Am letzten Portal gibt es den Hinweis auf die nächste Etappe."
 lengthKMeters: "16,661"
+umap: ""
 title: "Tour de Cottbus"
 ---
 

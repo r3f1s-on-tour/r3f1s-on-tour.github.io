@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/for-the-empire-dresden-f22e"
 onyx: "0"
 description: "For the Empire Umbra Anomaly banner"
 lengthKMeters: "1,63"
+umap: ""
 title: "For the Empire Dresden"
 ---
 

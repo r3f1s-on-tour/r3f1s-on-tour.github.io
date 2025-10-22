@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/auf-den-spuren-des-wasabi-0bd1"
 onyx: "0"
 description: "Hier im Kiez liegt die Historie des Wasabiphänomens. In verschiedenen Formen erhältlich, am bekömmlichsten als Milch. Verursacht auch in kleinsten Mengen Tränen."
 lengthKMeters: "1,59"
+umap: ""
 title: "Auf den Spuren des Wasabi"
 ---
 

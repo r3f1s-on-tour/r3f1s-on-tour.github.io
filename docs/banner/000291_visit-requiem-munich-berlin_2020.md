@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/visit-requiem-munich-berlin-8672"
 onyx: "0"
 description: "On the 9th May of 2020 an epic battle between Enlightened and Resistance will take place in Munich! Join our forces and spread the message by completing this banner."
 lengthKMeters: "858,00"
+umap: ""
 title: "Visit Requiem Munich - Berlin"
 ---
 

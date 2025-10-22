@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/m%C3%BCnchens-bierg%C3%A4rten-ce86"
 onyx: "0"
 description: "Besuche Münchens große Biergärten"
 lengthKMeters: "13,99"
+umap: ""
 title: "Münchens Biergärten"
 ---
 

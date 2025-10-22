@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/karlsplatz-stachus-a1a8"
 onyx: "0"
 description: "Der Karlsplatz liegt an einer Stelle, über die im Mittelalter die Salzstraße führte, die Herzog Heinrich der Löwe von Föhring nach München verlegt hatte."
 lengthKMeters: "6,14"
+umap: ""
 title: "Karlsplatz Stachus"
 ---
 

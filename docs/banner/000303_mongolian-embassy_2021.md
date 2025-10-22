@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/mongolian-embassy-c022"
 onyx: "0"
 description: "This tour will guide you around the area of the mongolian embassy.  Located near Hausvogteiplatz and famous Gendarmenmarkt are only a few minutes away."
 lengthKMeters: "3,58"
+umap: ""
 title: "Mongolian Embassy"
 ---
 

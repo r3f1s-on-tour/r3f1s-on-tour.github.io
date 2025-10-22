@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/cat-eye-yellow-9d73"
 onyx: "0"
 description: "Dieses Banner ist die sechste Farbe von insgesamt 6. \nSie startet und Endet am S+U Lichtenberg. \nAls Passphrase wird jedweils die aktuelle Missionsnummer abgefragt\n\nThis banner is the sixth of a total of 6. \nIt starts and ends at S+U Lichtenberg. \nThe passphrases are only asking for the current mission number."
 lengthKMeters: "2,258"
+umap: ""
 title: "Cat Eye Yellow"
 ---
 

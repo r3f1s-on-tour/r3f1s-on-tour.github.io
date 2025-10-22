@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/dark-skyline-135b"
 onyx: "0"
 description: "Six-mission-set in the city-centre that shows some of Hannovers popular sights."
 lengthKMeters: "1,81"
+umap: ""
 title: "Dark Skyline"
 ---
 

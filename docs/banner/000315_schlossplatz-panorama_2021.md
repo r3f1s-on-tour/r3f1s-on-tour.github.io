@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/schlossplatz-panorama-57c4"
 onyx: "0"
 description: "360° Panorama vom Oldenburger Schlossplatz. \nDurch den 360° Blick könnt ihr bei jeder der 6 Missionen Starten.\nYou can start at any Mission, after Mission 6 you can put Mission 1 and it will still fit"
 lengthKMeters: "1,71"
+umap: ""
 title: "Schlossplatz Panorama"
 ---
 

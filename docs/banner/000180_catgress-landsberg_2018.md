@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/catgress-landsberg-7ccd"
 onyx: "0"
 description: "Es kann gar nicht zu viele Katzenfotos geben!\nSchleicht auf Katzenpfoten durch die Landsberger Altstadt. \nDas Catgress Mosaik besteht aus 24 Einzelmissionen (Hack/Passphrase)"
 lengthKMeters: "8,12"
+umap: ""
 title: "Catgress Landsberg"
 ---
 

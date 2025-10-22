@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/fs-berlin-ingressfs-e919"
 onyx: "0"
 description: "Kurze Missionsreihe zum Berliner First Saturday. Bekannte Berliner Motive zusammengefasst zu einem schönen Kiezspaziergang."
 lengthKMeters: "1,66"
+umap: ""
 title: "FS Berlin #IngressFS"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/cats-in-the-box-strasburg-baf2"
 onyx: "0"
 description: "Starte am Marktplatz und entdecke Strasburg Uckermark bei einer weihnachtlichen Spaziergang. \n\nBanner geht am 26.12.2021 offline"
 lengthKMeters: "3,18"
+umap: ""
 title: "Cats in the box - Strasburg"
 ---
 

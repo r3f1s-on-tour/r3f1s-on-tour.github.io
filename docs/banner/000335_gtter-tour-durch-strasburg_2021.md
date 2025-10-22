@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/g%C3%B6tter-tour-durch-strasburg-8cf3"
 onyx: "0"
 description: "Starte am Marktplatz und entdecke Strasburg Uckermark und hol dir die Götter ins Profil\n\nGeht am 08.11.2021 offline"
 lengthKMeters: "3,17"
+umap: ""
 title: "Götter Tour durch Strasburg"
 ---
 

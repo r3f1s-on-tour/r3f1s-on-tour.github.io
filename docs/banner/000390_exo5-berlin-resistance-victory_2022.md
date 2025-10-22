@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/exo5-berlin-resistance-victory-2d01"
 onyx: "0"
 description: "This is where we fought them! This is where we stood our ground! Remember this day agent, for it will stand in history as the day the Resistance halted Shaper progress!"
 lengthKMeters: "2,29"
+umap: ""
 title: "EXO5 Berlin Resistance Victory"
 ---
 

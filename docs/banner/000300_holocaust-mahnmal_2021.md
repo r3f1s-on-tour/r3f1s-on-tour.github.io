@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/holocaust-mahnmal-3309"
 onyx: "1"
 description: "Dieser Spaziergang durch die Mitte Berlins führt dich an vielen interessanten und historischen Orten zur Geschichte des Judentums in Berlin vorbei."
 lengthKMeters: "7,79"
+umap: ""
 title: "Holocaust Mahnmal"
 ---
 

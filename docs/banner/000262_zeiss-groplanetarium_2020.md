@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/zeiss-gro%C3%9Fplanetarium-6b8c"
 onyx: "0"
 description: ""
 lengthKMeters: ""
+umap: ""
 title: "Zeiss-Großplanetarium"
 ---
 

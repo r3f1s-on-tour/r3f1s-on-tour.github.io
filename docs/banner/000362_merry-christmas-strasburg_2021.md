@@ -13,6 +13,7 @@ bg-link: ""
 onyx: "0"
 description: "Starte am Marktplatz und entdecke Strasburg Uckermark bei einer weihnachtlichen Spaziergang."
 lengthKMeters: "3,18"
+umap: ""
 title: "Merry Christmas - Strasburg"
 ---
 

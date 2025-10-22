@@ -13,6 +13,7 @@ bg-link: ""
 onyx: "0"
 description: "Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße."
 lengthKMeters: "1,599"
+umap: ""
 title: "Creepy Cupcakes in Oranienburg"
 ---
 

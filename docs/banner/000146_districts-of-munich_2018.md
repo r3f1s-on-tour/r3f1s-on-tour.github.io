@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/districts-of-munich-83ab"
 onyx: "0"
 description: "Mission-sequence through Munich's districts. DayTicket (Inneraum) helps ;)"
 lengthKMeters: "83,57"
+umap: ""
 title: "Districts of Munich"
 ---
 

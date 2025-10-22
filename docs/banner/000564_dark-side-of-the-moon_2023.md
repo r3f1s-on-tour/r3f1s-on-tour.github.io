@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/dark-side-of-the-moon-b01f"
 onyx: "0"
 description: "Discover the dark side of the moon in Potsdam. Start at the Fachhochschule and move towards Nauener Tor."
 lengthKMeters: "5,476"
+umap: ""
 title: "Dark Side of the Moon"
 ---
 

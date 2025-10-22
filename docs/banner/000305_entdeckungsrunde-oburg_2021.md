@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/entdeckungsrunde-oburg-62cd"
 onyx: "0"
 description: "Kleine Runde durch Oranienburg. Start ist am Bahnhof"
 lengthKMeters: "1,70"
+umap: ""
 title: "Entdeckungsrunde OBurg"
 ---
 

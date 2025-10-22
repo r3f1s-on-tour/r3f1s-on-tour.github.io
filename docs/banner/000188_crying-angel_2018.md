@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/crying-angel-59c9"
 onyx: "0"
 description: "Kleine Tour über den alten Nordfriedhof. Vorsicht vor den weinenden Engel"
 lengthKMeters: "2,21"
+umap: ""
 title: "Crying Angel"
 ---
 

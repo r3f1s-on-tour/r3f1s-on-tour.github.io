@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/evolution-of-frog-strasburg-f93f"
 onyx: "0"
 description: "Starte am Marktplatz und entdecke Strasburg Uckermark\n\nGeht am 08.11.2021 offline"
 lengthKMeters: "3,17"
+umap: ""
 title: "Evolution of Frog - Strasburg"
 ---
 

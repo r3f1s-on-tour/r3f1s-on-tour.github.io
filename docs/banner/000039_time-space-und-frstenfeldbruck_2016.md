@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/time-space-und-f%C3%BCrstenfeldbruck-7a
 onyx: "0"
 description: "Eine Reise durch den schönen Landkreis Fürstenfeldbruck."
 lengthKMeters: "98,19"
+umap: ""
 title: "Time Space und Fürstenfeldbruck"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/szczecin-the-view-from-the-oder-ed1c"
 onyx: "0"
 description: "I invite you to take a walk around Szczecin. Collect all the badges, admire the beautiful view from the Oder river and discover the spirit of the port city ;-)"
 lengthKMeters: "3,57"
+umap: ""
 title: "Szczecin, the view from the Oder"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/tier-freizeit-und-saurierpark-germendor
 onyx: "0"
 description: "Tagesausflug im Tierpark"
 lengthKMeters: "4,32"
+umap: ""
 title: "Tier-, Freizeit- und Saurierpark Germendorf"
 ---
 

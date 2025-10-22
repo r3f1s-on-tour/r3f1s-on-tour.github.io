@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/dresden-skyline-06da"
 onyx: "0"
 description: "Dresden - eine barocke Perle an der Elbe. Viele Maler haben diese Pracht schon auf Leinwand verewigt. Nun könnt ihr ein Mosaik aus 12 Teilen in eurem Agent-Profil ergänzen.\nTeil 1 von 12"
 lengthKMeters: "4,1"
+umap: ""
 title: "Dresden Skyline"
 ---
 

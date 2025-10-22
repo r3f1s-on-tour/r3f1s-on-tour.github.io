@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/millenium-falke-f37e"
 onyx: "0"
 description: "Die Missionen führen dich vom Markplatz direkt in den Kulturpark von Neubrandenburg. Erlebe dabei den wunderschönen Tollensesee und die Strände."
 lengthKMeters: "6,455"
+umap: ""
 title: "Millenium Falke"
 ---
 

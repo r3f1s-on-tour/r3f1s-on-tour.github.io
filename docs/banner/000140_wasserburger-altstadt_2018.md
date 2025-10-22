@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/wasserburger-altstadt-2c0e"
 onyx: "0"
 description: "Part 01/12 of a mission-sequence that will guide you through the Historic Center of Wasserburg (inside Inn-ring)\nThe missions (1-12) should be done in sequence (start @Busbahnhof) to get a nice reward"
 lengthKMeters: "5,45"
+umap: ""
 title: "Wasserburger Altstadt"
 ---
 

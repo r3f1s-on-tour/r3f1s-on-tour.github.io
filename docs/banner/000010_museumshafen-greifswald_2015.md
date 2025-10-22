@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/museumshafen-greifswald-66c3"
 onyx: "0"
 description: "Teil 1 der Tour \"Museumshafen Greifswald\""
 lengthKMeters: "5,93"
+umap: ""
 title: "Museumshafen Greifswald"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/missionday-n%C3%BCrnberg-ec91"
 onyx: "0"
 description: "Welcome to Nürnberg! Starting at Handwerkerhof across the main station this mission will lead you all along the old city wall up to the imperial castle and back to the main station."
 lengthKMeters: "8,73"
+umap: ""
 title: "MissionDay Kaiserburg"
 ---
 

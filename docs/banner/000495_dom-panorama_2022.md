@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/dom-panorama-06e2"
 onyx: "0"
 description: "Diese Mission führt an der Nordseite des Doms vorbei. Alle 24 Missionen ergeben ein Panoramabild von Dom und Hohenzollernbrücke."
 lengthKMeters: "6,941"
+umap: ""
 title: "Dom-Panorama"
 ---
 

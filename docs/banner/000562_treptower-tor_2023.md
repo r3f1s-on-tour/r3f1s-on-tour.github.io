@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/treptower-tor-3721"
 onyx: "0"
 description: "Das Treptower Tor ist eines von 4 Toren  in Neubrandenburg. Im Baustil  der norddeutschen Backsteingotik wurde das Tor im 14. Jahrhundert errichtet."
 lengthKMeters: "10,222"
+umap: ""
 title: "Treptower Tor"
 ---
 

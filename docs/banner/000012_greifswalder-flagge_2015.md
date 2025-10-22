@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/greifswalder-flagge-efe8"
 onyx: "0"
 description: "Zeige Flagge für die einzigartige Universitäts- und Hansestadt Greifswald! Dies ist die erste von achtzehn Missionen für das Mosaik der Greifswalder Flagge."
 lengthKMeters: "12,22"
+umap: ""
 title: "Greifswalder Flagge"
 ---
 

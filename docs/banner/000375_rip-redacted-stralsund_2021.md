@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/rip-redacted-stralsund-c40f"
 onyx: "0"
 description: "Begebe dich auf eine Entdeckungsreise durch die engen Gassen der Stralsunder Altstadt. Sie wurde 2002 in  die UNESCO-Welterbe­liste aufgenommen."
 lengthKMeters: "5,66"
+umap: ""
 title: "rip redacted - stralsund"
 ---
 

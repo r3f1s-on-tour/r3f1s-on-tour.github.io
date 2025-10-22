@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/second-sunday-april-2022-4262"
 onyx: "0"
 description: "Starte am Markt eine Entdeckungsreise durch die Stadt Strasburg Uckermark und entdecke dabei historische Orte der Stadt\n\nGeht am 11.04.2022 offline"
 lengthKMeters: "2,77"
+umap: ""
 title: "Second Sunday April 2022"
 ---
 

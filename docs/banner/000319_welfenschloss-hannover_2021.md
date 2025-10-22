@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/welfenschloss-hannover-2957"
 onyx: "0"
 description: "Das Welfenschloss ist ein ehemaliges Schloss in Hannover im Stadtteil Nordstadt, das seit 1879 Sitz der Universität Hannover ist."
 lengthKMeters: "6,77"
+umap: ""
 title: "Welfenschloss Hannover"
 ---
 

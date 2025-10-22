@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/schweriner-schloss-8ca1"
 onyx: "0"
 description: "Nach Absolvieren der Missionsreihe erhalten Sie ein schönes Bild des Schweriner Schlosses."
 lengthKMeters: "18,13"
+umap: ""
 title: "Schweriner Schloss"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/casco-hist%C3%B3rico-plz-la-virgen-4c18
 onyx: "0"
 description: "Uno de los lugares mas emblemáticos de la ciudad Valenciana, es sin duda la plaza de la Virgen en pleno centro del casco antiguo y rodeado de muchas calles con un ambiente muy muy agradable."
 lengthKMeters: "4,275"
+umap: ""
 title: "Casco Histórico Plz. La Virgen"
 ---
 

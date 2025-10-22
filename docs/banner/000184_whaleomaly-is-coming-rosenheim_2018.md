@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/whaleomaly-is-coming-rosenheim-f13a"
 onyx: "0"
 description: "Entdecke Rosenheims Wale! Bring sie mit, damit wir diese bei der Walomalie in Linz verbünden !\nExplore Rosenheims Whales! Take them with you to unite at the Whaleomaly Linz!"
 lengthKMeters: "1,57"
+umap: ""
 title: "Whaleomaly is Coming / [Rosenheim]"
 ---
 

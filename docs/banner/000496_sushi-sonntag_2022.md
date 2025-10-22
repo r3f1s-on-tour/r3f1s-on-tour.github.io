@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/sushi-sonntag-781c"
 onyx: "0"
 description: "Zu den neuen Second Sundays Mission Days passt dieses Sushi Sonntag Banner. Auf der Strecke liegen mehrere Sushi Restaurants, aber hier findet man für jeden Geschmack etwas."
 lengthKMeters: "3,283"
+umap: ""
 title: "Sushi Sonntag"
 ---
 

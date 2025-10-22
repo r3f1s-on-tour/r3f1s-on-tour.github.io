@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/das-stralsunder-wappen-9a4d"
 onyx: "0"
 description: "Dies ist die 1. Mission für das Stralsunder Wappen!"
 lengthKMeters: "5,64"
+umap: ""
 title: "Das Stralsunder Wappen"
 ---
 

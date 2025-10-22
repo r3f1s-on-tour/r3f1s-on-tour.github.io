@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/rosenheimer-tiger-dd08"
 onyx: "0"
 description: "Erkunde Rosenheim!"
 lengthKMeters: "4,79"
+umap: ""
 title: "Rosenheimer Tiger"
 ---
 

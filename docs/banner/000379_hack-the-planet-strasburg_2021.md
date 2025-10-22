@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/hack-the-planet-strasburg-a0fd"
 onyx: "0"
 description: "Erkunde die Stadt Strasburg."
 lengthKMeters: "14,08"
+umap: ""
 title: "Hack the planet - Strasburg"
 ---
 

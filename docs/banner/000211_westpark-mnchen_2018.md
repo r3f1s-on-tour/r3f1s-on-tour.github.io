@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/westpark-m%C3%BCnchen-bf4a"
 onyx: "0"
 description: "Spaziergang durch den Westpark. Start ist an der U-Bahnstation Holzapfelkreuth, sie endet am Harras"
 lengthKMeters: "8,73"
+umap: ""
 title: "Westpark München"
 ---
 

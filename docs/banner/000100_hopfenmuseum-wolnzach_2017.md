@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/hopfenmuseum-wolnzach-dec9"
 onyx: "0"
 description: "Das Deutsche Hopfenmuseum in Wolnzach in der Hallertau in Bayern wurde 2002 vom Förderverein Deutsches Hopfenmuseum auf dem ehemaligen Gelände des Feuerwehrhauses eingerichtet."
 lengthKMeters: "10,21"
+umap: ""
 title: "Hopfenmuseum Wolnzach"
 ---
 

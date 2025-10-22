@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/heppenheimer-mosaik-9793"
 onyx: "0"
 description: "Gemütliche Hackerrunde durch Heppenheim. Startet am Graben (wo man auch parken kann). \nWenn die Missionen in richtiger Reihenfolge durchgeführt werden fügt sich ein Bild von Heppenheim zusammen."
 lengthKMeters: "3,37"
+umap: ""
 title: "Heppenheimer Mosaik"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/wahrzeichen-oranienburg-2a95"
 onyx: "0"
 description: "Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erhälst das Abzeichen *Schloß Oranienburg*\nZu Fuß je Mission ca 10 min.\nViel Spaß"
 lengthKMeters: "8,98"
+umap: ""
 title: "Wahrzeichen Oranienburg"
 ---
 

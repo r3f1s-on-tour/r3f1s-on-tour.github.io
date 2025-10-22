@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/cherry-blossom-7cc3"
 onyx: "0"
 description: "Welcome to Bonn! Have a great time and enjoy the Cherry Blossom."
 lengthKMeters: "5,954"
+umap: ""
 title: "Cherry Blossom"
 ---
 

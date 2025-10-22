@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/evolution-in-oranienburg-a1bb"
 onyx: "0"
 description: "Eine kleine Entdeckungsrunde durch Oranienburg. Die Reihe startet am Bahnhof und führt dich zum Schlosspark der Stadt"
 lengthKMeters: "1,74"
+umap: ""
 title: "Evolution in Oranienburg"
 ---
 

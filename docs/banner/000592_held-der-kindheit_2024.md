@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/held-der-kindheit-975c"
 onyx: "0"
 description: "Eine Runde rund um und durch Ründeroth, entlang alter Handelswege und vieler historischer Denkmäler. Länge beträgt ca. 5 km und dauert ca. 2 Stunden. Viel Spaß."
 lengthKMeters: "4,887"
+umap: ""
 title: "Held der Kindheit"
 ---
 

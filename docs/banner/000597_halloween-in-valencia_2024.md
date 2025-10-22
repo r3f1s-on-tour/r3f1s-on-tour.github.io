@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/halloween-in-valencia-f0f4"
 onyx: "0"
 description: "Discover Valencia at Halloween and get this spooky banner!"
 lengthKMeters: "1,623"
+umap: ""
 title: "Halloween in Valencia"
 ---
 

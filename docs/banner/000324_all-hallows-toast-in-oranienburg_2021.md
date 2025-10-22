@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/all-hallows-toast-in-oranienburg-1b78"
 onyx: "0"
 description: "Eine kleine Entdeckungsrunde durch Oranienburg. Die Reihe startet am Bahnhof und führt dich zum Schlosspark der Stadt\n\nGeht am 01.11.2021 offline"
 lengthKMeters: "1,74"
+umap: ""
 title: "All Hallows Toast in Oranienburg"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/m%C3%BCnchner-maibaum-062e"
 onyx: "1"
 description: "Das große Maibaum Mosaik startet am Maibaum am Viktualienmarkt und führt uns in 4 Schleifen durch ganz München. Das Mosaik besteht aus 216 Missionen ."
 lengthKMeters: "91,63"
+umap: ""
 title: "Münchner Maibaum"
 ---
 

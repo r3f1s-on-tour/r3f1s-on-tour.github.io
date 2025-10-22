@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/halloween-baby-d7fe"
 onyx: "0"
 description: "Recorre nuestra capital y llévate pequeño recuerdo de Halloween 2019"
 lengthKMeters: "4,536"
+umap: ""
 title: "Halloween Baby"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/augsburger-puppenkiste-1aab"
 onyx: "0"
 description: "This mosaic is devoted to Augsburger Puppenkiste. It is a well known marionette theater in Augsburg.  It is hack only mosaic without any questions, all missions are  accessible 24/7."
 lengthKMeters: "4,39"
+umap: ""
 title: "Augsburger Puppenkiste"
 ---
 

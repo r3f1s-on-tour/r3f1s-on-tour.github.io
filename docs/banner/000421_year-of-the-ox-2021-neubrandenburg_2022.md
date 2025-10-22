@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/year-of-the-ox-2021-neubrandenburg-6042
 onyx: "0"
 description: "Erkunde die Innenstadt von Neubrandenburg. Die Mission beginnt und endet auf dem Marktplatz."
 lengthKMeters: "5,27"
+umap: ""
 title: "Year of the Ox 2021 - Neubrandenburg"
 ---
 

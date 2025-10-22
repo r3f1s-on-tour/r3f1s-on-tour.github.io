@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/second-sunday-tower-in-neubrandenburg-c
 onyx: "0"
 description: "Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Neubrandenburg. Starte am Bahnhof deine Runde"
 lengthKMeters: "5,756"
+umap: ""
 title: "Second Sunday Tower in Neubrandenburg"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/rostocker-flagge-9920"
 onyx: "0"
 description: "Erkunde ab hier die wunderschöne Hansestadt Rostock mit Ihren Sehenswürdigkeiten.\nBeginne mit dem Bahnhof als zentralen Anlaufpunkt.\nPS- Es sollte das Fahrrad genutzt werden."
 lengthKMeters: "12,84"
+umap: "https-//umap.openstreetmap.de/de/map/r3f1zul-on-tour_19893?feature=Rostocker-Flagge#18/54.077793/12.129966"
 title: "Rostocker Flagge"
 ---
 
@@ -36,4 +37,5 @@ _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
 - **onyx**: {{ page.meta.onyx }}
 - **description**: {{ page.meta.description }}
 - **lengthKMeters**: {{ page.meta.lengthKMeters }}
+- **umap**: {{ page.meta.umap }}
 

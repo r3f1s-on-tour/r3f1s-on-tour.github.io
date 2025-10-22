@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/imperfect-humanist-b884"
 onyx: "0"
 description: "A special mission for one of the chosen Kaltenberg PLP teams."
 lengthKMeters: "1,25"
+umap: ""
 title: "Imperfect Humanist"
 ---
 

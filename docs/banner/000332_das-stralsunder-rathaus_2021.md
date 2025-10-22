@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/das-stralsunder-rathaus-bf96"
 onyx: "0"
 description: "Die Stadt gehörte nach dem Erlöschen des Fürstentums Rügen 1325 zu Pommern-Wolgast."
 lengthKMeters: "5,45"
+umap: ""
 title: "Das Stralsunder Rathaus"
 ---
 

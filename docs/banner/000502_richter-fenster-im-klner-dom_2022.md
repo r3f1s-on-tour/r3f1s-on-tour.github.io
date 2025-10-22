@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/richter-fenster-im-k%C3%B6lner-dom-7363
 onyx: "0"
 description: "Richter-Fenster ist das von Richter entworfene Südquerhausfenster des Kölner Doms.\nRichter window is the southern transverse window of the Cologne Cathedral, designed by the artist named Richter."
 lengthKMeters: "4,3"
+umap: ""
 title: "Richter Fenster im Kölner Dom"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/bad-aibling-therme-51f4"
 onyx: "0"
 description: "Die Therme in Bad Aibling ist jedermann bekannt. Mit Abschluss dieser Missionsserie in der richtigen Reihenfolge erhältst du ein Bild der Therme."
 lengthKMeters: "4,40"
+umap: ""
 title: "Bad Aibling - Therme"
 ---
 

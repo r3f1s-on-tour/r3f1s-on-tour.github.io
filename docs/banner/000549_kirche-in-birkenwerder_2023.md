@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/kirche-in-birkenwerder-c60b"
 onyx: "0"
 description: "Beginne eine Runde durch Birkenwerder und entdecke auf deiner Runde die Wassertretanlage in der Briese. Starte am Briesesteig deine Runde"
 lengthKMeters: "7,026"
+umap: ""
 title: "Kirche in Birkenwerder"
 ---
 

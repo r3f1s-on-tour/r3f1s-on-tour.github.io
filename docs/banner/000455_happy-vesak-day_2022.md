@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/happy-vesak-day-abc8"
 onyx: "0"
 description: "Buddhists celebrate Vesak as their most important festival. This day, they remember Buddha's birth, his enlightenment and his death. Follow the path of Buddah from S-Charlottenburg to S-Savignyplatz."
 lengthKMeters: "5,587"
+umap: ""
 title: "Happy Vesak Day"
 ---
 

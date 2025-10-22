@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/ostern-in-neubrandenburg-5951"
 onyx: "0"
 description: "Mache einen Osterspaziergang in der Neubrandenburger Innenstadt."
 lengthKMeters: "3,57"
+umap: ""
 title: "Ostern in Neubrandenburg"
 ---
 

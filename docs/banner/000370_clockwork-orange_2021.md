@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/clockwork-orange-37c8"
 onyx: "0"
 description: "Geh auf Entdeckungstour durch Neubrandenburg. Es beginnt und endet bei Clockwork Orange."
 lengthKMeters: "21,78"
+umap: ""
 title: "Clockwork Orange"
 ---
 

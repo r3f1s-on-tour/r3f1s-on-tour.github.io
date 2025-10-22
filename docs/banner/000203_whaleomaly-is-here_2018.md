@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/whaleomaly-is-here-eee0"
 onyx: "0"
 description: "25 million years ago, Linz was populated by Whales. Discover and explore them at Linz's Central Station, learn some facts about Whales and unite them at Whaleomaly on August 25th, 2018!"
 lengthKMeters: "7,16"
+umap: ""
 title: "Whaleomaly Is Here"
 ---
 

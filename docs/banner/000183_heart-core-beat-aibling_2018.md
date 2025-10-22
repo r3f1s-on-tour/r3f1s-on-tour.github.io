@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/heart-core-beat-aibling-1920"
 onyx: "0"
 description: "Fühle den Herzschlag vom schönen Bad Aibling."
 lengthKMeters: "1,42"
+umap: ""
 title: "Heart Core Beat Aibling"
 ---
 

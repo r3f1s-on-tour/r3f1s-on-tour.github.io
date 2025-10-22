@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/hafentempel-xanten-5274"
 onyx: "0"
 description: "Dieses 18 Mosaik führt durch den APX.  Hier muss man Eintritt bezahlen. die Preise findet ihr auf folgender Internetseite www.apx.lvr.de. Für Kinder ist dort ein Kletterparadies und Hüpfkissen."
 lengthKMeters: "6,671"
+umap: ""
 title: "Hafentempel Xanten"
 ---
 

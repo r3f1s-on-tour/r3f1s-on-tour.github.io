@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/schlosskirche-mosaik-teil-c34b"
 onyx: "0"
 description: "In der ersten Mission beginnt ihr den Rundgang durch das historische Neustrelitz am Markt. Die Tour  führt euch durch die Innenstadt von Neustrelitz. Am besten, ihr macht die Missionen zu Fuß."
 lengthKMeters: "10,45"
+umap: ""
 title: "Schlosskirche Mosaik Teil"
 ---
 

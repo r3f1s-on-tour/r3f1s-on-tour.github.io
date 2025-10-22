@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/the-show-must-go-on-in-strasburg-2d82"
 onyx: "0"
 description: "Starte am Marktplatz  einen Rundgang und entdecke Strasburg. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet auf dem Marktplatz"
 lengthKMeters: "3,514"
+umap: ""
 title: "The Show Must Go On in Strasburg"
 ---
 

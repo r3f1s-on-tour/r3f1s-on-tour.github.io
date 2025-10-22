@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/ameisennebel-r%C3%B6delheim-4f83"
 onyx: "0"
 description: "Der Ameisennebel ist ein junger planetarischer Nebel. Der Name Ameisennebel kommt von seinem Aussehen, da er dem Thorax einer Ameise ähnelt."
 lengthKMeters: "7,88"
+umap: ""
 title: "Ameisennebel Rödelheim"
 ---
 

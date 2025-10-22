@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/siegestor-m%C3%BCnchen-4f77"
 onyx: "0"
 description: "Das Siegestor wurde 1843 bis 1850 aus Kelheimer Kalkstein errichtet. Am 15. Oktober 1850 übergab König Maximilian II. im Namen seines abgedankten Vaters das Siegestor an die Stadt München."
 lengthKMeters: "7,66"
+umap: ""
 title: "Siegestor München"
 ---
 

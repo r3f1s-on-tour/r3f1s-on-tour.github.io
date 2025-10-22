@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/second-sunday-in-oranienburg-8c7a"
 onyx: "0"
 description: "Mache zum Second Sunday ein kleine Runde durch Oranienburg. Start ist in der Bernauer Straße\n\nGeht am 17.11.2021 offline"
 lengthKMeters: "2,13"
+umap: ""
 title: "Second Sunday in Oranienburg"
 ---
 

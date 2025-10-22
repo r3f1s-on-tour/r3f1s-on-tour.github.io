@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/szczecin-d%C5%BAwigozaury-1ed0"
 onyx: "0"
 description: "Szczecin Dźwigozaury"
 lengthKMeters: "4,64"
+umap: ""
 title: "Szczecin Dźwigozaury"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/berchinger-stadtmauer-6ad3"
 onyx: "0"
 description: "Die 1. von 24 Missionen, um ein Mosaik der Berchinger Stadtmauer in's Profil zu kriegen.\nHack only. Am besten zu Fuß machbar."
 lengthKMeters: "7,46"
+umap: ""
 title: "Berchinger Stadtmauer"
 ---
 

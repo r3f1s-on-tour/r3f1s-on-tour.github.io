@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/st-patricks-day-9a7a"
 onyx: "0"
 description: "Der Saint Patrick’s Day ist der Gedenktag des irischen Bischofs Patrick, der im 5. Jahrhundert lebte und als erster christlicher Missionar in Irland gilt. (Cargress ready!)"
 lengthKMeters: "3,3"
+umap: ""
 title: "St-Patricks-Day"
 ---
 

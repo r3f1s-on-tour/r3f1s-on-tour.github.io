@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/visit-requiem-munich-neubrandenburg-0a5
 onyx: "0"
 description: "In 2020 there will be an epic fight between the enlightened and resistance in Munich! Join our forces and spread the message by filling out this banner."
 lengthKMeters: "4,21"
+umap: ""
 title: "Visit Requiem Munich - Neubrandenburg"
 ---
 

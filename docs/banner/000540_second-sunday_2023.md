@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/second-sunday-2075"
 onyx: "0"
 description: "Second Sunday im Oktober 2022 in Neubrandenburg"
 lengthKMeters: "2,132"
+umap: ""
 title: "Second Sunday"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/man-s-greatness-13d7"
 onyx: "0"
 description: "Inspired by the artwork of  Scott Manley, leading my dear fellows in a new area of Munich which they might not have visited before."
 lengthKMeters: "20,50"
+umap: ""
 title: "Man s Greatness"
 ---
 

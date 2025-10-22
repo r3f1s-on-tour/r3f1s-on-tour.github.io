@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/biocard-szczecin-0805"
 onyx: "0"
 description: "Welcome to Szczecin! This banner will lead you through the city's most famous highlights. Complete it to earn a biocard depicting the statue of the Seaman."
 lengthKMeters: "18,62"
+umap: ""
 title: "Biocard Szczecin"
 ---
 

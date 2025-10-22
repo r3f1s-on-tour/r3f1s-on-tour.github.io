@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/salzburg-city-panorama-a104"
 onyx: "0"
 description: "Salzburg City Panorama"
 lengthKMeters: "4,19"
+umap: ""
 title: "Salzburg City Panorama"
 ---
 

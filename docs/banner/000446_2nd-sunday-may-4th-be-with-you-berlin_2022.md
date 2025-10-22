@@ -13,6 +13,7 @@ bg-link: ""
 onyx: "0"
 description: "Zum 2nd Sunday führt Dich eine kleine Tour durch den Weitlingkiez von Lichtenberg. Start und Endpunkt sind U+S Lichtenberg.\nThis graphic is submitted / accepted around the Globe in different cities"
 lengthKMeters: "2,45"
+umap: ""
 title: "2nd Sunday - May 4th be with you - Berlin"
 ---
 

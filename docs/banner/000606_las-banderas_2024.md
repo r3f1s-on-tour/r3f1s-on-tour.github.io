@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/las-banderas-c32a"
 onyx: "0"
 description: "Vamos a pasear desde un gran punto de reunión e interés (La Nau de l'aigua) hasta otro gran punto de referencia (Las Banderas) que hace de unión entre el paseo marítimo y \"La Marina de València\""
 lengthKMeters: "4,719"
+umap: ""
 title: "Las Banderas"
 ---
 

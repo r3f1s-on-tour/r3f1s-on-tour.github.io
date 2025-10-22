@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/festung-hohensalzburg-92bb"
 onyx: "0"
 description: "Über der Stadt Salzburg ragt ihr Wahrzeichen, die Festung Hohensalzburg, die zu den größten Burgen Europas zählt."
 lengthKMeters: "4,20"
+umap: ""
 title: "Festung Hohensalzburg"
 ---
 

@@ -13,6 +13,7 @@ bg-link: ""
 onyx: "0"
 description: "Starte am Rathaus einen Rundgang und entdecke Neubrandenburg. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet auf dem Marktplatz"
 lengthKMeters: "2"
+umap: ""
 title: "Deifel in Neubrandenburg"
 ---
 

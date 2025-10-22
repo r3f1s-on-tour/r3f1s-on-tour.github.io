@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/green-wolf-in-oranienburg-d822"
 onyx: "0"
 description: "Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg. Starte in der Bernauer Straße"
 lengthKMeters: "17,927"
+umap: ""
 title: "Green Wolf in Oranienburg"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/manzelbrunnen-4729"
 onyx: "1"
 description: "Historyczna rzeźba symbolizująca Szczecin, zaginiona w czasie 2 Wojny Światowej. Część  2 - wzdłuż Bulwarów."
 lengthKMeters: "13,08"
+umap: ""
 title: "Manzelbrunnen"
 ---
 

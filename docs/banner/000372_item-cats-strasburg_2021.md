@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/item-cats-strasburg-69b2"
 onyx: "0"
 description: "Starte am Marktplatz und entdecke Strasburg Uckermark bei einer weihnachtlichen Spaziergang.\n\nBanner geht am 26.12.2012 offline"
 lengthKMeters: "6,56"
+umap: ""
 title: "Item Cats Strasburg"
 ---
 

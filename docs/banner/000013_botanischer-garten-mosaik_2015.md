@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/botanischer-garten-mosaik-30ba"
 onyx: "0"
 description: "Ein wunderschönes Mosaik aus dem Botanischen Garten / Loki-Schmidt-Garten"
 lengthKMeters: "4,28"
+umap: ""
 title: "Botanischer Garten Mosaik"
 ---
 

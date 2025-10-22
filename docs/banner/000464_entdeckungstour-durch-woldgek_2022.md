@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/entdeckungstour-durch-woldgek-10c0"
 onyx: "0"
 description: "Starte am Marktplatz und entdecke die Windmühlenstadt Woldegek. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte"
 lengthKMeters: "8,602"
+umap: ""
 title: "Entdeckungstour durch Woldgek"
 ---
 

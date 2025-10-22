@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/ausgewogene-ern%C3%A4hrung-in-augsburg-
 onyx: "0"
 description: ""
 lengthKMeters: ""
+umap: ""
 title: "Ausgewogene Ernährung in Augsburg"
 ---
 

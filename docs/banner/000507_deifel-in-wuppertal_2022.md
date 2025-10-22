@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/deifel-in-wuppertal-5ea7"
 onyx: "0"
 description: "Starte am Hauptbahnhof einen Rundgang und entdecke Wuppertal. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet wieder am Hauptbahnhof"
 lengthKMeters: "1,323"
+umap: ""
 title: "Deifel in Wuppertal"
 ---
 

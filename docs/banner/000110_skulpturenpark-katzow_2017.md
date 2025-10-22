@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/skulpturenpark-katzow-4359"
 onyx: "0"
 description: "Der Park besteht seit 1991. Gründer des Skulpturenparks Katzow ist der Bildhauer Thomas Radeloff."
 lengthKMeters: "6,38"
+umap: ""
 title: "Skulpturenpark Katzow"
 ---
 

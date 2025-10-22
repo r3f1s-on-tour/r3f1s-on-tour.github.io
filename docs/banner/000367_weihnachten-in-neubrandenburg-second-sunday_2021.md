@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/weihnachten-in-neubrandenburg-second-su
 onyx: "0"
 description: "Erkunde Neubrandenburg in der Weihnachtszeit. Die Mission beginnt und endet auf dem Marktplatz."
 lengthKMeters: "2,03"
+umap: ""
 title: "Weihnachten in Neubrandenburg - Second Sunday"
 ---
 

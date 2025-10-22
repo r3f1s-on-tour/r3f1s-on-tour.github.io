@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/stress-an-der-isar-5cc7"
 onyx: "0"
 description: "\"Minga, du machst mi fertig\" möchte man laut ausschreien angesichts von all dem Stress, den man in unserem Millionendorf täglich erlebt. Dieses Missionsbanner soll als Mahnung dienen!"
 lengthKMeters: "15,65"
+umap: ""
 title: "Stress an der Isar"
 ---
 

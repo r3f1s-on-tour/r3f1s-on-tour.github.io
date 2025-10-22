@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/bayern-flagge-d575"
 onyx: "0"
 description: "Erkunde die bayerische Hauptstadt, beantworte Fragen zu Bayern und erhalte als Belohnung die bayerische Flagge mit Wappen.\nDiese Mission startet am Marienplatz."
 lengthKMeters: "6,57"
+umap: ""
 title: "Bayern Flagge"
 ---
 

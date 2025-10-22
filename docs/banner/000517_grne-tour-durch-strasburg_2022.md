@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/gr%C3%BCne-tour-durch-strasburg-5081"
 onyx: "0"
 description: "Starte am Marktplatz  einen Rundgang und entdecke Strasburg. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet auf dem Marktplatz"
 lengthKMeters: "3,514"
+umap: ""
 title: "Grüne Tour durch Strasburg"
 ---
 

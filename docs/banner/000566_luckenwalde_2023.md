@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/luckenwalde-bd50"
 onyx: "0"
 description: "Beginn am Markt über den Boulevard"
 lengthKMeters: "1,622"
+umap: ""
 title: "Luckenwalde"
 ---
 

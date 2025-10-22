@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/the-toasting-74be"
 onyx: "0"
 description: "Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.\n\n-----------------------------------\nOnline bis 14.02.2022"
 lengthKMeters: "1,60"
+umap: ""
 title: "The Toasting"
 ---
 

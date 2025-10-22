@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/a-echo-xm-anomaly-strasburg-um-381b"
 onyx: "0"
 description: "Führen Sie anlässlich der Echo XM Anomaly in Athen eine Event-Mission durch."
 lengthKMeters: "2,058"
+umap: ""
 title: "A Echo XM Anomaly Strasburg UM"
 ---
 

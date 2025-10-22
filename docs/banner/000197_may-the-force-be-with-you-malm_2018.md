@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/may-the-force-be-with-you-malm%C3%B6-ab
 onyx: "0"
 description: "Quick banner mission in order to bring out the force in central parts of Malmö.\n\nAll portals available 24/7."
 lengthKMeters: "1,91"
+umap: ""
 title: "May the force be with you Malmö"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/md-z%C3%BCrich-32cc"
 onyx: "0"
 description: ""
 lengthKMeters: "20,03"
+umap: ""
 title: "MissionDay Zürich"
 ---
 

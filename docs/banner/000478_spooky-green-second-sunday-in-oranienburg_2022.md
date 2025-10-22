@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/spooky-green-second-sunday-in-oranienbu
 onyx: "0"
 description: "Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße."
 lengthKMeters: "1,599"
+umap: ""
 title: "Spooky Green Second Sunday in Oranienburg"
 ---
 

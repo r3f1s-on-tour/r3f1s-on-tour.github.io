@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/starbattle-of-orionids-berlin-a311"
 onyx: "0"
 description: "The Orionids meteor shower, is the most prolific meteor shower associated with Halley's Comet. During this time a global ENL starburst event occurred with hundreds of ENL agents participating."
 lengthKMeters: "1,78"
+umap: ""
 title: "StarBattle of Orionids - Berlin"
 ---
 

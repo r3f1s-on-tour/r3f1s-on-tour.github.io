@@ -13,6 +13,7 @@ bg-link: ""
 onyx: "0"
 description: ""
 lengthKMeters: ""
+umap: ""
 title: "Hacking Tour in und um Prohn"
 ---
 

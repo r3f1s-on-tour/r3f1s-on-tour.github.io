@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/hacktour-dus-6e84"
 onyx: "0"
 description: ""
 lengthKMeters: "2,309"
+umap: ""
 title: "Hacktour DUS"
 ---
 

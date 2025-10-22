@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/enl-municorns-e3a4"
 onyx: "0"
 description: "The most mystical anomaly ever would definitely be the Unicorn anomaly in Munich - pardon- the Municorn Anomaly."
 lengthKMeters: "5,87"
+umap: ""
 title: "ENL Municorns"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/fischbr%C3%B6tchenbanner-09da"
 onyx: "0"
 description: "Schnapp dir ein Fischbrötchen deiner Wahl.\nKöln erstes Fischbrötchenbanner startet bei Fisch Hembsch, einem Familienbetrieb mit über 120 Jahren Tradition. Immer geradeaus gelangst du am Eigelstein zum Reefhouse. Ein sehr gutes Fischrestaurant welches auch Fischbrötchen und Backfisch anbietet.\nAm Ende des Banners liegt das Pescado. Hier gibt es die Luxusvariante des Fischbrötchen. Absolut empfehlenswert!"
 lengthKMeters: "3,235"
+umap: ""
 title: "Fischbrötchenbanner"
 ---
 

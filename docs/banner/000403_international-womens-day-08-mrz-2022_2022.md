@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/international-womens-day-08-m%C3%A4rz-2
 onyx: "0"
 description: "Erkunde und Entdecke Berlin am Frauentag"
 lengthKMeters: "5,02"
+umap: ""
 title: "International Womens Day 08 März 2022"
 ---
 

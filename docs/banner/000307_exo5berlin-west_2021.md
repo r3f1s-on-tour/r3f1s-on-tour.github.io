@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/exo5berlin-west-4c82"
 onyx: "0"
 description: "This mission banner will show you famous places in Berlin city west. The first mission starts at Zoologischer Garten."
 lengthKMeters: "14,77"
+umap: ""
 title: "EXO5BERLIN West"
 ---
 

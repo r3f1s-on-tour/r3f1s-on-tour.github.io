@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/spaziergang-durch-senftenberg-02a3"
 onyx: "0"
 description: "Der Spaziergang durch Senftenberg zeigt schöne Flecken und besondere Orte von Senftenberg. \nLänge ca. 5 km \nDie Festung ist ab ca.17 Uhr geschlossen dann nur noch  Zugang über Treppe am Tierpark"
 lengthKMeters: "4,121"
+umap: ""
 title: "Spaziergang durch Senftenberg"
 ---
 

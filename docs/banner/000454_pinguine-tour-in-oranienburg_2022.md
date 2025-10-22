@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/pinguine-tour-in-oranienburg-3f42"
 onyx: "0"
 description: "Starte in der Bernauer Straße eine Reise durch die Stadt Oranienburg. Deine Reise führt dich entlang des Schloss, Schlosspark und endet am Bahnhof.\n\nBanner ist bis 01.06.2022 online"
 lengthKMeters: "8,574"
+umap: ""
 title: "Pinguine Tour in Oranienburg"
 ---
 

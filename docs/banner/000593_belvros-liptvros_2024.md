@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/belv%C3%A1ros-lip%C3%B3tv%C3%A1ros-57e4
 onyx: "0"
 description: "Discover the central part of Budapest in District V, situated on the east bank of the river Danube."
 lengthKMeters: "4,671"
+umap: ""
 title: "Belváros-Lipótváros"
 ---
 

@@ -13,6 +13,7 @@ bg-link: ""
 onyx: "1"
 description: ""
 lengthKMeters: ""
+umap: ""
 title: "Blaue Nacht Nord"
 ---
 

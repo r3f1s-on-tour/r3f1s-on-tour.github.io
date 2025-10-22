@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/brunnenviertel-a147"
 onyx: "0"
 description: "Genieße die frische Luft"
 lengthKMeters: "4,23"
+umap: ""
 title: "Brunnenviertel"
 ---
 

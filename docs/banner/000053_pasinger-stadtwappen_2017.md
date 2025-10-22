@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/pasinger-stadtwappen-0d09"
 onyx: "0"
 description: "Die nächste Mission beginnt jeweils am letzten Portal der vorherigen Mission. Es kommen Hack- und Capture/Upgrade-Missionen vor. Fahrrad ist von Vorteil."
 lengthKMeters: "13,85"
+umap: ""
 title: "Pasinger Stadtwappen"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/berliner-alex-in-24-teilen-595a"
 onyx: "0"
 description: "Eine Missionsreihe in 24 Teilen rund um den Berliner Alexanderplatz\nStart und Ende an der berühmten Weltzeituhr"
 lengthKMeters: "7,37"
+umap: ""
 title: "Berliner Alex in 24 Teilen"
 ---
 

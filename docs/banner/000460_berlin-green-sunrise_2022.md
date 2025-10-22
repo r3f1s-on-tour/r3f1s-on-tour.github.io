@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/berlin-green-sunrise-dc88"
 onyx: "0"
 description: "See Berlin in the Green Sunrise"
 lengthKMeters: "6,52"
+umap: ""
 title: "Berlin Green Sunrise"
 ---
 

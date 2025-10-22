@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/mr-pumpkin-slasher-in-oranienburg-13b7"
 onyx: "0"
 description: "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße"
 lengthKMeters: "6,06"
+umap: ""
 title: "Mr Pumpkin Slasher in Oranienburg"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/nyan-toast-strasburg-cbac"
 onyx: "0"
 description: "Starte am Marktplatz und entdecke Strasburg Uckermark und hole dir Toasts ins Profil"
 lengthKMeters: "3,17"
+umap: ""
 title: "Nyan Toast - Strasburg"
 ---
 

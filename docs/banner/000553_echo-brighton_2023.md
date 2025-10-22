@@ -13,6 +13,7 @@ bg-link: ""
 onyx: "0"
 description: "Führen Sie anlässlich der Echo XM Anomaly in Brighton eine Event-Mission durch."
 lengthKMeters: "3,514"
+umap: ""
 title: "Echo Brighton"
 ---
 

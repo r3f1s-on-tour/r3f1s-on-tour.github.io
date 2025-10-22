@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/residenz-w%C3%BCrzburg-7c43"
 onyx: "0"
 description: "Besuche die ehemalige Residenz der Würzburger Fürstbischöfe. Mosaik Mission. Bitte vorher die Öffnungszeiten beachten."
 lengthKMeters: "5,92"
+umap: ""
 title: "Residenz Würzburg"
 ---
 

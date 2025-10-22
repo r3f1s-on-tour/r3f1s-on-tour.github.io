@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/gr%C3%BCner-krieger-5ab5"
 onyx: "0"
 description: "Erkunde die Stadt München ab dem Karlsplatz durch die Maxvorstadt bis zum Hauptbahnhof"
 lengthKMeters: "15,59"
+umap: ""
 title: "Grüner Krieger"
 ---
 

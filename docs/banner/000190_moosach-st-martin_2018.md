@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/moosach-st-martin-8710"
 onyx: "1"
 description: "Die Alte Pfarrkirche St. Martin im Münchner Stadtteil Moosach"
 lengthKMeters: "26,62"
+umap: ""
 title: "Moosach St. Martin"
 ---
 

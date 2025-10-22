@@ -13,6 +13,7 @@ bg-link: ""
 onyx: "0"
 description: "Mache eine kleine Tour durch Oranienburg und hole dir die Toasts ins Profil"
 lengthKMeters: "1,68"
+umap: ""
 title: "New Years Toast in Oranienburg"
 ---
 

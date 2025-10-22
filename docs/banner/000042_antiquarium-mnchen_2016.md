@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/antiquarium-m%C3%BCnchen-f327"
 onyx: "0"
 description: "Das Antiquarium wurde ab 1568 zur Aufnahme der herzoglichen Antikensammlung und Bibliothek als Erweiterung der Münchner Residenz errichtet und wenig später zu einem Festsaal umgestaltet."
 lengthKMeters: "8,23"
+umap: ""
 title: "Antiquarium München"
 ---
 

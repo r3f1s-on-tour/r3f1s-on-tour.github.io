@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/defeat-the-hulk-03ea"
 onyx: "0"
 description: "This tour guides you through the Friedrichshain Nordkiez which is also known as the Samariterkiez. You will find a lot of fascinating places here."
 lengthKMeters: "1,62"
+umap: ""
 title: "Defeat the Hulk"
 ---
 

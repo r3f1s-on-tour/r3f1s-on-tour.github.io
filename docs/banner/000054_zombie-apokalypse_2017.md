@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/zombie-apokalypse-8e27"
 onyx: "0"
 description: "Zombies überrennen die Stadt. Versuche zu entkommen und durchquere die Altstadt."
 lengthKMeters: "4,55"
+umap: ""
 title: "Zombie Apokalypse"
 ---
 

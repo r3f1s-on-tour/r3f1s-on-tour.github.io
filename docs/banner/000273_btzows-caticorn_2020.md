@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/b%C3%B6tzows-caticorn-e6b1"
 onyx: "0"
 description: "Nur noch bis 31.10.2021 spielbar."
 lengthKMeters: "7,65"
+umap: ""
 title: "Bötzows Caticorn"
 ---
 

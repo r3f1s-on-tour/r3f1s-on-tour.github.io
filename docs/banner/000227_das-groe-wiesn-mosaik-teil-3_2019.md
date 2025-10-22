@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/wiesn-teil-3-1df2"
 onyx: "0"
 description: "Teil 3 der großen Wiesnreihe. Start und Ende an der Theresienwiese. Hälfte ist in Steinhauaen Viel Spaß"
 lengthKMeters: "34,00"
+umap: ""
 title: "Das Große Wiesn Mosaik Teil 3"
 ---
 

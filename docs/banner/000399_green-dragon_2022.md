@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/green-dragon-70cf"
 onyx: "0"
 description: "Der kleine Drache schlüpft am S+U Bhf Lichtenberg. Begleite ihn Richtung Friedrichsfelde Ost, um von dort weiter den Weitling- & Nöldnerkiez zu durchstreifen. Seine Reise endet dort, wo alles begann."
 lengthKMeters: "12,00"
+umap: ""
 title: "Green Dragon"
 ---
 

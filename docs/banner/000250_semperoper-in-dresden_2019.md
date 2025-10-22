@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/semperoper-in-dresden-53d2"
 onyx: "0"
 description: "The Semperoper is the opera house of the Sächsische Staatsoper Dresden (Saxon State Opera) and the concert hall of the Staatskapelle Dresden (Saxon State Orchestra). Surprisingly it's not a brewery."
 lengthKMeters: "5,48"
+umap: ""
 title: "Semperoper in Dresden"
 ---
 

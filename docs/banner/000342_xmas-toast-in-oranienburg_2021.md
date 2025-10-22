@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/xmas-toast-in-oranienburg-7417"
 onyx: "0"
 description: "Mache eine kleine Tour durch Oranienburg und hole dir die XMas Toast ins Profil\n\nGeht am 24.11.2021 offline"
 lengthKMeters: "1,64"
+umap: ""
 title: "XMas Toast in Oranienburg"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/wittenberg-art-1499"
 onyx: "0"
 description: "eine lustige Runde"
 lengthKMeters: "6,04"
+umap: ""
 title: "Wittenberg Art"
 ---
 

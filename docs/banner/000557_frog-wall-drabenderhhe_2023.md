@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/frog-wall-drabenderh%C3%B6he-176f"
 onyx: "0"
 description: "Kleine Runde um die Kirche und dem Turm der Erinnerung in Drabenderhöhe."
 lengthKMeters: "2,081"
+umap: ""
 title: "Frog Wall Drabenderhöhe"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/der-doktor-in-frankfurt-34ee"
 onyx: "0"
 description: "Es ist 2017 und Der Doktor ist dabei die Welt in Frankfurt zu retten. Hilf Ihm sein Gedächtnis wieder zu erlangen und den Weg zurück zur Tardis zu finden."
 lengthKMeters: "11,42"
+umap: ""
 title: "Der Doktor in Frankfurt"
 ---
 

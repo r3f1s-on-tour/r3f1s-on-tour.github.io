@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/berliner-funkturm-c3d7"
 onyx: "0"
 description: "Der Berliner Funkturm ist ein 146,7m hoher Stahlfachwerkturm in Berlin und  eines der Wahrzeichen der Stadt sowie Symbol des Widerstandes und Freiheitswillen der West-Berliner in der Nachkriegszeit."
 lengthKMeters: "86,77"
+umap: ""
 title: "Berliner Funkturm"
 ---
 

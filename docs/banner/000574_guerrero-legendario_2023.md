@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/guerrero-legendario-62df"
 onyx: "0"
 description: "Paseo por el centro de Madrid"
 lengthKMeters: "18,342"
+umap: ""
 title: "Guerrero Legendario"
 ---
 

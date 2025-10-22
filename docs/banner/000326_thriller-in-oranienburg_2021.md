@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/thriller-in-oranienburg-97e9"
 onyx: "1"
 description: "Mache eine kleine Tour durch Oranienburg und starte am Bahnhof"
 lengthKMeters: "5,81"
+umap: ""
 title: "Thriller in Oranienburg"
 ---
 

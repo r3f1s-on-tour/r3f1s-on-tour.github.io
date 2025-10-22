@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/md-2022-stolpersteine-berlin-0d29"
 onyx: "0"
 description: "Part of MD 2022- Stolpersteine"
 lengthKMeters: "2,946"
+umap: ""
 title: "MD 2022- Stolpersteine, Berlin"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/stadtwappen-ingolstadt-73f7"
 onyx: "0"
 description: "Das 1200 Jahre alte Ingolstadt war jahrhundertelang Universitätsstadt, Zentrum politischer Macht und später Festungsstadt. Diese Mosaik führt durch eine hübsche, aber unterschätzte  Großstadt."
 lengthKMeters: "20,49"
+umap: ""
 title: "Stadtwappen Ingolstadt"
 ---
 

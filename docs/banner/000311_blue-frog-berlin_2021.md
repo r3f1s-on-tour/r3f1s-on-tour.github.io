@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/blue-frog-berlin-e865"
 onyx: "0"
 description: "Hack  all Portals"
 lengthKMeters: "10,73"
+umap: ""
 title: "blue Frog Berlin"
 ---
 

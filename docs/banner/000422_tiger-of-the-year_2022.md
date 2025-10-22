@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/tiger-of-the-year-15ba"
 onyx: "0"
 description: "Entdecke durch die Missionen Neubrandenburg. Die Mission beginnt  und endet im Vogelviertel."
 lengthKMeters: "16,08"
+umap: ""
 title: "Tiger of the Year"
 ---
 

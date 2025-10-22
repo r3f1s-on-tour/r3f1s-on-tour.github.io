@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/fire-fighter-schwedt-ff04"
 onyx: "0"
 description: "Eine Runde durch Schwedt wird belohnt mit diesem tollen Banner."
 lengthKMeters: "7,33"
+umap: ""
 title: "Fire Fighter Schwedt"
 ---
 

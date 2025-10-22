@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/chagall-window-blue-8212"
 onyx: "0"
 description: "The beautiful windows made by Marc Chagall in 1970 belong to the modern, yet classic cultural heritage of Zurich and bring many tourists to Fraumünster.\n\nOptimal starting point for all three windows"
 lengthKMeters: "1,74"
+umap: ""
 title: "Chagall Window blue"
 ---
 

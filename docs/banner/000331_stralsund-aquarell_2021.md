@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/stralsund-aquarell-a181"
 onyx: "0"
 description: "Willkommen am Stralsunder Hauptbahnhof. Von hier aus führt die Missionsreihe in Richtung Altstadt."
 lengthKMeters: "3,85"
+umap: ""
 title: "Stralsund Aquarell"
 ---
 

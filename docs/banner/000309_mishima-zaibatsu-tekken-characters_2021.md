@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/mishima-zaibatsu-tekken-characters-8f8e
 onyx: "0"
 description: "A walk through  the neighborhood of the well known Samaviertel."
 lengthKMeters: "3,63"
+umap: ""
 title: "Mishima Zaibatsu - Tekken Characters"
 ---
 

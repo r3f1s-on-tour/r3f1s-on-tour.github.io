@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/bc-regensburg-4d46"
 onyx: "0"
 description: "Visit the \"Historische Wurstkuchl\". This is notable as perhaps the oldest continuously open public diner in the world. It serves food to people since 1146. Enjoy the famous \"Bratwurschtkipferl\"."
 lengthKMeters: "6,41"
+umap: ""
 title: "BC Regensburgp"
 ---
 

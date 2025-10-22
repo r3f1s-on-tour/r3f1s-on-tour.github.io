@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/raute-blau-wei%C3%9F-teil-i-8b53"
 onyx: ""
 description: ""
 lengthKMeters: ""
+umap: ""
 title: "Raute Blau Weiß 1"
 ---
 

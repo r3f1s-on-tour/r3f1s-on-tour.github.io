@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/m%C3%BCnchen-c9f9"
 onyx: "0"
 description: "I love München."
 lengthKMeters: "2,32"
+umap: ""
 title: "I Love München"
 ---
 

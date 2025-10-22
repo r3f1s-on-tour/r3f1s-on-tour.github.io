@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/sturmtruppler-in-neubrandenburg-ff30"
 onyx: "0"
 description: "Erkunde Neubrandenburg. Die Mission beginnt am Bahnhof, führt durch den Kulturpark zum Lindenberg und dann zurück über die Südstadt. Führt dann durch den Kulturpark und endet wieder am Bahnhof."
 lengthKMeters: "30,217"
+umap: ""
 title: "Sturmtruppler in Neubrandenburg"
 ---
 

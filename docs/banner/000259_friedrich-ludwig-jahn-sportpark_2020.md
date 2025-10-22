@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/friedrich-ludwig-jahn-sportpark-739b"
 onyx: "0"
 description: "Eine Runde um den Friedrich-Ludwig-Jahn-Sportpark.\n1825 wurde das Areal von der Preußischen Armee als Exerzierplatz genutzt."
 lengthKMeters: "8,10"
+umap: ""
 title: "Friedrich-Ludwig-Jahn-Sportpark"
 ---
 

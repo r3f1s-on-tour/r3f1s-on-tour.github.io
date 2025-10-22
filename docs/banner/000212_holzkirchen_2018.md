@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/holzkirchen-773c"
 onyx: "0"
 description: "Erfülle alle Missionen in der richtigen Reihenfolge um das Holzkirchner Wappen zu erhalten."
 lengthKMeters: "10,84"
+umap: ""
 title: "Holzkirchen"
 ---
 

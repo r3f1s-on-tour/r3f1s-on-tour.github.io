@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/cassandra-md-linz-5ee3"
 onyx: "0"
 description: "Discover Linz through missions!"
 lengthKMeters: "21,33"
+umap: ""
 title: "Cassandra Mission Day Linz 2018"
 ---
 

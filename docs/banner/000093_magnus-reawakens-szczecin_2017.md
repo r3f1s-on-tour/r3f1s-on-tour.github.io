@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/magnus-reawakens-szczecin-796c"
 onyx: "0"
 description: "42 missions in recognition of your contributions during 13Magnus Reawakens XM Anomaly in Szczecin, 26.08.2017"
 lengthKMeters: "13,54"
+umap: ""
 title: "MAGNUS Reawakens Szczecin"
 ---
 

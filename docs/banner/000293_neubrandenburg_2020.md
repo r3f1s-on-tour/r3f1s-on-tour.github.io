@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/neubrandenburg-284f"
 onyx: "0"
 description: "1170\nFürst Kasimir von Pommern schenkt dem Havelberger Domstift einen Landstrich am Tollensesee. Der Ort, an dem einmal das wunderschöne Neubrandenburg entstehen wird."
 lengthKMeters: "7,10"
+umap: ""
 title: "Neubrandenburg"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/nl-berlin-event-e295"
 onyx: "0"
 description: "A short banner around the berlin NL location. Enjoy."
 lengthKMeters: "1,57"
+umap: ""
 title: "NL - Berlin Event"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/whaleomaly-is-coming-4bda"
 onyx: "0"
 description: "Entdecke Münchens Wale! Bring sie mit, damit wir diese bei der Whaleomaly in Linz verbünden !\n\nExplore Munichs Whales! Take them with you to unite at the Whaleomaly Linz!"
 lengthKMeters: "3,06"
+umap: ""
 title: "Whaleomaly is Coming"
 ---
 

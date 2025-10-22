@@ -13,6 +13,7 @@ bg-link: ""
 onyx: "0"
 description: "Mache eine Entdeckungsrunde durch Strasburg und hole dir paar XMas Panda ins Profil"
 lengthKMeters: "2,73"
+umap: ""
 title: "XMas Panda in Strasburg"
 ---
 

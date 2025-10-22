@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/wiesn-teil-1-d1d4"
 onyx: "0"
 description: "Teil 1 der großen Wiesnreihe. Start und Ende an der Theresienwiese. Hälfte der Strecke an der Münchner Freiheit. Viel Spaß"
 lengthKMeters: "21,00"
+umap: ""
 title: "Das Große Wiesn Mosaik Teil 1"
 ---
 

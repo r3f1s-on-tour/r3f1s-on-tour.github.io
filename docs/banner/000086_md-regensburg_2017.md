@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/md-regensburg-3d16"
 onyx: "0"
 description: ""
 lengthKMeters: "29,30"
+umap: ""
 title: "MD Regensburg"
 ---
 

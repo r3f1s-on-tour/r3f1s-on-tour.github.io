@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/weihnachten-am-chinesischen-turm-46d7"
 onyx: "0"
 description: "Der Chinesische Turm wurde in den Jahren 1789 bis 1790 erbaut und 1792 mit der Eröffnung des Englischen Gartens als Aussichtsplattform der Öffentlichkeit zugänglich gemacht."
 lengthKMeters: "5,54"
+umap: ""
 title: "Weihnachten am Chinesischen Turm"
 ---
 

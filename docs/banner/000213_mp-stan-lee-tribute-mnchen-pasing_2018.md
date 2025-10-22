@@ -13,6 +13,7 @@ bg-link: ""
 onyx: "0"
 description: ""
 lengthKMeters: ""
+umap: ""
 title: "#MP Stan Lee Tribute [München-Pasing]"
 ---
 

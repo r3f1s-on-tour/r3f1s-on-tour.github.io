@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/marx-is-calling-you-berlin-6c02"
 onyx: "0"
 description: ""
 lengthKMeters: ""
+umap: ""
 title: "Marx is calling you - Berlin"
 ---
 

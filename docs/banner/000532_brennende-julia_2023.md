@@ -13,6 +13,7 @@ bg-link: ""
 onyx: "0"
 description: "Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg. Starte in der Bernauer Straße"
 lengthKMeters: "19,4"
+umap: ""
 title: "Brennende Julia"
 ---
 

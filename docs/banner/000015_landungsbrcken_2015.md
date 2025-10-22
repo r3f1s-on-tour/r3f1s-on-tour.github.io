@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/landungsbr%C3%BCcken-mosaik-5dad"
 onyx: "0"
 description: "Mosaic around the Landungsbrücken"
 lengthKMeters: "5,87"
+umap: ""
 title: "Landungsbrücken"
 ---
 

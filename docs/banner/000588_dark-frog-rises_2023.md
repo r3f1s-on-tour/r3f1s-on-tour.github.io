@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/dark-frog-rises-7776"
 onyx: "0"
 description: "This is the mosaic for the Enlightened at Umbra Dresden, which consists of 18 missions and offers a short walk through the city.\nBatfrog is calling!"
 lengthKMeters: "6,811"
+umap: ""
 title: "DARK FROG RISES"
 ---
 

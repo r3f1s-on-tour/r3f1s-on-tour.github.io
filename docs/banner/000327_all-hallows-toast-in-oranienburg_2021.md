@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/all-hallows-toast-in-oranienburg-fb29"
 onyx: "0"
 description: "Mache eine kleine Tour durch Oranienburg und starte am Bahnhof"
 lengthKMeters: "1,63"
+umap: ""
 title: "All Hallows Toast in Oranienburg"
 ---
 

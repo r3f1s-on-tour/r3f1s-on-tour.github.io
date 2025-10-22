@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/retrogaming-ghost-n-goblins-cf24"
 onyx: "0"
 description: "Starte auf dem Markt eine Entdeckungsreise durch die Stadt Pasewalk und entdecke dabei die Sehenswürdigkeiten der Stadt"
 lengthKMeters: "3,57"
+umap: ""
 title: "RetroGaming - Ghost n Goblins"
 ---
 

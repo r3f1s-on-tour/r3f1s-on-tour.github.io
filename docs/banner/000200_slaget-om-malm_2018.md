@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/slaget-om-malm%C3%B6-8c4a"
 onyx: "0"
 description: "Sista kriget mellan Sverige och Danmark var i slutet av 1600-talet. Då hade det krigats  till och från i ett par hundra år om Skåne.  Bild av 1658 när Karl X Gustav besöker nya staden. Not 24/7!"
 lengthKMeters: "2,56"
+umap: ""
 title: "Slaget om Malmö"
 ---
 

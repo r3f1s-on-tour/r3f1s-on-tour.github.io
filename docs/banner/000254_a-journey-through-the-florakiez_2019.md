@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/a-journey-through-the-florakiez-ac90"
 onyx: "0"
 description: "Discover the green lung of Pankow and get a nice mosaic as a reminder. All missions are hack only."
 lengthKMeters: "8,84"
+umap: ""
 title: "A journey through the florakiez"
 ---
 

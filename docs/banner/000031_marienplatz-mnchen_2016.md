@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/marienplatz-m%C3%BCnchen-50a9"
 onyx: "0"
 description: "1315 verlieh Kaiser Ludwig der Bayer München die Marktfreiheit mit der Auflage, dass der damals Marktplatz genannte Marienplatz „auf ewige Zeiten“ hin unbebaut bleibe."
 lengthKMeters: "5,84"
+umap: ""
 title: "Marienplatz München"
 ---
 

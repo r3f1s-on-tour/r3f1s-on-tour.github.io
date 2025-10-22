@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/%C5%82owicz-muster-tour-in-der-oranienb
 onyx: "0"
 description: ""
 lengthKMeters: "1,6"
+umap: ""
 title: "Łowicz-Muster Tour in der Oranienburger Straße"
 ---
 

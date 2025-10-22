@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/chagall-window-yellow-b02b"
 onyx: "0"
 description: ""
 lengthKMeters: "1,20"
+umap: ""
 title: "Chagall Window yellow"
 ---
 

@@ -13,6 +13,7 @@ bg-link: ""
 onyx: "0"
 description: "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße"
 lengthKMeters: "1,29"
+umap: ""
 title: "Frog in Oranienburg"
 ---
 

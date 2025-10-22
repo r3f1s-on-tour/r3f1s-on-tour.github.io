@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/neuhausen-wal-b74f"
 onyx: "0"
 description: "Lass dich verzaubern vom Einhornwal in Neuhausen"
 lengthKMeters: "9,80"
+umap: ""
 title: "Neuhausen Wal"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/m%C3%BCnchner-tatort-ermittler-1636"
 onyx: "0"
 description: "Ivo Batic und Franz Leitmayr, gespielt von Miroslav Nemec und Udo Wachtveitl, sind seit seit 1991 Münchner Tatort-Kommissare. In den ersten 25 Jahren bekamen sie es mit 152 Toten zu tun ..."
 lengthKMeters: "2,11"
+umap: ""
 title: "Münchner Tatort-Ermittler 1972 bis heute"
 ---
 

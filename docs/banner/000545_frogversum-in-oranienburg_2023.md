@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/frogversum-in-oranienburg-c78b"
 onyx: "0"
 description: "Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg. Starte in der Bernauer Straße"
 lengthKMeters: "9,631"
+umap: ""
 title: "FrogVersum in Oranienburg"
 ---
 

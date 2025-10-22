@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/rundum-den-lehnitzsee-3930"
 onyx: "0"
 description: "Abfolge 1 der Reihe um den Lehnitzsee entlang des Naturlehrpfades.\nZu Fuß wirst du etwa 4 std. benötigen und kannst dies nur mit dem Fahrrad verkürzen."
 lengthKMeters: "8,75"
+umap: ""
 title: "Rundum den Lehnitzsee"
 ---
 

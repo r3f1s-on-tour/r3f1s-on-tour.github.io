@@ -13,6 +13,7 @@ bg-link: ""
 onyx: "0"
 description: "Starte in der Bernauer Straße eine Reise durch Galaxie und entdecke den Ursprung. Deine Reise durch die Stadt Oranienburg führt dich entlang des Schloss, Schlosspark und endet am Bahnhof"
 lengthKMeters: "8,57"
+umap: ""
 title: "Green Galaxy Men in Oranienburg"
 ---
 

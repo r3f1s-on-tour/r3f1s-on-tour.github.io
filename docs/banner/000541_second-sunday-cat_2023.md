@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/second-sunday-cat-226f"
 onyx: "0"
 description: "Beginne eine Runde durch Strasburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Strasburg. Starte in der Schulstraße"
 lengthKMeters: "8,511"
+umap: ""
 title: "Second Sunday Cat"
 ---
 

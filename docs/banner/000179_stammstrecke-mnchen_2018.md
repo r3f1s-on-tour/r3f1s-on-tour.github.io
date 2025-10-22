@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/stammstrecke-m%C3%BCnchen-4ade"
 onyx: "0"
 description: ""
 lengthKMeters: ""
+umap: ""
 title: "Stammstrecke München"
 ---
 

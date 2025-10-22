@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/nymphenburg-2b6d"
 onyx: "0"
 description: "Eine Tour vom Schloss Nymphenburg über den Hubertusbrunnen zum Löwenbräukeller immer der nach dem Schloss benannten Nymphenburger Strasse entlang."
 lengthKMeters: "8,65"
+umap: ""
 title: "Nymphenburg"
 ---
 

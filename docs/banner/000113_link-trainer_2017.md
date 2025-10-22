@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/link-trainer-d948"
 onyx: "0"
 description: "Diese Portalreihe führt euch durch Unterschleißheim. Start ist das Infinity Hotel im Gewerbegebiet."
 lengthKMeters: "18,78"
+umap: ""
 title: "Link Trainer"
 ---
 

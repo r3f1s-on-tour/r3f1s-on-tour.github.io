@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/skyline-munich-2886"
 onyx: "0"
 description: "Part 1 of 6"
 lengthKMeters: "1,45"
+umap: ""
 title: "Skyline Munich"
 ---
 

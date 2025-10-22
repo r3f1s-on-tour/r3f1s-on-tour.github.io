@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/hp-banner-mission-0f33"
 onyx: "0"
 description: "Schön gemütliche Tour durch die Heppenheimer Fußgängerzone und Altstadt. Bei richtiger Reihenfolge ergibt sich ein Bild von Marco Mayer. Start und Ende nah am Graben, wo auch geparkt werden kann."
 lengthKMeters: "2,82"
+umap: ""
 title: "HP Banner Mission"
 ---
 

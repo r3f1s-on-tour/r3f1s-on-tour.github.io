@@ -13,6 +13,7 @@ bg-link: ""
 onyx: "0"
 description: "Mache eine kleine Tour durch Oranienburg und hole dir die XMas Toast ins PRofil"
 lengthKMeters: "1,64"
+umap: ""
 title: "Beach XMas Toast in Oranienburg"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/whaleomaly-is-coming-kirchheim-b-m%C3%B
 onyx: "0"
 description: "Explore Kirchheims Whales! Take them with you to unite at the Whaleomaly Linz!\n\nEntdecke Kirchheims Wale! Bring sie mit, damit wir diese bei der Walomalie in Linz verbünden!"
 lengthKMeters: "4,55"
+umap: ""
 title: "Whaleomaly is Coming [Kirchheim b. München]"
 ---
 

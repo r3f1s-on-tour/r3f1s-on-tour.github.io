@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/whaleomaly-is-coming-regensburg-7a9c"
 onyx: "0"
 description: "Entdecke Regensburgs Wale! Bring sie mit, damit wir diese bei der Whaleomaly in Linz verbünden !\nExplore Regensburgs Whales! Take them with you to unite at the Whaleomaly Linz!"
 lengthKMeters: "1,62"
+umap: ""
 title: "Whaleomaly is Coming Regensburg"
 ---
 

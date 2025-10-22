@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/museumsinsel-1d09"
 onyx: "0"
 description: "Das Bode-Museum ist Bestandteil des Bauensembles der Museumsinsel und Weltkulturerbe der UNESCO. Erbaut von 1898 bis 1904 im Auftrag Kaiser Wilhelms II.."
 lengthKMeters: "5,35"
+umap: ""
 title: "Museumsinsel"
 ---
 

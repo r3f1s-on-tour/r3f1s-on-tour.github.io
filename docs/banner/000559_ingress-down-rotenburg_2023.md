@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/ingress-down-rotenburg-098d"
 onyx: "0"
 description: "Entdecke spannende Orte und historische Ecken bei einem kleinen Rundgang durch Rotenburg"
 lengthKMeters: "2,144"
+umap: ""
 title: "Ingress down Rotenburg"
 ---
 

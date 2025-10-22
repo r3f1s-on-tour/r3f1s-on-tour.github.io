@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/mit-der-25-nach-gr%C3%BCnwald-1b1f"
 onyx: "0"
 description: "Vom Max-Weber-Platz mit der Tram 25 nach Grünwald. Am Ende kann in Grünwald noch der Schriftzug „Entdecke Grünwald“ (6er Banner) angehängt werden."
 lengthKMeters: "17,46"
+umap: ""
 title: "Mit der 25 nach Grünwald"
 ---
 

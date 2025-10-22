@@ -13,6 +13,7 @@ bg-link: ""
 onyx: "0"
 description: "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße und am Ende erwartet dich der 3 Schwerter Stil"
 lengthKMeters: "6,05"
+umap: ""
 title: "3 Schwerter Stil in Oranienburg"
 ---
 

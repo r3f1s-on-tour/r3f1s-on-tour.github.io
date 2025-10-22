@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/naturlehrpfad-4161"
 onyx: "0"
 description: "Diese Missionsreihe führt euch über den Naturlehrpfad durch beschauliche Wälder und Wiesen zu Interessanten Versteckten Orten.\nLernt etwas daraus und habt spaß beim Wandern."
 lengthKMeters: "5,28"
+umap: ""
 title: "Naturlehrpfad"
 ---
 

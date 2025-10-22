@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/bannergress-launch-in-oranienburg-0e5f"
 onyx: "0"
 description: "Mache eine kleine Tour durch Oranienburg\n\nGeht am 21.11.2021 offline"
 lengthKMeters: "1,64"
+umap: ""
 title: "Bannergress Launch in Oranienburg"
 ---
 

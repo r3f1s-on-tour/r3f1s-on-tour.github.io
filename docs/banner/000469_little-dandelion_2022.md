@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/little-dandelion-5070"
 onyx: "0"
 description: "Start at Rotes Rathaus for a short tour through the center of Berlin & discover some of the popular places & squares on the way to Alexanderplatz and pass Hackescher Markt and Volksbühne on your way."
 lengthKMeters: "5,085"
+umap: ""
 title: "Little Dandelion"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/augsburg-im-juli-9dbb"
 onyx: "0"
 description: ""
 lengthKMeters: ""
+umap: ""
 title: "Augsburg im Juli"
 ---
 

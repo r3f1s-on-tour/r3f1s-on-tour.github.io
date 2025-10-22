@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/szczecin-for-tourists-0201"
 onyx: "0"
 description: "Welcome to Szczecin! Let's take a walk together and complete the banner! Hack-only #tourist-friendly missions!"
 lengthKMeters: "1,63"
+umap: ""
 title: "SZCZECIN for TOURISTS"
 ---
 

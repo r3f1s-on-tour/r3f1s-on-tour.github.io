@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/birkenwerder-ac23"
 onyx: "0"
 description: "Eine kleine Runde durch Birkenwerder. Viel Spaß"
 lengthKMeters: "2,33"
+umap: ""
 title: "Birkenwerder"
 ---
 

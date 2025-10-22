@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/berliner-t%C3%BCrme-7cba"
 onyx: "1"
 description: "Ein Gang von Turm zu Turm"
 lengthKMeters: "12,05"
+umap: ""
 title: "Berliner Türme"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/nyan-cat-walk-ad70"
 onyx: "0"
 description: "Follow the nyan cat through the Treptower park and gain it as companion on your future walks with the scanner."
 lengthKMeters: "3,69"
+umap: ""
 title: "Nyan Cat Walk"
 ---
 

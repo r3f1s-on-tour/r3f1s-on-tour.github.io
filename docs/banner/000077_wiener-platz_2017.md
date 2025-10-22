@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/wiener-platz-d456"
 onyx: "0"
 description: "Am Wiener Platz befindet sich seit 1889 der kleinste der 4 ständigen Märkte Münchens. Nebenan befindet sich der Hofbräukeller, wo auch bis in die 1980er Jahre das Hofbräu-Bier gebraut wurde."
 lengthKMeters: "7,90"
+umap: ""
 title: "Wiener Platz"
 ---
 

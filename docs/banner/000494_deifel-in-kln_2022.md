@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/deifel-in-k%C3%B6ln-7270"
 onyx: "0"
 description: "Starte am Hauptbahnhof einen Rundgang und entdecke Köln. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten, historische Orte und den Kölner Dom. Die Runde endet am Hansaring"
 lengthKMeters: "2"
+umap: ""
 title: "Deifel in Köln"
 ---
 

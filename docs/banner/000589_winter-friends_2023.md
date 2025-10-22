@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/winter-friends-95cd"
 onyx: "0"
 description: "Geh mit deinen Freunden durch Löbtau"
 lengthKMeters: "1,889"
+umap: ""
 title: "Winter Friends"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/fs-berlin-ingressfs-fe36"
 onyx: "0"
 description: "Missionset for the First Saturday in Berlin. This mission is dedicated to all berlin hipsters."
 lengthKMeters: "1,87"
+umap: ""
 title: "FS Berlin - #IngressFS"
 ---
 

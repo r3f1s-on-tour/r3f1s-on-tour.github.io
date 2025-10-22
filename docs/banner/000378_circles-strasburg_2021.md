@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/circles-strasburg-6c75"
 onyx: "0"
 description: "Geh auf Entdeckungstour durch Strasburg."
 lengthKMeters: "14,99"
+umap: ""
 title: "Circles Strasburg"
 ---
 

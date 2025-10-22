@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/watercolor-gdynia-2799"
 onyx: "0"
 description: ""
 lengthKMeters: ""
+umap: ""
 title: "Watercolor Gdynia"
 ---
 

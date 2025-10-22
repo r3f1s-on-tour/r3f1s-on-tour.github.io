@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/deifel-in-d%C3%BCsseldorf-0642"
 onyx: "0"
 description: "Starte am Hauptbahnhof einen Rundgang und entdecke Düsseldorf. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet wieder am Hauptbahnhof"
 lengthKMeters: "4"
+umap: ""
 title: "Deifel in Düsseldorf"
 ---
 

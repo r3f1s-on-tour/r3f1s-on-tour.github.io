@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/enlightened-schwerin-teil-f758"
 onyx: "0"
 description: "Der Alte Garten wartet ;)"
 lengthKMeters: "2,72"
+umap: ""
 title: "Enlightened Schwerin Teil"
 ---
 

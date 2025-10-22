@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/frog-in-neubrandenburg-8380"
 onyx: "0"
 description: "Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde die Sehenswürdigkeiten und Denkmäler der Stadt."
 lengthKMeters: "3,013"
+umap: ""
 title: "Frog in Neubrandenburg"
 ---
 

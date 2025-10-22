@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/z%C3%BCrich-biocard-79bc"
 onyx: "0"
 description: "Zurich Main Station is the largest train station in Switzerland, it serves about 3000 connections a day. It's the main hub to connect to the rest of Switzerland."
 lengthKMeters: "7,97"
+umap: ""
 title: "Zürich Biocard"
 ---
 

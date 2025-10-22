@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/augsburg-im-august-e95e"
 onyx: "0"
 description: ""
 lengthKMeters: ""
+umap: ""
 title: "Augsburg im August"
 ---
 

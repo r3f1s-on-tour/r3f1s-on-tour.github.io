@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/whaleomaly-is-coming-kloster-f%C3%BCrst
 onyx: "0"
 description: "Entdecke die Wale im Kloster Fürstenfeld! Bring sie mit zur Walomalie nach Linz, sie dort zu verbünden!\nExplore the Whales of Kloster Fürstenfeld! Take them with you to unite at the Whaleomaly Linz!"
 lengthKMeters: "2,49"
+umap: ""
 title: "Whaleomaly is Coming [Kloster Fürstenfeld]"
 ---
 

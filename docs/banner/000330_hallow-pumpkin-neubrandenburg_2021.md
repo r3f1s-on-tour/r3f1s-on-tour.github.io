@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/hallow-pumpkin-neubrandenburg-482b"
 onyx: "0"
 description: "Erlebe mit ein paar Missionen die tolle Halloween Tour in Neubrandenburg."
 lengthKMeters: "8,52"
+umap: ""
 title: "Hallow Pumpkin Neubrandenburg"
 ---
 

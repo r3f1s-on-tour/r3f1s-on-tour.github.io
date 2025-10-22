@@ -13,6 +13,7 @@ bg-link: ""
 onyx: "0"
 description: "Starte in der Bernauer Straße eine Reise durch die Stadt Oranienburg und hole Adventure Toasts ins Profil"
 lengthKMeters: "8,57"
+umap: ""
 title: "Adventure Toast in Oranienburg"
 ---
 

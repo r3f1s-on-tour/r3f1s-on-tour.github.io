@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/ostkreuz-old-7b0b"
 onyx: "0"
 description: "erkunde die Gegend um das Ostkreuz"
 lengthKMeters: "6,47"
+umap: ""
 title: "Ostkreuz Old"
 ---
 

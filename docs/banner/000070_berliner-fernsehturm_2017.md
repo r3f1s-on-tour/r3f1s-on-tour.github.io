@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/berliner-fernsehturm-d601"
 onyx: "0"
 description: "NUR NOCH BIS ZUM 31.12.2021 SPIELBAR!\n\nZur Umgehung des nicht öffentlich begehbaren Charitè-Geländes sind die Missionen Berliner Fernsehturm (altern.) 035 bis Berliner Fernsehturm (altern.) 040 online. Die Änderung der Route beginnt bereits am Hauptbahnhof, um die benötigte Portalanzahl zu erreichen. Ab Mission 41 ist die Originalroute spielbar. https-//bannergress.com/banner/berliner-fernsehturm-altern-bee8"
 lengthKMeters: "139,56"
+umap: ""
 title: "Berliner Fernsehturm"
 ---
 

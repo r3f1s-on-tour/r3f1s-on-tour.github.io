@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/schneefl%C3%B6ckchen-0616"
 onyx: "1"
 description: "\"Schneeflöckchen, Weißröckchen\nWann kommst du geschneit?\nDu kommst aus den Wolken\nDein Weg ist so weit\"\n\nEin Spaziergang durch Löbtau-Süd"
 lengthKMeters: "1,693"
+umap: ""
 title: "Schneeflöckchen"
 ---
 

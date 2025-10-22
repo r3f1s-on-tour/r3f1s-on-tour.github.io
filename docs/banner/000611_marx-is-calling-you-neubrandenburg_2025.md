@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/marx-is-calling-you-neubrandenburg-2205
 onyx: "0"
 description: "Theta Chemnitz is coming! Explore a city in transformation from industrial heritage and stunning architecture to cultural diversity. As ECoC 2025, Chemnitz invites you to C the Unseen!"
 lengthKMeters: "11"
+umap: ""
 title: "Marx is calling you - Neubrandenburg"
 ---
 

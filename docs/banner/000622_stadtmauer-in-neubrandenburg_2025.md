@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/stadtmauer-in-neubrandenburg-db62"
 onyx: "0"
 description: "Entdecke bei diesen Missionen insbesondere auch die Stadtmauer von Neubrandenburg. Sie wurde im 13. und 14. Jahrhundert gebaut. Sie ist die besterhaltene Stadtbefestigung der Backsteingotik in Europa."
 lengthKMeters: "11,186"
+umap: ""
 title: "Stadtmauer in Neubrandenburg"
 ---
 

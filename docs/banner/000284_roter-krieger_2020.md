@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/roter-krieger-7556"
 onyx: "0"
 description: "Erkunde die Stadt München ab dem Stachus über den Marienplatz, die Altstadt und wieder zurück."
 lengthKMeters: "9,01"
+umap: ""
 title: "Roter Krieger"
 ---
 

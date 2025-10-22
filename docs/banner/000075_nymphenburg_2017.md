@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/nymphenburg-19e0"
 onyx: "0"
 description: "Schloss Nymphenburg und seine Parkanlage wurden Ende des 17. Jh. geplant und erbaut. Wir erkunden den Parkteil, der nahe am Schloss gelegen ist. Viel Spaß!"
 lengthKMeters: "1,14"
+umap: ""
 title: "Nymphenburg"
 ---
 

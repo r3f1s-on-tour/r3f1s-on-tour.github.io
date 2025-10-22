@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/enlightened-mission-6db8"
 onyx: "0"
 description: "Ne Fixe Runde durch Hoyerswerda damit hier die Erleuchtung wieder einkehrt!"
 lengthKMeters: "5,127"
+umap: ""
 title: "Enlightened Mission"
 ---
 

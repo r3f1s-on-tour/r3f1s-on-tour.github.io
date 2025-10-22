@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/mongol-nomadic-empire-75d0"
 onyx: "0"
 description: "A nice walk from Alexanderplatz along the Kollwitzkietz to Brunnenviertel with its famous railway-facilities."
 lengthKMeters: "9,70"
+umap: ""
 title: "Nomadic Empire"
 ---
 

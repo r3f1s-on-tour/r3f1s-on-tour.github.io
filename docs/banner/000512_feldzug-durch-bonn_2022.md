@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/feldzug-durch-bonn-8bf0"
 onyx: "0"
 description: "Diese Missionsreihe führt durch Bonn. Vom Hauptbahnhof über den alten Friedhof und wieder zurück."
 lengthKMeters: "3,806"
+umap: ""
 title: "Feldzug durch Bonn"
 ---
 

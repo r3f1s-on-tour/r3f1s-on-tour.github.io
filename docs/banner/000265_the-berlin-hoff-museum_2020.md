@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/the-berlin-hoff-museum-c15c"
 onyx: "0"
 description: "This walk guides you at the end to the small but famous Museum of the Hoff. Its located in Mitte close to Rosenthaler Platz."
 lengthKMeters: "1,51"
+umap: ""
 title: "The Berlin Hoff Museum"
 ---
 

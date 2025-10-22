@@ -13,6 +13,7 @@ bg-link: ""
 onyx: "0"
 description: "Starte einen kleinen Rundgang durch Oranienburg und hole die Superhelden Toats ins Profil."
 lengthKMeters: "2,20"
+umap: ""
 title: "Superhelden Toasts in Oranienburg"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/schleissheim-postcard-953e"
 onyx: "0"
 description: "Schleissheim Postcard Mission Banner.\nThe Missions will lead you through most of Oberschleissheim.\nPossible on foot. Bike recommended."
 lengthKMeters: "9,63"
+umap: ""
 title: "Schleissheim Postcard"
 ---
 

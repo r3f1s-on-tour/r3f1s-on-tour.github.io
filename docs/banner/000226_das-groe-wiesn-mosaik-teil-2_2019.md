@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/wiesn-teil-2-166f"
 onyx: "0"
 description: "Teil 2 der großen Wiesnreihe. Start und Ende an der Theresienwiese. Hälfte ist am Tierpark Hellabrunn. Viel Spaß"
 lengthKMeters: "26,00"
+umap: ""
 title: "Das Große Wiesn Mosaik Teil 2"
 ---
 

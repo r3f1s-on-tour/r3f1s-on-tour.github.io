@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/northern-legends-5c88"
 onyx: "0"
 description: "Follow your path through the neighborhood of Friedrichshain."
 lengthKMeters: "1,259"
+umap: ""
 title: "Northern Legends"
 ---
 

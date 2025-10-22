@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/middle-earth-brews-f9b6"
 onyx: "0"
 description: "Entdeckungsrunde vom Schäfersee zum Volkspark Rehberge"
 lengthKMeters: "5,14"
+umap: ""
 title: "Middle Earth Brews"
 ---
 

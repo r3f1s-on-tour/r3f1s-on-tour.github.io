@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/olympiaturm-m%C3%BCnchen-24a1"
 onyx: "0"
 description: "Diese Missionsreihe führt dich vom Hauptbahnhof quer durch München zum Olympiaturm in 60 kleinen Missionen."
 lengthKMeters: "21,90"
+umap: ""
 title: "Olympiaturm München"
 ---
 

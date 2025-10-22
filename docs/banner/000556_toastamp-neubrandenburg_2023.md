@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/toastamp-neubrandenburg-812a"
 onyx: "0"
 description: "Help the Toast fight the Illuminati Link-Amp!"
 lengthKMeters: "5,944"
+umap: ""
 title: "ToastAmp Neubrandenburg"
 ---
 

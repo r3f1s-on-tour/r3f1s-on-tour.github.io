@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/whaleomaly-is-coming-7e20"
 onyx: "0"
 description: ""
 lengthKMeters: ""
+umap: ""
 title: "Whaleomaly is Coming [Röbel Müritz]"
 ---
 

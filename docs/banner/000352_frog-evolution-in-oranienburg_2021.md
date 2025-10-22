@@ -13,6 +13,7 @@ bg-link: ""
 onyx: "0"
 description: "Mache eine kleine Tour durch Oranienburg und hole dir die Frog Evolution ins Profil"
 lengthKMeters: "1,64"
+umap: ""
 title: "Frog Evolution in Oranienburg"
 ---
 

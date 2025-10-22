@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/hunting-ground-wandsbek-markt-ventrue-3
 onyx: "0"
 description: "Die sechs Vampir Clans der Camarilla begehren diese Domäne. Welcher Clan wird obsiegen? Wen wirst du unterstützen?"
 lengthKMeters: "1,51"
+umap: ""
 title: "Hunting ground Wandsbek Markt"
 ---
 

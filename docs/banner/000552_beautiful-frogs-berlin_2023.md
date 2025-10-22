@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/beautiful-frogs-berlin-35db"
 onyx: "0"
 description: "Have a walk around the Gethsemane church."
 lengthKMeters: "1,459"
+umap: ""
 title: "Beautiful Frogs Berlin"
 ---
 

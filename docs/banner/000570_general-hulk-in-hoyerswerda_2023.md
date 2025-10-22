@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/general-hulk-in-hoyerswerda-2ddd"
 onyx: "0"
 description: "General Hulk besucht Hoyerswerda zu Fuß, und möchte dich auf seiner Runde mitnehmen.\nBeginnend am Bahnhof, vorbei am Zoo und über Zentralpark kommt Ihr zum Schluss am Bahnhof wieder an."
 lengthKMeters: "15,405"
+umap: ""
 title: "General Hulk in Hoyerswerda"
 ---
 

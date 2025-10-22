@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/frankfurter-tor-940b"
 onyx: "0"
 description: "Das Frankfurter Tor ist heute ein Platz im Berliner Ortsteil Friedrichshain am östlichen Ende der Karl-Marx-Allee. Obwohl der Name es vermuten lässt."
 lengthKMeters: "4,15"
+umap: ""
 title: "Frankfurter Tor"
 ---
 

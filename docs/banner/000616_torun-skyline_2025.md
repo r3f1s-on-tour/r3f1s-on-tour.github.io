@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/torun-skyline-15f3"
 onyx: "0"
 description: ""
 lengthKMeters: "3,7"
+umap: ""
 title: "Torun skyline"
 ---
 

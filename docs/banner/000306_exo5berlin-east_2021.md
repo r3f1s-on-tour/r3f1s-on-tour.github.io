@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/exo5berlin-east-9312"
 onyx: "0"
 description: "This mission leads you to famous places in Berlin.  See places of Resistance history and farmgrounds. The first mission starts at Alexanderplatz."
 lengthKMeters: "12,65"
+umap: ""
 title: "EXO5BERLIN East"
 ---
 

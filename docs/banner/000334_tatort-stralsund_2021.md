@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/tatort-stralsund-b5f9"
 onyx: "0"
 description: "Wir starten am Tatort Brunnenaue."
 lengthKMeters: "6,10"
+umap: ""
 title: "Tatort Stralsund"
 ---
 

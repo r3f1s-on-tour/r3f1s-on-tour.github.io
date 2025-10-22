@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/madrid-pop-art-girl-fa2f"
 onyx: "0"
 description: "Descubre los lugares más emblematicos y con encato de Madrid. Desde Sol a la Plaza de la Villa, pasando por la Plaza de Oriente."
 lengthKMeters: "8,268"
+umap: ""
 title: "MADRID POP ART GIRL"
 ---
 

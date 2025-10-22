@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/2nd-sunday-mitte-fe1f"
 onyx: "0"
 description: "Spaziere zum Second Sunday 02/22 über den Boulevard Unter den Linden im Bezitk Mitte."
 lengthKMeters: "2,04"
+umap: ""
 title: "2nd Sunday Mitte"
 ---
 

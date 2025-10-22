@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/green-unicorn-3bef"
 onyx: "0"
 description: "Die Missionen führen durch die Grünanlagen von Neubrandenburg. Dabei sieht man unter anderem den Burgwall, Strandbad Broda, den Kulturbark, das Augustabad und die hinterste Mühle."
 lengthKMeters: "24,03"
+umap: ""
 title: "Green Unicorn"
 ---
 

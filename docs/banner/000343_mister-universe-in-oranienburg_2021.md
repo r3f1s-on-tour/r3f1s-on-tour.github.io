@@ -13,6 +13,7 @@ bg-link: ""
 onyx: "0"
 description: "Mache eine kleine Tour mit Bengalos durch Oranienburg und starte am Bahnhof"
 lengthKMeters: "5,80"
+umap: ""
 title: "Mister-Universe in Oranienburg"
 ---
 

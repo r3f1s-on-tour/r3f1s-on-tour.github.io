@@ -13,6 +13,7 @@ bg-link: ""
 onyx: "1"
 description: "Starte deine Samurai Crests Adeventure Tour in der Stadt Strasburg Uckermark und entdecke auf deiner Runde historische Gebäude und Sehenswürdigkeiten. Die Runde endet am"
 lengthKMeters: "277,36"
+umap: ""
 title: "Samurai Crest Adventure Tour"
 ---
 

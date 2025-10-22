@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/clear-your-mind-valencia-6de4"
 onyx: "0"
 description: "Agradable paseo por las calles de Valencia"
 lengthKMeters: "1,319"
+umap: ""
 title: "Clear your mind -Valencia"
 ---
 

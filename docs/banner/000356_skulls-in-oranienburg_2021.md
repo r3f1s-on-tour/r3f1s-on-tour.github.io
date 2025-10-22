@@ -13,6 +13,7 @@ bg-link: ""
 onyx: "0"
 description: "Mache eine kleine Tour durch Oranienburg und hole dir die Schädel ins Profil"
 lengthKMeters: "1,64"
+umap: ""
 title: "Skulls in Oranienburg"
 ---
 

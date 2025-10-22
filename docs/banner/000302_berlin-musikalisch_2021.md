@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/berlin-musikalisch-5b7d"
 onyx: "0"
 description: "Auf dem Weg vom Postbahnhof zum Lido. \nZwei der besten Konzertlocations in Berlin."
 lengthKMeters: "15,82"
+umap: ""
 title: "Berlin musikalisch"
 ---
 

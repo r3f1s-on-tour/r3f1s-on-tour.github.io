@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/neubrandenburg-im-morgennebel-f2f5"
 onyx: "0"
 description: "Neubrandenburg - die Stadt der 4 Tore in 36 Teilen.\nSchon Caspar David Friedrich erkannte 1816 die Schönheit der Stadt."
 lengthKMeters: "35,29"
+umap: ""
 title: "Neubrandenburg im Morgennebel"
 ---
 

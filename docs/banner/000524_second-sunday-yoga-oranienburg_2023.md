@@ -13,6 +13,7 @@ bg-link: ""
 onyx: "0"
 description: "Starte eine Runde durch Oranienburg zum Second Sunday und denke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg"
 lengthKMeters: "1,29"
+umap: ""
 title: "Second Sunday Yoga Oranienburg"
 ---
 

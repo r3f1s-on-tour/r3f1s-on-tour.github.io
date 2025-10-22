@@ -13,6 +13,7 @@ bg-link: ""
 onyx: "0"
 description: "Mache eine Entdeckungsrunde durch Strasburg und hole dir paar XMas Otter ins Profil"
 lengthKMeters: "2,73"
+umap: ""
 title: "XMas Otter in Strasburg"
 ---
 

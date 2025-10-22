@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/green-surfer-in-oranienburg-edb1"
 onyx: "0"
 description: "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße"
 lengthKMeters: "5,54"
+umap: ""
 title: "Green Surfer  in Oranienburg"
 ---
 

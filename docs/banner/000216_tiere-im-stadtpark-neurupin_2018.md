@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/tiere-im-stadtpark-neurupin-b4e1"
 onyx: "0"
 description: "Der Stadtpark entstand auf Initiative von Oberst A. von Wulffen aus einem Schießplatz im Jahre 1834. Sechsteilige Missionsreihe."
 lengthKMeters: "15,23"
+umap: ""
 title: "Tiere im Stadtpark Neurupin"
 ---
 

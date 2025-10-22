@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/trennmission-aba1"
 onyx: "0"
 description: "Hannover bietet so viel! Nutze die Trennmissionen für Deinen Scanner."
 lengthKMeters: "3,21"
+umap: ""
 title: "Trennmission"
 ---
 

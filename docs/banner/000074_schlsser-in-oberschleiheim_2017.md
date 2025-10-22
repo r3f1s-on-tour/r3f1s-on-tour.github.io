@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/schl%C3%B6sser-in-oberschlei%C3%9Fheim-
 onyx: "0"
 description: ""
 lengthKMeters: ""
+umap: ""
 title: "Schlösser in Oberschleißheim"
 ---
 

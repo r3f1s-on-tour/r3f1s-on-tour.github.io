@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/vendetta-in-oranienburg-a9ef"
 onyx: "0"
 description: "Starte eine Vendetta in Oranienburg und mache ein Tour durch die Stadt. Die Tour startet in der Bernauer Straße und führt dich am Lehnitz See und der Havel entlang und endet am Schloss"
 lengthKMeters: "13,97"
+umap: ""
 title: "Vendetta in Oranienburg"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/spider-sunday-in-oranienburg-67de"
 onyx: "0"
 description: "Mache eine kleine Tour durch Oranienburg und starte am Bahnhof"
 lengthKMeters: "2,00"
+umap: ""
 title: "Spider Sunday in Oranienburg"
 ---
 

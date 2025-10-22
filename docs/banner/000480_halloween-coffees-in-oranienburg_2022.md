@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/halloween-coffees-in-oranienburg-c369"
 onyx: "0"
 description: "Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße."
 lengthKMeters: "1,599"
+umap: ""
 title: "Halloween Coffees in Oranienburg"
 ---
 

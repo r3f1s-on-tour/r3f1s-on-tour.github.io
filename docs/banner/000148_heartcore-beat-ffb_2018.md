@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/heartcore-beat-ffb-ea0e"
 onyx: "0"
 description: ""
 lengthKMeters: "4,09"
+umap: ""
 title: "HeartCore Beat FFB"
 ---
 

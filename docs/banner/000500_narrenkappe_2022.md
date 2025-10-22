@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/narrenkappe-f124"
 onyx: "0"
 description: "Take a walk around Koeln-Ehrenfeld. This district is known for its variety of street art."
 lengthKMeters: "9,984"
+umap: ""
 title: "Narrenkappe"
 ---
 

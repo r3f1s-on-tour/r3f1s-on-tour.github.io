@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/visit-cottbus-70f4"
 onyx: "0"
 description: "Diese Mission beginnt am Bahnhof und geht über die Bahnhofstraße in Richtung Theater."
 lengthKMeters: "5,169"
+umap: ""
 title: "Visit Cottbus"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/aquarelle-gdansk-a640"
 onyx: "1"
 description: ""
 lengthKMeters: ""
+umap: ""
 title: "Aquarelle Gdansk"
 ---
 

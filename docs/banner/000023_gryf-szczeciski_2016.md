@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/gryf-szczeci%C5%84ski-6cc3"
 onyx: "0"
 description: "Jeden z symboli miejskich Szczecina. Symbol książąt z dynastii Gryfitów."
 lengthKMeters: "12,44"
+umap: ""
 title: "Gryf Szczeciński"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/fs-rubik-cube-5915"
 onyx: "0"
 description: "Can you solve this riddle at the FS in Dresden?"
 lengthKMeters: "1,828"
+umap: ""
 title: "#FS Rubik Cube"
 ---
 

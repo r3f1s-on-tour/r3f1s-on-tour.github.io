@@ -13,6 +13,7 @@ bg-link: ""
 onyx: "0"
 description: "Mache eine kleine Honigbienen Runde durch Oranienburg und hole dir die Bienchen ins Profil"
 lengthKMeters: "1,59"
+umap: ""
 title: "Honey Bees in Oranienburg"
 ---
 

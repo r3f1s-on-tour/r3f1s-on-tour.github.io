@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/skyline-oranienburg-a993"
 onyx: "0"
 description: "Nimm Dir Zeit auf Deiner Reise durch Oranienburg. Die Tour beginnt in der Bernauer Straße und dauert ca. 2 Stunden. Entdecke historische Sehenswürdigkeiten und tolle Monumente der Moderne."
 lengthKMeters: "2,88"
+umap: ""
 title: "Skyline Oranienburg"
 ---
 

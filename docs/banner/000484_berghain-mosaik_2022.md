@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/berghain-mosaik-2102"
 onyx: "0"
 description: "Praising the glorious techno club you take a walk through it's neighborhood.\n\nYou will get some further information about Berghain during your trip."
 lengthKMeters: "6,629"
+umap: ""
 title: "Berghain Mosaik"
 ---
 

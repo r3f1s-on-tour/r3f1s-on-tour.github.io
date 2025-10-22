@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/stralsund-map-anno-1628-07c9"
 onyx: "0"
 description: "Gehe auf Entdeckungstour durch die Hansestadt Stralsund. Diese Mission beginnt am Bahnhof und führt bis zum Tribseer Damm. Übrigens, der Bahnhof wurde am 01.01.1878 feierlich eröffnet."
 lengthKMeters: "8,46"
+umap: ""
 title: "Stralsund Map Anno 1628"
 ---
 

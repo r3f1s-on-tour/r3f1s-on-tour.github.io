@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/munich-city-walk-bb17"
 onyx: "0"
 description: "A short walk in the inner city. Start east of Marienplatz."
 lengthKMeters: "3,41"
+umap: ""
 title: "Munich city walk"
 ---
 

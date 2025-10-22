@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/wroc%C5%82awska-akwarela-6252"
 onyx: "0"
 description: ""
 lengthKMeters: ""
+umap: ""
 title: "Wrocławska akwarela"
 ---
 

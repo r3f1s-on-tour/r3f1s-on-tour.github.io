@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/rund-um-die-ludwigskirche-ac36"
 onyx: "0"
 description: ""
 lengthKMeters: ""
+umap: ""
 title: "Rund um die Ludwigskirche"
 ---
 

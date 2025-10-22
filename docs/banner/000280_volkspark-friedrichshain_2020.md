@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/volkspark-friedrichshain-c30c"
 onyx: "0"
 description: "The Volkspark Friedrichshain is the oldest public park in Berlin, opened 1846. The park was originally conceived by the landscape gardener Peter Joseph Lenné."
 lengthKMeters: "4,25"
+umap: ""
 title: "Volkspark Friedrichshain"
 ---
 

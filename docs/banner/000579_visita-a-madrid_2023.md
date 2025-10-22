@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/visita-a-madrid-cbcd"
 onyx: "0"
 description: "Primera parte de la visita al la Puerta del Sol y sus alrededores, centro turístico y emblemático de la Capital de España, que no se puede dejar de visitar al ir a esta importante ciudad."
 lengthKMeters: "949"
+umap: ""
 title: "Visita a Madrid"
 ---
 

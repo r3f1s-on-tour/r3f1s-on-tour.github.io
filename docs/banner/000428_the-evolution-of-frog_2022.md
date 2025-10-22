@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/the-evolution-of-frog-1d8f"
 onyx: "0"
 description: "Macht einen kleinen Spaziergang durch die Vorstadt und schaut Euch dabei die Entwicklung des Frosches genau an. Wenn ihr wollt, könnt Ihr vor dem Start und am Ende ein schönes Eis essen."
 lengthKMeters: "2,37"
+umap: ""
 title: "The evolution of frog"
 ---
 

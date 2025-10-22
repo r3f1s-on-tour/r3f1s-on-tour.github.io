@@ -13,6 +13,7 @@ bg-link: ""
 onyx: "0"
 description: "Mache eine kleine Runde durch Oranienburg und feiere den Weltbienentag."
 lengthKMeters: "1,59"
+umap: ""
 title: "World Bee Day in Oranienburg"
 ---
 

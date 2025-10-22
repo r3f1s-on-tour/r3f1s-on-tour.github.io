@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/umbra-dresden-batbanner-579e"
 onyx: "0"
 description: "These 18 (or if you choose so 12) missions will take you straight to the place of the afterparty. Many thanks to all the agents who traveled to Dresden for Umbra Anomaly. Have a lot of fun!"
 lengthKMeters: "6,13"
+umap: ""
 title: "Umbra Dresden Batbanner"
 ---
 

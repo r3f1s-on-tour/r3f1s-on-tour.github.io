@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/mizaru-kikazaru-iwazaru-dbe2"
 onyx: "0"
 description: "Starte eine Runde durch den Kollwitzkiez entlang des Teutoburger Platz und der Zionkirchsplatz.\nStart und Ende der Runde ist am Senefelderplatz"
 lengthKMeters: "6,02"
+umap: ""
 title: "Mizaru, Kikazaru, Iwazaru"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/calaveras-mexicanas-35f1"
 onyx: "0"
 description: "La Plaza de Toros de Valencia fue inaugurada en 1851. Su estilo neoclásico fue inspirado de la arquitectura romana, del Coliseo . Declarada Monumento Histórico Artístico por la D.G. de bellas artes."
 lengthKMeters: "1,389"
+umap: ""
 title: "CALAVERAS MEXICANAS"
 ---
 

@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/bahnhofsviertel-ffm-4599"
 onyx: "0"
 description: "Discover the fascinating facets of the cosmopolitan microcosm at Frankfurts central  station in six chapters. \nLet's go and... discover a peacefull park."
 lengthKMeters: "4,45"
+umap: ""
 title: "Bf-Viertel FFM"
 ---
 

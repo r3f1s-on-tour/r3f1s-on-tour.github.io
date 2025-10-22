@@ -13,6 +13,7 @@ bg-link: "https://bannergress.com/banner/munich-city-walls-0113"
 onyx: "0"
 description: "In former times Munich had two city walls. Later the town was transformed into a fortress. This mission series explores the remnants and traces of that time. Please read the portal texts."
 lengthKMeters: "13,80"
+umap: ""
 title: "Munich city walls"
 ---
 
