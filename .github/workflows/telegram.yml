@@ -16,7 +16,8 @@ jobs:
   post-to-telegram:
     runs-on: ubuntu-latest
     env:
-      MAX_POSTS: "5"  # Standard-Limit
+      MAX_POSTS: "5"
+      BASE_SITE_URL: "https://r3f1s-on-tour.github.io/banner/"
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -44,7 +45,8 @@ jobs:
           --glob "docs/banner/*.md" \
           --caption-template-file "template/tg_caption_template.txt" \
           --max-posts "${MAX_POSTS}" \
-          --base-url "${BASE_SITE_URL}"
+          --base-url "${BASE_SITE_URL}" \
+          --dry-run
       
       - name: Commit & push Änderungen (tg_posted + posted.yml)
         run: |
