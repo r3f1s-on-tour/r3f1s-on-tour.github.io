@@ -135,6 +135,7 @@ jobs:
 
           # Nur Änderungen in docs/banner committen
           git add docs/banner
+          git add data/map.geojson
 
           if git diff --staged --quiet; then
             echo "Keine Änderungen in docs/banner."
