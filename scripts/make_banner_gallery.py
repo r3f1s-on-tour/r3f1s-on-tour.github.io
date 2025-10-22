@@ -6,13 +6,10 @@ Erzeugt docs/banner/gallery.md aus vorhandenen Banner-Seiten.
 - liest YAML-Frontmatter:
     - nummer  (Sortierschlüssel, numerisch; absteigend)
     - title/titel/name (Beschriftung)
-    - picture (Bild-URL; Pflicht)
+    - picture/pic_url/... (Bild-URL; Pflicht)
 - erzeugt eine **einspaltige** Galerie (ein Bild pro Zeile)
   Klick auf das Bild öffnet die Banner-Seite: /banner/<stem>/
 - Bilder werden lazy geladen
-
-Aufruf:
-  python scripts/make_banner_gallery.py --root docs --banner_dir banner --outfile gallery.md
 """
 
 import re
@@ -26,11 +23,11 @@ except ImportError:
     print("ERROR: PyYAML not installed. Run:  pip install pyyaml", file=sys.stderr)
     sys.exit(1)
 
-PICTURE_KEYS = ["picture"]  # ggf. erweitern: ["picture", "image", "pic_url", "picture_url"]
+# WICHTIG: alle üblichen Schlüsselnamen erlauben
+PICTURE_KEYS = ["picture", "pic_url", "picture_url", "image", "img", "pic"]
 
 
 def read_frontmatter(md_path: Path) -> dict:
-    """Liest YAML-Frontmatter (--- ... ---) aus einer Markdown-Datei."""
     text = md_path.read_text(encoding="utf-8")
     if not text.startswith("---"):
         return {}
@@ -76,16 +73,27 @@ def collect_items(banner_dir: Path) -> list[dict]:
 
         fm = read_frontmatter(md)
         if not fm:
+            # ggf. warnen statt stumm skippen
+            # print(f"[WARN] Keine Frontmatter in {md.name}")
             continue
 
-        nummer = to_int(fm.get("nummer", 0), 0)
+        # Fallback: nummer aus Dateinamen ableiten, wenn nicht gesetzt
+        nummer = fm.get("nummer", None)
+        if nummer in (None, "", 0, "0"):
+            m = re.match(r"^(\d+)_", md.stem)  # z. B. 000577_fraws_2023 -> 000577
+            if m:
+                nummer = int(m.group(1))
+            else:
+                nummer = 0
+        nummer = to_int(nummer, 0)
+
         title = first_non_empty(fm, ["title", "titel", "name"], md.stem)
         picture = first_non_empty(fm, PICTURE_KEYS, "")
 
         if not picture:
+            # print(f"[WARN] Kein Bildfeld in {md.name} (erwarte: {PICTURE_KEYS}) – skip")
             continue
 
-        # Link zur Seite (Clean URLs)
         link = f"/banner/{md.stem}/"
 
         items.append({
@@ -96,16 +104,12 @@ def collect_items(banner_dir: Path) -> list[dict]:
             "file": md.name,
         })
 
-    # nach nummer DESC sortieren (größte oben)
-    items.sort(key=lambda x: x["nummer"], reverse=True)
+    # numerisch sortieren (DESC)
+    items.sort(key=lambda x: int(x["nummer"]), reverse=True)
     return items
 
 
 def render_single_column_md(items: list[dict]) -> str:
-    """
-    Rendert eine **einspaltige** Galerie.
-    Nutzt Inline-Styles, um Theme-Grids/Flex zu übersteuern.
-    """
     lines = []
     lines.append("---")
     lines.append('title: "Banner Galerie"')
@@ -113,13 +117,10 @@ def render_single_column_md(items: list[dict]) -> str:
     lines.append("")
     lines.append("# Banner Galerie")
     lines.append("")
-
-    # Container explizit block-level, volle Breite
     lines.append('<div class="banner-gallery-onecol" style="display:block;width:100%;max-width:1000px;margin:0 auto;">')
 
     for it in items:
         alt = f"#{it['nummer']} — {it['title']}"
-        # Jede Karte ist block-level und räumt Floats/Flex
         lines.append(
             '<div class="banner-item" '
             'style="display:block;width:100%;clear:both;margin:0 0 20px 0;">'
@@ -128,9 +129,7 @@ def render_single_column_md(items: list[dict]) -> str:
             f'  <a href="{it["link"]}" '
             'style="display:block;width:100%;text-decoration:none;border:0;outline:0;">'
         )
-        # Figure ebenfalls block-level
         lines.append('    <figure style="display:block;width:100%;margin:0;">')
-        # Bild: block, 100% Breite, lazy + async
         lines.append(
             '      <img src="{src}" alt="{alt}" loading="lazy" decoding="async" '
             'style="display:block;width:100%;height:auto;border-radius:10px;"/>'
