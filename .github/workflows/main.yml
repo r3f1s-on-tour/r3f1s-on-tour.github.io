@@ -93,7 +93,8 @@ jobs:
           python scripts/make_banner_gallery.py \
             --root docs \
             --banner_dir banner \
-            --outfile gallery.md
+            --outfile gallery.md \
+            --verbose
 
       # optionales Zusatzfile
       - name: Generate banner stats (optional)
