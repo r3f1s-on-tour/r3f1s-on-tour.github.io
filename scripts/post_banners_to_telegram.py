@@ -272,8 +272,8 @@ def main():
     ap.add_argument("--sleep-seconds", type=int, default=5, help="Wartezeit zwischen Posts.")
     ap.add_argument("--caption-template-file", default="templates/tg_caption_template.txt",
                     help="Pfad zur Template-Datei (Default: templates/tg_caption_template.txt).")
-    ap.add_argument("--max-posts", type=int, default=int(os.getenv("MAX_POSTS", "5")),
-                    help="Maximale Anzahl an Posts pro Lauf (Default 5; Env MAX_POSTS).")
+    ap.add_argument("--max-posts", type=int, default=int(os.getenv("MAX_POSTS", "1000")),
+                    help="Maximale Anzahl an Posts pro Lauf (Default 1000; Env MAX_POSTS).")
     ap.add_argument("--base-url", default=os.getenv("BASE_SITE_URL", "https://r3f1s-on-tour.github.io/banner/"),
                     help="Basis-URL zur Seitenerzeugung (Default env BASE_SITE_URL oder feste Standard-URL).")
     ap.add_argument("--posted-file", default="data/posted.yml", help="Pfad zur Tracking-Datei (Default: data/posted.yml).")
