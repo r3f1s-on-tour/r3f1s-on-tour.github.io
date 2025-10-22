@@ -1,35 +1,27 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Poste Banner-Markdowns als Telegram-Fotoposts – ausschließlich gesteuert über eine persistente Post-Liste.
+Poste Banner-Markdowns als Telegram-Fotoposts – gesteuert über data/posted.yml.
+
+Fixes/Neu:
+- Default-Template-Pfad: template/tg_caption_template.txt (Singular, wie gewünscht)
+- Fallback-Template verlinkt die interne Seite (nicht Bannergress)
+- Optional: --prefer-bannergress (Default: False). Standard ist interner Link.
 
 Kerneigenschaften:
 - Persistente Tracking-Datei: data/posted.yml
-  - Struktur: posted: [ "<slug1>", "<slug2>", ... ]  (Slug = Dateiname ohne .md)
-  - Banner, deren Slug bereits gelistet ist, werden NICHT erneut gepostet.
-  - Nach erfolgreichem Post wird der Slug hinzugefügt und Datei sofort gespeichert.
-
-- Frontmatter wird NICHT mehr aktualisiert (kein tg_posted etc.).
-- Template aus Datei: templates/tg_caption_template.txt (override via --caption-template-file)
-- Hyperlinks in Caption (HTML parse_mode), inkl. Bannergress-Link, sonst Fallback auf interne Seite.
-- Limit: max. N Posts pro Lauf (--max-posts, Default 5; Env MAX_POSTS)
-- 5 Sekunden Pause zwischen Posts (konfigurierbar).
-- Sortierung nach 'number/nummer/num' (numerisch), dann lexikografisch.
+  posted: [ "<slug1>", "<slug2>", ... ]  (Slug = Dateiname ohne .md)
+  -> Slugs in posted.yml werden nicht erneut gepostet.
+- Keine Frontmatter-Updates.
+- Sortierung nach number/nummer/num (numerisch), dann lexikografisch.
+- Rate-Limit: Sleep zwischen Posts (Default 5s).
+- Limit: --max-posts (Default 5; Env MAX_POSTS)
 
 ENV:
-- TELEGRAM_BOT_TOKEN  (z. B. 1234567890:AA... )
-- TELEGRAM_CHAT_ID    (z. B. -1001234567890 oder @DeinChannel)
-- MAX_POSTS           (optional)
-- BASE_SITE_URL       (optional, Default https://r3f1s-on-tour.github.io/banner/)
-
-Template-Beispiel (templates/tg_caption_template.txt):
-<b>{title}</b>
-
-<b>Banner-Nr:</b> {banner}
-<b>Unique Mission Completed:</b> {completed} (+{missions})
-<b>Place:</b> {region},{country}
-
-<a href="{link}">Link</a>
+- TELEGRAM_BOT_TOKEN
+- TELEGRAM_CHAT_ID            (numerisch oder @ChannelName)
+- MAX_POSTS (optional)
+- BASE_SITE_URL (optional, Default https://r3f1s-on-tour.github.io/banner/)
 """
 
 import argparse
@@ -44,13 +36,13 @@ import yaml
 FRONTMATTER_RE = re.compile(r"^---\s*\n(.*?)\n---\s*\n?", re.DOTALL)
 TELEGRAM_CAPTION_MAX = 1024
 
-# Fallback-Template nur wenn Datei fehlt/leer
+# Fallback-Template: verlinkt die interne Seite
 FALLBACK_TEMPLATE = (
     "<b>{title}</b>\n\n"
     "<b>Banner-Nr:</b> {banner}\n"
     "<b>Unique Mission Completed:</b> {completed} (+{missions})\n"
     "<b>Place:</b> {region},{country}\n\n"
-    "{link_html}"
+    '<a href="{link}">Link</a>'
 ).strip()
 
 
@@ -69,9 +61,6 @@ def dump_text(path: str, text: str) -> None:
 # ---------- Markdown Frontmatter ----------
 
 def parse_frontmatter(md_text: str) -> Tuple[Dict[str, Any], str, bool]:
-    """
-    Liefert (frontmatter, body, has_frontmatter).
-    """
     m = FRONTMATTER_RE.match(md_text)
     if not m:
         return {}, md_text, False
@@ -133,12 +122,6 @@ def compute_link_for_path(path: str, base_url: str) -> str:
 # ---------- Posted-Tracking ----------
 
 def load_posted_set(posted_file: str) -> Set[str]:
-    """
-    Lädt data/posted.yml mit Struktur:
-    posted:
-      - slug1
-      - slug2
-    """
     if not os.path.exists(posted_file):
         return set()
     try:
@@ -158,11 +141,12 @@ def save_posted_set(posted_file: str, posted_slugs: Set[str]) -> None:
 
 # ---------- Caption-Erzeugung ----------
 
-def build_caption(fm: Dict[str, Any], body: str, template: str, link: str) -> str:
+def build_caption(fm: Dict[str, Any], body: str, template: str, link: str, prefer_bannergress: bool) -> str:
     """
-    Unterstützt im Template u.a.:
-    {title}, {banner}, {completed}, {missions}, {region}, {country}, {link}
-    weitere: {date}, {lengthKMeters}/{distance}, {description}, {link_html}, {body}
+    Unterstützte Platzhalter:
+      {title}, {banner}, {completed}, {missions}, {region}, {country}, {link}
+    Zusatz: {date}, {lengthKMeters}/{distance}, {description}, {bg-link}, {body}
+    Hinweis: Template steuert, ob {link} oder eigener <a>-Tag genutzt wird.
     """
     def get(*keys: str, default: str = "") -> str:
         for k in keys:
@@ -184,11 +168,8 @@ def build_caption(fm: Dict[str, Any], body: str, template: str, link: str) -> st
     description = get("description")
     bg_link = get("bg-link", "link")
 
-    # Link HTML: bevorzugt Bannergress
-    if bg_link:
-        link_html = f'<a href="{bg_link}">Open in Bannergress</a>'
-    else:
-        link_html = f'<a href="{link}">Open details</a>'
+    # Link-Ziel bestimmen (Standard: interne Seite)
+    link_target = bg_link if (prefer_bannergress and bg_link) else link
 
     class _SafeDict(dict):
         def __missing__(self, key): return ""
@@ -200,19 +181,18 @@ def build_caption(fm: Dict[str, Any], body: str, template: str, link: str) -> st
         "missions": missions,
         "region": region,
         "country": country,
-        "link": link,
+        "link": link_target,    # ← wichtig: {link} zeigt auf gewünschtes Ziel
         "date": date,
         "lengthKMeters": distance,
         "distance": distance,
         "description": description,
         "bg-link": bg_link,
-        "link_html": link_html,
         "body": (body or "").strip(),
     })
 
     raw = template.format_map(mapping)
     escaped = html_escape(raw)
-    # <b>, <i>, <a> zulassen
+    # HTML erlauben (b, i, a)
     escaped = (escaped
                .replace("&lt;b&gt;", "<b>").replace("&lt;/b&gt;", "</b>")
                .replace("&lt;i&gt;", "<i>").replace("&lt;/i&gt;", "</i>")
@@ -243,7 +223,8 @@ def send_telegram_photo(token: str, chat_id: str, photo_url: str, caption_html: 
 # ---------- Verarbeiten einer Datei ----------
 
 def process_file(path: str, slug: str, token: str, chat_id: str,
-                 template: str, base_url: str, dry_run: bool=False) -> bool:
+                 template: str, base_url: str, prefer_bannergress: bool,
+                 dry_run: bool=False) -> bool:
     text = load_text(path)
     fm, body, _ = parse_frontmatter(text)
 
@@ -253,7 +234,7 @@ def process_file(path: str, slug: str, token: str, chat_id: str,
         return False
 
     link = compute_link_for_path(path, base_url)
-    caption = build_caption(fm, body, template, link)
+    caption = build_caption(fm, body, template, link, prefer_bannergress)
 
     if dry_run:
         print(f"[DRY] Würde posten: {os.path.basename(path)} -> {photo_url} | {link}")
@@ -267,17 +248,21 @@ def process_file(path: str, slug: str, token: str, chat_id: str,
 # ---------- main ----------
 
 def main():
-    ap = argparse.ArgumentParser(description="Poste ungepostete Banner-Markdowns zu Telegram (mit persistenter posted.yml, ohne Frontmatter-Änderungen).")
+    ap = argparse.ArgumentParser(description="Poste Banner-Markdowns zu Telegram (posted.yml, kein Frontmatter).", allow_abbrev=False)
     ap.add_argument("--glob", default="docs/banner/*.md", help="Glob-Pattern der Markdown-Dateien.")
     ap.add_argument("--sleep-seconds", type=int, default=5, help="Wartezeit zwischen Posts.")
-    ap.add_argument("--caption-template-file", default="templates/tg_caption_template.txt",
-                    help="Pfad zur Template-Datei (Default: templates/tg_caption_template.txt).")
-    ap.add_argument("--max-posts", type=int, default=int(os.getenv("MAX_POSTS", "1000")),
-                    help="Maximale Anzahl an Posts pro Lauf (Default 1000; Env MAX_POSTS).")
+    ap.add_argument("--caption-template-file", default="template/tg_caption_template.txt",
+                    help="Pfad zur Template-Datei (Default: template/tg_caption_template.txt).")
+    ap.add_argument("--max-posts", type=int, default=int(os.getenv("MAX_POSTS", "5")),
+                    help="Maximale Anzahl an Posts pro Lauf (Default 5; Env MAX_POSTS).")
     ap.add_argument("--base-url", default=os.getenv("BASE_SITE_URL", "https://r3f1s-on-tour.github.io/banner/"),
                     help="Basis-URL zur Seitenerzeugung (Default env BASE_SITE_URL oder feste Standard-URL).")
     ap.add_argument("--posted-file", default="data/posted.yml", help="Pfad zur Tracking-Datei (Default: data/posted.yml).")
+    ap.add_argument("--prefer-bannergress", action="store_true",
+                    help="Wenn gesetzt, bevorzugt der Link {link} den bg-link der Frontmatter (falls vorhanden).")
     ap.add_argument("--dry-run", action="store_true", help="Nur anzeigen, nicht wirklich posten.")
+    # Rückwärtskompatibel: altes Flag akzeptieren & ignorieren
+    ap.add_argument("--flag-key", default=None, help="(deprecated) Wird ignoriert – Tracking erfolgt über data/posted.yml.")
     args = ap.parse_args()
 
     token = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
@@ -290,7 +275,7 @@ def main():
     try:
         template = load_text(args.caption_template_file).strip()
         if not template:
-            print(f"[WARN] Template-Datei ist leer, nutze Fallback-Template.")
+            print("[WARN] Template-Datei ist leer, nutze Fallback-Template.")
             template = FALLBACK_TEMPLATE
     except Exception as e:
         print(f"[WARN] Konnte Template-Datei nicht laden ({e}), nutze Fallback-Template.")
@@ -318,7 +303,6 @@ def main():
         print("[INFO] Nichts zu posten. Entweder keine Dateien gefunden oder alle in posted.yml enthalten.")
         return
 
-    # Sortierung: numerisch nach Nummer, dann lexikografisch
     candidates.sort(key=lambda t: (t[0], t[1]))
     max_posts = max(0, int(args.max_posts))
 
@@ -336,11 +320,11 @@ def main():
                 chat_id=chat_id,
                 template=template,
                 base_url=args.base_url,
+                prefer_bannergress=args.prefer_bannergress,
                 dry_run=args.dry_run
             )
             if changed and not args.dry_run:
                 posted_slugs.add(slug)
-                # posted.yml sofort fortschreiben (robust bei Abbrüchen)
                 save_posted_set(args.posted_file, posted_slugs)
                 posted_now += 1
         except Exception as e:
@@ -348,7 +332,6 @@ def main():
         if posted_now < max_posts and idx < len(candidates):
             time.sleep(max(0, args.sleep_seconds))
 
-    # Finale Sicherung (idempotent)
     if not args.dry_run:
         save_posted_set(args.posted_file, posted_slugs)
 
