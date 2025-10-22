@@ -42,12 +42,12 @@ IDENTIFIER_RE = re.compile(r"[A-Za-z_][A-Za-z0-9_]*$")
 LAT_KEYS_CANON = [
     "lat","latitude","y","breite","breitengrad","gps_lat","geo_lat",
     "lat_dd","lat_deg","latitude_dd","latitude_deg",
-    "startLatitude",  # <— added
+    "startlatitude",  # added
 ]
 LON_KEYS_CANON = [
     "lon","lng","long","longitude","x","laenge","länge","laengengrad","längengrad",
     "gps_lon","geo_lon","lon_dd","lon_deg","longitude_dd","longitude_deg",
-    "startLongitude", # <— added
+    "startlongitude", # added
 ]
 COMBINED_COORD_KEYS = [
     "coords","coordinates","coordinate","coord","location","geo",
@@ -71,9 +71,11 @@ PROP_MAP = [
 
 # --- Helpers ---
 def jinja_meta(k: str) -> str:
+    """Return safe Jinja access syntax for a frontmatter key."""
     if IDENTIFIER_RE.fullmatch(k):
         return f"page.meta.{k}"
-    return f"page.meta['{k.replace(\"'\",\"\\\\'\")}']"
+    safe = k.replace("'", "\\'")
+    return f"page.meta['{safe}']"
 
 def slugify(value: str) -> str:
     value = value.strip().lower()
@@ -262,11 +264,11 @@ def extract_coords(row: dict, lat_key_pref: Optional[str], lon_key_pref: Optiona
     lat = None; lon = None
     for k in LAT_KEYS_CANON:
         if k in lower:
-            lat = to_float_or_none(lower[k]); 
+            lat = to_float_or_none(lower[k])
             if lat is not None: break
     for k in LON_KEYS_CANON:
         if k in lower:
-            lon = to_float_or_none(lower[k]); 
+            lon = to_float_or_none(lower[k])
             if lon is not None: break
     if lat is not None and lon is not None:
         return lat, lon, ""
@@ -334,6 +336,7 @@ def main():
             raise SystemExit("CSV has no header row. Please include column names.")
 
         for idx, row in enumerate(reader, start=1):
+            # filenames
             num_raw = infer_field(row, ["nummer","number","no","id"]) or str(idx)
             num_padded = format_number_for_filename(num_raw, args.pad_width)
             title = infer_field(row, ["title","titel","name"]) or f"row-{idx}"
@@ -343,6 +346,7 @@ def main():
             filename = f"{num_padded}_{slug}_{date_norm}.md"
             out_path = os.path.join(args.out, filename)
 
+            # frontmatter
             ordered_fields = list(reader.fieldnames)
             frontmatter = {}
             for k in ordered_fields:
@@ -361,6 +365,7 @@ def main():
                 if "date" not in ordered_fields:
                     ordered_fields.append("date")
 
+            # write md
             if os.path.exists(out_path):
                 if args.overwrite:
                     write_markdown(out_path, frontmatter, ordered_fields)
@@ -371,13 +376,14 @@ def main():
                 write_markdown(out_path, frontmatter, ordered_fields)
                 created += 1
 
+            # coords & feature
             lat, lon, reason = extract_coords(row, args.lat_key, args.lon_key)
             if lat is None or lon is None:
                 if args.include-missing-geometry:
                     features.append(build_feature(row, None, None))
                 else:
                     missing_geo += 1
-                    if args.debug_geo and len(debug_samples) < 10:
+                    if args.debug-geo and len(debug_samples) < 10:
                         debug_samples.append({
                             "row": idx,
                             "title": title,
@@ -387,9 +393,11 @@ def main():
                 continue
             features.append(build_feature(row, lat, lon))
 
+    # write geojson
     with open(args.geojson_out, "w", encoding="utf-8") as jf:
         json.dump({"type":"FeatureCollection","features": features}, jf, ensure_ascii=False, indent=4)
 
+    # report
     print(f"✅ Markdown  -> Created: {created}, Overwritten: {overwritten}, Skipped (exists): {skipped}. Out: {os.path.abspath(args.out)}")
     print(f"🗺️ GeoJSON   -> Features: {len(features)} written to: {os.path.abspath(args.geojson_out)}")
     if missing_geo:
