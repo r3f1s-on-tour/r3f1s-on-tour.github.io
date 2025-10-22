@@ -38,13 +38,14 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           MAX_POSTS: ${{ env.MAX_POSTS }}
+          BASE_SITE_URL: ${{ env.BASE_SITE_URL }}
         run: |
           python scripts/post_banners_to_telegram.py \
-            --glob "docs/banner/*.md" \
-            --flag-key "tg_posted" \
-            --caption-template-file "template/tg_caption_template.txt" \
-            --max-posts "${MAX_POSTS}"
-
+          --glob "docs/banner/*.md" \
+          --caption-template-file "templates/tg_caption_template.txt" \
+          --max-posts "${MAX_POSTS}" \
+          --base-url "${BASE_SITE_URL}"
+      
       - name: Commit & push Änderungen (tg_posted + posted.yml)
         run: |
           git config user.name "github-actions[bot]"
