@@ -42,7 +42,7 @@ jobs:
         run: |
           python scripts/post_banners_to_telegram.py \
           --glob "docs/banner/*.md" \
-          --caption-template-file "templates/tg_caption_template.txt" \
+          --caption-template-file "template/tg_caption_template.txt" \
           --max-posts "${MAX_POSTS}" \
           --base-url "${BASE_SITE_URL}"
       
