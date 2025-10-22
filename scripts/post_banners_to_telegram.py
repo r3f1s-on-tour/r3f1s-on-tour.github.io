@@ -7,17 +7,18 @@ Highlights:
 - Persistente Tracking-Datei: data/posted.yml (posted: [ "<slug>", ... ])
 - Keine Frontmatter-Updates.
 - Template: template/tg_caption_template.txt (override via --caption-template-file)
-- Klickbare Links bleiben erhalten:
-  * Nur Text-Platzhalter werden HTML-escaped, NICHT das gesamte Template.
-  * {link} wird NICHT escaped (raw in href).
-  * Caption-Limit wird ausschließlich über Kürzen von {description} eingehalten (keine Tag-Zerstörung).
-- Sortierung: number/nummer/num (numerisch), dann lexikografisch.
-- Limit: --max-posts (Default 5) und Sleep: --sleep-seconds (Default 5).
-- Optional: --prefer-bannergress (Standard: False -> deine Website hat Vorrang)
+- Klickbare Links:
+  * Template enthält z. B. <a href="{link}">Link</a>
+  * {link} wird HTML-ATTRIBUT-sicher eingesetzt (href-konform: & -> &amp;, " -> &quot;, <, >, ')
+  * Keine globale Escapes -> <a> bleibt erhalten
+  * Nur {description} wird ggf. gekürzt (Tags bleiben unberührt)
+- Sortierung: number/nummer/num (numerisch), dann lexikografisch
+- Limit: --max-posts (Default 5), Sleep: --sleep-seconds (Default 5)
+- Optional: --prefer-bannergress (Standard False -> deine Website hat Vorrang)
 
 ENV:
 - TELEGRAM_BOT_TOKEN
-- TELEGRAM_CHAT_ID            (numerisch oder @ChannelName)
+- TELEGRAM_CHAT_ID
 - MAX_POSTS (optional)
 - BASE_SITE_URL (optional, Default https://r3f1s-on-tour.github.io/banner/)
 """
@@ -74,8 +75,19 @@ def parse_frontmatter(md_text: str) -> Tuple[Dict[str, Any], str, bool]:
 
 # ---------- Utilities ----------
 
-def html_escape(s: str) -> str:
+def html_text_escape(s: str) -> str:
+    """Escape für Textknoten (sichtbarer Text)."""
     return (s or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+def html_attr_escape(s: str) -> str:
+    """Escape für HTML-Attribute (z. B. href="...")."""
+    s = s or ""
+    s = s.replace("&", "&amp;")
+    s = s.replace('"', "&quot;")
+    s = s.replace("<", "&lt;")
+    s = s.replace(">", "&gt;")
+    s = s.replace("'", "&#39;")
+    return s
 
 def first_non_empty(*vals):
     for v in vals:
@@ -136,13 +148,13 @@ def save_posted_set(posted_file: str, posted_slugs: Set[str]) -> None:
     dump_text(posted_file, yaml.safe_dump(payload, sort_keys=False, allow_unicode=True))
 
 
-# ---------- Caption-Erzeugung (Links sicher & klickbar) ----------
+# ---------- Caption-Erzeugung (Hyperlink sicher & klickbar) ----------
 
 def build_caption(fm: Dict[str, Any], body: str, template: str, link: str, prefer_bannergress: bool) -> str:
     """
-    - Template bleibt unverändert (enthält z.B. <a href="{link}">Link</a>).
-    - Platzhalter-Texte werden einzeln HTML-escaped eingesetzt.
-    - {link} wird RAW eingesetzt (nicht escaped), damit href exakt ist.
+    - Template bleibt unverändert (enthält <a href="{link}">…</a>).
+    - Text-Platzhalter einzeln escapen (html_text_escape).
+    - {link} für href-Attribut escapen (html_attr_escape), damit Telegram ihn akzeptiert.
     - Länge wird ausschließlich über Kürzen von {description} eingehalten.
     """
     def get(*keys: str, default: str = "") -> str:
@@ -168,46 +180,43 @@ def build_caption(fm: Dict[str, Any], body: str, template: str, link: str, prefe
 
     # Linkziel (Standard: interne Seite)
     link_target = bg_link_raw if (prefer_bannergress and bg_link_raw) else link
-    # basic guard
     if not (link_target.startswith("http://") or link_target.startswith("https://")):
-        # falls versehentlich ohne Schema übergeben wurde
         link_target = "https://" + link_target.lstrip("/")
 
-    # Platzhalter-Werte escapen (nur Texte!)
-    esc = html_escape
-    mapping = {
-        "title": esc(title_raw),
-        "banner": esc(banner_raw),
-        "completed": esc(completed_raw),
-        "missions": esc(missions_raw),
-        "region": esc(region_raw),
-        "country": esc(country_raw),
-        "date": esc(date_raw),
-        "lengthKMeters": esc(distance_raw),
-        "distance": esc(distance_raw),
-        "description": esc(desc_raw),
-        "bg-link": esc(bg_link_raw),
-        "body": esc((body or "").strip()),
-        # Link absichtlich NICHT escapen:
-        "link": link_target,
+    # Escaping
+    T = html_text_escape
+    mapping_base = {
+        "title": T(title_raw),
+        "banner": T(banner_raw),
+        "completed": T(completed_raw),
+        "missions": T(missions_raw),
+        "region": T(region_raw),
+        "country": T(country_raw),
+        "date": T(date_raw),
+        "lengthKMeters": T(distance_raw),
+        "distance": T(distance_raw),
+        "description": T(desc_raw),
+        "bg-link": T(bg_link_raw),
+        "body": T((body or "").strip()),
+        # WICHTIG: href-Attribut-sicher
+        "link": html_attr_escape(link_target),
     }
 
     class _SafeDict(dict):
         def __missing__(self, key): return ""
 
-    # Fit-Schleife: kürze nur description, niemals global hart abschneiden.
-    # Start mit voller description:
-    description = mapping["description"]
+    # Fit-Schleife: kürze nur description, niemals hart am Ende abschneiden
+    description = mapping_base["description"]
     while True:
+        mapping = dict(mapping_base)
         mapping["description"] = description
         rendered = template.format_map(_SafeDict(mapping))
         if len(rendered) <= TELEGRAM_CAPTION_MAX:
             return rendered
         if not description:
-            # Nichts mehr zu kürzen -> als letzte Notbremse: return stark verkürzt,
-            # aber OHNE den <a>-Tag zu beschädigen → wir entfernen nur die description komplett.
+            # keine Beschreibung mehr -> fertig
             return template.format_map(_SafeDict({**mapping, "description": ""}))
-        # heuristisch 10% der verbleibenden Länge kürzen (mind. 8 Zeichen)
+        # heuristisch: 10% kürzen (min. 8 Zeichen)
         cut = max(8, int(len(description) * 0.10))
         description = description[:-cut]
 
