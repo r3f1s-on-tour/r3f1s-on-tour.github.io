@@ -4,4 +4,4 @@
 <b>Unique Mission Completed:</b> {completed} (+{missions})
 <b>Place:</b> {region},{country}
 
-Link
+<a href="{link}">Link</a>
