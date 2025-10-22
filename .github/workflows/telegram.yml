@@ -45,8 +45,7 @@ jobs:
           --glob "docs/banner/*.md" \
           --caption-template-file "template/tg_caption_template.txt" \
           --max-posts "${MAX_POSTS}" \
-          --base-url "${BASE_SITE_URL}" \
-          --dry-run
+          --base-url "${BASE_SITE_URL}"
       
       - name: Commit & push Änderungen (tg_posted + posted.yml)
         run: |
