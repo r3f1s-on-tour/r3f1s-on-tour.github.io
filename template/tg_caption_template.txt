@@ -2,6 +2,6 @@
 
 <b>Banner-Nr:</b> {banner}
 <b>Unique Mission Completed:</b> {completed} (+{missions})
-<b>Place:</b> {region},{country}
+<b>Place:</b> {region}, {country}
 
 <a href="{link}">Link</a>
