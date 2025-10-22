@@ -1,0 +1,308 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 608,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26153,
+                    53.561118
+                ]
+            },
+            "properties": {
+                "nummer": 608,
+                "title": "Frog in Town",
+                "picture": "https://api.bannergress.com/bnrs/pictures/0a27d17245c76e3b9a6a3e4090e90561",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 13,
+                "missions": 24,
+                "date": 2025,
+                "bg_link": "https://bannergress.com/banner/frog-in-town-853e",
+                "description": "Erkundige auf dem Weg durch Neubrandenburg das Zentrum der Vier-Tore-Stadt Neubrandenburg insbesondere mit den 4 Toren mit norddeutscher Backsteingotik und den vielen unterschiedlichen Wiekhäusern.",
+                "length_km": 4.518
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 609,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.261756,
+                    53.561402
+                ]
+            },
+            "properties": {
+                "nummer": 609,
+                "title": "Marx is calling you - Neubrandenburg",
+                "picture": "https://api.bannergress.com/bnrs/pictures/6b0ad5ccfffd041be5a78ec6f05071c3",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 13,
+                "missions": 6,
+                "date": 2025,
+                "bg_link": "https://bannergress.com/banner/marx-is-calling-you-neubrandenburg-459a",
+                "description": "\"+Theta Chemnitz is coming! Explore a city in transformation from industrial heritage and stunning architecture to cultural diversity. As ECoC 2025, Chemnitz invites you to C the Unseen!\"",
+                "length_km": 1.366
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 610,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.259266,
+                    53.561265
+                ]
+            },
+            "properties": {
+                "nummer": 610,
+                "title": "Playing Frogs NB",
+                "picture": "https://api.bannergress.com/bnrs/pictures/38c1dd490e87d10690357af83dccbb59",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 13,
+                "missions": 24,
+                "date": 2025,
+                "bg_link": "https://bannergress.com/banner/playing-frogs-nb-2fed",
+                "description": "Diese Missionen führen entlang des Strandbads Brodas und dem Kulturpark von Neubrandenburg. Entdecke dabei auch die zahlreichen Skulpturen im Kulturpark.",
+                "length_km": 6.965
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 611,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.259994,
+                    53.561425
+                ]
+            },
+            "properties": {
+                "nummer": 611,
+                "title": "Marx is calling you - Neubrandenburg",
+                "picture": "https://api.bannergress.com/bnrs/pictures/f31d45d0a261a1a3a1847eb5ec194cf4",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 13,
+                "missions": 48,
+                "date": 2025,
+                "bg_link": "https://bannergress.com/banner/marx-is-calling-you-neubrandenburg-2205",
+                "description": "Theta Chemnitz is coming! Explore a city in transformation from industrial heritage and stunning architecture to cultural diversity. As ECoC 2025, Chemnitz invites you to C the Unseen!",
+                "length_km": 11.0
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 612,
+            "geometry": null,
+            "properties": {
+                "nummer": 612,
+                "title": "Marx is calling you - Berlin",
+                "picture": "https://api.bannergress.com/bnrs/pictures/b4febc4fc81e9a74a0a8f4477b56ed56",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 13,
+                "missions": 6,
+                "date": 2025,
+                "bg_link": "https://bannergress.com/banner/marx-is-calling-you-berlin-6c02"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 613,
+            "geometry": null,
+            "properties": {
+                "nummer": 613,
+                "title": "Łowicz-Muster Tour in der Oranienburger Straße",
+                "picture": "https://api.bannergress.com/bnrs/pictures/4eb320933eceae6520fde68d35d23d05",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 13,
+                "missions": 6,
+                "date": 2025,
+                "bg_link": "https://bannergress.com/banner/%C5%82owicz-muster-tour-in-der-oranienburger-stra%C3%9Fe-75f1",
+                "length_km": 1.6
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 614,
+            "geometry": null,
+            "properties": {
+                "nummer": 614,
+                "title": "Wrocławska akwarela",
+                "picture": "https://api.bannergress.com/bnrs/pictures/3d3813d1331c65663189a5e5a17636a9",
+                "region": "Wroclaw",
+                "country": "Polska",
+                "completed": 13,
+                "missions": 18,
+                "date": 2025,
+                "bg_link": "https://bannergress.com/banner/wroc%C5%82awska-akwarela-6252"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 615,
+            "geometry": null,
+            "properties": {
+                "nummer": 615,
+                "title": "Warszawska akwarela",
+                "picture": "https://api.bannergress.com/bnrs/pictures/abbc5fb6e3bb5ec11ded7cf9b51c22aa",
+                "region": "Warsaw",
+                "country": "Polska",
+                "completed": 13,
+                "missions": 12,
+                "date": 2025,
+                "bg_link": "https://bannergress.com/banner/warszawska-akwarela-f77f"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 616,
+            "geometry": null,
+            "properties": {
+                "nummer": 616,
+                "title": "Torun skyline",
+                "picture": "https://api.bannergress.com/bnrs/pictures/d1413bb121e5d1d037822169d6c692b5",
+                "region": "Torun",
+                "country": "Polska",
+                "completed": 13,
+                "missions": 18,
+                "date": 2025,
+                "bg_link": "https://bannergress.com/banner/torun-skyline-15f3",
+                "length_km": 3.7
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 617,
+            "geometry": null,
+            "properties": {
+                "nummer": 617,
+                "title": "Watercolor Gdynia",
+                "picture": "https://api.bannergress.com/bnrs/pictures/eee051ad9c7e48a747300f104a5ef880",
+                "region": "Gdynia",
+                "country": "Polska",
+                "completed": 13,
+                "missions": 18,
+                "date": 2025,
+                "bg_link": "https://bannergress.com/banner/watercolor-gdynia-2799"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 618,
+            "geometry": null,
+            "properties": {
+                "nummer": 618,
+                "title": "Aquarelle Gdansk",
+                "picture": "https://api.bannergress.com/bnrs/pictures/ec7c1f87079942aabcfc16d660f09708",
+                "region": "Gdansk",
+                "country": "Polska",
+                "completed": 13,
+                "missions": 12,
+                "date": 2025,
+                "bg_link": "https://bannergress.com/banner/aquarelle-gdansk-a640"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 619,
+            "geometry": null,
+            "properties": {
+                "nummer": 619,
+                "title": "Łowicz-Muster Tour in Szczecin",
+                "picture": "https://api.bannergress.com/bnrs/pictures/20d5ac49d45afb2407fdb2b5f81576b0",
+                "region": "Szczecin",
+                "country": "Polska",
+                "completed": 13,
+                "missions": 6,
+                "date": 2025,
+                "bg_link": "https://bannergress.com/banner/%C5%82owicz-muster-tour-in-der-oranienburger-stra%C3%9Fe-75f1",
+                "length_km": 1.3
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 620,
+            "geometry": null,
+            "properties": {
+                "nummer": 620,
+                "title": "MD Chemnitz",
+                "region": "Chemnitz",
+                "country": "Deutschland",
+                "completed": 13,
+                "missions": 6,
+                "date": 2025
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 621,
+            "geometry": null,
+            "properties": {
+                "nummer": 621,
+                "title": "MD Cambridge",
+                "region": "Cambridge",
+                "country": "Großbritannien",
+                "completed": 13,
+                "missions": 12,
+                "date": 2025
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 622,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.259994,
+                    53.561425
+                ]
+            },
+            "properties": {
+                "nummer": 622,
+                "title": "Stadtmauer in Neubrandenburg",
+                "picture": "https://api.bannergress.com/bnrs/pictures/a3e4a93dea7c3b00d11dfa7c64c2d3d2",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 13386,
+                "missions": 48,
+                "date": 2025,
+                "bg_link": "https://bannergress.com/banner/stadtmauer-in-neubrandenburg-db62",
+                "description": "Entdecke bei diesen Missionen insbesondere auch die Stadtmauer von Neubrandenburg. Sie wurde im 13. und 14. Jahrhundert gebaut. Sie ist die besterhaltene Stadtbefestigung der Backsteingotik in Europa.",
+                "length_km": 11.186
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 623,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.497454,
+                    52.50885
+                ]
+            },
+            "properties": {
+                "nummer": 623,
+                "title": "ShibaInu",
+                "picture": "https://lh3.googleusercontent.com/pw/AP1GczOowgutNnLj6jCuIzIUV1UDldcbPlNZ_S-BOct0AtoHJz29uvMCprzDnzQShZILOSdac21mF1bg2DnnRSTgj7JMKLvxRiCx5OKqL2WdSDcYtpGBGteeT1oIfaznmpHYu249NGYgeise1vnczp8HJqeCRw",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 13578,
+                "missions": 6,
+                "date": 2025,
+                "bg_link": "https://bannergress.com/banner/shibainu-a8c9",
+                "description": "Zum 2nd Sunday führt Dich diese kurze Mission durch den Weitlingkiez von Lichtenberg. Start und Endpunkt sind U+S Lichtenberg",
+                "length_km": 2.097
+            }
+        }
+    ]
+}

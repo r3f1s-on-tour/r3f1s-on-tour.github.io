@@ -1,0 +1,935 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 217,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.508236,
+                    48.178814
+                ]
+            },
+            "properties": {
+                "nummer": 217,
+                "title": "Tardis",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 5280,
+                "missions": 36,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/tardis-05f2",
+                "description": "Tour rund um Moosach",
+                "length_km": 21.72
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 218,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.537464,
+                    48.169637
+                ]
+            },
+            "properties": {
+                "nummer": 218,
+                "title": "Regenbogen",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 5286,
+                "missions": 6,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/regenbogen-06ad",
+                "description": "Ein kleiner Regenbogen in der Borstei",
+                "length_km": 1.87
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 219,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.532975,
+                    48.153421
+                ]
+            },
+            "properties": {
+                "nummer": 219,
+                "title": "60 J. Smurfs",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 5304,
+                "missions": 18,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/60-j-smurfs-12b7",
+                "description": "Anlässlich des 60. Geburtstages der Schlümpfe eine Tour vom Rotkreuzplatz zum Königsplatz\ndie Schlümpfe sind von mir selbst fotografiert und stammen aus meiner Sammlung",
+                "length_km": 5.35
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 220,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.049646,
+                    47.804923
+                ]
+            },
+            "properties": {
+                "nummer": 220,
+                "title": "Salzburg City Panorama",
+                "region": "Salzburg",
+                "country": "Österreich",
+                "completed": 5322,
+                "missions": 18,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/salzburg-city-panorama-a104",
+                "description": "Salzburg City Panorama",
+                "length_km": 4.19
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 221,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.046262,
+                    47.79624
+                ]
+            },
+            "properties": {
+                "nummer": 221,
+                "title": "Festung Hohensalzburg",
+                "region": "Salzburg",
+                "country": "Österreich",
+                "completed": 5340,
+                "missions": 18,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/festung-hohensalzburg-92bb",
+                "description": "Über der Stadt Salzburg ragt ihr Wahrzeichen, die Festung Hohensalzburg, die zu den größten Burgen Europas zählt.",
+                "length_km": 4.2
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 222,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.786818,
+                    48.099256
+                ]
+            },
+            "properties": {
+                "nummer": 222,
+                "title": "Nyan Cat",
+                "region": "Vaterstetten",
+                "country": "Deutschland",
+                "completed": 5346,
+                "missions": 6,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/nyan-cat-50ed",
+                "description": "Folge der Cat durch die Gemeinde Vaterstetten.",
+                "length_km": 3.74
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 223,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5628643,
+                    48.1363204
+                ]
+            },
+            "properties": {
+                "nummer": 223,
+                "title": "Raute Blau Weiß 1",
+                "region": "Vaterstetten",
+                "country": "Deutschland",
+                "completed": 5352,
+                "missions": 6,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/raute-blau-wei%C3%9F-teil-i-8b53"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 224,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.549709,
+                    48.135901
+                ]
+            },
+            "properties": {
+                "nummer": 224,
+                "title": "Das Große Wiesn Mosaik Teil 1",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 5400,
+                "missions": 48,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/wiesn-teil-1-d1d4",
+                "description": "Teil 1 der großen Wiesnreihe. Start und Ende an der Theresienwiese. Hälfte der Strecke an der Münchner Freiheit. Viel Spaß",
+                "length_km": 21.0
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 225,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5474184,
+                    48.1354439
+                ]
+            },
+            "properties": {
+                "nummer": 225,
+                "title": "Raute Blau Weiß 2",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 5406,
+                "missions": 6,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/raute-blau-wei%C3%9F-teil-ii-63f0"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 226,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.545971,
+                    48.130672
+                ]
+            },
+            "properties": {
+                "nummer": 226,
+                "title": "Das Große Wiesn Mosaik Teil 2",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 5454,
+                "missions": 48,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/wiesn-teil-2-166f",
+                "description": "Teil 2 der großen Wiesnreihe. Start und Ende an der Theresienwiese. Hälfte ist am Tierpark Hellabrunn. Viel Spaß",
+                "length_km": 26.0
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 227,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.553859,
+                    48.132192
+                ]
+            },
+            "properties": {
+                "nummer": 227,
+                "title": "Das Große Wiesn Mosaik Teil 3",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 5484,
+                "missions": 30,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/wiesn-teil-3-1df2",
+                "description": "Teil 3 der großen Wiesnreihe. Start und Ende an der Theresienwiese. Hälfte ist in Steinhauaen Viel Spaß",
+                "length_km": 34.0
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 228,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.076174,
+                    49.454335
+                ]
+            },
+            "properties": {
+                "nummer": 228,
+                "title": "MD 2019: Nuremberg",
+                "region": "Nürnberg",
+                "country": "Deutschland",
+                "completed": 5490,
+                "missions": 6,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/md-2019-nuremberg-71a2",
+                "description": "Mission Day 2019: Nuremberg",
+                "length_km": 20.13
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 229,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.446667,
+                    52.526759
+                ]
+            },
+            "properties": {
+                "nummer": 229,
+                "title": "TARDIS",
+                "picture": "https://api.bannergress.com/bnrs/pictures/dc7d3445b57be9a74b136e35a7fcaad4",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 5508,
+                "missions": 18,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/tardis-17f3",
+                "description": "Spaziergang durch Friedrichshain",
+                "length_km": 8.81
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 230,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.412645,
+                    52.5476532
+                ]
+            },
+            "properties": {
+                "nummer": 230,
+                "title": "Joke Eyes",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 5514,
+                "missions": 6,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/jokeeyes-6b2e"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 231,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4141899,
+                    52.5475488
+                ]
+            },
+            "properties": {
+                "nummer": 231,
+                "title": "Harley Eyes",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 5520,
+                "missions": 6,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/harleyeyes-af8b"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 232,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.414741,
+                    52.549385
+                ]
+            },
+            "properties": {
+                "nummer": 232,
+                "title": "LSD",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 5538,
+                "missions": 18,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/lsd-7b5d",
+                "description": "LSD is for Lychner / Schliemann / Dunkerstr which are all in the center of this Neighborhood. This mission start S+U Schoenhauser Allee, end is on U Eberswalder Str",
+                "length_km": 4.72
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 233,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.405519,
+                    52.551004
+                ]
+            },
+            "properties": {
+                "nummer": 233,
+                "title": "WipEout",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 5544,
+                "missions": 6,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/wipeout-c304",
+                "description": "Famous area of Brunnenviertel along the train tracks. A short walk with lots of nice small places to see.",
+                "length_km": 2.01
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 234,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4137145,
+                    52.5475456
+                ]
+            },
+            "properties": {
+                "nummer": 234,
+                "title": "Bat Art",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 5556,
+                "missions": 12,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/bat-art-a39a"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 235,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.617863,
+                    53.387211
+                ]
+            },
+            "properties": {
+                "nummer": 235,
+                "title": "Pandion haliaetus",
+                "region": "Röbel/Müritz",
+                "country": "Deutschland",
+                "completed": 5568,
+                "missions": 12,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/pandion-haliaetus-98d7",
+                "description": "Die Missionsreihe führt durch Röbel. Anfang und Ende befinden sich am Müritzufer. Die ersten Portale werden zum Schluss der Reihe nochmals besucht.",
+                "length_km": 8.9
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 236,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.576208,
+                    48.137238
+                ]
+            },
+            "properties": {
+                "nummer": 236,
+                "title": "Hard-won",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 5610,
+                "missions": 42,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/hard-won-8a20",
+                "description": "Battle through the capital of Bavaria and gain a beautiful banner for your great effort.",
+                "length_km": 5.48
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 237,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9635017,
+                    48.0454362
+                ]
+            },
+            "properties": {
+                "nummer": 237,
+                "title": "Panda",
+                "region": "Grafing bei München",
+                "country": "Deutschland",
+                "completed": 5676,
+                "missions": 66,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/panda-5ce5",
+                "description": "Diese Mission führt durch die Städte Grafing und Ebersberg und zum Aussichtsturm Ebersberg. Zu den Orten fährt man am besten mit dem Auto, aber die einzelnen Missionen sollte man zu Fuß erledigen.",
+                "length_km": 23.12
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 238,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5754485,
+                    48.1373932
+                ]
+            },
+            "properties": {
+                "nummer": 238,
+                "title": "Watercolor Munich",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 5694,
+                "missions": 18,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/watercolor-munich-9d80",
+                "description": "Quick walk through Munich city. Start/End Marienplatz.",
+                "length_km": 2.1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 239,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4195426,
+                    52.526072
+                ]
+            },
+            "properties": {
+                "nummer": 239,
+                "title": "NCC-1701",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 5706,
+                "missions": 12,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/ncc-1701-d0c3",
+                "description": "Dringe vor in die unbekannten Weiten und Tiefen von Lichtenberg und Treptow.Hack only",
+                "length_km": 8.58
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 240,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.47763,
+                    52.513614
+                ]
+            },
+            "properties": {
+                "nummer": 240,
+                "title": "Voyager",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 5718,
+                "missions": 12,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/voyager-e0e1",
+                "description": "visit & explore the North of Friedrichshain - Hack only",
+                "length_km": 9.44
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 241,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.333593,
+                    52.506712
+                ]
+            },
+            "properties": {
+                "nummer": 241,
+                "title": "Upper West",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 5772,
+                "missions": 54,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/upper-west-7fb6",
+                "description": "Upper West (ursprünglich: Atlas Tower) ist ein Hochhaus am Breitscheidplatz in Berlin-Charlottenburg. Es bildet mit 119 Metern Höhe und 33 Etagen ein Bauensemble mit dem benachbarten Zoofenster.",
+                "length_km": 12.57
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 242,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.410863,
+                    52.54099
+                ]
+            },
+            "properties": {
+                "nummer": 242,
+                "title": "Heroes",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 5802,
+                "missions": 30,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/heroes-0541",
+                "description": "This mission is guiding you through the beautyfull Prenzlauer Berg Kiez in Berlin. It is part of Missionmosaik which gives you a really nice banner of the the Joker.",
+                "length_km": 12.87
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 243,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.451796,
+                    52.512885
+                ]
+            },
+            "properties": {
+                "nummer": 243,
+                "title": "Frankfurter Tor",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 5814,
+                "missions": 12,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/frankfurter-tor-940b",
+                "description": "Das Frankfurter Tor ist heute ein Platz im Berliner Ortsteil Friedrichshain am östlichen Ende der Karl-Marx-Allee. Obwohl der Name es vermuten lässt.",
+                "length_km": 4.15
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 244,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.279174,
+                    52.504929
+                ]
+            },
+            "properties": {
+                "nummer": 244,
+                "title": "Berliner Funkturm",
+                "picture": "https://api.bannergress.com/bnrs/pictures/e5bdca79ae49d548bcbd328e0c16509e",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 5964,
+                "missions": 150,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/berliner-funkturm-c3d7",
+                "description": "Der Berliner Funkturm ist ein 146,7m hoher Stahlfachwerkturm in Berlin und  eines der Wahrzeichen der Stadt sowie Symbol des Widerstandes und Freiheitswillen der West-Berliner in der Nachkriegszeit.",
+                "length_km": 86.77
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 245,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.249462,
+                    52.75329
+                ]
+            },
+            "properties": {
+                "nummer": 245,
+                "title": "Wahrzeichen Oranienburg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 5988,
+                "missions": 24,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/wahrzeichen-oranienburg-2a95",
+                "description": "Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erhälst das Abzeichen *Schloß Oranienburg*\nZu Fuß je Mission ca 10 min.\nViel Spaß",
+                "length_km": 8.98
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 246,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.279174,
+                    52.504929
+                ]
+            },
+            "properties": {
+                "nummer": 246,
+                "title": "Berliner Türme",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 6012,
+                "missions": 24,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/berliner-t%C3%BCrme-7cba",
+                "description": "Ein Gang von Turm zu Turm",
+                "length_km": 12.05
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 247,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.278086,
+                    52.765923
+                ]
+            },
+            "properties": {
+                "nummer": 247,
+                "title": "Rundum den Lehnitzsee",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 6030,
+                "missions": 18,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/rundum-den-lehnitzsee-3930",
+                "description": "Abfolge 1 der Reihe um den Lehnitzsee entlang des Naturlehrpfades.\nZu Fuß wirst du etwa 4 std. benötigen und kannst dies nur mit dem Fahrrad verkürzen.",
+                "length_km": 8.75
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 248,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.739035,
+                    51.053938
+                ]
+            },
+            "properties": {
+                "nummer": 248,
+                "title": "MD Dresden 2019",
+                "region": "Dresden",
+                "country": "Deutschland",
+                "completed": 6036,
+                "missions": 6,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/md-2019-dresden-7eb3",
+                "description": "Local orga map: https://goo.gl/maps/MisKiMWqXNqAmeh18",
+                "length_km": 10.99
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 249,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.732924,
+                    51.051053
+                ]
+            },
+            "properties": {
+                "nummer": 249,
+                "title": "Dresdner Zwinger",
+                "region": "Dresden",
+                "country": "Deutschland",
+                "completed": 6048,
+                "missions": 12,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/dresdner-zwinger-eab9",
+                "description": "Der Zwinger ist eines der bekanntesten barocken Bauwerke in Dresden.\nDieses Mosaik führt euch rund um und in den Zwinger.\nBittet beachtet die Öffnungszeiten des Zwingers!\nTeil 1 von 12",
+                "length_km": 2.89
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 250,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.735795,
+                    51.054458
+                ]
+            },
+            "properties": {
+                "nummer": 250,
+                "title": "Semperoper in Dresden",
+                "region": "Dresden",
+                "country": "Deutschland",
+                "completed": 6066,
+                "missions": 18,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/semperoper-in-dresden-53d2",
+                "description": "The Semperoper is the opera house of the Sächsische Staatsoper Dresden (Saxon State Opera) and the concert hall of the Staatskapelle Dresden (Saxon State Orchestra). Surprisingly it's not a brewery.",
+                "length_km": 5.48
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 251,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73358,
+                    51.051452
+                ]
+            },
+            "properties": {
+                "nummer": 251,
+                "title": "Umbra Dresden Batbanner",
+                "region": "Dresden",
+                "country": "Deutschland",
+                "completed": 6084,
+                "missions": 18,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/umbra-dresden-batbanner-579e",
+                "description": "These 18 (or if you choose so 12) missions will take you straight to the place of the afterparty. Many thanks to all the agents who traveled to Dresden for Umbra Anomaly. Have a lot of fun!",
+                "length_km": 6.13
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 252,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.746748,
+                    51.052358
+                ]
+            },
+            "properties": {
+                "nummer": 252,
+                "title": "For the Empire Dresden",
+                "region": "Dresden",
+                "country": "Deutschland",
+                "completed": 6090,
+                "missions": 6,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/for-the-empire-dresden-f22e",
+                "description": "For the Empire Umbra Anomaly banner",
+                "length_km": 1.63
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 253,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.741577,
+                    51.052006
+                ]
+            },
+            "properties": {
+                "nummer": 253,
+                "title": "Dresden Artistic Skyline",
+                "region": "Dresden",
+                "country": "Deutschland",
+                "completed": 6108,
+                "missions": 18,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/dresden-artistic-skyline-b160",
+                "description": "Visit the historic city center of Dresden and create a beautiful artistic Skyline Banner.",
+                "length_km": 4.86
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 254,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.391916,
+                    52.563652
+                ]
+            },
+            "properties": {
+                "nummer": 254,
+                "title": "A journey through the florakiez",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 6126,
+                "missions": 18,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/a-journey-through-the-florakiez-ac90",
+                "description": "Discover the green lung of Pankow and get a nice mosaic as a reminder. All missions are hack only.",
+                "length_km": 8.84
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 255,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33226,
+                    52.5065851
+                ]
+            },
+            "properties": {
+                "nummer": 255,
+                "title": "Sweet Unicorn",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 6156,
+                "missions": 30,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/the-sweet-unicorn-cd78"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 256,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3584449,
+                    52.5470284
+                ]
+            },
+            "properties": {
+                "nummer": 256,
+                "title": "FS Berlin Halloween",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 6162,
+                "missions": 6,
+                "date": 2019
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 257,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.501645,
+                    52.510857
+                ]
+            },
+            "properties": {
+                "nummer": 257,
+                "title": "Nyan",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 6174,
+                "missions": 12,
+                "date": 2019,
+                "bg_link": "https://bannergress.com/banner/nyan-4465",
+                "description": "Folge der Nyan-Katze auf ihrem Weg durch Friedrichsfelde und den Weitlingkiez.\n\nFollow Nyan Cat on its way through Friedrichsfelde and Weitlingkiez.",
+                "length_km": 5.52
+            }
+        }
+    ]
+}

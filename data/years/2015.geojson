@@ -1,0 +1,464 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.129966,
+                    54.077793
+                ]
+            },
+            "properties": {
+                "nummer": 1,
+                "title": "Rostocker Flagge",
+                "picture": "https://lh3.googleusercontent.com/pw/AP1GczNZfmWJMlnG4IgP3QqtGnTgM4sx0qr9gu6y91N6J9zXIHbc3TdoB2ZleBNZ6HAPN43hoZFSr1m308E1sJP_NLIInCJy7p9q-dTx0TNiId-X9OsJnubD1ZRioYCEF7Hu1m7U9PtdyKV3uZQKAa17q2qQYQ",
+                "region": "Rostock",
+                "country": "Deutschland",
+                "completed": 96,
+                "missions": 24,
+                "date": 2015,
+                "bg_link": "https://bannergress.com/banner/rostocker-flagge-9920",
+                "description": "Erkunde ab hier die wunderschöne Hansestadt Rostock mit Ihren Sehenswürdigkeiten.\nBeginne mit dem Bahnhof als zentralen Anlaufpunkt.\nPS: Es sollte das Fahrrad genutzt werden.",
+                "length_km": 12.84
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.129432,
+                    54.088461
+                ]
+            },
+            "properties": {
+                "nummer": 2,
+                "title": "Vicke Schorler Rolle",
+                "picture": "https://lh3.googleusercontent.com/pw/AP1GczMR6Ew49IolF_yKFAtKx2CaWrCeRg9NtiP3RF5H4aUAGzMi9Po7v_tc626pFIPbloPP7-yaBtUmO_eF3MXvescWN4xJwPrBo3MTsCvzMTaGSy4cKd4QGRvobKJSXWe8IH0AO9irvuhPwjU1t5JUw_cJ9Q",
+                "region": "Rostock",
+                "country": "Deutschland",
+                "completed": 102,
+                "missions": 6,
+                "date": 2015
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.027281,
+                    54.366406
+                ]
+            },
+            "properties": {
+                "nummer": 3,
+                "title": "Hacking Tour in und um Prohn",
+                "picture": "https://lh3.googleusercontent.com/pw/AP1GczMzCoIKM9NTJgpLOnE0DMWtwTa6huMJdA7OyB2i8pZK2JsbdH4_DxE__4E9mPBC5LRIMhH8gB8iFpzDCAgU2nS-Cja3IMBkXMMw8v8VOSwIDSm6B4MWOlicWPu9ldZIbGxvuEshDe-sXWr_Ayyy7CqUUg",
+                "region": "Prohn",
+                "country": "Deutschland",
+                "completed": 108,
+                "missions": 6,
+                "date": 2015
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.078088,
+                    54.308652
+                ]
+            },
+            "properties": {
+                "nummer": 4,
+                "title": "Starry Night TARDIS",
+                "picture": "https://lh3.googleusercontent.com/pw/AP1GczOYoXuwqJp6yd2kMQlUhFxc6l_VGhug7zs10AvGDFxAAzh07RDi_diFwOgtVu6l7dY_JUiUSpP7Jn4KRorWu0AUjLUZinfiiVYuchvBL-DZB-TiH39rbiRALO_JPRP75GnIifAZ8EA_0XSppe65X2Cl5w",
+                "region": "Stralsund",
+                "country": "Deutschland",
+                "completed": 132,
+                "missions": 24,
+                "date": 2015,
+                "bg_link": "https://bannergress.com/banner/starry-night-tardis-1458"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.115364,
+                    54.309207
+                ]
+            },
+            "properties": {
+                "nummer": 5,
+                "title": "Silhouette von Stralsund",
+                "picture": "https://lh3.googleusercontent.com/pw/AP1GczNI-ZyjX21eRIE94q8r7gSQvHkYtXFoPmWCXOPYJCywjCSq3UYCkKVwuUd5vatVIJO8vajK2JuyK5Kf0ffy0T0_Y8GVkiU9sodnY4wG2DE0Ekwi5rtUPoEMdf2qdn8AZ18FgRqg9DOZ_B-aJyuLIV1msg",
+                "region": "Stralsund",
+                "country": "Deutschland",
+                "completed": 138,
+                "missions": 6,
+                "date": 2015,
+                "bg_link": "https://bannergress.com/banner/silhouette-von-stralsund-a792",
+                "description": "Vom Dänholm entlang des Strelasunds in Richtung  Parow charakterisiert die neue Rügenbrücke sowie die drei großen mittelalterlichen Kirchen der Backsteingotik die Silhouette Stralsunds.",
+                "length_km": 5.51
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.266122,
+                    53.556192
+                ]
+            },
+            "properties": {
+                "nummer": 6,
+                "title": "Besuch der 4 Tore",
+                "picture": "https://lh3.googleusercontent.com/pw/AP1GczMm-fJxwsRbALPJLTC-Zl7SMcFXyW54vRBOKRLjytSlbvXZOHFOvJf2RO5ujsN_LCxRAXQUK1c9Aya9tKaYogsDHBbRqNnXjjcam_-suxi7vAU7LV0G1px1zXPhXMESqFDIoOZeKnlGZ4Yfz7BAD3hygA",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 144,
+                "missions": 6,
+                "date": 2015
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.261756,
+                    53.561402
+                ]
+            },
+            "properties": {
+                "nummer": 7,
+                "title": "Neubrandenburg im Morgennebel",
+                "picture": "https://lh3.googleusercontent.com/pw/AP1GczPmbMPXUHyfnJM74wDoKNARFhcH8rcOCVLiwk10EYMnl6itxdJA1oIBNnGonL4H371Z-rKih91YQRpWP5wPazUuMhtvMwGHfezZNga2B-I9z_ss4vE3fS7RmUm73URrNaVfKuWtpL61vPrOwNRbdZQBbw",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 174,
+                "missions": 30,
+                "date": 2015,
+                "bg_link": "https://bannergress.com/banner/neubrandenburg-im-morgennebel-f2f5",
+                "description": "Neubrandenburg - die Stadt der 4 Tore in 36 Teilen.\nSchon Caspar David Friedrich erkannte 1816 die Schönheit der Stadt.",
+                "length_km": 35.29
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74885,
+                    53.506861
+                ]
+            },
+            "properties": {
+                "nummer": 8,
+                "title": "Strasburg",
+                "picture": "https://api.bannergress.com/bnrs/pictures/0c455ff3f2e854d0afd6f146add602bc",
+                "region": "Strasburg (Uckermark)",
+                "country": "Deutschland",
+                "completed": 180,
+                "missions": 6,
+                "date": 2015,
+                "bg_link": "https://bannergress.com/banner/strasburg-bc8d"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.625131,
+                    54.398545
+                ]
+            },
+            "properties": {
+                "nummer": 9,
+                "title": "Binz auf Rügen",
+                "region": "Binz",
+                "country": "Deutschland",
+                "completed": 198,
+                "missions": 18,
+                "date": 2015,
+                "bg_link": "https://bannergress.com/banner/binz-auf-r%C3%BCgen-2ec3",
+                "description": "Besonderer Anziehungspunkt ist die 3,2 km lange Strandpromenade mit zahlreichen und liebevoll restaurierten Bädervillen, Hotels, Cafés und Restaurants sowie der Seebrücke.",
+                "length_km": 9.08
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.382173,
+                    54.099775
+                ]
+            },
+            "properties": {
+                "nummer": 10,
+                "title": "Museumshafen Greifswald",
+                "picture": "https://api.bannergress.com/bnrs/pictures/01328fd0e24c9c0a82a36a93613be784",
+                "region": "Greifswald",
+                "country": "Deutschland",
+                "completed": 216,
+                "missions": 18,
+                "date": 2015,
+                "bg_link": "https://bannergress.com/banner/museumshafen-greifswald-66c3",
+                "description": "Teil 1 der Tour \"Museumshafen Greifswald\"",
+                "length_km": 5.93
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.372863,
+                    54.09527
+                ]
+            },
+            "properties": {
+                "nummer": 11,
+                "title": "HGW",
+                "region": "Greifswald",
+                "country": "Deutschland",
+                "completed": 222,
+                "missions": 6,
+                "date": 2015,
+                "bg_link": "https://bannergress.com/banner/hgw-letter-walk-4d8f",
+                "description": "1. Letter-Walk für die Hansestadt Greifswald. Zeige in deinen Mission-Medals, woher du kommst.",
+                "length_km": 1.9
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 12,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.456953,
+                    54.097717
+                ]
+            },
+            "properties": {
+                "nummer": 12,
+                "title": "Greifswalder Flagge",
+                "picture": "https://api.bannergress.com/bnrs/pictures/98098407103277f8e6c82ac9c530ea09",
+                "region": "Greifswald",
+                "country": "Deutschland",
+                "completed": 240,
+                "missions": 18,
+                "date": 2015,
+                "bg_link": "https://bannergress.com/banner/greifswalder-flagge-efe8",
+                "description": "Zeige Flagge für die einzigartige Universitäts- und Hansestadt Greifswald! Dies ist die erste von achtzehn Missionen für das Mosaik der Greifswalder Flagge.",
+                "length_km": 12.22
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.862231,
+                    53.558877
+                ]
+            },
+            "properties": {
+                "nummer": 13,
+                "title": "Botanischer Garten Mosaik",
+                "region": "Hamburg",
+                "country": "Deutschland",
+                "completed": 258,
+                "missions": 18,
+                "date": 2015,
+                "bg_link": "https://bannergress.com/banner/botanischer-garten-mosaik-30ba",
+                "description": "Ein wunderschönes Mosaik aus dem Botanischen Garten / Loki-Schmidt-Garten",
+                "length_km": 4.28
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 14,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.989297,
+                    53.55797
+                ]
+            },
+            "properties": {
+                "nummer": 14,
+                "title": "Planten un Blomen Mosaik",
+                "picture": "https://api.bannergress.com/bnrs/pictures/a844bc123043e26a652f2fef6fa42d3f",
+                "region": "Hamburg",
+                "country": "Deutschland",
+                "completed": 276,
+                "missions": 18,
+                "date": 2015,
+                "bg_link": "https://bannergress.com/banner/planten-un-blomen-mosaik-ee10",
+                "description": "All Missions are in sequence and hack only!\nMission: 1 of 18\nLocation: Hamburg Germany\nOpening Hours\nJan-Mar | 7–20 Uhr\nApr | 7–22 Uhr\nMay–Sep | 7-23 Uhr\nOct–Dec | 7–20 Uhr",
+                "length_km": 7.38
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.970032,
+                    53.545576
+                ]
+            },
+            "properties": {
+                "nummer": 15,
+                "title": "Landungsbrücken",
+                "picture": "https://api.bannergress.com/bnrs/pictures/b5b4e97a8c42aca70facc47acb35a5ca",
+                "region": "Hamburg",
+                "country": "Deutschland",
+                "completed": 294,
+                "missions": 18,
+                "date": 2015,
+                "bg_link": "https://bannergress.com/banner/landungsbr%C3%BCcken-mosaik-5dad",
+                "description": "Mosaic around the Landungsbrücken",
+                "length_km": 5.87
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.997115,
+                    53.546274
+                ]
+            },
+            "properties": {
+                "nummer": 16,
+                "title": "Speicherstadt Mosaik",
+                "picture": "https://api.bannergress.com/bnrs/pictures/c06ec1426ed7220a73534afaa62b7fe9",
+                "region": "Hamburg",
+                "country": "Deutschland",
+                "completed": 312,
+                "missions": 18,
+                "date": 2015,
+                "bg_link": "https://bannergress.com/banner/speicherstadt-mosaik-a9bd",
+                "description": "All missions are in sequence.\nLocation: Hamburg Germany",
+                "length_km": 5.64
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.986227,
+                    53.554089
+                ]
+            },
+            "properties": {
+                "nummer": 17,
+                "title": "BROmission!",
+                "picture": "https://api.bannergress.com/bnrs/pictures/9f871ccc2edef62ca5cb2ecb7953b377",
+                "region": "Hamburg",
+                "country": "Deutschland",
+                "completed": 318,
+                "missions": 6,
+                "date": 2015,
+                "bg_link": "https://bannergress.com/banner/bromission-c276",
+                "description": "Go for a walk with your BROs! First of the sequence. \nThis is starting at Google! Get a selfie -sorry, a brolfie- there.",
+                "length_km": 1.88
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 18,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.993663,
+                    53.552386
+                ]
+            },
+            "properties": {
+                "nummer": 18,
+                "title": "MissionDay Hamburg",
+                "region": "Hamburg",
+                "country": "Deutschland",
+                "completed": 330,
+                "missions": 12,
+                "date": 2015,
+                "bg_link": "https://bannergress.com/banner/md-hamburg-0950",
+                "description": "The Alsterarkaden is the smallest and oldest shopping arcade in Hamburg.",
+                "length_km": 71.95
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.078783,
+                    54.312901
+                ]
+            },
+            "properties": {
+                "nummer": 19,
+                "title": "Das Stralsunder Wappen",
+                "picture": "https://api.bannergress.com/bnrs/pictures/ac273ab3137912d9cb9b92f74520cf2a",
+                "region": "Stralsund",
+                "country": "Deutschland",
+                "completed": 348,
+                "missions": 18,
+                "date": 2015,
+                "bg_link": "https://bannergress.com/banner/das-stralsunder-wappen-9a4d",
+                "description": "Dies ist die 1. Mission für das Stralsunder Wappen!",
+                "length_km": 5.64
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.371313,
+                    52.50931
+                ]
+            },
+            "properties": {
+                "nummer": 20,
+                "title": "STAR WARS - Das Erwachen der Macht (Berlin)",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 354,
+                "missions": 6,
+                "date": 2015
+            }
+        }
+    ]
+}

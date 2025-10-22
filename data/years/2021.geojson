@@ -1,0 +1,1873 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 298,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.156316,
+                    52.747433
+                ]
+            },
+            "properties": {
+                "nummer": 298,
+                "title": "Tier-, Freizeit- und Saurierpark Germendorf",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 6960,
+                "missions": 18,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/tier-freizeit-und-saurierpark-germendorf-1377",
+                "description": "Tagesausflug im Tierpark",
+                "length_km": 4.32
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 299,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.412545,
+                    52.54174
+                ]
+            },
+            "properties": {
+                "nummer": 299,
+                "title": "Smoking Dark Side",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 6978,
+                "missions": 18,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/smoking-dark-side-28f4",
+                "description": "Starte einen Spaziergang durch den Kollwitzkiez und dem Winsviertel\nStart ist U-Bahn Eberswalder Straße und endet bei der Tram Prenzlauer Allee / Ecke Knaackstraße",
+                "length_km": 7.26
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 300,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.419149,
+                    52.534998
+                ]
+            },
+            "properties": {
+                "nummer": 300,
+                "title": "Holocaust Mahnmal",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 7008,
+                "missions": 30,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/holocaust-mahnmal-3309",
+                "description": "Dieser Spaziergang durch die Mitte Berlins führt dich an vielen interessanten und historischen Orten zur Geschichte des Judentums in Berlin vorbei.",
+                "length_km": 7.79
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 301,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.43469,
+                    52.509603
+                ]
+            },
+            "properties": {
+                "nummer": 301,
+                "title": "Imperfect Humanist",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 7014,
+                "missions": 6,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/imperfect-humanist-b884",
+                "description": "A special mission for one of the chosen Kaltenberg PLP teams.",
+                "length_km": 1.25
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 302,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.445166,
+                    52.499205
+                ]
+            },
+            "properties": {
+                "nummer": 302,
+                "title": "Berlin musikalisch",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 7062,
+                "missions": 48,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/berlin-musikalisch-5b7d",
+                "description": "Auf dem Weg vom Postbahnhof zum Lido. \nZwei der besten Konzertlocations in Berlin.",
+                "length_km": 15.82
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 303,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.396239,
+                    52.51242
+                ]
+            },
+            "properties": {
+                "nummer": 303,
+                "title": "Mongolian Embassy",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 7074,
+                "missions": 12,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/mongolian-embassy-c022",
+                "description": "This tour will guide you around the area of the mongolian embassy.  Located near Hausvogteiplatz and famous Gendarmenmarkt are only a few minutes away.",
+                "length_km": 3.58
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 304,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.411325,
+                    52.5203
+                ]
+            },
+            "properties": {
+                "nummer": 304,
+                "title": "Nomadic Empire",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 7104,
+                "missions": 30,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/mongol-nomadic-empire-75d0",
+                "description": "A nice walk from Alexanderplatz along the Kollwitzkietz to Brunnenviertel with its famous railway-facilities.",
+                "length_km": 9.7
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 305,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.248415,
+                    52.754504
+                ]
+            },
+            "properties": {
+                "nummer": 305,
+                "title": "Entdeckungsrunde OBurg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 7110,
+                "missions": 6,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/entdeckungsrunde-oburg-62cd",
+                "description": "Kleine Runde durch Oranienburg. Start ist am Bahnhof",
+                "length_km": 1.7
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 306,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41123,
+                    52.521556
+                ]
+            },
+            "properties": {
+                "nummer": 306,
+                "title": "EXO5BERLIN East",
+                "picture": "https://api.bannergress.com/bnrs/pictures/41d6f7b502f08abee0c2b50aec38082a",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 7158,
+                "missions": 48,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/exo5berlin-east-9312",
+                "description": "This mission leads you to famous places in Berlin.  See places of Resistance history and farmgrounds. The first mission starts at Alexanderplatz.",
+                "length_km": 12.65
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 307,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.332128,
+                    52.506572
+                ]
+            },
+            "properties": {
+                "nummer": 307,
+                "title": "EXO5BERLIN West",
+                "picture": "https://api.bannergress.com/bnrs/pictures/cd0bd932f3624a817bdd17cfe08e6aa4",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 7206,
+                "missions": 48,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/exo5berlin-west-4c82",
+                "description": "This mission banner will show you famous places in Berlin city west. The first mission starts at Zoologischer Garten.",
+                "length_km": 14.77
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 308,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.386811,
+                    52.520647
+                ]
+            },
+            "properties": {
+                "nummer": 308,
+                "title": "Enlightened Berlinomaly",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 7242,
+                "missions": 36,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/enlightened-berlinomaly-a9fd",
+                "description": "Welcome to Berlin, Enlightened Agents! This banner takes you along some of Berlins important sights and results in the offical Berlinomaly logo. \n\nThis mission starts at S Friedrichstrasse.",
+                "length_km": 12.02
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 309,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.473202,
+                    52.514863
+                ]
+            },
+            "properties": {
+                "nummer": 309,
+                "title": "Mishima Zaibatsu - Tekken Characters",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 7254,
+                "missions": 12,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/mishima-zaibatsu-tekken-characters-8f8e",
+                "description": "A walk through  the neighborhood of the well known Samaviertel.",
+                "length_km": 3.63
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 310,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.461454,
+                    52.517147
+                ]
+            },
+            "properties": {
+                "nummer": 310,
+                "title": "Auf den Spuren des Wasabi",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 7260,
+                "missions": 6,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/auf-den-spuren-des-wasabi-0bd1",
+                "description": "Hier im Kiez liegt die Historie des Wasabiphänomens. In verschiedenen Formen erhältlich, am bekömmlichsten als Milch. Verursacht auch in kleinsten Mengen Tränen.",
+                "length_km": 1.59
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 311,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.378403,
+                    52.553263
+                ]
+            },
+            "properties": {
+                "nummer": 311,
+                "title": "blue Frog Berlin",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 7284,
+                "missions": 24,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/blue-frog-berlin-e865",
+                "description": "Hack  all Portals",
+                "length_km": 10.73
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 312,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45299,
+                    52.516466
+                ]
+            },
+            "properties": {
+                "nummer": 312,
+                "title": "MD Exo5 Berlin",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 7290,
+                "missions": 6,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/md-exo5-berlin-fd47",
+                "description": "Mission Day: EXO5 Berlin",
+                "length_km": 21.84
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 313,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.330647,
+                    52.503445
+                ]
+            },
+            "properties": {
+                "nummer": 313,
+                "title": "Berlin Pride 2021",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 7308,
+                "missions": 18,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/berlin-pride-2021-3171",
+                "description": "Unter dem Motto „SAVE OUR COMMUNITY – SAVE YOUR PRIDE“ zieht der Berliner CSD zum 43. mal durch die Hauptstadt.\nFolge der Route vom Zoo bis zum Brandenburger Tor .",
+                "length_km": 6.82
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 314,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.213374,
+                    53.146971
+                ]
+            },
+            "properties": {
+                "nummer": 314,
+                "title": "Serenity",
+                "region": "Oldenburg",
+                "country": "Deutschland",
+                "completed": 7332,
+                "missions": 24,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/serenity-b1ef",
+                "description": "Begleite die Crew der Serenity auf ihrer Reise durch Oldenburg. Es sollte einige uniques geben.",
+                "length_km": 7.77
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 315,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.215659,
+                    53.138129
+                ]
+            },
+            "properties": {
+                "nummer": 315,
+                "title": "Schlossplatz Panorama",
+                "region": "Oldenburg",
+                "country": "Deutschland",
+                "completed": 7338,
+                "missions": 6,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/schlossplatz-panorama-57c4",
+                "description": "360° Panorama vom Oldenburger Schlossplatz. \nDurch den 360° Blick könnt ihr bei jeder der 6 Missionen Starten.\nYou can start at any Mission, after Mission 6 you can put Mission 1 and it will still fit",
+                "length_km": 1.71
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 316,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.217138,
+                    53.136858
+                ]
+            },
+            "properties": {
+                "nummer": 316,
+                "title": "Tardis",
+                "region": "Oldenburg",
+                "country": "Deutschland",
+                "completed": 7374,
+                "missions": 36,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/tardis-b902",
+                "description": "Eine Reise durch Raum und Zeit mit dem Doctor, Passphrase am Ende,nicht hacken. Und nebenbei die Oldenburger Innenstadt entdecken, viel Spaß dabei. Hier gehts los. Die Reihenfolge ist NICHT zufällig.",
+                "length_km": 10.71
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 317,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.740148,
+                    52.376816
+                ]
+            },
+            "properties": {
+                "nummer": 317,
+                "title": "Trennmission",
+                "region": "Hannover",
+                "country": "Deutschland",
+                "completed": 7380,
+                "missions": 6,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/trennmission-aba1",
+                "description": "Hannover bietet so viel! Nutze die Trennmissionen für Deinen Scanner.",
+                "length_km": 3.21
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 318,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.741563,
+                    52.375425
+                ]
+            },
+            "properties": {
+                "nummer": 318,
+                "title": "Dark Skyline",
+                "region": "Hannover",
+                "country": "Deutschland",
+                "completed": 7386,
+                "missions": 6,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/dark-skyline-135b",
+                "description": "Six-mission-set in the city-centre that shows some of Hannovers popular sights.",
+                "length_km": 1.81
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 319,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.717681,
+                    52.381809
+                ]
+            },
+            "properties": {
+                "nummer": 319,
+                "title": "Welfenschloss Hannover",
+                "region": "Hannover",
+                "country": "Deutschland",
+                "completed": 7410,
+                "missions": 24,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/welfenschloss-hannover-2957",
+                "description": "Das Welfenschloss ist ein ehemaliges Schloss in Hannover im Stadtteil Nordstadt, das seit 1879 Sitz der Universität Hannover ist.",
+                "length_km": 6.77
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 320,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.936047,
+                    51.542525
+                ]
+            },
+            "properties": {
+                "nummer": 320,
+                "title": "Hogwarts",
+                "region": "Göttingen",
+                "country": "Deutschland",
+                "completed": 7434,
+                "missions": 24,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/hogwarts-f493",
+                "description": "Collect all 24 missions and get a wonderful Hogwarts for your memory. On the way you can enjoy the most beautiful places in Göttingen.",
+                "length_km": 8.25
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 321,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.924205,
+                    51.537244
+                ]
+            },
+            "properties": {
+                "nummer": 321,
+                "title": "Göttingen auf dem 10DM Schein",
+                "region": "Göttingen",
+                "country": "Deutschland",
+                "completed": 7452,
+                "missions": 18,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/g%C3%B6ttingen-auf-dem-10dm-schein-0144",
+                "description": "Auf dem letzten 10 Deutsche Mark Schein waren die Sternwarte, die Johanniskirche, die Universitätsaula, das Rathaus, der Kirchturm von Jacobi und das Museum der Stadt Göttingen zu sehen.",
+                "length_km": 6.55
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 322,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.935155,
+                    51.532711
+                ]
+            },
+            "properties": {
+                "nummer": 322,
+                "title": "Göttingen Skyline",
+                "region": "Göttingen",
+                "country": "Deutschland",
+                "completed": 7458,
+                "missions": 6,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/g%C3%B6ttingen-skyline-72aa",
+                "description": "kleiner walk durch die Stadt vom Liesel bis zum Rathaus. Teil 1 führt dich zur Johanniskirche",
+                "length_km": 2.59
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 323,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.236654,
+                    52.754692
+                ]
+            },
+            "properties": {
+                "nummer": 323,
+                "title": "Spider Sunday in Oranienburg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 7464,
+                "missions": 6,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/spider-sunday-in-oranienburg-67de",
+                "description": "Mache eine kleine Tour durch Oranienburg und starte am Bahnhof",
+                "length_km": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 324,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.248415,
+                    52.754504
+                ]
+            },
+            "properties": {
+                "nummer": 324,
+                "title": "All Hallows Toast in Oranienburg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 7470,
+                "missions": 6,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/all-hallows-toast-in-oranienburg-1b78",
+                "description": "Eine kleine Entdeckungsrunde durch Oranienburg. Die Reihe startet am Bahnhof und führt dich zum Schlosspark der Stadt\n\nGeht am 01.11.2021 offline",
+                "length_km": 1.74
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 325,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.248415,
+                    52.754504
+                ]
+            },
+            "properties": {
+                "nummer": 325,
+                "title": "#MP Happy Halloween in Oranienburg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 7482,
+                "missions": 12,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/mp-happy-halloween-in-oranienburg-b2cc",
+                "description": "Mache eine kleine Entdeckungstour durch Oranienburg. Start ist am Bahnhof und führt die zum Schloss wieder zurück zum Bahnhof\n\nBanner geht am 01.11.2021 offline",
+                "length_km": 3.64
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 326,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.248415,
+                    52.754504
+                ]
+            },
+            "properties": {
+                "nummer": 326,
+                "title": "Thriller in Oranienburg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 7500,
+                "missions": 18,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/thriller-in-oranienburg-97e9",
+                "description": "Mache eine kleine Tour durch Oranienburg und starte am Bahnhof",
+                "length_km": 5.81
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 327,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.248415,
+                    52.754504
+                ]
+            },
+            "properties": {
+                "nummer": 327,
+                "title": "All Hallows Toast in Oranienburg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 7506,
+                "missions": 6,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/all-hallows-toast-in-oranienburg-fb29",
+                "description": "Mache eine kleine Tour durch Oranienburg und starte am Bahnhof",
+                "length_km": 1.63
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 328,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.248415,
+                    52.754504
+                ]
+            },
+            "properties": {
+                "nummer": 328,
+                "title": "Evolution in Oranienburg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 7512,
+                "missions": 6,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/evolution-in-oranienburg-a1bb",
+                "description": "Eine kleine Entdeckungsrunde durch Oranienburg. Die Reihe startet am Bahnhof und führt dich zum Schlosspark der Stadt",
+                "length_km": 1.74
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 329,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.261756,
+                    53.561402
+                ]
+            },
+            "properties": {
+                "nummer": 329,
+                "title": "Green Unicorn",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 7548,
+                "missions": 36,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/green-unicorn-3bef",
+                "description": "Die Missionen führen durch die Grünanlagen von Neubrandenburg. Dabei sieht man unter anderem den Burgwall, Strandbad Broda, den Kulturbark, das Augustabad und die hinterste Mühle.",
+                "length_km": 24.03
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 330,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.259873,
+                    53.55756
+                ]
+            },
+            "properties": {
+                "nummer": 330,
+                "title": "Hallow Pumpkin Neubrandenburg",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 7566,
+                "missions": 18,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/hallow-pumpkin-neubrandenburg-482b",
+                "description": "Erlebe mit ein paar Missionen die tolle Halloween Tour in Neubrandenburg.",
+                "length_km": 8.52
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 331,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.077616,
+                    54.309001
+                ]
+            },
+            "properties": {
+                "nummer": 331,
+                "title": "Stralsund Aquarell",
+                "region": "Stralsund",
+                "country": "Deutschland",
+                "completed": 7578,
+                "missions": 12,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/stralsund-aquarell-a181",
+                "description": "Willkommen am Stralsunder Hauptbahnhof. Von hier aus führt die Missionsreihe in Richtung Altstadt.",
+                "length_km": 3.85
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 332,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.090288,
+                    54.315786
+                ]
+            },
+            "properties": {
+                "nummer": 332,
+                "title": "Das Stralsunder Rathaus",
+                "region": "Stralsund",
+                "country": "Deutschland",
+                "completed": 7596,
+                "missions": 18,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/das-stralsunder-rathaus-bf96",
+                "description": "Die Stadt gehörte nach dem Erlöschen des Fürstentums Rügen 1325 zu Pommern-Wolgast.",
+                "length_km": 5.45
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 333,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.078088,
+                    54.308652
+                ]
+            },
+            "properties": {
+                "nummer": 333,
+                "title": "Stralsund Map Anno 1628",
+                "region": "Stralsund",
+                "country": "Deutschland",
+                "completed": 7626,
+                "missions": 30,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/stralsund-map-anno-1628-07c9",
+                "description": "Gehe auf Entdeckungstour durch die Hansestadt Stralsund. Diese Mission beginnt am Bahnhof und führt bis zum Tribseer Damm. Übrigens, der Bahnhof wurde am 01.01.1878 feierlich eröffnet.",
+                "length_km": 8.46
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 334,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.082235,
+                    54.322059
+                ]
+            },
+            "properties": {
+                "nummer": 334,
+                "title": "Tatort Stralsund",
+                "region": "Stralsund",
+                "country": "Deutschland",
+                "completed": 7644,
+                "missions": 18,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/tatort-stralsund-b5f9",
+                "description": "Wir starten am Tatort Brunnenaue.",
+                "length_km": 6.1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 335,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.745009,
+                    53.506348
+                ]
+            },
+            "properties": {
+                "nummer": 335,
+                "title": "Götter Tour durch Strasburg",
+                "region": "Strasburg (Uckermark)",
+                "country": "Deutschland",
+                "completed": 7650,
+                "missions": 6,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/g%C3%B6tter-tour-durch-strasburg-8cf3",
+                "description": "Starte am Marktplatz und entdecke Strasburg Uckermark und hol dir die Götter ins Profil\n\nGeht am 08.11.2021 offline",
+                "length_km": 3.17
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 336,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.745009,
+                    53.506348
+                ]
+            },
+            "properties": {
+                "nummer": 336,
+                "title": "Nyan Toast - Strasburg",
+                "region": "Strasburg (Uckermark)",
+                "country": "Deutschland",
+                "completed": 7656,
+                "missions": 6,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/nyan-toast-strasburg-cbac",
+                "description": "Starte am Marktplatz und entdecke Strasburg Uckermark und hole dir Toasts ins Profil",
+                "length_km": 3.17
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 337,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.745009,
+                    53.506348
+                ]
+            },
+            "properties": {
+                "nummer": 337,
+                "title": "Evolution of Frog - Strasburg",
+                "region": "Strasburg (Uckermark)",
+                "country": "Deutschland",
+                "completed": 7662,
+                "missions": 6,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/evolution-of-frog-strasburg-f93f",
+                "description": "Starte am Marktplatz und entdecke Strasburg Uckermark\n\nGeht am 08.11.2021 offline",
+                "length_km": 3.17
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 338,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.414479,
+                    52.551748
+                ]
+            },
+            "properties": {
+                "nummer": 338,
+                "title": "Green Moon",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 7680,
+                "missions": 18,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/green-moon-a5d7",
+                "description": "Entdeckungstour durch den Humannplatz und Helmholtz Kiez. Los gehts in der Erich-Weinert-Straße und endet am S-Bahnhof Schönhauser Allee",
+                "length_km": 4.93
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 339,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.248415,
+                    52.754504
+                ]
+            },
+            "properties": {
+                "nummer": 339,
+                "title": "Find the 13 Archetypes in Oranienburg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 7698,
+                "missions": 18,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/find-the-13-archetypes-in-oranienburg-49c9",
+                "description": "Gehe auf Tour in Oranienburg und finde die 13 Archetypen in Oranienburg. Die Tour startet in der Bernauer Straße",
+                "length_km": 6.56
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 340,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.248415,
+                    52.754504
+                ]
+            },
+            "properties": {
+                "nummer": 340,
+                "title": "Second Sunday in Oranienburg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 7704,
+                "missions": 6,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/second-sunday-in-oranienburg-8c7a",
+                "description": "Mache zum Second Sunday ein kleine Runde durch Oranienburg. Start ist in der Bernauer Straße\n\nGeht am 17.11.2021 offline",
+                "length_km": 2.13
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 341,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.245295,
+                    52.756491
+                ]
+            },
+            "properties": {
+                "nummer": 341,
+                "title": "Vendetta in Oranienburg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 7734,
+                "missions": 30,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/vendetta-in-oranienburg-a9ef",
+                "description": "Starte eine Vendetta in Oranienburg und mache ein Tour durch die Stadt. Die Tour startet in der Bernauer Straße und führt dich am Lehnitz See und der Havel entlang und endet am Schloss",
+                "length_km": 13.97
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 342,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.245295,
+                    52.756491
+                ]
+            },
+            "properties": {
+                "nummer": 342,
+                "title": "XMas Toast in Oranienburg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 7740,
+                "missions": 6,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/xmas-toast-in-oranienburg-7417",
+                "description": "Mache eine kleine Tour durch Oranienburg und hole dir die XMas Toast ins Profil\n\nGeht am 24.11.2021 offline",
+                "length_km": 1.64
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 343,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.248415,
+                    52.754504
+                ]
+            },
+            "properties": {
+                "nummer": 343,
+                "title": "Mister-Universe in Oranienburg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 7758,
+                "missions": 18,
+                "date": 2021,
+                "description": "Mache eine kleine Tour mit Bengalos durch Oranienburg und starte am Bahnhof",
+                "length_km": 5.8
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 344,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.245295,
+                    52.756491
+                ]
+            },
+            "properties": {
+                "nummer": 344,
+                "title": "Mr Pumpkin Slasher in Oranienburg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 7776,
+                "missions": 18,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/mr-pumpkin-slasher-in-oranienburg-13b7",
+                "description": "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße",
+                "length_km": 6.06
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 345,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.245295,
+                    52.756491
+                ]
+            },
+            "properties": {
+                "nummer": 345,
+                "title": "Mr Pumpkin Slasher in Oranienburg - Part 2",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 7794,
+                "missions": 18,
+                "date": 2021,
+                "description": "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße",
+                "length_km": 6.05
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 346,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.245295,
+                    52.756491
+                ]
+            },
+            "properties": {
+                "nummer": 346,
+                "title": "Bannergress Launch in Oranienburg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 7800,
+                "missions": 6,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/bannergress-launch-in-oranienburg-0e5f",
+                "description": "Mache eine kleine Tour durch Oranienburg\n\nGeht am 21.11.2021 offline",
+                "length_km": 1.64
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 347,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.248415,
+                    52.754504
+                ]
+            },
+            "properties": {
+                "nummer": 347,
+                "title": "Beach XMas Toast in Oranienburg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 7806,
+                "missions": 6,
+                "date": 2021,
+                "description": "Mache eine kleine Tour durch Oranienburg und hole dir die XMas Toast ins PRofil",
+                "length_km": 1.64
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 348,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.248415,
+                    52.754504
+                ]
+            },
+            "properties": {
+                "nummer": 348,
+                "title": "3 Schwerter Stil in Oranienburg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 7824,
+                "missions": 18,
+                "date": 2021,
+                "description": "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße und am Ende erwartet dich der 3 Schwerter Stil",
+                "length_km": 6.05
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 349,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.248415,
+                    52.754504
+                ]
+            },
+            "properties": {
+                "nummer": 349,
+                "title": "Pet Sematary in Oranienburg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 7842,
+                "missions": 18,
+                "date": 2021,
+                "description": "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße",
+                "length_km": 6.05
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 350,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.412641,
+                    52.533167
+                ]
+            },
+            "properties": {
+                "nummer": 350,
+                "title": "Mizaru, Kikazaru, Iwazaru",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 7860,
+                "missions": 18,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/mizaru-kikazaru-iwazaru-dbe2",
+                "description": "Starte eine Runde durch den Kollwitzkiez entlang des Teutoburger Platz und der Zionkirchsplatz.\nStart und Ende der Runde ist am Senefelderplatz",
+                "length_km": 6.02
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 351,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.248415,
+                    52.754504
+                ]
+            },
+            "properties": {
+                "nummer": 351,
+                "title": "Crystal Snowflake Ball in Oranienburg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 7878,
+                "missions": 18,
+                "date": 2021,
+                "description": "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße",
+                "length_km": 6.05
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 352,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.248415,
+                    52.754504
+                ]
+            },
+            "properties": {
+                "nummer": 352,
+                "title": "Frog Evolution in Oranienburg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 7884,
+                "missions": 6,
+                "date": 2021,
+                "description": "Mache eine kleine Tour durch Oranienburg und hole dir die Frog Evolution ins Profil",
+                "length_km": 1.64
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 353,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.248415,
+                    52.754504
+                ]
+            },
+            "properties": {
+                "nummer": 353,
+                "title": "DB in Oranienburg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 7902,
+                "missions": 18,
+                "date": 2021,
+                "description": "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße",
+                "length_km": 6.05
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 354,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.248415,
+                    52.754504
+                ]
+            },
+            "properties": {
+                "nummer": 354,
+                "title": "Call Shenlong in Oranienburg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 7920,
+                "missions": 18,
+                "date": 2021,
+                "description": "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße",
+                "length_km": 6.05
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 355,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.248415,
+                    52.754504
+                ]
+            },
+            "properties": {
+                "nummer": 355,
+                "title": "Moon Ball in Oranienburg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 7938,
+                "missions": 18,
+                "date": 2021,
+                "description": "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße",
+                "length_km": 6.05
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 356,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.248415,
+                    52.754504
+                ]
+            },
+            "properties": {
+                "nummer": 356,
+                "title": "Skulls in Oranienburg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 7944,
+                "missions": 6,
+                "date": 2021,
+                "description": "Mache eine kleine Tour durch Oranienburg und hole dir die Schädel ins Profil",
+                "length_km": 1.64
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 357,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.248415,
+                    52.754504
+                ]
+            },
+            "properties": {
+                "nummer": 357,
+                "title": "Rainbow People in Oranienburg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 7956,
+                "missions": 12,
+                "date": 2021,
+                "description": "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße",
+                "length_km": 3.64
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 358,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.248415,
+                    52.754504
+                ]
+            },
+            "properties": {
+                "nummer": 358,
+                "title": "Dancing",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 7962,
+                "missions": 6,
+                "date": 2021,
+                "description": "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße",
+                "length_km": 2.25
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 359,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.245295,
+                    52.756491
+                ]
+            },
+            "properties": {
+                "nummer": 359,
+                "title": "Kiss Toast in Oranienburg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 7968,
+                "missions": 6,
+                "date": 2021,
+                "description": "Mache eine kleine Tour durch Oranienburg und hole dir die Kiss Toast ins Profil",
+                "length_km": 1.64
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 360,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.248415,
+                    52.754504
+                ]
+            },
+            "properties": {
+                "nummer": 360,
+                "title": "Guardians of the Time in Oranienburg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 7986,
+                "missions": 18,
+                "date": 2021,
+                "description": "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße und finde die Guardians",
+                "length_km": 6.05
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 361,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.745009,
+                    53.506348
+                ]
+            },
+            "properties": {
+                "nummer": 361,
+                "title": "Second Sunday - Strasburg",
+                "region": "Strasburg (Uckermark)",
+                "country": "Deutschland",
+                "completed": 7992,
+                "missions": 6,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/second-sunday-strasburg-1872",
+                "description": "Starte am Marktplatz und entdecke zum Second Sunday die Stadt Strasburg Uckermark",
+                "length_km": 3.17
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 362,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.745009,
+                    53.506348
+                ]
+            },
+            "properties": {
+                "nummer": 362,
+                "title": "Merry Christmas - Strasburg",
+                "region": "Strasburg (Uckermark)",
+                "country": "Deutschland",
+                "completed": 7998,
+                "missions": 6,
+                "date": 2021,
+                "description": "Starte am Marktplatz und entdecke Strasburg Uckermark bei einer weihnachtlichen Spaziergang.",
+                "length_km": 3.18
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 363,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.745009,
+                    53.506348
+                ]
+            },
+            "properties": {
+                "nummer": 363,
+                "title": "8000 SpecOps Runde durch Strasburg",
+                "region": "Strasburg (Uckermark)",
+                "country": "Deutschland",
+                "completed": 8004,
+                "missions": 6,
+                "date": 2021,
+                "description": "Mache eine Entdeckungsrunde durch Strasburg und hole die 8000 ins Profil",
+                "length_km": 2.79
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 364,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.745009,
+                    53.506348
+                ]
+            },
+            "properties": {
+                "nummer": 364,
+                "title": "Feuerschwert Tour durch Strasburg",
+                "region": "Strasburg (Uckermark)",
+                "country": "Deutschland",
+                "completed": 8010,
+                "missions": 6,
+                "date": 2021,
+                "description": "Mache eine Entdeckungsrunde durch Strasburg und hole dir ein Feuerschwert ins PRofil",
+                "length_km": 2.79
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 365,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.267424,
+                    53.557141
+                ]
+            },
+            "properties": {
+                "nummer": 365,
+                "title": "Jack on Tour",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 8046,
+                "missions": 36,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/jack-on-tour-f813",
+                "description": "Entdecke mit Jack die Vier-Tore-Stadt Neubrandenburg und beginne die Tour am Rathaus. Diese Tour wird dich durch die komplette Innenstadt führen und endet am Bahnhof.\n\nBanner geht am 31.12.2021 offline",
+                "length_km": 11.58
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 366,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.261756,
+                    53.561402
+                ]
+            },
+            "properties": {
+                "nummer": 366,
+                "title": "Wizard Trio",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 8064,
+                "missions": 18,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/wizard-trio-1c8e",
+                "description": "Entdecke Neubrandenburg durch die Missionen. Die Tour startet am Bahnhof und endet am Rathaus.",
+                "length_km": 7.68
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 367,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26025,
+                    53.557736
+                ]
+            },
+            "properties": {
+                "nummer": 367,
+                "title": "Weihnachten in Neubrandenburg - Second Sunday",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 8070,
+                "missions": 6,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/weihnachten-in-neubrandenburg-second-sunday-fc21",
+                "description": "Erkunde Neubrandenburg in der Weihnachtszeit. Die Mission beginnt und endet auf dem Marktplatz.",
+                "length_km": 2.03
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 368,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.261756,
+                    53.561402
+                ]
+            },
+            "properties": {
+                "nummer": 368,
+                "title": "Green Wolfgreen",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 8088,
+                "missions": 18,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/green-wolfgreen-0f7e",
+                "description": "Erkunde die Innenstadt von Neubrandenburg mit all ihren mittelalterlichen Gebäuden und moderner Architektur.",
+                "length_km": 5.56
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 369,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26025,
+                    53.557736
+                ]
+            },
+            "properties": {
+                "nummer": 369,
+                "title": "Green Moon",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 8106,
+                "missions": 18,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/green-moon-6a50",
+                "description": "Mache eine kleine Entdeckungstour durch Neubrandenburg. Die Tour beginnt auf dem Marktplatz und führt durch das Katharienviertel und weiter in die Südstadt und endet auf dem Marktplatz.",
+                "length_km": 10.0
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 370,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.284609,
+                    53.582479
+                ]
+            },
+            "properties": {
+                "nummer": 370,
+                "title": "Clockwork Orange",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 8142,
+                "missions": 36,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/clockwork-orange-37c8",
+                "description": "Geh auf Entdeckungstour durch Neubrandenburg. Es beginnt und endet bei Clockwork Orange.",
+                "length_km": 21.78
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 371,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.745118,
+                    53.505877
+                ]
+            },
+            "properties": {
+                "nummer": 371,
+                "title": "Cats in the box - Strasburg",
+                "region": "Strasburg (Uckermark)",
+                "country": "Deutschland",
+                "completed": 8148,
+                "missions": 6,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/cats-in-the-box-strasburg-baf2",
+                "description": "Starte am Marktplatz und entdecke Strasburg Uckermark bei einer weihnachtlichen Spaziergang. \n\nBanner geht am 26.12.2021 offline",
+                "length_km": 3.18
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 372,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.745118,
+                    53.505877
+                ]
+            },
+            "properties": {
+                "nummer": 372,
+                "title": "Item Cats Strasburg",
+                "region": "Strasburg (Uckermark)",
+                "country": "Deutschland",
+                "completed": 8160,
+                "missions": 12,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/item-cats-strasburg-69b2",
+                "description": "Starte am Marktplatz und entdecke Strasburg Uckermark bei einer weihnachtlichen Spaziergang.\n\nBanner geht am 26.12.2012 offline",
+                "length_km": 6.56
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 373,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74965,
+                    53.50709
+                ]
+            },
+            "properties": {
+                "nummer": 373,
+                "title": "XMas Otter in Strasburg",
+                "region": "Strasburg (Uckermark)",
+                "country": "Deutschland",
+                "completed": 8166,
+                "missions": 6,
+                "date": 2021,
+                "description": "Mache eine Entdeckungsrunde durch Strasburg und hole dir paar XMas Otter ins Profil",
+                "length_km": 2.73
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 374,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74965,
+                    53.50709
+                ]
+            },
+            "properties": {
+                "nummer": 374,
+                "title": "XMas Panda in Strasburg",
+                "region": "Strasburg (Uckermark)",
+                "country": "Deutschland",
+                "completed": 8172,
+                "missions": 6,
+                "date": 2021,
+                "description": "Mache eine Entdeckungsrunde durch Strasburg und hole dir paar XMas Panda ins Profil",
+                "length_km": 2.73
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 375,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.084511,
+                    54.309652
+                ]
+            },
+            "properties": {
+                "nummer": 375,
+                "title": "rip redacted - stralsund",
+                "region": "Stralsund",
+                "country": "Deutschland",
+                "completed": 8190,
+                "missions": 18,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/rip-redacted-stralsund-c40f",
+                "description": "Begebe dich auf eine Entdeckungsreise durch die engen Gassen der Stralsunder Altstadt. Sie wurde 2002 in  die UNESCO-Welterbe­liste aufgenommen.",
+                "length_km": 5.66
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 376,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.089437,
+                    54.316146
+                ]
+            },
+            "properties": {
+                "nummer": 376,
+                "title": "Red Moon",
+                "region": "Stralsund",
+                "country": "Deutschland",
+                "completed": 8208,
+                "missions": 18,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/red-moon-6da3",
+                "description": "Weiter geht es durch die Straßen und Gassen der Stralsunder Altstadt. Entdecke dabei weitere Schätze aus der UNESCO-Welterbeliste.",
+                "length_km": 6.22
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 377,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.096764,
+                    54.316336
+                ]
+            },
+            "properties": {
+                "nummer": 377,
+                "title": "Sternbilder",
+                "region": "Stralsund",
+                "country": "Deutschland",
+                "completed": 8220,
+                "missions": 12,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/sternbilder-1139",
+                "description": "Besucht die Stadt am Strelasund. Als Belohnung erwarten euch die 12 Sternzeichen als Sternbild am Himmel.",
+                "length_km": 3.47
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 378,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.745004,
+                    53.50675
+                ]
+            },
+            "properties": {
+                "nummer": 378,
+                "title": "Circles Strasburg",
+                "region": "Strasburg (Uckermark)",
+                "country": "Deutschland",
+                "completed": 8238,
+                "missions": 18,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/circles-strasburg-6c75",
+                "description": "Geh auf Entdeckungstour durch Strasburg.",
+                "length_km": 14.99
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 379,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.745734,
+                    53.507239
+                ]
+            },
+            "properties": {
+                "nummer": 379,
+                "title": "Hack the planet - Strasburg",
+                "region": "Strasburg (Uckermark)",
+                "country": "Deutschland",
+                "completed": 8256,
+                "missions": 18,
+                "date": 2021,
+                "bg_link": "https://bannergress.com/banner/hack-the-planet-strasburg-a0fd",
+                "description": "Erkunde die Stadt Strasburg.",
+                "length_km": 14.08
+            }
+        }
+    ]
+}

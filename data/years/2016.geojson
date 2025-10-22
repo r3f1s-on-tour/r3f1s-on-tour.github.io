@@ -1,0 +1,706 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 21,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.071849,
+                    53.573784
+                ]
+            },
+            "properties": {
+                "nummer": 21,
+                "title": "Hunting ground Wandsbek Markt",
+                "picture": "https://api.bannergress.com/bnrs/pictures/4a9916708f283ca0625a1546dbcf5d55",
+                "region": "Hamburg",
+                "country": "Deutschland",
+                "completed": 360,
+                "missions": 6,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/hunting-ground-wandsbek-markt-ventrue-3567",
+                "description": "Die sechs Vampir Clans der Camarilla begehren diese Domäne. Welcher Clan wird obsiegen? Wen wirst du unterstützen?",
+                "length_km": 1.51
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.594348,
+                    53.462334
+                ]
+            },
+            "properties": {
+                "nummer": 22,
+                "title": "Erobere Woldegk",
+                "picture": "https://api.bannergress.com/bnrs/pictures/3c2830ae35ae267284d887f7097ce367",
+                "region": "Woldegk",
+                "country": "Deutschland",
+                "completed": 378,
+                "missions": 18,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/erobere-woldegk-13fd"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.54793,
+                    53.426583
+                ]
+            },
+            "properties": {
+                "nummer": 23,
+                "title": "Gryf Szczeciński",
+                "picture": "https://api.bannergress.com/bnrs/pictures/c06a4e6331dcb9dadd919ff242cc385f",
+                "region": "Szczecin",
+                "country": "Polska",
+                "completed": 420,
+                "missions": 42,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/gryf-szczeci%C5%84ski-6cc3",
+                "description": "Jeden z symboli miejskich Szczecina. Symbol książąt z dynastii Gryfitów.",
+                "length_km": 12.44
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.560711,
+                    48.140198
+                ]
+            },
+            "properties": {
+                "nummer": 24,
+                "title": "I Love München",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 426,
+                "missions": 6,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/m%C3%BCnchen-c9f9",
+                "description": "I love München.",
+                "length_km": 2.32
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.379318,
+                    51.345086
+                ]
+            },
+            "properties": {
+                "nummer": 25,
+                "title": "Agent 007",
+                "picture": "https://api.bannergress.com/bnrs/pictures/1399fe26fa64fcc1a83745f2ba21b35e",
+                "region": "Leipzig",
+                "country": "Deutschland",
+                "completed": 444,
+                "missions": 18,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/agent-007-7601",
+                "description": "Begib dich auf Erkundungstour durch das schöne Zentrum von Leipzig, schau dir genau alles an, und verhalte dich unauffällig. Viel Spaß. :-)",
+                "length_km": 4.67
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.380866,
+                    51.338149
+                ]
+            },
+            "properties": {
+                "nummer": 26,
+                "title": "Drachenfrau",
+                "picture": "https://api.bannergress.com/bnrs/pictures/1b0601554cccf46bbf897c8a7d97d3b7",
+                "region": "Leipzig",
+                "country": "Deutschland",
+                "completed": 468,
+                "missions": 24,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/drachenfrau-5063",
+                "description": "In der fast fertig sanierten Innenstadt kann man gut shoppen, altes und neues entdecken oder einfach durch die Gassen wandeln. Viel Spaß dabei.",
+                "length_km": 7.44
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.691782,
+                    54.044188
+                ]
+            },
+            "properties": {
+                "nummer": 27,
+                "title": "Der Greif von Mecklenburg",
+                "picture": "https://api.bannergress.com/bnrs/pictures/4ee2a8167c2085a63047e7820de51ce3",
+                "region": "Katzow",
+                "country": "Deutschland",
+                "completed": 516,
+                "missions": 48,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/der-greif-von-mecklenburg-49aa",
+                "description": "Zu schnelles hacken wird bestraft mit 5min Wartezeit;) \nsolltet ihr zu schnell gehackt haben kann es zum Schluss des Mosaik knapp werden. Genügend Multihacks wären von Vorteil. Viel Spaß :o)",
+                "length_km": 11.11
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.586201,
+                    48.162715
+                ]
+            },
+            "properties": {
+                "nummer": 28,
+                "title": "Schwabylon",
+                "picture": "https://api.bannergress.com/bnrs/pictures/ee67a1107a1f300eece05d71f1cac57d",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 534,
+                "missions": 18,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/schwabylon-282a",
+                "description": "Schwabylon. Diese Runde führt durch einen Teil des Münchner Stadtteils Schwabing.\nSchwabing war früher ein kleines Dorf nördlich von Münchnen, das als Suuapinga bereits 782 in Urkunden erwähnt wurde.",
+                "length_km": 8.09
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.603175,
+                    48.128008
+                ]
+            },
+            "properties": {
+                "nummer": 29,
+                "title": "MUCstock",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 546,
+                "missions": 12,
+                "date": 2016
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.658516,
+                    48.199911
+                ]
+            },
+            "properties": {
+                "nummer": 30,
+                "title": "Sound Vision",
+                "picture": "https://api.bannergress.com/bnrs/pictures/8d9050ef8dec596e64b17a751c9ea9de",
+                "region": "Unterföhring",
+                "country": "Deutschland",
+                "completed": 600,
+                "missions": 54,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/sound-vision-f57e",
+                "description": "Your journey will take you through three beautiful towns of Bavaria. Please enjoy the views and our historical towns.",
+                "length_km": 40.14
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.575546,
+                    48.137437
+                ]
+            },
+            "properties": {
+                "nummer": 31,
+                "title": "Marienplatz München",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 624,
+                "missions": 24,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/marienplatz-m%C3%BCnchen-50a9",
+                "description": "1315 verlieh Kaiser Ludwig der Bayer München die Marktfreiheit mit der Auflage, dass der damals Marktplatz genannte Marienplatz „auf ewige Zeiten“ hin unbebaut bleibe.",
+                "length_km": 5.84
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.565815,
+                    48.139141
+                ]
+            },
+            "properties": {
+                "nummer": 32,
+                "title": "Karlsplatz Stachus",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 648,
+                "missions": 24,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/karlsplatz-stachus-a1a8",
+                "description": "Der Karlsplatz liegt an einer Stelle, über die im Mittelalter die Salzstraße führte, die Herzog Heinrich der Löwe von Föhring nach München verlegt hatte.",
+                "length_km": 6.14
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.577356,
+                    48.140569
+                ]
+            },
+            "properties": {
+                "nummer": 33,
+                "title": "Siegestor München",
+                "picture": "https://api.bannergress.com/bnrs/pictures/235ff037bace8063259176a2f8e669d9",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 672,
+                "missions": 24,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/siegestor-m%C3%BCnchen-4f77",
+                "description": "Das Siegestor wurde 1843 bis 1850 aus Kelheimer Kalkstein errichtet. Am 15. Oktober 1850 übergab König Maximilian II. im Namen seines abgedankten Vaters das Siegestor an die Stadt München.",
+                "length_km": 7.66
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.025122,
+                    49.461617
+                ]
+            },
+            "properties": {
+                "nummer": 34,
+                "title": "Mission Day Nürnberg",
+                "region": "Nürnberg",
+                "country": "Deutschland",
+                "completed": 684,
+                "missions": 12,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/md-n%C3%BCrnberg-2280",
+                "description": "The former AEG factory premises have been become a lively urban site with IT offices, workshops, photographs’ and artists’ studios, exhibition halls and last but not least Nuremberg’s FabLab.",
+                "length_km": 31.1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.255605,
+                    48.176883
+                ]
+            },
+            "properties": {
+                "nummer": 35,
+                "title": "Ingress First Saturday FFB 03 09 2016",
+                "region": "Fürstenfeldbruck",
+                "country": "Deutschland",
+                "completed": 690,
+                "missions": 6,
+                "date": 2016
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 36,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.558117,
+                    48.141321
+                ]
+            },
+            "properties": {
+                "nummer": 36,
+                "title": "Olympiaturm München",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 750,
+                "missions": 60,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/olympiaturm-m%C3%BCnchen-24a1",
+                "description": "Diese Missionsreihe führt dich vom Hauptbahnhof quer durch München zum Olympiaturm in 60 kleinen Missionen.",
+                "length_km": 21.9
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.630954,
+                    48.247019
+                ]
+            },
+            "properties": {
+                "nummer": 37,
+                "title": "BlueSunGarching",
+                "picture": "https://api.bannergress.com/bnrs/pictures/534d4ea65f043ae17ab0adaae39ce044",
+                "region": "Garching bei München",
+                "country": "Deutschland",
+                "completed": 774,
+                "missions": 24,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/bluesungarching-f7ce",
+                "description": "A Trip to (nearly) all portals in Garching Hochbrück (1-6), Garching (7-12) and Garching-Forschungszentrum (13-24). The first 3 missions have long Distances. Bycicle is adviced.",
+                "length_km": 26.52
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.566635,
+                    48.139917
+                ]
+            },
+            "properties": {
+                "nummer": 38,
+                "title": "CSD-Politparade 2015",
+                "picture": "https://api.bannergress.com/bnrs/pictures/dbcec3de85c7a0caf0125695f0dc4c70",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 780,
+                "missions": 6,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/csd-politparade-2015-5d73",
+                "description": "Rund um den Stachus.\n\nKleine Serie von Missionen entlang der Strecke der CSD-Politparade von 2015.\nVielleicht findest du ja unterwegs das eine oder andere Ampelpärchen ;-)",
+                "length_km": 3.76
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.389033,
+                    48.134114
+                ]
+            },
+            "properties": {
+                "nummer": 39,
+                "title": "Time Space und Fürstenfeldbruck",
+                "picture": "https://api.bannergress.com/bnrs/pictures/0c9708630f31755d9cb89f468ad2e6ba",
+                "region": "Germering",
+                "country": "Deutschland",
+                "completed": 828,
+                "missions": 48,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/time-space-und-f%C3%BCrstenfeldbruck-7a7f",
+                "description": "Eine Reise durch den schönen Landkreis Fürstenfeldbruck.",
+                "length_km": 98.19
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.576208,
+                    48.137238
+                ]
+            },
+            "properties": {
+                "nummer": 40,
+                "title": "Uptown München",
+                "picture": "https://api.bannergress.com/bnrs/pictures/a295e76d39c5950cbc83463f55857a90",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 888,
+                "missions": 60,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/uptown-m%C3%BCnchen-a93b",
+                "description": "Die gläserne Fassade umhüllt das Tragwerk des nach dreijähriger Bauzeit im Jahre 2004 im Stadtteil Moosach fertiggestellten Büroturms. Das Hochhaus wird von vier siebengeschossigen Gebäuden flankiert",
+                "length_km": 18.71
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.684061,
+                    48.214031
+                ]
+            },
+            "properties": {
+                "nummer": 41,
+                "title": "ISMANING",
+                "picture": "https://api.bannergress.com/bnrs/pictures/98c0fe48a066a9094adffc32dba40c32",
+                "region": "Ismaning",
+                "country": "Deutschland",
+                "completed": 906,
+                "missions": 18,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/ismaning-88b8",
+                "description": "Discover the historical town of Ismaning through this mosaic picture mission, starting at the lake of Ismaning. Once completed, the mosaic resembles the crest of Ismaning.",
+                "length_km": 16.26
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 42,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.57772,
+                    48.141742
+                ]
+            },
+            "properties": {
+                "nummer": 42,
+                "title": "Antiquarium München",
+                "picture": "https://api.bannergress.com/bnrs/pictures/84f766e615e30748b7ad56ec92a8e957",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 930,
+                "missions": 24,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/antiquarium-m%C3%BCnchen-f327",
+                "description": "Das Antiquarium wurde ab 1568 zur Aufnahme der herzoglichen Antikensammlung und Bibliothek als Erweiterung der Münchner Residenz errichtet und wenig später zu einem Festsaal umgestaltet.",
+                "length_km": 8.23
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.557779,
+                    48.257227
+                ]
+            },
+            "properties": {
+                "nummer": 43,
+                "title": "Schleissheim Postcard",
+                "picture": "https://api.bannergress.com/bnrs/pictures/f101a454c5de5bc34c2ec4aff03bfe73",
+                "region": "Oberschleißheim",
+                "country": "Deutschland",
+                "completed": 954,
+                "missions": 24,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/schleissheim-postcard-953e",
+                "description": "Schleissheim Postcard Mission Banner.\nThe Missions will lead you through most of Oberschleissheim.\nPossible on foot. Bike recommended.",
+                "length_km": 9.63
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.576878,
+                    48.136661
+                ]
+            },
+            "properties": {
+                "nummer": 44,
+                "title": "Munich city walls",
+                "picture": "https://api.bannergress.com/bnrs/pictures/32a35f14acc45a1c3470909a31431e93",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 978,
+                "missions": 24,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/munich-city-walls-0113",
+                "description": "In former times Munich had two city walls. Later the town was transformed into a fortress. This mission series explores the remnants and traces of that time. Please read the portal texts.",
+                "length_km": 13.8
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 45,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.563926,
+                    48.146732
+                ]
+            },
+            "properties": {
+                "nummer": 45,
+                "title": "Blauer Reiter Tour",
+                "picture": "https://api.bannergress.com/bnrs/pictures/0d330415cd7568296591257b578f2bff",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 1026,
+                "missions": 48,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/blauer-reiter-tour-9d18",
+                "description": "Wünsche viel Spaß beim Spielen beim 48 Mosaik des Blauen Reiters. \n\nErschaffen hat den Blauen Reiter Franz Marc (1880 – 1916), wo man das Original im Lenbachhaus anschauen kann.",
+                "length_km": 17.08
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 46,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.545971,
+                    48.130672
+                ]
+            },
+            "properties": {
+                "nummer": 46,
+                "title": "Bavaria München",
+                "picture": "https://api.bannergress.com/bnrs/pictures/f62fd3943e8a8f40cd07ff30a8d09d1a",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 1050,
+                "missions": 24,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/bavaria-m%C3%BCnchen-78e7",
+                "description": "Die kolossale und monumental anmutende Bronzestatue der Bavaria wurde im Auftrag von König Ludwig I. (1786–1868) in den Jahren 1843 bis 1850 errichtet. Sie bildet eine Einheit mit der Ruhmeshalle.",
+                "length_km": 9.69
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 47,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.565815,
+                    48.139141
+                ]
+            },
+            "properties": {
+                "nummer": 47,
+                "title": "MUNICHS CELTIC KNOT",
+                "picture": "https://api.bannergress.com/bnrs/pictures/954131ec881716126388a45ec52ad185",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 1086,
+                "missions": 36,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/munich-s-celtic-knot-a147",
+                "description": "36er Mosaik durch München, das Wissenswertes über die Kelten vermittelt.\n\nDie Kelten besiedelten einst ganz Europa und hinterließen ihre Spuren in Großbritannien, Frankreich, Deutschland & Anatolien",
+                "length_km": 10.38
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.558732,
+                    48.133124
+                ]
+            },
+            "properties": {
+                "nummer": 48,
+                "title": "Klue",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 1092,
+                "missions": 6,
+                "date": 2016
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 49,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.599442,
+                    48.140735
+                ]
+            },
+            "properties": {
+                "nummer": 49,
+                "title": "Friedensengel",
+                "picture": "https://api.bannergress.com/bnrs/pictures/07497fdbabbc83aa9d872aec006f5387",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 1140,
+                "missions": 48,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/friedensengel-8105",
+                "description": "Der so genannte Friedensengel ist eigentlich der griechischen Siegesgöttin Nike nachempfunden und erinnert an den Friedensschluss nach Ende des Deutsch-Französischen Krieges von 1870/1871.",
+                "length_km": 13.4
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 50,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.576208,
+                    48.137238
+                ]
+            },
+            "properties": {
+                "nummer": 50,
+                "title": "Weihnachten am Chinesischen Turm",
+                "picture": "https://api.bannergress.com/bnrs/pictures/4b5ea303a04b6c745ca69d622a2b195f",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 1164,
+                "missions": 24,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/weihnachten-am-chinesischen-turm-46d7",
+                "description": "Der Chinesische Turm wurde in den Jahren 1789 bis 1790 erbaut und 1792 mit der Eröffnung des Englischen Gartens als Aussichtsplattform der Öffentlichkeit zugänglich gemacht.",
+                "length_km": 5.54
+            }
+        }
+    ]
+}

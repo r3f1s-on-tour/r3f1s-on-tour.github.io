@@ -1,0 +1,431 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 590,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.259994,
+                    53.561425
+                ]
+            },
+            "properties": {
+                "nummer": 590,
+                "title": "Frog in Neubrandenburg",
+                "picture": "https://api.bannergress.com/bnrs/pictures/9582c8830b4adf1afd3623aa41313d9a",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 13,
+                "missions": 18,
+                "date": 2024,
+                "bg_link": "https://bannergress.com/banner/frog-in-neubrandenburg-fbd3",
+                "description": "Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde die Sehenswürdigkeiten und Denkmäler der Stadt.",
+                "length_km": 4.795
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 591,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.610093,
+                    41.1414
+                ]
+            },
+            "properties": {
+                "nummer": 591,
+                "title": "MD 2024: Porto",
+                "region": "Porto",
+                "country": "Portugal",
+                "completed": 13,
+                "missions": 6,
+                "date": 2024,
+                "bg_link": "https://bannergress.com/banner/md-2024-porto-504c"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 592,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.464665,
+                    50.997138
+                ]
+            },
+            "properties": {
+                "nummer": 592,
+                "title": "Held der Kindheit",
+                "picture": "https://api.bannergress.com/bnrs/pictures/90bb836182e01425f4d95e1cdba38b65",
+                "region": "Ründeroth",
+                "country": "Deutschland",
+                "completed": 13,
+                "missions": 12,
+                "date": 2024,
+                "bg_link": "https://bannergress.com/banner/held-der-kindheit-975c",
+                "description": "Eine Runde rund um und durch Ründeroth, entlang alter Handelswege und vieler historischer Denkmäler. Länge beträgt ca. 5 km und dauert ca. 2 Stunden. Viel Spaß.",
+                "length_km": 4.887
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 593,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.054263,
+                    47.497523
+                ]
+            },
+            "properties": {
+                "nummer": 593,
+                "title": "Belváros-Lipótváros",
+                "picture": "https://api.bannergress.com/bnrs/pictures/9b37d605591bc696e5dc8d4849919780",
+                "region": "Budapest",
+                "country": "Magyarország",
+                "completed": 13,
+                "missions": 24,
+                "date": 2024,
+                "bg_link": "https://bannergress.com/banner/belv%C3%A1ros-lip%C3%B3tv%C3%A1ros-57e4",
+                "description": "Discover the central part of Budapest in District V, situated on the east bank of the river Danube.",
+                "length_km": 4.671
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 594,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.061964,
+                    47.491074
+                ]
+            },
+            "properties": {
+                "nummer": 594,
+                "title": "MD 2024: Budapest",
+                "region": "Budapest",
+                "country": "Magyarország",
+                "completed": 13,
+                "missions": 6,
+                "date": 2024,
+                "bg_link": "https://bannergress.com/banner/md-2024-budapest-6bc9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 595,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.387857,
+                    39.466133
+                ]
+            },
+            "properties": {
+                "nummer": 595,
+                "title": "Clear your mind -Valencia",
+                "picture": "https://api.bannergress.com/bnrs/pictures/60b33693a25a907d8635e803d0a96741",
+                "region": "València",
+                "country": "España",
+                "completed": 13,
+                "missions": 6,
+                "date": 2024,
+                "bg_link": "https://bannergress.com/banner/clear-your-mind-valencia-6de4",
+                "description": "Agradable paseo por las calles de Valencia",
+                "length_km": 1.319
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 596,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.393369,
+                    39.444296
+                ]
+            },
+            "properties": {
+                "nummer": 596,
+                "title": "Lovers in Halloween",
+                "picture": "https://api.bannergress.com/bnrs/pictures/53887dbebfe07c6dd4073575ca5cc182",
+                "region": "València",
+                "country": "España",
+                "completed": 13,
+                "missions": 42,
+                "date": 2024,
+                "bg_link": "https://bannergress.com/banner/lovers-in-halloween-bd93",
+                "description": "Celebra Halloween haciendo este bonito mural por las calles de Valencia.",
+                "length_km": 10.574
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 597,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.376814,
+                    39.467715
+                ]
+            },
+            "properties": {
+                "nummer": 597,
+                "title": "Halloween in Valencia",
+                "picture": "https://api.bannergress.com/bnrs/pictures/dde27ab1355659599191184a174d41f8",
+                "region": "València",
+                "country": "España",
+                "completed": 13,
+                "missions": 6,
+                "date": 2024,
+                "bg_link": "https://bannergress.com/banner/halloween-in-valencia-f0f4",
+                "description": "Discover Valencia at Halloween and get this spooky banner!",
+                "length_km": 1.623
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 598,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.375319,
+                    39.473851
+                ]
+            },
+            "properties": {
+                "nummer": 598,
+                "title": "Halloween Baby",
+                "picture": "https://api.bannergress.com/bnrs/pictures/35460256ed4090d948b3b8e8eccccef7",
+                "region": "València",
+                "country": "España",
+                "completed": 13,
+                "missions": 30,
+                "date": 2024,
+                "bg_link": "https://bannergress.com/banner/halloween-baby-d7fe",
+                "description": "Recorre nuestra capital y llévate pequeño recuerdo de Halloween 2019",
+                "length_km": 4.536
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 599,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.375533,
+                    39.46944
+                ]
+            },
+            "properties": {
+                "nummer": 599,
+                "title": "Casco Histórico Plz. La Virgen",
+                "picture": "https://api.bannergress.com/bnrs/pictures/342c7600849e873a4902bf8f0f8af4d0",
+                "region": "València",
+                "country": "España",
+                "completed": 13,
+                "missions": 18,
+                "date": 2024,
+                "bg_link": "https://bannergress.com/banner/casco-hist%C3%B3rico-plz-la-virgen-4c18",
+                "description": "Uno de los lugares mas emblemáticos de la ciudad Valenciana, es sin duda la plaza de la Virgen en pleno centro del casco antiguo y rodeado de muchas calles con un ambiente muy muy agradable.",
+                "length_km": 4.275
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 600,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.376593,
+                    39.470876
+                ]
+            },
+            "properties": {
+                "nummer": 600,
+                "title": "Once Upon A Time Under The Valencian Sun",
+                "picture": "https://api.bannergress.com/bnrs/pictures/ac7cc5b5c57769ac63ca1dee8f5d8afa",
+                "region": "València",
+                "country": "España",
+                "completed": 13,
+                "missions": 18,
+                "date": 2024,
+                "bg_link": "https://bannergress.com/banner/once-upon-a-time-under-the-valencian-sun-f640",
+                "description": "Discover Valencia's Old Town, where historic charm meets vibrant culture. Wander through medieval streets, admire stunning architecture, and indulge in local cuisine at lively plazas.",
+                "length_km": 4.879
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 601,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.376042,
+                    39.479126
+                ]
+            },
+            "properties": {
+                "nummer": 601,
+                "title": "Conillets",
+                "picture": "https://api.bannergress.com/bnrs/pictures/1b8222b1c9b287ef2bd596c7aacba9d8",
+                "region": "València",
+                "country": "España",
+                "completed": 13,
+                "missions": 6,
+                "date": 2024,
+                "bg_link": "https://bannergress.com/banner/conillets-cdf4",
+                "description": "Chase these hot rabbits while you walk through the historic center of Valencia streets",
+                "length_km": 0.957
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 602,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.377109,
+                    39.468482
+                ]
+            },
+            "properties": {
+                "nummer": 602,
+                "title": "Ángel",
+                "picture": "https://api.bannergress.com/bnrs/pictures/b399c8a25ede1fca8d231cb7095ebcba",
+                "region": "València",
+                "country": "España",
+                "completed": 13,
+                "missions": 24,
+                "date": 2024,
+                "bg_link": "https://bannergress.com/banner/%C3%A1ngel-9bdc",
+                "description": "Conoce el centro de Valencia y consigue un ángel que irá contigo.",
+                "length_km": 4.592
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 603,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.375619,
+                    39.466853
+                ]
+            },
+            "properties": {
+                "nummer": 603,
+                "title": "CALAVERAS MEXICANAS",
+                "picture": "https://api.bannergress.com/bnrs/pictures/eccdc68e6b1708f73455329bc55f459c",
+                "region": "València",
+                "country": "España",
+                "completed": 13,
+                "missions": 6,
+                "date": 2024,
+                "bg_link": "https://bannergress.com/banner/calaveras-mexicanas-35f1",
+                "description": "La Plaza de Toros de Valencia fue inaugurada en 1851. Su estilo neoclásico fue inspirado de la arquitectura romana, del Coliseo . Declarada Monumento Histórico Artístico por la D.G. de bellas artes.",
+                "length_km": 1.389
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 604,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.375619,
+                    39.466853
+                ]
+            },
+            "properties": {
+                "nummer": 604,
+                "title": "Valencia Skyline",
+                "picture": "https://api.bannergress.com/bnrs/pictures/b575cef9c16f79e0b3d1fcb32ac87cf0",
+                "region": "València",
+                "country": "España",
+                "completed": 13,
+                "missions": 12,
+                "date": 2024,
+                "bg_link": "https://bannergress.com/banner/valencia-skyline-4d2a",
+                "description": "Descubre los lugares más emblemáticos de la ciudad de Valencia y completa este bonito banner.\nDiscover the most emblematic places in Valencia and complete this beautiful banner.",
+                "length_km": 3.561
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 605,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.37649,
+                    39.470401
+                ]
+            },
+            "properties": {
+                "nummer": 605,
+                "title": "Skyline",
+                "picture": "https://api.bannergress.com/bnrs/pictures/1b03cb46adc7d166136f267d5e1e2739",
+                "region": "València",
+                "country": "España",
+                "completed": 13,
+                "missions": 6,
+                "date": 2024,
+                "bg_link": "https://bannergress.com/banner/skyline-8ead",
+                "description": "En esta mision  recorreremos el centro de esta ciudad mediterranea y sus lugares emblematicos.",
+                "length_km": 1.795
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 606,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.324172,
+                    39.47116
+                ]
+            },
+            "properties": {
+                "nummer": 606,
+                "title": "Las Banderas",
+                "picture": "https://api.bannergress.com/bnrs/pictures/1b12a50c200b30ace4a20b0cd161dc02",
+                "region": "València",
+                "country": "España",
+                "completed": 13,
+                "missions": 12,
+                "date": 2024,
+                "bg_link": "https://bannergress.com/banner/las-banderas-c32a",
+                "description": "Vamos a pasear desde un gran punto de reunión e interés (La Nau de l'aigua) hasta otro gran punto de referencia (Las Banderas) que hace de unión entre el paseo marítimo y \"La Marina de València\"",
+                "length_km": 4.719
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 607,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.333273,
+                    39.467501
+                ]
+            },
+            "properties": {
+                "nummer": 607,
+                "title": "Valencia",
+                "picture": "https://api.bannergress.com/bnrs/pictures/2d9da08fae3fe3302a7ed5ddae74aad2",
+                "region": "València",
+                "country": "España",
+                "completed": 13,
+                "missions": 6,
+                "date": 2024,
+                "bg_link": "https://bannergress.com/banner/valencia-5b22",
+                "description": "Es hora de pasear y conocer un poco el Canyamelar",
+                "length_km": 1.66
+            }
+        }
+    ]
+}
