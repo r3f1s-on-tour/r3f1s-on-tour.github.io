@@ -3,24 +3,24 @@
 """
 Poste Banner-Markdowns als Telegram-Fotoposts – gesteuert über data/posted.yml.
 
-Highlights:
-- Persistente Tracking-Datei: data/posted.yml (posted: [ "<slug>", ... ])
+Ziele:
+- {link} zeigt standardmäßig auf BASE_SITE_URL + <slug>/ (deine Website).
+- Dein Template (HTML) bleibt erhalten, z.B. <a href="{link}">Link</a>.
+- Hyperlink-Sicherheit: optionaler Roh-URL-Fallback hinter der Caption, falls der <a>-Tag ignoriert würde.
 - Keine Frontmatter-Updates.
-- Template: template/tg_caption_template.txt (override via --caption-template-file)
-- Klickbare Links:
-  * Template enthält z. B. <a href="{link}">Link</a>
-  * {link} wird HTML-ATTRIBUT-sicher eingesetzt (href-konform: & -> &amp;, " -> &quot;, <, >, ')
-  * Keine globale Escapes -> <a> bleibt erhalten
-  * Nur {description} wird ggf. gekürzt (Tags bleiben unberührt)
-- Sortierung: number/nummer/num (numerisch), dann lexikografisch
-- Limit: --max-posts (Default 5), Sleep: --sleep-seconds (Default 5)
-- Optional: --prefer-bannergress (Standard False -> deine Website hat Vorrang)
+- Sortierung: number/nummer/num (numerisch), dann lexikografisch.
+- Limit & Sleep konfigurierbar.
 
 ENV:
 - TELEGRAM_BOT_TOKEN
 - TELEGRAM_CHAT_ID
 - MAX_POSTS (optional)
 - BASE_SITE_URL (optional, Default https://r3f1s-on-tour.github.io/banner/)
+
+CLI (wichtigste):
+- --caption-template-file (Default: template/tg_caption_template.txt)
+- --prefer-bannergress  (setzt {link} auf bg-link, wenn vorhanden)
+- --no-raw-link-fallback  (unterdrückt die zusätzliche Roh-URL in der Caption)
 """
 
 import argparse
@@ -76,18 +76,8 @@ def parse_frontmatter(md_text: str) -> Tuple[Dict[str, Any], str, bool]:
 # ---------- Utilities ----------
 
 def html_text_escape(s: str) -> str:
-    """Escape für Textknoten (sichtbarer Text)."""
+    """Escape für sichtbaren Text (keine Attribute)."""
     return (s or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
-
-def html_attr_escape(s: str) -> str:
-    """Escape für HTML-Attribute (z. B. href="...")."""
-    s = s or ""
-    s = s.replace("&", "&amp;")
-    s = s.replace('"', "&quot;")
-    s = s.replace("<", "&lt;")
-    s = s.replace(">", "&gt;")
-    s = s.replace("'", "&#39;")
-    return s
 
 def first_non_empty(*vals):
     for v in vals:
@@ -102,7 +92,6 @@ def first_non_empty(*vals):
     return ""
 
 def extract_photo_url(fm: Dict[str, Any]) -> str:
-    # unterstützt: pic_url, picture, picture_url, image, img, images[0]
     return first_non_empty(
         fm.get("pic_url"),
         fm.get("picture"),
@@ -148,14 +137,16 @@ def save_posted_set(posted_file: str, posted_slugs: Set[str]) -> None:
     dump_text(posted_file, yaml.safe_dump(payload, sort_keys=False, allow_unicode=True))
 
 
-# ---------- Caption-Erzeugung (Hyperlink sicher & klickbar) ----------
+# ---------- Caption-Erzeugung ----------
 
-def build_caption(fm: Dict[str, Any], body: str, template: str, link: str, prefer_bannergress: bool) -> str:
+def build_caption(fm: Dict[str, Any], body: str, template: str, site_link: str,
+                  prefer_bannergress: bool, add_raw_link_fallback: bool) -> str:
     """
-    - Template bleibt unverändert (enthält <a href="{link}">…</a>).
-    - Text-Platzhalter einzeln escapen (html_text_escape).
-    - {link} für href-Attribut escapen (html_attr_escape), damit Telegram ihn akzeptiert.
-    - Länge wird ausschließlich über Kürzen von {description} eingehalten.
+    - Template bleibt HTML (kein globales Escaping).
+    - Text-Platzhalter werden einzeln ge-escaped.
+    - {link} wird ROH eingesetzt (damit Telegrams HTML-Parser ihn sauber frisst).
+    - Falls zu lang, wird NUR description gekürzt.
+    - Optional: ein Roh-URL-Fallback wird am Ende angehängt (klickbar auch ohne <a>-Tag).
     """
     def get(*keys: str, default: str = "") -> str:
         for k in keys:
@@ -178,12 +169,12 @@ def build_caption(fm: Dict[str, Any], body: str, template: str, link: str, prefe
     desc_raw      = get("description")
     bg_link_raw   = get("bg-link", "link")
 
-    # Linkziel (Standard: interne Seite)
-    link_target = bg_link_raw if (prefer_bannergress and bg_link_raw) else link
+    # Linkziel bestimmen
+    link_target = bg_link_raw if (prefer_bannergress and bg_link_raw) else site_link
     if not (link_target.startswith("http://") or link_target.startswith("https://")):
         link_target = "https://" + link_target.lstrip("/")
 
-    # Escaping
+    # Platzhalterwerte escapen (nur sichtbarer Text)
     T = html_text_escape
     mapping_base = {
         "title": T(title_raw),
@@ -198,27 +189,54 @@ def build_caption(fm: Dict[str, Any], body: str, template: str, link: str, prefe
         "description": T(desc_raw),
         "bg-link": T(bg_link_raw),
         "body": T((body or "").strip()),
-        # WICHTIG: href-Attribut-sicher
-        "link": html_attr_escape(link_target),
+        # WICHTIG: Link ROH (nicht escapen) – wird direkt in href eingesetzt
+        "link": link_target,
     }
 
     class _SafeDict(dict):
         def __missing__(self, key): return ""
 
-    # Fit-Schleife: kürze nur description, niemals hart am Ende abschneiden
+    # Fit-Schleife: nur description kürzen
     description = mapping_base["description"]
     while True:
         mapping = dict(mapping_base)
         mapping["description"] = description
         rendered = template.format_map(_SafeDict(mapping))
+
         if len(rendered) <= TELEGRAM_CAPTION_MAX:
-            return rendered
+            caption = rendered
+            break
+
         if not description:
-            # keine Beschreibung mehr -> fertig
-            return template.format_map(_SafeDict({**mapping, "description": ""}))
-        # heuristisch: 10% kürzen (min. 8 Zeichen)
+            # Nichts mehr zu kürzen -> Beschreibung leer lassen
+            caption = template.format_map(_SafeDict({**mapping, "description": ""}))
+            break
+
+        # Heuristik: 10% kürzen, min. 8 Zeichen
         cut = max(8, int(len(description) * 0.10))
         description = description[:-cut]
+
+    # Optionaler Roh-URL-Fallback: erhöht die Chance auf Klickbarkeit in allen Clients
+    if add_raw_link_fallback:
+        # Nur anhängen, wenn die URL nicht ohnehin schon als nackte URL im Text steht
+        if link_target not in caption:
+            # Achte aufs Limit – falls eng, kürze die Description etwas stärker
+            extra = "\n\n" + link_target
+            if len(caption) + len(extra) <= TELEGRAM_CAPTION_MAX:
+                caption += extra
+            else:
+                # Versuche, Platz zu schaffen, indem wir description weiter trimmen
+                space_needed = (len(caption) + len(extra)) - TELEGRAM_CAPTION_MAX
+                if len(description) > space_needed + 1:
+                    mapping["description"] = description[:-space_needed-1] + "…"
+                    caption = template.format_map(_SafeDict(mapping)) + "\n\n" + link_target
+                else:
+                    # Wenn wirklich zu eng: dann setze die Caption stark reduziert.
+                    caption = template.format_map(_SafeDict({**mapping_base, "description": ""})) + "\n\n" + link_target
+                    if len(caption) > TELEGRAM_CAPTION_MAX:
+                        caption = caption[:TELEGRAM_CAPTION_MAX - 1] + "…"
+
+    return caption
 
 
 # ---------- Telegram ----------
@@ -242,7 +260,7 @@ def send_telegram_photo(token: str, chat_id: str, photo_url: str, caption_html: 
 
 def process_file(path: str, slug: str, token: str, chat_id: str,
                  template: str, base_url: str, prefer_bannergress: bool,
-                 dry_run: bool=False) -> bool:
+                 add_raw_link_fallback: bool, dry_run: bool=False) -> bool:
     text = load_text(path)
     fm, body, _ = parse_frontmatter(text)
 
@@ -251,13 +269,20 @@ def process_file(path: str, slug: str, token: str, chat_id: str,
         print(f"[WARN] {path}: keine gültige Bild-URL gefunden – überspringe.")
         return False
 
-    link = compute_link_for_path(path, base_url)
-    caption = build_caption(fm, body, template, link, prefer_bannergress)
+    site_link = compute_link_for_path(path, base_url)
+    caption = build_caption(
+        fm=fm,
+        body=body,
+        template=template,
+        site_link=site_link,
+        prefer_bannergress=prefer_bannergress,
+        add_raw_link_fallback=add_raw_link_fallback,
+    )
 
     if dry_run:
         print(f"[DRY] Würde posten: {os.path.basename(path)}")
         print(f"      Photo: {photo_url}")
-        print(f"      Link : {link}")
+        print(f"      Link : {site_link}")
         print("------ Caption (HTML) ------")
         print(caption)
         print("----------------------------")
@@ -286,6 +311,8 @@ def main():
     ap.add_argument("--posted-file", default="data/posted.yml", help="Pfad zur Tracking-Datei (Default: data/posted.yml).")
     ap.add_argument("--prefer-bannergress", action="store_true",
                     help="Wenn gesetzt, bevorzugt {link} den bg-link der Frontmatter (falls vorhanden).")
+    ap.add_argument("--no-raw-link-fallback", action="store_true",
+                    help="Keinen Roh-URL-Fallback an die Caption anhängen.")
     ap.add_argument("--dry-run", action="store_true", help="Nur anzeigen, nicht wirklich posten.")
     # Rückwärtskompatibel: altes Flag akzeptieren & ignorieren
     ap.add_argument("--flag-key", default=None, help="(deprecated) Wird ignoriert – Tracking erfolgt über data/posted.yml.")
@@ -301,7 +328,7 @@ def main():
     try:
         template = load_text(args.caption_template_file).strip()
         if not template:
-            print("[WARN] Template-Datei ist leer, nutze Fallback-Template.")
+            print(f"[WARN] Template-Datei ist leer, nutze Fallback-Template.")
             template = FALLBACK_TEMPLATE
     except Exception as e:
         print(f"[WARN] Konnte Template-Datei nicht laden ({e}), nutze Fallback-Template.")
@@ -347,6 +374,7 @@ def main():
                 template=template,
                 base_url=args.base_url,
                 prefer_bannergress=args.prefer_bannergress,
+                add_raw_link_fallback=(not args.no_raw_link_fallback),
                 dry_run=args.dry_run
             )
             if changed and not args.dry_run:
