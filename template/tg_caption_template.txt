@@ -1,0 +1,7 @@
+<b>{title}</b>
+
+<b>Banner-Nr:</b> {banner}
+<b>Unique Mission Completed:</b> {completed} (+{missions})
+<b>Place:</b> {region},{country}
+
+Link
