@@ -1,0 +1,58 @@
+name: Post ungepostete Banner zu Telegram
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ "main" ]
+    paths:
+      - "docs/banner/**"
+      #- "scripts/post_banners_to_telegram.py"
+      #- "templates/tg_caption_template.txt"
+
+permissions:
+  contents: write
+
+jobs:
+  post-to-telegram:
+    runs-on: ubuntu-latest
+    env:
+      MAX_POSTS: "5"  # Standard-Limit
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pyyaml requests
+
+      - name: Poste ungepostete Banner
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          MAX_POSTS: ${{ env.MAX_POSTS }}
+        run: |
+          python scripts/post_banners_to_telegram.py \
+            --glob "docs/banner/*.md" \
+            --flag-key "tg_posted" \
+            --caption-template-file "templates/tg_caption_template.txt" \
+            --max-posts "${MAX_POSTS}"
+
+      - name: Commit & push Änderungen (tg_posted=true)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/banner/*.md
+          if git diff --cached --quiet; then
+            echo "Keine Änderungen zum Commit."
+          else
+            git commit -m "chore: mark posted banners (tg_posted=true)"
+            git push
+          fi
