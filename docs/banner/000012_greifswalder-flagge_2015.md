@@ -1,21 +1,22 @@
 ---
-nummer: "12"
-startLatitude: "54.097717"
-startLongitude: "13.456953"
-titel: "Greifswalder Flagge"
-picture: "https://api.bannergress.com/bnrs/pictures/98098407103277f8e6c82ac9c530ea09"
-region: "Greifswald"
-country: "Deutschland"
-completed: "240"
-missions: "18"
-date: "2015"
-bg-link: "https://bannergress.com/banner/greifswalder-flagge-efe8"
-onyx: "0"
-description: "Zeige Flagge für die einzigartige Universitäts- und Hansestadt Greifswald! Dies ist die erste von achtzehn Missionen für das Mosaik der Greifswalder Flagge."
-lengthKMeters: "12,22"
-title: "Greifswalder Flagge"
+nummer: '12'
+startLatitude: '54.097717'
+startLongitude: '13.456953'
+titel: Greifswalder Flagge
+picture: https://api.bannergress.com/bnrs/pictures/98098407103277f8e6c82ac9c530ea09
+region: Greifswald
+country: Deutschland
+completed: '240'
+missions: '18'
+date: '2015'
+bg-link: https://bannergress.com/banner/greifswalder-flagge-efe8
+onyx: '0'
+description: Zeige Flagge für die einzigartige Universitäts- und Hansestadt Greifswald!
+  Dies ist die erste von achtzehn Missionen für das Mosaik der Greifswalder Flagge.
+lengthKMeters: 12,22
+title: Greifswalder Flagge
+tg_posted: true
 ---
-
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
 
