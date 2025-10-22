@@ -1,30 +1,35 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Poste Banner-Markdowns als Telegram-Fotoposts, gesteuert über eine persistente Post-Liste.
+Poste Banner-Markdowns als Telegram-Fotoposts – ausschließlich gesteuert über eine persistente Post-Liste.
 
-Neu:
+Kerneigenschaften:
 - Persistente Tracking-Datei: data/posted.yml
-  - Struktur: posted: [ "<slug1>", "<slug2>", ... ]
-  - <slug> = Dateiname ohne .md
-  - Banner mit vorhandenem <slug> werden nicht erneut gepostet
-  - Nach erfolgreichem Post wird der <slug> hinzugefügt und Datei gespeichert
+  - Struktur: posted: [ "<slug1>", "<slug2>", ... ]  (Slug = Dateiname ohne .md)
+  - Banner, deren Slug bereits gelistet ist, werden NICHT erneut gepostet.
+  - Nach erfolgreichem Post wird der Slug hinzugefügt und Datei sofort gespeichert.
 
-Bestehendes Verhalten bleibt kompatibel:
-- Frontmatter-Flag (tg_posted) wird weiterhin auf True gesetzt (abschaltbar via --no-frontmatter).
+- Frontmatter wird NICHT mehr aktualisiert (kein tg_posted etc.).
 - Template aus Datei: templates/tg_caption_template.txt (override via --caption-template-file)
+- Hyperlinks in Caption (HTML parse_mode), inkl. Bannergress-Link, sonst Fallback auf interne Seite.
 - Limit: max. N Posts pro Lauf (--max-posts, Default 5; Env MAX_POSTS)
-- 5 Sekunden Pause zwischen Posts (konfigurierbar)
-- Sortierung nach 'number/nummer/num' (numerisch), dann lexikografisch
+- 5 Sekunden Pause zwischen Posts (konfigurierbar).
+- Sortierung nach 'number/nummer/num' (numerisch), dann lexikografisch.
 
 ENV:
-- TELEGRAM_BOT_TOKEN  (z.B. 1234567890:AA... )
-- TELEGRAM_CHAT_ID    (z.B. -1001234567890 oder @deinchannel)
-- MAX_POSTS (optional)
-- BASE_SITE_URL (optional, Default https://r3f1s-on-tour.github.io/banner/)
+- TELEGRAM_BOT_TOKEN  (z. B. 1234567890:AA... )
+- TELEGRAM_CHAT_ID    (z. B. -1001234567890 oder @DeinChannel)
+- MAX_POSTS           (optional)
+- BASE_SITE_URL       (optional, Default https://r3f1s-on-tour.github.io/banner/)
 
-Tracking-Datei:
-- Pfad via --posted-file (Default data/posted.yml)
+Template-Beispiel (templates/tg_caption_template.txt):
+<b>{title}</b>
+
+<b>Banner-Nr:</b> {banner}
+<b>Unique Mission Completed:</b> {completed} (+{missions})
+<b>Place:</b> {region},{country}
+
+<a href="{link}">Link</a>
 """
 
 import argparse
@@ -60,7 +65,13 @@ def dump_text(path: str, text: str) -> None:
     with open(path, "w", encoding="utf-8") as f:
         f.write(text)
 
+
+# ---------- Markdown Frontmatter ----------
+
 def parse_frontmatter(md_text: str) -> Tuple[Dict[str, Any], str, bool]:
+    """
+    Liefert (frontmatter, body, has_frontmatter).
+    """
     m = FRONTMATTER_RE.match(md_text)
     if not m:
         return {}, md_text, False
@@ -74,22 +85,11 @@ def parse_frontmatter(md_text: str) -> Tuple[Dict[str, Any], str, bool]:
     body = md_text[m.end():]
     return fm, body, True
 
-def serialize_frontmatter(fm: Dict[str, Any]) -> str:
-    text = yaml.safe_dump(fm, sort_keys=False, allow_unicode=True).strip()
-    return f"---\n{text}\n---\n"
 
-def replace_frontmatter(md_text: str, new_fm: Dict[str, Any]) -> str:
-    m = FRONTMATTER_RE.match(md_text)
-    header = serialize_frontmatter(new_fm)
-    if not m:
-        return header + md_text
-    return header + md_text[m.end():]
+# ---------- Utilities ----------
 
 def html_escape(s: str) -> str:
     return (s or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
-
-
-# ---------- Frontmatter-Utilities ----------
 
 def first_non_empty(*vals):
     for v in vals:
@@ -123,15 +123,6 @@ def number_from_fm(fm: Dict[str, Any]) -> int:
                 pass
     return 0
 
-def safe_bool(v: Any) -> bool:
-    if isinstance(v, bool):
-        return v
-    if isinstance(v, (int, float)):
-        return bool(v)
-    if isinstance(v, str):
-        return v.strip().lower() in ("1", "true", "yes", "y", "on")
-    return False
-
 def compute_link_for_path(path: str, base_url: str) -> str:
     slug = os.path.splitext(os.path.basename(path))[0]
     if not base_url.endswith("/"):
@@ -154,7 +145,6 @@ def load_posted_set(posted_file: str) -> Set[str]:
         data = yaml.safe_load(load_text(posted_file)) or {}
         if isinstance(data, dict) and isinstance(data.get("posted"), list):
             return set(str(x) for x in data["posted"])
-        # einfache Liste akzeptieren
         if isinstance(data, list):
             return set(str(x) for x in data)
     except Exception:
@@ -252,17 +242,10 @@ def send_telegram_photo(token: str, chat_id: str, photo_url: str, caption_html: 
 
 # ---------- Verarbeiten einer Datei ----------
 
-def process_file(path: str, slug: str, flag_key: str, token: str, chat_id: str,
-                 template: str, base_url: str, write_frontmatter: bool,
-                 dry_run: bool=False) -> bool:
+def process_file(path: str, slug: str, token: str, chat_id: str,
+                 template: str, base_url: str, dry_run: bool=False) -> bool:
     text = load_text(path)
     fm, body, _ = parse_frontmatter(text)
-
-    # Falls Frontmatter bereits true ist, einfach nix tun (aber posted.yml bleibt maßgeblich)
-    if safe_bool(fm.get(flag_key)):
-        already_flag = True
-    else:
-        already_flag = False
 
     photo_url = extract_photo_url(fm)
     if not photo_url or not str(photo_url).startswith(("http://", "https://")):
@@ -278,21 +261,14 @@ def process_file(path: str, slug: str, flag_key: str, token: str, chat_id: str,
         _ = send_telegram_photo(token, chat_id, photo_url, caption)
         print(f"[OK ] Gepostet: {os.path.basename(path)}")
 
-    # Frontmatter-Flag optional setzen
-    if write_frontmatter and not already_flag:
-        fm[flag_key] = True
-        new_text = replace_frontmatter(text, fm)
-        dump_text(path, new_text)
-
     return True
 
 
 # ---------- main ----------
 
 def main():
-    ap = argparse.ArgumentParser(description="Poste ungepostete Banner-Markdowns zu Telegram (mit persistenter posted.yml).")
+    ap = argparse.ArgumentParser(description="Poste ungepostete Banner-Markdowns zu Telegram (mit persistenter posted.yml, ohne Frontmatter-Änderungen).")
     ap.add_argument("--glob", default="docs/banner/*.md", help="Glob-Pattern der Markdown-Dateien.")
-    ap.add_argument("--flag-key", default="tg_posted", help="Frontmatter-Flag-Name (nur gesetzt, wenn --no-frontmatter nicht aktiv ist).")
     ap.add_argument("--sleep-seconds", type=int, default=5, help="Wartezeit zwischen Posts.")
     ap.add_argument("--caption-template-file", default="templates/tg_caption_template.txt",
                     help="Pfad zur Template-Datei (Default: templates/tg_caption_template.txt).")
@@ -301,7 +277,6 @@ def main():
     ap.add_argument("--base-url", default=os.getenv("BASE_SITE_URL", "https://r3f1s-on-tour.github.io/banner/"),
                     help="Basis-URL zur Seitenerzeugung (Default env BASE_SITE_URL oder feste Standard-URL).")
     ap.add_argument("--posted-file", default="data/posted.yml", help="Pfad zur Tracking-Datei (Default: data/posted.yml).")
-    ap.add_argument("--no-frontmatter", action="store_true", help="Frontmatter nicht verändern (kein tg_posted setzen).")
     ap.add_argument("--dry-run", action="store_true", help="Nur anzeigen, nicht wirklich posten.")
     args = ap.parse_args()
 
@@ -324,21 +299,18 @@ def main():
     # posted.yml laden
     posted_slugs = load_posted_set(args.posted_file)
 
-    # Kandidaten auf Basis posted_slugs UND optional Frontmatter
+    # Kandidaten bestimmen (nur anhand posted.yml)
     paths = sorted(glob.glob(args.glob))
     candidates: List[Tuple[int, str, str]] = []  # (nummer, path, slug)
 
     for p in paths:
         slug = os.path.splitext(os.path.basename(p))[0]
         if slug in posted_slugs:
-            # bereits in posted.yml -> überspringen
-            continue
+            continue  # schon gepostet
         try:
             fm, _, _ = parse_frontmatter(load_text(p))
         except Exception:
             fm = {}
-        # Auch wenn tg_posted: true ist, posted.yml ist Quelle der Wahrheit.
-        # Wir posten NICHT, wenn bereits in posted.yml. Sonst ist Kandidat.
         n = number_from_fm(fm)
         candidates.append((n, p, slug))
 
@@ -360,17 +332,15 @@ def main():
             changed = process_file(
                 path=path,
                 slug=slug,
-                flag_key=args.flag_key,
                 token=token,
                 chat_id=chat_id,
                 template=template,
                 base_url=args.base_url,
-                write_frontmatter=(not args.no_frontmatter),
                 dry_run=args.dry_run
             )
             if changed and not args.dry_run:
                 posted_slugs.add(slug)
-                # posted.yml sofort fortschreiben (robuster bei Abbrüchen)
+                # posted.yml sofort fortschreiben (robust bei Abbrüchen)
                 save_posted_set(args.posted_file, posted_slugs)
                 posted_now += 1
         except Exception as e:
