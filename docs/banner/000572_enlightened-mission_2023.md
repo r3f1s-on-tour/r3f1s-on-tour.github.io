@@ -3,7 +3,7 @@ nummer: "572"
 startLatitude: "51,435879"
 startLongitude: "14,259929"
 titel: "Enlightened Mission"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/fdc0a14c1205c69eb50b5f9b8bfa4371"
 region: "Hoyerswerda - Wojerecy"
 country: "Deutschland"
 completed: "12.624"
@@ -18,6 +18,9 @@ title: "Enlightened Mission"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

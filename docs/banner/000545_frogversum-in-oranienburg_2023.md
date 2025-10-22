@@ -3,7 +3,7 @@ nummer: "545"
 startLatitude: "52,756645"
 startLongitude: "13,244983"
 titel: "FrogVersum in Oranienburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/bac9bbf077680843963f4fd3668e3508"
 region: "Oranienburg"
 country: "Deutschland"
 completed: "12.072"
@@ -18,6 +18,9 @@ title: "FrogVersum in Oranienburg"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

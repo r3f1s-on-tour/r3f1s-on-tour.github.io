@@ -3,7 +3,7 @@ nummer: "590"
 startLatitude: "53,561425"
 startLongitude: "13,259994"
 titel: "Frog in Neubrandenburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/9582c8830b4adf1afd3623aa41313d9a"
 region: "Neubrandenburg"
 country: "Deutschland"
 completed: "13.068"
@@ -18,6 +18,9 @@ title: "Frog in Neubrandenburg"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

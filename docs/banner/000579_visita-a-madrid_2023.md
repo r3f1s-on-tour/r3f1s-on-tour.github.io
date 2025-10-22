@@ -3,7 +3,7 @@ nummer: "579"
 startLatitude: "40,417009"
 startLongitude: "-3,70231"
 titel: "Visita a Madrid"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/39251cd3df3e8cd862e8823254136dae"
 region: "Madrid"
 country: "España"
 completed: "12.846"
@@ -18,6 +18,9 @@ title: "Visita a Madrid"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

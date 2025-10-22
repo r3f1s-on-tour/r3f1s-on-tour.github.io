@@ -3,7 +3,7 @@ nummer: "503"
 startLatitude: "51,220016"
 startLongitude: "6,79448"
 titel: "Deifel in Düsseldorf"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/077dbe7f5a8f89090241712c3eec4522"
 region: "Düsseldorf"
 country: "Deutschland"
 completed: "10.752"
@@ -18,6 +18,9 @@ title: "Deifel in Düsseldorf"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

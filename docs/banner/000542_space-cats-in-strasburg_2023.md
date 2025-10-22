@@ -3,7 +3,7 @@ nummer: "542"
 startLatitude: "53,507919"
 startLongitude: "13,746105"
 titel: "Space Cats in Strasburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/c61dd5eaabf367d3b46a1ee2f3da8b74"
 region: "Strasburg (Uckermark)"
 country: "Deutschland"
 completed: "11.994"
@@ -18,6 +18,9 @@ title: "Space Cats in Strasburg"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

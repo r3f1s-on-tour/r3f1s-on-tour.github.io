@@ -3,7 +3,7 @@ nummer: "566"
 startLatitude: "52,089824"
 startLongitude: "13,171479"
 titel: "Luckenwalde"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/a14e9881fe75e72c4525b1cd6bed63a8"
 region: "Luckenwalde"
 country: "Deutschland"
 completed: "12.528"
@@ -18,6 +18,9 @@ title: "Luckenwalde"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

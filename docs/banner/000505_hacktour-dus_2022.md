@@ -3,7 +3,7 @@ nummer: "505"
 startLatitude: "51,228083"
 startLongitude: "6,788523"
 titel: "Hacktour DUS"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/5c5e3a02e1ed671a95579d74899d76ff"
 region: "Düsseldorf"
 country: "Deutschland"
 completed: "10.782"
@@ -18,6 +18,9 @@ title: "Hacktour DUS"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

@@ -3,7 +3,7 @@ nummer: "589"
 startLatitude: "51,038546"
 startLongitude: "13,702053"
 titel: "Winter Friends"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/0deac4815912469ec07e98a727543277"
 region: "Dresden"
 country: "Deutschland"
 completed: "13.050"
@@ -18,6 +18,9 @@ title: "Winter Friends"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

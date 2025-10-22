@@ -3,7 +3,7 @@ nummer: "570"
 startLatitude: "51,433507"
 startLongitude: "14,230666"
 titel: "General Hulk in Hoyerswerda"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/fdb76a0fc7cf48e6ec1df65a34e3012f"
 region: "Hoyerswerda - Wojerecy"
 country: "Deutschland"
 completed: "12.600"
@@ -18,6 +18,9 @@ title: "General Hulk in Hoyerswerda"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

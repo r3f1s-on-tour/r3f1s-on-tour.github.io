@@ -3,7 +3,7 @@ nummer: "564"
 startLatitude: "52,413667"
 startLongitude: "13,051148"
 titel: "Dark Side of the Moon"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/8056b949b29c54063454af0daeea55b4"
 region: "Potsdam"
 country: "Deutschland"
 completed: "12.498"
@@ -18,6 +18,9 @@ title: "Dark Side of the Moon"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

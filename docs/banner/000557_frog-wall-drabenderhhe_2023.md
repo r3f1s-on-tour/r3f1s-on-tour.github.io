@@ -3,7 +3,7 @@ nummer: "557"
 startLatitude: "50,946435"
 startLongitude: "7,455323"
 titel: "Frog Wall Drabenderhöhe"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/460aa2693281ecb3e07f5c1d6fefbeda"
 region: "Drabenderhöhe"
 country: "Deutschland"
 completed: "12.390"
@@ -18,6 +18,9 @@ title: "Frog Wall Drabenderhöhe"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

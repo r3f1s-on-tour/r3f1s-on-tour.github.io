@@ -3,7 +3,7 @@ nummer: "536"
 startLatitude: "52,756645"
 startLongitude: "13,244983"
 titel: "Green Wolf in Oranienburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/44daebe0e1b46af8d54b87da655110dd"
 region: "Oranienburg"
 country: "Deutschland"
 completed: "11.820"
@@ -18,6 +18,9 @@ title: "Green Wolf in Oranienburg"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

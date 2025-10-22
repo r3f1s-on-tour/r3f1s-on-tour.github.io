@@ -3,7 +3,7 @@ nummer: "559"
 startLatitude: "50,997639"
 startLongitude: "9,732508"
 titel: "Ingress down Rotenburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/7adade71b2852df2906470cb571a69c9"
 region: "Rotenburg an der Fulda"
 country: "Deutschland"
 completed: "12.420"
@@ -18,6 +18,9 @@ title: "Ingress down Rotenburg"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

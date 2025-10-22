@@ -3,7 +3,7 @@ nummer: "585"
 startLatitude: "51,057646"
 startLongitude: "13,740839"
 titel: "Happy Penguins"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/d8b662243150fb4deb9d1b4b29fd8f61"
 region: "Dresden"
 country: "Deutschland"
 completed: "13.008"
@@ -18,6 +18,9 @@ title: "Happy Penguins"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

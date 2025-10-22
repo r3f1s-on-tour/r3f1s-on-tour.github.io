@@ -3,7 +3,7 @@ nummer: "541"
 startLatitude: "53,506861"
 startLongitude: "13,74885"
 titel: "Second Sunday Cat"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/0166c6cbf03cc2bb96914b8599396a95"
 region: "Strasburg (Uckermark)"
 country: "Deutschland"
 completed: "11.988"
@@ -18,6 +18,9 @@ title: "Second Sunday Cat"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

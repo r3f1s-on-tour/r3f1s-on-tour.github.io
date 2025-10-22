@@ -3,7 +3,7 @@ nummer: "514"
 startLatitude: "50,741751"
 startLongitude: "7,095997"
 titel: "Cherry Blossom"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/e9952cd06db29653926eedd0a0c39360"
 region: "Bonn"
 country: "Deutschland"
 completed: "10.944"
@@ -18,6 +18,9 @@ title: "Cherry Blossom"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

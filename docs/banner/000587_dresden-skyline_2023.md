@@ -3,7 +3,7 @@ nummer: "587"
 startLatitude: "51,05795"
 startLongitude: "13,74587"
 titel: "Dresden Skyline"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/24dd2b71b50b077aa14b9c7ff4a7c449"
 region: "Dresden"
 country: "Deutschland"
 completed: "13.026"
@@ -18,6 +18,9 @@ title: "Dresden Skyline"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

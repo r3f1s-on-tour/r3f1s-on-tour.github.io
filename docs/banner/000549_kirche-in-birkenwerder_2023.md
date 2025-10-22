@@ -3,7 +3,7 @@ nummer: "549"
 startLatitude: "52,68692"
 startLongitude: "13,275572"
 titel: "Kirche in Birkenwerder"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/816c29e707a3870739747459dff43ee6"
 region: "Birkenwerder"
 country: "Deutschland"
 completed: "12.174"
@@ -18,6 +18,9 @@ title: "Kirche in Birkenwerder"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

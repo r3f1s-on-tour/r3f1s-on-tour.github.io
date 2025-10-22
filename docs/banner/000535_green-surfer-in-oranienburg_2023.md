@@ -3,7 +3,7 @@ nummer: "535"
 startLatitude: "52,756318"
 startLongitude: "13,244588"
 titel: "Green Surfer  in Oranienburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/fe3d5c29234689a130ffe14e60f826e9"
 region: "Oranienburg"
 country: "Deutschland"
 completed: "11.742"
@@ -18,6 +18,9 @@ title: "Green Surfer  in Oranienburg"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

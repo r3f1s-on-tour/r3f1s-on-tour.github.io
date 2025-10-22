@@ -3,7 +3,7 @@ nummer: "552"
 startLatitude: "52,54767"
 startLongitude: "13,413923"
 titel: "Beautiful Frogs Berlin"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/cb773c8c9948b7bee5217d1db01cf7b7"
 region: "Berlin"
 country: "Deutschland"
 completed: "12.258"
@@ -18,6 +18,9 @@ title: "Beautiful Frogs Berlin"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

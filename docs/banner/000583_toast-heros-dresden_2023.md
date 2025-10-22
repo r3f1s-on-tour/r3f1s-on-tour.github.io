@@ -3,7 +3,7 @@ nummer: "583"
 startLatitude: "51,039343"
 startLongitude: "13,701401"
 titel: "Toast Heros Dresden"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/c670eebd6d3b0dfe1c5deeddc0ae1302"
 region: "Dresden"
 country: "Deutschland"
 completed: "12.996"
@@ -18,6 +18,9 @@ title: "Toast Heros Dresden"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

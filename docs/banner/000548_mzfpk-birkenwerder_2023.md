@@ -3,7 +3,7 @@ nummer: "548"
 startLatitude: "52,687011"
 startLongitude: "13,282528"
 titel: "MZFPK-Birkenwerder"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/8965839e7973fe31f6de0b7f9ce72fe5"
 region: "Birkenwerder"
 country: "Deutschland"
 completed: "12.132"
@@ -18,6 +18,9 @@ title: "MZFPK-Birkenwerder"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

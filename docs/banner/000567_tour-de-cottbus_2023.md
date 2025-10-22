@@ -3,7 +3,7 @@ nummer: "567"
 startLatitude: "51,757653"
 startLongitude: "14,333559"
 titel: "Tour de Cottbus"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/3f258f0ce5e2c5102ec9311981f34cb8"
 region: "Cottbus - Chóśebuz"
 country: "Deutschland"
 completed: "12.552"
@@ -18,6 +18,9 @@ title: "Tour de Cottbus"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

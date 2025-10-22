@@ -1,21 +1,21 @@
 ---
-nummer: '19'
-startLatitude: '54.312901'
-startLongitude: '13.078783'
-titel: Das Stralsunder Wappen
-picture: https://api.bannergress.com/bnrs/pictures/ac273ab3137912d9cb9b92f74520cf2a
-region: Stralsund
-country: Deutschland
-completed: '348'
-missions: '18'
-date: '2015'
-bg-link: https://bannergress.com/banner/das-stralsunder-wappen-9a4d
-onyx: '0'
-description: Dies ist die 1. Mission für das Stralsunder Wappen!
-lengthKMeters: 5,64
-title: Das Stralsunder Wappen
-tg_posted: true
+nummer: "19"
+startLatitude: "54.312901"
+startLongitude: "13.078783"
+titel: "Das Stralsunder Wappen"
+picture: "https://api.bannergress.com/bnrs/pictures/ac273ab3137912d9cb9b92f74520cf2a"
+region: "Stralsund"
+country: "Deutschland"
+completed: "348"
+missions: "18"
+date: "2015"
+bg-link: "https://bannergress.com/banner/das-stralsunder-wappen-9a4d"
+onyx: "0"
+description: "Dies ist die 1. Mission für das Stralsunder Wappen!"
+lengthKMeters: "5,64"
+title: "Das Stralsunder Wappen"
 ---
+
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
 

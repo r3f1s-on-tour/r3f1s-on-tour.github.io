@@ -3,7 +3,7 @@ nummer: "508"
 startLatitude: "51,260319"
 startLongitude: "7,145203"
 titel: "Elberfeld im Schneckentempo"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/59a729228b1cf48cf1b3990eedf280e7"
 region: "Wuppertal"
 country: "Deutschland"
 completed: "10.836"
@@ -18,6 +18,9 @@ title: "Elberfeld im Schneckentempo"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

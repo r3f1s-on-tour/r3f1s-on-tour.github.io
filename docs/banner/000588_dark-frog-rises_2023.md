@@ -3,7 +3,7 @@ nummer: "588"
 startLatitude: "51,044895"
 startLongitude: "13,739913"
 titel: "DARK FROG RISES"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/81e737911804f4785c856eac86305ba1"
 region: "Dresden"
 country: "Deutschland"
 completed: "13.044"
@@ -18,6 +18,9 @@ title: "DARK FROG RISES"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

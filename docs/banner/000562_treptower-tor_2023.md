@@ -3,7 +3,7 @@ nummer: "562"
 startLatitude: "53,561402"
 startLongitude: "13,261756"
 titel: "Treptower Tor"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/5f7927c0f266221315c11d67fd512db6"
 region: "Neubrandenburg"
 country: "Deutschland"
 completed: "12.456"
@@ -18,6 +18,9 @@ title: "Treptower Tor"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

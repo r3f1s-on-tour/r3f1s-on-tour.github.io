@@ -3,7 +3,7 @@ nummer: "556"
 startLatitude: "53,561402"
 startLongitude: "13,261756"
 titel: "ToastAmp Neubrandenburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/c89ef58e3c7328c4ea37fff8be3a6af2"
 region: "Neubrandenburg"
 country: "Deutschland"
 completed: "12.384"
@@ -18,6 +18,9 @@ title: "ToastAmp Neubrandenburg"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

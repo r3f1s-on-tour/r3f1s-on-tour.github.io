@@ -3,7 +3,7 @@ nummer: "538"
 startLatitude: "53,558893"
 startLongitude: "13,261834"
 titel: "Schauspielhaus"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/1a84ff953b346ed980f83a30166ab1a2"
 region: "Neubrandenburg"
 country: "Deutschland"
 completed: "11.862"
@@ -18,6 +18,9 @@ title: "Schauspielhaus"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})

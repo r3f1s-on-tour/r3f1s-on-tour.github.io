@@ -3,7 +3,7 @@ nummer: "506"
 startLatitude: "51,225923"
 startLongitude: "6,77382"
 titel: "Harmony & Unity"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/052ed06117552afdf70a69b31bbd2109"
 region: "Düsseldorf"
 country: "Deutschland"
 completed: "10.818"
@@ -18,6 +18,9 @@ title: "Harmony & Unity"
 
 # {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+
+## Bild
+![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
 ## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
