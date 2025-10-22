@@ -3,15 +3,17 @@
 """
 Poste Banner-Markdowns als Telegram-Fotoposts – gesteuert über data/posted.yml.
 
-Kerneigenschaften:
-- Persistente Tracking-Datei: data/posted.yml (posted: [ "<slug1>", ... ])
-  -> Slugs in posted.yml werden nicht erneut gepostet.
+Highlights:
+- Persistente Tracking-Datei: data/posted.yml (posted: [ "<slug>", ... ])
 - Keine Frontmatter-Updates.
 - Template: template/tg_caption_template.txt (override via --caption-template-file)
-- Klickbare Links (HTML parse_mode) – {link} zeigt per Default auf deine Website.
-- Optionaler Switch --prefer-bannergress: bevorzugt bg-link.
-- Sortierung nach number/nummer/num (numerisch), dann lexikografisch.
-- Limit: --max-posts (Default 5; Env MAX_POSTS). Sleep: Default 5s.
+- Klickbare Links bleiben erhalten:
+  * Nur Text-Platzhalter werden HTML-escaped, NICHT das gesamte Template.
+  * {link} wird NICHT escaped (raw in href).
+  * Caption-Limit wird ausschließlich über Kürzen von {description} eingehalten (keine Tag-Zerstörung).
+- Sortierung: number/nummer/num (numerisch), dann lexikografisch.
+- Limit: --max-posts (Default 5) und Sleep: --sleep-seconds (Default 5).
+- Optional: --prefer-bannergress (Standard: False -> deine Website hat Vorrang)
 
 ENV:
 - TELEGRAM_BOT_TOKEN
@@ -30,9 +32,8 @@ import requests
 import yaml
 
 FRONTMATTER_RE = re.compile(r"^---\s*\n(.*?)\n---\s*\n?", re.DOTALL)
-TELEGRAM_CAPTION_MAX = 1024  # Telegram Fotocaption-Limit (konservativ)
+TELEGRAM_CAPTION_MAX = 1024  # konservativ
 
-# Fallback-Template: verlinkt die interne Seite
 FALLBACK_TEMPLATE = (
     "<b>{title}</b>\n\n"
     "<b>Banner-Nr:</b> {banner}\n"
@@ -57,9 +58,6 @@ def dump_text(path: str, text: str) -> None:
 # ---------- Markdown Frontmatter ----------
 
 def parse_frontmatter(md_text: str) -> Tuple[Dict[str, Any], str, bool]:
-    """
-    Liefert (frontmatter, body, has_frontmatter).
-    """
     m = FRONTMATTER_RE.match(md_text)
     if not m:
         return {}, md_text, False
@@ -121,12 +119,6 @@ def compute_link_for_path(path: str, base_url: str) -> str:
 # ---------- Posted-Tracking ----------
 
 def load_posted_set(posted_file: str) -> Set[str]:
-    """
-    Lädt data/posted.yml mit Struktur:
-    posted:
-      - slug1
-      - slug2
-    """
     if not os.path.exists(posted_file):
         return set()
     try:
@@ -144,28 +136,14 @@ def save_posted_set(posted_file: str, posted_slugs: Set[str]) -> None:
     dump_text(posted_file, yaml.safe_dump(payload, sort_keys=False, allow_unicode=True))
 
 
-# ---------- Caption-Erzeugung (sichere Links) ----------
-
-def truncate_to_fit(rendered_len: int, desc_value: str, max_len: int) -> str:
-    """
-    Kürzt NUR die description so, dass die Caption <= max_len wird.
-    Retourniert eine ggf. gekürzte description (HTML-escaped String).
-    """
-    if rendered_len <= max_len:
-        return desc_value
-    # Sicherheitsmarge: ein Zeichen für Ellipsis
-    overflow = rendered_len - max_len
-    cut = min(len(desc_value), overflow + 1)
-    new_len = max(0, len(desc_value) - cut)
-    return (desc_value[:new_len] + "…") if new_len > 0 else ""
+# ---------- Caption-Erzeugung (Links sicher & klickbar) ----------
 
 def build_caption(fm: Dict[str, Any], body: str, template: str, link: str, prefer_bannergress: bool) -> str:
     """
-    Baut die Caption:
-    - Template wird NICHT global ge-escaped (damit <a> klickbar bleibt).
-    - Alle Platzhalterwerte werden HTML-escaped eingesetzt.
-    - {link} zeigt standardmäßig auf deine Website (oder bg-link bei --prefer-bannergress).
-    - Falls zu lang, wird NUR {description} gekürzt.
+    - Template bleibt unverändert (enthält z.B. <a href="{link}">Link</a>).
+    - Platzhalter-Texte werden einzeln HTML-escaped eingesetzt.
+    - {link} wird RAW eingesetzt (nicht escaped), damit href exakt ist.
+    - Länge wird ausschließlich über Kürzen von {description} eingehalten.
     """
     def get(*keys: str, default: str = "") -> str:
         for k in keys:
@@ -188,10 +166,14 @@ def build_caption(fm: Dict[str, Any], body: str, template: str, link: str, prefe
     desc_raw      = get("description")
     bg_link_raw   = get("bg-link", "link")
 
-    # Linkziel bestimmen
+    # Linkziel (Standard: interne Seite)
     link_target = bg_link_raw if (prefer_bannergress and bg_link_raw) else link
+    # basic guard
+    if not (link_target.startswith("http://") or link_target.startswith("https://")):
+        # falls versehentlich ohne Schema übergeben wurde
+        link_target = "https://" + link_target.lstrip("/")
 
-    # Werte HTML-sicher machen
+    # Platzhalter-Werte escapen (nur Texte!)
     esc = html_escape
     mapping = {
         "title": esc(title_raw),
@@ -200,30 +182,34 @@ def build_caption(fm: Dict[str, Any], body: str, template: str, link: str, prefe
         "missions": esc(missions_raw),
         "region": esc(region_raw),
         "country": esc(country_raw),
-        "link": esc(link_target),   # Template erwartet <a href="{link}">
         "date": esc(date_raw),
         "lengthKMeters": esc(distance_raw),
         "distance": esc(distance_raw),
         "description": esc(desc_raw),
         "bg-link": esc(bg_link_raw),
         "body": esc((body or "").strip()),
+        # Link absichtlich NICHT escapen:
+        "link": link_target,
     }
 
     class _SafeDict(dict):
         def __missing__(self, key): return ""
 
-    # Erstes Rendering
-    rendered = template.format_map(_SafeDict(mapping))
-
-    # Bei Überlänge nur die description kürzen und neu rendern
-    if len(rendered) > TELEGRAM_CAPTION_MAX:
-        new_desc = truncate_to_fit(len(rendered), mapping["description"], TELEGRAM_CAPTION_MAX)
-        mapping["description"] = new_desc
+    # Fit-Schleife: kürze nur description, niemals global hart abschneiden.
+    # Start mit voller description:
+    description = mapping["description"]
+    while True:
+        mapping["description"] = description
         rendered = template.format_map(_SafeDict(mapping))
-        if len(rendered) > TELEGRAM_CAPTION_MAX:
-            rendered = rendered[:TELEGRAM_CAPTION_MAX - 1] + "…"
-
-    return rendered
+        if len(rendered) <= TELEGRAM_CAPTION_MAX:
+            return rendered
+        if not description:
+            # Nichts mehr zu kürzen -> als letzte Notbremse: return stark verkürzt,
+            # aber OHNE den <a>-Tag zu beschädigen → wir entfernen nur die description komplett.
+            return template.format_map(_SafeDict({**mapping, "description": ""}))
+        # heuristisch 10% der verbleibenden Länge kürzen (mind. 8 Zeichen)
+        cut = max(8, int(len(description) * 0.10))
+        description = description[:-cut]
 
 
 # ---------- Telegram ----------
@@ -260,7 +246,12 @@ def process_file(path: str, slug: str, token: str, chat_id: str,
     caption = build_caption(fm, body, template, link, prefer_bannergress)
 
     if dry_run:
-        print(f"[DRY] Würde posten: {os.path.basename(path)} -> {photo_url} | {link}")
+        print(f"[DRY] Würde posten: {os.path.basename(path)}")
+        print(f"      Photo: {photo_url}")
+        print(f"      Link : {link}")
+        print("------ Caption (HTML) ------")
+        print(caption)
+        print("----------------------------")
     else:
         _ = send_telegram_photo(token, chat_id, photo_url, caption)
         print(f"[OK ] Gepostet: {os.path.basename(path)}")
@@ -351,7 +342,6 @@ def main():
             )
             if changed and not args.dry_run:
                 posted_slugs.add(slug)
-                # Sofort persistieren (robust bei Abbrüchen)
                 save_posted_set(args.posted_file, posted_slugs)
                 posted_now += 1
         except Exception as e:
