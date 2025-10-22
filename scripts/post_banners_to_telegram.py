@@ -4,15 +4,31 @@
 Poste Banner-Markdowns als Telegram-Fotoposts, wenn die Frontmatter-Variable (z.B. 'tg_posted')
 nicht vorhanden oder nicht True ist. Nach erfolgreichem Posten wird das Flag auf True gesetzt.
 
-Neu:
-- Unterstützt deutsche Felder (z.B. 'nummer', 'titel').
+Features:
+- Unterstützt deutsche Felder (z.B. 'nummer', 'titel', 'region', 'country', 'missions', 'completed').
 - Erzeugt 'link' = BASE_URL + <filename-ohne-endung> + '/' für Template.
 - Optionales 'link_html' mit <a href="…">…</a> (Bannergress, sonst Fallback auf 'link').
+- Template aus Datei: templates/tg_caption_template.txt (override via --caption-template-file).
+- Limit: max. N Posts pro Lauf (--max-posts, Default 5; override per Env MAX_POSTS).
+- 5 Sekunden Pause zwischen Posts (konfigurierbar).
+- Sortierung nach 'number/nummer/num' (numerisch), dann lexikografisch nach Dateiname.
 
-Defaults:
-- Template: templates/tg_caption_template.txt
-- MAX_POSTS = 5 (Env: MAX_POSTS)
-- BASE_URL = https://r3f1s-on-tour.github.io/ (Env: BASE_SITE_URL überschreibt)
+Erforderliche ENV:
+- TELEGRAM_BOT_TOKEN  (z.B. 1234567890:AA... )
+- TELEGRAM_CHAT_ID    (z.B. -1001234567890 ODER @deinchannel)
+
+Optionale ENV:
+- MAX_POSTS           (Default 5)
+- BASE_SITE_URL       (Default https://r3f1s-on-tour.github.io/banner/)
+
+Beispiel-Template (templates/tg_caption_template.txt):
+<b>{title}</b>
+
+<b>Banner-Nr:</b> {banner}
+<b>Unique Mission Completed:</b> {completed} (+{missions})
+<b>Place:</b> {region},{country}
+
+<a href="{link}">Link</a>
 """
 
 import argparse
@@ -27,13 +43,17 @@ import yaml
 FRONTMATTER_RE = re.compile(r"^---\s*\n(.*?)\n---\s*\n?", re.DOTALL)
 TELEGRAM_CAPTION_MAX = 1024
 
+# Fallback-Template nur für den absoluten Notfall (Datei fehlt/leer)
 FALLBACK_TEMPLATE = (
-    "<b>{title}</b>\n"
-    "{city}{_sep_city_country}{country}\n"
-    "{date_line}{distance_line}\n"
-    "{description}\n"
+    "<b>{title}</b>\n\n"
+    "<b>Banner-Nr:</b> {banner}\n"
+    "<b>Unique Mission Completed:</b> {completed} (+{missions})\n"
+    "<b>Place:</b> {region},{country}\n\n"
     "{link_html}"
 ).strip()
+
+
+# ---------- I/O Hilfsfunktionen ----------
 
 def load_text(path: str) -> str:
     with open(path, "r", encoding="utf-8") as f:
@@ -44,6 +64,9 @@ def dump_text(path: str, text: str) -> None:
         f.write(text)
 
 def parse_frontmatter(md_text: str) -> Tuple[Dict[str, Any], str, bool]:
+    """
+    Liefert (frontmatter, body, has_frontmatter).
+    """
     m = FRONTMATTER_RE.match(md_text)
     if not m:
         return {}, md_text, False
@@ -70,6 +93,9 @@ def replace_frontmatter(md_text: str, new_fm: Dict[str, Any]) -> str:
 
 def html_escape(s: str) -> str:
     return (s or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+
+# ---------- Frontmatter-Utilities ----------
 
 def first_non_empty(*vals):
     for v in vals:
@@ -114,28 +140,45 @@ def safe_bool(v: Any) -> bool:
 
 def compute_link_for_path(path: str, base_url: str) -> str:
     slug = os.path.splitext(os.path.basename(path))[0]
-    # Basis-URL normieren
     if not base_url.endswith("/"):
         base_url += "/"
     return f"{base_url}{slug}/"
 
+
+# ---------- Caption-Erzeugung ----------
+
 def build_caption(fm: Dict[str, Any], body: str, template: str, link: str) -> str:
-    # Titel: engl. oder dt.
-    title = first_non_empty(fm.get("title"), fm.get("titel"), fm.get("name"))
-    # Stadt/Region: city/region; Country/Deutschland
-    city = first_non_empty(fm.get("city"), fm.get("region"))
-    country = first_non_empty(fm.get("country"), fm.get("land"))
-    date = first_non_empty(fm.get("date"))
-    # Distanz: mehrere mögliche Keys; Kommas bleiben erhalten (z.B. "12,84")
-    distance = first_non_empty(fm.get("lengthKMeters"), fm.get("distance_km"), fm.get("distance"))
-    description = first_non_empty(fm.get("description"))
-    bg_link = first_non_empty(fm.get("bg-link"), fm.get("link"))
+    """
+    Baut die Caption anhand des Templates.
+    Unterstützt genau die vom Nutzer gewünschten Keys:
+      {title}, {banner}, {completed}, {missions}, {region}, {country}, {link}
+    sowie zusätzliche: {date}, {lengthKMeters}/{distance}, {link_html}, {body}
+    """
+    def get(*keys: str, default: str = "") -> str:
+        for k in keys:
+            v = fm.get(k)
+            if isinstance(v, str) and v.strip():
+                return v.strip()
+            if isinstance(v, (int, float)):
+                return str(v)
+        return default
 
-    _sep_city_country = " • " if city and country else ""
-    date_line = f"Date: {date}\n" if date else ""
-    distance_line = f"Distance: {distance} km\n" if distance else ""
+    # Titel (de/en)
+    title = get("title", "titel", "name")
+    # Nummer/Banner
+    banner = get("banner", "nummer", "number", "num")
+    # Ort
+    region = get("region", "city")
+    country = get("country", "land")
+    # Zusatz
+    date = get("date")
+    completed = get("completed")
+    missions = get("missions")
+    distance = get("lengthKMeters", "distance_km", "distance")
+    description = get("description")
+    bg_link = get("bg-link", "link")
 
-    # Bevorzugt Bannergress, sonst interne Seite
+    # Link HTML: bevorzugt Bannergress
     if bg_link:
         link_html = f'<a href="{bg_link}">Open in Bannergress</a>'
     else:
@@ -145,21 +188,23 @@ def build_caption(fm: Dict[str, Any], body: str, template: str, link: str) -> st
         def __missing__(self, key): return ""
 
     mapping = _SafeDict({
+        # exakt für dein Template
         "title": title,
-        "city": city,
+        "banner": banner,
+        "completed": completed,
+        "missions": missions,
+        "region": region,
         "country": country,
+        "link": link,
+
+        # optional weiter nutzbar
         "date": date,
         "lengthKMeters": distance,
         "distance": distance,
         "description": description,
         "bg-link": bg_link,
-        "_sep_city_country": _sep_city_country,
-        "date_line": date_line,
-        "distance_line": distance_line,
+        "link_html": link_html,
         "body": (body or "").strip(),
-        # neu:
-        "link": link,           # https://r3f1s-on-tour.github.io/<slug>/
-        "link_html": link_html, # bereits fertig formatiert
     })
 
     raw = template.format_map(mapping)
@@ -169,15 +214,19 @@ def build_caption(fm: Dict[str, Any], body: str, template: str, link: str) -> st
                .replace("&lt;b&gt;", "<b>").replace("&lt;/b&gt;", "</b>")
                .replace("&lt;i&gt;", "<i>").replace("&lt;/i&gt;", "</i>")
                .replace("&lt;a ", "<a ").replace("&lt;/a&gt;", "</a>")
-               .replace("&gt;", ">", 1))  # verhindert zu aggressives Escaping beim ersten Tag
+               .replace("&gt;", ">").replace("&quot;", '"'))
+    # Telegram Caption Limit
     if len(escaped) > TELEGRAM_CAPTION_MAX:
         escaped = escaped[:TELEGRAM_CAPTION_MAX - 1] + "…"
     return escaped
 
+
+# ---------- Telegram Senden ----------
+
 def send_telegram_photo(token: str, chat_id: str, photo_url: str, caption_html: str):
     api_url = f"https://api.telegram.org/bot{token}/sendPhoto"
     payload = {
-        "chat_id": chat_id,
+        "chat_id": chat_id,          # kann numerisch ODER @username sein
         "photo": photo_url,
         "caption": caption_html,
         "parse_mode": "HTML",
@@ -188,44 +237,60 @@ def send_telegram_photo(token: str, chat_id: str, photo_url: str, caption_html: 
         raise RuntimeError(f"Telegram API error {resp.status_code}: {resp.text}")
     return resp.json()
 
-def process_file(path: str, flag_key: str, token: str, chat_id: str, template: str, base_url: str, dry_run: bool=False) -> bool:
+
+# ---------- Datei-Workflow ----------
+
+def process_file(path: str, flag_key: str, token: str, chat_id: str,
+                 template: str, base_url: str, dry_run: bool=False) -> bool:
     text = load_text(path)
     fm, body, _ = parse_frontmatter(text)
 
+    # Schon gepostet?
     if safe_bool(fm.get(flag_key)):
         return False
 
+    # Bild ermitteln
     photo_url = extract_photo_url(fm)
     if not photo_url or not str(photo_url).startswith(("http://", "https://")):
         print(f"[WARN] {path}: keine gültige Bild-URL gefunden – überspringe.")
         return False
 
+    # Link berechnen und Caption bauen
     link = compute_link_for_path(path, base_url)
     caption = build_caption(fm, body, template, link)
 
+    # Senden
     if dry_run:
         print(f"[DRY] Würde posten: {os.path.basename(path)} -> {photo_url} | {link}")
     else:
         _ = send_telegram_photo(token, chat_id, photo_url, caption)
         print(f"[OK ] Gepostet: {os.path.basename(path)}")
 
+    # Flag setzen
     fm[flag_key] = True
     new_text = replace_frontmatter(text, fm)
     dump_text(path, new_text)
     return True
 
+
+# ---------- main ----------
+
 def main():
     ap = argparse.ArgumentParser(description="Poste ungepostete Banner-Markdowns zu Telegram.")
-    ap.add_argument("--glob", default="docs/banner/*.md", help="Glob-Pattern der Markdown-Dateien.")
-    ap.add_argument("--flag-key", default="tg_posted", help="Frontmatter-Flag-Name.")
-    ap.add_argument("--sleep-seconds", type=int, default=5, help="Wartezeit zwischen Posts.")
+    ap.add_argument("--glob", default="docs/banner/*.md",
+                    help="Glob-Pattern der Markdown-Dateien.")
+    ap.add_argument("--flag-key", default="tg_posted",
+                    help="Frontmatter-Flag-Name (als True markiert nach Post).")
+    ap.add_argument("--sleep-seconds", type=int, default=5,
+                    help="Wartezeit zwischen Posts.")
     ap.add_argument("--caption-template-file", default="templates/tg_caption_template.txt",
                     help="Pfad zur Template-Datei (Default: templates/tg_caption_template.txt).")
     ap.add_argument("--max-posts", type=int, default=int(os.getenv("MAX_POSTS", "5")),
                     help="Maximale Anzahl an Posts pro Lauf (Default 5; Env MAX_POSTS).")
     ap.add_argument("--base-url", default=os.getenv("BASE_SITE_URL", "https://r3f1s-on-tour.github.io/banner/"),
                     help="Basis-URL zur Seitenerzeugung (Default env BASE_SITE_URL oder feste Standard-URL).")
-    ap.add_argument("--dry-run", action="store_true", help="Nur anzeigen, nicht wirklich posten.")
+    ap.add_argument("--dry-run", action="store_true",
+                    help="Nur anzeigen, nicht wirklich posten.")
     args = ap.parse_args()
 
     token = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
@@ -245,6 +310,8 @@ def main():
         template = FALLBACK_TEMPLATE
 
     paths = sorted(glob.glob(args.glob))
+
+    # Kandidaten (Flag fehlt oder ist false)
     candidates: List[Tuple[int, str]] = []
     for p in paths:
         try:
@@ -252,13 +319,14 @@ def main():
         except Exception:
             fm = {}
         if not safe_bool(fm.get(args.flag_key)):
-            n = number_from_fm(fm)
+            n = number_from_fm(fm)  # natürliche Sortierung nach Nummer
             candidates.append((n, p))
 
     if not candidates:
         print("[INFO] Nichts zu posten. Alle Einträge sind bereits markiert.")
         return
 
+    # Sortieren: numerisch nach Nummer, bei Gleichstand lexikografisch
     candidates.sort(key=lambda t: (t[0], t[1]))
     max_posts = max(0, int(args.max_posts))
 
@@ -282,10 +350,12 @@ def main():
                 posted += 1
         except Exception as e:
             print(f"[ERR] Fehler beim Posten von {path}: {e}")
+        # Pause zwischen Posts (außer ggf. nach dem letzten/Limit erreicht)
         if posted < max_posts and idx < len(candidates):
             time.sleep(max(0, args.sleep_seconds))
 
     print(f"[DONE] Abgeschlossen. Gepostet/gekennzeichnet: {posted}/{len(candidates)} (Limit {max_posts}).")
+
 
 if __name__ == "__main__":
     main()
