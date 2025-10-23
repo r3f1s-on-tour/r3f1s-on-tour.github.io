@@ -1,41 +1,45 @@
 ---
-nummer: "188"
-startLatitude: "48.153409"
-startLongitude: "11.571345"
-titel: "Crying Angel"
+nummer: 188
+startLatitude: 48.153409
+startLongitude: 11.571345
+titel: Crying Angel
 picture: ""
-region: "München"
-country: "Deutschland"
-completed: "4458"
-missions: "12"
-date: "2018"
+region: München
+country: Deutschland
+completed: 4458
+missions: 12
+date: 2018
 bg-link: "https://bannergress.com/banner/crying-angel-59c9"
-onyx: "0"
+onyx: 0
 description: "Kleine Tour über den alten Nordfriedhof. Vorsicht vor den weinenden Engel"
-lengthKMeters: "2,21"
+lengthKMeters: 2,21
 umap: ""
-title: "Crying Angel"
+missionDay: ""
+notice: ""
 ---
 # Crying Angel
 
-*2018* • München • Deutschland
+*2018* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 2.21
 - **Missions in banner:** 12
-- **Total missions completed:** 4458
+- **Total missions completed:** 
 - **This is my banner no.:** 188
 
 
-!!! note "Description"
-    Kleine Tour über den alten Nordfriedhof. Vorsicht vor den weinenden Engel
+
+## Description
+Kleine Tour über den alten Nordfriedhof. Vorsicht vor den weinenden Engel
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/crying-angel-59c9){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/crying-angel-59c9" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

@@ -1,32 +1,36 @@
 ---
-nummer: "175"
-startLatitude: "48.126225"
-startLongitude: "11.632263"
+nummer: 175
+startLatitude: 48.126225
+startLongitude: 11.632263
 titel: "Whaleomaly is Coming [Berg am Laim]"
 picture: ""
-region: "München"
-country: "Deutschland"
-completed: "4188"
-missions: "6"
-date: "2018"
+region: München
+country: Deutschland
+completed: 4188
+missions: 6
+date: 2018
 bg-link: ""
-onyx: "0"
+onyx: 0
 description: ""
 lengthKMeters: ""
 umap: ""
-title: "Whaleomaly is Coming [Berg am Laim]"
+missionDay: ""
+notice: ""
 ---
 # Whaleomaly is Coming [Berg am Laim]
 
-*2018* • München • Deutschland
+*2018* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 
 - **Missions in banner:** 6
-- **Total missions completed:** 4188
+- **Total missions completed:** 
 - **This is my banner no.:** 175
+
 
 
 

@@ -1,41 +1,45 @@
 ---
-nummer: "514"
-startLatitude: "50,741751"
-startLongitude: "7,095997"
-titel: "Cherry Blossom"
+nummer: 514
+startLatitude: 50,741751
+startLongitude: 7,095997
+titel: Cherry Blossom
 picture: "https://api.bannergress.com/bnrs/pictures/e9952cd06db29653926eedd0a0c39360"
-region: "Bonn"
-country: "Deutschland"
-completed: "10.944"
-missions: "24"
-date: "2022"
+region: Bonn
+country: Deutschland
+completed: 10.944
+missions: 24
+date: 2022
 bg-link: "https://bannergress.com/banner/cherry-blossom-7cc3"
-onyx: "0"
+onyx: 0
 description: "Welcome to Bonn! Have a great time and enjoy the Cherry Blossom."
-lengthKMeters: "5,954"
+lengthKMeters: 5,954
 umap: ""
-title: "Cherry Blossom"
+missionDay: ""
+notice: ""
 ---
 # Cherry Blossom
 
-*2022* • Bonn • Deutschland
+*2022* • {{__REGION__}} • Deutschland
 
 ![Cherry Blossom](https://api.bannergress.com/bnrs/pictures/e9952cd06db29653926eedd0a0c39360)
+
+
 
 ## Details
 - **Distance (km):** 5.95
 - **Missions in banner:** 24
-- **Total missions completed:** 10.944
+- **Total missions completed:** 
 - **This is my banner no.:** 514
 
 
-!!! note "Description"
-    Welcome to Bonn! Have a great time and enjoy the Cherry Blossom.
+
+## Description
+Welcome to Bonn! Have a great time and enjoy the Cherry Blossom.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/cherry-blossom-7cc3){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/cherry-blossom-7cc3" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

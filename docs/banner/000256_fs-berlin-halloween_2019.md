@@ -1,32 +1,36 @@
 ---
-nummer: "256"
-startLatitude: "52.5470284"
-startLongitude: "13.3584449"
-titel: "FS Berlin Halloween"
+nummer: 256
+startLatitude: 52.5470284
+startLongitude: 13.3584449
+titel: FS Berlin Halloween
 picture: ""
-region: "Berlin"
-country: "Deutschland"
-completed: "6162"
-missions: "6"
-date: "2019"
+region: Berlin
+country: Deutschland
+completed: 6162
+missions: 6
+date: 2019
 bg-link: ""
-onyx: "0"
+onyx: 0
 description: ""
 lengthKMeters: ""
 umap: ""
-title: "FS Berlin Halloween"
+missionDay: ""
+notice: ""
 ---
 # FS Berlin Halloween
 
-*2019* • Berlin • Deutschland
+*2019* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 
 - **Missions in banner:** 6
-- **Total missions completed:** 6162
+- **Total missions completed:** 
 - **This is my banner no.:** 256
+
 
 
 

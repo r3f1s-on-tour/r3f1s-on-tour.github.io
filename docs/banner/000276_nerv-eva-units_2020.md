@@ -1,41 +1,45 @@
 ---
-nummer: "276"
-startLatitude: "52.503786"
-startLongitude: "13.46872"
-titel: "NERV - EVA Units"
+nummer: 276
+startLatitude: 52.503786
+startLongitude: 13.46872
+titel: NERV - EVA Units
 picture: ""
-region: "Berlin"
-country: "Deutschland"
-completed: "6456"
-missions: "6"
-date: "2020"
+region: Berlin
+country: Deutschland
+completed: 6456
+missions: 6
+date: 2020
 bg-link: "https://bannergress.com/banner/nerv-eva-units-4cc8"
-onyx: "0"
+onyx: 0
 description: "Small walk through the neighborhood of famous Berlin Friedrichshain."
-lengthKMeters: "1,67"
+lengthKMeters: 1,67
 umap: ""
-title: "NERV - EVA Units"
+missionDay: ""
+notice: ""
 ---
 # NERV - EVA Units
 
-*2020* • Berlin • Deutschland
+*2020* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 1.67
 - **Missions in banner:** 6
-- **Total missions completed:** 6456
+- **Total missions completed:** 
 - **This is my banner no.:** 276
 
 
-!!! note "Description"
-    Small walk through the neighborhood of famous Berlin Friedrichshain.
+
+## Description
+Small walk through the neighborhood of famous Berlin Friedrichshain.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/nerv-eva-units-4cc8){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/nerv-eva-units-4cc8" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

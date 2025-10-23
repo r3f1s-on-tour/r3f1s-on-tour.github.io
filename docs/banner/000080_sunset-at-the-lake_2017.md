@@ -1,41 +1,45 @@
 ---
-nummer: "80"
-startLatitude: "48.077323"
-startLongitude: "11.251291"
-titel: "Sunset at the lake"
+nummer: 80
+startLatitude: 48.077323
+startLongitude: 11.251291
+titel: Sunset at the lake
 picture: "https://api.bannergress.com/bnrs/pictures/e3e494a190ecc79e317bf49128248159"
-region: "Oberpfaffenhofen"
-country: "Deutschland"
-completed: "2142"
-missions: "12"
-date: "2017"
+region: Oberpfaffenhofen
+country: Deutschland
+completed: 2142
+missions: 12
+date: 2017
 bg-link: "https://bannergress.com/banner/sunset-at-the-lake-8330"
-onyx: "0"
+onyx: 0
 description: "Erkunde den Wesslinger See und mache ein schönes Bild mit Sonnenuntergang am See. Die Missionsreihe besteht aus zwei Runden um den Wesslinger See- Hack&Capture und Link&Field. Endportal = Startportal."
-lengthKMeters: "6,25"
+lengthKMeters: 6,25
 umap: ""
-title: "Sunset at the lake"
+missionDay: ""
+notice: ""
 ---
 # Sunset at the lake
 
-*2017* • Oberpfaffenhofen • Deutschland
+*2017* • {{__REGION__}} • Deutschland
 
 ![Sunset at the lake](https://api.bannergress.com/bnrs/pictures/e3e494a190ecc79e317bf49128248159)
+
+
 
 ## Details
 - **Distance (km):** 6.25
 - **Missions in banner:** 12
-- **Total missions completed:** 2142
+- **Total missions completed:** 
 - **This is my banner no.:** 80
 
 
-!!! note "Description"
-    Erkunde den Wesslinger See und mache ein schönes Bild mit Sonnenuntergang am See. Die Missionsreihe besteht aus zwei Runden um den Wesslinger See- Hack&Capture und Link&Field. Endportal = Startportal.
+
+## Description
+Erkunde den Wesslinger See und mache ein schönes Bild mit Sonnenuntergang am See. Die Missionsreihe besteht aus zwei Runden um den Wesslinger See- Hack&Capture und Link&Field. Endportal = Startportal.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/sunset-at-the-lake-8330){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/sunset-at-the-lake-8330" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

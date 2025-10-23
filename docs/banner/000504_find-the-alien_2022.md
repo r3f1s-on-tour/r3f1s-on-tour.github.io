@@ -1,42 +1,46 @@
 ---
-nummer: "504"
-startLatitude: "51,253636"
-startLongitude: "6,771298"
-titel: "Find the Alien"
+nummer: 504
+startLatitude: 51,253636
+startLongitude: 6,771298
+titel: Find the Alien
 picture: "https://api.bannergress.com/bnrs/pictures/abf6cf5b89cb3c4d941e4591cc9d2cab"
-region: "Düsseldorf"
-country: "Deutschland"
-completed: "10.776"
-missions: "24"
-date: "2022"
+region: Düsseldorf
+country: Deutschland
+completed: 10.776
+missions: 24
+date: 2022
 bg-link: "https://bannergress.com/banner/find-the-alien-90f6"
-onyx: "0"
+onyx: 0
 description: "Willkommen auf dem Düsseldorfer Nordfriedhof. Nachdem hier schon die Borg gesichtet worden sind, \ngibt es starke Anzeichen dass es hier auch Aliens gibt. Folge der Route in der richtigen Reihenfolge!"
-lengthKMeters: "5,541"
+lengthKMeters: 5,541
 umap: ""
-title: "Find the Alien"
+missionDay: ""
+notice: ""
 ---
 # Find the Alien
 
-*2022* • Düsseldorf • Deutschland
+*2022* • {{__REGION__}} • Deutschland
 
 ![Find the Alien](https://api.bannergress.com/bnrs/pictures/abf6cf5b89cb3c4d941e4591cc9d2cab)
+
+
 
 ## Details
 - **Distance (km):** 5.54
 - **Missions in banner:** 24
-- **Total missions completed:** 10.776
+- **Total missions completed:** 
 - **This is my banner no.:** 504
 
 
-!!! note "Description"
-    Willkommen auf dem Düsseldorfer Nordfriedhof. Nachdem hier schon die Borg gesichtet worden sind, 
+
+## Description
+Willkommen auf dem Düsseldorfer Nordfriedhof. Nachdem hier schon die Borg gesichtet worden sind, 
 gibt es starke Anzeichen dass es hier auch Aliens gibt. Folge der Route in der richtigen Reihenfolge!
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/find-the-alien-90f6){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/find-the-alien-90f6" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

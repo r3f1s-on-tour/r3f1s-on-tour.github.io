@@ -1,43 +1,47 @@
 ---
-nummer: "187"
-startLatitude: "47.862482"
-startLongitude: "12.009136"
-titel: "Aiblinger Wolf"
+nummer: 187
+startLatitude: 47.862482
+startLongitude: 12.009136
+titel: Aiblinger Wolf
 picture: ""
-region: "Bad Aibling"
-country: "Deutschland"
-completed: "4446"
-missions: "18"
-date: "2018"
+region: Bad Aibling
+country: Deutschland
+completed: 4446
+missions: 18
+date: 2018
 bg-link: "https://bannergress.com/banner/aiblinger-wolf-be80"
-onyx: "0"
+onyx: 0
 description: "Hackrunde durch den Kurpark zur Eisdiele.\nInsgesamt 4 Runden. \nNur nach Aufforderung hacken."
-lengthKMeters: "3,47"
+lengthKMeters: 3,47
 umap: ""
-title: "Aiblinger Wolf"
+missionDay: ""
+notice: ""
 ---
 # Aiblinger Wolf
 
-*2018* • Bad Aibling • Deutschland
+*2018* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 3.47
 - **Missions in banner:** 18
-- **Total missions completed:** 4446
+- **Total missions completed:** 
 - **This is my banner no.:** 187
 
 
-!!! note "Description"
-    Hackrunde durch den Kurpark zur Eisdiele.
+
+## Description
+Hackrunde durch den Kurpark zur Eisdiele.
 Insgesamt 4 Runden. 
 Nur nach Aufforderung hacken.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/aiblinger-wolf-be80){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/aiblinger-wolf-be80" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

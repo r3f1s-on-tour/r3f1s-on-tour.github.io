@@ -1,43 +1,47 @@
 ---
-nummer: "384"
-startLatitude: "52.756491"
-startLongitude: "13.245295"
-titel: "Second Sunday Januar 22 in Oranienburg"
+nummer: 384
+startLatitude: 52.756491
+startLongitude: 13.245295
+titel: Second Sunday Januar 22 in Oranienburg
 picture: "https://api.bannergress.com/bnrs/pictures/82a8725714a55ccd98fba08e8fb07b50"
-region: "Oranienburg"
-country: "Deutschland"
-completed: "8304"
-missions: "6"
-date: "2022"
+region: Oranienburg
+country: Deutschland
+completed: 8304
+missions: 6
+date: 2022
 bg-link: "https://bannergress.com/banner/second-sunday-januar-22-in-oranienburg-8d24"
-onyx: "0"
+onyx: 0
 description: "Mache zum Second Sunday ein kleine Runde durch Oranienburg. Start ist in der Bernauer Straße.\n\nOnline bis 10.01.2022"
-lengthKMeters: "2,13"
+lengthKMeters: 2,13
 umap: ""
-title: "Second Sunday Januar 22 in Oranienburg"
+missionDay: ""
+notice: ""
 ---
 # Second Sunday Januar 22 in Oranienburg
 
-*2022* • Oranienburg • Deutschland
+*2022* • {{__REGION__}} • Deutschland
 
 ![Second Sunday Januar 22 in Oranienburg](https://api.bannergress.com/bnrs/pictures/82a8725714a55ccd98fba08e8fb07b50)
+
+
 
 ## Details
 - **Distance (km):** 2.13
 - **Missions in banner:** 6
-- **Total missions completed:** 8304
+- **Total missions completed:** 
 - **This is my banner no.:** 384
 
 
-!!! note "Description"
-    Mache zum Second Sunday ein kleine Runde durch Oranienburg. Start ist in der Bernauer Straße.
+
+## Description
+Mache zum Second Sunday ein kleine Runde durch Oranienburg. Start ist in der Bernauer Straße.
 
 Online bis 10.01.2022
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/second-sunday-januar-22-in-oranienburg-8d24){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/second-sunday-januar-22-in-oranienburg-8d24" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

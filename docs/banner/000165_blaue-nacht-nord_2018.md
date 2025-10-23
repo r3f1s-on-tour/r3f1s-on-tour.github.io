@@ -1,32 +1,36 @@
 ---
-nummer: "165"
-startLatitude: "49.452761"
-startLongitude: "11.078086"
-titel: "Blaue Nacht Nord"
+nummer: 165
+startLatitude: 49.452761
+startLongitude: 11.078086
+titel: Blaue Nacht Nord
 picture: ""
-region: "Nürnberg"
-country: "Deutschland"
-completed: "4020"
-missions: "36"
-date: "2018"
+region: Nürnberg
+country: Deutschland
+completed: 4020
+missions: 36
+date: 2018
 bg-link: ""
-onyx: "1"
+onyx: 1
 description: ""
 lengthKMeters: ""
 umap: ""
-title: "Blaue Nacht Nord"
+missionDay: ""
+notice: ""
 ---
 # Blaue Nacht Nord
 
-*2018* • Nürnberg • Deutschland
+*2018* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 
 - **Missions in banner:** 36
-- **Total missions completed:** 4020
+- **Total missions completed:** 
 - **This is my banner no.:** 165
+
 
 
 

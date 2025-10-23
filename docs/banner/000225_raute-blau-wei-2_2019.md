@@ -1,38 +1,42 @@
 ---
-nummer: "225"
-startLatitude: "48.1354439"
-startLongitude: "11.5474184"
-titel: "Raute Blau Weiß 2"
+nummer: 225
+startLatitude: 48.1354439
+startLongitude: 11.5474184
+titel: Raute Blau Weiß 2
 picture: ""
-region: "München"
-country: "Deutschland"
-completed: "5406"
-missions: "6"
-date: "2019"
+region: München
+country: Deutschland
+completed: 5406
+missions: 6
+date: 2019
 bg-link: "https://bannergress.com/banner/raute-blau-wei%C3%9F-teil-ii-63f0"
-onyx: "0"
+onyx: 0
 description: ""
 lengthKMeters: ""
 umap: ""
-title: "Raute Blau Weiß 2"
+missionDay: ""
+notice: ""
 ---
 # Raute Blau Weiß 2
 
-*2019* • München • Deutschland
+*2019* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 
 - **Missions in banner:** 6
-- **Total missions completed:** 5406
+- **Total missions completed:** 
 - **This is my banner no.:** 225
 
 
 
 
+
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/raute-blau-wei%C3%9F-teil-ii-63f0){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/raute-blau-wei%C3%9F-teil-ii-63f0" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

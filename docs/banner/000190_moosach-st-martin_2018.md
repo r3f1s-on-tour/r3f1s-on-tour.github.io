@@ -1,41 +1,45 @@
 ---
-nummer: "190"
-startLatitude: "48.179616"
-startLongitude: "11.505557"
-titel: "Moosach St. Martin"
+nummer: 190
+startLatitude: 48.179616
+startLongitude: 11.505557
+titel: Moosach St. Martin
 picture: ""
-region: "München"
-country: "Deutschland"
-completed: "4506"
-missions: "36"
-date: "2018"
+region: München
+country: Deutschland
+completed: 4506
+missions: 36
+date: 2018
 bg-link: "https://bannergress.com/banner/moosach-st-martin-8710"
-onyx: "1"
+onyx: 1
 description: "Die Alte Pfarrkirche St. Martin im Münchner Stadtteil Moosach"
-lengthKMeters: "26,62"
+lengthKMeters: 26,62
 umap: ""
-title: "Moosach St. Martin"
+missionDay: ""
+notice: ""
 ---
 # Moosach St. Martin
 
-*2018* • München • Deutschland
+*2018* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 26.62
 - **Missions in banner:** 36
-- **Total missions completed:** 4506
+- **Total missions completed:** 
 - **This is my banner no.:** 190
 
 
-!!! note "Description"
-    Die Alte Pfarrkirche St. Martin im Münchner Stadtteil Moosach
+
+## Description
+Die Alte Pfarrkirche St. Martin im Münchner Stadtteil Moosach
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/moosach-st-martin-8710){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/moosach-st-martin-8710" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

@@ -1,32 +1,36 @@
 ---
-nummer: "132"
-startLatitude: "50.110098"
-startLongitude: "8.678426"
-titel: "An der Paulskirche"
+nummer: 132
+startLatitude: 50.110098
+startLongitude: 8.678426
+titel: An der Paulskirche
 picture: ""
-region: "Frankfurt am Main"
-country: "Deutschland"
-completed: "3216"
-missions: "36"
-date: "2018"
+region: Frankfurt am Main
+country: Deutschland
+completed: 3216
+missions: 36
+date: 2018
 bg-link: ""
-onyx: "0"
+onyx: 0
 description: ""
 lengthKMeters: ""
 umap: ""
-title: "An der Paulskirche"
+missionDay: ""
+notice: ""
 ---
 # An der Paulskirche
 
-*2018* • Frankfurt am Main • Deutschland
+*2018* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 
 - **Missions in banner:** 36
-- **Total missions completed:** 3216
+- **Total missions completed:** 
 - **This is my banner no.:** 132
+
 
 
 

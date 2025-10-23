@@ -1,41 +1,45 @@
 ---
-nummer: "494"
-startLatitude: "50,943451"
-startLongitude: "6,959376"
-titel: "Deifel in Köln"
+nummer: 494
+startLatitude: 50,943451
+startLongitude: 6,959376
+titel: Deifel in Köln
 picture: "https://api.bannergress.com/bnrs/pictures/935bfc8026f0baa734992c8f0e84f869"
-region: "Köln"
-country: "Deutschland"
-completed: "10.566"
-missions: "6"
-date: "2022"
+region: Köln
+country: Deutschland
+completed: 10.566
+missions: 6
+date: 2022
 bg-link: "https://bannergress.com/banner/deifel-in-k%C3%B6ln-7270"
-onyx: "0"
+onyx: 0
 description: "Starte am Hauptbahnhof einen Rundgang und entdecke Köln. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten, historische Orte und den Kölner Dom. Die Runde endet am Hansaring"
-lengthKMeters: "2"
+lengthKMeters: 2
 umap: ""
-title: "Deifel in Köln"
+missionDay: ""
+notice: ""
 ---
 # Deifel in Köln
 
-*2022* • Köln • Deutschland
+*2022* • {{__REGION__}} • Deutschland
 
 ![Deifel in Köln](https://api.bannergress.com/bnrs/pictures/935bfc8026f0baa734992c8f0e84f869)
+
+
 
 ## Details
 - **Distance (km):** 2.00
 - **Missions in banner:** 6
-- **Total missions completed:** 10.566
+- **Total missions completed:** 
 - **This is my banner no.:** 494
 
 
-!!! note "Description"
-    Starte am Hauptbahnhof einen Rundgang und entdecke Köln. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten, historische Orte und den Kölner Dom. Die Runde endet am Hansaring
+
+## Description
+Starte am Hauptbahnhof einen Rundgang und entdecke Köln. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten, historische Orte und den Kölner Dom. Die Runde endet am Hansaring
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/deifel-in-k%C3%B6ln-7270){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/deifel-in-k%C3%B6ln-7270" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

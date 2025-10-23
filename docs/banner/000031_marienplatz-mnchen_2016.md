@@ -1,41 +1,45 @@
 ---
-nummer: "31"
-startLatitude: "48.137437"
-startLongitude: "11.575546"
-titel: "Marienplatz München"
+nummer: 31
+startLatitude: 48.137437
+startLongitude: 11.575546
+titel: Marienplatz München
 picture: ""
-region: "München"
-country: "Deutschland"
-completed: "624"
-missions: "24"
-date: "2016"
+region: München
+country: Deutschland
+completed: 624
+missions: 24
+date: 2016
 bg-link: "https://bannergress.com/banner/marienplatz-m%C3%BCnchen-50a9"
-onyx: "0"
+onyx: 0
 description: "1315 verlieh Kaiser Ludwig der Bayer München die Marktfreiheit mit der Auflage, dass der damals Marktplatz genannte Marienplatz „auf ewige Zeiten“ hin unbebaut bleibe."
-lengthKMeters: "5,84"
+lengthKMeters: 5,84
 umap: ""
-title: "Marienplatz München"
+missionDay: ""
+notice: ""
 ---
 # Marienplatz München
 
-*2016* • München • Deutschland
+*2016* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 5.84
 - **Missions in banner:** 24
-- **Total missions completed:** 624
+- **Total missions completed:** 
 - **This is my banner no.:** 31
 
 
-!!! note "Description"
-    1315 verlieh Kaiser Ludwig der Bayer München die Marktfreiheit mit der Auflage, dass der damals Marktplatz genannte Marienplatz „auf ewige Zeiten“ hin unbebaut bleibe.
+
+## Description
+1315 verlieh Kaiser Ludwig der Bayer München die Marktfreiheit mit der Auflage, dass der damals Marktplatz genannte Marienplatz „auf ewige Zeiten“ hin unbebaut bleibe.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/marienplatz-m%C3%BCnchen-50a9){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/marienplatz-m%C3%BCnchen-50a9" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

@@ -1,36 +1,40 @@
 ---
-nummer: "380"
-startLatitude: "52.756318"
-startLongitude: "13.244588"
-titel: "New Years Toast in Oranienburg"
+nummer: 380
+startLatitude: 52.756318
+startLongitude: 13.244588
+titel: New Years Toast in Oranienburg
 picture: ""
-region: "Oranienburg"
-country: "Deutschland"
-completed: "8262"
-missions: "6"
-date: "2022"
+region: Oranienburg
+country: Deutschland
+completed: 8262
+missions: 6
+date: 2022
 bg-link: ""
-onyx: "0"
+onyx: 0
 description: "Mache eine kleine Tour durch Oranienburg und hole dir die Toasts ins Profil"
-lengthKMeters: "1,68"
+lengthKMeters: 1,68
 umap: ""
-title: "New Years Toast in Oranienburg"
+missionDay: ""
+notice: ""
 ---
 # New Years Toast in Oranienburg
 
-*2022* • Oranienburg • Deutschland
+*2022* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 1.68
 - **Missions in banner:** 6
-- **Total missions completed:** 8262
+- **Total missions completed:** 
 - **This is my banner no.:** 380
 
 
-!!! note "Description"
-    Mache eine kleine Tour durch Oranienburg und hole dir die Toasts ins Profil
+
+## Description
+Mache eine kleine Tour durch Oranienburg und hole dir die Toasts ins Profil
 
 
 

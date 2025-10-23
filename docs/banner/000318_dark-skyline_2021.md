@@ -1,41 +1,45 @@
 ---
-nummer: "318"
-startLatitude: "52.375425"
-startLongitude: "9.741563"
-titel: "Dark Skyline"
+nummer: 318
+startLatitude: 52.375425
+startLongitude: 9.741563
+titel: Dark Skyline
 picture: ""
-region: "Hannover"
-country: "Deutschland"
-completed: "7386"
-missions: "6"
-date: "2021"
+region: Hannover
+country: Deutschland
+completed: 7386
+missions: 6
+date: 2021
 bg-link: "https://bannergress.com/banner/dark-skyline-135b"
-onyx: "0"
+onyx: 0
 description: "Six-mission-set in the city-centre that shows some of Hannovers popular sights."
-lengthKMeters: "1,81"
+lengthKMeters: 1,81
 umap: ""
-title: "Dark Skyline"
+missionDay: ""
+notice: ""
 ---
 # Dark Skyline
 
-*2021* • Hannover • Deutschland
+*2021* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 1.81
 - **Missions in banner:** 6
-- **Total missions completed:** 7386
+- **Total missions completed:** 
 - **This is my banner no.:** 318
 
 
-!!! note "Description"
-    Six-mission-set in the city-centre that shows some of Hannovers popular sights.
+
+## Description
+Six-mission-set in the city-centre that shows some of Hannovers popular sights.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/dark-skyline-135b){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/dark-skyline-135b" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

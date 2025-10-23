@@ -1,36 +1,40 @@
 ---
-nummer: "353"
-startLatitude: "52.754504"
-startLongitude: "13.248415"
-titel: "DB in Oranienburg"
+nummer: 353
+startLatitude: 52.754504
+startLongitude: 13.248415
+titel: DB in Oranienburg
 picture: ""
-region: "Oranienburg"
-country: "Deutschland"
-completed: "7902"
-missions: "18"
-date: "2021"
+region: Oranienburg
+country: Deutschland
+completed: 7902
+missions: 18
+date: 2021
 bg-link: ""
-onyx: "0"
+onyx: 0
 description: "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße"
-lengthKMeters: "6,05"
+lengthKMeters: 6,05
 umap: ""
-title: "DB in Oranienburg"
+missionDay: ""
+notice: ""
 ---
 # DB in Oranienburg
 
-*2021* • Oranienburg • Deutschland
+*2021* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 6.05
 - **Missions in banner:** 18
-- **Total missions completed:** 7902
+- **Total missions completed:** 
 - **This is my banner no.:** 353
 
 
-!!! note "Description"
-    Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
+
+## Description
+Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 

@@ -1,36 +1,40 @@
 ---
-nummer: "521"
-startLatitude: "52,756491"
-startLongitude: "13,245295"
-titel: "Unkown in Oranienburg"
+nummer: 521
+startLatitude: 52,756491
+startLongitude: 13,245295
+titel: Unkown in Oranienburg
 picture: ""
-region: "Oranienburg"
-country: "Deutschland"
-completed: "11.004"
-missions: "6"
-date: "2023"
+region: Oranienburg
+country: Deutschland
+completed: 11.004
+missions: 6
+date: 2023
 bg-link: ""
-onyx: "1"
+onyx: 1
 description: "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße"
-lengthKMeters: "1,29"
+lengthKMeters: 1,29
 umap: ""
-title: "Unkown in Oranienburg"
+missionDay: ""
+notice: ""
 ---
 # Unkown in Oranienburg
 
-*2023* • Oranienburg • Deutschland
+*2023* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 1.29
 - **Missions in banner:** 6
-- **Total missions completed:** 11.004
+- **Total missions completed:** 
 - **This is my banner no.:** 521
 
 
-!!! note "Description"
-    Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
+
+## Description
+Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 

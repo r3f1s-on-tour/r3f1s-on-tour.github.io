@@ -1,41 +1,45 @@
 ---
-nummer: "397"
-startLatitude: "52,516121"
-startLongitude: "13,379398"
-titel: "2nd Sunday Mitte"
+nummer: 397
+startLatitude: 52,516121
+startLongitude: 13,379398
+titel: 2nd Sunday Mitte
 picture: "https://api.bannergress.com/bnrs/pictures/edc412993520c3741de81742a59f4e3f"
-region: "Berlin"
-country: "Deutschland"
-completed: "8.514"
-missions: "6"
-date: "2022"
+region: Berlin
+country: Deutschland
+completed: 8.514
+missions: 6
+date: 2022
 bg-link: "https://bannergress.com/banner/2nd-sunday-mitte-fe1f"
-onyx: "0"
+onyx: 0
 description: "Spaziere zum Second Sunday 02/22 über den Boulevard Unter den Linden im Bezitk Mitte."
-lengthKMeters: "2,04"
+lengthKMeters: 2,04
 umap: ""
-title: "2nd Sunday Mitte"
+missionDay: ""
+notice: ""
 ---
 # 2nd Sunday Mitte
 
-*2022* • Berlin • Deutschland
+*2022* • {{__REGION__}} • Deutschland
 
 ![2nd Sunday Mitte](https://api.bannergress.com/bnrs/pictures/edc412993520c3741de81742a59f4e3f)
+
+
 
 ## Details
 - **Distance (km):** 2.04
 - **Missions in banner:** 6
-- **Total missions completed:** 8.514
+- **Total missions completed:** 
 - **This is my banner no.:** 397
 
 
-!!! note "Description"
-    Spaziere zum Second Sunday 02/22 über den Boulevard Unter den Linden im Bezitk Mitte.
+
+## Description
+Spaziere zum Second Sunday 02/22 über den Boulevard Unter den Linden im Bezitk Mitte.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/2nd-sunday-mitte-fe1f){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/2nd-sunday-mitte-fe1f" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

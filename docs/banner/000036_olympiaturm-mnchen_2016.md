@@ -1,41 +1,45 @@
 ---
-nummer: "36"
-startLatitude: "48.141321"
-startLongitude: "11.558117"
-titel: "Olympiaturm München"
+nummer: 36
+startLatitude: 48.141321
+startLongitude: 11.558117
+titel: Olympiaturm München
 picture: ""
-region: "München"
-country: "Deutschland"
-completed: "750"
-missions: "60"
-date: "2016"
+region: München
+country: Deutschland
+completed: 750
+missions: 60
+date: 2016
 bg-link: "https://bannergress.com/banner/olympiaturm-m%C3%BCnchen-24a1"
-onyx: "0"
+onyx: 0
 description: "Diese Missionsreihe führt dich vom Hauptbahnhof quer durch München zum Olympiaturm in 60 kleinen Missionen."
-lengthKMeters: "21,90"
+lengthKMeters: 21,90
 umap: ""
-title: "Olympiaturm München"
+missionDay: ""
+notice: ""
 ---
 # Olympiaturm München
 
-*2016* • München • Deutschland
+*2016* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 21.90
 - **Missions in banner:** 60
-- **Total missions completed:** 750
+- **Total missions completed:** 
 - **This is my banner no.:** 36
 
 
-!!! note "Description"
-    Diese Missionsreihe führt dich vom Hauptbahnhof quer durch München zum Olympiaturm in 60 kleinen Missionen.
+
+## Description
+Diese Missionsreihe führt dich vom Hauptbahnhof quer durch München zum Olympiaturm in 60 kleinen Missionen.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/olympiaturm-m%C3%BCnchen-24a1){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/olympiaturm-m%C3%BCnchen-24a1" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

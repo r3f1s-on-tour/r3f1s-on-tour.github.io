@@ -1,36 +1,40 @@
 ---
-nummer: "489"
-startLatitude: "52,756491"
-startLongitude: "13,245295"
-titel: "Bats in Oranienburg"
+nummer: 489
+startLatitude: 52,756491
+startLongitude: 13,245295
+titel: Bats in Oranienburg
 picture: ""
-region: "Oranienburg"
-country: "Deutschland"
-completed: "10.512"
-missions: "6"
-date: "2022"
+region: Oranienburg
+country: Deutschland
+completed: 10.512
+missions: 6
+date: 2022
 bg-link: ""
-onyx: "0"
+onyx: 0
 description: "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße"
-lengthKMeters: "1,259"
+lengthKMeters: 1,259
 umap: ""
-title: "Bats in Oranienburg"
+missionDay: ""
+notice: ""
 ---
 # Bats in Oranienburg
 
-*2022* • Oranienburg • Deutschland
+*2022* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 1.26
 - **Missions in banner:** 6
-- **Total missions completed:** 10.512
+- **Total missions completed:** 
 - **This is my banner no.:** 489
 
 
-!!! note "Description"
-    Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
+
+## Description
+Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 

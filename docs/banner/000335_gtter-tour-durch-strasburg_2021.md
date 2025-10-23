@@ -1,43 +1,47 @@
 ---
-nummer: "335"
-startLatitude: "53.506348"
-startLongitude: "13.745009"
-titel: "Götter Tour durch Strasburg"
+nummer: 335
+startLatitude: 53.506348
+startLongitude: 13.745009
+titel: Götter Tour durch Strasburg
 picture: ""
-region: "Strasburg (Uckermark)"
-country: "Deutschland"
-completed: "7650"
-missions: "6"
-date: "2021"
+region: Strasburg (Uckermark)
+country: Deutschland
+completed: 7650
+missions: 6
+date: 2021
 bg-link: "https://bannergress.com/banner/g%C3%B6tter-tour-durch-strasburg-8cf3"
-onyx: "0"
+onyx: 0
 description: "Starte am Marktplatz und entdecke Strasburg Uckermark und hol dir die Götter ins Profil\n\nGeht am 08.11.2021 offline"
-lengthKMeters: "3,17"
+lengthKMeters: 3,17
 umap: ""
-title: "Götter Tour durch Strasburg"
+missionDay: ""
+notice: ""
 ---
 # Götter Tour durch Strasburg
 
-*2021* • Strasburg (Uckermark) • Deutschland
+*2021* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 3.17
 - **Missions in banner:** 6
-- **Total missions completed:** 7650
+- **Total missions completed:** 
 - **This is my banner no.:** 335
 
 
-!!! note "Description"
-    Starte am Marktplatz und entdecke Strasburg Uckermark und hol dir die Götter ins Profil
+
+## Description
+Starte am Marktplatz und entdecke Strasburg Uckermark und hol dir die Götter ins Profil
 
 Geht am 08.11.2021 offline
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/g%C3%B6tter-tour-durch-strasburg-8cf3){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/g%C3%B6tter-tour-durch-strasburg-8cf3" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

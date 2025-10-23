@@ -1,36 +1,40 @@
 ---
-nummer: "525"
-startLatitude: "52,756318"
-startLongitude: "13,244588"
-titel: "Green Fireworks in Oranienburg"
+nummer: 525
+startLatitude: 52,756318
+startLongitude: 13,244588
+titel: Green Fireworks in Oranienburg
 picture: ""
-region: "Oranienburg"
-country: "Deutschland"
-completed: "11.100"
-missions: "18"
-date: "2023"
+region: Oranienburg
+country: Deutschland
+completed: 11.100
+missions: 18
+date: 2023
 bg-link: ""
-onyx: "0"
+onyx: 0
 description: "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße"
-lengthKMeters: "5,7"
+lengthKMeters: 5,7
 umap: ""
-title: "Green Fireworks in Oranienburg"
+missionDay: ""
+notice: ""
 ---
 # Green Fireworks in Oranienburg
 
-*2023* • Oranienburg • Deutschland
+*2023* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 5.70
 - **Missions in banner:** 18
-- **Total missions completed:** 11.100
+- **Total missions completed:** 
 - **This is my banner no.:** 525
 
 
-!!! note "Description"
-    Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
+
+## Description
+Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 

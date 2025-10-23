@@ -1,36 +1,40 @@
 ---
-nummer: "374"
-startLatitude: "53.50709"
-startLongitude: "13.74965"
-titel: "XMas Panda in Strasburg"
+nummer: 374
+startLatitude: 53.50709
+startLongitude: 13.74965
+titel: XMas Panda in Strasburg
 picture: ""
-region: "Strasburg (Uckermark)"
-country: "Deutschland"
-completed: "8172"
-missions: "6"
-date: "2021"
+region: Strasburg (Uckermark)
+country: Deutschland
+completed: 8172
+missions: 6
+date: 2021
 bg-link: ""
-onyx: "0"
+onyx: 0
 description: "Mache eine Entdeckungsrunde durch Strasburg und hole dir paar XMas Panda ins Profil"
-lengthKMeters: "2,73"
+lengthKMeters: 2,73
 umap: ""
-title: "XMas Panda in Strasburg"
+missionDay: ""
+notice: ""
 ---
 # XMas Panda in Strasburg
 
-*2021* • Strasburg (Uckermark) • Deutschland
+*2021* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 2.73
 - **Missions in banner:** 6
-- **Total missions completed:** 8172
+- **Total missions completed:** 
 - **This is my banner no.:** 374
 
 
-!!! note "Description"
-    Mache eine Entdeckungsrunde durch Strasburg und hole dir paar XMas Panda ins Profil
+
+## Description
+Mache eine Entdeckungsrunde durch Strasburg und hole dir paar XMas Panda ins Profil
 
 
 

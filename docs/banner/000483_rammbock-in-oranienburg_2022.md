@@ -1,41 +1,45 @@
 ---
-nummer: "483"
-startLatitude: "52,756318"
-startLongitude: "13,244588"
-titel: "Rammbock in Oranienburg"
+nummer: 483
+startLatitude: 52,756318
+startLongitude: 13,244588
+titel: Rammbock in Oranienburg
 picture: "https://api.bannergress.com/bnrs/pictures/497d3477de6312acf9cc142d6fe09ff6"
-region: "Oranienburg"
-country: "Deutschland"
-completed: "10.434"
-missions: "6"
-date: "2022"
+region: Oranienburg
+country: Deutschland
+completed: 10.434
+missions: 6
+date: 2022
 bg-link: "https://bannergress.com/banner/rammbock-in-oranienburg-1b23"
-onyx: "0"
+onyx: 0
 description: "Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße."
-lengthKMeters: "1,599"
+lengthKMeters: 1,599
 umap: ""
-title: "Rammbock in Oranienburg"
+missionDay: ""
+notice: ""
 ---
 # Rammbock in Oranienburg
 
-*2022* • Oranienburg • Deutschland
+*2022* • {{__REGION__}} • Deutschland
 
 ![Rammbock in Oranienburg](https://api.bannergress.com/bnrs/pictures/497d3477de6312acf9cc142d6fe09ff6)
+
+
 
 ## Details
 - **Distance (km):** 1.60
 - **Missions in banner:** 6
-- **Total missions completed:** 10.434
+- **Total missions completed:** 
 - **This is my banner no.:** 483
 
 
-!!! note "Description"
-    Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
+
+## Description
+Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/rammbock-in-oranienburg-1b23){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/rammbock-in-oranienburg-1b23" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

@@ -1,41 +1,45 @@
 ---
-nummer: "415"
-startLatitude: "53,503771"
-startLongitude: "13,98897"
-titel: "RetroGaming - Ghost n Goblins"
+nummer: 415
+startLatitude: 53,503771
+startLongitude: 13,98897
+titel: RetroGaming - Ghost n Goblins
 picture: "https://api.bannergress.com/bnrs/pictures/6ed455d39db691971a312f230e184901"
-region: "Pasewalk"
-country: "Deutschland"
-completed: "8.724"
-missions: "6"
-date: "2022"
+region: Pasewalk
+country: Deutschland
+completed: 8.724
+missions: 6
+date: 2022
 bg-link: "https://bannergress.com/banner/retrogaming-ghost-n-goblins-cf24"
-onyx: "0"
+onyx: 0
 description: "Starte auf dem Markt eine Entdeckungsreise durch die Stadt Pasewalk und entdecke dabei die Sehenswürdigkeiten der Stadt"
-lengthKMeters: "3,57"
+lengthKMeters: 3,57
 umap: ""
-title: "RetroGaming - Ghost n Goblins"
+missionDay: ""
+notice: ""
 ---
 # RetroGaming - Ghost n Goblins
 
-*2022* • Pasewalk • Deutschland
+*2022* • {{__REGION__}} • Deutschland
 
 ![RetroGaming - Ghost n Goblins](https://api.bannergress.com/bnrs/pictures/6ed455d39db691971a312f230e184901)
+
+
 
 ## Details
 - **Distance (km):** 3.57
 - **Missions in banner:** 6
-- **Total missions completed:** 8.724
+- **Total missions completed:** 
 - **This is my banner no.:** 415
 
 
-!!! note "Description"
-    Starte auf dem Markt eine Entdeckungsreise durch die Stadt Pasewalk und entdecke dabei die Sehenswürdigkeiten der Stadt
+
+## Description
+Starte auf dem Markt eine Entdeckungsreise durch die Stadt Pasewalk und entdecke dabei die Sehenswürdigkeiten der Stadt
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/retrogaming-ghost-n-goblins-cf24){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/retrogaming-ghost-n-goblins-cf24" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

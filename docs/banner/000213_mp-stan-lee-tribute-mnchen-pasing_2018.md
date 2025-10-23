@@ -1,32 +1,36 @@
 ---
-nummer: "213"
-startLatitude: "48.149014"
-startLongitude: "11.460917"
+nummer: 213
+startLatitude: 48.149014
+startLongitude: 11.460917
 titel: "#MP Stan Lee Tribute [München-Pasing]"
 picture: ""
-region: "München"
-country: "Deutschland"
-completed: "5178"
-missions: "6"
-date: "2018"
+region: München
+country: Deutschland
+completed: 5178
+missions: 6
+date: 2018
 bg-link: ""
-onyx: "0"
+onyx: 0
 description: ""
 lengthKMeters: ""
 umap: ""
-title: "#MP Stan Lee Tribute [München-Pasing]"
+missionDay: ""
+notice: ""
 ---
 # #MP Stan Lee Tribute [München-Pasing]
 
-*2018* • München • Deutschland
+*2018* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 
 - **Missions in banner:** 6
-- **Total missions completed:** 5178
+- **Total missions completed:** 
 - **This is my banner no.:** 213
+
 
 
 

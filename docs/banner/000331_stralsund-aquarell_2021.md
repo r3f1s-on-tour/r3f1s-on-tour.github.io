@@ -1,41 +1,45 @@
 ---
-nummer: "331"
-startLatitude: "54.309001"
-startLongitude: "13.077616"
-titel: "Stralsund Aquarell"
+nummer: 331
+startLatitude: 54.309001
+startLongitude: 13.077616
+titel: Stralsund Aquarell
 picture: ""
-region: "Stralsund"
-country: "Deutschland"
-completed: "7578"
-missions: "12"
-date: "2021"
+region: Stralsund
+country: Deutschland
+completed: 7578
+missions: 12
+date: 2021
 bg-link: "https://bannergress.com/banner/stralsund-aquarell-a181"
-onyx: "0"
+onyx: 0
 description: "Willkommen am Stralsunder Hauptbahnhof. Von hier aus führt die Missionsreihe in Richtung Altstadt."
-lengthKMeters: "3,85"
+lengthKMeters: 3,85
 umap: ""
-title: "Stralsund Aquarell"
+missionDay: ""
+notice: ""
 ---
 # Stralsund Aquarell
 
-*2021* • Stralsund • Deutschland
+*2021* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 3.85
 - **Missions in banner:** 12
-- **Total missions completed:** 7578
+- **Total missions completed:** 
 - **This is my banner no.:** 331
 
 
-!!! note "Description"
-    Willkommen am Stralsunder Hauptbahnhof. Von hier aus führt die Missionsreihe in Richtung Altstadt.
+
+## Description
+Willkommen am Stralsunder Hauptbahnhof. Von hier aus führt die Missionsreihe in Richtung Altstadt.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/stralsund-aquarell-a181){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/stralsund-aquarell-a181" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

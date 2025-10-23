@@ -1,41 +1,45 @@
 ---
-nummer: "44"
-startLatitude: "48.136661"
-startLongitude: "11.576878"
-titel: "Munich city walls"
+nummer: 44
+startLatitude: 48.136661
+startLongitude: 11.576878
+titel: Munich city walls
 picture: "https://api.bannergress.com/bnrs/pictures/32a35f14acc45a1c3470909a31431e93"
-region: "München"
-country: "Deutschland"
-completed: "978"
-missions: "24"
-date: "2016"
+region: München
+country: Deutschland
+completed: 978
+missions: 24
+date: 2016
 bg-link: "https://bannergress.com/banner/munich-city-walls-0113"
-onyx: "0"
+onyx: 0
 description: "In former times Munich had two city walls. Later the town was transformed into a fortress. This mission series explores the remnants and traces of that time. Please read the portal texts."
-lengthKMeters: "13,80"
+lengthKMeters: 13,80
 umap: ""
-title: "Munich city walls"
+missionDay: ""
+notice: ""
 ---
 # Munich city walls
 
-*2016* • München • Deutschland
+*2016* • {{__REGION__}} • Deutschland
 
 ![Munich city walls](https://api.bannergress.com/bnrs/pictures/32a35f14acc45a1c3470909a31431e93)
+
+
 
 ## Details
 - **Distance (km):** 13.80
 - **Missions in banner:** 24
-- **Total missions completed:** 978
+- **Total missions completed:** 
 - **This is my banner no.:** 44
 
 
-!!! note "Description"
-    In former times Munich had two city walls. Later the town was transformed into a fortress. This mission series explores the remnants and traces of that time. Please read the portal texts.
+
+## Description
+In former times Munich had two city walls. Later the town was transformed into a fortress. This mission series explores the remnants and traces of that time. Please read the portal texts.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/munich-city-walls-0113){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/munich-city-walls-0113" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

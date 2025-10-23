@@ -1,41 +1,45 @@
 ---
-nummer: "539"
-startLatitude: "53,56027"
-startLongitude: "13,261232"
-titel: "Second Sunday Tower in Neubrandenburg"
+nummer: 539
+startLatitude: 53,56027
+startLongitude: 13,261232
+titel: Second Sunday Tower in Neubrandenburg
 picture: "https://api.bannergress.com/bnrs/pictures/a788ccd7ecdc2cdf406a7cdbf51c2265"
-region: "Neubrandenburg"
-country: "Deutschland"
-completed: "11.958"
-missions: "96"
-date: "2023"
+region: Neubrandenburg
+country: Deutschland
+completed: 11.958
+missions: 96
+date: 2023
 bg-link: "https://bannergress.com/banner/second-sunday-tower-in-neubrandenburg-ca2b"
-onyx: "0"
+onyx: 0
 description: "Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Neubrandenburg. Starte am Bahnhof deine Runde"
-lengthKMeters: "5,756"
+lengthKMeters: 5,756
 umap: ""
-title: "Second Sunday Tower in Neubrandenburg"
+missionDay: ""
+notice: ""
 ---
 # Second Sunday Tower in Neubrandenburg
 
-*2023* • Neubrandenburg • Deutschland
+*2023* • {{__REGION__}} • Deutschland
 
 ![Second Sunday Tower in Neubrandenburg](https://api.bannergress.com/bnrs/pictures/a788ccd7ecdc2cdf406a7cdbf51c2265)
+
+
 
 ## Details
 - **Distance (km):** 5.76
 - **Missions in banner:** 96
-- **Total missions completed:** 11.958
+- **Total missions completed:** 
 - **This is my banner no.:** 539
 
 
-!!! note "Description"
-    Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Neubrandenburg. Starte am Bahnhof deine Runde
+
+## Description
+Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Neubrandenburg. Starte am Bahnhof deine Runde
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/second-sunday-tower-in-neubrandenburg-ca2b){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/second-sunday-tower-in-neubrandenburg-ca2b" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

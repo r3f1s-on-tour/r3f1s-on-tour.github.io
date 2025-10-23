@@ -1,38 +1,42 @@
 ---
-nummer: "613"
+nummer: 613
 startLatitude: ""
 startLongitude: ""
-titel: "Łowicz-Muster Tour in der Oranienburger Straße"
+titel: Łowicz-Muster Tour in der Oranienburger Straße
 picture: "https://api.bannergress.com/bnrs/pictures/4eb320933eceae6520fde68d35d23d05"
-region: "Berlin"
-country: "Deutschland"
-completed: "13.422"
-missions: "6"
-date: "2025"
+region: Berlin
+country: Deutschland
+completed: 13.422
+missions: 6
+date: 2025
 bg-link: "https://bannergress.com/banner/%C5%82owicz-muster-tour-in-der-oranienburger-stra%C3%9Fe-75f1"
-onyx: "0"
+onyx: 0
 description: ""
-lengthKMeters: "1,6"
+lengthKMeters: 1,6
 umap: ""
-title: "Łowicz-Muster Tour in der Oranienburger Straße"
+missionDay: ""
+notice: ""
 ---
 # Łowicz-Muster Tour in der Oranienburger Straße
 
-*2025* • Berlin • Deutschland
+*2025* • {{__REGION__}} • Deutschland
 
 ![Łowicz-Muster Tour in der Oranienburger Straße](https://api.bannergress.com/bnrs/pictures/4eb320933eceae6520fde68d35d23d05)
+
+
 
 ## Details
 - **Distance (km):** 1.60
 - **Missions in banner:** 6
-- **Total missions completed:** 13.422
+- **Total missions completed:** 
 - **This is my banner no.:** 613
 
 
 
 
+
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/%C5%82owicz-muster-tour-in-der-oranienburger-stra%C3%9Fe-75f1){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/%C5%82owicz-muster-tour-in-der-oranienburger-stra%C3%9Fe-75f1" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

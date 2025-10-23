@@ -1,41 +1,45 @@
 ---
-nummer: "9"
-startLatitude: "54.398545"
-startLongitude: "13.625131"
-titel: "Binz auf Rügen"
+nummer: 9
+startLatitude: 54.398545
+startLongitude: 13.625131
+titel: Binz auf Rügen
 picture: ""
-region: "Binz"
-country: "Deutschland"
-completed: "198"
-missions: "18"
-date: "2015"
+region: Binz
+country: Deutschland
+completed: 198
+missions: 18
+date: 2015
 bg-link: "https://bannergress.com/banner/binz-auf-r%C3%BCgen-2ec3"
-onyx: "0"
+onyx: 0
 description: "Besonderer Anziehungspunkt ist die 3,2 km lange Strandpromenade mit zahlreichen und liebevoll restaurierten Bädervillen, Hotels, Cafés und Restaurants sowie der Seebrücke."
-lengthKMeters: "9,08"
+lengthKMeters: 9,08
 umap: ""
-title: "Binz auf Rügen"
+missionDay: ""
+notice: ""
 ---
 # Binz auf Rügen
 
-*2015* • Binz • Deutschland
+*2015* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 9.08
 - **Missions in banner:** 18
-- **Total missions completed:** 198
+- **Total missions completed:** 
 - **This is my banner no.:** 9
 
 
-!!! note "Description"
-    Besonderer Anziehungspunkt ist die 3,2 km lange Strandpromenade mit zahlreichen und liebevoll restaurierten Bädervillen, Hotels, Cafés und Restaurants sowie der Seebrücke.
+
+## Description
+Besonderer Anziehungspunkt ist die 3,2 km lange Strandpromenade mit zahlreichen und liebevoll restaurierten Bädervillen, Hotels, Cafés und Restaurants sowie der Seebrücke.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/binz-auf-r%C3%BCgen-2ec3){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/binz-auf-r%C3%BCgen-2ec3" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

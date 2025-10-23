@@ -1,36 +1,40 @@
 ---
-nummer: "395"
-startLatitude: "52,756318"
-startLongitude: "13,244588"
-titel: "Valentintoast 1"
+nummer: 395
+startLatitude: 52,756318
+startLongitude: 13,244588
+titel: Valentintoast 1
 picture: ""
-region: "Oranienburg"
-country: "Deutschland"
-completed: "8.502"
-missions: "6"
-date: "2022"
+region: Oranienburg
+country: Deutschland
+completed: 8.502
+missions: 6
+date: 2022
 bg-link: ""
-onyx: "1"
+onyx: 1
 description: "Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße."
-lengthKMeters: "1,60"
+lengthKMeters: 1,60
 umap: ""
-title: "Valentintoast 1"
+missionDay: ""
+notice: ""
 ---
 # Valentintoast 1
 
-*2022* • Oranienburg • Deutschland
+*2022* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 1.60
 - **Missions in banner:** 6
-- **Total missions completed:** 8.502
+- **Total missions completed:** 
 - **This is my banner no.:** 395
 
 
-!!! note "Description"
-    Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
+
+## Description
+Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
 
 
 

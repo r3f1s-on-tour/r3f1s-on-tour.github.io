@@ -1,41 +1,45 @@
 ---
-nummer: "279"
-startLatitude: "52.553363"
-startLongitude: "13.415256"
-titel: "Pankowsmasher"
+nummer: 279
+startLatitude: 52.553363
+startLongitude: 13.415256
+titel: Pankowsmasher
 picture: ""
-region: "Berlin"
-country: "Deutschland"
-completed: "6480"
-missions: "12"
-date: "2020"
+region: Berlin
+country: Deutschland
+completed: 6480
+missions: 12
+date: 2020
 bg-link: "https://bannergress.com/banner/pankowsmasher-b978"
-onyx: "0"
+onyx: 0
 description: "Diese Mission beginnt in Pankow und geleitet euch vorbei an wunderschönen Wasserpumpen, Informationstafeln und historischen Bauwerken.  Sie besteht aus 12 Missionen  und bildet ein  einmaliges Banner."
-lengthKMeters: "8,97"
+lengthKMeters: 8,97
 umap: ""
-title: "Pankowsmasher"
+missionDay: ""
+notice: ""
 ---
 # Pankowsmasher
 
-*2020* • Berlin • Deutschland
+*2020* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 8.97
 - **Missions in banner:** 12
-- **Total missions completed:** 6480
+- **Total missions completed:** 
 - **This is my banner no.:** 279
 
 
-!!! note "Description"
-    Diese Mission beginnt in Pankow und geleitet euch vorbei an wunderschönen Wasserpumpen, Informationstafeln und historischen Bauwerken.  Sie besteht aus 12 Missionen  und bildet ein  einmaliges Banner.
+
+## Description
+Diese Mission beginnt in Pankow und geleitet euch vorbei an wunderschönen Wasserpumpen, Informationstafeln und historischen Bauwerken.  Sie besteht aus 12 Missionen  und bildet ein  einmaliges Banner.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/pankowsmasher-b978){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/pankowsmasher-b978" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

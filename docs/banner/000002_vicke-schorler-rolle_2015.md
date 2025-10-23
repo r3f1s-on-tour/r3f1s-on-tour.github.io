@@ -1,32 +1,36 @@
 ---
-nummer: "2"
-startLatitude: "54.088461"
-startLongitude: "12.129432"
-titel: "Vicke Schorler Rolle"
+nummer: 2
+startLatitude: 54.088461
+startLongitude: 12.129432
+titel: Vicke Schorler Rolle
 picture: "https://lh3.googleusercontent.com/pw/AP1GczMR6Ew49IolF_yKFAtKx2CaWrCeRg9NtiP3RF5H4aUAGzMi9Po7v_tc626pFIPbloPP7-yaBtUmO_eF3MXvescWN4xJwPrBo3MTsCvzMTaGSy4cKd4QGRvobKJSXWe8IH0AO9irvuhPwjU1t5JUw_cJ9Q"
-region: "Rostock"
-country: "Deutschland"
-completed: "102"
-missions: "6"
-date: "2015"
+region: Rostock
+country: Deutschland
+completed: 102
+missions: 6
+date: 2015
 bg-link: ""
-onyx: "0"
+onyx: 0
 description: ""
 lengthKMeters: ""
 umap: ""
-title: "Vicke Schorler Rolle"
+missionDay: ""
+notice: ""
 ---
 # Vicke Schorler Rolle
 
-*2015* • Rostock • Deutschland
+*2015* • {{__REGION__}} • Deutschland
 
 ![Vicke Schorler Rolle](https://lh3.googleusercontent.com/pw/AP1GczMR6Ew49IolF_yKFAtKx2CaWrCeRg9NtiP3RF5H4aUAGzMi9Po7v_tc626pFIPbloPP7-yaBtUmO_eF3MXvescWN4xJwPrBo3MTsCvzMTaGSy4cKd4QGRvobKJSXWe8IH0AO9irvuhPwjU1t5JUw_cJ9Q)
+
+
 
 ## Details
 
 - **Missions in banner:** 6
-- **Total missions completed:** 102
+- **Total missions completed:** 
 - **This is my banner no.:** 2
+
 
 
 

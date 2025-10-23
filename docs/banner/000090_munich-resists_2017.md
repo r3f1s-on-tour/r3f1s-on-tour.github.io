@@ -1,41 +1,45 @@
 ---
-nummer: "90"
-startLatitude: "48.139956"
-startLongitude: "11.586938"
-titel: "Munich resists!"
+nummer: 90
+startLatitude: 48.139956
+startLongitude: 11.586938
+titel: Munich resists!
 picture: "https://api.bannergress.com/bnrs/pictures/aa450cbf2fff346fcbba9f846ff0b53f"
-region: "München"
-country: "Deutschland"
-completed: "2364"
-missions: "66"
-date: "2017"
+region: München
+country: Deutschland
+completed: 2364
+missions: 66
+date: 2017
 bg-link: "https://bannergress.com/banner/munich-resists-aa8d"
-onyx: "0"
+onyx: 0
 description: "Sei kein Frosch - und folge dem Weg des Widerstands durch die bayerische Landeshauptstadt!"
-lengthKMeters: "25,94"
+lengthKMeters: 25,94
 umap: ""
-title: "Munich resists!"
+missionDay: ""
+notice: ""
 ---
 # Munich resists!
 
-*2017* • München • Deutschland
+*2017* • {{__REGION__}} • Deutschland
 
 ![Munich resists!](https://api.bannergress.com/bnrs/pictures/aa450cbf2fff346fcbba9f846ff0b53f)
+
+
 
 ## Details
 - **Distance (km):** 25.94
 - **Missions in banner:** 66
-- **Total missions completed:** 2364
+- **Total missions completed:** 
 - **This is my banner no.:** 90
 
 
-!!! note "Description"
-    Sei kein Frosch - und folge dem Weg des Widerstands durch die bayerische Landeshauptstadt!
+
+## Description
+Sei kein Frosch - und folge dem Weg des Widerstands durch die bayerische Landeshauptstadt!
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/munich-resists-aa8d){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/munich-resists-aa8d" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

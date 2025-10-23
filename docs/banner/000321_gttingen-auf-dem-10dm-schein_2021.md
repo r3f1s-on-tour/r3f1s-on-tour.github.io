@@ -1,41 +1,45 @@
 ---
-nummer: "321"
-startLatitude: "51.537244"
-startLongitude: "9.924205"
-titel: "Göttingen auf dem 10DM Schein"
+nummer: 321
+startLatitude: 51.537244
+startLongitude: 9.924205
+titel: Göttingen auf dem 10DM Schein
 picture: ""
-region: "Göttingen"
-country: "Deutschland"
-completed: "7452"
-missions: "18"
-date: "2021"
+region: Göttingen
+country: Deutschland
+completed: 7452
+missions: 18
+date: 2021
 bg-link: "https://bannergress.com/banner/g%C3%B6ttingen-auf-dem-10dm-schein-0144"
-onyx: "0"
+onyx: 0
 description: "Auf dem letzten 10 Deutsche Mark Schein waren die Sternwarte, die Johanniskirche, die Universitätsaula, das Rathaus, der Kirchturm von Jacobi und das Museum der Stadt Göttingen zu sehen."
-lengthKMeters: "6,55"
+lengthKMeters: 6,55
 umap: ""
-title: "Göttingen auf dem 10DM Schein"
+missionDay: ""
+notice: ""
 ---
 # Göttingen auf dem 10DM Schein
 
-*2021* • Göttingen • Deutschland
+*2021* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 6.55
 - **Missions in banner:** 18
-- **Total missions completed:** 7452
+- **Total missions completed:** 
 - **This is my banner no.:** 321
 
 
-!!! note "Description"
-    Auf dem letzten 10 Deutsche Mark Schein waren die Sternwarte, die Johanniskirche, die Universitätsaula, das Rathaus, der Kirchturm von Jacobi und das Museum der Stadt Göttingen zu sehen.
+
+## Description
+Auf dem letzten 10 Deutsche Mark Schein waren die Sternwarte, die Johanniskirche, die Universitätsaula, das Rathaus, der Kirchturm von Jacobi und das Museum der Stadt Göttingen zu sehen.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/g%C3%B6ttingen-auf-dem-10dm-schein-0144){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/g%C3%B6ttingen-auf-dem-10dm-schein-0144" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

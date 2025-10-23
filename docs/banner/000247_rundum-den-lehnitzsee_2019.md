@@ -1,42 +1,46 @@
 ---
-nummer: "247"
-startLatitude: "52.765923"
-startLongitude: "13.278086"
-titel: "Rundum den Lehnitzsee"
+nummer: 247
+startLatitude: 52.765923
+startLongitude: 13.278086
+titel: Rundum den Lehnitzsee
 picture: ""
-region: "Oranienburg"
-country: "Deutschland"
-completed: "6030"
-missions: "18"
-date: "2019"
+region: Oranienburg
+country: Deutschland
+completed: 6030
+missions: 18
+date: 2019
 bg-link: "https://bannergress.com/banner/rundum-den-lehnitzsee-3930"
-onyx: "0"
+onyx: 0
 description: "Abfolge 1 der Reihe um den Lehnitzsee entlang des Naturlehrpfades.\nZu Fuß wirst du etwa 4 std. benötigen und kannst dies nur mit dem Fahrrad verkürzen."
-lengthKMeters: "8,75"
+lengthKMeters: 8,75
 umap: ""
-title: "Rundum den Lehnitzsee"
+missionDay: ""
+notice: ""
 ---
 # Rundum den Lehnitzsee
 
-*2019* • Oranienburg • Deutschland
+*2019* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 8.75
 - **Missions in banner:** 18
-- **Total missions completed:** 6030
+- **Total missions completed:** 
 - **This is my banner no.:** 247
 
 
-!!! note "Description"
-    Abfolge 1 der Reihe um den Lehnitzsee entlang des Naturlehrpfades.
+
+## Description
+Abfolge 1 der Reihe um den Lehnitzsee entlang des Naturlehrpfades.
 Zu Fuß wirst du etwa 4 std. benötigen und kannst dies nur mit dem Fahrrad verkürzen.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/rundum-den-lehnitzsee-3930){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/rundum-den-lehnitzsee-3930" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

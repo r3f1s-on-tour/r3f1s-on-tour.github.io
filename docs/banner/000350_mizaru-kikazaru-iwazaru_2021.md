@@ -1,42 +1,46 @@
 ---
-nummer: "350"
-startLatitude: "52.533167"
-startLongitude: "13.412641"
-titel: "Mizaru, Kikazaru, Iwazaru"
+nummer: 350
+startLatitude: 52.533167
+startLongitude: 13.412641
+titel: Mizaru, Kikazaru, Iwazaru
 picture: "https://api.bannergress.com/bnrs/pictures/334761ec1815ec8b11b42c6d9105bb24"
-region: "Berlin"
-country: "Deutschland"
-completed: "7860"
-missions: "18"
-date: "2021"
+region: Berlin
+country: Deutschland
+completed: 7860
+missions: 18
+date: 2021
 bg-link: "https://bannergress.com/banner/mizaru-kikazaru-iwazaru-dbe2"
-onyx: "0"
+onyx: 0
 description: "Starte eine Runde durch den Kollwitzkiez entlang des Teutoburger Platz und der Zionkirchsplatz.\nStart und Ende der Runde ist am Senefelderplatz"
-lengthKMeters: "6,02"
+lengthKMeters: 6,02
 umap: ""
-title: "Mizaru, Kikazaru, Iwazaru"
+missionDay: ""
+notice: ""
 ---
 # Mizaru, Kikazaru, Iwazaru
 
-*2021* • Berlin • Deutschland
+*2021* • {{__REGION__}} • Deutschland
 
 ![Mizaru, Kikazaru, Iwazaru](https://api.bannergress.com/bnrs/pictures/334761ec1815ec8b11b42c6d9105bb24)
+
+
 
 ## Details
 - **Distance (km):** 6.02
 - **Missions in banner:** 18
-- **Total missions completed:** 7860
+- **Total missions completed:** 
 - **This is my banner no.:** 350
 
 
-!!! note "Description"
-    Starte eine Runde durch den Kollwitzkiez entlang des Teutoburger Platz und der Zionkirchsplatz.
+
+## Description
+Starte eine Runde durch den Kollwitzkiez entlang des Teutoburger Platz und der Zionkirchsplatz.
 Start und Ende der Runde ist am Senefelderplatz
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/mizaru-kikazaru-iwazaru-dbe2){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/mizaru-kikazaru-iwazaru-dbe2" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

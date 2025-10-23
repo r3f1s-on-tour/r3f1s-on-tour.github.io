@@ -1,41 +1,45 @@
 ---
-nummer: "206"
-startLatitude: "39.575945"
-startLongitude: "2.655087"
-titel: "Mallorca Skyline"
+nummer: 206
+startLatitude: 39.575945
+startLongitude: 2.655087
+titel: Mallorca Skyline
 picture: ""
-region: "Palma"
-country: "España"
-completed: "4818"
-missions: "6"
-date: "2018"
+region: Palma
+country: España
+completed: 4818
+missions: 6
+date: 2018
 bg-link: "https://bannergress.com/banner/mallorca-skyline-4eb2"
-onyx: "0"
+onyx: 0
 description: "Mallorca is one of Spain's Balearic Islands in the Mediterranean. It's known for beach resorts, sheltered coves, limestone mountains and Roman and Moorish remains. Capital Palma has nightlife."
-lengthKMeters: "1,75"
+lengthKMeters: 1,75
 umap: ""
-title: "Mallorca Skyline"
+missionDay: ""
+notice: ""
 ---
 # Mallorca Skyline
 
-*2018* • Palma • España
+*2018* • {{__REGION__}} • España
+
+
 
 
 
 ## Details
 - **Distance (km):** 1.75
 - **Missions in banner:** 6
-- **Total missions completed:** 4818
+- **Total missions completed:** 
 - **This is my banner no.:** 206
 
 
-!!! note "Description"
-    Mallorca is one of Spain's Balearic Islands in the Mediterranean. It's known for beach resorts, sheltered coves, limestone mountains and Roman and Moorish remains. Capital Palma has nightlife.
+
+## Description
+Mallorca is one of Spain's Balearic Islands in the Mediterranean. It's known for beach resorts, sheltered coves, limestone mountains and Roman and Moorish remains. Capital Palma has nightlife.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/mallorca-skyline-4eb2){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/mallorca-skyline-4eb2" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

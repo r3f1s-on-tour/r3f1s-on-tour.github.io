@@ -1,36 +1,40 @@
 ---
-nummer: "352"
-startLatitude: "52.754504"
-startLongitude: "13.248415"
-titel: "Frog Evolution in Oranienburg"
+nummer: 352
+startLatitude: 52.754504
+startLongitude: 13.248415
+titel: Frog Evolution in Oranienburg
 picture: ""
-region: "Oranienburg"
-country: "Deutschland"
-completed: "7884"
-missions: "6"
-date: "2021"
+region: Oranienburg
+country: Deutschland
+completed: 7884
+missions: 6
+date: 2021
 bg-link: ""
-onyx: "0"
+onyx: 0
 description: "Mache eine kleine Tour durch Oranienburg und hole dir die Frog Evolution ins Profil"
-lengthKMeters: "1,64"
+lengthKMeters: 1,64
 umap: ""
-title: "Frog Evolution in Oranienburg"
+missionDay: ""
+notice: ""
 ---
 # Frog Evolution in Oranienburg
 
-*2021* • Oranienburg • Deutschland
+*2021* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 1.64
 - **Missions in banner:** 6
-- **Total missions completed:** 7884
+- **Total missions completed:** 
 - **This is my banner no.:** 352
 
 
-!!! note "Description"
-    Mache eine kleine Tour durch Oranienburg und hole dir die Frog Evolution ins Profil
+
+## Description
+Mache eine kleine Tour durch Oranienburg und hole dir die Frog Evolution ins Profil
 
 
 

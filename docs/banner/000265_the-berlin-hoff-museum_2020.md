@@ -1,41 +1,45 @@
 ---
-nummer: "265"
-startLatitude: "52.521616"
-startLongitude: "13.402641"
-titel: "The Berlin Hoff Museum"
+nummer: 265
+startLatitude: 52.521616
+startLongitude: 13.402641
+titel: The Berlin Hoff Museum
 picture: ""
-region: "Berlin"
-country: "Deutschland"
-completed: "6306"
-missions: "6"
-date: "2020"
+region: Berlin
+country: Deutschland
+completed: 6306
+missions: 6
+date: 2020
 bg-link: "https://bannergress.com/banner/the-berlin-hoff-museum-c15c"
-onyx: "0"
+onyx: 0
 description: "This walk guides you at the end to the small but famous Museum of the Hoff. Its located in Mitte close to Rosenthaler Platz."
-lengthKMeters: "1,51"
+lengthKMeters: 1,51
 umap: ""
-title: "The Berlin Hoff Museum"
+missionDay: ""
+notice: ""
 ---
 # The Berlin Hoff Museum
 
-*2020* • Berlin • Deutschland
+*2020* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 1.51
 - **Missions in banner:** 6
-- **Total missions completed:** 6306
+- **Total missions completed:** 
 - **This is my banner no.:** 265
 
 
-!!! note "Description"
-    This walk guides you at the end to the small but famous Museum of the Hoff. Its located in Mitte close to Rosenthaler Platz.
+
+## Description
+This walk guides you at the end to the small but famous Museum of the Hoff. Its located in Mitte close to Rosenthaler Platz.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/the-berlin-hoff-museum-c15c){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/the-berlin-hoff-museum-c15c" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

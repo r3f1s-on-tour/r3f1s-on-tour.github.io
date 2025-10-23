@@ -1,41 +1,45 @@
 ---
-nummer: "431"
-startLatitude: "53,421923"
-startLongitude: "14,558712"
-titel: "Manzelbrunnen"
+nummer: 431
+startLatitude: 53,421923
+startLongitude: 14,558712
+titel: Manzelbrunnen
 picture: "https://api.bannergress.com/bnrs/pictures/27731c7eed356342597202a124dc7155"
-region: "Szczecin"
-country: "Polska"
-completed: "9.000"
-missions: "48"
-date: "2022"
+region: Szczecin
+country: Polska
+completed: 9.000
+missions: 48
+date: 2022
 bg-link: "https://bannergress.com/banner/manzelbrunnen-4729"
-onyx: "1"
+onyx: 1
 description: "Historyczna rzeźba symbolizująca Szczecin, zaginiona w czasie 2 Wojny Światowej. Część  2 - wzdłuż Bulwarów."
-lengthKMeters: "13,08"
+lengthKMeters: 13,08
 umap: ""
-title: "Manzelbrunnen"
+missionDay: ""
+notice: ""
 ---
 # Manzelbrunnen
 
-*2022* • Szczecin • Polska
+*2022* • {{__REGION__}} • Polska
 
 ![Manzelbrunnen](https://api.bannergress.com/bnrs/pictures/27731c7eed356342597202a124dc7155)
+
+
 
 ## Details
 - **Distance (km):** 13.08
 - **Missions in banner:** 48
-- **Total missions completed:** 9.000
+- **Total missions completed:** 
 - **This is my banner no.:** 431
 
 
-!!! note "Description"
-    Historyczna rzeźba symbolizująca Szczecin, zaginiona w czasie 2 Wojny Światowej. Część  2 - wzdłuż Bulwarów.
+
+## Description
+Historyczna rzeźba symbolizująca Szczecin, zaginiona w czasie 2 Wojny Światowej. Część  2 - wzdłuż Bulwarów.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/manzelbrunnen-4729){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/manzelbrunnen-4729" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

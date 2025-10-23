@@ -1,41 +1,45 @@
 ---
-nummer: "212"
-startLatitude: "47.875529"
-startLongitude: "11.708485"
-titel: "Holzkirchen"
+nummer: 212
+startLatitude: 47.875529
+startLongitude: 11.708485
+titel: Holzkirchen
 picture: ""
-region: "Marschall"
-country: "Deutschland"
-completed: "5172"
-missions: "36"
-date: "2018"
+region: Marschall
+country: Deutschland
+completed: 5172
+missions: 36
+date: 2018
 bg-link: "https://bannergress.com/banner/holzkirchen-773c"
-onyx: "0"
+onyx: 0
 description: "Erfülle alle Missionen in der richtigen Reihenfolge um das Holzkirchner Wappen zu erhalten."
-lengthKMeters: "10,84"
+lengthKMeters: 10,84
 umap: ""
-title: "Holzkirchen"
+missionDay: ""
+notice: ""
 ---
 # Holzkirchen
 
-*2018* • Marschall • Deutschland
+*2018* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 10.84
 - **Missions in banner:** 36
-- **Total missions completed:** 5172
+- **Total missions completed:** 
 - **This is my banner no.:** 212
 
 
-!!! note "Description"
-    Erfülle alle Missionen in der richtigen Reihenfolge um das Holzkirchner Wappen zu erhalten.
+
+## Description
+Erfülle alle Missionen in der richtigen Reihenfolge um das Holzkirchner Wappen zu erhalten.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/holzkirchen-773c){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/holzkirchen-773c" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

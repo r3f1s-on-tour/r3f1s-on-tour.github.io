@@ -1,36 +1,40 @@
 ---
-nummer: "510"
-startLatitude: "51,255334"
-startLongitude: "7,145981"
-titel: "A fantasy Icon"
+nummer: 510
+startLatitude: 51,255334
+startLongitude: 7,145981
+titel: A fantasy Icon
 picture: "https://api.bannergress.com/bnrs/pictures/66a9ba980385fbfd4bfb51078f4d280e"
-region: "Wuppertal"
-country: "Deutschland"
-completed: "10.878"
-missions: "18"
-date: "2022"
+region: Wuppertal
+country: Deutschland
+completed: 10.878
+missions: 18
+date: 2022
 bg-link: "https://bannergress.com/banner/a-fantasy-icon-7e9d"
-onyx: "0"
+onyx: 0
 description: "At last, Sir Terry we must walk together\nA tribute mission through Wuppertal\n\nWith pretty hard questions. If you need help contact @ElliOpp via telegram."
-lengthKMeters: "3,869"
+lengthKMeters: 3,869
 umap: ""
-title: "A fantasy Icon"
+missionDay: ""
+notice: ""
 ---
 # A fantasy Icon
 
-*2022* • Wuppertal • Deutschland
+*2022* • {{__REGION__}} • Deutschland
 
 ![A fantasy Icon](https://api.bannergress.com/bnrs/pictures/66a9ba980385fbfd4bfb51078f4d280e)
+
+
 
 ## Details
 - **Distance (km):** 3.87
 - **Missions in banner:** 18
-- **Total missions completed:** 10.878
+- **Total missions completed:** 
 - **This is my banner no.:** 510
 
 
-!!! note "Description"
-    At last, Sir Terry we must walk together
+
+## Description
+At last, Sir Terry we must walk together
 A tribute mission through Wuppertal
 
 With pretty hard questions. If you need help contact @ElliOpp via telegram.
@@ -38,7 +42,7 @@ With pretty hard questions. If you need help contact @ElliOpp via telegram.
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/a-fantasy-icon-7e9d){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/a-fantasy-icon-7e9d" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

@@ -1,41 +1,45 @@
 ---
-nummer: "496"
-startLatitude: "50,933153"
-startLongitude: "6,933925"
-titel: "Sushi Sonntag"
+nummer: 496
+startLatitude: 50,933153
+startLongitude: 6,933925
+titel: Sushi Sonntag
 picture: "https://api.bannergress.com/bnrs/pictures/39a9b3befeca7a4f970daa5a169df763"
-region: "Köln"
-country: "Deutschland"
-completed: "10.602"
-missions: "12"
-date: "2022"
+region: Köln
+country: Deutschland
+completed: 10.602
+missions: 12
+date: 2022
 bg-link: "https://bannergress.com/banner/sushi-sonntag-781c"
-onyx: "0"
+onyx: 0
 description: "Zu den neuen Second Sundays Mission Days passt dieses Sushi Sonntag Banner. Auf der Strecke liegen mehrere Sushi Restaurants, aber hier findet man für jeden Geschmack etwas."
-lengthKMeters: "3,283"
+lengthKMeters: 3,283
 umap: ""
-title: "Sushi Sonntag"
+missionDay: ""
+notice: ""
 ---
 # Sushi Sonntag
 
-*2022* • Köln • Deutschland
+*2022* • {{__REGION__}} • Deutschland
 
 ![Sushi Sonntag](https://api.bannergress.com/bnrs/pictures/39a9b3befeca7a4f970daa5a169df763)
+
+
 
 ## Details
 - **Distance (km):** 3.28
 - **Missions in banner:** 12
-- **Total missions completed:** 10.602
+- **Total missions completed:** 
 - **This is my banner no.:** 496
 
 
-!!! note "Description"
-    Zu den neuen Second Sundays Mission Days passt dieses Sushi Sonntag Banner. Auf der Strecke liegen mehrere Sushi Restaurants, aber hier findet man für jeden Geschmack etwas.
+
+## Description
+Zu den neuen Second Sundays Mission Days passt dieses Sushi Sonntag Banner. Auf der Strecke liegen mehrere Sushi Restaurants, aber hier findet man für jeden Geschmack etwas.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/sushi-sonntag-781c){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/sushi-sonntag-781c" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

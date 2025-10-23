@@ -1,36 +1,40 @@
 ---
-nummer: "444"
-startLatitude: "52,510658"
-startLongitude: "13,499647"
-titel: "GalaxyMenBlue"
+nummer: 444
+startLatitude: 52,510658
+startLongitude: 13,499647
+titel: GalaxyMenBlue
 picture: ""
-region: "Berlin"
-country: "Deutschland"
-completed: "9.216"
-missions: "24"
-date: "2022"
+region: Berlin
+country: Deutschland
+completed: 9.216
+missions: 24
+date: 2022
 bg-link: ""
-onyx: "0"
+onyx: 0
 description: "Der Urknall fand am Bhf Lichtenberg statt.Nun breitet sich eine neue Galaxy Richtung Friedrichsfelde aus; dehnt sich über den Weitling- und Nöldnerkiez bis sie implodiert und dort endet wo sie begann."
-lengthKMeters: "11,09"
+lengthKMeters: 11,09
 umap: ""
-title: "GalaxyMenBlue"
+missionDay: ""
+notice: ""
 ---
 # GalaxyMenBlue
 
-*2022* • Berlin • Deutschland
+*2022* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 11.09
 - **Missions in banner:** 24
-- **Total missions completed:** 9.216
+- **Total missions completed:** 
 - **This is my banner no.:** 444
 
 
-!!! note "Description"
-    Der Urknall fand am Bhf Lichtenberg statt.Nun breitet sich eine neue Galaxy Richtung Friedrichsfelde aus; dehnt sich über den Weitling- und Nöldnerkiez bis sie implodiert und dort endet wo sie begann.
+
+## Description
+Der Urknall fand am Bhf Lichtenberg statt.Nun breitet sich eine neue Galaxy Richtung Friedrichsfelde aus; dehnt sich über den Weitling- und Nöldnerkiez bis sie implodiert und dort endet wo sie begann.
 
 
 

@@ -1,41 +1,45 @@
 ---
-nummer: "536"
-startLatitude: "52,756645"
-startLongitude: "13,244983"
-titel: "Green Wolf in Oranienburg"
+nummer: 536
+startLatitude: 52,756645
+startLongitude: 13,244983
+titel: Green Wolf in Oranienburg
 picture: "https://api.bannergress.com/bnrs/pictures/44daebe0e1b46af8d54b87da655110dd"
-region: "Oranienburg"
-country: "Deutschland"
-completed: "11.820"
-missions: "78"
-date: "2023"
+region: Oranienburg
+country: Deutschland
+completed: 11.820
+missions: 78
+date: 2023
 bg-link: "https://bannergress.com/banner/green-wolf-in-oranienburg-d822"
-onyx: "0"
+onyx: 0
 description: "Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg. Starte in der Bernauer Straße"
-lengthKMeters: "17,927"
+lengthKMeters: 17,927
 umap: ""
-title: "Green Wolf in Oranienburg"
+missionDay: ""
+notice: ""
 ---
 # Green Wolf in Oranienburg
 
-*2023* • Oranienburg • Deutschland
+*2023* • {{__REGION__}} • Deutschland
 
 ![Green Wolf in Oranienburg](https://api.bannergress.com/bnrs/pictures/44daebe0e1b46af8d54b87da655110dd)
+
+
 
 ## Details
 - **Distance (km):** 17.93
 - **Missions in banner:** 78
-- **Total missions completed:** 11.820
+- **Total missions completed:** 
 - **This is my banner no.:** 536
 
 
-!!! note "Description"
-    Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg. Starte in der Bernauer Straße
+
+## Description
+Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg. Starte in der Bernauer Straße
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/green-wolf-in-oranienburg-d822){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/green-wolf-in-oranienburg-d822" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

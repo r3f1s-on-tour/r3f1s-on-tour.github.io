@@ -1,32 +1,36 @@
 ---
-nummer: "152"
-startLatitude: "48.372555"
-startLongitude: "10.896541"
-titel: "Augsburger Dom"
+nummer: 152
+startLatitude: 48.372555
+startLongitude: 10.896541
+titel: Augsburger Dom
 picture: ""
-region: "Augsburg"
-country: "Deutschland"
-completed: "3720"
-missions: "30"
-date: "2018"
+region: Augsburg
+country: Deutschland
+completed: 3720
+missions: 30
+date: 2018
 bg-link: ""
-onyx: "0"
+onyx: 0
 description: ""
 lengthKMeters: ""
 umap: ""
-title: "Augsburger Dom"
+missionDay: ""
+notice: ""
 ---
 # Augsburger Dom
 
-*2018* • Augsburg • Deutschland
+*2018* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 
 - **Missions in banner:** 30
-- **Total missions completed:** 3720
+- **Total missions completed:** 
 - **This is my banner no.:** 152
+
 
 
 

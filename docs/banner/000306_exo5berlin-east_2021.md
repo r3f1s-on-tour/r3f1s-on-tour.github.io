@@ -1,41 +1,45 @@
 ---
-nummer: "306"
-startLatitude: "52.521556"
-startLongitude: "13.41123"
-titel: "EXO5BERLIN East"
+nummer: 306
+startLatitude: 52.521556
+startLongitude: 13.41123
+titel: EXO5BERLIN East
 picture: "https://api.bannergress.com/bnrs/pictures/41d6f7b502f08abee0c2b50aec38082a"
-region: "Berlin"
-country: "Deutschland"
-completed: "7158"
-missions: "48"
-date: "2021"
+region: Berlin
+country: Deutschland
+completed: 7158
+missions: 48
+date: 2021
 bg-link: "https://bannergress.com/banner/exo5berlin-east-9312"
-onyx: "0"
+onyx: 0
 description: "This mission leads you to famous places in Berlin.  See places of Resistance history and farmgrounds. The first mission starts at Alexanderplatz."
-lengthKMeters: "12,65"
+lengthKMeters: 12,65
 umap: ""
-title: "EXO5BERLIN East"
+missionDay: ""
+notice: ""
 ---
 # EXO5BERLIN East
 
-*2021* • Berlin • Deutschland
+*2021* • {{__REGION__}} • Deutschland
 
 ![EXO5BERLIN East](https://api.bannergress.com/bnrs/pictures/41d6f7b502f08abee0c2b50aec38082a)
+
+
 
 ## Details
 - **Distance (km):** 12.65
 - **Missions in banner:** 48
-- **Total missions completed:** 7158
+- **Total missions completed:** 
 - **This is my banner no.:** 306
 
 
-!!! note "Description"
-    This mission leads you to famous places in Berlin.  See places of Resistance history and farmgrounds. The first mission starts at Alexanderplatz.
+
+## Description
+This mission leads you to famous places in Berlin.  See places of Resistance history and farmgrounds. The first mission starts at Alexanderplatz.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/exo5berlin-east-9312){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/exo5berlin-east-9312" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

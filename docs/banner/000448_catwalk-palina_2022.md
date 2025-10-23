@@ -1,36 +1,40 @@
 ---
-nummer: "448"
-startLatitude: "52,509237"
-startLongitude: "13,497382"
-titel: "Catwalk Palina"
+nummer: 448
+startLatitude: 52,509237
+startLongitude: 13,497382
+titel: Catwalk Palina
 picture: ""
-region: "Berlin"
-country: "Deutschland"
-completed: "9.282"
-missions: "18"
-date: "2022"
+region: Berlin
+country: Deutschland
+completed: 9.282
+missions: 18
+date: 2022
 bg-link: ""
-onyx: "0"
+onyx: 0
 description: "Begleite Palina auf einen Entdeckungsstreifzug vom S+U Lichtenberg nach Friedrichsfelde und dort im Bogen durch den Weitlingkiez zurück zu seinem Ausgangspunkt."
-lengthKMeters: "8,00"
+lengthKMeters: 8,00
 umap: ""
-title: "Catwalk Palina"
+missionDay: ""
+notice: ""
 ---
 # Catwalk Palina
 
-*2022* • Berlin • Deutschland
+*2022* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 8.00
 - **Missions in banner:** 18
-- **Total missions completed:** 9.282
+- **Total missions completed:** 
 - **This is my banner no.:** 448
 
 
-!!! note "Description"
-    Begleite Palina auf einen Entdeckungsstreifzug vom S+U Lichtenberg nach Friedrichsfelde und dort im Bogen durch den Weitlingkiez zurück zu seinem Ausgangspunkt.
+
+## Description
+Begleite Palina auf einen Entdeckungsstreifzug vom S+U Lichtenberg nach Friedrichsfelde und dort im Bogen durch den Weitlingkiez zurück zu seinem Ausgangspunkt.
 
 
 

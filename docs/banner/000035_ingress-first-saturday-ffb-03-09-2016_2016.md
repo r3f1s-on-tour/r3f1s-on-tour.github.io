@@ -1,32 +1,36 @@
 ---
-nummer: "35"
-startLatitude: "48.176883"
-startLongitude: "11.255605"
-titel: "Ingress First Saturday FFB 03 09 2016"
+nummer: 35
+startLatitude: 48.176883
+startLongitude: 11.255605
+titel: Ingress First Saturday FFB 03 09 2016
 picture: ""
-region: "Fürstenfeldbruck"
-country: "Deutschland"
-completed: "690"
-missions: "6"
-date: "2016"
+region: Fürstenfeldbruck
+country: Deutschland
+completed: 690
+missions: 6
+date: 2016
 bg-link: ""
-onyx: "0"
+onyx: 0
 description: ""
 lengthKMeters: ""
 umap: ""
-title: "Ingress First Saturday FFB 03 09 2016"
+missionDay: ""
+notice: ""
 ---
 # Ingress First Saturday FFB 03 09 2016
 
-*2016* • Fürstenfeldbruck • Deutschland
+*2016* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 
 - **Missions in banner:** 6
-- **Total missions completed:** 690
+- **Total missions completed:** 
 - **This is my banner no.:** 35
+
 
 
 

@@ -1,41 +1,45 @@
 ---
-nummer: "303"
-startLatitude: "52.51242"
-startLongitude: "13.396239"
-titel: "Mongolian Embassy"
+nummer: 303
+startLatitude: 52.51242
+startLongitude: 13.396239
+titel: Mongolian Embassy
 picture: "https://api.bannergress.com/bnrs/pictures/fd3d163dfe7f5434769fb7900fedf27b"
-region: "Berlin"
-country: "Deutschland"
-completed: "7074"
-missions: "12"
-date: "2021"
+region: Berlin
+country: Deutschland
+completed: 7074
+missions: 12
+date: 2021
 bg-link: "https://bannergress.com/banner/mongolian-embassy-c022"
-onyx: "0"
+onyx: 0
 description: "This tour will guide you around the area of the mongolian embassy.  Located near Hausvogteiplatz and famous Gendarmenmarkt are only a few minutes away."
-lengthKMeters: "3,58"
+lengthKMeters: 3,58
 umap: ""
-title: "Mongolian Embassy"
+missionDay: ""
+notice: ""
 ---
 # Mongolian Embassy
 
-*2021* • Berlin • Deutschland
+*2021* • {{__REGION__}} • Deutschland
 
 ![Mongolian Embassy](https://api.bannergress.com/bnrs/pictures/fd3d163dfe7f5434769fb7900fedf27b)
+
+
 
 ## Details
 - **Distance (km):** 3.58
 - **Missions in banner:** 12
-- **Total missions completed:** 7074
+- **Total missions completed:** 
 - **This is my banner no.:** 303
 
 
-!!! note "Description"
-    This tour will guide you around the area of the mongolian embassy.  Located near Hausvogteiplatz and famous Gendarmenmarkt are only a few minutes away.
+
+## Description
+This tour will guide you around the area of the mongolian embassy.  Located near Hausvogteiplatz and famous Gendarmenmarkt are only a few minutes away.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/mongolian-embassy-c022){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/mongolian-embassy-c022" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

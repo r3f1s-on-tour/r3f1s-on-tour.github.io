@@ -1,41 +1,45 @@
 ---
-nummer: "422"
-startLatitude: "53,565661"
-startLongitude: "13,260573"
-titel: "Tiger of the Year"
+nummer: 422
+startLatitude: 53,565661
+startLongitude: 13,260573
+titel: Tiger of the Year
 picture: "https://api.bannergress.com/bnrs/pictures/9bd1375fe6da4e7f9eed0602da68c097"
-region: "Neubrandenburg"
-country: "Deutschland"
-completed: "8.808"
-missions: "30"
-date: "2022"
+region: Neubrandenburg
+country: Deutschland
+completed: 8.808
+missions: 30
+date: 2022
 bg-link: "https://bannergress.com/banner/tiger-of-the-year-15ba"
-onyx: "0"
+onyx: 0
 description: "Entdecke durch die Missionen Neubrandenburg. Die Mission beginnt  und endet im Vogelviertel."
-lengthKMeters: "16,08"
+lengthKMeters: 16,08
 umap: ""
-title: "Tiger of the Year"
+missionDay: ""
+notice: ""
 ---
 # Tiger of the Year
 
-*2022* • Neubrandenburg • Deutschland
+*2022* • {{__REGION__}} • Deutschland
 
 ![Tiger of the Year](https://api.bannergress.com/bnrs/pictures/9bd1375fe6da4e7f9eed0602da68c097)
+
+
 
 ## Details
 - **Distance (km):** 16.08
 - **Missions in banner:** 30
-- **Total missions completed:** 8.808
+- **Total missions completed:** 
 - **This is my banner no.:** 422
 
 
-!!! note "Description"
-    Entdecke durch die Missionen Neubrandenburg. Die Mission beginnt  und endet im Vogelviertel.
+
+## Description
+Entdecke durch die Missionen Neubrandenburg. Die Mission beginnt  und endet im Vogelviertel.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/tiger-of-the-year-15ba){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/tiger-of-the-year-15ba" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

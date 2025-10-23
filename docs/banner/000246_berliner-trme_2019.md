@@ -1,41 +1,45 @@
 ---
-nummer: "246"
-startLatitude: "52.504929"
-startLongitude: "13.279174"
-titel: "Berliner Türme"
+nummer: 246
+startLatitude: 52.504929
+startLongitude: 13.279174
+titel: Berliner Türme
 picture: ""
-region: "Berlin"
-country: "Deutschland"
-completed: "6012"
-missions: "24"
-date: "2019"
+region: Berlin
+country: Deutschland
+completed: 6012
+missions: 24
+date: 2019
 bg-link: "https://bannergress.com/banner/berliner-t%C3%BCrme-7cba"
-onyx: "1"
+onyx: 1
 description: "Ein Gang von Turm zu Turm"
-lengthKMeters: "12,05"
+lengthKMeters: 12,05
 umap: ""
-title: "Berliner Türme"
+missionDay: ""
+notice: ""
 ---
 # Berliner Türme
 
-*2019* • Berlin • Deutschland
+*2019* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 12.05
 - **Missions in banner:** 24
-- **Total missions completed:** 6012
+- **Total missions completed:** 
 - **This is my banner no.:** 246
 
 
-!!! note "Description"
-    Ein Gang von Turm zu Turm
+
+## Description
+Ein Gang von Turm zu Turm
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/berliner-t%C3%BCrme-7cba){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/berliner-t%C3%BCrme-7cba" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

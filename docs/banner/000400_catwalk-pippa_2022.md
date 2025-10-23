@@ -1,41 +1,45 @@
 ---
-nummer: "400"
-startLatitude: "52,509237"
-startLongitude: "13,497382"
-titel: "Catwalk Pippa"
+nummer: 400
+startLatitude: 52,509237
+startLongitude: 13,497382
+titel: Catwalk Pippa
 picture: "https://api.bannergress.com/bnrs/pictures/6eebdacf7d1601c8a0f6206f61859139"
-region: "Berlin"
-country: "Deutschland"
-completed: "8.574"
-missions: "18"
-date: "2022"
+region: Berlin
+country: Deutschland
+completed: 8.574
+missions: 18
+date: 2022
 bg-link: "https://bannergress.com/banner/catwalk-pippa-9bcd"
-onyx: "0"
+onyx: 0
 description: "Begleite Pippa auf einen Entdeckungsstreifzug vom S+U Lichtenberg nach Friedrichsfelde und dort im Bogen durch den Weitlingkiez zurück zu seinem Ausgangspunkt."
-lengthKMeters: "5,00"
+lengthKMeters: 5,00
 umap: ""
-title: "Catwalk Pippa"
+missionDay: ""
+notice: ""
 ---
 # Catwalk Pippa
 
-*2022* • Berlin • Deutschland
+*2022* • {{__REGION__}} • Deutschland
 
 ![Catwalk Pippa](https://api.bannergress.com/bnrs/pictures/6eebdacf7d1601c8a0f6206f61859139)
+
+
 
 ## Details
 - **Distance (km):** 5.00
 - **Missions in banner:** 18
-- **Total missions completed:** 8.574
+- **Total missions completed:** 
 - **This is my banner no.:** 400
 
 
-!!! note "Description"
-    Begleite Pippa auf einen Entdeckungsstreifzug vom S+U Lichtenberg nach Friedrichsfelde und dort im Bogen durch den Weitlingkiez zurück zu seinem Ausgangspunkt.
+
+## Description
+Begleite Pippa auf einen Entdeckungsstreifzug vom S+U Lichtenberg nach Friedrichsfelde und dort im Bogen durch den Weitlingkiez zurück zu seinem Ausgangspunkt.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/catwalk-pippa-9bcd){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/catwalk-pippa-9bcd" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

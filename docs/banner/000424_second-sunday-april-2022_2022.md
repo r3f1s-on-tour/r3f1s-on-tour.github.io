@@ -1,43 +1,47 @@
 ---
-nummer: "424"
-startLatitude: "53,50675"
-startLongitude: "13,745004"
-titel: "Second Sunday April 2022"
+nummer: 424
+startLatitude: 53,50675
+startLongitude: 13,745004
+titel: Second Sunday April 2022
 picture: "https://api.bannergress.com/bnrs/pictures/54810f92b84347b2e09a8ab6c3016249"
-region: "Strasburg (Uckermark)"
-country: "Deutschland"
-completed: "8.820"
-missions: "6"
-date: "2022"
+region: Strasburg (Uckermark)
+country: Deutschland
+completed: 8.820
+missions: 6
+date: 2022
 bg-link: "https://bannergress.com/banner/second-sunday-april-2022-4262"
-onyx: "0"
+onyx: 0
 description: "Starte am Markt eine Entdeckungsreise durch die Stadt Strasburg Uckermark und entdecke dabei historische Orte der Stadt\n\nGeht am 11.04.2022 offline"
-lengthKMeters: "2,77"
+lengthKMeters: 2,77
 umap: ""
-title: "Second Sunday April 2022"
+missionDay: ""
+notice: ""
 ---
 # Second Sunday April 2022
 
-*2022* • Strasburg (Uckermark) • Deutschland
+*2022* • {{__REGION__}} • Deutschland
 
 ![Second Sunday April 2022](https://api.bannergress.com/bnrs/pictures/54810f92b84347b2e09a8ab6c3016249)
+
+
 
 ## Details
 - **Distance (km):** 2.77
 - **Missions in banner:** 6
-- **Total missions completed:** 8.820
+- **Total missions completed:** 
 - **This is my banner no.:** 424
 
 
-!!! note "Description"
-    Starte am Markt eine Entdeckungsreise durch die Stadt Strasburg Uckermark und entdecke dabei historische Orte der Stadt
+
+## Description
+Starte am Markt eine Entdeckungsreise durch die Stadt Strasburg Uckermark und entdecke dabei historische Orte der Stadt
 
 Geht am 11.04.2022 offline
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/second-sunday-april-2022-4262){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/second-sunday-april-2022-4262" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

@@ -1,36 +1,40 @@
 ---
-nummer: "443"
-startLatitude: "52,756192"
-startLongitude: "13,243981"
-titel: "Green Galaxy Men in Oranienburg"
+nummer: 443
+startLatitude: 52,756192
+startLongitude: 13,243981
+titel: Green Galaxy Men in Oranienburg
 picture: ""
-region: "Oranienburg"
-country: "Deutschland"
-completed: "9.192"
-missions: "24"
-date: "2022"
+region: Oranienburg
+country: Deutschland
+completed: 9.192
+missions: 24
+date: 2022
 bg-link: ""
-onyx: "0"
+onyx: 0
 description: "Starte in der Bernauer Straße eine Reise durch Galaxie und entdecke den Ursprung. Deine Reise durch die Stadt Oranienburg führt dich entlang des Schloss, Schlosspark und endet am Bahnhof"
-lengthKMeters: "8,57"
+lengthKMeters: 8,57
 umap: ""
-title: "Green Galaxy Men in Oranienburg"
+missionDay: ""
+notice: ""
 ---
 # Green Galaxy Men in Oranienburg
 
-*2022* • Oranienburg • Deutschland
+*2022* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 8.57
 - **Missions in banner:** 24
-- **Total missions completed:** 9.192
+- **Total missions completed:** 
 - **This is my banner no.:** 443
 
 
-!!! note "Description"
-    Starte in der Bernauer Straße eine Reise durch Galaxie und entdecke den Ursprung. Deine Reise durch die Stadt Oranienburg führt dich entlang des Schloss, Schlosspark und endet am Bahnhof
+
+## Description
+Starte in der Bernauer Straße eine Reise durch Galaxie und entdecke den Ursprung. Deine Reise durch die Stadt Oranienburg führt dich entlang des Schloss, Schlosspark und endet am Bahnhof
 
 
 

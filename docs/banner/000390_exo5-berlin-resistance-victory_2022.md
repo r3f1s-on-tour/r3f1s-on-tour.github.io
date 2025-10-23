@@ -1,41 +1,45 @@
 ---
-nummer: "390"
-startLatitude: "52,516608"
-startLongitude: "13,388731"
-titel: "EXO5 Berlin Resistance Victory"
+nummer: 390
+startLatitude: 52,516608
+startLongitude: 13,388731
+titel: EXO5 Berlin Resistance Victory
 picture: ""
-region: "Berlin"
-country: "Deutschland"
-completed: "8.412"
-missions: "6"
-date: "2022"
+region: Berlin
+country: Deutschland
+completed: 8.412
+missions: 6
+date: 2022
 bg-link: "https://bannergress.com/banner/exo5-berlin-resistance-victory-2d01"
-onyx: "0"
+onyx: 0
 description: "This is where we fought them! This is where we stood our ground! Remember this day agent, for it will stand in history as the day the Resistance halted Shaper progress!"
-lengthKMeters: "2,29"
+lengthKMeters: 2,29
 umap: ""
-title: "EXO5 Berlin Resistance Victory"
+missionDay: ""
+notice: ""
 ---
 # EXO5 Berlin Resistance Victory
 
-*2022* • Berlin • Deutschland
+*2022* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 2.29
 - **Missions in banner:** 6
-- **Total missions completed:** 8.412
+- **Total missions completed:** 
 - **This is my banner no.:** 390
 
 
-!!! note "Description"
-    This is where we fought them! This is where we stood our ground! Remember this day agent, for it will stand in history as the day the Resistance halted Shaper progress!
+
+## Description
+This is where we fought them! This is where we stood our ground! Remember this day agent, for it will stand in history as the day the Resistance halted Shaper progress!
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/exo5-berlin-resistance-victory-2d01){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/exo5-berlin-resistance-victory-2d01" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

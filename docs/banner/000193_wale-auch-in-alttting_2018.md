@@ -1,32 +1,36 @@
 ---
-nummer: "193"
-startLatitude: "48.228511"
-startLongitude: "12.677878"
-titel: "Wale auch in Altötting"
+nummer: 193
+startLatitude: 48.228511
+startLongitude: 12.677878
+titel: Wale auch in Altötting
 picture: ""
-region: "Altötting"
-country: "Deutschland"
-completed: "4578"
-missions: "6"
-date: "2018"
+region: Altötting
+country: Deutschland
+completed: 4578
+missions: 6
+date: 2018
 bg-link: ""
-onyx: "0"
+onyx: 0
 description: ""
 lengthKMeters: ""
 umap: ""
-title: "Wale auch in Altötting"
+missionDay: ""
+notice: ""
 ---
 # Wale auch in Altötting
 
-*2018* • Altötting • Deutschland
+*2018* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 
 - **Missions in banner:** 6
-- **Total missions completed:** 4578
+- **Total missions completed:** 
 - **This is my banner no.:** 193
+
 
 
 

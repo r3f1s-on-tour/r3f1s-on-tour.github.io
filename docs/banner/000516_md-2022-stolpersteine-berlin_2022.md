@@ -1,41 +1,45 @@
 ---
-nummer: "516"
-startLatitude: "52,502456"
-startLongitude: "13,303693"
-titel: "MD 2022- Stolpersteine, Berlin"
+nummer: 516
+startLatitude: 52,502456
+startLongitude: 13,303693
+titel: MD 2022- Stolpersteine, Berlin
 picture: ""
-region: "Berlin"
-country: "Deutschland"
-completed: "10.974"
-missions: "6"
-date: "2022"
+region: Berlin
+country: Deutschland
+completed: 10.974
+missions: 6
+date: 2022
 bg-link: "https://bannergress.com/banner/md-2022-stolpersteine-berlin-0d29"
-onyx: "0"
+onyx: 0
 description: "Part of MD 2022- Stolpersteine"
-lengthKMeters: "2,946"
+lengthKMeters: 2,946
 umap: ""
-title: "MD 2022- Stolpersteine, Berlin"
+missionDay: ""
+notice: ""
 ---
 # MD 2022- Stolpersteine, Berlin
 
-*2022* • Berlin • Deutschland
+*2022* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 2.95
 - **Missions in banner:** 6
-- **Total missions completed:** 10.974
+- **Total missions completed:** 
 - **This is my banner no.:** 516
 
 
-!!! note "Description"
-    Part of MD 2022- Stolpersteine
+
+## Description
+Part of MD 2022- Stolpersteine
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/md-2022-stolpersteine-berlin-0d29){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/md-2022-stolpersteine-berlin-0d29" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

@@ -1,41 +1,45 @@
 ---
-nummer: "295"
-startLatitude: "52.563937"
-startLongitude: "13.364857"
-titel: "Middle Earth Brews"
+nummer: 295
+startLatitude: 52.563937
+startLongitude: 13.364857
+titel: Middle Earth Brews
 picture: "https://api.bannergress.com/bnrs/pictures/d1803107d2f420be9cd3ac01848e01b2"
-region: "Berlin"
-country: "Deutschland"
-completed: "6846"
-missions: "12"
-date: "2020"
+region: Berlin
+country: Deutschland
+completed: 6846
+missions: 12
+date: 2020
 bg-link: "https://bannergress.com/banner/middle-earth-brews-f9b6"
-onyx: "0"
+onyx: 0
 description: "Entdeckungsrunde vom Schäfersee zum Volkspark Rehberge"
-lengthKMeters: "5,14"
+lengthKMeters: 5,14
 umap: ""
-title: "Middle Earth Brews"
+missionDay: ""
+notice: ""
 ---
 # Middle Earth Brews
 
-*2020* • Berlin • Deutschland
+*2020* • {{__REGION__}} • Deutschland
 
 ![Middle Earth Brews](https://api.bannergress.com/bnrs/pictures/d1803107d2f420be9cd3ac01848e01b2)
+
+
 
 ## Details
 - **Distance (km):** 5.14
 - **Missions in banner:** 12
-- **Total missions completed:** 6846
+- **Total missions completed:** 
 - **This is my banner no.:** 295
 
 
-!!! note "Description"
-    Entdeckungsrunde vom Schäfersee zum Volkspark Rehberge
+
+## Description
+Entdeckungsrunde vom Schäfersee zum Volkspark Rehberge
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/middle-earth-brews-f9b6){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/middle-earth-brews-f9b6" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

@@ -1,38 +1,42 @@
 ---
-nummer: "86"
-startLatitude: "49.020225"
-startLongitude: "12.094676"
-titel: "MD Regensburg"
+nummer: 86
+startLatitude: 49.020225
+startLongitude: 12.094676
+titel: MD Regensburg
 picture: ""
-region: "Regensburg"
-country: "Deutschland"
-completed: "2232"
-missions: "24"
-date: "2017"
+region: Regensburg
+country: Deutschland
+completed: 2232
+missions: 24
+date: 2017
 bg-link: "https://bannergress.com/banner/md-regensburg-3d16"
-onyx: "0"
+onyx: 0
 description: ""
-lengthKMeters: "29,30"
+lengthKMeters: 29,30
 umap: ""
-title: "MD Regensburg"
+missionDay: ""
+notice: ""
 ---
 # MD Regensburg
 
-*2017* • Regensburg • Deutschland
+*2017* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 29.30
 - **Missions in banner:** 24
-- **Total missions completed:** 2232
+- **Total missions completed:** 
 - **This is my banner no.:** 86
 
 
 
 
+
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/md-regensburg-3d16){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/md-regensburg-3d16" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

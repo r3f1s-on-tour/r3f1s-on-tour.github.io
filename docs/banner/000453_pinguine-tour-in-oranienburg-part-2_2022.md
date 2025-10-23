@@ -1,36 +1,40 @@
 ---
-nummer: "453"
-startLatitude: "52,756491"
-startLongitude: "13,245295"
-titel: "Pinguine Tour in Oranienburg Part 2"
+nummer: 453
+startLatitude: 52,756491
+startLongitude: 13,245295
+titel: Pinguine Tour in Oranienburg Part 2
 picture: ""
-region: "Oranienburg"
-country: "Deutschland"
-completed: "9.384"
-missions: "18"
-date: "2022"
+region: Oranienburg
+country: Deutschland
+completed: 9.384
+missions: 18
+date: 2022
 bg-link: ""
-onyx: "0"
+onyx: 0
 description: "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße"
-lengthKMeters: "6,05"
+lengthKMeters: 6,05
 umap: ""
-title: "Pinguine Tour in Oranienburg Part 2"
+missionDay: ""
+notice: ""
 ---
 # Pinguine Tour in Oranienburg Part 2
 
-*2022* • Oranienburg • Deutschland
+*2022* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 6.05
 - **Missions in banner:** 18
-- **Total missions completed:** 9.384
+- **Total missions completed:** 
 - **This is my banner no.:** 453
 
 
-!!! note "Description"
-    Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
+
+## Description
+Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 

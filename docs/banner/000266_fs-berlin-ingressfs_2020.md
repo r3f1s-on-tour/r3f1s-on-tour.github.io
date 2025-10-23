@@ -1,41 +1,45 @@
 ---
-nummer: "266"
-startLatitude: "52.523294"
-startLongitude: "13.397903"
-titel: "FS Berlin - #IngressFS"
+nummer: 266
+startLatitude: 52.523294
+startLongitude: 13.397903
+titel: FS Berlin - #IngressFS
 picture: ""
-region: "Berlin"
-country: "Deutschland"
-completed: "6312"
-missions: "6"
-date: "2020"
+region: Berlin
+country: Deutschland
+completed: 6312
+missions: 6
+date: 2020
 bg-link: "https://bannergress.com/banner/fs-berlin-ingressfs-fe36"
-onyx: "0"
+onyx: 0
 description: "Missionset for the First Saturday in Berlin. This mission is dedicated to all berlin hipsters."
-lengthKMeters: "1,87"
+lengthKMeters: 1,87
 umap: ""
-title: "FS Berlin - #IngressFS"
+missionDay: ""
+notice: ""
 ---
 # FS Berlin - #IngressFS
 
-*2020* • Berlin • Deutschland
+*2020* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 1.87
 - **Missions in banner:** 6
-- **Total missions completed:** 6312
+- **Total missions completed:** 
 - **This is my banner no.:** 266
 
 
-!!! note "Description"
-    Missionset for the First Saturday in Berlin. This mission is dedicated to all berlin hipsters.
+
+## Description
+Missionset for the First Saturday in Berlin. This mission is dedicated to all berlin hipsters.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/fs-berlin-ingressfs-fe36){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/fs-berlin-ingressfs-fe36" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

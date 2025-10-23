@@ -1,41 +1,45 @@
 ---
-nummer: "288"
-startLatitude: "48.137238"
-startLongitude: "11.576208"
-titel: "Visit Requiem Munich - Munich"
+nummer: 288
+startLatitude: 48.137238
+startLongitude: 11.576208
+titel: Visit Requiem Munich - Munich
 picture: "https://api.bannergress.com/bnrs/pictures/f1caacbbecf2101b63efa6ff94010fc4"
-region: "München"
-country: "Deutschland"
-completed: "6708"
-missions: "6"
-date: "2020"
+region: München
+country: Deutschland
+completed: 6708
+missions: 6
+date: 2020
 bg-link: "https://bannergress.com/banner/visit-requiem-munich-munich-6065"
-onyx: "0"
+onyx: 0
 description: "On the 9th May of 2020 an epic battle between Enlightened and Resistance will take place right here! Join our forces and spread the message by completing this banner."
-lengthKMeters: "1,09"
+lengthKMeters: 1,09
 umap: ""
-title: "Visit Requiem Munich - Munich"
+missionDay: ""
+notice: ""
 ---
 # Visit Requiem Munich - Munich
 
-*2020* • München • Deutschland
+*2020* • {{__REGION__}} • Deutschland
 
 ![Visit Requiem Munich - Munich](https://api.bannergress.com/bnrs/pictures/f1caacbbecf2101b63efa6ff94010fc4)
+
+
 
 ## Details
 - **Distance (km):** 1.09
 - **Missions in banner:** 6
-- **Total missions completed:** 6708
+- **Total missions completed:** 
 - **This is my banner no.:** 288
 
 
-!!! note "Description"
-    On the 9th May of 2020 an epic battle between Enlightened and Resistance will take place right here! Join our forces and spread the message by completing this banner.
+
+## Description
+On the 9th May of 2020 an epic battle between Enlightened and Resistance will take place right here! Join our forces and spread the message by completing this banner.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/visit-requiem-munich-munich-6065){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/visit-requiem-munich-munich-6065" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

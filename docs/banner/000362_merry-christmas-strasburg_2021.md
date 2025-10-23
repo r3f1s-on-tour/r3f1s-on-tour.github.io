@@ -1,36 +1,40 @@
 ---
-nummer: "362"
-startLatitude: "53.506348"
-startLongitude: "13.745009"
-titel: "Merry Christmas - Strasburg"
+nummer: 362
+startLatitude: 53.506348
+startLongitude: 13.745009
+titel: Merry Christmas - Strasburg
 picture: ""
-region: "Strasburg (Uckermark)"
-country: "Deutschland"
-completed: "7998"
-missions: "6"
-date: "2021"
+region: Strasburg (Uckermark)
+country: Deutschland
+completed: 7998
+missions: 6
+date: 2021
 bg-link: ""
-onyx: "0"
+onyx: 0
 description: "Starte am Marktplatz und entdecke Strasburg Uckermark bei einer weihnachtlichen Spaziergang."
-lengthKMeters: "3,18"
+lengthKMeters: 3,18
 umap: ""
-title: "Merry Christmas - Strasburg"
+missionDay: ""
+notice: ""
 ---
 # Merry Christmas - Strasburg
 
-*2021* • Strasburg (Uckermark) • Deutschland
+*2021* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 3.18
 - **Missions in banner:** 6
-- **Total missions completed:** 7998
+- **Total missions completed:** 
 - **This is my banner no.:** 362
 
 
-!!! note "Description"
-    Starte am Marktplatz und entdecke Strasburg Uckermark bei einer weihnachtlichen Spaziergang.
+
+## Description
+Starte am Marktplatz und entdecke Strasburg Uckermark bei einer weihnachtlichen Spaziergang.
 
 
 

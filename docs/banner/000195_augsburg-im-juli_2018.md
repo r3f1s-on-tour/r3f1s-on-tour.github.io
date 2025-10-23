@@ -1,38 +1,42 @@
 ---
-nummer: "195"
-startLatitude: "48.366462"
-startLongitude: "10.894585"
-titel: "Augsburg im Juli"
+nummer: 195
+startLatitude: 48.366462
+startLongitude: 10.894585
+titel: Augsburg im Juli
 picture: ""
-region: "Augsburg"
-country: "Deutschland"
-completed: "4614"
-missions: "30"
-date: "2018"
+region: Augsburg
+country: Deutschland
+completed: 4614
+missions: 30
+date: 2018
 bg-link: "https://bannergress.com/banner/augsburg-im-juli-9dbb"
-onyx: "0"
+onyx: 0
 description: ""
 lengthKMeters: ""
 umap: ""
-title: "Augsburg im Juli"
+missionDay: ""
+notice: ""
 ---
 # Augsburg im Juli
 
-*2018* • Augsburg • Deutschland
+*2018* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 
 - **Missions in banner:** 30
-- **Total missions completed:** 4614
+- **Total missions completed:** 
 - **This is my banner no.:** 195
 
 
 
 
+
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/augsburg-im-juli-9dbb){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/augsburg-im-juli-9dbb" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

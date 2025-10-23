@@ -1,41 +1,45 @@
 ---
-nummer: "455"
-startLatitude: "52,504773"
-startLongitude: "13,303612"
-titel: "Happy Vesak Day"
+nummer: 455
+startLatitude: 52,504773
+startLongitude: 13,303612
+titel: Happy Vesak Day
 picture: "https://api.bannergress.com/bnrs/pictures/f14543f09d76f408e034faac2f60f883"
-region: "Berlin"
-country: "Deutschland"
-completed: "9.426"
-missions: "18"
-date: "2022"
+region: Berlin
+country: Deutschland
+completed: 9.426
+missions: 18
+date: 2022
 bg-link: "https://bannergress.com/banner/happy-vesak-day-abc8"
-onyx: "0"
+onyx: 0
 description: "Buddhists celebrate Vesak as their most important festival. This day, they remember Buddha's birth, his enlightenment and his death. Follow the path of Buddah from S-Charlottenburg to S-Savignyplatz."
-lengthKMeters: "5,587"
+lengthKMeters: 5,587
 umap: ""
-title: "Happy Vesak Day"
+missionDay: ""
+notice: ""
 ---
 # Happy Vesak Day
 
-*2022* • Berlin • Deutschland
+*2022* • {{__REGION__}} • Deutschland
 
 ![Happy Vesak Day](https://api.bannergress.com/bnrs/pictures/f14543f09d76f408e034faac2f60f883)
+
+
 
 ## Details
 - **Distance (km):** 5.59
 - **Missions in banner:** 18
-- **Total missions completed:** 9.426
+- **Total missions completed:** 
 - **This is my banner no.:** 455
 
 
-!!! note "Description"
-    Buddhists celebrate Vesak as their most important festival. This day, they remember Buddha's birth, his enlightenment and his death. Follow the path of Buddah from S-Charlottenburg to S-Savignyplatz.
+
+## Description
+Buddhists celebrate Vesak as their most important festival. This day, they remember Buddha's birth, his enlightenment and his death. Follow the path of Buddah from S-Charlottenburg to S-Savignyplatz.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/happy-vesak-day-abc8){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/happy-vesak-day-abc8" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

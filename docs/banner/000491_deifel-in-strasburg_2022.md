@@ -1,36 +1,40 @@
 ---
-nummer: "491"
-startLatitude: "53,506861"
-startLongitude: "13,74885"
-titel: "Deifel in Strasburg"
+nummer: 491
+startLatitude: 53,506861
+startLongitude: 13,74885
+titel: Deifel in Strasburg
 picture: ""
-region: "Strasburg (Uckermark)"
-country: "Deutschland"
-completed: "10.536"
-missions: "6"
-date: "2022"
+region: Strasburg (Uckermark)
+country: Deutschland
+completed: 10.536
+missions: 6
+date: 2022
 bg-link: ""
-onyx: "0"
+onyx: 0
 description: "Starte am Marktplatz  einen Rundgang und entdecke Strasburg. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet auf dem Marktplatz"
-lengthKMeters: "2"
+lengthKMeters: 2
 umap: ""
-title: "Deifel in Strasburg"
+missionDay: ""
+notice: ""
 ---
 # Deifel in Strasburg
 
-*2022* • Strasburg (Uckermark) • Deutschland
+*2022* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 2.00
 - **Missions in banner:** 6
-- **Total missions completed:** 10.536
+- **Total missions completed:** 
 - **This is my banner no.:** 491
 
 
-!!! note "Description"
-    Starte am Marktplatz  einen Rundgang und entdecke Strasburg. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet auf dem Marktplatz
+
+## Description
+Starte am Marktplatz  einen Rundgang und entdecke Strasburg. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet auf dem Marktplatz
 
 
 

@@ -1,32 +1,36 @@
 ---
-nummer: "201"
-startLatitude: "55.597817"
-startLongitude: "13.007023"
-titel: "Region Skåne Banner"
+nummer: 201
+startLatitude: 55.597817
+startLongitude: 13.007023
+titel: Region Skåne Banner
 picture: ""
-region: "Malmö"
-country: "Sverige"
-completed: "4716"
-missions: "42"
-date: "2018"
+region: Malmö
+country: Sverige
+completed: 4716
+missions: 42
+date: 2018
 bg-link: ""
-onyx: "0"
+onyx: 0
 description: ""
 lengthKMeters: ""
 umap: ""
-title: "Region Skåne Banner"
+missionDay: ""
+notice: ""
 ---
 # Region Skåne Banner
 
-*2018* • Malmö • Sverige
+*2018* • {{__REGION__}} • Sverige
+
+
 
 
 
 ## Details
 
 - **Missions in banner:** 42
-- **Total missions completed:** 4716
+- **Total missions completed:** 
 - **This is my banner no.:** 201
+
 
 
 

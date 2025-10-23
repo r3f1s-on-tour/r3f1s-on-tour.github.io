@@ -1,42 +1,46 @@
 ---
-nummer: "130"
-startLatitude: "50.110412"
-startLongitude: "8.682509"
-titel: "Old Town Frankfurt"
+nummer: 130
+startLatitude: 50.110412
+startLongitude: 8.682509
+titel: Old Town Frankfurt
 picture: "https://api.bannergress.com/bnrs/pictures/96a6752fccd798553e396984d7f492c4"
-region: "Frankfurt am Main"
-country: "Deutschland"
-completed: "3174"
-missions: "18"
-date: "2018"
+region: Frankfurt am Main
+country: Deutschland
+completed: 3174
+missions: 18
+date: 2018
 bg-link: "https://bannergress.com/banner/old-town-frankfurt-e920"
-onyx: "0"
+onyx: 0
 description: "This tour guides you through the Old Town of Frankfurt. We start on the Roemerberg, where the old city hall called Roemer is placed. This mission is hack-only.\n(Picture from an old postcard of 1915)"
-lengthKMeters: "6,30"
+lengthKMeters: 6,30
 umap: ""
-title: "Old Town Frankfurt"
+missionDay: ""
+notice: ""
 ---
 # Old Town Frankfurt
 
-*2018* • Frankfurt am Main • Deutschland
+*2018* • {{__REGION__}} • Deutschland
 
 ![Old Town Frankfurt](https://api.bannergress.com/bnrs/pictures/96a6752fccd798553e396984d7f492c4)
+
+
 
 ## Details
 - **Distance (km):** 6.30
 - **Missions in banner:** 18
-- **Total missions completed:** 3174
+- **Total missions completed:** 
 - **This is my banner no.:** 130
 
 
-!!! note "Description"
-    This tour guides you through the Old Town of Frankfurt. We start on the Roemerberg, where the old city hall called Roemer is placed. This mission is hack-only.
+
+## Description
+This tour guides you through the Old Town of Frankfurt. We start on the Roemerberg, where the old city hall called Roemer is placed. This mission is hack-only.
 (Picture from an old postcard of 1915)
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/old-town-frankfurt-e920){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/old-town-frankfurt-e920" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

@@ -1,41 +1,45 @@
 ---
-nummer: "24"
-startLatitude: "48.140198"
-startLongitude: "11.560711"
-titel: "I Love München"
+nummer: 24
+startLatitude: 48.140198
+startLongitude: 11.560711
+titel: I Love München
 picture: ""
-region: "München"
-country: "Deutschland"
-completed: "426"
-missions: "6"
-date: "2016"
+region: München
+country: Deutschland
+completed: 426
+missions: 6
+date: 2016
 bg-link: "https://bannergress.com/banner/m%C3%BCnchen-c9f9"
-onyx: "0"
+onyx: 0
 description: "I love München."
-lengthKMeters: "2,32"
+lengthKMeters: 2,32
 umap: ""
-title: "I Love München"
+missionDay: ""
+notice: ""
 ---
 # I Love München
 
-*2016* • München • Deutschland
+*2016* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 2.32
 - **Missions in banner:** 6
-- **Total missions completed:** 426
+- **Total missions completed:** 
 - **This is my banner no.:** 24
 
 
-!!! note "Description"
-    I love München.
+
+## Description
+I love München.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/m%C3%BCnchen-c9f9){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/m%C3%BCnchen-c9f9" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

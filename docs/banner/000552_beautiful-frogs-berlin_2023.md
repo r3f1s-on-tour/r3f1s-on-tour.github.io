@@ -1,41 +1,45 @@
 ---
-nummer: "552"
-startLatitude: "52,54767"
-startLongitude: "13,413923"
-titel: "Beautiful Frogs Berlin"
+nummer: 552
+startLatitude: 52,54767
+startLongitude: 13,413923
+titel: Beautiful Frogs Berlin
 picture: "https://api.bannergress.com/bnrs/pictures/cb773c8c9948b7bee5217d1db01cf7b7"
-region: "Berlin"
-country: "Deutschland"
-completed: "12.258"
-missions: "6"
-date: "2023"
+region: Berlin
+country: Deutschland
+completed: 12.258
+missions: 6
+date: 2023
 bg-link: "https://bannergress.com/banner/beautiful-frogs-berlin-35db"
-onyx: "0"
+onyx: 0
 description: "Have a walk around the Gethsemane church."
-lengthKMeters: "1,459"
+lengthKMeters: 1,459
 umap: ""
-title: "Beautiful Frogs Berlin"
+missionDay: ""
+notice: ""
 ---
 # Beautiful Frogs Berlin
 
-*2023* • Berlin • Deutschland
+*2023* • {{__REGION__}} • Deutschland
 
 ![Beautiful Frogs Berlin](https://api.bannergress.com/bnrs/pictures/cb773c8c9948b7bee5217d1db01cf7b7)
+
+
 
 ## Details
 - **Distance (km):** 1.46
 - **Missions in banner:** 6
-- **Total missions completed:** 12.258
+- **Total missions completed:** 
 - **This is my banner no.:** 552
 
 
-!!! note "Description"
-    Have a walk around the Gethsemane church.
+
+## Description
+Have a walk around the Gethsemane church.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/beautiful-frogs-berlin-35db){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/beautiful-frogs-berlin-35db" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

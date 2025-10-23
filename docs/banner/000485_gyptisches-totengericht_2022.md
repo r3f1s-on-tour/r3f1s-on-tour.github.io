@@ -1,41 +1,45 @@
 ---
-nummer: "485"
-startLatitude: "52,516466"
-startLongitude: "13,45299"
-titel: "Ägyptisches Totengericht"
+nummer: 485
+startLatitude: 52,516466
+startLongitude: 13,45299
+titel: Ägyptisches Totengericht
 picture: "https://api.bannergress.com/bnrs/pictures/20f32510404dc5dcb5b043d14ef777de"
-region: "Berlin"
-country: "Deutschland"
-completed: "10.482"
-missions: "18"
-date: "2022"
+region: Berlin
+country: Deutschland
+completed: 10.482
+missions: 18
+date: 2022
 bg-link: "https://bannergress.com/banner/%C3%A4gyptisches-totengericht-17af"
-onyx: "0"
+onyx: 0
 description: "Betritt die Halle der vollständigen Wahrheit und lasse dein Herz wiegen."
-lengthKMeters: "6,278"
+lengthKMeters: 6,278
 umap: ""
-title: "Ägyptisches Totengericht"
+missionDay: ""
+notice: ""
 ---
 # Ägyptisches Totengericht
 
-*2022* • Berlin • Deutschland
+*2022* • {{__REGION__}} • Deutschland
 
 ![Ägyptisches Totengericht](https://api.bannergress.com/bnrs/pictures/20f32510404dc5dcb5b043d14ef777de)
+
+
 
 ## Details
 - **Distance (km):** 6.28
 - **Missions in banner:** 18
-- **Total missions completed:** 10.482
+- **Total missions completed:** 
 - **This is my banner no.:** 485
 
 
-!!! note "Description"
-    Betritt die Halle der vollständigen Wahrheit und lasse dein Herz wiegen.
+
+## Description
+Betritt die Halle der vollständigen Wahrheit und lasse dein Herz wiegen.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/%C3%A4gyptisches-totengericht-17af){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/%C3%A4gyptisches-totengericht-17af" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

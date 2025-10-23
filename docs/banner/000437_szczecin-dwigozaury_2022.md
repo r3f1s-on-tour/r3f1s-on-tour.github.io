@@ -1,41 +1,45 @@
 ---
-nummer: "437"
-startLatitude: "53,43814"
-startLongitude: "14,542281"
-titel: "Szczecin Dźwigozaury"
+nummer: 437
+startLatitude: 53,43814
+startLongitude: 14,542281
+titel: Szczecin Dźwigozaury
 picture: "https://api.bannergress.com/bnrs/pictures/db05b13ee6a46ff5ec7d822b6747bb6c"
-region: "Szczecin"
-country: "Polska"
-completed: "9.114"
-missions: "18"
-date: "2022"
+region: Szczecin
+country: Polska
+completed: 9.114
+missions: 18
+date: 2022
 bg-link: "https://bannergress.com/banner/szczecin-d%C5%BAwigozaury-1ed0"
-onyx: "0"
+onyx: 0
 description: "Szczecin Dźwigozaury"
-lengthKMeters: "4,64"
+lengthKMeters: 4,64
 umap: ""
-title: "Szczecin Dźwigozaury"
+missionDay: ""
+notice: ""
 ---
 # Szczecin Dźwigozaury
 
-*2022* • Szczecin • Polska
+*2022* • {{__REGION__}} • Polska
 
 ![Szczecin Dźwigozaury](https://api.bannergress.com/bnrs/pictures/db05b13ee6a46ff5ec7d822b6747bb6c)
+
+
 
 ## Details
 - **Distance (km):** 4.64
 - **Missions in banner:** 18
-- **Total missions completed:** 9.114
+- **Total missions completed:** 
 - **This is my banner no.:** 437
 
 
-!!! note "Description"
-    Szczecin Dźwigozaury
+
+## Description
+Szczecin Dźwigozaury
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/szczecin-d%C5%BAwigozaury-1ed0){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/szczecin-d%C5%BAwigozaury-1ed0" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

@@ -1,41 +1,45 @@
 ---
-nummer: "100"
-startLatitude: "48.602198"
-startLongitude: "11.593304"
-titel: "Hopfenmuseum Wolnzach"
+nummer: 100
+startLatitude: 48.602198
+startLongitude: 11.593304
+titel: Hopfenmuseum Wolnzach
 picture: "https://api.bannergress.com/bnrs/pictures/380a803c7b40066370a20d88dcbee2ad"
-region: "Lohwinden"
-country: "Deutschland"
-completed: "2580"
-missions: "18"
-date: "2017"
+region: Lohwinden
+country: Deutschland
+completed: 2580
+missions: 18
+date: 2017
 bg-link: "https://bannergress.com/banner/hopfenmuseum-wolnzach-dec9"
-onyx: "0"
+onyx: 0
 description: "Das Deutsche Hopfenmuseum in Wolnzach in der Hallertau in Bayern wurde 2002 vom Förderverein Deutsches Hopfenmuseum auf dem ehemaligen Gelände des Feuerwehrhauses eingerichtet."
-lengthKMeters: "10,21"
+lengthKMeters: 10,21
 umap: ""
-title: "Hopfenmuseum Wolnzach"
+missionDay: ""
+notice: ""
 ---
 # Hopfenmuseum Wolnzach
 
-*2017* • Lohwinden • Deutschland
+*2017* • {{__REGION__}} • Deutschland
 
 ![Hopfenmuseum Wolnzach](https://api.bannergress.com/bnrs/pictures/380a803c7b40066370a20d88dcbee2ad)
+
+
 
 ## Details
 - **Distance (km):** 10.21
 - **Missions in banner:** 18
-- **Total missions completed:** 2580
+- **Total missions completed:** 
 - **This is my banner no.:** 100
 
 
-!!! note "Description"
-    Das Deutsche Hopfenmuseum in Wolnzach in der Hallertau in Bayern wurde 2002 vom Förderverein Deutsches Hopfenmuseum auf dem ehemaligen Gelände des Feuerwehrhauses eingerichtet.
+
+## Description
+Das Deutsche Hopfenmuseum in Wolnzach in der Hallertau in Bayern wurde 2002 vom Förderverein Deutsches Hopfenmuseum auf dem ehemaligen Gelände des Feuerwehrhauses eingerichtet.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/hopfenmuseum-wolnzach-dec9){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/hopfenmuseum-wolnzach-dec9" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

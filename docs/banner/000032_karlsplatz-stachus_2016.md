@@ -1,41 +1,45 @@
 ---
-nummer: "32"
-startLatitude: "48.139141"
-startLongitude: "11.565815"
-titel: "Karlsplatz Stachus"
+nummer: 32
+startLatitude: 48.139141
+startLongitude: 11.565815
+titel: Karlsplatz Stachus
 picture: ""
-region: "München"
-country: "Deutschland"
-completed: "648"
-missions: "24"
-date: "2016"
+region: München
+country: Deutschland
+completed: 648
+missions: 24
+date: 2016
 bg-link: "https://bannergress.com/banner/karlsplatz-stachus-a1a8"
-onyx: "0"
+onyx: 0
 description: "Der Karlsplatz liegt an einer Stelle, über die im Mittelalter die Salzstraße führte, die Herzog Heinrich der Löwe von Föhring nach München verlegt hatte."
-lengthKMeters: "6,14"
+lengthKMeters: 6,14
 umap: ""
-title: "Karlsplatz Stachus"
+missionDay: ""
+notice: ""
 ---
 # Karlsplatz Stachus
 
-*2016* • München • Deutschland
+*2016* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 6.14
 - **Missions in banner:** 24
-- **Total missions completed:** 648
+- **Total missions completed:** 
 - **This is my banner no.:** 32
 
 
-!!! note "Description"
-    Der Karlsplatz liegt an einer Stelle, über die im Mittelalter die Salzstraße führte, die Herzog Heinrich der Löwe von Föhring nach München verlegt hatte.
+
+## Description
+Der Karlsplatz liegt an einer Stelle, über die im Mittelalter die Salzstraße führte, die Herzog Heinrich der Löwe von Föhring nach München verlegt hatte.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/karlsplatz-stachus-a1a8){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/karlsplatz-stachus-a1a8" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

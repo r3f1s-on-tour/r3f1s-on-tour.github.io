@@ -1,36 +1,40 @@
 ---
-nummer: "364"
-startLatitude: "53.506348"
-startLongitude: "13.745009"
-titel: "Feuerschwert Tour durch Strasburg"
+nummer: 364
+startLatitude: 53.506348
+startLongitude: 13.745009
+titel: Feuerschwert Tour durch Strasburg
 picture: ""
-region: "Strasburg (Uckermark)"
-country: "Deutschland"
-completed: "8010"
-missions: "6"
-date: "2021"
+region: Strasburg (Uckermark)
+country: Deutschland
+completed: 8010
+missions: 6
+date: 2021
 bg-link: ""
-onyx: "0"
+onyx: 0
 description: "Mache eine Entdeckungsrunde durch Strasburg und hole dir ein Feuerschwert ins PRofil"
-lengthKMeters: "2,79"
+lengthKMeters: 2,79
 umap: ""
-title: "Feuerschwert Tour durch Strasburg"
+missionDay: ""
+notice: ""
 ---
 # Feuerschwert Tour durch Strasburg
 
-*2021* • Strasburg (Uckermark) • Deutschland
+*2021* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 2.79
 - **Missions in banner:** 6
-- **Total missions completed:** 8010
+- **Total missions completed:** 
 - **This is my banner no.:** 364
 
 
-!!! note "Description"
-    Mache eine Entdeckungsrunde durch Strasburg und hole dir ein Feuerschwert ins PRofil
+
+## Description
+Mache eine Entdeckungsrunde durch Strasburg und hole dir ein Feuerschwert ins PRofil
 
 
 

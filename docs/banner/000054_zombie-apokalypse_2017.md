@@ -1,41 +1,45 @@
 ---
-nummer: "54"
-startLatitude: "48.262847"
-startLongitude: "11.437851"
-titel: "Zombie Apokalypse"
+nummer: 54
+startLatitude: 48.262847
+startLongitude: 11.437851
+titel: Zombie Apokalypse
 picture: "https://api.bannergress.com/bnrs/pictures/5af621cc1fd0fe4e83ab4d00eea6c11a"
-region: "Webling"
-country: "Deutschland"
-completed: "1236"
-missions: "12"
-date: "2017"
+region: Webling
+country: Deutschland
+completed: 1236
+missions: 12
+date: 2017
 bg-link: "https://bannergress.com/banner/zombie-apokalypse-8e27"
-onyx: "0"
+onyx: 0
 description: "Zombies überrennen die Stadt. Versuche zu entkommen und durchquere die Altstadt."
-lengthKMeters: "4,55"
+lengthKMeters: 4,55
 umap: ""
-title: "Zombie Apokalypse"
+missionDay: ""
+notice: ""
 ---
 # Zombie Apokalypse
 
-*2017* • Webling • Deutschland
+*2017* • {{__REGION__}} • Deutschland
 
 ![Zombie Apokalypse](https://api.bannergress.com/bnrs/pictures/5af621cc1fd0fe4e83ab4d00eea6c11a)
+
+
 
 ## Details
 - **Distance (km):** 4.55
 - **Missions in banner:** 12
-- **Total missions completed:** 1236
+- **Total missions completed:** 
 - **This is my banner no.:** 54
 
 
-!!! note "Description"
-    Zombies überrennen die Stadt. Versuche zu entkommen und durchquere die Altstadt.
+
+## Description
+Zombies überrennen die Stadt. Versuche zu entkommen und durchquere die Altstadt.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/zombie-apokalypse-8e27){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/zombie-apokalypse-8e27" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

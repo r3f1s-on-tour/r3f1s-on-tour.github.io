@@ -1,41 +1,45 @@
 ---
-nummer: "461"
-startLatitude: "52,509237"
-startLongitude: "13,497382"
-titel: "Catwalk Kosimo"
+nummer: 461
+startLatitude: 52,509237
+startLongitude: 13,497382
+titel: Catwalk Kosimo
 picture: "https://api.bannergress.com/bnrs/pictures/60e253a7549362a18baee306acd4593f"
-region: "Berlin"
-country: "Deutschland"
-completed: "9.552"
-missions: "18"
-date: "2022"
+region: Berlin
+country: Deutschland
+completed: 9.552
+missions: 18
+date: 2022
 bg-link: "https://bannergress.com/banner/catwalk-kosimo-55e1"
-onyx: "0"
+onyx: 0
 description: "Join my cat Kosimo on a journey of discovery from S+U Lichtenberg to Friedrichsfelde and then in an arc through the Weitlingkiez back to his starting point."
-lengthKMeters: "6,862"
+lengthKMeters: 6,862
 umap: ""
-title: "Catwalk Kosimo"
+missionDay: ""
+notice: ""
 ---
 # Catwalk Kosimo
 
-*2022* • Berlin • Deutschland
+*2022* • {{__REGION__}} • Deutschland
 
 ![Catwalk Kosimo](https://api.bannergress.com/bnrs/pictures/60e253a7549362a18baee306acd4593f)
+
+
 
 ## Details
 - **Distance (km):** 6.86
 - **Missions in banner:** 18
-- **Total missions completed:** 9.552
+- **Total missions completed:** 
 - **This is my banner no.:** 461
 
 
-!!! note "Description"
-    Join my cat Kosimo on a journey of discovery from S+U Lichtenberg to Friedrichsfelde and then in an arc through the Weitlingkiez back to his starting point.
+
+## Description
+Join my cat Kosimo on a journey of discovery from S+U Lichtenberg to Friedrichsfelde and then in an arc through the Weitlingkiez back to his starting point.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/catwalk-kosimo-55e1){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/catwalk-kosimo-55e1" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

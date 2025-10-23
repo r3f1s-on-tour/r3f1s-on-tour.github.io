@@ -1,36 +1,40 @@
 ---
-nummer: "396"
-startLatitude: "52,756318"
-startLongitude: "13,244588"
-titel: "Second Sunday - February 2022"
+nummer: 396
+startLatitude: 52,756318
+startLongitude: 13,244588
+titel: Second Sunday - February 2022
 picture: ""
-region: "Oranienburg"
-country: "Deutschland"
-completed: "8.508"
-missions: "6"
-date: "2022"
+region: Oranienburg
+country: Deutschland
+completed: 8.508
+missions: 6
+date: 2022
 bg-link: ""
-onyx: "0"
+onyx: 0
 description: "Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße."
-lengthKMeters: "1,60"
+lengthKMeters: 1,60
 umap: ""
-title: "Second Sunday - February 2022"
+missionDay: ""
+notice: ""
 ---
 # Second Sunday - February 2022
 
-*2022* • Oranienburg • Deutschland
+*2022* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 1.60
 - **Missions in banner:** 6
-- **Total missions completed:** 8.508
+- **Total missions completed:** 
 - **This is my banner no.:** 396
 
 
-!!! note "Description"
-    Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
+
+## Description
+Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
 
 
 

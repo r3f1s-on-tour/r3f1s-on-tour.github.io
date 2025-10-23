@@ -1,41 +1,45 @@
 ---
-nummer: "311"
-startLatitude: "52.553263"
-startLongitude: "13.378403"
-titel: "blue Frog Berlin"
+nummer: 311
+startLatitude: 52.553263
+startLongitude: 13.378403
+titel: blue Frog Berlin
 picture: ""
-region: "Berlin"
-country: "Deutschland"
-completed: "7284"
-missions: "24"
-date: "2021"
+region: Berlin
+country: Deutschland
+completed: 7284
+missions: 24
+date: 2021
 bg-link: "https://bannergress.com/banner/blue-frog-berlin-e865"
-onyx: "0"
+onyx: 0
 description: "Hack  all Portals"
-lengthKMeters: "10,73"
+lengthKMeters: 10,73
 umap: ""
-title: "blue Frog Berlin"
+missionDay: ""
+notice: ""
 ---
 # blue Frog Berlin
 
-*2021* • Berlin • Deutschland
+*2021* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 10.73
 - **Missions in banner:** 24
-- **Total missions completed:** 7284
+- **Total missions completed:** 
 - **This is my banner no.:** 311
 
 
-!!! note "Description"
-    Hack  all Portals
+
+## Description
+Hack  all Portals
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/blue-frog-berlin-e865){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/blue-frog-berlin-e865" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

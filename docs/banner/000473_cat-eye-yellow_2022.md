@@ -1,36 +1,40 @@
 ---
-nummer: "473"
-startLatitude: "52,50885"
-startLongitude: "13,497454"
-titel: "Cat Eye Yellow"
+nummer: 473
+startLatitude: 52,50885
+startLongitude: 13,497454
+titel: Cat Eye Yellow
 picture: "https://api.bannergress.com/bnrs/pictures/97abd24e1d39bce894418ba9ee886bb8"
-region: "Berlin"
-country: "Deutschland"
-completed: "10.344"
-missions: "6"
-date: "2022"
+region: Berlin
+country: Deutschland
+completed: 10.344
+missions: 6
+date: 2022
 bg-link: "https://bannergress.com/banner/cat-eye-yellow-9d73"
-onyx: "0"
+onyx: 0
 description: "Dieses Banner ist die sechste Farbe von insgesamt 6. \nSie startet und Endet am S+U Lichtenberg. \nAls Passphrase wird jedweils die aktuelle Missionsnummer abgefragt\n\nThis banner is the sixth of a total of 6. \nIt starts and ends at S+U Lichtenberg. \nThe passphrases are only asking for the current mission number."
-lengthKMeters: "2,258"
+lengthKMeters: 2,258
 umap: ""
-title: "Cat Eye Yellow"
+missionDay: ""
+notice: ""
 ---
 # Cat Eye Yellow
 
-*2022* • Berlin • Deutschland
+*2022* • {{__REGION__}} • Deutschland
 
 ![Cat Eye Yellow](https://api.bannergress.com/bnrs/pictures/97abd24e1d39bce894418ba9ee886bb8)
+
+
 
 ## Details
 - **Distance (km):** 2.26
 - **Missions in banner:** 6
-- **Total missions completed:** 10.344
+- **Total missions completed:** 
 - **This is my banner no.:** 473
 
 
-!!! note "Description"
-    Dieses Banner ist die sechste Farbe von insgesamt 6. 
+
+## Description
+Dieses Banner ist die sechste Farbe von insgesamt 6. 
 Sie startet und Endet am S+U Lichtenberg. 
 Als Passphrase wird jedweils die aktuelle Missionsnummer abgefragt
 
@@ -41,7 +45,7 @@ The passphrases are only asking for the current mission number.
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/cat-eye-yellow-9d73){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/cat-eye-yellow-9d73" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

@@ -1,41 +1,45 @@
 ---
-nummer: "480"
-startLatitude: "52,756318"
-startLongitude: "13,244588"
-titel: "Halloween Coffees in Oranienburg"
+nummer: 480
+startLatitude: 52,756318
+startLongitude: 13,244588
+titel: Halloween Coffees in Oranienburg
 picture: "https://api.bannergress.com/bnrs/pictures/34708bc649d2d45395637b3f5ec63164"
-region: "Oranienburg"
-country: "Deutschland"
-completed: "10.416"
-missions: "6"
-date: "2022"
+region: Oranienburg
+country: Deutschland
+completed: 10.416
+missions: 6
+date: 2022
 bg-link: "https://bannergress.com/banner/halloween-coffees-in-oranienburg-c369"
-onyx: "0"
+onyx: 0
 description: "Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße."
-lengthKMeters: "1,599"
+lengthKMeters: 1,599
 umap: ""
-title: "Halloween Coffees in Oranienburg"
+missionDay: ""
+notice: ""
 ---
 # Halloween Coffees in Oranienburg
 
-*2022* • Oranienburg • Deutschland
+*2022* • {{__REGION__}} • Deutschland
 
 ![Halloween Coffees in Oranienburg](https://api.bannergress.com/bnrs/pictures/34708bc649d2d45395637b3f5ec63164)
+
+
 
 ## Details
 - **Distance (km):** 1.60
 - **Missions in banner:** 6
-- **Total missions completed:** 10.416
+- **Total missions completed:** 
 - **This is my banner no.:** 480
 
 
-!!! note "Description"
-    Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
+
+## Description
+Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/halloween-coffees-in-oranienburg-c369){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/halloween-coffees-in-oranienburg-c369" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

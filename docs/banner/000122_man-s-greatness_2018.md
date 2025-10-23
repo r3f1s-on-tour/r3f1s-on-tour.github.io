@@ -1,41 +1,45 @@
 ---
-nummer: "122"
-startLatitude: "48.100909"
-startLongitude: "11.64795"
-titel: "Man s Greatness"
+nummer: 122
+startLatitude: 48.100909
+startLongitude: 11.64795
+titel: Man s Greatness
 picture: "https://api.bannergress.com/bnrs/pictures/c1d059c65604cab5b3cfc53523d2005c"
-region: "München"
-country: "Deutschland"
-completed: "2988"
-missions: "36"
-date: "2018"
+region: München
+country: Deutschland
+completed: 2988
+missions: 36
+date: 2018
 bg-link: "https://bannergress.com/banner/man-s-greatness-13d7"
-onyx: "0"
+onyx: 0
 description: "Inspired by the artwork of  Scott Manley, leading my dear fellows in a new area of Munich which they might not have visited before."
-lengthKMeters: "20,50"
+lengthKMeters: 20,50
 umap: ""
-title: "Man s Greatness"
+missionDay: ""
+notice: ""
 ---
 # Man s Greatness
 
-*2018* • München • Deutschland
+*2018* • {{__REGION__}} • Deutschland
 
 ![Man s Greatness](https://api.bannergress.com/bnrs/pictures/c1d059c65604cab5b3cfc53523d2005c)
+
+
 
 ## Details
 - **Distance (km):** 20.50
 - **Missions in banner:** 36
-- **Total missions completed:** 2988
+- **Total missions completed:** 
 - **This is my banner no.:** 122
 
 
-!!! note "Description"
-    Inspired by the artwork of  Scott Manley, leading my dear fellows in a new area of Munich which they might not have visited before.
+
+## Description
+Inspired by the artwork of  Scott Manley, leading my dear fellows in a new area of Munich which they might not have visited before.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/man-s-greatness-13d7){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/man-s-greatness-13d7" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

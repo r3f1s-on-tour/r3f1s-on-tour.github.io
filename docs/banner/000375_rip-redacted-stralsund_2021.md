@@ -1,41 +1,45 @@
 ---
-nummer: "375"
-startLatitude: "54.309652"
-startLongitude: "13.084511"
-titel: "rip redacted - stralsund"
+nummer: 375
+startLatitude: 54.309652
+startLongitude: 13.084511
+titel: rip redacted - stralsund
 picture: "https://api.bannergress.com/bnrs/pictures/bd620aa75eda2f30110dc4e96c9b947a"
-region: "Stralsund"
-country: "Deutschland"
-completed: "8190"
-missions: "18"
-date: "2021"
+region: Stralsund
+country: Deutschland
+completed: 8190
+missions: 18
+date: 2021
 bg-link: "https://bannergress.com/banner/rip-redacted-stralsund-c40f"
-onyx: "0"
+onyx: 0
 description: "Begebe dich auf eine Entdeckungsreise durch die engen Gassen der Stralsunder Altstadt. Sie wurde 2002 in  die UNESCO-Welterbe­liste aufgenommen."
-lengthKMeters: "5,66"
+lengthKMeters: 5,66
 umap: ""
-title: "rip redacted - stralsund"
+missionDay: ""
+notice: ""
 ---
 # rip redacted - stralsund
 
-*2021* • Stralsund • Deutschland
+*2021* • {{__REGION__}} • Deutschland
 
 ![rip redacted - stralsund](https://api.bannergress.com/bnrs/pictures/bd620aa75eda2f30110dc4e96c9b947a)
+
+
 
 ## Details
 - **Distance (km):** 5.66
 - **Missions in banner:** 18
-- **Total missions completed:** 8190
+- **Total missions completed:** 
 - **This is my banner no.:** 375
 
 
-!!! note "Description"
-    Begebe dich auf eine Entdeckungsreise durch die engen Gassen der Stralsunder Altstadt. Sie wurde 2002 in  die UNESCO-Welterbe­liste aufgenommen.
+
+## Description
+Begebe dich auf eine Entdeckungsreise durch die engen Gassen der Stralsunder Altstadt. Sie wurde 2002 in  die UNESCO-Welterbe­liste aufgenommen.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/rip-redacted-stralsund-c40f){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/rip-redacted-stralsund-c40f" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

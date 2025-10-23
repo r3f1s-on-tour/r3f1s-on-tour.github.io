@@ -1,43 +1,47 @@
 ---
-nummer: "308"
-startLatitude: "52.520647"
-startLongitude: "13.386811"
-titel: "Enlightened Berlinomaly"
+nummer: 308
+startLatitude: 52.520647
+startLongitude: 13.386811
+titel: Enlightened Berlinomaly
 picture: "https://api.bannergress.com/bnrs/pictures/f30fb078a7e33b887f2748a04e80bdf6"
-region: "Berlin"
-country: "Deutschland"
-completed: "7242"
-missions: "36"
-date: "2021"
+region: Berlin
+country: Deutschland
+completed: 7242
+missions: 36
+date: 2021
 bg-link: "https://bannergress.com/banner/enlightened-berlinomaly-a9fd"
-onyx: "0"
+onyx: 0
 description: "Welcome to Berlin, Enlightened Agents! This banner takes you along some of Berlins important sights and results in the offical Berlinomaly logo. \n\nThis mission starts at S Friedrichstrasse."
-lengthKMeters: "12,02"
+lengthKMeters: 12,02
 umap: ""
-title: "Enlightened Berlinomaly"
+missionDay: ""
+notice: ""
 ---
 # Enlightened Berlinomaly
 
-*2021* • Berlin • Deutschland
+*2021* • {{__REGION__}} • Deutschland
 
 ![Enlightened Berlinomaly](https://api.bannergress.com/bnrs/pictures/f30fb078a7e33b887f2748a04e80bdf6)
+
+
 
 ## Details
 - **Distance (km):** 12.02
 - **Missions in banner:** 36
-- **Total missions completed:** 7242
+- **Total missions completed:** 
 - **This is my banner no.:** 308
 
 
-!!! note "Description"
-    Welcome to Berlin, Enlightened Agents! This banner takes you along some of Berlins important sights and results in the offical Berlinomaly logo. 
+
+## Description
+Welcome to Berlin, Enlightened Agents! This banner takes you along some of Berlins important sights and results in the offical Berlinomaly logo. 
 
 This mission starts at S Friedrichstrasse.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/enlightened-berlinomaly-a9fd){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/enlightened-berlinomaly-a9fd" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

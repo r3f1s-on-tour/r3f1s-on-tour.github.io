@@ -1,32 +1,36 @@
 ---
-nummer: "167"
-startLatitude: "49.451958"
-startLongitude: "11.08324"
-titel: "Catpool (Rote Nürnberger Katze)"
+nummer: 167
+startLatitude: 49.451958
+startLongitude: 11.08324
+titel: Catpool (Rote Nürnberger Katze)
 picture: ""
-region: "Nürnberg"
-country: "Deutschland"
-completed: "4092"
-missions: "36"
-date: "2018"
+region: Nürnberg
+country: Deutschland
+completed: 4092
+missions: 36
+date: 2018
 bg-link: ""
-onyx: "0"
+onyx: 0
 description: ""
 lengthKMeters: ""
 umap: ""
-title: "Catpool (Rote Nürnberger Katze)"
+missionDay: ""
+notice: ""
 ---
 # Catpool (Rote Nürnberger Katze)
 
-*2018* • Nürnberg • Deutschland
+*2018* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 
 - **Missions in banner:** 36
-- **Total missions completed:** 4092
+- **Total missions completed:** 
 - **This is my banner no.:** 167
+
 
 
 

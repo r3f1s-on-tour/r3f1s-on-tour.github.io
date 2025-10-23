@@ -1,41 +1,45 @@
 ---
-nummer: "10"
-startLatitude: "54.099775"
-startLongitude: "13.382173"
-titel: "Museumshafen Greifswald"
+nummer: 10
+startLatitude: 54.099775
+startLongitude: 13.382173
+titel: Museumshafen Greifswald
 picture: "https://api.bannergress.com/bnrs/pictures/01328fd0e24c9c0a82a36a93613be784"
-region: "Greifswald"
-country: "Deutschland"
-completed: "216"
-missions: "18"
-date: "2015"
+region: Greifswald
+country: Deutschland
+completed: 216
+missions: 18
+date: 2015
 bg-link: "https://bannergress.com/banner/museumshafen-greifswald-66c3"
-onyx: "0"
+onyx: 0
 description: "Teil 1 der Tour \"Museumshafen Greifswald\""
-lengthKMeters: "5,93"
+lengthKMeters: 5,93
 umap: ""
-title: "Museumshafen Greifswald"
+missionDay: ""
+notice: ""
 ---
 # Museumshafen Greifswald
 
-*2015* • Greifswald • Deutschland
+*2015* • {{__REGION__}} • Deutschland
 
 ![Museumshafen Greifswald](https://api.bannergress.com/bnrs/pictures/01328fd0e24c9c0a82a36a93613be784)
+
+
 
 ## Details
 - **Distance (km):** 5.93
 - **Missions in banner:** 18
-- **Total missions completed:** 216
+- **Total missions completed:** 
 - **This is my banner no.:** 10
 
 
-!!! note "Description"
-    Teil 1 der Tour "Museumshafen Greifswald"
+
+## Description
+Teil 1 der Tour "Museumshafen Greifswald"
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/museumshafen-greifswald-66c3){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/museumshafen-greifswald-66c3" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

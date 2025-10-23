@@ -1,38 +1,42 @@
 ---
-nummer: "196"
-startLatitude: "48.36603"
-startLongitude: "10.894974"
-titel: "Augsburg im August"
+nummer: 196
+startLatitude: 48.36603
+startLongitude: 10.894974
+titel: Augsburg im August
 picture: "https://api.bannergress.com/bnrs/pictures/0859195348785935df6a54625e5f179c"
-region: "Augsburg"
-country: "Deutschland"
-completed: "4644"
-missions: "30"
-date: "2018"
+region: Augsburg
+country: Deutschland
+completed: 4644
+missions: 30
+date: 2018
 bg-link: "https://bannergress.com/banner/augsburg-im-august-e95e"
-onyx: "0"
+onyx: 0
 description: ""
 lengthKMeters: ""
 umap: ""
-title: "Augsburg im August"
+missionDay: ""
+notice: ""
 ---
 # Augsburg im August
 
-*2018* • Augsburg • Deutschland
+*2018* • {{__REGION__}} • Deutschland
 
 ![Augsburg im August](https://api.bannergress.com/bnrs/pictures/0859195348785935df6a54625e5f179c)
+
+
 
 ## Details
 
 - **Missions in banner:** 30
-- **Total missions completed:** 4644
+- **Total missions completed:** 
 - **This is my banner no.:** 196
 
 
 
 
+
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/augsburg-im-august-e95e){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/augsburg-im-august-e95e" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

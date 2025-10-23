@@ -1,36 +1,40 @@
 ---
-nummer: "553"
-startLatitude: "53,506861"
-startLongitude: "13,74885"
-titel: "Echo Brighton"
+nummer: 553
+startLatitude: 53,506861
+startLongitude: 13,74885
+titel: Echo Brighton
 picture: ""
-region: "Strasburg (Uckermark)"
-country: "Deutschland"
-completed: "12.264"
-missions: "6"
-date: "2023"
+region: Strasburg (Uckermark)
+country: Deutschland
+completed: 12.264
+missions: 6
+date: 2023
 bg-link: ""
-onyx: "0"
+onyx: 0
 description: "Führen Sie anlässlich der Echo XM Anomaly in Brighton eine Event-Mission durch."
-lengthKMeters: "3,514"
+lengthKMeters: 3,514
 umap: ""
-title: "Echo Brighton"
+missionDay: ""
+notice: ""
 ---
 # Echo Brighton
 
-*2023* • Strasburg (Uckermark) • Deutschland
+*2023* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 3.51
 - **Missions in banner:** 6
-- **Total missions completed:** 12.264
+- **Total missions completed:** 
 - **This is my banner no.:** 553
 
 
-!!! note "Description"
-    Führen Sie anlässlich der Echo XM Anomaly in Brighton eine Event-Mission durch.
+
+## Description
+Führen Sie anlässlich der Echo XM Anomaly in Brighton eine Event-Mission durch.
 
 
 

@@ -1,41 +1,45 @@
 ---
-nummer: "91"
-startLatitude: "48.157372"
-startLongitude: "11.584719"
-titel: "Münchens Biergärten"
+nummer: 91
+startLatitude: 48.157372
+startLongitude: 11.584719
+titel: Münchens Biergärten
 picture: ""
-region: "München"
-country: "Deutschland"
-completed: "2370"
-missions: "6"
-date: "2017"
+region: München
+country: Deutschland
+completed: 2370
+missions: 6
+date: 2017
 bg-link: "https://bannergress.com/banner/m%C3%BCnchens-bierg%C3%A4rten-ce86"
-onyx: "0"
+onyx: 0
 description: "Besuche Münchens große Biergärten"
-lengthKMeters: "13,99"
+lengthKMeters: 13,99
 umap: ""
-title: "Münchens Biergärten"
+missionDay: ""
+notice: ""
 ---
 # Münchens Biergärten
 
-*2017* • München • Deutschland
+*2017* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 13.99
 - **Missions in banner:** 6
-- **Total missions completed:** 2370
+- **Total missions completed:** 
 - **This is my banner no.:** 91
 
 
-!!! note "Description"
-    Besuche Münchens große Biergärten
+
+## Description
+Besuche Münchens große Biergärten
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/m%C3%BCnchens-bierg%C3%A4rten-ce86){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/m%C3%BCnchens-bierg%C3%A4rten-ce86" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

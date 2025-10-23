@@ -1,41 +1,45 @@
 ---
-nummer: "298"
-startLatitude: "52.747433"
-startLongitude: "13.156316"
-titel: "Tier-, Freizeit- und Saurierpark Germendorf"
+nummer: 298
+startLatitude: 52.747433
+startLongitude: 13.156316
+titel: Tier-, Freizeit- und Saurierpark Germendorf
 picture: "https://api.bannergress.com/bnrs/pictures/c6287d71855e887912e3b88b4b9a1fa4"
-region: "Oranienburg"
-country: "Deutschland"
-completed: "6960"
-missions: "18"
-date: "2021"
+region: Oranienburg
+country: Deutschland
+completed: 6960
+missions: 18
+date: 2021
 bg-link: "https://bannergress.com/banner/tier-freizeit-und-saurierpark-germendorf-1377"
-onyx: "0"
+onyx: 0
 description: "Tagesausflug im Tierpark"
-lengthKMeters: "4,32"
+lengthKMeters: 4,32
 umap: ""
-title: "Tier-, Freizeit- und Saurierpark Germendorf"
+missionDay: ""
+notice: ""
 ---
 # Tier-, Freizeit- und Saurierpark Germendorf
 
-*2021* • Oranienburg • Deutschland
+*2021* • {{__REGION__}} • Deutschland
 
 ![Tier-, Freizeit- und Saurierpark Germendorf](https://api.bannergress.com/bnrs/pictures/c6287d71855e887912e3b88b4b9a1fa4)
+
+
 
 ## Details
 - **Distance (km):** 4.32
 - **Missions in banner:** 18
-- **Total missions completed:** 6960
+- **Total missions completed:** 
 - **This is my banner no.:** 298
 
 
-!!! note "Description"
-    Tagesausflug im Tierpark
+
+## Description
+Tagesausflug im Tierpark
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/tier-freizeit-und-saurierpark-germendorf-1377){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/tier-freizeit-und-saurierpark-germendorf-1377" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

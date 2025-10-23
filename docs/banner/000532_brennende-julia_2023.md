@@ -1,36 +1,40 @@
 ---
-nummer: "532"
-startLatitude: "52,756645"
-startLongitude: "13,244983"
-titel: "Brennende Julia"
+nummer: 532
+startLatitude: 52,756645
+startLongitude: 13,244983
+titel: Brennende Julia
 picture: ""
-region: "Oranienburg"
-country: "Deutschland"
-completed: "11.580"
-missions: "72"
-date: "2023"
+region: Oranienburg
+country: Deutschland
+completed: 11.580
+missions: 72
+date: 2023
 bg-link: ""
-onyx: "0"
+onyx: 0
 description: "Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg. Starte in der Bernauer Straße"
-lengthKMeters: "19,4"
+lengthKMeters: 19,4
 umap: ""
-title: "Brennende Julia"
+missionDay: ""
+notice: ""
 ---
 # Brennende Julia
 
-*2023* • Oranienburg • Deutschland
+*2023* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 19.40
 - **Missions in banner:** 72
-- **Total missions completed:** 11.580
+- **Total missions completed:** 
 - **This is my banner no.:** 532
 
 
-!!! note "Description"
-    Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg. Starte in der Bernauer Straße
+
+## Description
+Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg. Starte in der Bernauer Straße
 
 
 

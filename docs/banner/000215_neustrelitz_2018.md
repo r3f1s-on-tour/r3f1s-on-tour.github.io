@@ -1,32 +1,36 @@
 ---
-nummer: "215"
-startLatitude: "53.360699"
-startLongitude: "13.058199"
-titel: "Neustrelitz"
+nummer: 215
+startLatitude: 53.360699
+startLongitude: 13.058199
+titel: Neustrelitz
 picture: ""
-region: "Neustrelitz"
-country: "Deutschland"
-completed: "5220"
-missions: "18"
-date: "2018"
+region: Neustrelitz
+country: Deutschland
+completed: 5220
+missions: 18
+date: 2018
 bg-link: ""
-onyx: "0"
+onyx: 0
 description: ""
 lengthKMeters: ""
 umap: ""
-title: "Neustrelitz"
+missionDay: ""
+notice: ""
 ---
 # Neustrelitz
 
-*2018* • Neustrelitz • Deutschland
+*2018* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 
 - **Missions in banner:** 18
-- **Total missions completed:** 5220
+- **Total missions completed:** 
 - **This is my banner no.:** 215
+
 
 
 

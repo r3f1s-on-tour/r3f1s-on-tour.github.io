@@ -1,41 +1,45 @@
 ---
-nummer: "603"
-startLatitude: "39,466853"
-startLongitude: "-0,375619"
-titel: "CALAVERAS MEXICANAS"
+nummer: 603
+startLatitude: 39,466853
+startLongitude: -0,375619
+titel: CALAVERAS MEXICANAS
 picture: "https://api.bannergress.com/bnrs/pictures/eccdc68e6b1708f73455329bc55f459c"
-region: "València"
-country: "España"
-completed: "13.272"
-missions: "6"
-date: "2024"
+region: València
+country: España
+completed: 13.272
+missions: 6
+date: 2024
 bg-link: "https://bannergress.com/banner/calaveras-mexicanas-35f1"
-onyx: "0"
+onyx: 0
 description: "La Plaza de Toros de Valencia fue inaugurada en 1851. Su estilo neoclásico fue inspirado de la arquitectura romana, del Coliseo . Declarada Monumento Histórico Artístico por la D.G. de bellas artes."
-lengthKMeters: "1,389"
+lengthKMeters: 1,389
 umap: ""
-title: "CALAVERAS MEXICANAS"
+missionDay: ""
+notice: ""
 ---
 # CALAVERAS MEXICANAS
 
-*2024* • València • España
+*2024* • {{__REGION__}} • España
 
 ![CALAVERAS MEXICANAS](https://api.bannergress.com/bnrs/pictures/eccdc68e6b1708f73455329bc55f459c)
+
+
 
 ## Details
 - **Distance (km):** 1.39
 - **Missions in banner:** 6
-- **Total missions completed:** 13.272
+- **Total missions completed:** 
 - **This is my banner no.:** 603
 
 
-!!! note "Description"
-    La Plaza de Toros de Valencia fue inaugurada en 1851. Su estilo neoclásico fue inspirado de la arquitectura romana, del Coliseo . Declarada Monumento Histórico Artístico por la D.G. de bellas artes.
+
+## Description
+La Plaza de Toros de Valencia fue inaugurada en 1851. Su estilo neoclásico fue inspirado de la arquitectura romana, del Coliseo . Declarada Monumento Histórico Artístico por la D.G. de bellas artes.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/calaveras-mexicanas-35f1){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/calaveras-mexicanas-35f1" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

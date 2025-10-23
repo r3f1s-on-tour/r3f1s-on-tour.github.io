@@ -1,32 +1,36 @@
 ---
-nummer: "124"
-startLatitude: "48.367667"
-startLongitude: "10.889437"
-titel: "Augsburg im Februar"
+nummer: 124
+startLatitude: 48.367667
+startLongitude: 10.889437
+titel: Augsburg im Februar
 picture: ""
-region: "Augsburg"
-country: "Deutschland"
-completed: "3054"
-missions: "30"
-date: "2018"
+region: Augsburg
+country: Deutschland
+completed: 3054
+missions: 30
+date: 2018
 bg-link: ""
-onyx: "0"
+onyx: 0
 description: ""
 lengthKMeters: ""
 umap: ""
-title: "Augsburg im Februar"
+missionDay: ""
+notice: ""
 ---
 # Augsburg im Februar
 
-*2018* • Augsburg • Deutschland
+*2018* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 
 - **Missions in banner:** 30
-- **Total missions completed:** 3054
+- **Total missions completed:** 
 - **This is my banner no.:** 124
+
 
 
 

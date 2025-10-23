@@ -1,41 +1,45 @@
 ---
-nummer: "62"
-startLatitude: "47.377718"
-startLongitude: "8.54146"
-titel: "Zürich Biocard"
+nummer: 62
+startLatitude: 47.377718
+startLongitude: 8.54146
+titel: Zürich Biocard
 picture: "https://api.bannergress.com/bnrs/pictures/0f8d583886672ef36e28dd0a88fda13f"
-region: "Zürich"
-country: "Schweiz/Suisse/Svizzera/Svizra"
-completed: "1380"
-missions: "24"
-date: "2017"
+region: Zürich
+country: Schweiz/Suisse/Svizzera/Svizra
+completed: 1380
+missions: 24
+date: 2017
 bg-link: "https://bannergress.com/banner/z%C3%BCrich-biocard-79bc"
-onyx: "0"
+onyx: 0
 description: "Zurich Main Station is the largest train station in Switzerland, it serves about 3000 connections a day. It's the main hub to connect to the rest of Switzerland."
-lengthKMeters: "7,97"
+lengthKMeters: 7,97
 umap: ""
-title: "Zürich Biocard"
+missionDay: ""
+notice: ""
 ---
 # Zürich Biocard
 
-*2017* • Zürich • Schweiz/Suisse/Svizzera/Svizra
+*2017* • {{__REGION__}} • Schweiz/Suisse/Svizzera/Svizra
 
 ![Zürich Biocard](https://api.bannergress.com/bnrs/pictures/0f8d583886672ef36e28dd0a88fda13f)
+
+
 
 ## Details
 - **Distance (km):** 7.97
 - **Missions in banner:** 24
-- **Total missions completed:** 1380
+- **Total missions completed:** 
 - **This is my banner no.:** 62
 
 
-!!! note "Description"
-    Zurich Main Station is the largest train station in Switzerland, it serves about 3000 connections a day. It's the main hub to connect to the rest of Switzerland.
+
+## Description
+Zurich Main Station is the largest train station in Switzerland, it serves about 3000 connections a day. It's the main hub to connect to the rest of Switzerland.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/z%C3%BCrich-biocard-79bc){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/z%C3%BCrich-biocard-79bc" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

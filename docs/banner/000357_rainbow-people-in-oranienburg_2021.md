@@ -1,36 +1,40 @@
 ---
-nummer: "357"
-startLatitude: "52.754504"
-startLongitude: "13.248415"
-titel: "Rainbow People in Oranienburg"
+nummer: 357
+startLatitude: 52.754504
+startLongitude: 13.248415
+titel: Rainbow People in Oranienburg
 picture: ""
-region: "Oranienburg"
-country: "Deutschland"
-completed: "7956"
-missions: "12"
-date: "2021"
+region: Oranienburg
+country: Deutschland
+completed: 7956
+missions: 12
+date: 2021
 bg-link: ""
-onyx: "0"
+onyx: 0
 description: "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße"
-lengthKMeters: "3,64"
+lengthKMeters: 3,64
 umap: ""
-title: "Rainbow People in Oranienburg"
+missionDay: ""
+notice: ""
 ---
 # Rainbow People in Oranienburg
 
-*2021* • Oranienburg • Deutschland
+*2021* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 3.64
 - **Missions in banner:** 12
-- **Total missions completed:** 7956
+- **Total missions completed:** 
 - **This is my banner no.:** 357
 
 
-!!! note "Description"
-    Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
+
+## Description
+Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 

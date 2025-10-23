@@ -1,41 +1,45 @@
 ---
-nummer: "270"
-startLatitude: "52.493721"
-startLongitude: "13.462305"
-titel: "Nyan Cat Walk"
+nummer: 270
+startLatitude: 52.493721
+startLongitude: 13.462305
+titel: Nyan Cat Walk
 picture: ""
-region: "Berlin"
-country: "Deutschland"
-completed: "6360"
-missions: "6"
-date: "2020"
+region: Berlin
+country: Deutschland
+completed: 6360
+missions: 6
+date: 2020
 bg-link: "https://bannergress.com/banner/nyan-cat-walk-ad70"
-onyx: "0"
+onyx: 0
 description: "Follow the nyan cat through the Treptower park and gain it as companion on your future walks with the scanner."
-lengthKMeters: "3,69"
+lengthKMeters: 3,69
 umap: ""
-title: "Nyan Cat Walk"
+missionDay: ""
+notice: ""
 ---
 # Nyan Cat Walk
 
-*2020* • Berlin • Deutschland
+*2020* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 3.69
 - **Missions in banner:** 6
-- **Total missions completed:** 6360
+- **Total missions completed:** 
 - **This is my banner no.:** 270
 
 
-!!! note "Description"
-    Follow the nyan cat through the Treptower park and gain it as companion on your future walks with the scanner.
+
+## Description
+Follow the nyan cat through the Treptower park and gain it as companion on your future walks with the scanner.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/nyan-cat-walk-ad70){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/nyan-cat-walk-ad70" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

@@ -1,41 +1,45 @@
 ---
-nummer: "23"
-startLatitude: "53.426583"
-startLongitude: "14.54793"
-titel: "Gryf Szczeciński"
+nummer: 23
+startLatitude: 53.426583
+startLongitude: 14.54793
+titel: Gryf Szczeciński
 picture: "https://api.bannergress.com/bnrs/pictures/c06a4e6331dcb9dadd919ff242cc385f"
-region: "Szczecin"
-country: "Polska"
-completed: "420"
-missions: "42"
-date: "2016"
+region: Szczecin
+country: Polska
+completed: 420
+missions: 42
+date: 2016
 bg-link: "https://bannergress.com/banner/gryf-szczeci%C5%84ski-6cc3"
-onyx: "0"
+onyx: 0
 description: "Jeden z symboli miejskich Szczecina. Symbol książąt z dynastii Gryfitów."
-lengthKMeters: "12,44"
+lengthKMeters: 12,44
 umap: ""
-title: "Gryf Szczeciński"
+missionDay: ""
+notice: ""
 ---
 # Gryf Szczeciński
 
-*2016* • Szczecin • Polska
+*2016* • {{__REGION__}} • Polska
 
 ![Gryf Szczeciński](https://api.bannergress.com/bnrs/pictures/c06a4e6331dcb9dadd919ff242cc385f)
+
+
 
 ## Details
 - **Distance (km):** 12.44
 - **Missions in banner:** 42
-- **Total missions completed:** 420
+- **Total missions completed:** 
 - **This is my banner no.:** 23
 
 
-!!! note "Description"
-    Jeden z symboli miejskich Szczecina. Symbol książąt z dynastii Gryfitów.
+
+## Description
+Jeden z symboli miejskich Szczecina. Symbol książąt z dynastii Gryfitów.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/gryf-szczeci%C5%84ski-6cc3){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/gryf-szczeci%C5%84ski-6cc3" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

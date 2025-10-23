@@ -1,43 +1,47 @@
 ---
-nummer: "346"
-startLatitude: "52.756491"
-startLongitude: "13.245295"
-titel: "Bannergress Launch in Oranienburg"
+nummer: 346
+startLatitude: 52.756491
+startLongitude: 13.245295
+titel: Bannergress Launch in Oranienburg
 picture: ""
-region: "Oranienburg"
-country: "Deutschland"
-completed: "7800"
-missions: "6"
-date: "2021"
+region: Oranienburg
+country: Deutschland
+completed: 7800
+missions: 6
+date: 2021
 bg-link: "https://bannergress.com/banner/bannergress-launch-in-oranienburg-0e5f"
-onyx: "0"
+onyx: 0
 description: "Mache eine kleine Tour durch Oranienburg\n\nGeht am 21.11.2021 offline"
-lengthKMeters: "1,64"
+lengthKMeters: 1,64
 umap: ""
-title: "Bannergress Launch in Oranienburg"
+missionDay: ""
+notice: ""
 ---
 # Bannergress Launch in Oranienburg
 
-*2021* • Oranienburg • Deutschland
+*2021* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 1.64
 - **Missions in banner:** 6
-- **Total missions completed:** 7800
+- **Total missions completed:** 
 - **This is my banner no.:** 346
 
 
-!!! note "Description"
-    Mache eine kleine Tour durch Oranienburg
+
+## Description
+Mache eine kleine Tour durch Oranienburg
 
 Geht am 21.11.2021 offline
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/bannergress-launch-in-oranienburg-0e5f){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/bannergress-launch-in-oranienburg-0e5f" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

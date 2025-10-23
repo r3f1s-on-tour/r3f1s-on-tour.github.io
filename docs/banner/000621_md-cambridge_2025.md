@@ -1,32 +1,36 @@
 ---
-nummer: "621"
+nummer: 621
 startLatitude: ""
 startLongitude: ""
-titel: "MD Cambridge"
+titel: MD Cambridge
 picture: ""
-region: "Cambridge"
-country: "Großbritannien"
-completed: "13.524"
-missions: "12"
-date: "2025"
+region: Cambridge
+country: Großbritannien
+completed: 13.524
+missions: 12
+date: 2025
 bg-link: ""
-onyx: "0"
+onyx: 0
 description: ""
 lengthKMeters: ""
 umap: ""
-title: "MD Cambridge"
+missionDay: 1
+notice: ""
 ---
 # MD Cambridge
 
-*2025* • Cambridge • Großbritannien
+*2025* • {{__REGION__}} • Großbritannien
+
+
 
 
 
 ## Details
 
 - **Missions in banner:** 12
-- **Total missions completed:** 13.524
+- **Total missions completed:** 
 - **This is my banner no.:** 621
+- **Mission Day:** Yes
 
 
 

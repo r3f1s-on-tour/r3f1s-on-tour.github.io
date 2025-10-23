@@ -1,41 +1,45 @@
 ---
-nummer: "224"
-startLatitude: "48.135901"
-startLongitude: "11.549709"
-titel: "Das Große Wiesn Mosaik Teil 1"
+nummer: 224
+startLatitude: 48.135901
+startLongitude: 11.549709
+titel: Das Große Wiesn Mosaik Teil 1
 picture: ""
-region: "München"
-country: "Deutschland"
-completed: "5400"
-missions: "48"
-date: "2019"
+region: München
+country: Deutschland
+completed: 5400
+missions: 48
+date: 2019
 bg-link: "https://bannergress.com/banner/wiesn-teil-1-d1d4"
-onyx: "0"
+onyx: 0
 description: "Teil 1 der großen Wiesnreihe. Start und Ende an der Theresienwiese. Hälfte der Strecke an der Münchner Freiheit. Viel Spaß"
-lengthKMeters: "21,00"
+lengthKMeters: 21,00
 umap: ""
-title: "Das Große Wiesn Mosaik Teil 1"
+missionDay: ""
+notice: ""
 ---
 # Das Große Wiesn Mosaik Teil 1
 
-*2019* • München • Deutschland
+*2019* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 - **Distance (km):** 21.00
 - **Missions in banner:** 48
-- **Total missions completed:** 5400
+- **Total missions completed:** 
 - **This is my banner no.:** 224
 
 
-!!! note "Description"
-    Teil 1 der großen Wiesnreihe. Start und Ende an der Theresienwiese. Hälfte der Strecke an der Münchner Freiheit. Viel Spaß
+
+## Description
+Teil 1 der großen Wiesnreihe. Start und Ende an der Theresienwiese. Hälfte der Strecke an der Münchner Freiheit. Viel Spaß
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/wiesn-teil-1-d1d4){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/wiesn-teil-1-d1d4" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

@@ -1,43 +1,47 @@
 ---
-nummer: "43"
-startLatitude: "48.257227"
-startLongitude: "11.557779"
-titel: "Schleissheim Postcard"
+nummer: 43
+startLatitude: 48.257227
+startLongitude: 11.557779
+titel: Schleissheim Postcard
 picture: "https://api.bannergress.com/bnrs/pictures/f101a454c5de5bc34c2ec4aff03bfe73"
-region: "Oberschleißheim"
-country: "Deutschland"
-completed: "954"
-missions: "24"
-date: "2016"
+region: Oberschleißheim
+country: Deutschland
+completed: 954
+missions: 24
+date: 2016
 bg-link: "https://bannergress.com/banner/schleissheim-postcard-953e"
-onyx: "0"
+onyx: 0
 description: "Schleissheim Postcard Mission Banner.\nThe Missions will lead you through most of Oberschleissheim.\nPossible on foot. Bike recommended."
-lengthKMeters: "9,63"
+lengthKMeters: 9,63
 umap: ""
-title: "Schleissheim Postcard"
+missionDay: ""
+notice: ""
 ---
 # Schleissheim Postcard
 
-*2016* • Oberschleißheim • Deutschland
+*2016* • {{__REGION__}} • Deutschland
 
 ![Schleissheim Postcard](https://api.bannergress.com/bnrs/pictures/f101a454c5de5bc34c2ec4aff03bfe73)
+
+
 
 ## Details
 - **Distance (km):** 9.63
 - **Missions in banner:** 24
-- **Total missions completed:** 954
+- **Total missions completed:** 
 - **This is my banner no.:** 43
 
 
-!!! note "Description"
-    Schleissheim Postcard Mission Banner.
+
+## Description
+Schleissheim Postcard Mission Banner.
 The Missions will lead you through most of Oberschleissheim.
 Possible on foot. Bike recommended.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/schleissheim-postcard-953e){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/schleissheim-postcard-953e" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

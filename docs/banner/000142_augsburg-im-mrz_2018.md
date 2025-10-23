@@ -1,32 +1,36 @@
 ---
-nummer: "142"
-startLatitude: "48.366462"
-startLongitude: "10.894585"
-titel: "Augsburg im März"
+nummer: 142
+startLatitude: 48.366462
+startLongitude: 10.894585
+titel: Augsburg im März
 picture: ""
-region: "Augsburg"
-country: "Deutschland"
-completed: "3396"
-missions: "30"
-date: "2018"
+region: Augsburg
+country: Deutschland
+completed: 3396
+missions: 30
+date: 2018
 bg-link: ""
-onyx: "0"
+onyx: 0
 description: ""
 lengthKMeters: ""
 umap: ""
-title: "Augsburg im März"
+missionDay: ""
+notice: ""
 ---
 # Augsburg im März
 
-*2018* • Augsburg • Deutschland
+*2018* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 
 - **Missions in banner:** 30
-- **Total missions completed:** 3396
+- **Total missions completed:** 
 - **This is my banner no.:** 142
+
 
 
 

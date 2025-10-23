@@ -1,41 +1,45 @@
 ---
-nummer: "284"
-startLatitude: "48.139281"
-startLongitude: "11.566211"
-titel: "Roter Krieger"
+nummer: 284
+startLatitude: 48.139281
+startLongitude: 11.566211
+titel: Roter Krieger
 picture: "https://api.bannergress.com/bnrs/pictures/7c0d4c1bb53b12aa7849dbe5d1150d9a"
-region: "München"
-country: "Deutschland"
-completed: "6630"
-missions: "54"
-date: "2020"
+region: München
+country: Deutschland
+completed: 6630
+missions: 54
+date: 2020
 bg-link: "https://bannergress.com/banner/roter-krieger-7556"
-onyx: "0"
+onyx: 0
 description: "Erkunde die Stadt München ab dem Stachus über den Marienplatz, die Altstadt und wieder zurück."
-lengthKMeters: "9,01"
+lengthKMeters: 9,01
 umap: ""
-title: "Roter Krieger"
+missionDay: ""
+notice: ""
 ---
 # Roter Krieger
 
-*2020* • München • Deutschland
+*2020* • {{__REGION__}} • Deutschland
 
 ![Roter Krieger](https://api.bannergress.com/bnrs/pictures/7c0d4c1bb53b12aa7849dbe5d1150d9a)
+
+
 
 ## Details
 - **Distance (km):** 9.01
 - **Missions in banner:** 54
-- **Total missions completed:** 6630
+- **Total missions completed:** 
 - **This is my banner no.:** 284
 
 
-!!! note "Description"
-    Erkunde die Stadt München ab dem Stachus über den Marienplatz, die Altstadt und wieder zurück.
+
+## Description
+Erkunde die Stadt München ab dem Stachus über den Marienplatz, die Altstadt und wieder zurück.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/roter-krieger-7556){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/roter-krieger-7556" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

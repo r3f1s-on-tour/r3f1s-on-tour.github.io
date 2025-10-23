@@ -1,41 +1,45 @@
 ---
-nummer: "220"
-startLatitude: "47.804923"
-startLongitude: "13.049646"
-titel: "Salzburg City Panorama"
+nummer: 220
+startLatitude: 47.804923
+startLongitude: 13.049646
+titel: Salzburg City Panorama
 picture: "https://api.bannergress.com/bnrs/pictures/4e6878a9715426b2ff73e04a2b533f69"
-region: "Salzburg"
-country: "Österreich"
-completed: "5322"
-missions: "18"
-date: "2019"
+region: Salzburg
+country: Österreich
+completed: 5322
+missions: 18
+date: 2019
 bg-link: "https://bannergress.com/banner/salzburg-city-panorama-a104"
-onyx: "0"
+onyx: 0
 description: "Salzburg City Panorama"
-lengthKMeters: "4,19"
+lengthKMeters: 4,19
 umap: ""
-title: "Salzburg City Panorama"
+missionDay: ""
+notice: ""
 ---
 # Salzburg City Panorama
 
-*2019* • Salzburg • Österreich
+*2019* • {{__REGION__}} • Österreich
 
 ![Salzburg City Panorama](https://api.bannergress.com/bnrs/pictures/4e6878a9715426b2ff73e04a2b533f69)
+
+
 
 ## Details
 - **Distance (km):** 4.19
 - **Missions in banner:** 18
-- **Total missions completed:** 5322
+- **Total missions completed:** 
 - **This is my banner no.:** 220
 
 
-!!! note "Description"
-    Salzburg City Panorama
+
+## Description
+Salzburg City Panorama
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/salzburg-city-panorama-a104){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/salzburg-city-panorama-a104" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

@@ -1,32 +1,36 @@
 ---
-nummer: "147"
-startLatitude: "48.367413"
-startLongitude: "10.89815"
-titel: "Süße Verführung in Augsburg"
+nummer: 147
+startLatitude: 48.367413
+startLongitude: 10.89815
+titel: Süße Verführung in Augsburg
 picture: ""
-region: "Augsburg"
-country: "Deutschland"
-completed: "3576"
-missions: "30"
-date: "2018"
+region: Augsburg
+country: Deutschland
+completed: 3576
+missions: 30
+date: 2018
 bg-link: ""
-onyx: "0"
+onyx: 0
 description: ""
 lengthKMeters: ""
 umap: ""
-title: "Süße Verführung in Augsburg"
+missionDay: ""
+notice: ""
 ---
 # Süße Verführung in Augsburg
 
-*2018* • Augsburg • Deutschland
+*2018* • {{__REGION__}} • Deutschland
+
+
 
 
 
 ## Details
 
 - **Missions in banner:** 30
-- **Total missions completed:** 3576
+- **Total missions completed:** 
 - **This is my banner no.:** 147
+
 
 
 

@@ -1,41 +1,45 @@
 ---
-nummer: "204"
-startLatitude: "48.312464"
-startLongitude: "14.298115"
-titel: "Cassandra Mission Day Linz 2018"
+nummer: 204
+startLatitude: 48.312464
+startLongitude: 14.298115
+titel: Cassandra Mission Day Linz 2018
 picture: ""
-region: "Oberösterreich"
-country: "Österreich"
-completed: "4776"
-missions: "6"
-date: "2018"
+region: Oberösterreich
+country: Österreich
+completed: 4776
+missions: 6
+date: 2018
 bg-link: "https://bannergress.com/banner/cassandra-md-linz-5ee3"
-onyx: "0"
+onyx: 0
 description: "Discover Linz through missions!"
-lengthKMeters: "21,33"
+lengthKMeters: 21,33
 umap: ""
-title: "Cassandra Mission Day Linz 2018"
+missionDay: ""
+notice: ""
 ---
 # Cassandra Mission Day Linz 2018
 
-*2018* • Oberösterreich • Österreich
+*2018* • {{__REGION__}} • Österreich
+
+
 
 
 
 ## Details
 - **Distance (km):** 21.33
 - **Missions in banner:** 6
-- **Total missions completed:** 4776
+- **Total missions completed:** 
 - **This is my banner no.:** 204
 
 
-!!! note "Description"
-    Discover Linz through missions!
+
+## Description
+Discover Linz through missions!
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/cassandra-md-linz-5ee3){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/cassandra-md-linz-5ee3" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

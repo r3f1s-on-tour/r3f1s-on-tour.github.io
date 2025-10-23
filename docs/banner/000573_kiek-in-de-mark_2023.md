@@ -1,41 +1,45 @@
 ---
-nummer: "573"
-startLatitude: "53,502666"
-startLongitude: "13,989784"
-titel: "Kiek in de Mark"
+nummer: 573
+startLatitude: 53,502666
+startLongitude: 13,989784
+titel: Kiek in de Mark
 picture: "https://api.bannergress.com/bnrs/pictures/e075ccd90e335eba835d0a349672f3d1"
-region: "Pasewalk"
-country: "Deutschland"
-completed: "12.630"
-missions: "6"
-date: "2023"
+region: Pasewalk
+country: Deutschland
+completed: 12.630
+missions: 6
+date: 2023
 bg-link: "https://bannergress.com/banner/kiek-in-de-mark-80d9"
-onyx: "0"
+onyx: 0
 description: "Walk through the city and pick up a banner with the tower in rainbow colours."
-lengthKMeters: "3,24"
+lengthKMeters: 3,24
 umap: ""
-title: "Kiek in de Mark"
+missionDay: ""
+notice: ""
 ---
 # Kiek in de Mark
 
-*2023* • Pasewalk • Deutschland
+*2023* • {{__REGION__}} • Deutschland
 
 ![Kiek in de Mark](https://api.bannergress.com/bnrs/pictures/e075ccd90e335eba835d0a349672f3d1)
+
+
 
 ## Details
 - **Distance (km):** 3.24
 - **Missions in banner:** 6
-- **Total missions completed:** 12.630
+- **Total missions completed:** 
 - **This is my banner no.:** 573
 
 
-!!! note "Description"
-    Walk through the city and pick up a banner with the tower in rainbow colours.
+
+## Description
+Walk through the city and pick up a banner with the tower in rainbow colours.
 
 
 
 ## Links
-[🔗 Bannergress](https://bannergress.com/banner/kiek-in-de-mark-80d9){ .md-button .md-button--primary }
+<a href="https://bannergress.com/banner/kiek-in-de-mark-80d9" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
