@@ -6,7 +6,7 @@
 
 ## Details
 {{__IF:lengthKMeters__}}- **Distance (km):** {{__VAL2DP:lengthKMeters__}}{{__/IF__}}
-{{__IF:missionsCount__}}- **Missions in banner:** {{__VAL:missionsCount__}}{{__/IF__}}
+{{__IF:missions__}}- **Missions in banner:** {{__VAL:missions__}}{{__/IF__}}
 {{__IF:completed__}}- **Total missions completed:** {{__VAL:completed__}}{{__/IF__}}
 {{__IF:nummer__}}- **This is my banner no.:** {{__VAL:nummer__}}{{__/IF__}}
 
