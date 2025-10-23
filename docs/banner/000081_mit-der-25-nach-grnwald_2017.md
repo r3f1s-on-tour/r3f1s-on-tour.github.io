@@ -25,7 +25,7 @@ title: "Mit der 25 nach Grünwald"
 ## Details
 - **Distance (km):** 17.46
 
-- **Total missions completed:** 
+- **Total missions completed:** 2160
 - **This is my banner no.:** 81
 
 

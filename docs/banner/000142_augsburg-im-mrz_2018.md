@@ -25,7 +25,7 @@ title: "Augsburg im März"
 ## Details
 
 
-- **Total missions completed:** 
+- **Total missions completed:** 3396
 - **This is my banner no.:** 142
 
 

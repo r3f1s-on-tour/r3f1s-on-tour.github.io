@@ -25,7 +25,7 @@ title: "Halloween Coffees in Oranienburg"
 ## Details
 - **Distance (km):** 1.60
 
-- **Total missions completed:** 
+- **Total missions completed:** 10.416
 - **This is my banner no.:** 480
 
 

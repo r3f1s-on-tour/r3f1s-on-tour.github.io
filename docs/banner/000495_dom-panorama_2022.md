@@ -25,7 +25,7 @@ title: "Dom-Panorama"
 ## Details
 - **Distance (km):** 6.94
 
-- **Total missions completed:** 
+- **Total missions completed:** 10.590
 - **This is my banner no.:** 495
 
 

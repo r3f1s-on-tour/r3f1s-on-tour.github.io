@@ -25,7 +25,7 @@ title: "Hunting ground Wandsbek Markt"
 ## Details
 - **Distance (km):** 1.51
 
-- **Total missions completed:** 
+- **Total missions completed:** 360
 - **This is my banner no.:** 21
 
 

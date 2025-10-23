@@ -25,7 +25,7 @@ title: "Pankow Irony"
 ## Details
 - **Distance (km):** 9.21
 
-- **Total missions completed:** 
+- **Total missions completed:** 6834
 - **This is my banner no.:** 294
 
 

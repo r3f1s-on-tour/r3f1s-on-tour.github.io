@@ -25,7 +25,7 @@ title: "The evolution of frog"
 ## Details
 - **Distance (km):** 2.37
 
-- **Total missions completed:** 
+- **Total missions completed:** 8.910
 - **This is my banner no.:** 428
 
 

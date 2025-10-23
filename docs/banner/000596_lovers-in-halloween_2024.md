@@ -25,7 +25,7 @@ title: "Lovers in Halloween"
 ## Details
 - **Distance (km):** 10.57
 
-- **Total missions completed:** 
+- **Total missions completed:** 13.164
 - **This is my banner no.:** 596
 
 

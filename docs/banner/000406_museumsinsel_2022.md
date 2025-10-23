@@ -25,7 +25,7 @@ title: "Museumsinsel"
 ## Details
 - **Distance (km):** 5.35
 
-- **Total missions completed:** 
+- **Total missions completed:** 8.670
 - **This is my banner no.:** 406
 
 

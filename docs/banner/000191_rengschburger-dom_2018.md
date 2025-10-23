@@ -25,7 +25,7 @@ title: "Rengschburger Dom"
 ## Details
 - **Distance (km):** 16.84
 
-- **Total missions completed:** 
+- **Total missions completed:** 4566
 - **This is my banner no.:** 191
 
 

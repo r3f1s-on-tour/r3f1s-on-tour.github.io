@@ -25,7 +25,7 @@ title: "Aquarelle Gdansk"
 ## Details
 
 
-- **Total missions completed:** 
+- **Total missions completed:** 13.500
 - **This is my banner no.:** 618
 
 

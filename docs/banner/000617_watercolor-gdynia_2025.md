@@ -25,7 +25,7 @@ title: "Watercolor Gdynia"
 ## Details
 
 
-- **Total missions completed:** 
+- **Total missions completed:** 13.488
 - **This is my banner no.:** 617
 
 

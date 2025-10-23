@@ -25,7 +25,7 @@ title: "Frog Wall Drabenderhöhe"
 ## Details
 - **Distance (km):** 2.08
 
-- **Total missions completed:** 
+- **Total missions completed:** 12.390
 - **This is my banner no.:** 557
 
 

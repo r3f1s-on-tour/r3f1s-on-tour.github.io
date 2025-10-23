@@ -25,7 +25,7 @@ title: "Tut-Tut Child"
 ## Details
 - **Distance (km):** 23.18
 
-- **Total missions completed:** 
+- **Total missions completed:** 12.954
 - **This is my banner no.:** 581
 
 

@@ -25,7 +25,7 @@ title: "Marx is calling you - Berlin"
 ## Details
 
 
-- **Total missions completed:** 
+- **Total missions completed:** 13.416
 - **This is my banner no.:** 612
 
 

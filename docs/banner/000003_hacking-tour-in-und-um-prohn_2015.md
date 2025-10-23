@@ -25,7 +25,7 @@ title: "Hacking Tour in und um Prohn"
 ## Details
 
 
-- **Total missions completed:** 
+- **Total missions completed:** 108
 - **This is my banner no.:** 3
 
 

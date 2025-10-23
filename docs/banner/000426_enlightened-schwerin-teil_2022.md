@@ -25,7 +25,7 @@ title: "Enlightened Schwerin Teil"
 ## Details
 - **Distance (km):** 2.72
 
-- **Total missions completed:** 
+- **Total missions completed:** 8.874
 - **This is my banner no.:** 426
 
 

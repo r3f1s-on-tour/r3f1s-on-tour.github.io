@@ -3,7 +3,7 @@ nummer: "162"
 startLatitude: "48.362013"
 startLongitude: "10.900145"
 titel: "Augsburg St Ulrich und Afra"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/3cc02851b99e2a86bcf406a7e6bc63bd"
 region: "Augsburg"
 country: "Deutschland"
 completed: "3924"
@@ -20,12 +20,12 @@ title: "Augsburg St Ulrich und Afra"
 
 *2018* • Augsburg • Deutschland
 
-
+![Augsburg St Ulrich und Afra](https://api.bannergress.com/bnrs/pictures/3cc02851b99e2a86bcf406a7e6bc63bd)
 
 ## Details
 
 
-- **Total missions completed:** 
+- **Total missions completed:** 3924
 - **This is my banner no.:** 162
 
 

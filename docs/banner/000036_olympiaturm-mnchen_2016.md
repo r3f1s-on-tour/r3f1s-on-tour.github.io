@@ -25,7 +25,7 @@ title: "Olympiaturm München"
 ## Details
 - **Distance (km):** 21.90
 
-- **Total missions completed:** 
+- **Total missions completed:** 750
 - **This is my banner no.:** 36
 
 

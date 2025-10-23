@@ -25,7 +25,7 @@ title: "Trennmission"
 ## Details
 - **Distance (km):** 3.21
 
-- **Total missions completed:** 
+- **Total missions completed:** 7380
 - **This is my banner no.:** 317
 
 

@@ -25,7 +25,7 @@ title: "Sendlinger-Tor-Platz"
 ## Details
 - **Distance (km):** 8.60
 
-- **Total missions completed:** 
+- **Total missions completed:** 2520
 - **This is my banner no.:** 98
 
 

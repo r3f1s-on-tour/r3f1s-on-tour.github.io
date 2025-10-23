@@ -25,7 +25,7 @@ title: "I Love München"
 ## Details
 - **Distance (km):** 2.32
 
-- **Total missions completed:** 
+- **Total missions completed:** 426
 - **This is my banner no.:** 24
 
 

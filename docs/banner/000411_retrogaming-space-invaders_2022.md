@@ -25,7 +25,7 @@ title: "RetroGaming - Space Invaders"
 ## Details
 - **Distance (km):** 3.57
 
-- **Total missions completed:** 
+- **Total missions completed:** 8.700
 - **This is my banner no.:** 411
 
 

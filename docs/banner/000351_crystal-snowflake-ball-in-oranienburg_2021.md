@@ -25,7 +25,7 @@ title: "Crystal Snowflake Ball in Oranienburg"
 ## Details
 - **Distance (km):** 6.05
 
-- **Total missions completed:** 
+- **Total missions completed:** 7878
 - **This is my banner no.:** 351
 
 

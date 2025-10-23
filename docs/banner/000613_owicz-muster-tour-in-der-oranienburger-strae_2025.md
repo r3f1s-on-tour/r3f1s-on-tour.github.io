@@ -25,7 +25,7 @@ title: "Łowicz-Muster Tour in der Oranienburger Straße"
 ## Details
 - **Distance (km):** 1.60
 
-- **Total missions completed:** 
+- **Total missions completed:** 13.422
 - **This is my banner no.:** 613
 
 

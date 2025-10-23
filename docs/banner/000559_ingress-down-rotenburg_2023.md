@@ -25,7 +25,7 @@ title: "Ingress down Rotenburg"
 ## Details
 - **Distance (km):** 2.14
 
-- **Total missions completed:** 
+- **Total missions completed:** 12.420
 - **This is my banner no.:** 559
 
 

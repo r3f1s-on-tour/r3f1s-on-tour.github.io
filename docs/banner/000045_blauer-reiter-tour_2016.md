@@ -25,7 +25,7 @@ title: "Blauer Reiter Tour"
 ## Details
 - **Distance (km):** 17.08
 
-- **Total missions completed:** 
+- **Total missions completed:** 1026
 - **This is my banner no.:** 45
 
 

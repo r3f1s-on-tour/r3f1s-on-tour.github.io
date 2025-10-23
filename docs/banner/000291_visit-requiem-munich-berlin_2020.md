@@ -25,7 +25,7 @@ title: "Visit Requiem Munich - Berlin"
 ## Details
 - **Distance (km):** 858.00
 
-- **Total missions completed:** 
+- **Total missions completed:** 6750
 - **This is my banner no.:** 291
 
 

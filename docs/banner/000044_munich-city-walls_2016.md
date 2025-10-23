@@ -25,7 +25,7 @@ title: "Munich city walls"
 ## Details
 - **Distance (km):** 13.80
 
-- **Total missions completed:** 
+- **Total missions completed:** 978
 - **This is my banner no.:** 44
 
 

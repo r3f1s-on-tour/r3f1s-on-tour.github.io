@@ -25,7 +25,7 @@ title: "Furby Toast Wars in Oranienburg"
 ## Details
 - **Distance (km):** 4.00
 
-- **Total missions completed:** 
+- **Total missions completed:** 9.318
 - **This is my banner no.:** 451
 
 

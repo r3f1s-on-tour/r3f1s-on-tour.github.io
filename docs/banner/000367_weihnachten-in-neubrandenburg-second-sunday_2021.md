@@ -25,7 +25,7 @@ title: "Weihnachten in Neubrandenburg - Second Sunday"
 ## Details
 - **Distance (km):** 2.03
 
-- **Total missions completed:** 
+- **Total missions completed:** 8070
 - **This is my banner no.:** 367
 
 

@@ -25,7 +25,7 @@ title: "Dresden Artistic Skyline"
 ## Details
 - **Distance (km):** 4.86
 
-- **Total missions completed:** 
+- **Total missions completed:** 6108
 - **This is my banner no.:** 253
 
 

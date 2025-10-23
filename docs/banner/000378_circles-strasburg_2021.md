@@ -25,7 +25,7 @@ title: "Circles Strasburg"
 ## Details
 - **Distance (km):** 14.99
 
-- **Total missions completed:** 
+- **Total missions completed:** 8238
 - **This is my banner no.:** 378
 
 

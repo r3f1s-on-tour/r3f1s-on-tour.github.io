@@ -25,7 +25,7 @@ title: "Salzburg Domination Tour"
 ## Details
 
 
-- **Total missions completed:** 
+- **Total missions completed:** 3642
 - **This is my banner no.:** 149
 
 

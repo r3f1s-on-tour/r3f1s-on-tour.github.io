@@ -25,7 +25,7 @@ title: "Tatort Stralsund"
 ## Details
 - **Distance (km):** 6.10
 
-- **Total missions completed:** 
+- **Total missions completed:** 7644
 - **This is my banner no.:** 334
 
 

@@ -25,7 +25,7 @@ title: "Marienplatz München"
 ## Details
 - **Distance (km):** 5.84
 
-- **Total missions completed:** 
+- **Total missions completed:** 624
 - **This is my banner no.:** 31
 
 

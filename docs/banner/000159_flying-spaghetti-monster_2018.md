@@ -25,7 +25,7 @@ title: "Flying Spaghetti Monster"
 ## Details
 - **Distance (km):** 18.35
 
-- **Total missions completed:** 
+- **Total missions completed:** 3834
 - **This is my banner no.:** 159
 
 

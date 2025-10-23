@@ -25,7 +25,7 @@ title: "Visit Requiem Munich - Munich"
 ## Details
 - **Distance (km):** 1.09
 
-- **Total missions completed:** 
+- **Total missions completed:** 6708
 - **This is my banner no.:** 288
 
 

@@ -25,7 +25,7 @@ title: "Toast Heros Dresden"
 ## Details
 - **Distance (km):** 1.31
 
-- **Total missions completed:** 
+- **Total missions completed:** 12.996
 - **This is my banner no.:** 583
 
 

@@ -25,7 +25,7 @@ title: "Cats in the box - Strasburg"
 ## Details
 - **Distance (km):** 3.18
 
-- **Total missions completed:** 
+- **Total missions completed:** 8148
 - **This is my banner no.:** 371
 
 

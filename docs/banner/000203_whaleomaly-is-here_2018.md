@@ -25,7 +25,7 @@ title: "Whaleomaly Is Here"
 ## Details
 - **Distance (km):** 7.16
 
-- **Total missions completed:** 
+- **Total missions completed:** 4770
 - **This is my banner no.:** 203
 
 

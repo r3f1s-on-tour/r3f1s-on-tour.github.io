@@ -25,7 +25,7 @@ title: "Watercolor Munich"
 ## Details
 - **Distance (km):** 2.10
 
-- **Total missions completed:** 
+- **Total missions completed:** 5694
 - **This is my banner no.:** 238
 
 

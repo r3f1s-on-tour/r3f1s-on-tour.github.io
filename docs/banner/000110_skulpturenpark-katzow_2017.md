@@ -3,7 +3,7 @@ nummer: "110"
 startLatitude: "54.044021"
 startLongitude: "13.692991"
 titel: "Skulpturenpark Katzow"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/cabc494aebc54641411fbe0130c120a3"
 region: "Katzow"
 country: "Deutschland"
 completed: "2742"
@@ -20,12 +20,12 @@ title: "Skulpturenpark Katzow"
 
 *2017* • Katzow • Deutschland
 
-
+![Skulpturenpark Katzow](https://api.bannergress.com/bnrs/pictures/cabc494aebc54641411fbe0130c120a3)
 
 ## Details
 - **Distance (km):** 6.38
 
-- **Total missions completed:** 
+- **Total missions completed:** 2742
 - **This is my banner no.:** 110
 
 

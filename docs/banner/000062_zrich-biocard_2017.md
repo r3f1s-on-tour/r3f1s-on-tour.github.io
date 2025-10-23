@@ -25,7 +25,7 @@ title: "Zürich Biocard"
 ## Details
 - **Distance (km):** 7.97
 
-- **Total missions completed:** 
+- **Total missions completed:** 1380
 - **This is my banner no.:** 62
 
 

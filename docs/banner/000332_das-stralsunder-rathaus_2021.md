@@ -25,7 +25,7 @@ title: "Das Stralsunder Rathaus"
 ## Details
 - **Distance (km):** 5.45
 
-- **Total missions completed:** 
+- **Total missions completed:** 7596
 - **This is my banner no.:** 332
 
 

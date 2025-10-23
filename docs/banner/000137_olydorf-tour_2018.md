@@ -25,7 +25,7 @@ title: "Olydorf-Tour"
 ## Details
 
 
-- **Total missions completed:** 
+- **Total missions completed:** 3306
 - **This is my banner no.:** 137
 
 

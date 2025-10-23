@@ -25,7 +25,7 @@ title: "Whaleomaly is Coming [Kirchheim b. München]"
 ## Details
 - **Distance (km):** 4.55
 
-- **Total missions completed:** 
+- **Total missions completed:** 3840
 - **This is my banner no.:** 160
 
 

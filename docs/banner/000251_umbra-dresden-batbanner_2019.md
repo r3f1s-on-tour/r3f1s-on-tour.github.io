@@ -25,7 +25,7 @@ title: "Umbra Dresden Batbanner"
 ## Details
 - **Distance (km):** 6.13
 
-- **Total missions completed:** 
+- **Total missions completed:** 6084
 - **This is my banner no.:** 251
 
 

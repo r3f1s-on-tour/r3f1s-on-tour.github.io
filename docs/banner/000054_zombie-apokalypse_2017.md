@@ -25,7 +25,7 @@ title: "Zombie Apokalypse"
 ## Details
 - **Distance (km):** 4.55
 
-- **Total missions completed:** 
+- **Total missions completed:** 1236
 - **This is my banner no.:** 54
 
 

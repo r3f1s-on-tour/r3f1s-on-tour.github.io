@@ -25,7 +25,7 @@ title: "Raute Blau Weiß 1"
 ## Details
 
 
-- **Total missions completed:** 
+- **Total missions completed:** 5352
 - **This is my banner no.:** 223
 
 

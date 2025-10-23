@@ -25,7 +25,7 @@ title: "Catpool (Rote Münchner Katze)"
 ## Details
 
 
-- **Total missions completed:** 
+- **Total missions completed:** 4812
 - **This is my banner no.:** 205
 
 

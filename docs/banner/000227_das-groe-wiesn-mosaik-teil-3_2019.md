@@ -25,7 +25,7 @@ title: "Das Große Wiesn Mosaik Teil 3"
 ## Details
 - **Distance (km):** 34.00
 
-- **Total missions completed:** 
+- **Total missions completed:** 5484
 - **This is my banner no.:** 227
 
 

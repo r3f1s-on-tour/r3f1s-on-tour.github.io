@@ -25,7 +25,7 @@ title: "Tour de Cottbus"
 ## Details
 - **Distance (km):** 16.66
 
-- **Total missions completed:** 
+- **Total missions completed:** 12.552
 - **This is my banner no.:** 567
 
 

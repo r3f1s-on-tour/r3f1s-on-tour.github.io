@@ -25,7 +25,7 @@ title: "Green Dragon"
 ## Details
 - **Distance (km):** 12.00
 
-- **Total missions completed:** 
+- **Total missions completed:** 8.556
 - **This is my banner no.:** 399
 
 

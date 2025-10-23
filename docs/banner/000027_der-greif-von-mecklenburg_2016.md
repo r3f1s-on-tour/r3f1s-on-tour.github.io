@@ -25,7 +25,7 @@ title: "Der Greif von Mecklenburg"
 ## Details
 - **Distance (km):** 11.11
 
-- **Total missions completed:** 
+- **Total missions completed:** 516
 - **This is my banner no.:** 27
 
 

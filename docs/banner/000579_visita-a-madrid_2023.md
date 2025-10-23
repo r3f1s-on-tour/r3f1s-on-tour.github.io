@@ -25,7 +25,7 @@ title: "Visita a Madrid"
 ## Details
 - **Distance (km):** 949.00
 
-- **Total missions completed:** 
+- **Total missions completed:** 12.846
 - **This is my banner no.:** 579
 
 

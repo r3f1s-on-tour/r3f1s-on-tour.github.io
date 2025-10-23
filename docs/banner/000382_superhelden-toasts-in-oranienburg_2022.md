@@ -25,7 +25,7 @@ title: "Superhelden Toasts in Oranienburg"
 ## Details
 - **Distance (km):** 2.20
 
-- **Total missions completed:** 
+- **Total missions completed:** 8280
 - **This is my banner no.:** 382
 
 

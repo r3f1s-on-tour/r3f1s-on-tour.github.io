@@ -25,7 +25,7 @@ title: "Richter Fenster im Kölner Dom"
 ## Details
 - **Distance (km):** 4.30
 
-- **Total missions completed:** 
+- **Total missions completed:** 10.746
 - **This is my banner no.:** 502
 
 

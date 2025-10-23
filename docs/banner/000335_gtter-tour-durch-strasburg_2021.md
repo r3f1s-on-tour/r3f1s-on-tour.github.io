@@ -25,7 +25,7 @@ title: "Götter Tour durch Strasburg"
 ## Details
 - **Distance (km):** 3.17
 
-- **Total missions completed:** 
+- **Total missions completed:** 7650
 - **This is my banner no.:** 335
 
 

@@ -25,7 +25,7 @@ title: "Bayern Flagge"
 ## Details
 - **Distance (km):** 6.57
 
-- **Total missions completed:** 
+- **Total missions completed:** 3762
 - **This is my banner no.:** 155
 
 

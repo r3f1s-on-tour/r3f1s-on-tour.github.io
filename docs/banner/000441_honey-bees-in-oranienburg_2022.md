@@ -25,7 +25,7 @@ title: "Honey Bees in Oranienburg"
 ## Details
 - **Distance (km):** 1.59
 
-- **Total missions completed:** 
+- **Total missions completed:** 9.162
 - **This is my banner no.:** 441
 
 

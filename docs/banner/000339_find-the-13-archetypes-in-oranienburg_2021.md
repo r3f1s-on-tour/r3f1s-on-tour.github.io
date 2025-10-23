@@ -25,7 +25,7 @@ title: "Find the 13 Archetypes in Oranienburg"
 ## Details
 - **Distance (km):** 6.56
 
-- **Total missions completed:** 
+- **Total missions completed:** 7698
 - **This is my banner no.:** 339
 
 

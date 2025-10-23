@@ -25,7 +25,7 @@ title: "An der Paulskirche"
 ## Details
 
 
-- **Total missions completed:** 
+- **Total missions completed:** 3216
 - **This is my banner no.:** 132
 
 

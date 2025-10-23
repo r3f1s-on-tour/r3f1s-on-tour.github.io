@@ -25,7 +25,7 @@ title: "Feldzug durch Bonn"
 ## Details
 - **Distance (km):** 3.81
 
-- **Total missions completed:** 
+- **Total missions completed:** 10.902
 - **This is my banner no.:** 512
 
 

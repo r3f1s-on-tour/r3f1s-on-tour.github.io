@@ -25,7 +25,7 @@ title: "Besuch der 4 Tore"
 ## Details
 
 
-- **Total missions completed:** 
+- **Total missions completed:** 144
 - **This is my banner no.:** 6
 
 

@@ -25,7 +25,7 @@ title: "Evil Bears in Oranienburg"
 ## Details
 - **Distance (km):** 1.29
 
-- **Total missions completed:** 
+- **Total missions completed:** 10.998
 - **This is my banner no.:** 520
 
 

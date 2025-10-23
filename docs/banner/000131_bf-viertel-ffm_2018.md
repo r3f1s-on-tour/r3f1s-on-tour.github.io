@@ -25,7 +25,7 @@ title: "Bf-Viertel FFM"
 ## Details
 - **Distance (km):** 4.45
 
-- **Total missions completed:** 
+- **Total missions completed:** 3180
 - **This is my banner no.:** 131
 
 

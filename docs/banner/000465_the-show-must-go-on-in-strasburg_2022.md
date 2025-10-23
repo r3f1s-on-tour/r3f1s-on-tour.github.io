@@ -25,7 +25,7 @@ title: "The Show Must Go On in Strasburg"
 ## Details
 - **Distance (km):** 3.51
 
-- **Total missions completed:** 
+- **Total missions completed:** 10.224
 - **This is my banner no.:** 465
 
 

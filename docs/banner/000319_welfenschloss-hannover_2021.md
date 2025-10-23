@@ -25,7 +25,7 @@ title: "Welfenschloss Hannover"
 ## Details
 - **Distance (km):** 6.77
 
-- **Total missions completed:** 
+- **Total missions completed:** 7410
 - **This is my banner no.:** 319
 
 

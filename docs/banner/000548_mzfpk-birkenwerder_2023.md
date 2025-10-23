@@ -25,7 +25,7 @@ title: "MZFPK-Birkenwerder"
 ## Details
 - **Distance (km):** 0.93
 
-- **Total missions completed:** 
+- **Total missions completed:** 12.132
 - **This is my banner no.:** 548
 
 

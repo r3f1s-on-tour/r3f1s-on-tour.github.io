@@ -25,7 +25,7 @@ title: "Wahrzeichen Oranienburg"
 ## Details
 - **Distance (km):** 8.98
 
-- **Total missions completed:** 
+- **Total missions completed:** 5988
 - **This is my banner no.:** 245
 
 

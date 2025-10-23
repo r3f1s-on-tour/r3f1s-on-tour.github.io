@@ -25,7 +25,7 @@ title: "Cat Eyes Green"
 ## Details
 - **Distance (km):** 2.26
 
-- **Total missions completed:** 
+- **Total missions completed:** 10.320
 - **This is my banner no.:** 471
 
 

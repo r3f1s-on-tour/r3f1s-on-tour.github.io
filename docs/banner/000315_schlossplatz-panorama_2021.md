@@ -25,7 +25,7 @@ title: "Schlossplatz Panorama"
 ## Details
 - **Distance (km):** 1.71
 
-- **Total missions completed:** 
+- **Total missions completed:** 7338
 - **This is my banner no.:** 315
 
 

@@ -25,7 +25,7 @@ title: "Botanischer Garten Mosaik"
 ## Details
 - **Distance (km):** 4.28
 
-- **Total missions completed:** 
+- **Total missions completed:** 258
 - **This is my banner no.:** 13
 
 

@@ -25,7 +25,7 @@ title: "Happy Molecule"
 ## Details
 
 
-- **Total missions completed:** 
+- **Total missions completed:** 6432
 - **This is my banner no.:** 274
 
 

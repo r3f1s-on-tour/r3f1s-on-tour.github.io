@@ -25,7 +25,7 @@ title: "Wittenberg Art"
 ## Details
 - **Distance (km):** 6.04
 
-- **Total missions completed:** 
+- **Total missions completed:** 4182
 - **This is my banner no.:** 174
 
 

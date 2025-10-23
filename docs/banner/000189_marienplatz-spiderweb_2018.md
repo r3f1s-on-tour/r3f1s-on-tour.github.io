@@ -25,7 +25,7 @@ title: "Marienplatz SPIDERWEB"
 ## Details
 - **Distance (km):** 2.55
 
-- **Total missions completed:** 
+- **Total missions completed:** 4470
 - **This is my banner no.:** 189
 
 

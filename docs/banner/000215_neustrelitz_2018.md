@@ -25,7 +25,7 @@ title: "Neustrelitz"
 ## Details
 
 
-- **Total missions completed:** 
+- **Total missions completed:** 5220
 - **This is my banner no.:** 215
 
 

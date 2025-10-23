@@ -25,7 +25,7 @@ title: "Clockwork Orange"
 ## Details
 - **Distance (km):** 21.78
 
-- **Total missions completed:** 
+- **Total missions completed:** 8142
 - **This is my banner no.:** 370
 
 

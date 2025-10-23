@@ -25,7 +25,7 @@ title: "Binz auf Rügen"
 ## Details
 - **Distance (km):** 9.08
 
-- **Total missions completed:** 
+- **Total missions completed:** 198
 - **This is my banner no.:** 9
 
 

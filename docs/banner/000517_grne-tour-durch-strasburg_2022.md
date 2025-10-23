@@ -25,7 +25,7 @@ title: "Grüne Tour durch Strasburg"
 ## Details
 - **Distance (km):** 3.51
 
-- **Total missions completed:** 
+- **Total missions completed:** 10.980
 - **This is my banner no.:** 517
 
 

@@ -25,7 +25,7 @@ title: "Space Cats in Strasburg"
 ## Details
 - **Distance (km):** 1.05
 
-- **Total missions completed:** 
+- **Total missions completed:** 11.994
 - **This is my banner no.:** 542
 
 

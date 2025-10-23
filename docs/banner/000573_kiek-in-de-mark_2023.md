@@ -25,7 +25,7 @@ title: "Kiek in de Mark"
 ## Details
 - **Distance (km):** 3.24
 
-- **Total missions completed:** 
+- **Total missions completed:** 12.630
 - **This is my banner no.:** 573
 
 

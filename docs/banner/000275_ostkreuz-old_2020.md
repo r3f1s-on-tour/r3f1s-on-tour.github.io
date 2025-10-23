@@ -25,7 +25,7 @@ title: "Ostkreuz Old"
 ## Details
 - **Distance (km):** 6.47
 
-- **Total missions completed:** 
+- **Total missions completed:** 6450
 - **This is my banner no.:** 275
 
 

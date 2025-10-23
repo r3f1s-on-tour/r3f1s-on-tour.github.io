@@ -3,7 +3,7 @@ nummer: "463"
 startLatitude: "53,506861"
 startLongitude: "13,74885"
 titel: "Samurai Crest Adventure Tour"
-picture: ""
+picture: "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/463.jpg"
 region: "Strasburg (Uckermark)"
 country: "Deutschland"
 completed: "10.200"
@@ -20,12 +20,12 @@ title: "Samurai Crest Adventure Tour"
 
 *2022* • Strasburg (Uckermark) • Deutschland
 
-
+![Samurai Crest Adventure Tour](https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/463.jpg)
 
 ## Details
 - **Distance (km):** 277.36
 
-- **Total missions completed:** 
+- **Total missions completed:** 10.200
 - **This is my banner no.:** 463
 
 

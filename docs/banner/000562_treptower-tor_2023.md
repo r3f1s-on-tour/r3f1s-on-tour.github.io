@@ -25,7 +25,7 @@ title: "Treptower Tor"
 ## Details
 - **Distance (km):** 10.22
 
-- **Total missions completed:** 
+- **Total missions completed:** 12.456
 - **This is my banner no.:** 562
 
 

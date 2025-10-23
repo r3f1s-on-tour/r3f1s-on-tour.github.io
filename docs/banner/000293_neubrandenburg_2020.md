@@ -25,7 +25,7 @@ title: "Neubrandenburg"
 ## Details
 - **Distance (km):** 7.10
 
-- **Total missions completed:** 
+- **Total missions completed:** 6822
 - **This is my banner no.:** 293
 
 

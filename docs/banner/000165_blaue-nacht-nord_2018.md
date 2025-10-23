@@ -25,7 +25,7 @@ title: "Blaue Nacht Nord"
 ## Details
 
 
-- **Total missions completed:** 
+- **Total missions completed:** 4020
 - **This is my banner no.:** 165
 
 

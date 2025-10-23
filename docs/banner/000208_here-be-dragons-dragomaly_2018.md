@@ -25,7 +25,7 @@ title: "Here Be Dragons - Dragomaly"
 ## Details
 
 
-- **Total missions completed:** 
+- **Total missions completed:** 4860
 - **This is my banner no.:** 208
 
 

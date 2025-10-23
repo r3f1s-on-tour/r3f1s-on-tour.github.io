@@ -25,7 +25,7 @@ title: "Toast Anatomy"
 ## Details
 - **Distance (km):** 2.76
 
-- **Total missions completed:** 
+- **Total missions completed:** 8.688
 - **This is my banner no.:** 409
 
 

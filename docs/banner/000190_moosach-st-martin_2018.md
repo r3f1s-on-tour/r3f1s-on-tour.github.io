@@ -25,7 +25,7 @@ title: "Moosach St. Martin"
 ## Details
 - **Distance (km):** 26.62
 
-- **Total missions completed:** 
+- **Total missions completed:** 4506
 - **This is my banner no.:** 190
 
 

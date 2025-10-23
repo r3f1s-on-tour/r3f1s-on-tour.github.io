@@ -25,7 +25,7 @@ title: "Second Sunday April 2022"
 ## Details
 - **Distance (km):** 2.77
 
-- **Total missions completed:** 
+- **Total missions completed:** 8.820
 - **This is my banner no.:** 424
 
 

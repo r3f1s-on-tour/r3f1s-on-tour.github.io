@@ -25,7 +25,7 @@ title: "Grüner Krieger"
 ## Details
 - **Distance (km):** 15.59
 
-- **Total missions completed:** 
+- **Total missions completed:** 6684
 - **This is my banner no.:** 285
 
 

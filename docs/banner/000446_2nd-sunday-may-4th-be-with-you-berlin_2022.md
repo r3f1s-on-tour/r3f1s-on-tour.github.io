@@ -25,7 +25,7 @@ title: "2nd Sunday - May 4th be with you - Berlin"
 ## Details
 - **Distance (km):** 2.45
 
-- **Total missions completed:** 
+- **Total missions completed:** 9.246
 - **This is my banner no.:** 446
 
 

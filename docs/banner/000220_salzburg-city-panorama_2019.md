@@ -25,7 +25,7 @@ title: "Salzburg City Panorama"
 ## Details
 - **Distance (km):** 4.19
 
-- **Total missions completed:** 
+- **Total missions completed:** 5322
 - **This is my banner no.:** 220
 
 

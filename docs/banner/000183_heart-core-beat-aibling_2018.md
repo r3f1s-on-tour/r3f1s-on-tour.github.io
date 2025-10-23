@@ -25,7 +25,7 @@ title: "Heart Core Beat Aibling"
 ## Details
 - **Distance (km):** 1.42
 
-- **Total missions completed:** 
+- **Total missions completed:** 4386
 - **This is my banner no.:** 183
 
 

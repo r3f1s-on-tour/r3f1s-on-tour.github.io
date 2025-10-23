@@ -25,7 +25,7 @@ title: "Wrocławska akwarela"
 ## Details
 
 
-- **Total missions completed:** 
+- **Total missions completed:** 13.440
 - **This is my banner no.:** 614
 
 

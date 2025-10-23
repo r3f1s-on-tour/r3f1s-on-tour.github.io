@@ -25,7 +25,7 @@ title: "Moutain Dragon in Strasburg"
 ## Details
 - **Distance (km):** 3.51
 
-- **Total missions completed:** 
+- **Total missions completed:** 12.180
 - **This is my banner no.:** 550
 
 

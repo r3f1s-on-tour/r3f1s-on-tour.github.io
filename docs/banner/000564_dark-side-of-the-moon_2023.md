@@ -25,7 +25,7 @@ title: "Dark Side of the Moon"
 ## Details
 - **Distance (km):** 5.48
 
-- **Total missions completed:** 
+- **Total missions completed:** 12.498
 - **This is my banner no.:** 564
 
 

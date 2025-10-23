@@ -25,7 +25,7 @@ title: "NERV - EVA Units"
 ## Details
 - **Distance (km):** 1.67
 
-- **Total missions completed:** 
+- **Total missions completed:** 6456
 - **This is my banner no.:** 276
 
 

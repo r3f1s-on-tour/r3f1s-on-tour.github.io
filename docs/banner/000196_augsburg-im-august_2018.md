@@ -25,7 +25,7 @@ title: "Augsburg im August"
 ## Details
 
 
-- **Total missions completed:** 
+- **Total missions completed:** 4644
 - **This is my banner no.:** 196
 
 

@@ -25,7 +25,7 @@ title: "Visit Requiem Munich - Szczecin"
 ## Details
 - **Distance (km):** 1.31
 
-- **Total missions completed:** 
+- **Total missions completed:** 9.078
 - **This is my banner no.:** 435
 
 

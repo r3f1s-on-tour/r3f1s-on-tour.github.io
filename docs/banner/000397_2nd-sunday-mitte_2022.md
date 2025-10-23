@@ -25,7 +25,7 @@ title: "2nd Sunday Mitte"
 ## Details
 - **Distance (km):** 2.04
 
-- **Total missions completed:** 
+- **Total missions completed:** 8.514
 - **This is my banner no.:** 397
 
 

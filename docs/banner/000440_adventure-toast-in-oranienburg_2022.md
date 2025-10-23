@@ -25,7 +25,7 @@ title: "Adventure Toast in Oranienburg"
 ## Details
 - **Distance (km):** 8.57
 
-- **Total missions completed:** 
+- **Total missions completed:** 9.156
 - **This is my banner no.:** 440
 
 

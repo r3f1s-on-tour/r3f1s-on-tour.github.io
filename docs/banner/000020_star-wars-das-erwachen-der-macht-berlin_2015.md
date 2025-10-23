@@ -25,7 +25,7 @@ title: "STAR WARS - Das Erwachen der Macht (Berlin)"
 ## Details
 
 
-- **Total missions completed:** 
+- **Total missions completed:** 354
 - **This is my banner no.:** 20
 
 

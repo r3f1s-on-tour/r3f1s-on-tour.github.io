@@ -25,7 +25,7 @@ title: "RetroGaming - Dragon Ball"
 ## Details
 - **Distance (km):** 3.57
 
-- **Total missions completed:** 
+- **Total missions completed:** 8.742
 - **This is my banner no.:** 418
 
 

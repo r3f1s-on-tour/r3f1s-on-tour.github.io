@@ -25,7 +25,7 @@ title: "Holocaust Mahnmal"
 ## Details
 - **Distance (km):** 7.79
 
-- **Total missions completed:** 
+- **Total missions completed:** 7008
 - **This is my banner no.:** 300
 
 

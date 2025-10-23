@@ -25,7 +25,7 @@ title: "Berliner Alex in 24 Teilen"
 ## Details
 - **Distance (km):** 7.37
 
-- **Total missions completed:** 
+- **Total missions completed:** 6258
 - **This is my banner no.:** 261
 
 

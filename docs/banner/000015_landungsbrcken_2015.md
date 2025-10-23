@@ -25,7 +25,7 @@ title: "Landungsbrücken"
 ## Details
 - **Distance (km):** 5.87
 
-- **Total missions completed:** 
+- **Total missions completed:** 294
 - **This is my banner no.:** 15
 
 

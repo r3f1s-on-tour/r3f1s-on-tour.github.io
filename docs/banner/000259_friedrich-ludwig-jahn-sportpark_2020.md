@@ -25,7 +25,7 @@ title: "Friedrich-Ludwig-Jahn-Sportpark"
 ## Details
 - **Distance (km):** 8.10
 
-- **Total missions completed:** 
+- **Total missions completed:** 6210
 - **This is my banner no.:** 259
 
 

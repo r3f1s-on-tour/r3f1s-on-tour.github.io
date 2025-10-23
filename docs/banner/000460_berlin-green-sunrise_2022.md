@@ -25,7 +25,7 @@ title: "Berlin Green Sunrise"
 ## Details
 - **Distance (km):** 6.52
 
-- **Total missions completed:** 
+- **Total missions completed:** 9.534
 - **This is my banner no.:** 460
 
 

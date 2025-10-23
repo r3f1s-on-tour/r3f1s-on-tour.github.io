@@ -25,7 +25,7 @@ title: "Tiger of the Year"
 ## Details
 - **Distance (km):** 16.08
 
-- **Total missions completed:** 
+- **Total missions completed:** 8.808
 - **This is my banner no.:** 422
 
 

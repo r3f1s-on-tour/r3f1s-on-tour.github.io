@@ -25,7 +25,7 @@ title: "Vier-Tore-Stadt"
 ## Details
 
 
-- **Total missions completed:** 
+- **Total missions completed:** 2844
 - **This is my banner no.:** 116
 
 

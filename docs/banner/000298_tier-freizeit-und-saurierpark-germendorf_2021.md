@@ -25,7 +25,7 @@ title: "Tier-, Freizeit- und Saurierpark Germendorf"
 ## Details
 - **Distance (km):** 4.32
 
-- **Total missions completed:** 
+- **Total missions completed:** 6960
 - **This is my banner no.:** 298
 
 

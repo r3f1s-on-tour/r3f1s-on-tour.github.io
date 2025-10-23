@@ -25,7 +25,7 @@ title: "Clear your mind -Valencia"
 ## Details
 - **Distance (km):** 1.32
 
-- **Total missions completed:** 
+- **Total missions completed:** 13.122
 - **This is my banner no.:** 595
 
 

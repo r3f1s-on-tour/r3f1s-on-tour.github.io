@@ -25,7 +25,7 @@ title: "Fischbrötchenbanner"
 ## Details
 - **Distance (km):** 3.23
 
-- **Total missions completed:** 
+- **Total missions completed:** 10.608
 - **This is my banner no.:** 497
 
 

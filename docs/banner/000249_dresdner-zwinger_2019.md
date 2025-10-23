@@ -25,7 +25,7 @@ title: "Dresdner Zwinger"
 ## Details
 - **Distance (km):** 2.89
 
-- **Total missions completed:** 
+- **Total missions completed:** 6048
 - **This is my banner no.:** 249
 
 

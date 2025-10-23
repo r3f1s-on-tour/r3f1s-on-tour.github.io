@@ -25,7 +25,7 @@ title: "Auf den Spuren des Wasabi"
 ## Details
 - **Distance (km):** 1.59
 
-- **Total missions completed:** 
+- **Total missions completed:** 7260
 - **This is my banner no.:** 310
 
 

@@ -25,7 +25,7 @@ title: "Toast Run Part 2"
 ## Details
 - **Distance (km):** 6.88
 
-- **Total missions completed:** 
+- **Total missions completed:** 8.436
 - **This is my banner no.:** 391
 
 

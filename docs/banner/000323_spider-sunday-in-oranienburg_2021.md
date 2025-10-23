@@ -25,7 +25,7 @@ title: "Spider Sunday in Oranienburg"
 ## Details
 - **Distance (km):** 2.00
 
-- **Total missions completed:** 
+- **Total missions completed:** 7464
 - **This is my banner no.:** 323
 
 

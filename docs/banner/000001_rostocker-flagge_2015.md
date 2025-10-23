@@ -25,7 +25,7 @@ title: "Rostocker Flagge"
 ## Details
 - **Distance (km):** 12.84
 
-- **Total missions completed:** 
+- **Total missions completed:** 96
 - **This is my banner no.:** 1
 
 

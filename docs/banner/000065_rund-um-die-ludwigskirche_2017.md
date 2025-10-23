@@ -25,7 +25,7 @@ title: "Rund um die Ludwigskirche"
 ## Details
 
 
-- **Total missions completed:** 
+- **Total missions completed:** 1488
 - **This is my banner no.:** 65
 
 

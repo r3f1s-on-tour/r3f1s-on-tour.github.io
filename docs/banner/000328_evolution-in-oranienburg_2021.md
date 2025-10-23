@@ -25,7 +25,7 @@ title: "Evolution in Oranienburg"
 ## Details
 - **Distance (km):** 1.74
 
-- **Total missions completed:** 
+- **Total missions completed:** 7512
 - **This is my banner no.:** 328
 
 

@@ -25,7 +25,7 @@ title: "Spaziergang durch Senftenberg"
 ## Details
 - **Distance (km):** 4.12
 
-- **Total missions completed:** 
+- **Total missions completed:** 12.564
 - **This is my banner no.:** 569
 
 

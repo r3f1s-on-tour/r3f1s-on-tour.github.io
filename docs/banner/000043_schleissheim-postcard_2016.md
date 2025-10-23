@@ -25,7 +25,7 @@ title: "Schleissheim Postcard"
 ## Details
 - **Distance (km):** 9.63
 
-- **Total missions completed:** 
+- **Total missions completed:** 954
 - **This is my banner no.:** 43
 
 

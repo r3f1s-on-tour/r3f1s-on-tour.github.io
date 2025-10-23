@@ -25,7 +25,7 @@ title: "HP Banner Mission"
 ## Details
 - **Distance (km):** 2.82
 
-- **Total missions completed:** 
+- **Total missions completed:** 3252
 - **This is my banner no.:** 134
 
 

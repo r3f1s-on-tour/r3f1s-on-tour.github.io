@@ -25,7 +25,7 @@ title: "Schneeflöckchen"
 ## Details
 - **Distance (km):** 1.69
 
-- **Total missions completed:** 
+- **Total missions completed:** 13.002
 - **This is my banner no.:** 584
 
 

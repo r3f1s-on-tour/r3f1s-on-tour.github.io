@@ -25,7 +25,7 @@ title: "Vicke Schorler Rolle"
 ## Details
 
 
-- **Total missions completed:** 
+- **Total missions completed:** 102
 - **This is my banner no.:** 2
 
 

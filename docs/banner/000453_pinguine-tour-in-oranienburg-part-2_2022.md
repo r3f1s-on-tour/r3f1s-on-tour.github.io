@@ -25,7 +25,7 @@ title: "Pinguine Tour in Oranienburg Part 2"
 ## Details
 - **Distance (km):** 6.05
 
-- **Total missions completed:** 
+- **Total missions completed:** 9.384
 - **This is my banner no.:** 453
 
 

@@ -25,7 +25,7 @@ title: "Dresden Skyline"
 ## Details
 - **Distance (km):** 4.10
 
-- **Total missions completed:** 
+- **Total missions completed:** 13.026
 - **This is my banner no.:** 587
 
 

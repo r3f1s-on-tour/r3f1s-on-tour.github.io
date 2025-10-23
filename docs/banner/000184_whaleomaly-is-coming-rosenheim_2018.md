@@ -25,7 +25,7 @@ title: "Whaleomaly is Coming / [Rosenheim]"
 ## Details
 - **Distance (km):** 1.57
 
-- **Total missions completed:** 
+- **Total missions completed:** 4392
 - **This is my banner no.:** 184
 
 

@@ -25,7 +25,7 @@ title: "New Years Toast in Oranienburg"
 ## Details
 - **Distance (km):** 1.68
 
-- **Total missions completed:** 
+- **Total missions completed:** 8262
 - **This is my banner no.:** 380
 
 

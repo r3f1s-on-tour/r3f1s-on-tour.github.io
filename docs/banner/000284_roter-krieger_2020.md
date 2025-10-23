@@ -25,7 +25,7 @@ title: "Roter Krieger"
 ## Details
 - **Distance (km):** 9.01
 
-- **Total missions completed:** 
+- **Total missions completed:** 6630
 - **This is my banner no.:** 284
 
 

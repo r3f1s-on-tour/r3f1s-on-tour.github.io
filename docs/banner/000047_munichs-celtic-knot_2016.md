@@ -25,7 +25,7 @@ title: "MUNICHS CELTIC KNOT"
 ## Details
 - **Distance (km):** 10.38
 
-- **Total missions completed:** 
+- **Total missions completed:** 1086
 - **This is my banner no.:** 47
 
 

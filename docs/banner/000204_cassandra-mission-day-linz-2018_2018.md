@@ -25,7 +25,7 @@ title: "Cassandra Mission Day Linz 2018"
 ## Details
 - **Distance (km):** 21.33
 
-- **Total missions completed:** 
+- **Total missions completed:** 4776
 - **This is my banner no.:** 204
 
 

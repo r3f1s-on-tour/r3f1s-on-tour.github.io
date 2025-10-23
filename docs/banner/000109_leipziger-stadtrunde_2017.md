@@ -25,7 +25,7 @@ title: "Leipziger Stadtrunde"
 ## Details
 - **Distance (km):** 2.22
 
-- **Total missions completed:** 
+- **Total missions completed:** 2718
 - **This is my banner no.:** 109
 
 

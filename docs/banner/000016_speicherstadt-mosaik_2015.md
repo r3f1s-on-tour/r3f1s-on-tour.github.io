@@ -25,7 +25,7 @@ title: "Speicherstadt Mosaik"
 ## Details
 - **Distance (km):** 5.64
 
-- **Total missions completed:** 
+- **Total missions completed:** 312
 - **This is my banner no.:** 16
 
 

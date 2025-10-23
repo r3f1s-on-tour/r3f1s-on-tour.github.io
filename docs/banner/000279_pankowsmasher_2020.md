@@ -25,7 +25,7 @@ title: "Pankowsmasher"
 ## Details
 - **Distance (km):** 8.97
 
-- **Total missions completed:** 
+- **Total missions completed:** 6480
 - **This is my banner no.:** 279
 
 

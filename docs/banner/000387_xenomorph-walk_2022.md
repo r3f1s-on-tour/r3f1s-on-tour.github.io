@@ -25,7 +25,7 @@ title: "Xenomorph Walk"
 ## Details
 - **Distance (km):** 3.92
 
-- **Total missions completed:** 
+- **Total missions completed:** 8.328
 - **This is my banner no.:** 387
 
 

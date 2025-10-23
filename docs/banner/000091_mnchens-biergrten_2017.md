@@ -25,7 +25,7 @@ title: "Münchens Biergärten"
 ## Details
 - **Distance (km):** 13.99
 
-- **Total missions completed:** 
+- **Total missions completed:** 2370
 - **This is my banner no.:** 91
 
 

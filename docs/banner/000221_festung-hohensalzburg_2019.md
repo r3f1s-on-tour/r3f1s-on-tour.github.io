@@ -25,7 +25,7 @@ title: "Festung Hohensalzburg"
 ## Details
 - **Distance (km):** 4.20
 
-- **Total missions completed:** 
+- **Total missions completed:** 5340
 - **This is my banner no.:** 221
 
 

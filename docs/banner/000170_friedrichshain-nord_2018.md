@@ -25,7 +25,7 @@ title: "Friedrichshain Nord"
 ## Details
 
 
-- **Total missions completed:** 
+- **Total missions completed:** 4122
 - **This is my banner no.:** 170
 
 

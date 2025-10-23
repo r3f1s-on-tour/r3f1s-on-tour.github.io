@@ -25,7 +25,7 @@ title: "Green Unicorn"
 ## Details
 - **Distance (km):** 24.03
 
-- **Total missions completed:** 
+- **Total missions completed:** 7548
 - **This is my banner no.:** 329
 
 

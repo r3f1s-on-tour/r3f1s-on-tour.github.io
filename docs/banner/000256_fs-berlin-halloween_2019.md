@@ -25,7 +25,7 @@ title: "FS Berlin Halloween"
 ## Details
 
 
-- **Total missions completed:** 
+- **Total missions completed:** 6162
 - **This is my banner no.:** 256
 
 

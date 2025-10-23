@@ -25,7 +25,7 @@ title: "Karlsplatz Stachus"
 ## Details
 - **Distance (km):** 6.14
 
-- **Total missions completed:** 
+- **Total missions completed:** 648
 - **This is my banner no.:** 32
 
 

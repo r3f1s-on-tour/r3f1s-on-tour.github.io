@@ -25,7 +25,7 @@ title: "RetroGaming - Donkey Kong"
 ## Details
 - **Distance (km):** 3.57
 
-- **Total missions completed:** 
+- **Total missions completed:** 8.736
 - **This is my banner no.:** 417
 
 

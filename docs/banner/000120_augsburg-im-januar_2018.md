@@ -25,7 +25,7 @@ title: "Augsburg im Januar"
 ## Details
 
 
-- **Total missions completed:** 
+- **Total missions completed:** 2934
 - **This is my banner no.:** 120
 
 

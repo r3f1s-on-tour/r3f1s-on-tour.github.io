@@ -25,7 +25,7 @@ title: "Happy Toastern April 2022"
 ## Details
 - **Distance (km):** 2.76
 
-- **Total missions completed:** 
+- **Total missions completed:** 8.694
 - **This is my banner no.:** 410
 
 

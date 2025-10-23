@@ -25,7 +25,7 @@ title: "Der Doktor in Frankfurt"
 ## Details
 - **Distance (km):** 11.42
 
-- **Total missions completed:** 
+- **Total missions completed:** 3240
 - **This is my banner no.:** 133
 
 

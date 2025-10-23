@@ -25,7 +25,7 @@ title: "Wasserburger Altstadt"
 ## Details
 - **Distance (km):** 5.45
 
-- **Total missions completed:** 
+- **Total missions completed:** 3348
 - **This is my banner no.:** 140
 
 

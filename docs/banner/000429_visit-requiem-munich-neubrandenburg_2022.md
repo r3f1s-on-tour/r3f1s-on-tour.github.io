@@ -25,7 +25,7 @@ title: "Visit Requiem Munich - Neubrandenburg"
 ## Details
 - **Distance (km):** 4.21
 
-- **Total missions completed:** 
+- **Total missions completed:** 8.922
 - **This is my banner no.:** 429
 
 

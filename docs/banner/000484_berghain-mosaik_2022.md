@@ -25,7 +25,7 @@ title: "Berghain Mosaik"
 ## Details
 - **Distance (km):** 6.63
 
-- **Total missions completed:** 
+- **Total missions completed:** 10.452
 - **This is my banner no.:** 484
 
 

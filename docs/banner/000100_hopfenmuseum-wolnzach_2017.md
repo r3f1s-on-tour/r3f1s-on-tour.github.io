@@ -25,7 +25,7 @@ title: "Hopfenmuseum Wolnzach"
 ## Details
 - **Distance (km):** 10.21
 
-- **Total missions completed:** 
+- **Total missions completed:** 2580
 - **This is my banner no.:** 100
 
 

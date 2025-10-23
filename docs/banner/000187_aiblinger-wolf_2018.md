@@ -25,7 +25,7 @@ title: "Aiblinger Wolf"
 ## Details
 - **Distance (km):** 3.47
 
-- **Total missions completed:** 
+- **Total missions completed:** 4446
 - **This is my banner no.:** 187
 
 

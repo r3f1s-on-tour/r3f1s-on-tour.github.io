@@ -25,7 +25,7 @@ title: "Augsburg im Mai"
 ## Details
 
 
-- **Total missions completed:** 
+- **Total missions completed:** 4218
 - **This is my banner no.:** 176
 
 

@@ -25,7 +25,7 @@ title: "Harmony & Unity"
 ## Details
 - **Distance (km):** 8.40
 
-- **Total missions completed:** 
+- **Total missions completed:** 10.818
 - **This is my banner no.:** 506
 
 

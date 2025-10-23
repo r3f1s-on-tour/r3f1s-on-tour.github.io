@@ -25,7 +25,7 @@ title: "Berliner Fernsehturm"
 ## Details
 - **Distance (km):** 139.56
 
-- **Total missions completed:** 
+- **Total missions completed:** 1986
 - **This is my banner no.:** 70
 
 

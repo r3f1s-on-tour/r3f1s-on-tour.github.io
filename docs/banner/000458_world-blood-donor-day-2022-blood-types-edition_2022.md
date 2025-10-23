@@ -25,7 +25,7 @@ title: "World Blood Donor Day 2022 - Blood Types Edition"
 ## Details
 - **Distance (km):** 3.01
 
-- **Total missions completed:** 
+- **Total missions completed:** 9.486
 - **This is my banner no.:** 458
 
 

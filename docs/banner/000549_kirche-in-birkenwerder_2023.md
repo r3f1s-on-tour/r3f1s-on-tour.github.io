@@ -25,7 +25,7 @@ title: "Kirche in Birkenwerder"
 ## Details
 - **Distance (km):** 7.03
 
-- **Total missions completed:** 
+- **Total missions completed:** 12.174
 - **This is my banner no.:** 549
 
 

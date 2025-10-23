@@ -25,7 +25,7 @@ title: "Brunnenviertel"
 ## Details
 - **Distance (km):** 4.23
 
-- **Total missions completed:** 
+- **Total missions completed:** 6282
 - **This is my banner no.:** 263
 
 

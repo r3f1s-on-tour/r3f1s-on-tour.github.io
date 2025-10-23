@@ -25,7 +25,7 @@ title: "Ostern in Neubrandenburg"
 ## Details
 - **Distance (km):** 3.57
 
-- **Total missions completed:** 
+- **Total missions completed:** 8.760
 - **This is my banner no.:** 420
 
 

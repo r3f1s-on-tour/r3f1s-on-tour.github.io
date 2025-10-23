@@ -25,7 +25,7 @@ title: "Bötzows Dutzend"
 ## Details
 - **Distance (km):** 6.56
 
-- **Total missions completed:** 
+- **Total missions completed:** 8.628
 - **This is my banner no.:** 404
 
 

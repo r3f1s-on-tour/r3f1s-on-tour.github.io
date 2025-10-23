@@ -25,7 +25,7 @@ title: "#MissionProject Make Love Not War Berlin"
 ## Details
 - **Distance (km):** 4.13
 
-- **Total missions completed:** 
+- **Total missions completed:** 8.646
 - **This is my banner no.:** 405
 
 

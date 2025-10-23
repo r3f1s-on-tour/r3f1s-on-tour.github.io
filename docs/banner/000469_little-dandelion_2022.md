@@ -25,7 +25,7 @@ title: "Little Dandelion"
 ## Details
 - **Distance (km):** 5.08
 
-- **Total missions completed:** 
+- **Total missions completed:** 10.308
 - **This is my banner no.:** 469
 
 

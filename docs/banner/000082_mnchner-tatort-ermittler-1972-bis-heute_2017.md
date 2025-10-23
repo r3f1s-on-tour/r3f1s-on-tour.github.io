@@ -25,7 +25,7 @@ title: "Münchner Tatort-Ermittler 1972 bis heute"
 ## Details
 - **Distance (km):** 2.11
 
-- **Total missions completed:** 
+- **Total missions completed:** 2166
 - **This is my banner no.:** 82
 
 

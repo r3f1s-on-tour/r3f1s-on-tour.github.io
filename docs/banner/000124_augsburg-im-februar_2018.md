@@ -25,7 +25,7 @@ title: "Augsburg im Februar"
 ## Details
 
 
-- **Total missions completed:** 
+- **Total missions completed:** 3054
 - **This is my banner no.:** 124
 
 

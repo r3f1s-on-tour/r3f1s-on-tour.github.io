@@ -25,7 +25,7 @@ title: "GalaxyMenRed"
 ## Details
 - **Distance (km):** 11.09
 
-- **Total missions completed:** 
+- **Total missions completed:** 9.240
 - **This is my banner no.:** 445
 
 

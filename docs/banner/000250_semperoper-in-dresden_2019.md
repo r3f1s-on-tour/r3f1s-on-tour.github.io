@@ -25,7 +25,7 @@ title: "Semperoper in Dresden"
 ## Details
 - **Distance (km):** 5.48
 
-- **Total missions completed:** 
+- **Total missions completed:** 6066
 - **This is my banner no.:** 250
 
 

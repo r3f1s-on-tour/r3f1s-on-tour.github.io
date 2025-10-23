@@ -25,7 +25,7 @@ title: "Ameisennebel Rödelheim"
 ## Details
 - **Distance (km):** 7.88
 
-- **Total missions completed:** 
+- **Total missions completed:** 3156
 - **This is my banner no.:** 129
 
 

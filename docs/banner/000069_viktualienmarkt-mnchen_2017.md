@@ -25,7 +25,7 @@ title: "Viktualienmarkt München"
 ## Details
 - **Distance (km):** 7.60
 
-- **Total missions completed:** 
+- **Total missions completed:** 1614
 - **This is my banner no.:** 69
 
 

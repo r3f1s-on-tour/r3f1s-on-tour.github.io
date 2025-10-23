@@ -25,7 +25,7 @@ title: "Schlosskirche Mosaik Teil"
 ## Details
 - **Distance (km):** 10.45
 
-- **Total missions completed:** 
+- **Total missions completed:** 4164
 - **This is my banner no.:** 173
 
 

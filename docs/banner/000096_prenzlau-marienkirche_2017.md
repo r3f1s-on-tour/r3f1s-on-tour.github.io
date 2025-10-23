@@ -25,7 +25,7 @@ title: "Prenzlau Marienkirche"
 ## Details
 - **Distance (km):** 4.94
 
-- **Total missions completed:** 
+- **Total missions completed:** 2466
 - **This is my banner no.:** 96
 
 

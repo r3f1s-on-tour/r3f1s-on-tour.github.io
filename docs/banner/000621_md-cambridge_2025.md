@@ -25,7 +25,7 @@ title: "MD Cambridge"
 ## Details
 
 
-- **Total missions completed:** 
+- **Total missions completed:** 13.524
 - **This is my banner no.:** 621
 
 

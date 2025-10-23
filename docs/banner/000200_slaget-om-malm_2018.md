@@ -25,7 +25,7 @@ title: "Slaget om Malmö"
 ## Details
 - **Distance (km):** 2.56
 
-- **Total missions completed:** 
+- **Total missions completed:** 4674
 - **This is my banner no.:** 200
 
 

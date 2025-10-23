@@ -25,7 +25,7 @@ title: "Kloster Fürstenfeld"
 ## Details
 - **Distance (km):** 8.19
 
-- **Total missions completed:** 
+- **Total missions completed:** 2814
 - **This is my banner no.:** 114
 
 

@@ -25,7 +25,7 @@ title: "Toast Wars in Oranienburg"
 ## Details
 - **Distance (km):** 6.05
 
-- **Total missions completed:** 
+- **Total missions completed:** 9.306
 - **This is my banner no.:** 450
 
 

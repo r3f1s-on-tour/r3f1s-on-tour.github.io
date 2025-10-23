@@ -25,7 +25,7 @@ title: "Das Auge am Inn"
 ## Details
 - **Distance (km):** 4.83
 
-- **Total missions completed:** 
+- **Total missions completed:** 4428
 - **This is my banner no.:** 186
 
 

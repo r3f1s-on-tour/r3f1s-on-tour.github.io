@@ -25,7 +25,7 @@ title: "Link Trainer"
 ## Details
 - **Distance (km):** 18.78
 
-- **Total missions completed:** 
+- **Total missions completed:** 2790
 - **This is my banner no.:** 113
 
 

@@ -25,7 +25,7 @@ title: "Ich mag Waldkraiburg"
 ## Details
 - **Distance (km):** 4.01
 
-- **Total missions completed:** 
+- **Total missions completed:** 4584
 - **This is my banner no.:** 194
 
 

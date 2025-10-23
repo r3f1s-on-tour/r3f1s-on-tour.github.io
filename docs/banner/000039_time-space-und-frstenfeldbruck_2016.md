@@ -25,7 +25,7 @@ title: "Time Space und Fürstenfeldbruck"
 ## Details
 - **Distance (km):** 98.19
 
-- **Total missions completed:** 
+- **Total missions completed:** 828
 - **This is my banner no.:** 39
 
 

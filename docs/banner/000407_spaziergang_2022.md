@@ -25,7 +25,7 @@ title: "SPAZIERGANG"
 ## Details
 - **Distance (km):** 6.23
 
-- **Total missions completed:** 
+- **Total missions completed:** 8.676
 - **This is my banner no.:** 407
 
 

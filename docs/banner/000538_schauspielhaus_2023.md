@@ -25,7 +25,7 @@ title: "Schauspielhaus"
 ## Details
 - **Distance (km):** 5.06
 
-- **Total missions completed:** 
+- **Total missions completed:** 11.862
 - **This is my banner no.:** 538
 
 

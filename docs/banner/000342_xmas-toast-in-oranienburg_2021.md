@@ -25,7 +25,7 @@ title: "XMas Toast in Oranienburg"
 ## Details
 - **Distance (km):** 1.64
 
-- **Total missions completed:** 
+- **Total missions completed:** 7740
 - **This is my banner no.:** 342
 
 

@@ -25,7 +25,7 @@ title: "Second Sunday Cat"
 ## Details
 - **Distance (km):** 8.51
 
-- **Total missions completed:** 
+- **Total missions completed:** 11.988
 - **This is my banner no.:** 541
 
 

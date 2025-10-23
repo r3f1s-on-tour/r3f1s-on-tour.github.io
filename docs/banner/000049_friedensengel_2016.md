@@ -25,7 +25,7 @@ title: "Friedensengel"
 ## Details
 - **Distance (km):** 13.40
 
-- **Total missions completed:** 
+- **Total missions completed:** 1140
 - **This is my banner no.:** 49
 
 

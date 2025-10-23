@@ -25,7 +25,7 @@ title: "Zum Viktualienmarkt"
 ## Details
 
 
-- **Total missions completed:** 
+- **Total missions completed:** 3324
 - **This is my banner no.:** 138
 
 

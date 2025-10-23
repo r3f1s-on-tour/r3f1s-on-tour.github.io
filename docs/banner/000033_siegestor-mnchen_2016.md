@@ -25,7 +25,7 @@ title: "Siegestor München"
 ## Details
 - **Distance (km):** 7.66
 
-- **Total missions completed:** 
+- **Total missions completed:** 672
 - **This is my banner no.:** 33
 
 
