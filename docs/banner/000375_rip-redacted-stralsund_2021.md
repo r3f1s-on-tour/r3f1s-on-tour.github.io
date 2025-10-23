@@ -16,19 +16,25 @@ lengthKMeters: "5,66"
 umap: ""
 title: "rip redacted - stralsund"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# rip redacted - stralsund
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2021* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 5,66
+
+
+
+- **Beschreibung:** Begebe dich auf eine Entdeckungsreise durch die engen Gassen der Stralsunder Altstadt. Sie wurde 2002 in  die UNESCO-Welterbe­liste aufgenommen.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/rip-redacted-stralsund-c40f" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000375_rip-redacted-stralsund_2021.md` • #000375 • Slug: `rip-redacted-stralsund`

@@ -16,21 +16,25 @@ lengthKMeters: "7,026"
 umap: ""
 title: "Kirche in Birkenwerder"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Kirche in Birkenwerder
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2023* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Kirche in Birkenwerder](https://api.bannergress.com/bnrs/pictures/816c29e707a3870739747459dff43ee6)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 7,026
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Beginne eine Runde durch Birkenwerder und entdecke auf deiner Runde die Wassertretanlage in der Briese. Starte am Briesesteig deine Runde
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/kirche-in-birkenwerder-c60b" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000549_kirche-in-birkenwerder_2023.md` • #000549 • Slug: `kirche-in-birkenwerder`

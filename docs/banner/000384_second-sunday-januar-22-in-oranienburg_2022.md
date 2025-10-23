@@ -16,19 +16,27 @@ lengthKMeters: "2,13"
 umap: ""
 title: "Second Sunday Januar 22 in Oranienburg"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Second Sunday Januar 22 in Oranienburg
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 2,13
+
+
+
+- **Beschreibung:** Mache zum Second Sunday ein kleine Runde durch Oranienburg. Start ist in der Bernauer Straße.
+
+Online bis 10.01.2022
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/second-sunday-januar-22-in-oranienburg-8d24" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000384_second-sunday-januar-22-in-oranienburg_2022.md` • #000384 • Slug: `second-sunday-januar-22-in-oranienburg`

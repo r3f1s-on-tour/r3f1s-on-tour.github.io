@@ -16,21 +16,25 @@ lengthKMeters: "13,80"
 umap: ""
 title: "Munich city walls"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Munich city walls
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2016* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Munich city walls](https://api.bannergress.com/bnrs/pictures/32a35f14acc45a1c3470909a31431e93)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 13,80
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** In former times Munich had two city walls. Later the town was transformed into a fortress. This mission series explores the remnants and traces of that time. Please read the portal texts.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/munich-city-walls-0113" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000044_munich-city-walls_2016.md` • #000044 • Slug: `munich-city-walls`

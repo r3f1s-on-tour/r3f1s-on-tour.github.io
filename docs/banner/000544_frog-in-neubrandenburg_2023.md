@@ -16,21 +16,25 @@ lengthKMeters: "3,013"
 umap: ""
 title: "Frog in Neubrandenburg"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Frog in Neubrandenburg
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2023* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Frog in Neubrandenburg](https://api.bannergress.com/bnrs/pictures/756fc53167da24deda52c4fe6b4b0f95)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 3,013
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde die Sehenswürdigkeiten und Denkmäler der Stadt.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/frog-in-neubrandenburg-8380" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000544_frog-in-neubrandenburg_2023.md` • #000544 • Slug: `frog-in-neubrandenburg`

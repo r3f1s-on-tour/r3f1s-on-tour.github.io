@@ -16,19 +16,25 @@ lengthKMeters: "858,00"
 umap: ""
 title: "Visit Requiem Munich - Berlin"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Visit Requiem Munich - Berlin
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2020* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 858,00
+
+
+
+- **Beschreibung:** On the 9th May of 2020 an epic battle between Enlightened and Resistance will take place in Munich! Join our forces and spread the message by completing this banner.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/visit-requiem-munich-berlin-8672" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000291_visit-requiem-munich-berlin_2020.md` • #000291 • Slug: `visit-requiem-munich-berlin`

@@ -16,17 +16,19 @@ lengthKMeters: "6,05"
 umap: ""
 title: "3 Schwerter Stil in Oranienburg"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# 3 Schwerter Stil in Oranienburg
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2021* • Deutschland
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+## Details
+- **Distanz (km):** 6,05
+
+
+
+- **Beschreibung:** Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße und am Ende erwartet dich der 3 Schwerter Stil
+
+
+
+> Datei: `000348_3-schwerter-stil-in-oranienburg_2021.md` • #000348 • Slug: `3-schwerter-stil-in-oranienburg`

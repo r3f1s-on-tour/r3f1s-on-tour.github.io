@@ -16,21 +16,25 @@ lengthKMeters: "8,23"
 umap: ""
 title: "Antiquarium München"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Antiquarium München
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2016* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Antiquarium München](https://api.bannergress.com/bnrs/pictures/84f766e615e30748b7ad56ec92a8e957)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 8,23
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Das Antiquarium wurde ab 1568 zur Aufnahme der herzoglichen Antikensammlung und Bibliothek als Erweiterung der Münchner Residenz errichtet und wenig später zu einem Festsaal umgestaltet.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/antiquarium-m%C3%BCnchen-f327" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000042_antiquarium-mnchen_2016.md` • #000042 • Slug: `antiquarium-mnchen`

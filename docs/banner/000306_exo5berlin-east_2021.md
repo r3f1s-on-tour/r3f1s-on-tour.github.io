@@ -16,21 +16,25 @@ lengthKMeters: "12,65"
 umap: ""
 title: "EXO5BERLIN East"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# EXO5BERLIN East
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2021* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![EXO5BERLIN East](https://api.bannergress.com/bnrs/pictures/41d6f7b502f08abee0c2b50aec38082a)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 12,65
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** This mission leads you to famous places in Berlin.  See places of Resistance history and farmgrounds. The first mission starts at Alexanderplatz.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/exo5berlin-east-9312" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000306_exo5berlin-east_2021.md` • #000306 • Slug: `exo5berlin-east`

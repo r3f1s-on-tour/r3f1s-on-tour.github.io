@@ -16,21 +16,25 @@ lengthKMeters: "4"
 umap: ""
 title: "Deifel in Düsseldorf"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Deifel in Düsseldorf
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Deifel in Düsseldorf](https://api.bannergress.com/bnrs/pictures/077dbe7f5a8f89090241712c3eec4522)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 4
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Starte am Hauptbahnhof einen Rundgang und entdecke Düsseldorf. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet wieder am Hauptbahnhof
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/deifel-in-d%C3%BCsseldorf-0642" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000503_deifel-in-dsseldorf_2022.md` • #000503 • Slug: `deifel-in-dsseldorf`

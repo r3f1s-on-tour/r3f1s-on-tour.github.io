@@ -16,21 +16,26 @@ lengthKMeters: "35,29"
 umap: ""
 title: "Neubrandenburg im Morgennebel"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Neubrandenburg im Morgennebel
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2015* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Neubrandenburg im Morgennebel](https://lh3.googleusercontent.com/pw/AP1GczPmbMPXUHyfnJM74wDoKNARFhcH8rcOCVLiwk10EYMnl6itxdJA1oIBNnGonL4H371Z-rKih91YQRpWP5wPazUuMhtvMwGHfezZNga2B-I9z_ss4vE3fS7RmUm73URrNaVfKuWtpL61vPrOwNRbdZQBbw)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 35,29
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Neubrandenburg - die Stadt der 4 Tore in 36 Teilen.
+Schon Caspar David Friedrich erkannte 1816 die Schönheit der Stadt.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/neubrandenburg-im-morgennebel-f2f5" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000007_neubrandenburg-im-morgennebel_2015.md` • #000007 • Slug: `neubrandenburg-im-morgennebel`

@@ -16,17 +16,19 @@ lengthKMeters: "2,76"
 umap: ""
 title: "Happy Toastern April 2022"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Happy Toastern April 2022
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+## Details
+- **Distanz (km):** 2,76
+
+
+
+- **Beschreibung:** Starte am Markt eine Entdeckungsreise durch die Stadt Strasburg Uckermark und entdecke dabei historische Orte der Stadt
+
+
+
+> Datei: `000410_happy-toastern-april-2022_2022.md` • #000410 • Slug: `happy-toastern-april-2022`

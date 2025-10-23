@@ -16,21 +16,25 @@ lengthKMeters: "7,60"
 umap: ""
 title: "Viktualienmarkt München"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Viktualienmarkt München
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2017* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Viktualienmarkt München](https://api.bannergress.com/bnrs/pictures/d78faacdee4e460a4f3aecd6f6df5ff0)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 7,60
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Der Viktualienmarkt am heutigen Ort entstand aus der Verlegung des alten Münchner Stadtmarktes am Schrannenplatz, dem heutigen Marienplatz, der als Handelsort zu klein geworden war.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/viktualienmarkt-m%C3%BCnchen-14f4" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000069_viktualienmarkt-mnchen_2017.md` • #000069 • Slug: `viktualienmarkt-mnchen`

@@ -16,19 +16,25 @@ lengthKMeters: "3,011"
 umap: ""
 title: "World Blood Donor Day 2022 - Oranienburg"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# World Blood Donor Day 2022 - Oranienburg
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 3,011
+
+
+
+- **Beschreibung:** Am 14. Juni 2022 ist globaler Blutspendetag! Lasst euch mit diesem Banner durch Oranienburg zum Blutspendezentrum leiten. Beachtet, dass ihr euch für eine Blutspende vorher anmelden müsst!
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/world-blood-donor-day-2022-oranienburg-a254" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000457_world-blood-donor-day-2022-oranienburg_2022.md` • #000457 • Slug: `world-blood-donor-day-2022-oranienburg`

@@ -16,19 +16,25 @@ lengthKMeters: "5,085"
 umap: ""
 title: "Little Dandelion"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Little Dandelion
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 5,085
+
+
+
+- **Beschreibung:** Start at Rotes Rathaus for a short tour through the center of Berlin & discover some of the popular places & squares on the way to Alexanderplatz and pass Hackescher Markt and Volksbühne on your way.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/little-dandelion-5070" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000469_little-dandelion_2022.md` • #000469 • Slug: `little-dandelion`

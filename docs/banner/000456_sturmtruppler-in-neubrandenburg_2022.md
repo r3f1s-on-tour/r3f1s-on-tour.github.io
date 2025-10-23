@@ -16,21 +16,25 @@ lengthKMeters: "30,217"
 umap: ""
 title: "Sturmtruppler in Neubrandenburg"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Sturmtruppler in Neubrandenburg
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Sturmtruppler in Neubrandenburg](https://api.bannergress.com/bnrs/pictures/f4c34f53c0e4612d09d9bb4302e5533a)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 30,217
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Erkunde Neubrandenburg. Die Mission beginnt am Bahnhof, führt durch den Kulturpark zum Lindenberg und dann zurück über die Südstadt. Führt dann durch den Kulturpark und endet wieder am Bahnhof.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/sturmtruppler-in-neubrandenburg-ff30" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000456_sturmtruppler-in-neubrandenburg_2022.md` • #000456 • Slug: `sturmtruppler-in-neubrandenburg`

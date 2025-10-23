@@ -16,17 +16,19 @@ lengthKMeters: "8,57"
 umap: ""
 title: "Adventure Toast in Oranienburg"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Adventure Toast in Oranienburg
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+## Details
+- **Distanz (km):** 8,57
+
+
+
+- **Beschreibung:** Starte in der Bernauer Straße eine Reise durch die Stadt Oranienburg und hole Adventure Toasts ins Profil
+
+
+
+> Datei: `000440_adventure-toast-in-oranienburg_2022.md` • #000440 • Slug: `adventure-toast-in-oranienburg`

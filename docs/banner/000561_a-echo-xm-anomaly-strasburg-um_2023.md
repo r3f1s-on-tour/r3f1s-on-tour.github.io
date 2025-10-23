@@ -16,21 +16,25 @@ lengthKMeters: "2,058"
 umap: ""
 title: "A Echo XM Anomaly Strasburg UM"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# A Echo XM Anomaly Strasburg UM
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2023* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![A Echo XM Anomaly Strasburg UM](https://api.bannergress.com/bnrs/pictures/968776cd4d5c13635cc58353173c3808)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 2,058
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Führen Sie anlässlich der Echo XM Anomaly in Athen eine Event-Mission durch.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/a-echo-xm-anomaly-strasburg-um-381b" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000561_a-echo-xm-anomaly-strasburg-um_2023.md` • #000561 • Slug: `a-echo-xm-anomaly-strasburg-um`

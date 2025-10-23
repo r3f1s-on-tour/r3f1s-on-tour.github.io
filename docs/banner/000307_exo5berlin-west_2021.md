@@ -16,21 +16,25 @@ lengthKMeters: "14,77"
 umap: ""
 title: "EXO5BERLIN West"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# EXO5BERLIN West
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2021* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![EXO5BERLIN West](https://api.bannergress.com/bnrs/pictures/cd0bd932f3624a817bdd17cfe08e6aa4)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 14,77
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** This mission banner will show you famous places in Berlin city west. The first mission starts at Zoologischer Garten.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/exo5berlin-west-4c82" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000307_exo5berlin-west_2021.md` • #000307 • Slug: `exo5berlin-west`

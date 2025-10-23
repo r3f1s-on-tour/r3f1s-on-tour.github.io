@@ -16,21 +16,25 @@ lengthKMeters: "5,169"
 umap: ""
 title: "Visit Cottbus"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Visit Cottbus
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2023* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Visit Cottbus](https://api.bannergress.com/bnrs/pictures/d0b5f523e3b86a0b7c9c3e7e5a069b7d)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 5,169
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Diese Mission beginnt am Bahnhof und geht über die Bahnhofstraße in Richtung Theater.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/visit-cottbus-70f4" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000568_visit-cottbus_2023.md` • #000568 • Slug: `visit-cottbus`

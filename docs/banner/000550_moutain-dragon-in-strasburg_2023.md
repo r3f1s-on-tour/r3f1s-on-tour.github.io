@@ -16,21 +16,25 @@ lengthKMeters: "3,514"
 umap: ""
 title: "Moutain Dragon in Strasburg"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Moutain Dragon in Strasburg
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2023* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Moutain Dragon in Strasburg](https://api.bannergress.com/bnrs/pictures/00a0ac4532b1e25b54e9618c6f9b3ff8)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 3,514
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Starte am Marktplatz  einen Rundgang und entdecke Strasburg. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet auf dem Marktplatz
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/moutain-dragon-in-strasburg-66e0" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000550_moutain-dragon-in-strasburg_2023.md` • #000550 • Slug: `moutain-dragon-in-strasburg`

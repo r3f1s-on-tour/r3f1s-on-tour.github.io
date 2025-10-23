@@ -16,19 +16,25 @@ lengthKMeters: "3,38"
 umap: ""
 title: "Halloween in G zell"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Halloween in G zell
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2017* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 3,38
+
+
+
+- **Beschreibung:** Ursprünglich aus Irland stammend fand der Brauch, in der Nacht vor Allerheiligen beleuchtete Kürbisse (als "Jack O’Lantern" bekannt) aufzustellen, in den 90ern seinen Weg über die USA auch zu uns.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/halloween-in-g-zell-1638" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000112_halloween-in-g-zell_2017.md` • #000112 • Slug: `halloween-in-g-zell`

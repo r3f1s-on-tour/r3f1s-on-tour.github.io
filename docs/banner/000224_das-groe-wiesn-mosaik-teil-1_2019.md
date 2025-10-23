@@ -16,19 +16,25 @@ lengthKMeters: "21,00"
 umap: ""
 title: "Das Große Wiesn Mosaik Teil 1"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Das Große Wiesn Mosaik Teil 1
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2019* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 21,00
+
+
+
+- **Beschreibung:** Teil 1 der großen Wiesnreihe. Start und Ende an der Theresienwiese. Hälfte der Strecke an der Münchner Freiheit. Viel Spaß
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/wiesn-teil-1-d1d4" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000224_das-groe-wiesn-mosaik-teil-1_2019.md` • #000224 • Slug: `das-groe-wiesn-mosaik-teil-1`

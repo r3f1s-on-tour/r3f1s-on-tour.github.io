@@ -16,13 +16,19 @@ lengthKMeters: ""
 umap: ""
 title: "MD Cambridge"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# MD Cambridge
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2025* • Großbritannien
 
-- **nummer**: {{ page.meta.nummer }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
+
+
+## Details
+
+
+
+
+
+
+
+
+> Datei: `000621_md-cambridge_2025.md` • #000621 • Slug: `md-cambridge`

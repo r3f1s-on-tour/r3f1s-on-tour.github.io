@@ -16,19 +16,25 @@ lengthKMeters: "1,63"
 umap: ""
 title: "SZCZECIN for TOURISTS"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# SZCZECIN for TOURISTS
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2017* • Polska
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 1,63
+
+
+
+- **Beschreibung:** Welcome to Szczecin! Let's take a walk together and complete the banner! Hack-only #tourist-friendly missions!
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/szczecin-for-tourists-0201" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000092_szczecin-for-tourists_2017.md` • #000092 • Slug: `szczecin-for-tourists`

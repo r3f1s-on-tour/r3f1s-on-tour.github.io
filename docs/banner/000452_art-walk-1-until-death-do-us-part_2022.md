@@ -16,19 +16,27 @@ lengthKMeters: "26,48"
 umap: ""
 title: "Art walk 1 - Until death do us part"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Art walk 1 - Until death do us part
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 26,48
+
+
+
+- **Beschreibung:** Starte am Berliner Hauptbahnhof eine Entdeckungsrunde in den Norden von Berlin. Die Tour führt dich dann von Berlin Mitte durch den Bezirk Reinickendorf und endet am U-Bahnhof Rathaus Reinickendorf.
+
+Ein Tribute an den großartigen, polnischen Künstler Zdzisław Beksiński (24.02.1929 - 21.02.2005)
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/art-walk-1-until-death-do-us-part-2881" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000452_art-walk-1-until-death-do-us-part_2022.md` • #000452 • Slug: `art-walk-1-until-death-do-us-part`

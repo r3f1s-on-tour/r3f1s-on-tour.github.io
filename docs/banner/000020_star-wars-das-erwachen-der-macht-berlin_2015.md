@@ -16,15 +16,19 @@ lengthKMeters: ""
 umap: ""
 title: "STAR WARS - Das Erwachen der Macht (Berlin)"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# STAR WARS - Das Erwachen der Macht (Berlin)
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2015* • Deutschland
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
+
+
+## Details
+
+
+
+
+
+
+
+
+> Datei: `000020_star-wars-das-erwachen-der-macht-berlin_2015.md` • #000020 • Slug: `star-wars-das-erwachen-der-macht-berlin`

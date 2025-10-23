@@ -16,19 +16,25 @@ lengthKMeters: ""
 umap: ""
 title: "Starry Night TARDIS"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Starry Night TARDIS
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2015* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Starry Night TARDIS](https://lh3.googleusercontent.com/pw/AP1GczOYoXuwqJp6yd2kMQlUhFxc6l_VGhug7zs10AvGDFxAAzh07RDi_diFwOgtVu6l7dY_JUiUSpP7Jn4KRorWu0AUjLUZinfiiVYuchvBL-DZB-TiH39rbiRALO_JPRP75GnIifAZ8EA_0XSppe65X2Cl5w)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
+
+
+
+
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/starry-night-tardis-1458" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000004_starry-night-tardis_2015.md` • #000004 • Slug: `starry-night-tardis`

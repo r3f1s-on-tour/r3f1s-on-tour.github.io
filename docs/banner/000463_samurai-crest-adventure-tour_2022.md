@@ -16,17 +16,19 @@ lengthKMeters: "277,36"
 umap: ""
 title: "Samurai Crest Adventure Tour"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Samurai Crest Adventure Tour
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+## Details
+- **Distanz (km):** 277,36
+
+
+
+- **Beschreibung:** Starte deine Samurai Crests Adeventure Tour in der Stadt Strasburg Uckermark und entdecke auf deiner Runde historische Gebäude und Sehenswürdigkeiten. Die Runde endet am
+
+
+
+> Datei: `000463_samurai-crest-adventure-tour_2022.md` • #000463 • Slug: `samurai-crest-adventure-tour`

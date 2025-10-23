@@ -16,17 +16,19 @@ lengthKMeters: "8,00"
 umap: ""
 title: "Catwalk Palina"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Catwalk Palina
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+## Details
+- **Distanz (km):** 8,00
+
+
+
+- **Beschreibung:** Begleite Palina auf einen Entdeckungsstreifzug vom S+U Lichtenberg nach Friedrichsfelde und dort im Bogen durch den Weitlingkiez zurück zu seinem Ausgangspunkt.
+
+
+
+> Datei: `000448_catwalk-palina_2022.md` • #000448 • Slug: `catwalk-palina`

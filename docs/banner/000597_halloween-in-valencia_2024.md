@@ -16,21 +16,25 @@ lengthKMeters: "1,623"
 umap: ""
 title: "Halloween in Valencia"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Halloween in Valencia
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2024* • España
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Halloween in Valencia](https://api.bannergress.com/bnrs/pictures/dde27ab1355659599191184a174d41f8)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 1,623
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Discover Valencia at Halloween and get this spooky banner!
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/halloween-in-valencia-f0f4" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000597_halloween-in-valencia_2024.md` • #000597 • Slug: `halloween-in-valencia`

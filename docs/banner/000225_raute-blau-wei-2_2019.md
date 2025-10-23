@@ -16,17 +16,25 @@ lengthKMeters: ""
 umap: ""
 title: "Raute Blau Weiß 2"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Raute Blau Weiß 2
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2019* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
+
+## Details
+
+
+
+
+
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/raute-blau-wei%C3%9F-teil-ii-63f0" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000225_raute-blau-wei-2_2019.md` • #000225 • Slug: `raute-blau-wei-2`

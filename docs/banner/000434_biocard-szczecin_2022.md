@@ -16,21 +16,25 @@ lengthKMeters: "18,62"
 umap: ""
 title: "Biocard Szczecin"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Biocard Szczecin
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Polska
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Biocard Szczecin](https://api.bannergress.com/bnrs/pictures/20a058074b53019498efad8705ff63fd)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 18,62
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Welcome to Szczecin! This banner will lead you through the city's most famous highlights. Complete it to earn a biocard depicting the statue of the Seaman.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/biocard-szczecin-0805" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000434_biocard-szczecin_2022.md` • #000434 • Slug: `biocard-szczecin`

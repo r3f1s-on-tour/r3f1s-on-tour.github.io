@@ -16,19 +16,26 @@ lengthKMeters: "6,57"
 umap: ""
 title: "Bayern Flagge"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Bayern Flagge
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2018* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 6,57
+
+
+
+- **Beschreibung:** Erkunde die bayerische Hauptstadt, beantworte Fragen zu Bayern und erhalte als Belohnung die bayerische Flagge mit Wappen.
+Diese Mission startet am Marienplatz.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/bayern-flagge-d575" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000155_bayern-flagge_2018.md` • #000155 • Slug: `bayern-flagge`

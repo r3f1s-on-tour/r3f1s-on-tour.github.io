@@ -16,15 +16,19 @@ lengthKMeters: ""
 umap: ""
 title: "Süße Verführung in Augsburg"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Süße Verführung in Augsburg
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2018* • Deutschland
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
+
+
+## Details
+
+
+
+
+
+
+
+
+> Datei: `000147_se-verfhrung-in-augsburg_2018.md` • #000147 • Slug: `se-verfhrung-in-augsburg`

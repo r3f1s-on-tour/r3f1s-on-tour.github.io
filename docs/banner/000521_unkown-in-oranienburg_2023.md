@@ -16,17 +16,19 @@ lengthKMeters: "1,29"
 umap: ""
 title: "Unkown in Oranienburg"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Unkown in Oranienburg
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2023* • Deutschland
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+## Details
+- **Distanz (km):** 1,29
+
+
+
+- **Beschreibung:** Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
+
+
+
+> Datei: `000521_unkown-in-oranienburg_2023.md` • #000521 • Slug: `unkown-in-oranienburg`

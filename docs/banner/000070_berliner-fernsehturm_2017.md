@@ -16,21 +16,27 @@ lengthKMeters: "139,56"
 umap: ""
 title: "Berliner Fernsehturm"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Berliner Fernsehturm
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2017* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Berliner Fernsehturm](https://api.bannergress.com/bnrs/pictures/31b08225ae72b1f2f2cc3a10d7491b92)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 139,56
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** NUR NOCH BIS ZUM 31.12.2021 SPIELBAR!
+
+Zur Umgehung des nicht öffentlich begehbaren Charitè-Geländes sind die Missionen Berliner Fernsehturm (altern.) 035 bis Berliner Fernsehturm (altern.) 040 online. Die Änderung der Route beginnt bereits am Hauptbahnhof, um die benötigte Portalanzahl zu erreichen. Ab Mission 41 ist die Originalroute spielbar. https-//bannergress.com/banner/berliner-fernsehturm-altern-bee8
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/berliner-fernsehturm-d601" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000070_berliner-fernsehturm_2017.md` • #000070 • Slug: `berliner-fernsehturm`

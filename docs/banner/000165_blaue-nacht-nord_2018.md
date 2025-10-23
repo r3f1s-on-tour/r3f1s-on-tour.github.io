@@ -16,15 +16,19 @@ lengthKMeters: ""
 umap: ""
 title: "Blaue Nacht Nord"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Blaue Nacht Nord
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2018* • Deutschland
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
+
+
+## Details
+
+
+
+
+
+
+
+
+> Datei: `000165_blaue-nacht-nord_2018.md` • #000165 • Slug: `blaue-nacht-nord`

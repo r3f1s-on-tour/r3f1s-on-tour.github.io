@@ -16,21 +16,25 @@ lengthKMeters: "8,73"
 umap: ""
 title: "MissionDay Kaiserburg"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# MissionDay Kaiserburg
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2017* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![MissionDay Kaiserburg](https://api.bannergress.com/bnrs/pictures/2104e045dafdef8399f8f8b76ec19f50)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 8,73
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Welcome to Nürnberg! Starting at Handwerkerhof across the main station this mission will lead you all along the old city wall up to the imperial castle and back to the main station.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/missionday-n%C3%BCrnberg-ec91" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000068_missionday-kaiserburg_2017.md` • #000068 • Slug: `missionday-kaiserburg`

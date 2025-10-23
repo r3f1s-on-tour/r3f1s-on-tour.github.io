@@ -16,17 +16,19 @@ lengthKMeters: "2,79"
 umap: ""
 title: "8000 SpecOps Runde durch Strasburg"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# 8000 SpecOps Runde durch Strasburg
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2021* • Deutschland
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+## Details
+- **Distanz (km):** 2,79
+
+
+
+- **Beschreibung:** Mache eine Entdeckungsrunde durch Strasburg und hole die 8000 ins Profil
+
+
+
+> Datei: `000363_8000-specops-runde-durch-strasburg_2021.md` • #000363 • Slug: `8000-specops-runde-durch-strasburg`

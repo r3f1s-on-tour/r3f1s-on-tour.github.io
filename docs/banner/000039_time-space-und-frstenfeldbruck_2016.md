@@ -16,21 +16,25 @@ lengthKMeters: "98,19"
 umap: ""
 title: "Time Space und Fürstenfeldbruck"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Time Space und Fürstenfeldbruck
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2016* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Time Space und Fürstenfeldbruck](https://api.bannergress.com/bnrs/pictures/0c9708630f31755d9cb89f468ad2e6ba)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 98,19
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Eine Reise durch den schönen Landkreis Fürstenfeldbruck.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/time-space-und-f%C3%BCrstenfeldbruck-7a7f" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000039_time-space-und-frstenfeldbruck_2016.md` • #000039 • Slug: `time-space-und-frstenfeldbruck`

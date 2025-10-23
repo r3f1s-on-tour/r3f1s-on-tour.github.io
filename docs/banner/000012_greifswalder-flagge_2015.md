@@ -16,21 +16,25 @@ lengthKMeters: "12,22"
 umap: ""
 title: "Greifswalder Flagge"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Greifswalder Flagge
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2015* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Greifswalder Flagge](https://api.bannergress.com/bnrs/pictures/98098407103277f8e6c82ac9c530ea09)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 12,22
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Zeige Flagge für die einzigartige Universitäts- und Hansestadt Greifswald! Dies ist die erste von achtzehn Missionen für das Mosaik der Greifswalder Flagge.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/greifswalder-flagge-efe8" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000012_greifswalder-flagge_2015.md` • #000012 • Slug: `greifswalder-flagge`

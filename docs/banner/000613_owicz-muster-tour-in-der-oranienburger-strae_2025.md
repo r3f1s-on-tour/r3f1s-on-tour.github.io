@@ -16,18 +16,25 @@ lengthKMeters: "1,6"
 umap: ""
 title: "Łowicz-Muster Tour in der Oranienburger Straße"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Łowicz-Muster Tour in der Oranienburger Straße
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2025* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Łowicz-Muster Tour in der Oranienburger Straße](https://api.bannergress.com/bnrs/pictures/4eb320933eceae6520fde68d35d23d05)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 1,6
 
-- **nummer**: {{ page.meta.nummer }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/%C5%82owicz-muster-tour-in-der-oranienburger-stra%C3%9Fe-75f1" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000613_owicz-muster-tour-in-der-oranienburger-strae_2025.md` • #000613 • Slug: `owicz-muster-tour-in-der-oranienburger-strae`

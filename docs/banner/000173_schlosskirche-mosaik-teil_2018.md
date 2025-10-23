@@ -16,19 +16,25 @@ lengthKMeters: "10,45"
 umap: ""
 title: "Schlosskirche Mosaik Teil"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Schlosskirche Mosaik Teil
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2018* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 10,45
+
+
+
+- **Beschreibung:** In der ersten Mission beginnt ihr den Rundgang durch das historische Neustrelitz am Markt. Die Tour  führt euch durch die Innenstadt von Neustrelitz. Am besten, ihr macht die Missionen zu Fuß.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/schlosskirche-mosaik-teil-c34b" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000173_schlosskirche-mosaik-teil_2018.md` • #000173 • Slug: `schlosskirche-mosaik-teil`

@@ -16,17 +16,19 @@ lengthKMeters: "1,59"
 umap: ""
 title: "Oranienburger Toast Rangers"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Oranienburger Toast Rangers
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+## Details
+- **Distanz (km):** 1,59
+
+
+
+- **Beschreibung:** Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
+
+
+
+> Datei: `000385_oranienburger-toast-rangers_2022.md` • #000385 • Slug: `oranienburger-toast-rangers`

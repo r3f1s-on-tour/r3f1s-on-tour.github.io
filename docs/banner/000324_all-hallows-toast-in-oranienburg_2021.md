@@ -16,19 +16,27 @@ lengthKMeters: "1,74"
 umap: ""
 title: "All Hallows Toast in Oranienburg"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# All Hallows Toast in Oranienburg
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2021* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 1,74
+
+
+
+- **Beschreibung:** Eine kleine Entdeckungsrunde durch Oranienburg. Die Reihe startet am Bahnhof und führt dich zum Schlosspark der Stadt
+
+Geht am 01.11.2021 offline
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/all-hallows-toast-in-oranienburg-1b78" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000324_all-hallows-toast-in-oranienburg_2021.md` • #000324 • Slug: `all-hallows-toast-in-oranienburg`

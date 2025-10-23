@@ -16,17 +16,19 @@ lengthKMeters: ""
 umap: ""
 title: "Vicke Schorler Rolle"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Vicke Schorler Rolle
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2015* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Vicke Schorler Rolle](https://lh3.googleusercontent.com/pw/AP1GczMR6Ew49IolF_yKFAtKx2CaWrCeRg9NtiP3RF5H4aUAGzMi9Po7v_tc626pFIPbloPP7-yaBtUmO_eF3MXvescWN4xJwPrBo3MTsCvzMTaGSy4cKd4QGRvobKJSXWe8IH0AO9irvuhPwjU1t5JUw_cJ9Q)
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
+## Details
+
+
+
+
+
+
+
+
+> Datei: `000002_vicke-schorler-rolle_2015.md` • #000002 • Slug: `vicke-schorler-rolle`

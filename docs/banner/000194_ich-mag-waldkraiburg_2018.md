@@ -16,19 +16,26 @@ lengthKMeters: "4,01"
 umap: ""
 title: "Ich mag Waldkraiburg"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Ich mag Waldkraiburg
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2018* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 4,01
+
+
+
+- **Beschreibung:** Eine Tour durch Waldkraiburg. Wenn man die Missionen der Reihe nach macht erhält man den Schriftzug "Ich mag Waldkraiburg".
+Mission 1- Vom Rathaus Richtung Stadtpark
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/ich-mag-waldkraiburg-d034" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000194_ich-mag-waldkraiburg_2018.md` • #000194 • Slug: `ich-mag-waldkraiburg`

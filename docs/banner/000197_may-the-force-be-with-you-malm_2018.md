@@ -16,19 +16,27 @@ lengthKMeters: "1,91"
 umap: ""
 title: "May the force be with you Malmö"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# May the force be with you Malmö
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2018* • Sverige
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 1,91
+
+
+
+- **Beschreibung:** Quick banner mission in order to bring out the force in central parts of Malmö.
+
+All portals available 24/7.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/may-the-force-be-with-you-malm%C3%B6-abe8" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000197_may-the-force-be-with-you-malm_2018.md` • #000197 • Slug: `may-the-force-be-with-you-malm`

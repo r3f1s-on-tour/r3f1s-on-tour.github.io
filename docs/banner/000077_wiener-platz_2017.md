@@ -16,21 +16,25 @@ lengthKMeters: "7,90"
 umap: ""
 title: "Wiener Platz"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Wiener Platz
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2017* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Wiener Platz](https://api.bannergress.com/bnrs/pictures/017bedff3d4bbcaf87c58d14b36ffd1e)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 7,90
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Am Wiener Platz befindet sich seit 1889 der kleinste der 4 ständigen Märkte Münchens. Nebenan befindet sich der Hofbräukeller, wo auch bis in die 1980er Jahre das Hofbräu-Bier gebraut wurde.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/wiener-platz-d456" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000077_wiener-platz_2017.md` • #000077 • Slug: `wiener-platz`

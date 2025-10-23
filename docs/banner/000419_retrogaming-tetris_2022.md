@@ -16,17 +16,19 @@ lengthKMeters: "3,57"
 umap: ""
 title: "RetroGaming - Tetris"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# RetroGaming - Tetris
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+## Details
+- **Distanz (km):** 3,57
+
+
+
+- **Beschreibung:** Starte am Markt eine Entdeckungsreise durch die Stadt Strasburg Uckermark und entdecke dabei historische Orte der Stadt
+
+
+
+> Datei: `000419_retrogaming-tetris_2022.md` • #000419 • Slug: `retrogaming-tetris`

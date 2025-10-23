@@ -16,21 +16,25 @@ lengthKMeters: "6,965"
 umap: ""
 title: "Playing Frogs NB"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Playing Frogs NB
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2025* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Playing Frogs NB](https://api.bannergress.com/bnrs/pictures/38c1dd490e87d10690357af83dccbb59)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 6,965
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Diese Missionen führen entlang des Strandbads Brodas und dem Kulturpark von Neubrandenburg. Entdecke dabei auch die zahlreichen Skulpturen im Kulturpark.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/playing-frogs-nb-2fed" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000610_playing-frogs-nb_2025.md` • #000610 • Slug: `playing-frogs-nb`

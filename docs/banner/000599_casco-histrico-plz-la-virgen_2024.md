@@ -16,21 +16,25 @@ lengthKMeters: "4,275"
 umap: ""
 title: "Casco Histórico Plz. La Virgen"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Casco Histórico Plz. La Virgen
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2024* • España
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Casco Histórico Plz. La Virgen](https://api.bannergress.com/bnrs/pictures/342c7600849e873a4902bf8f0f8af4d0)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 4,275
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Uno de los lugares mas emblemáticos de la ciudad Valenciana, es sin duda la plaza de la Virgen en pleno centro del casco antiguo y rodeado de muchas calles con un ambiente muy muy agradable.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/casco-hist%C3%B3rico-plz-la-virgen-4c18" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000599_casco-histrico-plz-la-virgen_2024.md` • #000599 • Slug: `casco-histrico-plz-la-virgen`

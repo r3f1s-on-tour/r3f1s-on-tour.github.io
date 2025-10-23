@@ -16,21 +16,25 @@ lengthKMeters: "1,323"
 umap: ""
 title: "Deifel in Wuppertal"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Deifel in Wuppertal
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Deifel in Wuppertal](https://api.bannergress.com/bnrs/pictures/5043c3a180f5f2f1114de085f13cdf83)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 1,323
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Starte am Hauptbahnhof einen Rundgang und entdecke Wuppertal. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet wieder am Hauptbahnhof
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/deifel-in-wuppertal-5ea7" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000507_deifel-in-wuppertal_2022.md` • #000507 • Slug: `deifel-in-wuppertal`

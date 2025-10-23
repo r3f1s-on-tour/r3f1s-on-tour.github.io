@@ -16,19 +16,25 @@ lengthKMeters: "7,65"
 umap: ""
 title: "Bötzows Caticorn"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Bötzows Caticorn
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2020* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 7,65
+
+
+
+- **Beschreibung:** Nur noch bis 31.10.2021 spielbar.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/b%C3%B6tzows-caticorn-e6b1" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000273_btzows-caticorn_2020.md` • #000273 • Slug: `btzows-caticorn`

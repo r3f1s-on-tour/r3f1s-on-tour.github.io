@@ -16,19 +16,25 @@ lengthKMeters: "2,70"
 umap: ""
 title: "Heart Core Beat Munich"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Heart Core Beat Munich
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2017* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 2,70
+
+
+
+- **Beschreibung:** This resistance heartbeat as a counterpart to the luminescent heart leads  you through one of the most beautiful quarters of Munich.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/heart-core-beat-munich-4fa6" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000107_heart-core-beat-munich_2017.md` • #000107 • Slug: `heart-core-beat-munich`

@@ -16,19 +16,25 @@ lengthKMeters: "6,56"
 umap: ""
 title: "Find the 13 Archetypes in Oranienburg"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Find the 13 Archetypes in Oranienburg
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2021* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 6,56
+
+
+
+- **Beschreibung:** Gehe auf Tour in Oranienburg und finde die 13 Archetypen in Oranienburg. Die Tour startet in der Bernauer Straße
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/find-the-13-archetypes-in-oranienburg-49c9" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000339_find-the-13-archetypes-in-oranienburg_2021.md` • #000339 • Slug: `find-the-13-archetypes-in-oranienburg`

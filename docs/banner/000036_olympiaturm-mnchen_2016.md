@@ -16,19 +16,25 @@ lengthKMeters: "21,90"
 umap: ""
 title: "Olympiaturm München"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Olympiaturm München
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2016* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 21,90
+
+
+
+- **Beschreibung:** Diese Missionsreihe führt dich vom Hauptbahnhof quer durch München zum Olympiaturm in 60 kleinen Missionen.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/olympiaturm-m%C3%BCnchen-24a1" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000036_olympiaturm-mnchen_2016.md` • #000036 • Slug: `olympiaturm-mnchen`

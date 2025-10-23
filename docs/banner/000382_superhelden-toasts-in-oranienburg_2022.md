@@ -16,17 +16,19 @@ lengthKMeters: "2,20"
 umap: ""
 title: "Superhelden Toasts in Oranienburg"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Superhelden Toasts in Oranienburg
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+## Details
+- **Distanz (km):** 2,20
+
+
+
+- **Beschreibung:** Starte einen kleinen Rundgang durch Oranienburg und hole die Superhelden Toats ins Profil.
+
+
+
+> Datei: `000382_superhelden-toasts-in-oranienburg_2022.md` • #000382 • Slug: `superhelden-toasts-in-oranienburg`

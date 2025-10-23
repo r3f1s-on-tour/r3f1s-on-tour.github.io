@@ -16,21 +16,25 @@ lengthKMeters: "8"
 umap: ""
 title: "Mein grüner Kaktus in Oranienburg"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Mein grüner Kaktus in Oranienburg
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Mein grüner Kaktus in Oranienburg](https://api.bannergress.com/bnrs/pictures/8c94f3fbb77c8eef340b0ca8a9eda497)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 8
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/mein-gr%C3%BCner-kaktus-in-oranienburg-fa23" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000493_mein-grner-kaktus-in-oranienburg_2022.md` • #000493 • Slug: `mein-grner-kaktus-in-oranienburg`

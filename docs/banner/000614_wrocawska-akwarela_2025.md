@@ -16,17 +16,25 @@ lengthKMeters: ""
 umap: ""
 title: "Wrocławska akwarela"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Wrocławska akwarela
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2025* • Polska
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Wrocławska akwarela](https://api.bannergress.com/bnrs/pictures/3d3813d1331c65663189a5e5a17636a9)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
 
-- **nummer**: {{ page.meta.nummer }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
+
+
+
+
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/wroc%C5%82awska-akwarela-6252" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000614_wrocawska-akwarela_2025.md` • #000614 • Slug: `wrocawska-akwarela`

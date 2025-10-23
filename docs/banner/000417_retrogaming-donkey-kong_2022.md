@@ -16,19 +16,25 @@ lengthKMeters: "3,57"
 umap: ""
 title: "RetroGaming - Donkey Kong"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# RetroGaming - Donkey Kong
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 3,57
+
+
+
+- **Beschreibung:** Starte auf dem Markt eine Entdeckungsreise durch die Stadt Pasewalk und entdecke dabei die Sehenswürdigkeiten der Stadt
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/retrogaming-donkey-kong-9ed9" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000417_retrogaming-donkey-kong_2022.md` • #000417 • Slug: `retrogaming-donkey-kong`

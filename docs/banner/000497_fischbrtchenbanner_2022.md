@@ -16,19 +16,27 @@ lengthKMeters: "3,235"
 umap: ""
 title: "Fischbrötchenbanner"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Fischbrötchenbanner
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 3,235
+
+
+
+- **Beschreibung:** Schnapp dir ein Fischbrötchen deiner Wahl.
+Köln erstes Fischbrötchenbanner startet bei Fisch Hembsch, einem Familienbetrieb mit über 120 Jahren Tradition. Immer geradeaus gelangst du am Eigelstein zum Reefhouse. Ein sehr gutes Fischrestaurant welches auch Fischbrötchen und Backfisch anbietet.
+Am Ende des Banners liegt das Pescado. Hier gibt es die Luxusvariante des Fischbrötchen. Absolut empfehlenswert!
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/fischbr%C3%B6tchenbanner-09da" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000497_fischbrtchenbanner_2022.md` • #000497 • Slug: `fischbrtchenbanner`

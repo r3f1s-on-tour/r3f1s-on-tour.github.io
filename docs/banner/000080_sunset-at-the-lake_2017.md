@@ -16,21 +16,25 @@ lengthKMeters: "6,25"
 umap: ""
 title: "Sunset at the lake"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Sunset at the lake
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2017* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Sunset at the lake](https://api.bannergress.com/bnrs/pictures/e3e494a190ecc79e317bf49128248159)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 6,25
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Erkunde den Wesslinger See und mache ein schönes Bild mit Sonnenuntergang am See. Die Missionsreihe besteht aus zwei Runden um den Wesslinger See- Hack&Capture und Link&Field. Endportal = Startportal.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/sunset-at-the-lake-8330" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000080_sunset-at-the-lake_2017.md` • #000080 • Slug: `sunset-at-the-lake`

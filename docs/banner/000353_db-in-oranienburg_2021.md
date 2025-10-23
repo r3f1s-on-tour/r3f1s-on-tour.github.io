@@ -16,17 +16,19 @@ lengthKMeters: "6,05"
 umap: ""
 title: "DB in Oranienburg"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# DB in Oranienburg
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2021* • Deutschland
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+## Details
+- **Distanz (km):** 6,05
+
+
+
+- **Beschreibung:** Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
+
+
+
+> Datei: `000353_db-in-oranienburg_2021.md` • #000353 • Slug: `db-in-oranienburg`

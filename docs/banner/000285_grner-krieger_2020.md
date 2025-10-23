@@ -16,19 +16,25 @@ lengthKMeters: "15,59"
 umap: ""
 title: "Grüner Krieger"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Grüner Krieger
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2020* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 15,59
+
+
+
+- **Beschreibung:** Erkunde die Stadt München ab dem Karlsplatz durch die Maxvorstadt bis zum Hauptbahnhof
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/gr%C3%BCner-krieger-5ab5" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000285_grner-krieger_2020.md` • #000285 • Slug: `grner-krieger`

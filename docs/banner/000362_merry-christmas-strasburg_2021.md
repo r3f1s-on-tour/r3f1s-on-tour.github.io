@@ -16,17 +16,19 @@ lengthKMeters: "3,18"
 umap: ""
 title: "Merry Christmas - Strasburg"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Merry Christmas - Strasburg
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2021* • Deutschland
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+## Details
+- **Distanz (km):** 3,18
+
+
+
+- **Beschreibung:** Starte am Marktplatz und entdecke Strasburg Uckermark bei einer weihnachtlichen Spaziergang.
+
+
+
+> Datei: `000362_merry-christmas-strasburg_2021.md` • #000362 • Slug: `merry-christmas-strasburg`

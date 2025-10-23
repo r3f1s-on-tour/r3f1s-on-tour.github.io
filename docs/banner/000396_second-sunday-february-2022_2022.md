@@ -16,17 +16,19 @@ lengthKMeters: "1,60"
 umap: ""
 title: "Second Sunday - February 2022"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Second Sunday - February 2022
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+## Details
+- **Distanz (km):** 1,60
+
+
+
+- **Beschreibung:** Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
+
+
+
+> Datei: `000396_second-sunday-february-2022_2022.md` • #000396 • Slug: `second-sunday-february-2022`

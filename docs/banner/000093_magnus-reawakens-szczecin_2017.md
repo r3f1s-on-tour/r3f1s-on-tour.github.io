@@ -16,21 +16,25 @@ lengthKMeters: "13,54"
 umap: ""
 title: "MAGNUS Reawakens Szczecin"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# MAGNUS Reawakens Szczecin
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2017* • Polska
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![MAGNUS Reawakens Szczecin](https://api.bannergress.com/bnrs/pictures/f3f19c5eebe702c31a6d1e6eb37d766f)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 13,54
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** 42 missions in recognition of your contributions during 13Magnus Reawakens XM Anomaly in Szczecin, 26.08.2017
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/magnus-reawakens-szczecin-796c" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000093_magnus-reawakens-szczecin_2017.md` • #000093 • Slug: `magnus-reawakens-szczecin`

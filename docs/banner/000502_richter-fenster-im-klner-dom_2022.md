@@ -16,21 +16,26 @@ lengthKMeters: "4,3"
 umap: ""
 title: "Richter Fenster im Kölner Dom"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Richter Fenster im Kölner Dom
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Richter Fenster im Kölner Dom](https://api.bannergress.com/bnrs/pictures/6ec737c556775c4c488cff75ae1e450c)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 4,3
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Richter-Fenster ist das von Richter entworfene Südquerhausfenster des Kölner Doms.
+Richter window is the southern transverse window of the Cologne Cathedral, designed by the artist named Richter.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/richter-fenster-im-k%C3%B6lner-dom-7363" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000502_richter-fenster-im-klner-dom_2022.md` • #000502 • Slug: `richter-fenster-im-klner-dom`

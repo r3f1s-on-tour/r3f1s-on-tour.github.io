@@ -16,21 +16,25 @@ lengthKMeters: "1,319"
 umap: ""
 title: "Clear your mind -Valencia"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Clear your mind -Valencia
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2024* • España
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Clear your mind -Valencia](https://api.bannergress.com/bnrs/pictures/60b33693a25a907d8635e803d0a96741)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 1,319
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Agradable paseo por las calles de Valencia
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/clear-your-mind-valencia-6de4" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000595_clear-your-mind-valencia_2024.md` • #000595 • Slug: `clear-your-mind-valencia`

@@ -16,21 +16,25 @@ lengthKMeters: "13,08"
 umap: ""
 title: "Manzelbrunnen"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Manzelbrunnen
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Polska
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Manzelbrunnen](https://api.bannergress.com/bnrs/pictures/27731c7eed356342597202a124dc7155)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 13,08
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Historyczna rzeźba symbolizująca Szczecin, zaginiona w czasie 2 Wojny Światowej. Część  2 - wzdłuż Bulwarów.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/manzelbrunnen-4729" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000431_manzelbrunnen_2022.md` • #000431 • Slug: `manzelbrunnen`

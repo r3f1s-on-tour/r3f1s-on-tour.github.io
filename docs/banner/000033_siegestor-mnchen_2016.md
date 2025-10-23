@@ -16,21 +16,25 @@ lengthKMeters: "7,66"
 umap: ""
 title: "Siegestor München"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Siegestor München
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2016* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Siegestor München](https://api.bannergress.com/bnrs/pictures/235ff037bace8063259176a2f8e669d9)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 7,66
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Das Siegestor wurde 1843 bis 1850 aus Kelheimer Kalkstein errichtet. Am 15. Oktober 1850 übergab König Maximilian II. im Namen seines abgedankten Vaters das Siegestor an die Stadt München.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/siegestor-m%C3%BCnchen-4f77" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000033_siegestor-mnchen_2016.md` • #000033 • Slug: `siegestor-mnchen`

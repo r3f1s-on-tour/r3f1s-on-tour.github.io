@@ -16,21 +16,25 @@ lengthKMeters: "6,671"
 umap: ""
 title: "Hafentempel Xanten"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Hafentempel Xanten
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2023* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Hafentempel Xanten](https://api.bannergress.com/bnrs/pictures/31f13a6f1f7a3c3efa65aaf090a76874)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 6,671
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Dieses 18 Mosaik führt durch den APX.  Hier muss man Eintritt bezahlen. die Preise findet ihr auf folgender Internetseite www.apx.lvr.de. Für Kinder ist dort ein Kletterparadies und Hüpfkissen.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/hafentempel-xanten-5274" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000580_hafentempel-xanten_2023.md` • #000580 • Slug: `hafentempel-xanten`

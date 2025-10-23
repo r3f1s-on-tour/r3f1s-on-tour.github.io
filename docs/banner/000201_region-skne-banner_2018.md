@@ -16,15 +16,19 @@ lengthKMeters: ""
 umap: ""
 title: "Region Skåne Banner"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Region Skåne Banner
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2018* • Sverige
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
+
+
+## Details
+
+
+
+
+
+
+
+
+> Datei: `000201_region-skne-banner_2018.md` • #000201 • Slug: `region-skne-banner`

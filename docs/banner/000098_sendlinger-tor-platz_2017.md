@@ -16,19 +16,25 @@ lengthKMeters: "8,60"
 umap: ""
 title: "Sendlinger-Tor-Platz"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Sendlinger-Tor-Platz
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2017* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 8,60
+
+
+
+- **Beschreibung:** Im Rahmen der großen Stadterweiterung durch Ludwig den Bayern entstand 1285 bis 1337 eine zweite Stadtbefestigung, in deren Rahmen das Sendlinger Tor errichtet wurde. 1319 wird es erstmals erwähnt.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/sendlinger-tor-platz-ec38" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000098_sendlinger-tor-platz_2017.md` • #000098 • Slug: `sendlinger-tor-platz`

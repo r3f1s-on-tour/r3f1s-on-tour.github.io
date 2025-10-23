@@ -16,19 +16,25 @@ lengthKMeters: "12,00"
 umap: ""
 title: "Green Dragon"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Green Dragon
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 12,00
+
+
+
+- **Beschreibung:** Der kleine Drache schlüpft am S+U Bhf Lichtenberg. Begleite ihn Richtung Friedrichsfelde Ost, um von dort weiter den Weitling- & Nöldnerkiez zu durchstreifen. Seine Reise endet dort, wo alles begann.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/green-dragon-70cf" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000399_green-dragon_2022.md` • #000399 • Slug: `green-dragon`

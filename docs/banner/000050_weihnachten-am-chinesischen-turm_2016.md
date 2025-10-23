@@ -16,21 +16,25 @@ lengthKMeters: "5,54"
 umap: ""
 title: "Weihnachten am Chinesischen Turm"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Weihnachten am Chinesischen Turm
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2016* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Weihnachten am Chinesischen Turm](https://api.bannergress.com/bnrs/pictures/4b5ea303a04b6c745ca69d622a2b195f)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 5,54
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Der Chinesische Turm wurde in den Jahren 1789 bis 1790 erbaut und 1792 mit der Eröffnung des Englischen Gartens als Aussichtsplattform der Öffentlichkeit zugänglich gemacht.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/weihnachten-am-chinesischen-turm-46d7" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000050_weihnachten-am-chinesischen-turm_2016.md` • #000050 • Slug: `weihnachten-am-chinesischen-turm`

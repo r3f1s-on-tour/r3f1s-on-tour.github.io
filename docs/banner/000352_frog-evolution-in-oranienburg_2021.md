@@ -16,17 +16,19 @@ lengthKMeters: "1,64"
 umap: ""
 title: "Frog Evolution in Oranienburg"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Frog Evolution in Oranienburg
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2021* • Deutschland
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+## Details
+- **Distanz (km):** 1,64
+
+
+
+- **Beschreibung:** Mache eine kleine Tour durch Oranienburg und hole dir die Frog Evolution ins Profil
+
+
+
+> Datei: `000352_frog-evolution-in-oranienburg_2021.md` • #000352 • Slug: `frog-evolution-in-oranienburg`

@@ -16,21 +16,25 @@ lengthKMeters: "1,366"
 umap: ""
 title: "Marx is calling you - Neubrandenburg"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Marx is calling you - Neubrandenburg
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2025* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Marx is calling you - Neubrandenburg](https://api.bannergress.com/bnrs/pictures/6b0ad5ccfffd041be5a78ec6f05071c3)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 1,366
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** "+Theta Chemnitz is coming! Explore a city in transformation from industrial heritage and stunning architecture to cultural diversity. As ECoC 2025, Chemnitz invites you to C the Unseen!"
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/marx-is-calling-you-neubrandenburg-459a" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000609_marx-is-calling-you-neubrandenburg_2025.md` • #000609 • Slug: `marx-is-calling-you-neubrandenburg`

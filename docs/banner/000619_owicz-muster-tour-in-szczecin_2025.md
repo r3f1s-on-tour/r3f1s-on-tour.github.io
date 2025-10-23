@@ -16,18 +16,25 @@ lengthKMeters: "1,3"
 umap: ""
 title: "Łowicz-Muster Tour in Szczecin"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Łowicz-Muster Tour in Szczecin
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2025* • Polska
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Łowicz-Muster Tour in Szczecin](https://api.bannergress.com/bnrs/pictures/20d5ac49d45afb2407fdb2b5f81576b0)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 1,3
 
-- **nummer**: {{ page.meta.nummer }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/%C5%82owicz-muster-tour-in-der-oranienburger-stra%C3%9Fe-75f1" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000619_owicz-muster-tour-in-szczecin_2025.md` • #000619 • Slug: `owicz-muster-tour-in-szczecin`

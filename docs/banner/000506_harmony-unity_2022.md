@@ -16,21 +16,25 @@ lengthKMeters: "8,405"
 umap: ""
 title: "Harmony & Unity"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Harmony & Unity
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Harmony & Unity](https://api.bannergress.com/bnrs/pictures/052ed06117552afdf70a69b31bbd2109)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 8,405
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Genieße diese kleine Runde durch die Düsseldorfer Altstadt und freu dich auf ein tolles Mosaik für beide Fraktionen. Im Anschluss solltest Du die Missionsreihe "Unity" absolvieren. Viel Spaß !
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/harmony-unity-9905" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000506_harmony-unity_2022.md` • #000506 • Slug: `harmony-unity`

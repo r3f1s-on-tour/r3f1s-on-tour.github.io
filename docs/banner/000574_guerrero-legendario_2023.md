@@ -16,21 +16,25 @@ lengthKMeters: "18,342"
 umap: ""
 title: "Guerrero Legendario"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Guerrero Legendario
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2023* • España
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Guerrero Legendario](https://api.bannergress.com/bnrs/pictures/eb1b85cac73dcfcc4de21edf4c16aee3)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 18,342
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Paseo por el centro de Madrid
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/guerrero-legendario-62df" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000574_guerrero-legendario_2023.md` • #000574 • Slug: `guerrero-legendario`

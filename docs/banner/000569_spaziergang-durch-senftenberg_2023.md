@@ -16,21 +16,27 @@ lengthKMeters: "4,121"
 umap: ""
 title: "Spaziergang durch Senftenberg"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Spaziergang durch Senftenberg
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2023* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Spaziergang durch Senftenberg](https://api.bannergress.com/bnrs/pictures/7b13bb8094f44ddd4b30776d91c0caaf)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 4,121
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Der Spaziergang durch Senftenberg zeigt schöne Flecken und besondere Orte von Senftenberg. 
+Länge ca. 5 km 
+Die Festung ist ab ca.17 Uhr geschlossen dann nur noch  Zugang über Treppe am Tierpark
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/spaziergang-durch-senftenberg-02a3" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000569_spaziergang-durch-senftenberg_2023.md` • #000569 • Slug: `spaziergang-durch-senftenberg`

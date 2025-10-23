@@ -16,17 +16,19 @@ lengthKMeters: "3,57"
 umap: ""
 title: "RetroGaming - Space Invaders"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# RetroGaming - Space Invaders
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+## Details
+- **Distanz (km):** 3,57
+
+
+
+- **Beschreibung:** Starte auf dem Markt eine Entdeckungsreise durch die Stadt Pasewalk und entdecke dabei die Sehenswürdigkeiten der Stadt
+
+
+
+> Datei: `000411_retrogaming-space-invaders_2022.md` • #000411 • Slug: `retrogaming-space-invaders`

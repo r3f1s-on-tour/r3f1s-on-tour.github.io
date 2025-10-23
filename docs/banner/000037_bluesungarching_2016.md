@@ -16,21 +16,25 @@ lengthKMeters: "26,52"
 umap: ""
 title: "BlueSunGarching"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# BlueSunGarching
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2016* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![BlueSunGarching](https://api.bannergress.com/bnrs/pictures/534d4ea65f043ae17ab0adaae39ce044)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 26,52
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** A Trip to (nearly) all portals in Garching Hochbrück (1-6), Garching (7-12) and Garching-Forschungszentrum (13-24). The first 3 missions have long Distances. Bycicle is adviced.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/bluesungarching-f7ce" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000037_bluesungarching_2016.md` • #000037 • Slug: `bluesungarching`

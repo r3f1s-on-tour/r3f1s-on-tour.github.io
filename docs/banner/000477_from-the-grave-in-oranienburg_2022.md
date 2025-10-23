@@ -16,19 +16,25 @@ lengthKMeters: "8,961"
 umap: ""
 title: "From the Grave in Oranienburg"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# From the Grave in Oranienburg
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 8,961
+
+
+
+- **Beschreibung:** Starte in der Bernauer Straße eine Entdeckungstour durch Oranienburg entdecke auf deiner Runde Sehenswürdigkeiten wie das Schloss und andere Denkmäler. Es geht entlang der Havel zurück zum Bahnhof.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/from-the-grave-in-oranienburg-1694" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000477_from-the-grave-in-oranienburg_2022.md` • #000477 • Slug: `from-the-grave-in-oranienburg`

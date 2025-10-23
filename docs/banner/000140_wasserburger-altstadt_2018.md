@@ -16,19 +16,26 @@ lengthKMeters: "5,45"
 umap: ""
 title: "Wasserburger Altstadt"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Wasserburger Altstadt
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2018* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 5,45
+
+
+
+- **Beschreibung:** Part 01/12 of a mission-sequence that will guide you through the Historic Center of Wasserburg (inside Inn-ring)
+The missions (1-12) should be done in sequence (start @Busbahnhof) to get a nice reward
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/wasserburger-altstadt-2c0e" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000140_wasserburger-altstadt_2018.md` • #000140 • Slug: `wasserburger-altstadt`

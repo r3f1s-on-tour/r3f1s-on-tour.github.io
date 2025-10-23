@@ -16,19 +16,25 @@ lengthKMeters: "1,62"
 umap: ""
 title: "Defeat the Hulk"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Defeat the Hulk
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2018* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 1,62
+
+
+
+- **Beschreibung:** This tour guides you through the Friedrichshain Nordkiez which is also known as the Samariterkiez. You will find a lot of fascinating places here.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/defeat-the-hulk-03ea" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000169_defeat-the-hulk_2018.md` • #000169 • Slug: `defeat-the-hulk`

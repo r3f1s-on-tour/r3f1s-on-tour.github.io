@@ -16,21 +16,25 @@ lengthKMeters: "16,661"
 umap: ""
 title: "Tour de Cottbus"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Tour de Cottbus
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2023* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Tour de Cottbus](https://api.bannergress.com/bnrs/pictures/3f258f0ce5e2c5102ec9311981f34cb8)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 16,661
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Etappe 1 von 24 beginnt am Wahrzeichen von Cottbus und ist eine Runde um den  Spremberger Turm. Am letzten Portal gibt es den Hinweis auf die nächste Etappe.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/tour-de-cottbus-f2cd" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000567_tour-de-cottbus_2023.md` • #000567 • Slug: `tour-de-cottbus`

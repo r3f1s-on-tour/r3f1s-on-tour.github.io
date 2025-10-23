@@ -16,21 +16,25 @@ lengthKMeters: "1,389"
 umap: ""
 title: "CALAVERAS MEXICANAS"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# CALAVERAS MEXICANAS
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2024* • España
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![CALAVERAS MEXICANAS](https://api.bannergress.com/bnrs/pictures/eccdc68e6b1708f73455329bc55f459c)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 1,389
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** La Plaza de Toros de Valencia fue inaugurada en 1851. Su estilo neoclásico fue inspirado de la arquitectura romana, del Coliseo . Declarada Monumento Histórico Artístico por la D.G. de bellas artes.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/calaveras-mexicanas-35f1" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000603_calaveras-mexicanas_2024.md` • #000603 • Slug: `calaveras-mexicanas`

@@ -16,17 +16,19 @@ lengthKMeters: "11,09"
 umap: ""
 title: "GalaxyMenRed"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# GalaxyMenRed
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+## Details
+- **Distanz (km):** 11,09
+
+
+
+- **Beschreibung:** Der Urknall fand am Bhf Lichtenberg statt.Nun breitet sich eine neue Galaxy Richtung Friedrichsfelde aus; dehnt sich über den Weitling- und Nöldnerkiez bis sie implodiert und dort endet wo sie begann.
+
+
+
+> Datei: `000445_galaxymenred_2022.md` • #000445 • Slug: `galaxymenred`

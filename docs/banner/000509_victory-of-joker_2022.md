@@ -16,21 +16,25 @@ lengthKMeters: "6,081"
 umap: ""
 title: "Victory of Joker"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Victory of Joker
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Victory of Joker](https://api.bannergress.com/bnrs/pictures/944f3a74ebc07fb46703491c0a54556a)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 6,081
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Capture die Innenstadt von Wuppertal/Elberfeld. Am besten bringst du viele burster mit und ein wenig zeit. Die Mission wird dich durch Elberfeld zum Luisenviertel führen. viel Spaß -D
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/victory-of-joker-bbb4" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000509_victory-of-joker_2022.md` • #000509 • Slug: `victory-of-joker`

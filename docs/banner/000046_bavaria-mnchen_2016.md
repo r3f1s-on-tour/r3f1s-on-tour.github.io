@@ -16,21 +16,25 @@ lengthKMeters: "9,69"
 umap: ""
 title: "Bavaria München"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Bavaria München
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2016* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Bavaria München](https://api.bannergress.com/bnrs/pictures/f62fd3943e8a8f40cd07ff30a8d09d1a)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 9,69
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Die kolossale und monumental anmutende Bronzestatue der Bavaria wurde im Auftrag von König Ludwig I. (1786–1868) in den Jahren 1843 bis 1850 errichtet. Sie bildet eine Einheit mit der Ruhmeshalle.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/bavaria-m%C3%BCnchen-78e7" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000046_bavaria-mnchen_2016.md` • #000046 • Slug: `bavaria-mnchen`

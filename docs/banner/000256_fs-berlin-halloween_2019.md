@@ -16,15 +16,19 @@ lengthKMeters: ""
 umap: ""
 title: "FS Berlin Halloween"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# FS Berlin Halloween
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2019* • Deutschland
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
+
+
+## Details
+
+
+
+
+
+
+
+
+> Datei: `000256_fs-berlin-halloween_2019.md` • #000256 • Slug: `fs-berlin-halloween`

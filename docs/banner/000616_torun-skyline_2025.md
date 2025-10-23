@@ -16,18 +16,25 @@ lengthKMeters: "3,7"
 umap: ""
 title: "Torun skyline"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Torun skyline
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2025* • Polska
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Torun skyline](https://api.bannergress.com/bnrs/pictures/d1413bb121e5d1d037822169d6c692b5)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 3,7
 
-- **nummer**: {{ page.meta.nummer }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/torun-skyline-15f3" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000616_torun-skyline_2025.md` • #000616 • Slug: `torun-skyline`

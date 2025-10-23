@@ -16,21 +16,29 @@ lengthKMeters: "6,987"
 umap: ""
 title: "Banksy - Stop and Search"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Banksy - Stop and Search
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Banksy - Stop and Search](https://api.bannergress.com/bnrs/pictures/9fa8dee798ddf525290fe2b7ab8b2e41)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 6,987
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Banksy, an English artist and sprayer, has advocated for peace as early as the 90s. His art has inspired many generations and hopefully will do so in the future. Over the course of these missions, you will be lead through one of the most capitalistic streets in Berlin, the Kurfürstendamm. Start and end is a mural at S Charlottenburg. Enjoy your trip!
+
+--------------------------------------------------------------------------
+
+All credit goes to Banksy. ly <3
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/banksy-stop-and-search-a9d5" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000515_banksy-stop-and-search_2022.md` • #000515 • Slug: `banksy-stop-and-search`

@@ -16,20 +16,25 @@ lengthKMeters: "20,03"
 umap: ""
 title: "MissionDay Zürich"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# MissionDay Zürich
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2017* • Schweiz/Suisse/Svizzera/Svizra
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![MissionDay Zürich](https://api.bannergress.com/bnrs/pictures/60989b4a7ea4e993c9d23756812cb691)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 20,03
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/md-z%C3%BCrich-32cc" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000059_missionday-zrich_2017.md` • #000059 • Slug: `missionday-zrich`

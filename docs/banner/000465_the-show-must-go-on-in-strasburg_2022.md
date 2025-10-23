@@ -16,19 +16,25 @@ lengthKMeters: "3,514"
 umap: ""
 title: "The Show Must Go On in Strasburg"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# The Show Must Go On in Strasburg
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 3,514
+
+
+
+- **Beschreibung:** Starte am Marktplatz  einen Rundgang und entdecke Strasburg. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet auf dem Marktplatz
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/the-show-must-go-on-in-strasburg-2d82" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000465_the-show-must-go-on-in-strasburg_2022.md` • #000465 • Slug: `the-show-must-go-on-in-strasburg`

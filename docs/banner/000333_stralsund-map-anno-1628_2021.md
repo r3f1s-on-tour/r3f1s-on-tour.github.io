@@ -16,19 +16,25 @@ lengthKMeters: "8,46"
 umap: ""
 title: "Stralsund Map Anno 1628"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Stralsund Map Anno 1628
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2021* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 8,46
+
+
+
+- **Beschreibung:** Gehe auf Entdeckungstour durch die Hansestadt Stralsund. Diese Mission beginnt am Bahnhof und führt bis zum Tribseer Damm. Übrigens, der Bahnhof wurde am 01.01.1878 feierlich eröffnet.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/stralsund-map-anno-1628-07c9" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000333_stralsund-map-anno-1628_2021.md` • #000333 • Slug: `stralsund-map-anno-1628`

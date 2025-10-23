@@ -16,21 +16,27 @@ lengthKMeters: "1,74"
 umap: ""
 title: "Chagall Window blue"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Chagall Window blue
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2017* • Schweiz/Suisse/Svizzera/Svizra
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Chagall Window blue](https://api.bannergress.com/bnrs/pictures/ea8abd6fbee2c76131fb4a97016de779)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 1,74
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** The beautiful windows made by Marc Chagall in 1970 belong to the modern, yet classic cultural heritage of Zurich and bring many tourists to Fraumünster.
+
+Optimal starting point for all three windows
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/chagall-window-blue-8212" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000060_chagall-window-blue_2017.md` • #000060 • Slug: `chagall-window-blue`

@@ -16,21 +16,25 @@ lengthKMeters: "4,887"
 umap: ""
 title: "Held der Kindheit"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Held der Kindheit
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2024* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Held der Kindheit](https://api.bannergress.com/bnrs/pictures/90bb836182e01425f4d95e1cdba38b65)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 4,887
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Eine Runde rund um und durch Ründeroth, entlang alter Handelswege und vieler historischer Denkmäler. Länge beträgt ca. 5 km und dauert ca. 2 Stunden. Viel Spaß.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/held-der-kindheit-975c" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000592_held-der-kindheit_2024.md` • #000592 • Slug: `held-der-kindheit`

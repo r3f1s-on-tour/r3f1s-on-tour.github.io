@@ -16,17 +16,19 @@ lengthKMeters: "3,011"
 umap: ""
 title: "World Blood Donor Day 2022 - Blood Types Edition"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# World Blood Donor Day 2022 - Blood Types Edition
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+## Details
+- **Distanz (km):** 3,011
+
+
+
+- **Beschreibung:** Am 14. Juni 2022 ist globaler Blutspendetag! Lasst euch mit diesem Banner durch Oranienburg zum Blutspendezentrum leiten. Beachtet, dass ihr euch für eine Blutspende vorher anmelden müsst!
+
+
+
+> Datei: `000458_world-blood-donor-day-2022-blood-types-edition_2022.md` • #000458 • Slug: `world-blood-donor-day-2022-blood-types-edition`

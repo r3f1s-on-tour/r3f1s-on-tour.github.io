@@ -16,21 +16,25 @@ lengthKMeters: "3,806"
 umap: ""
 title: "Feldzug durch Bonn"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Feldzug durch Bonn
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Feldzug durch Bonn](https://api.bannergress.com/bnrs/pictures/930e8b5b12515495725c0e0d4fcac97a)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 3,806
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Diese Missionsreihe führt durch Bonn. Vom Hauptbahnhof über den alten Friedhof und wieder zurück.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/feldzug-durch-bonn-8bf0" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000512_feldzug-durch-bonn_2022.md` • #000512 • Slug: `feldzug-durch-bonn`

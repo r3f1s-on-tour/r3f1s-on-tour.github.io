@@ -16,17 +16,19 @@ lengthKMeters: "6,05"
 umap: ""
 title: "Pinguine Tour in Oranienburg Part 2"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Pinguine Tour in Oranienburg Part 2
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+## Details
+- **Distanz (km):** 6,05
+
+
+
+- **Beschreibung:** Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
+
+
+
+> Datei: `000453_pinguine-tour-in-oranienburg-part-2_2022.md` • #000453 • Slug: `pinguine-tour-in-oranienburg-part-2`

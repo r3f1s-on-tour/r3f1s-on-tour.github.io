@@ -16,19 +16,25 @@ lengthKMeters: "2,29"
 umap: ""
 title: "EXO5 Berlin Resistance Victory"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# EXO5 Berlin Resistance Victory
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 2,29
+
+
+
+- **Beschreibung:** This is where we fought them! This is where we stood our ground! Remember this day agent, for it will stand in history as the day the Resistance halted Shaper progress!
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/exo5-berlin-resistance-victory-2d01" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000390_exo5-berlin-resistance-victory_2022.md` • #000390 • Slug: `exo5-berlin-resistance-victory`

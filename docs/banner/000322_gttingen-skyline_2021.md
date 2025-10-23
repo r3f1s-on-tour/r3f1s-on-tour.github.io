@@ -16,19 +16,25 @@ lengthKMeters: "2,59"
 umap: ""
 title: "Göttingen Skyline"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Göttingen Skyline
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2021* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 2,59
+
+
+
+- **Beschreibung:** kleiner walk durch die Stadt vom Liesel bis zum Rathaus. Teil 1 führt dich zur Johanniskirche
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/g%C3%B6ttingen-skyline-72aa" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000322_gttingen-skyline_2021.md` • #000322 • Slug: `gttingen-skyline`

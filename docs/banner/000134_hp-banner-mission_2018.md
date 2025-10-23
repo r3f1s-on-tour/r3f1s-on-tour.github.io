@@ -16,19 +16,25 @@ lengthKMeters: "2,82"
 umap: ""
 title: "HP Banner Mission"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# HP Banner Mission
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2018* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 2,82
+
+
+
+- **Beschreibung:** Schön gemütliche Tour durch die Heppenheimer Fußgängerzone und Altstadt. Bei richtiger Reihenfolge ergibt sich ein Bild von Marco Mayer. Start und Ende nah am Graben, wo auch geparkt werden kann.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/hp-banner-mission-0f33" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000134_hp-banner-mission_2018.md` • #000134 • Slug: `hp-banner-mission`

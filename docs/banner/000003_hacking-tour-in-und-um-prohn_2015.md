@@ -16,17 +16,19 @@ lengthKMeters: ""
 umap: ""
 title: "Hacking Tour in und um Prohn"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Hacking Tour in und um Prohn
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2015* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Hacking Tour in und um Prohn](https://lh3.googleusercontent.com/pw/AP1GczMzCoIKM9NTJgpLOnE0DMWtwTa6huMJdA7OyB2i8pZK2JsbdH4_DxE__4E9mPBC5LRIMhH8gB8iFpzDCAgU2nS-Cja3IMBkXMMw8v8VOSwIDSm6B4MWOlicWPu9ldZIbGxvuEshDe-sXWr_Ayyy7CqUUg)
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
+## Details
+
+
+
+
+
+
+
+
+> Datei: `000003_hacking-tour-in-und-um-prohn_2015.md` • #000003 • Slug: `hacking-tour-in-und-um-prohn`

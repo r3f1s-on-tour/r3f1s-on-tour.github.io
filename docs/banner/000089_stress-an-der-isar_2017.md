@@ -16,19 +16,25 @@ lengthKMeters: "15,65"
 umap: ""
 title: "Stress an der Isar"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Stress an der Isar
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2017* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 15,65
+
+
+
+- **Beschreibung:** "Minga, du machst mi fertig" möchte man laut ausschreien angesichts von all dem Stress, den man in unserem Millionendorf täglich erlebt. Dieses Missionsbanner soll als Mahnung dienen!
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/stress-an-der-isar-5cc7" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000089_stress-an-der-isar_2017.md` • #000089 • Slug: `stress-an-der-isar`

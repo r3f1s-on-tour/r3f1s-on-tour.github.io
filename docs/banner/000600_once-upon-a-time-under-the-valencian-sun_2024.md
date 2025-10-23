@@ -16,21 +16,25 @@ lengthKMeters: "4,879"
 umap: ""
 title: "Once Upon A Time Under The Valencian Sun"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Once Upon A Time Under The Valencian Sun
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2024* • España
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Once Upon A Time Under The Valencian Sun](https://api.bannergress.com/bnrs/pictures/ac7cc5b5c57769ac63ca1dee8f5d8afa)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 4,879
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Discover Valencia's Old Town, where historic charm meets vibrant culture. Wander through medieval streets, admire stunning architecture, and indulge in local cuisine at lively plazas.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/once-upon-a-time-under-the-valencian-sun-f640" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000600_once-upon-a-time-under-the-valencian-sun_2024.md` • #000600 • Slug: `once-upon-a-time-under-the-valencian-sun`

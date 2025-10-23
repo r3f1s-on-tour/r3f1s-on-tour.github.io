@@ -16,19 +16,25 @@ lengthKMeters: "1,51"
 umap: ""
 title: "The Berlin Hoff Museum"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# The Berlin Hoff Museum
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2020* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 1,51
+
+
+
+- **Beschreibung:** This walk guides you at the end to the small but famous Museum of the Hoff. Its located in Mitte close to Rosenthaler Platz.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/the-berlin-hoff-museum-c15c" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000265_the-berlin-hoff-museum_2020.md` • #000265 • Slug: `the-berlin-hoff-museum`

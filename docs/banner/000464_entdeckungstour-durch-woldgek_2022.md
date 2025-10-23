@@ -16,19 +16,25 @@ lengthKMeters: "8,602"
 umap: ""
 title: "Entdeckungstour durch Woldgek"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Entdeckungstour durch Woldgek
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 8,602
+
+
+
+- **Beschreibung:** Starte am Marktplatz und entdecke die Windmühlenstadt Woldegek. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/entdeckungstour-durch-woldgek-10c0" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000464_entdeckungstour-durch-woldgek_2022.md` • #000464 • Slug: `entdeckungstour-durch-woldgek`

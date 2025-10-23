@@ -16,17 +16,20 @@ lengthKMeters: "6,88"
 umap: ""
 title: "Toast Run Part 2"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Toast Run Part 2
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+## Details
+- **Distanz (km):** 6,88
+
+
+
+- **Beschreibung:** Gehe in Oranienburg auf eine Entdeckungsrunde und starte deine Runde in der Bernauer Straße.
+Die Runde führt dich unter anderem an der Havel und dem Schloss entlang.
+
+
+
+> Datei: `000391_toast-run-part-2_2022.md` • #000391 • Slug: `toast-run-part-2`

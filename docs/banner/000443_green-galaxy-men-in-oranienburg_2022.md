@@ -16,17 +16,19 @@ lengthKMeters: "8,57"
 umap: ""
 title: "Green Galaxy Men in Oranienburg"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Green Galaxy Men in Oranienburg
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+## Details
+- **Distanz (km):** 8,57
+
+
+
+- **Beschreibung:** Starte in der Bernauer Straße eine Reise durch Galaxie und entdecke den Ursprung. Deine Reise durch die Stadt Oranienburg führt dich entlang des Schloss, Schlosspark und endet am Bahnhof
+
+
+
+> Datei: `000443_green-galaxy-men-in-oranienburg_2022.md` • #000443 • Slug: `green-galaxy-men-in-oranienburg`

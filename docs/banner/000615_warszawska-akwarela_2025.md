@@ -16,17 +16,25 @@ lengthKMeters: ""
 umap: ""
 title: "Warszawska akwarela"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Warszawska akwarela
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2025* • Polska
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Warszawska akwarela](https://api.bannergress.com/bnrs/pictures/abbc5fb6e3bb5ec11ded7cf9b51c22aa)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
 
-- **nummer**: {{ page.meta.nummer }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
+
+
+
+
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/warszawska-akwarela-f77f" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000615_warszawska-akwarela_2025.md` • #000615 • Slug: `warszawska-akwarela`

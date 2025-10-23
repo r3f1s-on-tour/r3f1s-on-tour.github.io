@@ -16,19 +16,25 @@ lengthKMeters: "10,21"
 umap: ""
 title: "Hopfenmuseum Wolnzach"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Hopfenmuseum Wolnzach
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2017* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 10,21
+
+
+
+- **Beschreibung:** Das Deutsche Hopfenmuseum in Wolnzach in der Hallertau in Bayern wurde 2002 vom Förderverein Deutsches Hopfenmuseum auf dem ehemaligen Gelände des Feuerwehrhauses eingerichtet.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/hopfenmuseum-wolnzach-dec9" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000100_hopfenmuseum-wolnzach_2017.md` • #000100 • Slug: `hopfenmuseum-wolnzach`

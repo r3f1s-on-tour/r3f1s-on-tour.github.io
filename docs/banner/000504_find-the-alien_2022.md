@@ -16,21 +16,26 @@ lengthKMeters: "5,541"
 umap: ""
 title: "Find the Alien"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Find the Alien
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Find the Alien](https://api.bannergress.com/bnrs/pictures/abf6cf5b89cb3c4d941e4591cc9d2cab)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 5,541
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Willkommen auf dem Düsseldorfer Nordfriedhof. Nachdem hier schon die Borg gesichtet worden sind, 
+gibt es starke Anzeichen dass es hier auch Aliens gibt. Folge der Route in der richtigen Reihenfolge!
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/find-the-alien-90f6" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000504_find-the-alien_2022.md` • #000504 • Slug: `find-the-alien`

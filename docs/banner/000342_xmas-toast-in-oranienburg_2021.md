@@ -16,19 +16,27 @@ lengthKMeters: "1,64"
 umap: ""
 title: "XMas Toast in Oranienburg"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# XMas Toast in Oranienburg
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2021* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 1,64
+
+
+
+- **Beschreibung:** Mache eine kleine Tour durch Oranienburg und hole dir die XMas Toast ins Profil
+
+Geht am 24.11.2021 offline
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/xmas-toast-in-oranienburg-7417" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000342_xmas-toast-in-oranienburg_2021.md` • #000342 • Slug: `xmas-toast-in-oranienburg`

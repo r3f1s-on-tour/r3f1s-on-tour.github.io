@@ -16,19 +16,25 @@ lengthKMeters: "8,22"
 umap: ""
 title: "Zingel Neubrandenburg Lichterfest"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Zingel Neubrandenburg Lichterfest
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 8,22
+
+
+
+- **Beschreibung:** Der Rundgang führt durch die Innenstadt von Neubrandenburg. Erlebe dabei die zahlreichen Gebäude aus dem Mittelalter und entdecke die Infotafeln, die die Geschichte der Stadt Neubrandenburg erzählen.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/zingel-neubrandenburg-lichterfest-b183" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000393_zingel-neubrandenburg-lichterfest_2022.md` • #000393 • Slug: `zingel-neubrandenburg-lichterfest`

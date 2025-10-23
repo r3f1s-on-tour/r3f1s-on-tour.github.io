@@ -16,15 +16,19 @@ lengthKMeters: ""
 umap: ""
 title: "Catpool (Rote Augsburger Katze)"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Catpool (Rote Augsburger Katze)
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2018* • Deutschland
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
+
+
+## Details
+
+
+
+
+
+
+
+
+> Datei: `000181_catpool-rote-augsburger-katze_2018.md` • #000181 • Slug: `catpool-rote-augsburger-katze`

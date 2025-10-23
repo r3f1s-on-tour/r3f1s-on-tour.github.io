@@ -16,17 +16,19 @@ lengthKMeters: ""
 umap: ""
 title: "Besuch der 4 Tore"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Besuch der 4 Tore
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2015* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Besuch der 4 Tore](https://lh3.googleusercontent.com/pw/AP1GczMm-fJxwsRbALPJLTC-Zl7SMcFXyW54vRBOKRLjytSlbvXZOHFOvJf2RO5ujsN_LCxRAXQUK1c9Aya9tKaYogsDHBbRqNnXjjcam_-suxi7vAU7LV0G1px1zXPhXMESqFDIoOZeKnlGZ4Yfz7BAD3hygA)
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
+## Details
+
+
+
+
+
+
+
+
+> Datei: `000006_besuch-der-4-tore_2015.md` • #000006 • Slug: `besuch-der-4-tore`

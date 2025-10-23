@@ -16,21 +16,27 @@ lengthKMeters: "17,08"
 umap: ""
 title: "Blauer Reiter Tour"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Blauer Reiter Tour
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2016* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Blauer Reiter Tour](https://api.bannergress.com/bnrs/pictures/0d330415cd7568296591257b578f2bff)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 17,08
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Wünsche viel Spaß beim Spielen beim 48 Mosaik des Blauen Reiters. 
+
+Erschaffen hat den Blauen Reiter Franz Marc (1880 – 1916), wo man das Original im Lenbachhaus anschauen kann.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/blauer-reiter-tour-9d18" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000045_blauer-reiter-tour_2016.md` • #000045 • Slug: `blauer-reiter-tour`

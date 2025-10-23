@@ -16,19 +16,25 @@ lengthKMeters: "4,21"
 umap: ""
 title: "Visit Requiem Munich - Neubrandenburg"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Visit Requiem Munich - Neubrandenburg
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 4,21
+
+
+
+- **Beschreibung:** In 2020 there will be an epic fight between the enlightened and resistance in Munich! Join our forces and spread the message by filling out this banner.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/visit-requiem-munich-neubrandenburg-0a5c" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000429_visit-requiem-munich-neubrandenburg_2022.md` • #000429 • Slug: `visit-requiem-munich-neubrandenburg`

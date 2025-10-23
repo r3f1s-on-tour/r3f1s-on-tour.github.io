@@ -16,19 +16,25 @@ lengthKMeters: "6,56"
 umap: ""
 title: "Bötzows Dutzend"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Bötzows Dutzend
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 6,56
+
+
+
+- **Beschreibung:** Als Bötzowviertel wird die Ortslage zwischen der Danziger Straße im Nordosten, dem Volkspark Friedrichshain im Süden und der Greifswalder Straße im Nordwesten bezeichnet.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/b%C3%B6tzows-dutzend-d1f4" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000404_btzows-dutzend_2022.md` • #000404 • Slug: `btzows-dutzend`

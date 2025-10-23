@@ -16,21 +16,25 @@ lengthKMeters: "9,631"
 umap: ""
 title: "FrogVersum in Oranienburg"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# FrogVersum in Oranienburg
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2023* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![FrogVersum in Oranienburg](https://api.bannergress.com/bnrs/pictures/bac9bbf077680843963f4fd3668e3508)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 9,631
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg. Starte in der Bernauer Straße
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/frogversum-in-oranienburg-c78b" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000545_frogversum-in-oranienburg_2023.md` • #000545 • Slug: `frogversum-in-oranienburg`

@@ -16,19 +16,25 @@ lengthKMeters: ""
 umap: ""
 title: "Rund um die Ludwigskirche"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Rund um die Ludwigskirche
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2017* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Rund um die Ludwigskirche](https://api.bannergress.com/bnrs/pictures/41194c44e62f228147d66dbcb6a8e51b)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
+
+
+
+
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/rund-um-die-ludwigskirche-ac36" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000065_rund-um-die-ludwigskirche_2017.md` • #000065 • Slug: `rund-um-die-ludwigskirche`

@@ -16,21 +16,25 @@ lengthKMeters: "16,84"
 umap: ""
 title: "Rengschburger Dom"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Rengschburger Dom
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2018* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Rengschburger Dom](https://api.bannergress.com/bnrs/pictures/01e618952f674835332465d76a5ce86c)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 16,84
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Servus, Griaß di und Habedere in Rengschburg! Dieses Mosaik hat insgesamt 60 Missionen und ist auf 3 Teile aufgeteilt. Parken und Start Unterer Wöhrd. Viel Spaß
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/rengschburger-dom-1d01" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000191_rengschburger-dom_2018.md` • #000191 • Slug: `rengschburger-dom`

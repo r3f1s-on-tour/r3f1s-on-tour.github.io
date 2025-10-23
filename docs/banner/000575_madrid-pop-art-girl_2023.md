@@ -16,21 +16,25 @@ lengthKMeters: "8,268"
 umap: ""
 title: "MADRID POP ART GIRL"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# MADRID POP ART GIRL
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2023* • España
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![MADRID POP ART GIRL](https://api.bannergress.com/bnrs/pictures/e02f9baada257bc24bc1e6614c1fb79f)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 8,268
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Descubre los lugares más emblematicos y con encato de Madrid. Desde Sol a la Plaza de la Villa, pasando por la Plaza de Oriente.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/madrid-pop-art-girl-fa2f" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000575_madrid-pop-art-girl_2023.md` • #000575 • Slug: `madrid-pop-art-girl`

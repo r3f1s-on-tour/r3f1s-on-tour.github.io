@@ -16,17 +16,19 @@ lengthKMeters: "1,60"
 umap: ""
 title: "Valentintoast 1"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Valentintoast 1
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+## Details
+- **Distanz (km):** 1,60
+
+
+
+- **Beschreibung:** Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
+
+
+
+> Datei: `000395_valentintoast-1_2022.md` • #000395 • Slug: `valentintoast-1`

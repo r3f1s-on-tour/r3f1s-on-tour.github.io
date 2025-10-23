@@ -16,21 +16,25 @@ lengthKMeters: "2,144"
 umap: ""
 title: "Ingress down Rotenburg"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Ingress down Rotenburg
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2023* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Ingress down Rotenburg](https://api.bannergress.com/bnrs/pictures/7adade71b2852df2906470cb571a69c9)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 2,144
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Entdecke spannende Orte und historische Ecken bei einem kleinen Rundgang durch Rotenburg
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/ingress-down-rotenburg-098d" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000559_ingress-down-rotenburg_2023.md` • #000559 • Slug: `ingress-down-rotenburg`

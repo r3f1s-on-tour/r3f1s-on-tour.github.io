@@ -16,19 +16,26 @@ lengthKMeters: "6,30"
 umap: ""
 title: "Old Town Frankfurt"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Old Town Frankfurt
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2018* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 6,30
+
+
+
+- **Beschreibung:** This tour guides you through the Old Town of Frankfurt. We start on the Roemerberg, where the old city hall called Roemer is placed. This mission is hack-only.
+(Picture from an old postcard of 1915)
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/old-town-frankfurt-e920" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000130_old-town-frankfurt_2018.md` • #000130 • Slug: `old-town-frankfurt`

@@ -16,21 +16,27 @@ lengthKMeters: "10,38"
 umap: ""
 title: "MUNICHS CELTIC KNOT"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# MUNICHS CELTIC KNOT
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2016* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![MUNICHS CELTIC KNOT](https://api.bannergress.com/bnrs/pictures/954131ec881716126388a45ec52ad185)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 10,38
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** 36er Mosaik durch München, das Wissenswertes über die Kelten vermittelt.
+
+Die Kelten besiedelten einst ganz Europa und hinterließen ihre Spuren in Großbritannien, Frankreich, Deutschland & Anatolien
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/munich-s-celtic-knot-a147" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000047_munichs-celtic-knot_2016.md` • #000047 • Slug: `munichs-celtic-knot`

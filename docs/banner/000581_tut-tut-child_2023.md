@@ -16,21 +16,25 @@ lengthKMeters: "23,182"
 umap: ""
 title: "Tut-Tut Child"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Tut-Tut Child
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2023* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Tut-Tut Child](https://api.bannergress.com/bnrs/pictures/852e63da31fb6cbdd7e8b5307e4c49af)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 23,182
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Erkunde das beschauliche Recklinghausen ganz genau, vielleicht findest du die Maske vom Kind.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/tut-tut-child-4d7a" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000581_tut-tut-child_2023.md` • #000581 • Slug: `tut-tut-child`

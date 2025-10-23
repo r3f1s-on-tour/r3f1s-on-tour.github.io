@@ -16,21 +16,25 @@ lengthKMeters: "11,49"
 umap: ""
 title: "Zürich Altstadt"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Zürich Altstadt
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2017* • Schweiz/Suisse/Svizzera/Svizra
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Zürich Altstadt](https://api.bannergress.com/bnrs/pictures/1d206fb325d07ff960cb466b2ca723e1)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 11,49
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Entdecke auf diesem grossen Rundgang die mindere und die mehrere Altstadt von Zürich.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/z%C3%BCrich-altstadt-2215" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000055_zrich-altstadt_2017.md` • #000055 • Slug: `zrich-altstadt`

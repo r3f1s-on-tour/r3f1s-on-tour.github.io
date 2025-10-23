@@ -16,17 +16,19 @@ lengthKMeters: "1,59"
 umap: ""
 title: "World Bee Day in Oranienburg"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# World Bee Day in Oranienburg
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2022* • Deutschland
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+## Details
+- **Distanz (km):** 1,59
+
+
+
+- **Beschreibung:** Mache eine kleine Runde durch Oranienburg und feiere den Weltbienentag.
+
+
+
+> Datei: `000442_world-bee-day-in-oranienburg_2022.md` • #000442 • Slug: `world-bee-day-in-oranienburg`

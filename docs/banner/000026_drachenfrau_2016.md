@@ -16,21 +16,25 @@ lengthKMeters: "7,44"
 umap: ""
 title: "Drachenfrau"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Drachenfrau
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2016* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Drachenfrau](https://api.bannergress.com/bnrs/pictures/1b0601554cccf46bbf897c8a7d97d3b7)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 7,44
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** In der fast fertig sanierten Innenstadt kann man gut shoppen, altes und neues entdecken oder einfach durch die Gassen wandeln. Viel Spaß dabei.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/drachenfrau-5063" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000026_drachenfrau_2016.md` • #000026 • Slug: `drachenfrau`

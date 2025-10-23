@@ -16,15 +16,19 @@ lengthKMeters: ""
 umap: ""
 title: "Eine Woche voller Kuchen"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Eine Woche voller Kuchen
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2018* • Deutschland
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
+
+
+## Details
+
+
+
+
+
+
+
+
+> Datei: `000123_eine-woche-voller-kuchen_2018.md` • #000123 • Slug: `eine-woche-voller-kuchen`

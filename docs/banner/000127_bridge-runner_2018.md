@@ -16,19 +16,25 @@ lengthKMeters: "1,59"
 umap: ""
 title: "Bridge Runner"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Bridge Runner
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2018* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 1,59
+
+
+
+- **Beschreibung:** Hin und her auf der Brücke mit Fragen & Hacks. Als 5er- oder 6er-Mission spielbar. / Across the Old Bridge with hacks & questions. Can be played as 5- or 6-mission-set.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/bridge-runner-a158" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000127_bridge-runner_2018.md` • #000127 • Slug: `bridge-runner`

@@ -16,17 +16,25 @@ lengthKMeters: ""
 umap: ""
 title: "Marx is calling you - Berlin"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Marx is calling you - Berlin
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2025* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Marx is calling you - Berlin](https://api.bannergress.com/bnrs/pictures/b4febc4fc81e9a74a0a8f4477b56ed56)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
 
-- **nummer**: {{ page.meta.nummer }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
+
+
+
+
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/marx-is-calling-you-berlin-6c02" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000612_marx-is-calling-you-berlin_2025.md` • #000612 • Slug: `marx-is-calling-you-berlin`

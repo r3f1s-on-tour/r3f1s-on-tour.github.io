@@ -16,19 +16,25 @@ lengthKMeters: "6,38"
 umap: ""
 title: "Skulpturenpark Katzow"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Skulpturenpark Katzow
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2017* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 6,38
+
+
+
+- **Beschreibung:** Der Park besteht seit 1991. Gründer des Skulpturenparks Katzow ist der Bildhauer Thomas Radeloff.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/skulpturenpark-katzow-4359" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000110_skulpturenpark-katzow_2017.md` • #000110 • Slug: `skulpturenpark-katzow`

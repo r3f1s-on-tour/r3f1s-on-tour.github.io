@@ -16,17 +16,19 @@ lengthKMeters: "1,64"
 umap: ""
 title: "Beach XMas Toast in Oranienburg"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Beach XMas Toast in Oranienburg
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2021* • Deutschland
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+## Details
+- **Distanz (km):** 1,64
+
+
+
+- **Beschreibung:** Mache eine kleine Tour durch Oranienburg und hole dir die XMas Toast ins PRofil
+
+
+
+> Datei: `000347_beach-xmas-toast-in-oranienburg_2021.md` • #000347 • Slug: `beach-xmas-toast-in-oranienburg`

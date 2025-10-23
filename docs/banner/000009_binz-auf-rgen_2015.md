@@ -16,19 +16,25 @@ lengthKMeters: "9,08"
 umap: ""
 title: "Binz auf Rügen"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Binz auf Rügen
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2015* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 9,08
+
+
+
+- **Beschreibung:** Besonderer Anziehungspunkt ist die 3,2 km lange Strandpromenade mit zahlreichen und liebevoll restaurierten Bädervillen, Hotels, Cafés und Restaurants sowie der Seebrücke.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/binz-auf-r%C3%BCgen-2ec3" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000009_binz-auf-rgen_2015.md` • #000009 • Slug: `binz-auf-rgen`

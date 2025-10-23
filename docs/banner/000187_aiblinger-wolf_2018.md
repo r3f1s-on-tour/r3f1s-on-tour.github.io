@@ -16,19 +16,27 @@ lengthKMeters: "3,47"
 umap: ""
 title: "Aiblinger Wolf"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Aiblinger Wolf
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2018* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 3,47
+
+
+
+- **Beschreibung:** Hackrunde durch den Kurpark zur Eisdiele.
+Insgesamt 4 Runden. 
+Nur nach Aufforderung hacken.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/aiblinger-wolf-be80" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000187_aiblinger-wolf_2018.md` • #000187 • Slug: `aiblinger-wolf`

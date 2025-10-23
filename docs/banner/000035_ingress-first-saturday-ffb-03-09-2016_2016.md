@@ -16,15 +16,19 @@ lengthKMeters: ""
 umap: ""
 title: "Ingress First Saturday FFB 03 09 2016"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Ingress First Saturday FFB 03 09 2016
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2016* • Deutschland
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
+
+
+## Details
+
+
+
+
+
+
+
+
+> Datei: `000035_ingress-first-saturday-ffb-03-09-2016_2016.md` • #000035 • Slug: `ingress-first-saturday-ffb-03-09-2016`

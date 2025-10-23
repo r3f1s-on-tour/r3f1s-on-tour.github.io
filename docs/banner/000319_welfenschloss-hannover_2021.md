@@ -16,19 +16,25 @@ lengthKMeters: "6,77"
 umap: ""
 title: "Welfenschloss Hannover"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Welfenschloss Hannover
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2021* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 6,77
+
+
+
+- **Beschreibung:** Das Welfenschloss ist ein ehemaliges Schloss in Hannover im Stadtteil Nordstadt, das seit 1879 Sitz der Universität Hannover ist.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/welfenschloss-hannover-2957" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000319_welfenschloss-hannover_2021.md` • #000319 • Slug: `welfenschloss-hannover`

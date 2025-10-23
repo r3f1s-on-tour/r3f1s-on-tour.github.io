@@ -16,19 +16,27 @@ lengthKMeters: "1,71"
 umap: ""
 title: "Schlossplatz Panorama"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Schlossplatz Panorama
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2021* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 1,71
+
+
+
+- **Beschreibung:** 360° Panorama vom Oldenburger Schlossplatz. 
+Durch den 360° Blick könnt ihr bei jeder der 6 Missionen Starten.
+You can start at any Mission, after Mission 6 you can put Mission 1 and it will still fit
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/schlossplatz-panorama-57c4" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000315_schlossplatz-panorama_2021.md` • #000315 • Slug: `schlossplatz-panorama`

@@ -16,21 +16,26 @@ lengthKMeters: "7,46"
 umap: ""
 title: "Berchinger Stadtmauer"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Berchinger Stadtmauer
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2017* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Berchinger Stadtmauer](https://api.bannergress.com/bnrs/pictures/109263d1997f0bef578efd3bf35cd29b)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 7,46
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** Die 1. von 24 Missionen, um ein Mosaik der Berchinger Stadtmauer in's Profil zu kriegen.
+Hack only. Am besten zu Fuß machbar.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/berchinger-stadtmauer-6ad3" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000063_berchinger-stadtmauer_2017.md` • #000063 • Slug: `berchinger-stadtmauer`

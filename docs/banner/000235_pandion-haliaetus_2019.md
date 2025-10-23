@@ -16,19 +16,25 @@ lengthKMeters: "8,90"
 umap: ""
 title: "Pandion haliaetus"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Pandion haliaetus
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2019* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 8,90
+
+
+
+- **Beschreibung:** Die Missionsreihe führt durch Röbel. Anfang und Ende befinden sich am Müritzufer. Die ersten Portale werden zum Schluss der Reihe nochmals besucht.
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/pandion-haliaetus-98d7" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000235_pandion-haliaetus_2019.md` • #000235 • Slug: `pandion-haliaetus`

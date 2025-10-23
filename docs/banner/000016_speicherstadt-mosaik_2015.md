@@ -16,21 +16,26 @@ lengthKMeters: "5,64"
 umap: ""
 title: "Speicherstadt Mosaik"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Speicherstadt Mosaik
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2015* • Deutschland
 
-![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
+![Speicherstadt Mosaik](https://api.bannergress.com/bnrs/pictures/c06ec1426ed7220a73534afaa62b7fe9)
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
+## Details
+- **Distanz (km):** 5,64
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+- **Beschreibung:** All missions are in sequence.
+Location- Hamburg Germany
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/speicherstadt-mosaik-a9bd" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000016_speicherstadt-mosaik_2015.md` • #000016 • Slug: `speicherstadt-mosaik`

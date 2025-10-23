@@ -16,19 +16,26 @@ lengthKMeters: "7,37"
 umap: ""
 title: "Berliner Alex in 24 Teilen"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Berliner Alex in 24 Teilen
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2020* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 7,37
+
+
+
+- **Beschreibung:** Eine Missionsreihe in 24 Teilen rund um den Berliner Alexanderplatz
+Start und Ende an der berühmten Weltzeituhr
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/berliner-alex-in-24-teilen-595a" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000261_berliner-alex-in-24-teilen_2020.md` • #000261 • Slug: `berliner-alex-in-24-teilen`

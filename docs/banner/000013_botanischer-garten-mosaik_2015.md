@@ -16,19 +16,25 @@ lengthKMeters: "4,28"
 umap: ""
 title: "Botanischer Garten Mosaik"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# Botanischer Garten Mosaik
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2015* • Deutschland
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 4,28
+
+
+
+- **Beschreibung:** Ein wunderschönes Mosaik aus dem Botanischen Garten / Loki-Schmidt-Garten
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/botanischer-garten-mosaik-30ba" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000013_botanischer-garten-mosaik_2015.md` • #000013 • Slug: `botanischer-garten-mosaik`

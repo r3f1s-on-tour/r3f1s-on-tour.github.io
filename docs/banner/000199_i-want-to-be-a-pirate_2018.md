@@ -16,19 +16,26 @@ lengthKMeters: "6,60"
 umap: ""
 title: "I want to be a pirate!"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# I want to be a pirate!
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2018* • Sverige
 
-- **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+## Details
+- **Distanz (km):** 6,60
+
+
+
+- **Beschreibung:** Begin at "the gold factory" where you buried your treasure and take a stroll on the artificial part of Malmö, "western harbour", to be able to draw up your own pirate map.
+All portals available 24/7
+
+
+## Links
+<div style="margin-top: 0.5em;">
+<a href="https://bannergress.com/banner/i-want-to-be-a-pirate-a503" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+</div>
+
+
+> Datei: `000199_i-want-to-be-a-pirate_2018.md` • #000199 • Slug: `i-want-to-be-a-pirate`

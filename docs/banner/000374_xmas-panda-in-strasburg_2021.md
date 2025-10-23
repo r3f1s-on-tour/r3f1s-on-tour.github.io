@@ -16,17 +16,19 @@ lengthKMeters: "2,73"
 umap: ""
 title: "XMas Panda in Strasburg"
 ---
-# {{ page.meta.title | default('Untitled') }}
+# XMas Panda in Strasburg
 
-_**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
+*2021* • Deutschland
 
-- **nummer**: {{ page.meta.nummer }}
-- **startLatitude**: {{ page.meta.startLatitude }}
-- **startLongitude**: {{ page.meta.startLongitude }}
-- **region**: {{ page.meta.region }}
-- **country**: {{ page.meta.country }}
-- **completed**: {{ page.meta.completed }}
-- **missions**: {{ page.meta.missions }}
-- **onyx**: {{ page.meta.onyx }}
-- **description**: {{ page.meta.description }}
-- **lengthKMeters**: {{ page.meta.lengthKMeters }}
+
+
+## Details
+- **Distanz (km):** 2,73
+
+
+
+- **Beschreibung:** Mache eine Entdeckungsrunde durch Strasburg und hole dir paar XMas Panda ins Profil
+
+
+
+> Datei: `000374_xmas-panda-in-strasburg_2021.md` • #000374 • Slug: `xmas-panda-in-strasburg`
