@@ -80,3 +80,7 @@ plugins:
 #       link: https://t.me/semsduckies
 
 copyright: "This is a fan site that is not affiliated with Niantic Inc. Ingress is a registered trademark of Niantic Inc."
+extra_javascript:
+  - assets/js/banner-stats.js
+extra_css:
+  - assets/css/banner-stats.css
