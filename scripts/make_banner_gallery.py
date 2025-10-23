@@ -1,242 +1,454 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Erzeugt docs/banner/gallery.md aus vorhandenen Banner-Seiten.
+CSV -> Markdown (Bannergress banners)
+- YAML front matter from CSV
+- Zero-padded number prefix (default 6, --pad-width)
+- Replace ":" with "-" in front matter except EXCLUDED_SANITIZE_KEYS
+- 'description' always quoted, with LF escaped to "\\n"
+- Optional template: --template template/banner.md
+  * Powerful placeholder engine (no Jinja required)
+  * IF/IFNOT/IFANY/EACH blocks, VAL/LINK/IMG/VALBR/VAL2DP scalars
+- Optional full Jinja: --render-jinja (pip install jinja2)
+- Debug: --debug (prints context to STDERR)
 
-- durchsucht docs/banner/*.md (ohne index.md & gallery.md)
-- liest YAML-Frontmatter:
-    - nummer  (Sortierschlüssel, numerisch; absteigend; Fallback aus Dateiname)
-    - title/titel/name (Beschriftung)
-    - picture/pic_url/picture_url/image/img/pic (Bild-URL; Pflicht)
-- erzeugt eine **einspaltige** Galerie (ein Bild pro Zeile)
-  Klick auf den **Button unter dem Bild** öffnet die Banner-Seite: /banner/<stem>/
-- Bilder werden lazy geladen
-
-Aufruf:
-  python scripts/make_banner_gallery.py --root docs --banner_dir banner --outfile gallery.md [--verbose]
+Usage:
+  python make_banner_markdown.py --csv scripts/banner.csv --out docs/banner \
+    [--overwrite] [--pad-width 6] [--template template/banner.md] [--render-jinja] [--debug]
 """
+import argparse, csv, json, os, re, sys
+from datetime import datetime
+from typing import List, Dict, Tuple, Any, Optional
 
-import re
-import sys
-import argparse
-from pathlib import Path
-
+# ---------- optional Jinja ----------
 try:
-    import yaml  # PyYAML
-except ImportError:
-    print("ERROR: PyYAML not installed. Run:  pip install pyyaml", file=sys.stderr)
-    sys.exit(1)
+    import jinja2
+    HAVE_JINJA = True
+except Exception:
+    HAVE_JINJA = False
 
-# Akzeptierte Bild-Schlüssel im Frontmatter
-PICTURE_KEYS = ["picture", "pic_url", "picture_url", "image", "img", "pic"]
+# ---------- Config ----------
+PICTURE_KEYS = [
+    "picture","pictures","image","images","img","pic","pic_url",
+    "picture_url","image_url","bild","bilder","pictureurl","imageurl"
+]
+EXCLUDED_SANITIZE_KEYS = {"bg-link","picture"}  # do not replace ":" in these
+URL_PREFIXES = ("http://","https://")
+IDENTIFIER_RE = re.compile(r"[A-Za-z_][A-Za-z0-9_]*$")
 
+# ---------- Utils ----------
+def dprint(enabled: bool, *args):  # debug to STDERR
+    if enabled:
+        print("[DEBUG]", *args, file=sys.stderr)
 
-def read_frontmatter(md_path: Path) -> dict:
-    """
-    Liest YAML-Frontmatter (--- ... ---) robust ein:
-    - toleriert UTF-8 BOM, führende Leerzeilen/Spaces
-    - akzeptiert CRLF/verschiedene Zeilenenden
-    - grenzt Frontmatter mit Regex ab
-    """
-    text = md_path.read_text(encoding="utf-8", errors="replace")
-    # BOM & führendes Whitespace entfernen
-    text = text.lstrip("\ufeff \t\r\n")
+def slugify(value: str) -> str:
+    value = (value or "").strip().lower()
+    value = re.sub(r"[\s_]+","-", value)
+    value = re.sub(r"[^a-z0-9-]+","", value)
+    value = re.sub(r"-{2,}","-", value).strip("-")
+    return value or "untitled"
 
-    # Frontmatter begrenzen: Start-Block ---\n ... \n---\n
-    m = re.match(r"^---\s*\n(.*?)\n---\s*(?:\n|$)", text, flags=re.DOTALL)
-    if not m:
-        return {}
-    yaml_block = m.group(1)
+def normalize_date(s: str) -> str:
+    if not s: return "nodate"
+    s = s.strip()
+    fmts = ["%Y-%m-%d","%d.%m.%Y","%d.%m.%y","%Y.%m.%d","%d/%m/%Y","%m/%d/%Y","%Y/%m/%d","%d-%m-%Y","%m-%d-%Y"]
     try:
-        data = yaml.safe_load(yaml_block) or {}
-        return data if isinstance(data, dict) else {}
+        return datetime.fromisoformat(s).date().isoformat()
     except Exception:
-        return {}
+        pass
+    for fmt in fmts:
+        try:
+            return datetime.strptime(s, fmt).date().isoformat()
+        except Exception:
+            continue
+    digits = re.sub(r"[^0-9]","", s)
+    return digits if digits else slugify(s)
 
+def fmt_date_de(iso_or_any: str) -> str:
+    if not iso_or_any: return ""
+    s = str(iso_or_any)
+    try:
+        return datetime.fromisoformat(s).strftime("%d.%m.%Y")
+    except Exception:
+        pass
+    for fmt in ("%Y-%m-%d","%d.%m.%Y","%Y.%m.%d"):
+        try:
+            return datetime.strptime(s, fmt).strftime("%d.%m.%Y")
+        except Exception:
+            pass
+    return s
 
-def first_non_empty(d: dict, keys: list[str], default="") -> str:
+def infer_field(row: dict, keys: List[str]) -> str:
+    lower_map = {k.lower(): v for k, v in row.items()}
     for k in keys:
-        if k in d and d[k] is not None:
-            s = str(d[k]).strip()
-            if s:
-                return s
-    return default
+        if k.lower() in lower_map:
+            val = str(lower_map[k.lower()] or "").strip()
+            if val:
+                return val
+    return ""
 
+def yaml_escape(value: Any) -> str:
+    if value is None: return '""'
+    s = str(value)
+    if re.fullmatch(r"(true|false|null)", s, flags=re.IGNORECASE) or re.fullmatch(r"-?\d+(\.\d+)?", s):
+        need = True
+    else:
+        need = bool(re.search(r"[\\:#{}\[\],&*!|>@`?-]", s) or s.startswith(" ") or s.endswith(" ") or "\n" in s or '"' in s or "'")
+    if need:
+        s = s.replace("\\","\\\\").replace('"','\\"')
+        return f'"{s}"'
+    return s
 
-def to_int(value, default=0) -> int:
-    try:
-        s = str(value).strip()
-        m = re.match(r"^-?\d+", s)
-        if m:
-            return int(m.group(0))
-        return int(s)
-    except Exception:
-        return default
+def is_urlish(value: Any) -> bool:
+    return isinstance(value, str) and value.strip().startswith(URL_PREFIXES)
 
+def sanitize_value(key: str, val: Any) -> str:
+    s = "" if val is None else str(val)
+    if key.lower() in EXCLUDED_SANITIZE_KEYS:
+        return s.strip()
+    return s.replace(":", "-").strip()
 
-def collect_items(banner_dir: Path, verbose: bool = False) -> list[dict]:
-    items = []
-    for md in sorted(banner_dir.glob("*.md")):
-        base = md.name.lower()
-        if base in ("index.md", "gallery.md"):
-            if verbose:
-                print(f"[SKIP] {md.name}: index/gallery")
+def format_number_for_filename(num_raw: str, min_width: int) -> str:
+    s = str(num_raw or "").strip()
+    digits = re.sub(r"\D","", s)
+    if not digits: return s or "000000"
+    width = max(min_width, len(digits))
+    return digits.zfill(width)
+
+def jinja_meta(k: str) -> str:
+    if IDENTIFIER_RE.fullmatch(k): return f"page.meta.{k}"
+    safe = k.replace("'","\\'")
+    return f"page.meta['{safe}']"
+
+# ---------- Fallback body (no template) ----------
+def build_sections(frontmatter: Dict[str,str], ordered_fields: List[str]) -> Tuple[str,str,str,str,str]:
+    if any(k in frontmatter and str(frontmatter[k]).strip() for k in ("title","name","titel")):
+        title_line = f"# {{{{ {jinja_meta('title')} | default('Untitled') }}}}"
+    else:
+        title_line = "# {{ page.meta.title | default('Untitled') }}"
+    meta_bits = []
+    if frontmatter.get("date","").strip():
+        meta_bits.append("**Date:** {{ page.meta.date }}")
+    elif frontmatter.get("datum","").strip():
+        meta_bits.append("**Date:** {{ page.meta.datum }}")
+    for loc_key in ("city","stadt","ort","location","place","country","land"):
+        if frontmatter.get(loc_key,"").strip():
+            meta_bits.append(f"**{loc_key.capitalize()}:** {{{{ {jinja_meta(loc_key)} }}}}")
+    meta_block = "_" + " • ".join(meta_bits) + "_\n" if meta_bits else ""
+    # single image if available
+    pic_keys_present = [k for k in ordered_fields if k.lower() in PICTURE_KEYS and str(frontmatter.get(k,"")).strip()]
+    pictures_lines = []
+    if pic_keys_present:
+        k = pic_keys_present[0]
+        pictures_lines.append(f"![{{{{ {jinja_meta('title')} | default('Image') }}}}]({{{{ {jinja_meta(k)} }}}})")
+        pictures_lines.append("")
+    pictures_block = "\n".join(pictures_lines).strip()
+    link_lines, info_lines = [], []
+    for k in ordered_fields:
+        if k.lower() in PICTURE_KEYS: continue
+        val = frontmatter.get(k,"")
+        if is_urlish(val):
+            jm = jinja_meta(k)
+            link_lines.append(f"- **{k}**: [{{{{ {jm} }}}}]({{{{ {jm} }}}})")
+    links_block = "\n".join(link_lines).strip()
+    for k in ordered_fields:
+        if k.lower() in PICTURE_KEYS or k in ("title","name","titel","date","datum"):
             continue
+        val = str(frontmatter.get(k,"")).strip()
+        if not val or is_urlish(val): continue
+        jm = jinja_meta(k)
+        info_lines.append(f"- **{k}**: {{{{ {jm} }}}}")
+    infos_block = "\n".join(info_lines).strip()
+    return title_line, meta_block.strip(), pictures_block, links_block, infos_block
 
-        fm = read_frontmatter(md)
-        if not fm:
-            if verbose:
-                print(f"[SKIP] {md.name}: keine/ungültige Frontmatter")
-            continue
+# ---------- Template IO ----------
+def read_template(path: Optional[str]) -> Optional[str]:
+    if not path: return None
+    if not os.path.isfile(path):
+        raise SystemExit(f"Template not found: {path}")
+    with open(path, "r", encoding="utf-8") as f:
+        return f.read()
 
-        # Optional: Drafts auslassen
-        if str(fm.get("draft", "false")).lower() in ("true", "1", "yes"):
-            if verbose:
-                print(f"[SKIP] {md.name}: draft=true")
-            continue
+# ---------- Placeholder engine ----------
+_BLOCK_IF      = re.compile(r"\{\{__IF:([^}]+)__\}\}(.*?)\{\{__/IF__\}\}", re.DOTALL)
+_BLOCK_IFNOT   = re.compile(r"\{\{__IFNOT:([^}]+)__\}\}(.*?)\{\{__/IFNOT__\}\}", re.DOTALL)
+_BLOCK_IFANY   = re.compile(r"\{\{__IFANY:([^}]+)__\}\}(.*?)\{\{__/IFANY__\}\}", re.DOTALL)
+_BLOCK_EACH_P  = re.compile(r"\{\{__EACH_PICTURE__\}\}(.*?)\{\{__/EACH_PICTURE__\}\}", re.DOTALL)
+_BLOCK_EACH_L  = re.compile(r"\{\{__EACH_LINK__\}\}(.*?)\{\{__/EACH_LINK__\}\}", re.DOTALL)
+_BLOCK_EACH_I  = re.compile(r"\{\{__EACH_INFO__\}\}(.*?)\{\{__/EACH_INFO__\}\}", re.DOTALL)
 
-        # nummer (Fallback aus Dateiname ^(\d+)_ )
-        nummer = fm.get("nummer", None)
-        if nummer in (None, "", 0, "0"):
-            m = re.match(r"^(\d+)_", md.stem)
-            if m:
-                nummer = int(m.group(1))
-            else:
-                nummer = 0
-        nummer = to_int(nummer, 0)
+def _truthy(meta: Dict[str,Any], key: str, pics: list, links: list, infos: list) -> bool:
+    k = key.strip().lower()
+    if k == "pictures": return len(pics) > 0
+    if k == "links":    return len(links) > 0
+    if k == "infos":    return len(infos) > 0
+    return bool(str(meta.get(key, "")).strip())
 
-        # Titel
-        title = first_non_empty(fm, ["title", "titel", "name"], md.stem)
+def _expand_if_blocks(tpl: str, meta: Dict[str,Any], pics, links, infos) -> str:
+    while True:
+        m = _BLOCK_IF.search(tpl)
+        if not m: break
+        key, inner = m.group(1), m.group(2)
+        tpl = tpl[:m.start()] + (inner if _truthy(meta, key, pics, links, infos) else "") + tpl[m.end():]
+    while True:
+        m = _BLOCK_IFNOT.search(tpl)
+        if not m: break
+        key, inner = m.group(1), m.group(2)
+        tpl = tpl[:m.start()] + ("" if _truthy(meta, key, pics, links, infos) else inner) + tpl[m.end():]
+    while True:
+        m = _BLOCK_IFANY.search(tpl)
+        if not m: break
+        keys = [k.strip() for k in m.group(1).split(",") if k.strip()]
+        inner = m.group(2)
+        cond = any(_truthy(meta, k, pics, links, infos) for k in keys)
+        tpl = tpl[:m.start()] + (inner if cond else "") + tpl[m.end():]
+    return tpl
 
-        # Bild
-        picture = first_non_empty(fm, PICTURE_KEYS, "")
-        if not picture:
-            if verbose:
-                expect = ", ".join(PICTURE_KEYS)
-                print(f"[SKIP] {md.name}: kein Bildfeld (erwarte einen von: {expect})")
-            continue
+def _expand_each_block(tpl: str, regex, items, item_mapper) -> str:
+    while True:
+        m = regex.search(tpl)
+        if not m: break
+        inner = m.group(1)
+        chunks = []
+        for idx, it in enumerate(items, start=1):
+            chunk = inner
+            mapping = item_mapper(idx, it)
+            for k, v in mapping.items():
+                chunk = chunk.replace(k, v)
+            chunks.append(chunk)
+        tpl = tpl[:m.start()] + "".join(chunks) + tpl[m.end():]
+    return tpl
 
-        # Link zur Seite (Clean URLs)
-        link = f"/banner/{md.stem}/"
+def render_placeholders(template_text: str, ctx: Dict[str,Any], debug=False) -> str:
+    tpl = template_text
+    meta = ctx["meta"]
+    number_padded = ctx["number_padded"]
+    number_raw    = ctx["number_raw"]
+    slug          = ctx["slug"]
+    date_iso      = ctx["date_norm"]
+    filename      = ctx["filename"]
+    pics          = ctx["pictures"]
+    links         = ctx["links"]
+    infos         = ctx["infos"]
 
-        items.append(
-            {
-                "nummer": nummer,
-                "title": title,
-                "picture": picture,
-                "link": link,
-                "file": md.name,
-            }
-        )
+    dprint(debug, "CTX:", json.dumps({
+        "meta": meta, "number_padded": number_padded, "slug": slug,
+        "date_norm": date_iso, "filename": filename,
+        "pics": pics, "links": links, "infos": infos
+    }, ensure_ascii=False))
 
-    # Numerisch sortieren (DESC)
-    items.sort(key=lambda x: int(x["nummer"]), reverse=True)
+    # IF / IFNOT / IFANY blocks
+    tpl = _expand_if_blocks(tpl, meta, pics, links, infos)
 
-    if verbose:
-        print(f"[INFO] Aufgenommene Items: {len(items)}")
-        for it in items[:5]:
-            print(f"       #{it['nummer']} {it['file']} -> {it['picture']}")
-    return items
+    # EACH blocks (available if needed)
+    def pic_map(idx, it):  return {"{{__INDEX__}}": str(idx), "{{__KEY__}}": it["key"], "{{__URL__}}": it["url"]}
+    def link_map(idx, it): return {"{{__INDEX__}}": str(idx), "{{__KEY__}}": it["key"], "{{__URL__}}": it["url"]}
+    def info_map(idx, it): return {"{{__INDEX__}}": str(idx), "{{__KEY__}}": it["key"], "{{__VALUE__}}": it["value"]}
+    tpl = _expand_each_block(tpl, _BLOCK_EACH_P, pics,  pic_map)
+    tpl = _expand_each_block(tpl, _BLOCK_EACH_L, links, link_map)
+    tpl = _expand_each_block(tpl, _BLOCK_EACH_I, infos, info_map)
 
+    # Fixed scalars
+    replacements = {
+        "{{__TITLE__}}": str(meta.get("title") or meta.get("name") or meta.get("titel") or "Untitled"),
+        "{{__DATE__}}":  str(meta.get("date") or meta.get("datum") or ""),
+        "{{__DATE_ISO__}}": date_iso,
+        "{{__DATE_DE__}}":  fmt_date_de(meta.get("date") or meta.get("datum") or date_iso),
+        "{{__CITY__}}":     str(meta.get("city") or meta.get("stadt") or meta.get("ort") or ""),
+        "{{__COUNTRY__}}":  str(meta.get("country") or meta.get("land") or ""),
+        "{{__LOCATION__}}": str(meta.get("location") or meta.get("place") or ""),
+        "{{__NUMBER__}}":   number_padded,
+        "{{__NUMBER_RAW__}}": number_raw,
+        "{{__SLUG__}}":     slug,
+        "{{__FILENAME__}}": filename,
+        "{{__PICTURES__}}": "\n".join(f"![{meta.get('title','Image')}]({p['url']})" for p in pics),
+        "{{__LINKS__}}":    "\n".join(f"- **{l['key']}**: [{l['url']}]({l['url']})" for l in links),
+        "{{__INFOS__}}":    "\n".join(f"- **{i['key']}**: {i['value']}" for i in infos),
+        "{{__FIRST_PICTURE__}}": (pics[0]["url"] if pics else ""),
+    }
+    for k, v in replacements.items():
+        tpl = tpl.replace(k, v)
 
-def render_single_column_md(items: list[dict]) -> str:
-    """
-    Rendert eine **einspaltige** Galerie.
-    Bild oben (nicht verlinkt), darunter ein **Button** mit dem bisherigen Text
-    "#<nummer> — <title>", der zur Banner-Seite verlinkt.
-    """
-    lines = []
-    lines.append("---")
-    lines.append('title: "Banner Galerie"')
-    lines.append("---")
-    lines.append("")
-    lines.append("# Banner Galerie")
-    lines.append("")
+    # Parameterized scalars: __VAL, __VALBR, __VAL2DP, __LINK, __IMG
+    for m in re.findall(r"\{\{__VAL:([^}]+)__\}\}", tpl):
+        v = str(meta.get(m, "")).strip()
+        tpl = tpl.replace(f"{{{{__VAL:{m}__}}}}", v)
 
-    # Container explizit block-level, volle Breite
-    lines.append(
-        '<div class="banner-gallery-onecol" '
-        'style="display:block;width:100%;max-width:1000px;margin:0 auto;">'
-    )
+    # __VALBR:key__  -> show with line breaks (\n encoded in YAML as "\\n")
+    for m in re.findall(r"\{\{__VALBR:([^}]+)__\}\}", tpl):
+        raw = str(meta.get(m, "")).strip()
+        val = raw.replace("\\n", "<br>")
+        tpl = tpl.replace(f"{{{{__VALBR:{m}__}}}}", val)
 
-    for it in items:
-        alt = f"#{it['nummer']} — {it['title']}"
-        label_html = f"<strong>#{it['nummer']}</strong> — {it['title']}"
+    # __VAL2DP:key__ -> numeric formatted with 2 decimals (accepts "10,38" or "10.38")
+    for m in re.findall(r"\{\{__VAL2DP:([^}]+)__\}\}", tpl):
+        raw = str(meta.get(m, "")).strip()
+        n = raw.replace(",", ".")
+        try:
+            val = f"{float(n):.2f}"
+        except Exception:
+            val = raw
+        tpl = tpl.replace(f"{{{{__VAL2DP:{m}__}}}}", val)
 
-        # Karte block-level, volle Breite, Abstand unten
-        lines.append(
-            '<div class="banner-item" '
-            'style="display:block;width:100%;clear:both;margin:0 0 24px 0;">'
-        )
+    for m in re.findall(r"\{\{__LINK:([^}]+)__\}\}", tpl):
+        url = str(meta.get(m, "")).strip()
+        repl = f"[{url}]({url})" if is_urlish(url) else ""
+        tpl = tpl.replace(f"{{{{__LINK:{m}__}}}}", repl)
 
-        # Bild (nicht verlinkt)
-        lines.append('  <figure style="display:block;width:100%;margin:0;">')
-        lines.append(
-            '    <img src="{src}" alt="{alt}" loading="lazy" decoding="async" '
-            'style="display:block;width:100%;height:auto;border-radius:10px;"/>'.format(
-                src=it["picture"], alt=alt.replace('"', "&quot;")
-            )
-        )
-        lines.append("  </figure>")
+    for m in re.findall(r"\{\{__IMG:([^}]+)__\}\}", tpl):
+        url = str(meta.get(m, "")).strip()
+        repl = f"![{meta.get('title','Image')}]({url})" if url else ""
+        tpl = tpl.replace(f"{{{{__IMG:{m}__}}}}", repl)
 
-        # Button unter dem Bild
-        lines.append(
-            '  <div class="banner-cta" style="display:block;width:100%;margin-top:10px;">'
-        )
-        lines.append(
-            '    <a href="{href}" role="button" '
-            'style="display:inline-block;padding:10px 14px;border-radius:8px;'
-            'text-decoration:none;border:1px solid currentColor;'
-            'font-size:1rem;line-height:1.2;'
-            'background: transparent;'
-            '">'
-            "{label}"
-            "</a>".format(
-                href=it["link"],
-                label=label_html,
-            )
-        )
-        lines.append("  </div>")
+    return tpl.strip() + "\n"
 
-        lines.append("</div>")
+# ---------- Jinja (optional) ----------
+def jinja_env():
+    env = jinja2.Environment(loader=jinja2.BaseLoader(), autoescape=False, undefined=jinja2.StrictUndefined)
+    env.filters["slugify"] = slugify
+    env.filters["tojson"]  = lambda x: json.dumps(x, ensure_ascii=False)
+    env.filters["nl2br"]   = lambda s: ("" if s is None else str(s)).replace("\n","<br>")
+    def md_esc(s: Any) -> str:
+        t = "" if s is None else str(s)
+        return re.sub(r"([\\`*_{}\[\]()#+\-.!|])", r"\\\1", t)
+    env.filters["md_esc"]  = md_esc
+    def fmt_date(val: Any, fmt: str = "%Y-%m-%d") -> str:
+        if not val: return ""
+        try: return datetime.fromisoformat(str(val)).strftime(fmt)
+        except Exception: pass
+        for f in ("%Y-%m-%d","%d.%m.%Y","%Y.%m.%d"):
+            try: return datetime.strptime(str(val), f).strftime(fmt)
+            except Exception: pass
+        return str(val)
+    env.globals["fmt_date"] = fmt_date
+    env.globals["is_urlish"] = is_urlish
+    return env
 
-    lines.append("</div>")
-    lines.append("")
-    return "\n".join(lines)
+def render_with_jinja(template_text: str, ctx: dict) -> str:
+    env = jinja_env()
+    tmpl = env.from_string(template_text)
+    return tmpl.render(**ctx).strip() + "\n"
 
+# ---------- IO ----------
+def write_markdown(out_path: str, frontmatter: dict, ordered_fields: list[str], body: str):
+    fm_lines = ["---"]
+    for k in ordered_fields:
+        raw_v = frontmatter.get(k, "")
+        v = sanitize_value(k, raw_v)
+        if k.lower() == "description":
+            esc = v.replace("\\","\\\\").replace('"','\\"')
+            esc = esc.replace("\r\n","\n").replace("\r","\n").replace("\n","\\n")
+            fm_lines.append(f'{k}: "{esc}"')
+        else:
+            fm_lines.append(f"{k}: {yaml_escape(v)}")
+    fm_lines.append("---")
+    fm_lines.append("")
+    with open(out_path, "w", encoding="utf-8") as f:
+        f.write("\n".join(fm_lines) + body)
 
+# ---------- Main ----------
 def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--root", default="docs", help="Docs root (default: docs)")
-    ap.add_argument(
-        "--banner_dir",
-        default="banner",
-        help="Banner-Unterordner (default: banner -> docs/banner)",
-    )
-    ap.add_argument(
-        "--outfile",
-        default="gallery.md",
-        help="Zieldatei in banner_dir (default: gallery.md)",
-    )
-    ap.add_argument(
-        "--verbose",
-        action="store_true",
-        help="Zusätzliches Logging (SKIP/INFO) ausgeben",
-    )
-    args = ap.parse_args()
+    p = argparse.ArgumentParser(description="CSV -> Markdown generator (Bannergress banners)")
+    p.add_argument("--csv", required=True)
+    p.add_argument("--out", default="docs/banner")
+    p.add_argument("--overwrite", action="store_true")
+    p.add_argument("--pad-width", type=int, default=6)
+    p.add_argument("--template", help="Markdown template path")
+    p.add_argument("--render-jinja", action="store_true", help="Use full Jinja rendering (optional)")
+    p.add_argument("--debug", action="store_true", help="Verbose debug output to STDERR")
+    args = p.parse_args()
 
-    root = Path(args.root)
-    banner_dir = root / args.banner_dir
-    if not banner_dir.exists():
-        print(f"ERROR: {banner_dir} not found.", file=sys.stderr)
-        sys.exit(2)
+    os.makedirs(args.out, exist_ok=True)
+    template_text = read_template(args.template) if args.template else None
 
-    items = collect_items(banner_dir, verbose=args.verbose)
-    out_path = banner_dir / args.outfile
-    out_path.write_text(render_single_column_md(items), encoding="utf-8")
+    if args.render_jinja and not HAVE_JINJA:
+        raise SystemExit("jinja2 is not installed. Run: pip install jinja2")
 
-    print(f"Gallery generated: {out_path} (items: {len(items)})")
+    with open(args.csv, "r", encoding="utf-8-sig", newline="") as f:
+        reader = csv.DictReader(f)
+        if not reader.fieldnames:
+            raise SystemExit("CSV has no header row. Please include column names.")
 
+        created = skipped = overwritten = 0
+
+        for idx, row in enumerate(reader, start=1):
+            num_raw = infer_field(row, ["nummer","number","no","id"]) or str(idx)
+            number_padded = format_number_for_filename(num_raw, args.pad_width)
+            title = infer_field(row, ["title","titel","name"]) or f"row-{idx}"
+            date_raw = infer_field(row, ["date","datum","created","when","planned_date"])
+            date_norm = normalize_date(date_raw)
+            slug = slugify(title)
+            filename = f"{number_padded}_{slug}_{date_norm}.md"
+            out_path = os.path.join(args.out, filename)
+
+            ordered_fields = list(reader.fieldnames)
+            frontmatter = {k: sanitize_value(k, (row.get(k,"") or "").strip()) for k in ordered_fields}
+
+            if "title" not in frontmatter or not str(frontmatter.get("title","")).strip():
+                if "titel" in frontmatter and str(frontmatter["titel"]).strip():
+                    frontmatter["title"] = frontmatter["titel"]
+                    if "title" not in ordered_fields:
+                        ordered_fields.append("title")
+            if date_raw and ("date" not in frontmatter or not str(frontmatter.get("date","")).strip()):
+                frontmatter["date"] = date_norm
+                if "date" not in ordered_fields:
+                    ordered_fields.append("date")
+
+            # Build lists for context
+            pics = [{"key": k, "url": str(frontmatter.get(k)).strip()}
+                    for k in ordered_fields
+                    if k.lower() in PICTURE_KEYS and str(frontmatter.get(k,"")).strip()]
+            # only one image (banner)
+            if pics:
+                pics = [pics[0]]
+
+            lnks = [{"key": k, "url": str(frontmatter.get(k)).strip()}
+                    for k in ordered_fields
+                    if k.lower() not in PICTURE_KEYS and is_urlish(frontmatter.get(k,""))]
+            infs = [{"key": k, "value": str(frontmatter.get(k)).strip()}
+                    for k in ordered_fields
+                    if k.lower() not in PICTURE_KEYS
+                    and k not in ("title","name","titel","date","datum")
+                    and str(frontmatter.get(k,"")).strip()
+                    and not is_urlish(frontmatter.get(k,""))]
+
+            dprint(args.debug, "Row#", idx, "->", filename)
+            dprint(args.debug, "Frontmatter keys:", ordered_fields)
+
+            # Render body
+            if template_text:
+                ctx = {
+                    "meta": frontmatter,
+                    "ordered_fields": ordered_fields,
+                    "number_padded": number_padded,
+                    "number_raw": num_raw,
+                    "slug": slug,
+                    "date_norm": date_norm,
+                    "filename": filename,
+                    "pictures": pics,
+                    "links": lnks,
+                    "infos": infs,
+                }
+                if args.render_jinja:
+                    body = render_with_jinja(template_text, ctx)
+                else:
+                    body = render_placeholders(template_text, ctx, debug=args.debug)
+            else:
+                t, m, psec, lsec, isec = build_sections(frontmatter, ordered_fields)
+                parts = [x for x in (t, m, psec, lsec, isec) if x]
+                body = "\n\n".join(parts) + "\n"
+
+            if os.path.exists(out_path):
+                if args.overwrite:
+                    write_markdown(out_path, frontmatter, ordered_fields, body)
+                    overwritten += 1
+                else:
+                    skipped += 1
+            else:
+                write_markdown(out_path, frontmatter, ordered_fields, body)
+                created += 1
+
+    print(f"✅ Done. Created: {created}, Overwritten: {overwritten}, Skipped: {skipped}. Output: {os.path.abspath(args.out)}")
 
 if __name__ == "__main__":
     main()
