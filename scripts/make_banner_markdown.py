@@ -4,30 +4,30 @@
 CSV -> Markdown (Bannergress banners)
 Variant B (neutral English template) + support for:
 - missionDay => Yes/No via {{__VALYESNO:missionDay__}}
-- notice => highlighted notice box (with <br>)
-- Distance formatted to 2 decimals ({{__VAL2DP:lengthKMeters__}})
+- notice => highlighted notice box (with <br> via {{__VALBR:notice__}})
+- Distance formatted to 2 decimals via {{__VAL2DP:lengthKMeters__}}
+- Title aliases (title/name/titel), slug & href always present in front matter
+Usage:
+  python scripts/make_banner_markdown.py \
+    --csv scripts/banner.csv \
+    --out docs/banner \
+    --template template/banner.md \
+    --overwrite
 """
-import argparse, csv, json, os, re, sys
+import argparse, csv, os, re, sys
 from datetime import datetime
 from typing import List, Dict, Any, Optional
 
-# optional jinja
-try:
-    import jinja2
-    HAVE_JINJA = True
-except Exception:
-    HAVE_JINJA = False
-
-# config
+# ---------------- Config ----------------
 PICTURE_KEYS = [
     "picture","pictures","image","images","img","pic","pic_url",
     "picture_url","image_url","bild","bilder","pictureurl","imageurl"
 ]
-EXCLUDED_SANITIZE_KEYS = {"bg-link","picture"}
+EXCLUDED_SANITIZE_KEYS = {"bg-link","picture"}          # don't replace ":" in these values
 URL_PREFIXES = ("http://","https://")
 IDENTIFIER_RE = re.compile(r"[A-Za-z_][A-Za-z0-9_]*$")
 
-# utils
+# ---------------- Utils ----------------
 def dprint(enabled: bool, *args):
     if enabled:
         print("[DEBUG]", *args, file=sys.stderr)
@@ -110,9 +110,9 @@ def format_number_for_filename(num_raw: str, min_width: int) -> str:
     width = max(min_width, len(digits))
     return digits.zfill(width)
 
-# template handling
-_BLOCK_IF      = re.compile(r"\{\{__IF:([^}]+)__\}\}(.*?)\{\{__/IF__\}\}", re.DOTALL)
-_BLOCK_IFANY   = re.compile(r"\{\{__IFANY:([^}]+)__\}\}(.*?)\{\{__/IFANY__\}\}", re.DOTALL)
+# ---------------- Template engine ----------------
+_BLOCK_IF    = re.compile(r"\{\{__IF:([^}]+)__\}\}(.*?)\{\{__/IF__\}\}", re.DOTALL)
+_BLOCK_IFANY = re.compile(r"\{\{__IFANY:([^}]+)__\}\}(.*?)\{\{__/IFANY__\}\}", re.DOTALL)
 
 def _truthy(meta: Dict[str,Any], key: str) -> bool:
     return bool(str(meta.get(key, "")).strip())
@@ -133,52 +133,62 @@ def _expand_if_blocks(tpl: str, meta: Dict[str,Any]) -> str:
     return tpl
 
 def render_placeholders(template_text: str, ctx: Dict[str,Any]) -> str:
-    tpl = template_text
+    tpl  = template_text
     meta = ctx["meta"]
+
+    # IF / IFANY
     tpl = _expand_if_blocks(tpl, meta)
 
-    # __VAL:key__
+    # simple value
     for m in re.findall(r"\{\{__VAL:([^}]+)__\}\}", tpl):
         tpl = tpl.replace(f"{{{{__VAL:{m}__}}}}", str(meta.get(m, "")).strip())
 
-    # __VALBR:key__  -> replaces \n with <br>
+    # with <br> (stored as \n in YAML)
     for m in re.findall(r"\{\{__VALBR:([^}]+)__\}\}", tpl):
         val = str(meta.get(m, "")).strip().replace("\\n", "<br>")
         tpl = tpl.replace(f"{{{{__VALBR:{m}__}}}}", val)
 
-    # __VAL2DP:key__ -> numeric 2 decimals
+    # 2 decimals
     for m in re.findall(r"\{\{__VAL2DP:([^}]+)__\}\}", tpl):
         raw = str(meta.get(m, "")).strip().replace(",", ".")
         try: val = f"{float(raw):.2f}"
         except Exception: val = raw
         tpl = tpl.replace(f"{{{{__VAL2DP:{m}__}}}}", val)
 
-    # __VALYESNO:key__ -> Yes/No/blank
+    # Yes/No
     for m in re.findall(r"\{\{__VALYESNO:([^}]+)__\}\}", tpl):
         val = str(meta.get(m, "")).strip().lower()
         yes = val in ("1","true","yes","y")
-        no = val in ("0","false","no","n")
+        no  = val in ("0","false","no","n")
         out = "Yes" if yes else "No" if no or val else ""
         tpl = tpl.replace(f"{{{{__VALYESNO:{m}__}}}}", out)
 
-    # __IMG:key__
+    # links & image
+    for m in re.findall(r"\{\{__LINK:([^}]+)__\}\}", tpl):
+        url = str(meta.get(m, "")).strip()
+        repl = f"[{url}]({url})" if is_urlish(url) else ""
+        tpl = tpl.replace(f"{{{{__LINK:{m}__}}}}", repl)
+
     for m in re.findall(r"\{\{__IMG:([^}]+)__\}\}", tpl):
         url = str(meta.get(m, "")).strip()
         tpl = tpl.replace(f"{{{{__IMG:{m}__}}}}", f"![{meta.get('title','Image')}]({url})" if url else "")
 
-    # static info
+    # static helpers
     tpl = tpl.replace("{{__TITLE__}}", str(meta.get("title") or meta.get("name") or meta.get("titel") or "Untitled"))
     tpl = tpl.replace("{{__DATE_DE__}}", fmt_date_de(meta.get("date") or meta.get("datum") or ""))
-    tpl = tpl.replace("{{__CITY__}}", str(meta.get("city") or meta.get("stadt") or meta.get("ort") or ""))
-    tpl = tpl.replace("{{__COUNTRY__}}", str(meta.get("country") or meta.get("land") or ""))
-    tpl = tpl.replace("{{__NUMBER__}}", ctx["number_padded"])
-    tpl = tpl.replace("{{__SLUG__}}", ctx["slug"])
+    tpl = tpl.replace("{{__CITY__}}",     str(meta.get("city") or meta.get("stadt") or meta.get("ort") or ""))
+    tpl = tpl.replace("{{__COUNTRY__}}",  str(meta.get("country") or meta.get("land") or ""))
+    tpl = tpl.replace("{{__NUMBER__}}",   ctx["number_padded"])
+    tpl = tpl.replace("{{__SLUG__}}",     ctx["slug"])
     tpl = tpl.replace("{{__FILENAME__}}", ctx["filename"])
     return tpl.strip() + "\n"
 
+# ---------------- Template / IO ----------------
 def read_template(path: str) -> str:
-    if not os.path.isfile(path): raise SystemExit(f"Template not found: {path}")
-    with open(path, "r", encoding="utf-8") as f: return f.read()
+    if not os.path.isfile(path):
+        raise SystemExit(f"Template not found: {path}")
+    with open(path, "r", encoding="utf-8") as f:
+        return f.read()
 
 def write_markdown(out_path: str, fm: dict, ordered: list[str], body: str):
     lines = ["---"]
@@ -190,57 +200,96 @@ def write_markdown(out_path: str, fm: dict, ordered: list[str], body: str):
             lines.append(f'{k}: "{esc}"')
         else:
             lines.append(f"{k}: {yaml_escape(v)}")
+    # ensure slug & href (may not be in CSV header)
+    if "slug" not in ordered:
+        lines.append(f"slug: {yaml_escape(fm.get('slug',''))}")
+    if "href" not in ordered:
+        lines.append(f"href: {yaml_escape(fm.get('href',''))}")
+    # ensure title aliases
+    if "name" not in ordered:
+        lines.append(f"name: {yaml_escape(fm.get('name',''))}")
+    if "titel" not in ordered:
+        lines.append(f"titel: {yaml_escape(fm.get('titel',''))}")
     lines.append("---\n")
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
     with open(out_path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + body)
 
-def yaml_escape(v: str) -> str:
-    s = str(v)
-    if not s: return '""'
-    if any(x in s for x in [":","[","]","{","}","\\","\n","'","\""]):
-        s = s.replace("\\","\\\\").replace('"','\\"')
-        return f'"{s}"'
-    return s
-
+# ---------------- Main ----------------
 def main():
-    p = argparse.ArgumentParser()
-    p.add_argument("--csv", required=True)
-    p.add_argument("--out", default="docs/banner")
-    p.add_argument("--overwrite", action="store_true")
-    p.add_argument("--template", required=True)
-    p.add_argument("--pad-width", type=int, default=6)
-    args = p.parse_args()
+    ap = argparse.ArgumentParser(description="CSV -> Markdown generator (Banner)")
+    ap.add_argument("--csv", required=True, help="Path to input CSV")
+    ap.add_argument("--out", default="docs/banner", help="Output directory")
+    ap.add_argument("--overwrite", action="store_true", help="Overwrite existing files")
+    ap.add_argument("--pad-width", type=int, default=6, help="Zero-pad width for number prefix")
+    ap.add_argument("--template", required=True, help="Markdown template path")
+    ap.add_argument("--debug", action="store_true")
+    args = ap.parse_args()
 
-    tpl = read_template(args.template)
     os.makedirs(args.out, exist_ok=True)
+    tpl = read_template(args.template)
 
     with open(args.csv, "r", encoding="utf-8-sig", newline="") as f:
         reader = csv.DictReader(f)
-        for i, row in enumerate(reader, start=1):
-            num_raw = infer_field(row, ["nummer","number","no","id"]) or str(i)
+        if not reader.fieldnames:
+            raise SystemExit("CSV has no header row. Please include column names.")
+
+        created = overwritten = skipped = 0
+
+        for idx, row in enumerate(reader, start=1):
+            num_raw = infer_field(row, ["nummer","number","no","id"]) or str(idx)
             number_padded = format_number_for_filename(num_raw, args.pad_width)
-            title = infer_field(row, ["title","titel","name"]) or f"row-{i}"
-            date_raw = infer_field(row, ["date","datum","created","when","planned_date"])
+
+            # core fields
+            title_csv = infer_field(row, ["title","titel","name"]) or f"row-{idx}"
+            date_raw  = infer_field(row, ["date","datum","created","when","planned_date"])
             date_norm = normalize_date(date_raw)
-            slug = slugify(title)
-            filename = f"{number_padded}_{slug}_{date_norm}.md"
-            out_path = os.path.join(args.out, filename)
+            slug_val  = slugify(title_csv)
+            filename  = f"{number_padded}_{slug_val}_{date_norm}.md"
+            out_path  = os.path.join(args.out, filename)
 
+            # front matter base from CSV
             ordered_fields = list(reader.fieldnames)
-            frontmatter = {k: sanitize_value(k, (row.get(k,"") or "").strip()) for k in ordered_fields}
-            frontmatter["title"] = frontmatter.get("title") or frontmatter.get("titel") or title
-            frontmatter["date"] = frontmatter.get("date") or date_norm
+            fm = {k: sanitize_value(k, (row.get(k,"") or "").strip()) for k in ordered_fields}
 
+            # ensure title/date always present
+            if not str(fm.get("title","")).strip():
+                fm["title"] = title_csv
+                if "title" not in ordered_fields: ordered_fields.append("title")
+            if not str(fm.get("date","")).strip() and date_norm:
+                fm["date"] = date_norm
+                if "date" not in ordered_fields: ordered_fields.append("date")
+
+            # title aliases + slug + href (help Overview)
+            t = (fm.get("title") or fm.get("titel") or fm.get("name") or title_csv).strip()
+            fm["title"] = t
+            if not str(fm.get("name","")).strip():
+                fm["name"] = t
+            if not str(fm.get("titel","")).strip():
+                fm["titel"] = t
+            fm["slug"] = fm.get("slug") or slug_val
+            fm["href"] = fm.get("href") or f"banner/{number_padded}_{slug_val}_{date_norm}.md"
+
+            # render body via placeholders
             ctx = {
-                "meta": frontmatter,
+                "meta": fm,
                 "number_padded": number_padded,
-                "slug": slug,
-                "filename": filename
+                "slug": slug_val,
+                "filename": filename,
             }
             body = render_placeholders(tpl, ctx)
-            write_markdown(out_path, frontmatter, ordered_fields, body)
-    print(f"✅ Markdown generated in {args.out}")
+
+            if os.path.exists(out_path):
+                if args.overwrite:
+                    write_markdown(out_path, fm, ordered_fields, body)
+                    overwritten += 1
+                else:
+                    skipped += 1
+            else:
+                write_markdown(out_path, fm, ordered_fields, body)
+                created += 1
+
+    print(f"✅ Done. Created: {created}, Overwritten: {overwritten}, Skipped: {skipped}. Output: {os.path.abspath(args.out)}")
 
 if __name__ == "__main__":
     main()
