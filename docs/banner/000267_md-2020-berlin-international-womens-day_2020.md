@@ -14,7 +14,7 @@ onyx: "0"
 description: ""
 lengthKMeters: "19,23"
 umap: ""
-missionDay: ""
+missionDay: "1"
 notice: ""
 title: "MD 2020- Berlin,  International Women's Day"
 slug: "md-2020-berlin-international-womens-day"
@@ -34,7 +34,7 @@ name: "MD 2020: Berlin,  International Women's Day"
 - **Missions in banner:** 18
 - **Total missions completed:** 6330
 - **This is my banner no.:** 267
-
+- **Mission Day:** Yes
 
 
 

@@ -14,7 +14,7 @@ onyx: "0"
 description: "Part of MD 2022- Stolpersteine"
 lengthKMeters: "2,946"
 umap: ""
-missionDay: ""
+missionDay: "1"
 notice: ""
 title: "MD 2022- Stolpersteine, Berlin"
 slug: "md-2022-stolpersteine-berlin"
@@ -34,7 +34,7 @@ name: "MD 2022: Stolpersteine, Berlin"
 - **Missions in banner:** 6
 - **Total missions completed:** 10.974
 - **This is my banner no.:** 516
-
+- **Mission Day:** Yes
 
 
 ## Description

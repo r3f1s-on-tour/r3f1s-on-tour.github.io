@@ -14,7 +14,7 @@ onyx: "0"
 description: ""
 lengthKMeters: "29,30"
 umap: ""
-missionDay: ""
+missionDay: "1"
 notice: ""
 title: "MD Regensburg"
 slug: "md-regensburg"
@@ -34,7 +34,7 @@ name: "MD Regensburg"
 - **Missions in banner:** 24
 - **Total missions completed:** 2232
 - **This is my banner no.:** 86
-
+- **Mission Day:** Yes
 
 
 

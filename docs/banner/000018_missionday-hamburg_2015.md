@@ -14,8 +14,8 @@ onyx: "0"
 description: "The Alsterarkaden is the smallest and oldest shopping arcade in Hamburg."
 lengthKMeters: "71,95"
 umap: ""
-missionDay: ""
-notice: ""
+missionDay: "1"
+notice: "1"
 title: "MissionDay Hamburg"
 slug: "missionday-hamburg"
 href: "banner/000018_missionday-hamburg_2015.md"
@@ -28,13 +28,18 @@ name: "MissionDay Hamburg"
 
 
 
+<div style="margin: 10px 0 18px; padding: 10px 12px; border-left: 6px solid #f0ad4e; background: #fff8e6; border-radius: 6px;">
+  <strong>Notice:</strong><br>
+  1
+</div>
+
 
 ## Details
 - **Distance (km):** 71.95
 - **Missions in banner:** 12
 - **Total missions completed:** 330
 - **This is my banner no.:** 18
-
+- **Mission Day:** Yes
 
 
 ## Description

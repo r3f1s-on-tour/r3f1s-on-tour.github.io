@@ -14,7 +14,7 @@ onyx: "0"
 description: "Discover Linz through missions!"
 lengthKMeters: "21,33"
 umap: ""
-missionDay: ""
+missionDay: "1"
 notice: ""
 title: "Cassandra Mission Day Linz 2018"
 slug: "cassandra-mission-day-linz-2018"
@@ -34,7 +34,7 @@ name: "Cassandra Mission Day Linz 2018"
 - **Missions in banner:** 6
 - **Total missions completed:** 4776
 - **This is my banner no.:** 204
-
+- **Mission Day:** Yes
 
 
 ## Description

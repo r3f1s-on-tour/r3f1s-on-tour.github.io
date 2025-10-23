@@ -14,7 +14,7 @@ onyx: "0"
 description: ""
 lengthKMeters: "20,03"
 umap: ""
-missionDay: ""
+missionDay: "1"
 notice: ""
 title: "MissionDay Zürich"
 slug: "missionday-zrich"
@@ -34,7 +34,7 @@ name: "MissionDay Zürich"
 - **Missions in banner:** 24
 - **Total missions completed:** 1344
 - **This is my banner no.:** 59
-
+- **Mission Day:** Yes
 
 
 
