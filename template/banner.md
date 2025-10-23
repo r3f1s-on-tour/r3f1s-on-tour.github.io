@@ -1,6 +1,6 @@
 # {{__TITLE__}}
 
-*{{__DATE_DE__}}*{{__IF:city__}} • {{__VAL:city__}}{{__/IF__}}{{__IF:country__}} • {{__VAL:country__}}{{__/IF__}}
+*{{__DATE_DE__}}*{{__IF:region__}} • {{__VAL:region__}}{{__/IF__}}{{__IF:country__}} • {{__VAL:country__}}{{__/IF__}}
 
 {{__IMG:picture__}}
 
