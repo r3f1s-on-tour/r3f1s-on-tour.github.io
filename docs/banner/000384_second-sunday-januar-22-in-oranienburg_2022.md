@@ -3,7 +3,7 @@ nummer: "384"
 startLatitude: "52.756491"
 startLongitude: "13.245295"
 titel: "Second Sunday Januar 22 in Oranienburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/82a8725714a55ccd98fba08e8fb07b50"
 region: "Oranienburg"
 country: "Deutschland"
 completed: "8304"
@@ -20,7 +20,7 @@ title: "Second Sunday Januar 22 in Oranienburg"
 
 *2022* • Oranienburg • Deutschland
 
-
+![Second Sunday Januar 22 in Oranienburg](https://api.bannergress.com/bnrs/pictures/82a8725714a55ccd98fba08e8fb07b50)
 
 ## Details
 - **Distance (km):** 2.13

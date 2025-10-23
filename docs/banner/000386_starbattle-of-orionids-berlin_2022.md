@@ -3,7 +3,7 @@ nummer: "386"
 startLatitude: "52,505942"
 startLongitude: "13,37482"
 titel: "StarBattle of Orionids - Berlin"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/0dd1597cdf430da0866d0818fd39a212"
 region: "Berlin"
 country: "Deutschland"
 completed: "8.316"
@@ -20,7 +20,7 @@ title: "StarBattle of Orionids - Berlin"
 
 *2022* • Berlin • Deutschland
 
-
+![StarBattle of Orionids - Berlin](https://api.bannergress.com/bnrs/pictures/0dd1597cdf430da0866d0818fd39a212)
 
 ## Details
 - **Distance (km):** 1.78

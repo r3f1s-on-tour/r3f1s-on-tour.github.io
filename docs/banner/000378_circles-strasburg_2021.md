@@ -3,7 +3,7 @@ nummer: "378"
 startLatitude: "53.50675"
 startLongitude: "13.745004"
 titel: "Circles Strasburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/c49f41888b1c628db6cc35914e5a95cd"
 region: "Strasburg (Uckermark)"
 country: "Deutschland"
 completed: "8238"
@@ -20,7 +20,7 @@ title: "Circles Strasburg"
 
 *2021* • Strasburg (Uckermark) • Deutschland
 
-
+![Circles Strasburg](https://api.bannergress.com/bnrs/pictures/c49f41888b1c628db6cc35914e5a95cd)
 
 ## Details
 - **Distance (km):** 14.99

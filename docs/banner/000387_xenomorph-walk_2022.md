@@ -3,7 +3,7 @@ nummer: "387"
 startLatitude: "52,51724"
 startLongitude: "13,396536"
 titel: "Xenomorph Walk"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/a104bfc2d0faab1edba420f6b82cbfa9"
 region: "Berlin"
 country: "Deutschland"
 completed: "8.328"
@@ -20,7 +20,7 @@ title: "Xenomorph Walk"
 
 *2022* • Berlin • Deutschland
 
-
+![Xenomorph Walk](https://api.bannergress.com/bnrs/pictures/a104bfc2d0faab1edba420f6b82cbfa9)
 
 ## Details
 - **Distance (km):** 3.92

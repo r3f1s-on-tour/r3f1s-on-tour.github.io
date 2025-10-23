@@ -3,7 +3,7 @@ nummer: "375"
 startLatitude: "54.309652"
 startLongitude: "13.084511"
 titel: "rip redacted - stralsund"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/bd620aa75eda2f30110dc4e96c9b947a"
 region: "Stralsund"
 country: "Deutschland"
 completed: "8190"
@@ -20,7 +20,7 @@ title: "rip redacted - stralsund"
 
 *2021* • Stralsund • Deutschland
 
-
+![rip redacted - stralsund](https://api.bannergress.com/bnrs/pictures/bd620aa75eda2f30110dc4e96c9b947a)
 
 ## Details
 - **Distance (km):** 5.66

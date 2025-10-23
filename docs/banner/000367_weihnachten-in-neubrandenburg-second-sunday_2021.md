@@ -3,7 +3,7 @@ nummer: "367"
 startLatitude: "53.557736"
 startLongitude: "13.26025"
 titel: "Weihnachten in Neubrandenburg - Second Sunday"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/a5dfdd73f2bd6ca728181bfedeb901e0"
 region: "Neubrandenburg"
 country: "Deutschland"
 completed: "8070"
@@ -20,7 +20,7 @@ title: "Weihnachten in Neubrandenburg - Second Sunday"
 
 *2021* • Neubrandenburg • Deutschland
 
-
+![Weihnachten in Neubrandenburg - Second Sunday](https://api.bannergress.com/bnrs/pictures/a5dfdd73f2bd6ca728181bfedeb901e0)
 
 ## Details
 - **Distance (km):** 2.03

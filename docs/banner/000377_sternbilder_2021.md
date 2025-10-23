@@ -3,7 +3,7 @@ nummer: "377"
 startLatitude: "54.316336"
 startLongitude: "13.096764"
 titel: "Sternbilder"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/acddc3f162894c9b9f2756e03c67c5c3"
 region: "Stralsund"
 country: "Deutschland"
 completed: "8220"
@@ -20,7 +20,7 @@ title: "Sternbilder"
 
 *2021* • Stralsund • Deutschland
 
-
+![Sternbilder](https://api.bannergress.com/bnrs/pictures/acddc3f162894c9b9f2756e03c67c5c3)
 
 ## Details
 - **Distance (km):** 3.47

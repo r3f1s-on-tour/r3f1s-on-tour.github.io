@@ -3,7 +3,7 @@ nummer: "383"
 startLatitude: "52.542993"
 startLongitude: "13.428082"
 titel: "Sonne und Mond Tour"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/776037acd81b06f4b9016319ea6e4805"
 region: "Berlin"
 country: "Deutschland"
 completed: "8298"
@@ -20,7 +20,7 @@ title: "Sonne und Mond Tour"
 
 *2022* • Berlin • Deutschland
 
-
+![Sonne und Mond Tour](https://api.bannergress.com/bnrs/pictures/776037acd81b06f4b9016319ea6e4805)
 
 ## Details
 - **Distance (km):** 8.89

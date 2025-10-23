@@ -3,7 +3,7 @@ nummer: "368"
 startLatitude: "53.561402"
 startLongitude: "13.261756"
 titel: "Green Wolfgreen"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/ca869e2afbc4b90b4c48db706fa04c4e"
 region: "Neubrandenburg"
 country: "Deutschland"
 completed: "8088"
@@ -20,7 +20,7 @@ title: "Green Wolfgreen"
 
 *2021* • Neubrandenburg • Deutschland
 
-
+![Green Wolfgreen](https://api.bannergress.com/bnrs/pictures/ca869e2afbc4b90b4c48db706fa04c4e)
 
 ## Details
 - **Distance (km):** 5.56

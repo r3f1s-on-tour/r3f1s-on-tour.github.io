@@ -3,7 +3,7 @@ nummer: "361"
 startLatitude: "53.506348"
 startLongitude: "13.745009"
 titel: "Second Sunday - Strasburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/bb65f6a1408e52a2abac9aaf27650299"
 region: "Strasburg (Uckermark)"
 country: "Deutschland"
 completed: "7992"
@@ -20,7 +20,7 @@ title: "Second Sunday - Strasburg"
 
 *2021* • Strasburg (Uckermark) • Deutschland
 
-
+![Second Sunday - Strasburg](https://api.bannergress.com/bnrs/pictures/bb65f6a1408e52a2abac9aaf27650299)
 
 ## Details
 - **Distance (km):** 3.17
