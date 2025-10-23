@@ -3,7 +3,7 @@ nummer: "96"
 startLatitude: "53.311645"
 startLongitude: "13.85215"
 titel: "Prenzlau Marienkirche"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/570a69dff1498e3c55c99c9b6b73155b"
 region: "Prenzlau"
 country: "Deutschland"
 completed: "2466"
@@ -20,7 +20,7 @@ title: "Prenzlau Marienkirche"
 
 *2017* • Prenzlau • Deutschland
 
-
+![Prenzlau Marienkirche](https://api.bannergress.com/bnrs/pictures/570a69dff1498e3c55c99c9b6b73155b)
 
 ## Details
 - **Distance (km):** 4.94

@@ -3,7 +3,7 @@ nummer: "85"
 startLatitude: "48.36043"
 startLongitude: "10.903141"
 titel: "Augsburger Puppenkiste"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/9163e53b4b43358758c57fd17bd2724c"
 region: "Augsburg"
 country: "Deutschland"
 completed: "2208"
@@ -20,7 +20,7 @@ title: "Augsburger Puppenkiste"
 
 *2017* • Augsburg • Deutschland
 
-
+![Augsburger Puppenkiste](https://api.bannergress.com/bnrs/pictures/9163e53b4b43358758c57fd17bd2724c)
 
 ## Details
 - **Distance (km):** 4.39

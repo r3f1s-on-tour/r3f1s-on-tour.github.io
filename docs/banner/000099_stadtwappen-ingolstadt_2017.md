@@ -3,7 +3,7 @@ nummer: "99"
 startLatitude: "48.743869"
 startLongitude: "11.438011"
 titel: "Stadtwappen Ingolstadt"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/3c3c57c3a487dec99ad1d6cb2a55319a"
 region: "Ingolstadt"
 country: "Deutschland"
 completed: "2562"
@@ -20,7 +20,7 @@ title: "Stadtwappen Ingolstadt"
 
 *2017* • Ingolstadt • Deutschland
 
-
+![Stadtwappen Ingolstadt](https://api.bannergress.com/bnrs/pictures/3c3c57c3a487dec99ad1d6cb2a55319a)
 
 ## Details
 - **Distance (km):** 20.49

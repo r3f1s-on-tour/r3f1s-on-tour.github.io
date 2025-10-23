@@ -3,7 +3,7 @@ nummer: "89"
 startLatitude: "48.139775"
 startLongitude: "11.587126"
 titel: "Stress an der Isar"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/531b1b36d72737597317a1351402e6ce"
 region: "München"
 country: "Deutschland"
 completed: "2298"
@@ -20,7 +20,7 @@ title: "Stress an der Isar"
 
 *2017* • München • Deutschland
 
-
+![Stress an der Isar](https://api.bannergress.com/bnrs/pictures/531b1b36d72737597317a1351402e6ce)
 
 ## Details
 - **Distance (km):** 15.65

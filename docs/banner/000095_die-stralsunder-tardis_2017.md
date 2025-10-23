@@ -3,7 +3,7 @@ nummer: "95"
 startLatitude: "54.308521"
 startLongitude: "13.031108"
 titel: "Die Stralsunder Tardis"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/4514877a414406f85ec78584e9e3c01c"
 region: "Stralsund"
 country: "Deutschland"
 completed: "2454"
@@ -20,7 +20,7 @@ title: "Die Stralsunder Tardis"
 
 *2017* • Stralsund • Deutschland
 
-
+![Die Stralsunder Tardis](https://api.bannergress.com/bnrs/pictures/4514877a414406f85ec78584e9e3c01c)
 
 ## Details
 

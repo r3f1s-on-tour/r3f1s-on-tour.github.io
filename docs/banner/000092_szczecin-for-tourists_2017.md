@@ -3,7 +3,7 @@ nummer: "92"
 startLatitude: "53.430879"
 startLongitude: "14.564524"
 titel: "SZCZECIN for TOURISTS"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/71b7ce979e492ea14124ae18d54c1f9b"
 region: "Szczecin"
 country: "Polska"
 completed: "2376"
@@ -20,7 +20,7 @@ title: "SZCZECIN for TOURISTS"
 
 *2017* • Szczecin • Polska
 
-
+![SZCZECIN for TOURISTS](https://api.bannergress.com/bnrs/pictures/71b7ce979e492ea14124ae18d54c1f9b)
 
 ## Details
 - **Distance (km):** 1.63
