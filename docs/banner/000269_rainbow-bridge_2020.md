@@ -24,7 +24,7 @@ title: "Rainbow Bridge"
 
 ## Details
 - **Distance (km):** 2.53
-
+- **Missions in banner:** 12
 - **Total missions completed:** 6354
 - **This is my banner no.:** 269
 

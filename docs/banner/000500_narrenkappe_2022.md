@@ -24,7 +24,7 @@ title: "Narrenkappe"
 
 ## Details
 - **Distance (km):** 9.98
-
+- **Missions in banner:** 24
 - **Total missions completed:** 10.704
 - **This is my banner no.:** 500
 

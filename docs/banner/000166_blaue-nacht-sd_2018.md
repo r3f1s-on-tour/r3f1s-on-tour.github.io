@@ -24,7 +24,7 @@ title: "Blaue Nacht Süd"
 
 ## Details
 
-
+- **Missions in banner:** 36
 - **Total missions completed:** 4056
 - **This is my banner no.:** 166
 

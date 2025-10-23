@@ -24,7 +24,7 @@ title: "MissionDay Zürich"
 
 ## Details
 - **Distance (km):** 20.03
-
+- **Missions in banner:** 24
 - **Total missions completed:** 1344
 - **This is my banner no.:** 59
 

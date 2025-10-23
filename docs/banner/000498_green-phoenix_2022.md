@@ -24,7 +24,7 @@ title: "Green Phoenix"
 
 ## Details
 - **Distance (km):** 3.10
-
+- **Missions in banner:** 60
 - **Total missions completed:** 10.668
 - **This is my banner no.:** 498
 

@@ -24,7 +24,7 @@ title: "Vendetta in Oranienburg"
 
 ## Details
 - **Distance (km):** 13.97
-
+- **Missions in banner:** 30
 - **Total missions completed:** 7734
 - **This is my banner no.:** 341
 

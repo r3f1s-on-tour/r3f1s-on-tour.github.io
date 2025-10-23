@@ -24,7 +24,7 @@ title: "Neujahrs Runde durch Oranienburg"
 
 ## Details
 - **Distance (km):** 3.64
-
+- **Missions in banner:** 12
 - **Total missions completed:** 8274
 - **This is my banner no.:** 381
 

@@ -24,7 +24,7 @@ title: "BlueSunGarching"
 
 ## Details
 - **Distance (km):** 26.52
-
+- **Missions in banner:** 24
 - **Total missions completed:** 774
 - **This is my banner no.:** 37
 

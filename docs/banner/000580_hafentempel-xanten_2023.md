@@ -24,7 +24,7 @@ title: "Hafentempel Xanten"
 
 ## Details
 - **Distance (km):** 6.67
-
+- **Missions in banner:** 18
 - **Total missions completed:** 12.864
 - **This is my banner no.:** 580
 

@@ -24,7 +24,7 @@ title: "Unkown in Oranienburg"
 
 ## Details
 - **Distance (km):** 1.29
-
+- **Missions in banner:** 6
 - **Total missions completed:** 11.004
 - **This is my banner no.:** 521
 

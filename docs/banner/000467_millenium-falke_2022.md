@@ -24,7 +24,7 @@ title: "Millenium Falke"
 
 ## Details
 - **Distance (km):** 6.46
-
+- **Missions in banner:** 18
 - **Total missions completed:** 10.266
 - **This is my banner no.:** 467
 

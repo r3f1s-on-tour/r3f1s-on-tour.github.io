@@ -24,7 +24,7 @@ title: "Creepy Cupcakes in Oranienburg"
 
 ## Details
 - **Distance (km):** 1.60
-
+- **Missions in banner:** 6
 - **Total missions completed:** 10.410
 - **This is my banner no.:** 479
 

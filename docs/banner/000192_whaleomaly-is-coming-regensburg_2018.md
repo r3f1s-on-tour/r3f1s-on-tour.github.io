@@ -24,7 +24,7 @@ title: "Whaleomaly is Coming Regensburg"
 
 ## Details
 - **Distance (km):** 1.62
-
+- **Missions in banner:** 6
 - **Total missions completed:** 4572
 - **This is my banner no.:** 192
 

@@ -24,7 +24,7 @@ title: "Ausgewogene Ernährung in Augsburg"
 
 ## Details
 
-
+- **Missions in banner:** 24
 - **Total missions completed:** 2904
 - **This is my banner no.:** 119
 

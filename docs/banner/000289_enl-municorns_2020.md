@@ -24,7 +24,7 @@ title: "ENL Municorns"
 
 ## Details
 - **Distance (km):** 5.87
-
+- **Missions in banner:** 24
 - **Total missions completed:** 6732
 - **This is my banner no.:** 289
 

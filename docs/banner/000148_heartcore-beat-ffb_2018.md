@@ -24,7 +24,7 @@ title: "HeartCore Beat FFB"
 
 ## Details
 - **Distance (km):** 4.09
-
+- **Missions in banner:** 6
 - **Total missions completed:** 3582
 - **This is my banner no.:** 148
 

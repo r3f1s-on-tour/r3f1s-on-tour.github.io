@@ -24,7 +24,7 @@ title: "Enlightened Mission"
 
 ## Details
 - **Distance (km):** 5.13
-
+- **Missions in banner:** 6
 - **Total missions completed:** 12.624
 - **This is my banner no.:** 572
 

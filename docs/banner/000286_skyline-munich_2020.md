@@ -24,7 +24,7 @@ title: "Skyline Munich"
 
 ## Details
 - **Distance (km):** 1.45
-
+- **Missions in banner:** 6
 - **Total missions completed:** 6690
 - **This is my banner no.:** 286
 

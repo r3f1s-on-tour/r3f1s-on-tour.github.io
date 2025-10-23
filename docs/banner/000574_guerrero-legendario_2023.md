@@ -24,7 +24,7 @@ title: "Guerrero Legendario"
 
 ## Details
 - **Distance (km):** 18.34
-
+- **Missions in banner:** 72
 - **Total missions completed:** 12.702
 - **This is my banner no.:** 574
 

@@ -24,7 +24,7 @@ title: "Las Banderas"
 
 ## Details
 - **Distance (km):** 4.72
-
+- **Missions in banner:** 12
 - **Total missions completed:** 13.302
 - **This is my banner no.:** 606
 

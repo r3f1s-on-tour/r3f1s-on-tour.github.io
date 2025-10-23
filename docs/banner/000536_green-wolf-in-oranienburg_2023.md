@@ -24,7 +24,7 @@ title: "Green Wolf in Oranienburg"
 
 ## Details
 - **Distance (km):** 17.93
-
+- **Missions in banner:** 78
 - **Total missions completed:** 11.820
 - **This is my banner no.:** 536
 

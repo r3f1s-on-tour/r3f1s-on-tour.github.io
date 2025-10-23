@@ -24,7 +24,7 @@ title: "Berliner Funkturm"
 
 ## Details
 - **Distance (km):** 86.77
-
+- **Missions in banner:** 150
 - **Total missions completed:** 5964
 - **This is my banner no.:** 244
 

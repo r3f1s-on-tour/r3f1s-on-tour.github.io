@@ -24,7 +24,7 @@ title: "Frog Evolution in Oranienburg"
 
 ## Details
 - **Distance (km):** 1.64
-
+- **Missions in banner:** 6
 - **Total missions completed:** 7884
 - **This is my banner no.:** 352
 

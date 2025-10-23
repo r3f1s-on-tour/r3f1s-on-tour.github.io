@@ -24,7 +24,7 @@ title: "Second Sunday in Oranienburg"
 
 ## Details
 - **Distance (km):** 2.13
-
+- **Missions in banner:** 6
 - **Total missions completed:** 7704
 - **This is my banner no.:** 340
 

@@ -24,7 +24,7 @@ title: "Augsburger Puppenkiste"
 
 ## Details
 - **Distance (km):** 4.39
-
+- **Missions in banner:** 12
 - **Total missions completed:** 2208
 - **This is my banner no.:** 85
 

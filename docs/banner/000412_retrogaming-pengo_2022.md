@@ -24,7 +24,7 @@ title: "RetroGaming - Pengo"
 
 ## Details
 - **Distance (km):** 3.57
-
+- **Missions in banner:** 6
 - **Total missions completed:** 8.706
 - **This is my banner no.:** 412
 

@@ -24,7 +24,7 @@ title: "For the Empire Dresden"
 
 ## Details
 - **Distance (km):** 1.63
-
+- **Missions in banner:** 6
 - **Total missions completed:** 6090
 - **This is my banner no.:** 252
 

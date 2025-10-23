@@ -24,7 +24,7 @@ title: "Winter Friends"
 
 ## Details
 - **Distance (km):** 1.89
-
+- **Missions in banner:** 6
 - **Total missions completed:** 13.050
 - **This is my banner no.:** 589
 

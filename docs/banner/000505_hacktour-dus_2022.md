@@ -24,7 +24,7 @@ title: "Hacktour DUS"
 
 ## Details
 - **Distance (km):** 2.31
-
+- **Missions in banner:** 6
 - **Total missions completed:** 10.782
 - **This is my banner no.:** 505
 

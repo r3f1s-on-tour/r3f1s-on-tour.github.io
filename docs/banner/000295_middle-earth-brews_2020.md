@@ -24,7 +24,7 @@ title: "Middle Earth Brews"
 
 ## Details
 - **Distance (km):** 5.14
-
+- **Missions in banner:** 12
 - **Total missions completed:** 6846
 - **This is my banner no.:** 295
 

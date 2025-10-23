@@ -24,7 +24,7 @@ title: "The Toasting"
 
 ## Details
 - **Distance (km):** 1.60
-
+- **Missions in banner:** 6
 - **Total missions completed:** 8.496
 - **This is my banner no.:** 394
 

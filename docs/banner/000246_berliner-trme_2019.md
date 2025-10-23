@@ -24,7 +24,7 @@ title: "Berliner Türme"
 
 ## Details
 - **Distance (km):** 12.05
-
+- **Missions in banner:** 24
 - **Total missions completed:** 6012
 - **This is my banner no.:** 246
 

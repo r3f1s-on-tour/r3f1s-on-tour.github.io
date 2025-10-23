@@ -24,7 +24,7 @@ title: "Smoking Dark Side"
 
 ## Details
 - **Distance (km):** 7.26
-
+- **Missions in banner:** 18
 - **Total missions completed:** 6978
 - **This is my banner no.:** 299
 

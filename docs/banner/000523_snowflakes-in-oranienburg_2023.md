@@ -24,7 +24,7 @@ title: "Snowflakes in Oranienburg"
 
 ## Details
 - **Distance (km):** 17.70
-
+- **Missions in banner:** 66
 - **Total missions completed:** 11.076
 - **This is my banner no.:** 523
 

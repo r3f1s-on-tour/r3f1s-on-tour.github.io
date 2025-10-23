@@ -24,7 +24,7 @@ title: "Second Sunday - February 2022"
 
 ## Details
 - **Distance (km):** 1.60
-
+- **Missions in banner:** 6
 - **Total missions completed:** 8.508
 - **This is my banner no.:** 396
 

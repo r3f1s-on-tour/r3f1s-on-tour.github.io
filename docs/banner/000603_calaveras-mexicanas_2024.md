@@ -24,7 +24,7 @@ title: "CALAVERAS MEXICANAS"
 
 ## Details
 - **Distance (km):** 1.39
-
+- **Missions in banner:** 6
 - **Total missions completed:** 13.272
 - **This is my banner no.:** 603
 

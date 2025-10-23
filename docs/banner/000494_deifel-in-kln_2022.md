@@ -24,7 +24,7 @@ title: "Deifel in Köln"
 
 ## Details
 - **Distance (km):** 2.00
-
+- **Missions in banner:** 6
 - **Total missions completed:** 10.566
 - **This is my banner no.:** 494
 

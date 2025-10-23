@@ -24,7 +24,7 @@ title: "Bridge Runner"
 
 ## Details
 - **Distance (km):** 1.59
-
+- **Missions in banner:** 6
 - **Total missions completed:** 3132
 - **This is my banner no.:** 127
 

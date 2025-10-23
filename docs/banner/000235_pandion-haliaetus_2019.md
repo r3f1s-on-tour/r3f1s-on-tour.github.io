@@ -24,7 +24,7 @@ title: "Pandion haliaetus"
 
 ## Details
 - **Distance (km):** 8.90
-
+- **Missions in banner:** 12
 - **Total missions completed:** 5568
 - **This is my banner no.:** 235
 

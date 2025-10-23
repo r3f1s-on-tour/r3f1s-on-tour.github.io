@@ -24,7 +24,7 @@ title: "The Eye of the Eagle"
 
 ## Details
 - **Distance (km):** 5.81
-
+- **Missions in banner:** 18
 - **Total missions completed:** 4140
 - **This is my banner no.:** 171
 

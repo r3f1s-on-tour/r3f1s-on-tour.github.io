@@ -24,7 +24,7 @@ title: "MAGNUS Reawakens Szczecin"
 
 ## Details
 - **Distance (km):** 13.54
-
+- **Missions in banner:** 42
 - **Total missions completed:** 2418
 - **This is my banner no.:** 93
 

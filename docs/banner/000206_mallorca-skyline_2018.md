@@ -24,7 +24,7 @@ title: "Mallorca Skyline"
 
 ## Details
 - **Distance (km):** 1.75
-
+- **Missions in banner:** 6
 - **Total missions completed:** 4818
 - **This is my banner no.:** 206
 

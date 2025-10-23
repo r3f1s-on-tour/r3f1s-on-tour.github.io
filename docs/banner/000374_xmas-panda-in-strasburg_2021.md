@@ -24,7 +24,7 @@ title: "XMas Panda in Strasburg"
 
 ## Details
 - **Distance (km):** 2.73
-
+- **Missions in banner:** 6
 - **Total missions completed:** 8172
 - **This is my banner no.:** 374
 

@@ -24,7 +24,7 @@ title: "Ägyptisches Totengericht"
 
 ## Details
 - **Distance (km):** 6.28
-
+- **Missions in banner:** 18
 - **Total missions completed:** 10.482
 - **This is my banner no.:** 485
 

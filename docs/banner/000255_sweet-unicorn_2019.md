@@ -24,7 +24,7 @@ title: "Sweet Unicorn"
 
 ## Details
 
-
+- **Missions in banner:** 30
 - **Total missions completed:** 6156
 - **This is my banner no.:** 255
 

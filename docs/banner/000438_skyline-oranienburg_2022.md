@@ -24,7 +24,7 @@ title: "Skyline Oranienburg"
 
 ## Details
 - **Distance (km):** 2.88
-
+- **Missions in banner:** 12
 - **Total missions completed:** 9.126
 - **This is my banner no.:** 438
 

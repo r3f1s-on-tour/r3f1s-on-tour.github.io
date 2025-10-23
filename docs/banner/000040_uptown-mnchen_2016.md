@@ -24,7 +24,7 @@ title: "Uptown München"
 
 ## Details
 - **Distance (km):** 18.71
-
+- **Missions in banner:** 60
 - **Total missions completed:** 888
 - **This is my banner no.:** 40
 

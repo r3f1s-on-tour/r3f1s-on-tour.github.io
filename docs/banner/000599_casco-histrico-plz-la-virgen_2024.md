@@ -24,7 +24,7 @@ title: "Casco Histórico Plz. La Virgen"
 
 ## Details
 - **Distance (km):** 4.28
-
+- **Missions in banner:** 18
 - **Total missions completed:** 13.218
 - **This is my banner no.:** 599
 

@@ -24,7 +24,7 @@ title: "Happy Penguins"
 
 ## Details
 - **Distance (km):** 1.62
-
+- **Missions in banner:** 6
 - **Total missions completed:** 13.008
 - **This is my banner no.:** 585
 

@@ -24,7 +24,7 @@ title: "Beautiful Frogs Berlin"
 
 ## Details
 - **Distance (km):** 1.46
-
+- **Missions in banner:** 6
 - **Total missions completed:** 12.258
 - **This is my banner no.:** 552
 

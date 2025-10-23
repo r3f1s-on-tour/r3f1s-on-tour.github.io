@@ -24,7 +24,7 @@ title: "Northern Legends"
 
 ## Details
 - **Distance (km):** 1.26
-
+- **Missions in banner:** 6
 - **Total missions completed:** 10.488
 - **This is my banner no.:** 486
 

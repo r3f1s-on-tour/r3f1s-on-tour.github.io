@@ -24,7 +24,7 @@ title: "The Berlin Hoff Museum"
 
 ## Details
 - **Distance (km):** 1.51
-
+- **Missions in banner:** 6
 - **Total missions completed:** 6306
 - **This is my banner no.:** 265
 

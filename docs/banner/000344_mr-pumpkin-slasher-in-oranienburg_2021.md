@@ -24,7 +24,7 @@ title: "Mr Pumpkin Slasher in Oranienburg"
 
 ## Details
 - **Distance (km):** 6.06
-
+- **Missions in banner:** 18
 - **Total missions completed:** 7776
 - **This is my banner no.:** 344
 

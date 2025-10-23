@@ -24,7 +24,7 @@ title: "Green Fireworks in Oranienburg"
 
 ## Details
 - **Distance (km):** 5.70
-
+- **Missions in banner:** 18
 - **Total missions completed:** 11.100
 - **This is my banner no.:** 525
 

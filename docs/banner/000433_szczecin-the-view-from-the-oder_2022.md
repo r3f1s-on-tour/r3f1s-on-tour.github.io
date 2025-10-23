@@ -24,7 +24,7 @@ title: "Szczecin, the view from the Oder"
 
 ## Details
 - **Distance (km):** 3.57
-
+- **Missions in banner:** 6
 - **Total missions completed:** 9.024
 - **This is my banner no.:** 433
 

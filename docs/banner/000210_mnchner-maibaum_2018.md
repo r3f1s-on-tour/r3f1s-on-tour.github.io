@@ -24,7 +24,7 @@ title: "Münchner Maibaum"
 
 ## Details
 - **Distance (km):** 91.63
-
+- **Missions in banner:** 216
 - **Total missions completed:** 5112
 - **This is my banner no.:** 210
 

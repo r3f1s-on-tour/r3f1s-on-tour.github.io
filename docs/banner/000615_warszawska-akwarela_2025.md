@@ -24,7 +24,7 @@ title: "Warszawska akwarela"
 
 ## Details
 
-
+- **Missions in banner:** 12
 - **Total missions completed:** 13.452
 - **This is my banner no.:** 615
 

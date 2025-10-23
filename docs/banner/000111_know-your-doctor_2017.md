@@ -24,7 +24,7 @@ title: "Know Your Doctor"
 
 ## Details
 
-
+- **Missions in banner:** 12
 - **Total missions completed:** 2754
 - **This is my banner no.:** 111
 

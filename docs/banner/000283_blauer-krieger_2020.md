@@ -24,7 +24,7 @@ title: "Blauer Krieger"
 
 ## Details
 - **Distance (km):** 11.78
-
+- **Missions in banner:** 48
 - **Total missions completed:** 6576
 - **This is my banner no.:** 283
 

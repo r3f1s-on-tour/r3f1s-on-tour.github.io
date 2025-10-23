@@ -24,7 +24,7 @@ title: "Art walk 1 - Until death do us part"
 
 ## Details
 - **Distance (km):** 26.48
-
+- **Missions in banner:** 48
 - **Total missions completed:** 9.366
 - **This is my banner no.:** 452
 

@@ -24,7 +24,7 @@ title: "Second Sunday"
 
 ## Details
 - **Distance (km):** 2.13
-
+- **Missions in banner:** 6
 - **Total missions completed:** 11.964
 - **This is my banner no.:** 540
 

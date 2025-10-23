@@ -24,7 +24,7 @@ title: "Defeat the Hulk"
 
 ## Details
 - **Distance (km):** 1.62
-
+- **Missions in banner:** 6
 - **Total missions completed:** 4104
 - **This is my banner no.:** 169
 

@@ -24,7 +24,7 @@ title: "SZCZECIN for TOURISTS"
 
 ## Details
 - **Distance (km):** 1.63
-
+- **Missions in banner:** 6
 - **Total missions completed:** 2376
 - **This is my banner no.:** 92
 

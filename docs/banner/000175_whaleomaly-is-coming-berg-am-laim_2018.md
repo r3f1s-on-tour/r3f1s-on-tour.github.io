@@ -24,7 +24,7 @@ title: "Whaleomaly is Coming [Berg am Laim]"
 
 ## Details
 
-
+- **Missions in banner:** 6
 - **Total missions completed:** 4188
 - **This is my banner no.:** 175
 

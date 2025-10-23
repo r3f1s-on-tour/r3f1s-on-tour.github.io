@@ -24,7 +24,7 @@ title: "Second Sunday April Humann-Kiez"
 
 ## Details
 - **Distance (km):** 1.66
-
+- **Missions in banner:** 6
 - **Total missions completed:** 9.132
 - **This is my banner no.:** 439
 

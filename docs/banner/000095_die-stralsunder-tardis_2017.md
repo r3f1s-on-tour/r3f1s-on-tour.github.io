@@ -24,7 +24,7 @@ title: "Die Stralsunder Tardis"
 
 ## Details
 
-
+- **Missions in banner:** 24
 - **Total missions completed:** 2454
 - **This is my banner no.:** 95
 

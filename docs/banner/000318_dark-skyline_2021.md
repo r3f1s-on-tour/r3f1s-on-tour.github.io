@@ -24,7 +24,7 @@ title: "Dark Skyline"
 
 ## Details
 - **Distance (km):** 1.81
-
+- **Missions in banner:** 6
 - **Total missions completed:** 7386
 - **This is my banner no.:** 318
 

@@ -24,7 +24,7 @@ title: "Antiquarium München"
 
 ## Details
 - **Distance (km):** 8.23
-
+- **Missions in banner:** 24
 - **Total missions completed:** 930
 - **This is my banner no.:** 42
 

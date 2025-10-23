@@ -24,7 +24,7 @@ title: "Frog in Neubrandenburg"
 
 ## Details
 - **Distance (km):** 3.01
-
+- **Missions in banner:** 36
 - **Total missions completed:** 12.036
 - **This is my banner no.:** 544
 

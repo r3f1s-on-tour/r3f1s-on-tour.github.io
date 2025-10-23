@@ -24,7 +24,7 @@ title: "Hallow Pumpkin Neubrandenburg"
 
 ## Details
 - **Distance (km):** 8.52
-
+- **Missions in banner:** 18
 - **Total missions completed:** 7566
 - **This is my banner no.:** 330
 

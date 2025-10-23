@@ -24,7 +24,7 @@ title: "Toast Run Part 3"
 
 ## Details
 - **Distance (km):** 6.88
-
+- **Missions in banner:** 24
 - **Total missions completed:** 8.460
 - **This is my banner no.:** 392
 

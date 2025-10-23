@@ -24,7 +24,7 @@ title: "Erobere Woldegk"
 
 ## Details
 
-
+- **Missions in banner:** 18
 - **Total missions completed:** 378
 - **This is my banner no.:** 22
 

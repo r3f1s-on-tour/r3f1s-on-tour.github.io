@@ -24,7 +24,7 @@ title: "Chagall Window yellow"
 
 ## Details
 - **Distance (km):** 1.20
-
+- **Missions in banner:** 6
 - **Total missions completed:** 1356
 - **This is my banner no.:** 61
 

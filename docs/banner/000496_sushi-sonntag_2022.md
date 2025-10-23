@@ -24,7 +24,7 @@ title: "Sushi Sonntag"
 
 ## Details
 - **Distance (km):** 3.28
-
+- **Missions in banner:** 12
 - **Total missions completed:** 10.602
 - **This is my banner no.:** 496
 

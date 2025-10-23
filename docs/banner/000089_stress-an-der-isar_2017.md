@@ -24,7 +24,7 @@ title: "Stress an der Isar"
 
 ## Details
 - **Distance (km):** 15.65
-
+- **Missions in banner:** 36
 - **Total missions completed:** 2298
 - **This is my banner no.:** 89
 

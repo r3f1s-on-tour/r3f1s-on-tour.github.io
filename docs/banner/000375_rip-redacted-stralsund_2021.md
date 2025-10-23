@@ -24,7 +24,7 @@ title: "rip redacted - stralsund"
 
 ## Details
 - **Distance (km):** 5.66
-
+- **Missions in banner:** 18
 - **Total missions completed:** 8190
 - **This is my banner no.:** 375
 

@@ -24,7 +24,7 @@ title: "Zeiss-Großplanetarium"
 
 ## Details
 
-
+- **Missions in banner:** 18
 - **Total missions completed:** 6276
 - **This is my banner no.:** 262
 

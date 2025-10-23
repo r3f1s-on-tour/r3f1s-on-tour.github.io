@@ -24,7 +24,7 @@ title: "Brauereien Prenzlauer Berg"
 
 ## Details
 - **Distance (km):** 7.29
-
+- **Missions in banner:** 12
 - **Total missions completed:** 6744
 - **This is my banner no.:** 290
 

@@ -24,7 +24,7 @@ title: "Eine Woche voller Kuchen"
 
 ## Details
 
-
+- **Missions in banner:** 36
 - **Total missions completed:** 3024
 - **This is my banner no.:** 123
 

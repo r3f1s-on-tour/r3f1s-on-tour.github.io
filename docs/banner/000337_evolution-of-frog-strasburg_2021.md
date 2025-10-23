@@ -24,7 +24,7 @@ title: "Evolution of Frog - Strasburg"
 
 ## Details
 - **Distance (km):** 3.17
-
+- **Missions in banner:** 6
 - **Total missions completed:** 7662
 - **This is my banner no.:** 337
 

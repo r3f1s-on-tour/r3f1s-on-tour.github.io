@@ -24,7 +24,7 @@ title: "Banksy - Stop and Search"
 
 ## Details
 - **Distance (km):** 6.99
-
+- **Missions in banner:** 24
 - **Total missions completed:** 10.968
 - **This is my banner no.:** 515
 

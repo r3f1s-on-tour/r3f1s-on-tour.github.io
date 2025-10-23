@@ -24,7 +24,7 @@ title: "Rammbock in Oranienburg"
 
 ## Details
 - **Distance (km):** 1.60
-
+- **Missions in banner:** 6
 - **Total missions completed:** 10.434
 - **This is my banner no.:** 483
 

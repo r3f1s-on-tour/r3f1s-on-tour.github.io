@@ -24,7 +24,7 @@ title: "EXO5 Berlin Resistance Victory"
 
 ## Details
 - **Distance (km):** 2.29
-
+- **Missions in banner:** 6
 - **Total missions completed:** 8.412
 - **This is my banner no.:** 390
 

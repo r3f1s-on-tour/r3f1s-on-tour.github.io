@@ -24,7 +24,7 @@ title: "Wale auch in Altötting"
 
 ## Details
 
-
+- **Missions in banner:** 6
 - **Total missions completed:** 4578
 - **This is my banner no.:** 193
 

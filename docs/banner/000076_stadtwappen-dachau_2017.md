@@ -24,7 +24,7 @@ title: "Stadtwappen Dachau"
 
 ## Details
 - **Distance (km):** 11.39
-
+- **Missions in banner:** 24
 - **Total missions completed:** 2070
 - **This is my banner no.:** 76
 

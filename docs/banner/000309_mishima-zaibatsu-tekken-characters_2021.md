@@ -24,7 +24,7 @@ title: "Mishima Zaibatsu - Tekken Characters"
 
 ## Details
 - **Distance (km):** 3.63
-
+- **Missions in banner:** 12
 - **Total missions completed:** 7254
 - **This is my banner no.:** 309
 

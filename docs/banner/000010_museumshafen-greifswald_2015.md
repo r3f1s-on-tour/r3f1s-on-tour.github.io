@@ -24,7 +24,7 @@ title: "Museumshafen Greifswald"
 
 ## Details
 - **Distance (km):** 5.93
-
+- **Missions in banner:** 18
 - **Total missions completed:** 216
 - **This is my banner no.:** 10
 

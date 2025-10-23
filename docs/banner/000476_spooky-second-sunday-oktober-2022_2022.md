@@ -24,7 +24,7 @@ title: "Spooky Second Sunday - Oktober 2022"
 
 ## Details
 - **Distance (km):** 1.60
-
+- **Missions in banner:** 6
 - **Total missions completed:** 10.374
 - **This is my banner no.:** 476
 

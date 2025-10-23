@@ -24,7 +24,7 @@ title: "Bavaria München"
 
 ## Details
 - **Distance (km):** 9.69
-
+- **Missions in banner:** 24
 - **Total missions completed:** 1050
 - **This is my banner no.:** 46
 

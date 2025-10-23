@@ -24,7 +24,7 @@ title: "8000 SpecOps Runde durch Strasburg"
 
 ## Details
 - **Distance (km):** 2.79
-
+- **Missions in banner:** 6
 - **Total missions completed:** 8004
 - **This is my banner no.:** 363
 

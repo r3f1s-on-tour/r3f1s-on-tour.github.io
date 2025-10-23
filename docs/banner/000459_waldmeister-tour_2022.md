@@ -24,7 +24,7 @@ title: "Waldmeister Tour"
 
 ## Details
 - **Distance (km):** 10.25
-
+- **Missions in banner:** 24
 - **Total missions completed:** 9.510
 - **This is my banner no.:** 459
 

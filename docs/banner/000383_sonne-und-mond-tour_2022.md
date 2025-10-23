@@ -24,7 +24,7 @@ title: "Sonne und Mond Tour"
 
 ## Details
 - **Distance (km):** 8.89
-
+- **Missions in banner:** 18
 - **Total missions completed:** 8298
 - **This is my banner no.:** 383
 

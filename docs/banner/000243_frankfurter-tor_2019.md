@@ -24,7 +24,7 @@ title: "Frankfurter Tor"
 
 ## Details
 - **Distance (km):** 4.15
-
+- **Missions in banner:** 12
 - **Total missions completed:** 5814
 - **This is my banner no.:** 243
 

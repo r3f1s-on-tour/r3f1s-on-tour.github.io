@@ -24,7 +24,7 @@ title: "Bötzows Caticorn"
 
 ## Details
 - **Distance (km):** 7.65
-
+- **Missions in banner:** 42
 - **Total missions completed:** 6426
 - **This is my banner no.:** 273
 

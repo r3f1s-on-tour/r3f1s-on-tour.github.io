@@ -24,7 +24,7 @@ title: "I want to be a pirate!"
 
 ## Details
 - **Distance (km):** 6.60
-
+- **Missions in banner:** 12
 - **Total missions completed:** 4668
 - **This is my banner no.:** 199
 

@@ -24,7 +24,7 @@ title: "Weihnachten am Chinesischen Turm"
 
 ## Details
 - **Distance (km):** 5.54
-
+- **Missions in banner:** 24
 - **Total missions completed:** 1164
 - **This is my banner no.:** 50
 

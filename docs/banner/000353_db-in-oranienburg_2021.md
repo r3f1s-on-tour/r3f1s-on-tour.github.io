@@ -24,7 +24,7 @@ title: "DB in Oranienburg"
 
 ## Details
 - **Distance (km):** 6.05
-
+- **Missions in banner:** 18
 - **Total missions completed:** 7902
 - **This is my banner no.:** 353
 

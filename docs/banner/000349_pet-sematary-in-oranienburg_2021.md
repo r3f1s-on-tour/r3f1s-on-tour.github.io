@@ -24,7 +24,7 @@ title: "Pet Sematary in Oranienburg"
 
 ## Details
 - **Distance (km):** 6.05
-
+- **Missions in banner:** 18
 - **Total missions completed:** 7842
 - **This is my banner no.:** 349
 

@@ -24,7 +24,7 @@ title: "Regensburg Donaupanorama"
 
 ## Details
 - **Distance (km):** 8.61
-
+- **Missions in banner:** 24
 - **Total missions completed:** 2652
 - **This is my banner no.:** 103
 

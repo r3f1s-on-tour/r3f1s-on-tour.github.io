@@ -24,7 +24,7 @@ title: "Ohara Koson Birds"
 
 ## Details
 - **Distance (km):** 5.76
-
+- **Missions in banner:** 96
 - **Total missions completed:** 12.360
 - **This is my banner no.:** 554
 

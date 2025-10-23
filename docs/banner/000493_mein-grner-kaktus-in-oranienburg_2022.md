@@ -24,7 +24,7 @@ title: "Mein grüner Kaktus in Oranienburg"
 
 ## Details
 - **Distance (km):** 8.00
-
+- **Missions in banner:** 18
 - **Total missions completed:** 10.560
 - **This is my banner no.:** 493
 

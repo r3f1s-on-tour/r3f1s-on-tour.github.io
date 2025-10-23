@@ -24,7 +24,7 @@ title: "Augsburger Dom"
 
 ## Details
 
-
+- **Missions in banner:** 30
 - **Total missions completed:** 3720
 - **This is my banner no.:** 152
 

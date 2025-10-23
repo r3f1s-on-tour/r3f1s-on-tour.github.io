@@ -24,7 +24,7 @@ title: "Blaue Nacht Ost"
 
 ## Details
 
-
+- **Missions in banner:** 36
 - **Total missions completed:** 3984
 - **This is my banner no.:** 164
 
