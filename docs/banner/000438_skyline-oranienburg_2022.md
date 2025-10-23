@@ -3,7 +3,7 @@ nummer: "438"
 startLatitude: "52,756783"
 startLongitude: "13,24643"
 titel: "Skyline Oranienburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/e6f9a3278abcc41a820d1a2fadbbd15c"
 region: "Oranienburg"
 country: "Deutschland"
 completed: "9.126"
@@ -20,7 +20,7 @@ title: "Skyline Oranienburg"
 
 *2022* • Oranienburg • Deutschland
 
-
+![Skyline Oranienburg](https://api.bannergress.com/bnrs/pictures/e6f9a3278abcc41a820d1a2fadbbd15c)
 
 ## Details
 - **Distance (km):** 2.88

@@ -3,7 +3,7 @@ nummer: "433"
 startLatitude: "53,43104"
 startLongitude: "14,561959"
 titel: "Szczecin, the view from the Oder"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/1137e673cfebf27eeb9465f2754c7780"
 region: "Szczecin"
 country: "Polska"
 completed: "9.024"
@@ -20,7 +20,7 @@ title: "Szczecin, the view from the Oder"
 
 *2022* • Szczecin • Polska
 
-
+![Szczecin, the view from the Oder](https://api.bannergress.com/bnrs/pictures/1137e673cfebf27eeb9465f2754c7780)
 
 ## Details
 - **Distance (km):** 3.57

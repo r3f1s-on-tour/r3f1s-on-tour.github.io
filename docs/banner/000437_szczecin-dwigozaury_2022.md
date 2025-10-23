@@ -3,7 +3,7 @@ nummer: "437"
 startLatitude: "53,43814"
 startLongitude: "14,542281"
 titel: "Szczecin Dźwigozaury"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/db05b13ee6a46ff5ec7d822b6747bb6c"
 region: "Szczecin"
 country: "Polska"
 completed: "9.114"
@@ -20,7 +20,7 @@ title: "Szczecin Dźwigozaury"
 
 *2022* • Szczecin • Polska
 
-
+![Szczecin Dźwigozaury](https://api.bannergress.com/bnrs/pictures/db05b13ee6a46ff5ec7d822b6747bb6c)
 
 ## Details
 - **Distance (km):** 4.64

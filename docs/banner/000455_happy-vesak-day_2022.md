@@ -3,7 +3,7 @@ nummer: "455"
 startLatitude: "52,504773"
 startLongitude: "13,303612"
 titel: "Happy Vesak Day"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/f14543f09d76f408e034faac2f60f883"
 region: "Berlin"
 country: "Deutschland"
 completed: "9.426"
@@ -20,7 +20,7 @@ title: "Happy Vesak Day"
 
 *2022* • Berlin • Deutschland
 
-
+![Happy Vesak Day](https://api.bannergress.com/bnrs/pictures/f14543f09d76f408e034faac2f60f883)
 
 ## Details
 - **Distance (km):** 5.59

@@ -3,7 +3,7 @@ nummer: "432"
 startLatitude: "53,42492"
 startLongitude: "14,550643"
 titel: "Szczecińska akwarela"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/4eebef126b4231b26f9236dd22138217"
 region: "Szczecin"
 country: "Polska"
 completed: "9.018"
@@ -20,7 +20,7 @@ title: "Szczecińska akwarela"
 
 *2022* • Szczecin • Polska
 
-
+![Szczecińska akwarela](https://api.bannergress.com/bnrs/pictures/4eebef126b4231b26f9236dd22138217)
 
 ## Details
 - **Distance (km):** 8.59

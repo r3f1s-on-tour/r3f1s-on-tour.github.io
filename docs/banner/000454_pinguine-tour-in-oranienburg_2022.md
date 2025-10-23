@@ -3,7 +3,7 @@ nummer: "454"
 startLatitude: "52,756192"
 startLongitude: "13,243981"
 titel: "Pinguine Tour in Oranienburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/06ac4988be9db2ac9d99fc406b6ef275"
 region: "Oranienburg"
 country: "Deutschland"
 completed: "9.408"
@@ -20,7 +20,7 @@ title: "Pinguine Tour in Oranienburg"
 
 *2022* • Oranienburg • Deutschland
 
-
+![Pinguine Tour in Oranienburg](https://api.bannergress.com/bnrs/pictures/06ac4988be9db2ac9d99fc406b6ef275)
 
 ## Details
 - **Distance (km):** 8.57

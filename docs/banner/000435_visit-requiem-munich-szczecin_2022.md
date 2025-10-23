@@ -3,7 +3,7 @@ nummer: "435"
 startLatitude: "53,431731"
 startLongitude: "14,566931"
 titel: "Visit Requiem Munich - Szczecin"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/2ea1dfa09712f37892b7617d14ea3b91"
 region: "Szczecin"
 country: "Polska"
 completed: "9.078"
@@ -20,7 +20,7 @@ title: "Visit Requiem Munich - Szczecin"
 
 *2022* • Szczecin • Polska
 
-
+![Visit Requiem Munich - Szczecin](https://api.bannergress.com/bnrs/pictures/2ea1dfa09712f37892b7617d14ea3b91)
 
 ## Details
 - **Distance (km):** 1.31

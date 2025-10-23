@@ -3,7 +3,7 @@ nummer: "452"
 startLatitude: "52,525963"
 startLongitude: "13,368787"
 titel: "Art walk 1 - Until death do us part"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/5df971042fa652a677f4b45579f2b79e"
 region: "Berlin"
 country: "Deutschland"
 completed: "9.366"
@@ -20,7 +20,7 @@ title: "Art walk 1 - Until death do us part"
 
 *2022* • Berlin • Deutschland
 
-
+![Art walk 1 - Until death do us part](https://api.bannergress.com/bnrs/pictures/5df971042fa652a677f4b45579f2b79e)
 
 ## Details
 - **Distance (km):** 26.48

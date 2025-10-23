@@ -3,7 +3,7 @@ nummer: "439"
 startLatitude: "52,549185"
 startLongitude: "13,414034"
 titel: "Second Sunday April Humann-Kiez"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/bfd00140d1f5bf400b4f37055e4574da"
 region: "Berlin"
 country: "Deutschland"
 completed: "9.132"
@@ -20,7 +20,7 @@ title: "Second Sunday April Humann-Kiez"
 
 *2022* • Berlin • Deutschland
 
-
+![Second Sunday April Humann-Kiez](https://api.bannergress.com/bnrs/pictures/bfd00140d1f5bf400b4f37055e4574da)
 
 ## Details
 - **Distance (km):** 1.66
