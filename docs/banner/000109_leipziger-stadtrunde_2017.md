@@ -23,7 +23,7 @@ name: "Leipziger Stadtrunde"
 ---
 # Leipziger Stadtrunde
 
-*2017* • {{__REGION__}} • Deutschland
+*2017* • {{__region__}} • Deutschland
 
 ![Leipziger Stadtrunde](https://api.bannergress.com/bnrs/pictures/23c0dadd75534ac3ba400e4b74232da4)
 

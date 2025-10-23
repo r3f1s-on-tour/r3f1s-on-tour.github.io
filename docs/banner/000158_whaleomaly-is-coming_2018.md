@@ -23,7 +23,7 @@ name: "Whaleomaly is Coming"
 ---
 # Whaleomaly is Coming
 
-*2018* • {{__REGION__}} • Deutschland
+*2018* • {{__region__}} • Deutschland
 
 ![Whaleomaly is Coming](https://api.bannergress.com/bnrs/pictures/81dcc992a4dee7dc4e1e7088c1719b8c)
 

@@ -23,7 +23,7 @@ name: "Heppenheimer Mosaik"
 ---
 # Heppenheimer Mosaik
 
-*2018* • {{__REGION__}} • Deutschland
+*2018* • {{__region__}} • Deutschland
 
 ![Heppenheimer Mosaik](https://api.bannergress.com/bnrs/pictures/f0d8444b98b8e0c2271c6a92ea9ba1e6)
 

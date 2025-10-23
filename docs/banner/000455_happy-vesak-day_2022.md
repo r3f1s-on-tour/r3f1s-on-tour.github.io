@@ -23,7 +23,7 @@ name: "Happy Vesak Day"
 ---
 # Happy Vesak Day
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![Happy Vesak Day](https://api.bannergress.com/bnrs/pictures/f14543f09d76f408e034faac2f60f883)
 

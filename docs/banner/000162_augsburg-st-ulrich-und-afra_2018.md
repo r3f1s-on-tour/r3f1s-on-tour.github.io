@@ -23,7 +23,7 @@ name: "Augsburg St Ulrich und Afra"
 ---
 # Augsburg St Ulrich und Afra
 
-*2018* • {{__REGION__}} • Deutschland
+*2018* • {{__region__}} • Deutschland
 
 ![Augsburg St Ulrich und Afra](https://api.bannergress.com/bnrs/pictures/3cc02851b99e2a86bcf406a7e6bc63bd)
 

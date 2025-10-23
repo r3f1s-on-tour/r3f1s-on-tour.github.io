@@ -23,7 +23,7 @@ name: "Halloween in G zell"
 ---
 # Halloween in G zell
 
-*2017* • {{__REGION__}} • Deutschland
+*2017* • {{__region__}} • Deutschland
 
 
 

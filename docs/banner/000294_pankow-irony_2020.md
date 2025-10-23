@@ -23,7 +23,7 @@ name: "Pankow Irony"
 ---
 # Pankow Irony
 
-*2020* • {{__REGION__}} • Deutschland
+*2020* • {{__region__}} • Deutschland
 
 ![Pankow Irony](https://api.bannergress.com/bnrs/pictures/11a98eea02557e9b3dba0cb5e73d42d3)
 

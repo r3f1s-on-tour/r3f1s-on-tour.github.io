@@ -23,7 +23,7 @@ name: "Year of the Ox 2021 - Neubrandenburg"
 ---
 # Year of the Ox 2021 - Neubrandenburg
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![Year of the Ox 2021 - Neubrandenburg](https://api.bannergress.com/bnrs/pictures/3812df1c157057d07f439864da635a6e)
 

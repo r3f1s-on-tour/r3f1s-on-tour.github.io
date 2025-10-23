@@ -23,7 +23,7 @@ name: "Schlossplatz Panorama"
 ---
 # Schlossplatz Panorama
 
-*2021* • {{__REGION__}} • Deutschland
+*2021* • {{__region__}} • Deutschland
 
 
 

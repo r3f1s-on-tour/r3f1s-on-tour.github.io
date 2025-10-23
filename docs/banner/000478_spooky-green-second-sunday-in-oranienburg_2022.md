@@ -23,7 +23,7 @@ name: "Spooky Green Second Sunday in Oranienburg"
 ---
 # Spooky Green Second Sunday in Oranienburg
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![Spooky Green Second Sunday in Oranienburg](https://api.bannergress.com/bnrs/pictures/c1ef445c8b0500080461fd3e9f2fa09d)
 

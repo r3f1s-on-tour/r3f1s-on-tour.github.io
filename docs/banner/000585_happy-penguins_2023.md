@@ -23,7 +23,7 @@ name: "Happy Penguins"
 ---
 # Happy Penguins
 
-*2023* • {{__REGION__}} • Deutschland
+*2023* • {{__region__}} • Deutschland
 
 ![Happy Penguins](https://api.bannergress.com/bnrs/pictures/d8b662243150fb4deb9d1b4b29fd8f61)
 

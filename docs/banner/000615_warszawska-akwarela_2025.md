@@ -23,7 +23,7 @@ name: "Warszawska akwarela"
 ---
 # Warszawska akwarela
 
-*2025* • {{__REGION__}} • Polska
+*2025* • {{__region__}} • Polska
 
 ![Warszawska akwarela](https://api.bannergress.com/bnrs/pictures/abbc5fb6e3bb5ec11ded7cf9b51c22aa)
 

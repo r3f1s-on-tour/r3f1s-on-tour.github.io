@@ -23,7 +23,7 @@ name: "Hunting ground Wandsbek Markt"
 ---
 # Hunting ground Wandsbek Markt
 
-*2016* • {{__REGION__}} • Deutschland
+*2016* • {{__region__}} • Deutschland
 
 ![Hunting ground Wandsbek Markt](https://api.bannergress.com/bnrs/pictures/4a9916708f283ca0625a1546dbcf5d55)
 

@@ -23,7 +23,7 @@ name: "Tiger of the Year"
 ---
 # Tiger of the Year
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![Tiger of the Year](https://api.bannergress.com/bnrs/pictures/9bd1375fe6da4e7f9eed0602da68c097)
 

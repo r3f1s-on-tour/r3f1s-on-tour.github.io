@@ -23,7 +23,7 @@ name: "ENL Municorns"
 ---
 # ENL Municorns
 
-*2020* • {{__REGION__}} • Deutschland
+*2020* • {{__region__}} • Deutschland
 
 ![ENL Municorns](https://api.bannergress.com/bnrs/pictures/65d106e170698f784a1c3315804b405b)
 

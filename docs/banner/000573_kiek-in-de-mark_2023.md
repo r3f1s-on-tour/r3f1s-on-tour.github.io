@@ -23,7 +23,7 @@ name: "Kiek in de Mark"
 ---
 # Kiek in de Mark
 
-*2023* • {{__REGION__}} • Deutschland
+*2023* • {{__region__}} • Deutschland
 
 ![Kiek in de Mark](https://api.bannergress.com/bnrs/pictures/e075ccd90e335eba835d0a349672f3d1)
 

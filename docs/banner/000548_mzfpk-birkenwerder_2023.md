@@ -23,7 +23,7 @@ name: "MZFPK-Birkenwerder"
 ---
 # MZFPK-Birkenwerder
 
-*2023* • {{__REGION__}} • Deutschland
+*2023* • {{__region__}} • Deutschland
 
 ![MZFPK-Birkenwerder](https://api.bannergress.com/bnrs/pictures/8965839e7973fe31f6de0b7f9ce72fe5)
 

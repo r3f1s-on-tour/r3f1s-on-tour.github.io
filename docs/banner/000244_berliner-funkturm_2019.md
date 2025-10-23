@@ -23,7 +23,7 @@ name: "Berliner Funkturm"
 ---
 # Berliner Funkturm
 
-*2019* • {{__REGION__}} • Deutschland
+*2019* • {{__region__}} • Deutschland
 
 ![Berliner Funkturm](https://api.bannergress.com/bnrs/pictures/e5bdca79ae49d548bcbd328e0c16509e)
 

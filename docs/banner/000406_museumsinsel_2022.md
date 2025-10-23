@@ -23,7 +23,7 @@ name: "Museumsinsel"
 ---
 # Museumsinsel
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![Museumsinsel](https://api.bannergress.com/bnrs/pictures/88655916b24278a55bf419bcf1de2187)
 

@@ -23,7 +23,7 @@ name: "RetroGaming - Donkey Kong"
 ---
 # RetroGaming - Donkey Kong
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![RetroGaming - Donkey Kong](https://api.bannergress.com/bnrs/pictures/4d509c2bf3d08a37ad81607ee16cd2ce)
 

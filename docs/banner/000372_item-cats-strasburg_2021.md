@@ -23,7 +23,7 @@ name: "Item Cats Strasburg"
 ---
 # Item Cats Strasburg
 
-*2021* • {{__REGION__}} • Deutschland
+*2021* • {{__region__}} • Deutschland
 
 
 

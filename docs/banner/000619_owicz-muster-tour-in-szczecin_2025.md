@@ -23,7 +23,7 @@ name: "Łowicz-Muster Tour in Szczecin"
 ---
 # Łowicz-Muster Tour in Szczecin
 
-*2025* • {{__REGION__}} • Polska
+*2025* • {{__region__}} • Polska
 
 ![Łowicz-Muster Tour in Szczecin](https://api.bannergress.com/bnrs/pictures/20d5ac49d45afb2407fdb2b5f81576b0)
 

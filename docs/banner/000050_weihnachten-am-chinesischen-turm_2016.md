@@ -23,7 +23,7 @@ name: "Weihnachten am Chinesischen Turm"
 ---
 # Weihnachten am Chinesischen Turm
 
-*2016* • {{__REGION__}} • Deutschland
+*2016* • {{__region__}} • Deutschland
 
 ![Weihnachten am Chinesischen Turm](https://api.bannergress.com/bnrs/pictures/4b5ea303a04b6c745ca69d622a2b195f)
 

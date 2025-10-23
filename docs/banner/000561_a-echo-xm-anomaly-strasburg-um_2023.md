@@ -23,7 +23,7 @@ name: "A Echo XM Anomaly Strasburg UM"
 ---
 # A Echo XM Anomaly Strasburg UM
 
-*2023* • {{__REGION__}} • Deutschland
+*2023* • {{__region__}} • Deutschland
 
 ![A Echo XM Anomaly Strasburg UM](https://api.bannergress.com/bnrs/pictures/968776cd4d5c13635cc58353173c3808)
 

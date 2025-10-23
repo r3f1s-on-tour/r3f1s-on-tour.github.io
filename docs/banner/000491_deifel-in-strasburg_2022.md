@@ -23,7 +23,7 @@ name: "Deifel in Strasburg"
 ---
 # Deifel in Strasburg
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 
 

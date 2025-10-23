@@ -23,7 +23,7 @@ name: "Hafentempel Xanten"
 ---
 # Hafentempel Xanten
 
-*2023* • {{__REGION__}} • Deutschland
+*2023* • {{__region__}} • Deutschland
 
 ![Hafentempel Xanten](https://api.bannergress.com/bnrs/pictures/31f13a6f1f7a3c3efa65aaf090a76874)
 

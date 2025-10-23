@@ -23,7 +23,7 @@ name: "Clockwork Orange"
 ---
 # Clockwork Orange
 
-*2021* • {{__REGION__}} • Deutschland
+*2021* • {{__region__}} • Deutschland
 
 ![Clockwork Orange](https://api.bannergress.com/bnrs/pictures/ea21d8c73e12d4a9b3dd10bc41a77166)
 

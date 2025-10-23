@@ -23,7 +23,7 @@ name: "The Toasting"
 ---
 # The Toasting
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![The Toasting](https://api.bannergress.com/bnrs/pictures/3940ec3067c0e815a31b686f4b1ba8e8)
 

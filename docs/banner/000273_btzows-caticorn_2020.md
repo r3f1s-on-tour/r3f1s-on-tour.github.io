@@ -23,7 +23,7 @@ name: "Bötzows Caticorn"
 ---
 # Bötzows Caticorn
 
-*2020* • {{__REGION__}} • Deutschland
+*2020* • {{__region__}} • Deutschland
 
 ![Bötzows Caticorn](https://api.bannergress.com/bnrs/pictures/9fa509e5426ba652665d5010c1df41e3)
 

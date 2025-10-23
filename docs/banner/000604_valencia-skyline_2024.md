@@ -23,7 +23,7 @@ name: "Valencia Skyline"
 ---
 # Valencia Skyline
 
-*2024* • {{__REGION__}} • España
+*2024* • {{__region__}} • España
 
 ![Valencia Skyline](https://api.bannergress.com/bnrs/pictures/b575cef9c16f79e0b3d1fcb32ac87cf0)
 

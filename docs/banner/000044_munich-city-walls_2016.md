@@ -23,7 +23,7 @@ name: "Munich city walls"
 ---
 # Munich city walls
 
-*2016* • {{__REGION__}} • Deutschland
+*2016* • {{__region__}} • Deutschland
 
 ![Munich city walls](https://api.bannergress.com/bnrs/pictures/32a35f14acc45a1c3470909a31431e93)
 

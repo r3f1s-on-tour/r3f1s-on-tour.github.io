@@ -23,7 +23,7 @@ name: "Rostocker Flagge"
 ---
 # Rostocker Flagge
 
-*2015* • {{__REGION__}} • Deutschland
+*2015* • {{__region__}} • Deutschland
 
 ![Rostocker Flagge](https://lh3.googleusercontent.com/pw/AP1GczNZfmWJMlnG4IgP3QqtGnTgM4sx0qr9gu6y91N6J9zXIHbc3TdoB2ZleBNZ6HAPN43hoZFSr1m308E1sJP_NLIInCJy7p9q-dTx0TNiId-X9OsJnubD1ZRioYCEF7Hu1m7U9PtdyKV3uZQKAa17q2qQYQ)
 

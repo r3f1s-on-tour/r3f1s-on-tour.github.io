@@ -23,7 +23,7 @@ name: "Stammstrecke München"
 ---
 # Stammstrecke München
 
-*2018* • {{__REGION__}} • Deutschland
+*2018* • {{__region__}} • Deutschland
 
 ![Stammstrecke München](https://api.bannergress.com/bnrs/pictures/a79aadf92efd27e31e9091eebee114de)
 

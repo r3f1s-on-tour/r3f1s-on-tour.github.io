@@ -23,7 +23,7 @@ name: "Auf den Spuren des Wasabi"
 ---
 # Auf den Spuren des Wasabi
 
-*2021* • {{__REGION__}} • Deutschland
+*2021* • {{__region__}} • Deutschland
 
 
 

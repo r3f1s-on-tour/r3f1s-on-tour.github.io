@@ -23,7 +23,7 @@ name: "Black Cats in Oranienburg"
 ---
 # Black Cats in Oranienburg
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 
 

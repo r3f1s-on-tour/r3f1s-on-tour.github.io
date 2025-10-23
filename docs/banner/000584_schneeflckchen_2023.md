@@ -23,7 +23,7 @@ name: "Schneeflöckchen"
 ---
 # Schneeflöckchen
 
-*2023* • {{__REGION__}} • Deutschland
+*2023* • {{__region__}} • Deutschland
 
 ![Schneeflöckchen](https://api.bannergress.com/bnrs/pictures/ea46b6fe5117e57e775d3d706faf2716)
 

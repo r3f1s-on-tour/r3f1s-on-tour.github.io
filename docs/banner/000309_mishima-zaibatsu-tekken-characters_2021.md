@@ -23,7 +23,7 @@ name: "Mishima Zaibatsu - Tekken Characters"
 ---
 # Mishima Zaibatsu - Tekken Characters
 
-*2021* • {{__REGION__}} • Deutschland
+*2021* • {{__region__}} • Deutschland
 
 
 

@@ -23,7 +23,7 @@ name: "Feldzug durch Bonn"
 ---
 # Feldzug durch Bonn
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![Feldzug durch Bonn](https://api.bannergress.com/bnrs/pictures/930e8b5b12515495725c0e0d4fcac97a)
 

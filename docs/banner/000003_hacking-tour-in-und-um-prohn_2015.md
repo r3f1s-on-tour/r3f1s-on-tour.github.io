@@ -23,7 +23,7 @@ name: "Hacking Tour in und um Prohn"
 ---
 # Hacking Tour in und um Prohn
 
-*2015* • {{__REGION__}} • Deutschland
+*2015* • {{__region__}} • Deutschland
 
 ![Hacking Tour in und um Prohn](https://lh3.googleusercontent.com/pw/AP1GczMzCoIKM9NTJgpLOnE0DMWtwTa6huMJdA7OyB2i8pZK2JsbdH4_DxE__4E9mPBC5LRIMhH8gB8iFpzDCAgU2nS-Cja3IMBkXMMw8v8VOSwIDSm6B4MWOlicWPu9ldZIbGxvuEshDe-sXWr_Ayyy7CqUUg)
 

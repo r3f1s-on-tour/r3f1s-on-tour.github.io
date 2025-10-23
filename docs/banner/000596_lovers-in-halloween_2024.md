@@ -23,7 +23,7 @@ name: "Lovers in Halloween"
 ---
 # Lovers in Halloween
 
-*2024* • {{__REGION__}} • España
+*2024* • {{__region__}} • España
 
 ![Lovers in Halloween](https://api.bannergress.com/bnrs/pictures/53887dbebfe07c6dd4073575ca5cc182)
 

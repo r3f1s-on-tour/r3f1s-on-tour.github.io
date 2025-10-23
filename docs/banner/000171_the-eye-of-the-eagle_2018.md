@@ -23,7 +23,7 @@ name: "The Eye of the Eagle"
 ---
 # The Eye of the Eagle
 
-*2018* • {{__REGION__}} • Deutschland
+*2018* • {{__region__}} • Deutschland
 
 ![The Eye of the Eagle](https://api.bannergress.com/bnrs/pictures/1a75cd095dfdce1f94228ffe2e5b2130)
 

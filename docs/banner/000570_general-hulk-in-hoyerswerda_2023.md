@@ -23,7 +23,7 @@ name: "General Hulk in Hoyerswerda"
 ---
 # General Hulk in Hoyerswerda
 
-*2023* • {{__REGION__}} • Deutschland
+*2023* • {{__region__}} • Deutschland
 
 ![General Hulk in Hoyerswerda](https://api.bannergress.com/bnrs/pictures/fdb76a0fc7cf48e6ec1df65a34e3012f)
 

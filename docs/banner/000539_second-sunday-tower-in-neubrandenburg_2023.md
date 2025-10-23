@@ -23,7 +23,7 @@ name: "Second Sunday Tower in Neubrandenburg"
 ---
 # Second Sunday Tower in Neubrandenburg
 
-*2023* • {{__REGION__}} • Deutschland
+*2023* • {{__region__}} • Deutschland
 
 ![Second Sunday Tower in Neubrandenburg](https://api.bannergress.com/bnrs/pictures/a788ccd7ecdc2cdf406a7cdbf51c2265)
 

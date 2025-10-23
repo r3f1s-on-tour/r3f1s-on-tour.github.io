@@ -23,7 +23,7 @@ name: "Bötzows Dutzend"
 ---
 # Bötzows Dutzend
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![Bötzows Dutzend](https://api.bannergress.com/bnrs/pictures/ae36de32d3233a720296734dad2e68c5)
 

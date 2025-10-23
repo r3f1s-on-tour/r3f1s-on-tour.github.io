@@ -23,7 +23,7 @@ name: "Man s Greatness"
 ---
 # Man s Greatness
 
-*2018* • {{__REGION__}} • Deutschland
+*2018* • {{__region__}} • Deutschland
 
 ![Man s Greatness](https://api.bannergress.com/bnrs/pictures/c1d059c65604cab5b3cfc53523d2005c)
 

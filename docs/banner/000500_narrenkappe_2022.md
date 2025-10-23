@@ -23,7 +23,7 @@ name: "Narrenkappe"
 ---
 # Narrenkappe
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![Narrenkappe](https://api.bannergress.com/bnrs/pictures/51f7fff99c8e256ec6b33897ecba2011)
 

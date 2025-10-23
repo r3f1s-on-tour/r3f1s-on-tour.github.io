@@ -23,7 +23,7 @@ name: "Skyline Munich"
 ---
 # Skyline Munich
 
-*2020* • {{__REGION__}} • Deutschland
+*2020* • {{__region__}} • Deutschland
 
 ![Skyline Munich](https://api.bannergress.com/bnrs/pictures/f550ed54b313326e36d12e6c23e68f46)
 

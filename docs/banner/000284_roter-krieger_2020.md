@@ -23,7 +23,7 @@ name: "Roter Krieger"
 ---
 # Roter Krieger
 
-*2020* • {{__REGION__}} • Deutschland
+*2020* • {{__region__}} • Deutschland
 
 ![Roter Krieger](https://api.bannergress.com/bnrs/pictures/7c0d4c1bb53b12aa7849dbe5d1150d9a)
 

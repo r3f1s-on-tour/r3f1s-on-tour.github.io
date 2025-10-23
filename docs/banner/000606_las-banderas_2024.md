@@ -23,7 +23,7 @@ name: "Las Banderas"
 ---
 # Las Banderas
 
-*2024* • {{__REGION__}} • España
+*2024* • {{__region__}} • España
 
 ![Las Banderas](https://api.bannergress.com/bnrs/pictures/1b12a50c200b30ace4a20b0cd161dc02)
 

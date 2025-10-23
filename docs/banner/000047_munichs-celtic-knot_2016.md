@@ -23,7 +23,7 @@ name: "MUNICHS CELTIC KNOT"
 ---
 # MUNICHS CELTIC KNOT
 
-*2016* • {{__REGION__}} • Deutschland
+*2016* • {{__region__}} • Deutschland
 
 ![MUNICHS CELTIC KNOT](https://api.bannergress.com/bnrs/pictures/954131ec881716126388a45ec52ad185)
 

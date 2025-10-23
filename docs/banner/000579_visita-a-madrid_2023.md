@@ -23,7 +23,7 @@ name: "Visita a Madrid"
 ---
 # Visita a Madrid
 
-*2023* • {{__REGION__}} • España
+*2023* • {{__region__}} • España
 
 ![Visita a Madrid](https://api.bannergress.com/bnrs/pictures/39251cd3df3e8cd862e8823254136dae)
 

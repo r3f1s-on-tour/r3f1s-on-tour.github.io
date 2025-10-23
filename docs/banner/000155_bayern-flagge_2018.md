@@ -23,7 +23,7 @@ name: "Bayern Flagge"
 ---
 # Bayern Flagge
 
-*2018* • {{__REGION__}} • Deutschland
+*2018* • {{__region__}} • Deutschland
 
 ![Bayern Flagge](https://api.bannergress.com/bnrs/pictures/36b19fb50b7e8a80e702597fe017aa01)
 

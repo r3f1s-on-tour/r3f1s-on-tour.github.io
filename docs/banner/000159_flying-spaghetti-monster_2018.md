@@ -23,7 +23,7 @@ name: "Flying Spaghetti Monster"
 ---
 # Flying Spaghetti Monster
 
-*2018* • {{__REGION__}} • Deutschland
+*2018* • {{__region__}} • Deutschland
 
 ![Flying Spaghetti Monster](https://api.bannergress.com/bnrs/pictures/06cb0ce7e0ac265005ef6fcbf52659ff)
 

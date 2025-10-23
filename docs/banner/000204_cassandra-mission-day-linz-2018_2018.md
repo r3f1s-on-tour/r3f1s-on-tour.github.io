@@ -23,7 +23,7 @@ name: "Cassandra Mission Day Linz 2018"
 ---
 # Cassandra Mission Day Linz 2018
 
-*2018* • {{__REGION__}} • Österreich
+*2018* • {{__region__}} • Österreich
 
 
 

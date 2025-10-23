@@ -23,7 +23,7 @@ name: "Berghain Mosaik"
 ---
 # Berghain Mosaik
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![Berghain Mosaik](https://api.bannergress.com/bnrs/pictures/fbceba1a5f412c69c9a424997b50b9c8)
 

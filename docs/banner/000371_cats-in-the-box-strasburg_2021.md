@@ -23,7 +23,7 @@ name: "Cats in the box - Strasburg"
 ---
 # Cats in the box - Strasburg
 
-*2021* • {{__REGION__}} • Deutschland
+*2021* • {{__region__}} • Deutschland
 
 
 

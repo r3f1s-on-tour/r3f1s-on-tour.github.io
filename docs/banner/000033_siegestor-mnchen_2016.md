@@ -23,7 +23,7 @@ name: "Siegestor München"
 ---
 # Siegestor München
 
-*2016* • {{__REGION__}} • Deutschland
+*2016* • {{__region__}} • Deutschland
 
 ![Siegestor München](https://api.bannergress.com/bnrs/pictures/235ff037bace8063259176a2f8e669d9)
 

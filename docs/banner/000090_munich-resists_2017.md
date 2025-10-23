@@ -23,7 +23,7 @@ name: "Munich resists!"
 ---
 # Munich resists!
 
-*2017* • {{__REGION__}} • Deutschland
+*2017* • {{__region__}} • Deutschland
 
 ![Munich resists!](https://api.bannergress.com/bnrs/pictures/aa450cbf2fff346fcbba9f846ff0b53f)
 

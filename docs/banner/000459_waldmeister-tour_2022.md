@@ -23,7 +23,7 @@ name: "Waldmeister Tour"
 ---
 # Waldmeister Tour
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![Waldmeister Tour](https://api.bannergress.com/bnrs/pictures/8df256dc83d0bc302f8362fdb199de09)
 

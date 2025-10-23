@@ -23,7 +23,7 @@ name: "Halloween in Valencia"
 ---
 # Halloween in Valencia
 
-*2024* • {{__REGION__}} • España
+*2024* • {{__region__}} • España
 
 ![Halloween in Valencia](https://api.bannergress.com/bnrs/pictures/dde27ab1355659599191184a174d41f8)
 

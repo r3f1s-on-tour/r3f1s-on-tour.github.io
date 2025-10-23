@@ -23,7 +23,7 @@ name: "Frog in Oranienburg"
 ---
 # Frog in Oranienburg
 
-*2023* • {{__REGION__}} • Deutschland
+*2023* • {{__region__}} • Deutschland
 
 
 

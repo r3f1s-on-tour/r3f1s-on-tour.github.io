@@ -23,7 +23,7 @@ name: "8000 SpecOps Runde durch Strasburg"
 ---
 # 8000 SpecOps Runde durch Strasburg
 
-*2021* • {{__REGION__}} • Deutschland
+*2021* • {{__region__}} • Deutschland
 
 
 

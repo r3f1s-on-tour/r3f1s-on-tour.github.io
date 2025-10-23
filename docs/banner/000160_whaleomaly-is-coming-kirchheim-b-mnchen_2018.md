@@ -23,7 +23,7 @@ name: "Whaleomaly is Coming [Kirchheim b. München]"
 ---
 # Whaleomaly is Coming [Kirchheim b. München]
 
-*2018* • {{__REGION__}} • Deutschland
+*2018* • {{__region__}} • Deutschland
 
 ![Whaleomaly is Coming [Kirchheim b. München]](https://api.bannergress.com/bnrs/pictures/b8ce3006986dd6bc714822b7960454d9)
 

@@ -23,7 +23,7 @@ name: "Second Sunday - Strasburg"
 ---
 # Second Sunday - Strasburg
 
-*2021* • {{__REGION__}} • Deutschland
+*2021* • {{__region__}} • Deutschland
 
 ![Second Sunday - Strasburg](https://api.bannergress.com/bnrs/pictures/bb65f6a1408e52a2abac9aaf27650299)
 

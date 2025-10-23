@@ -23,7 +23,7 @@ name: "Time Space und Fürstenfeldbruck"
 ---
 # Time Space und Fürstenfeldbruck
 
-*2016* • {{__REGION__}} • Deutschland
+*2016* • {{__region__}} • Deutschland
 
 ![Time Space und Fürstenfeldbruck](https://api.bannergress.com/bnrs/pictures/0c9708630f31755d9cb89f468ad2e6ba)
 

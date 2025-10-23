@@ -23,7 +23,7 @@ name: "International Womens Day 08 März 2022"
 ---
 # International Womens Day 08 März 2022
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![International Womens Day 08 März 2022](https://api.bannergress.com/bnrs/pictures/334ae19bd55e72b9bf4ad987aacd8541)
 

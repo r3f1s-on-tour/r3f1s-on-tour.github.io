@@ -23,7 +23,7 @@ name: "The evolution of frog"
 ---
 # The evolution of frog
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![The evolution of frog](https://api.bannergress.com/bnrs/pictures/3ee06a9a61850f64bc9bca94fd10568d)
 

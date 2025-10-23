@@ -23,7 +23,7 @@ name: "Ameisennebel Rödelheim"
 ---
 # Ameisennebel Rödelheim
 
-*2018* • {{__REGION__}} • Deutschland
+*2018* • {{__region__}} • Deutschland
 
 ![Ameisennebel Rödelheim](https://api.bannergress.com/bnrs/pictures/4d55dd8c5da742149e679ca74e36da65)
 

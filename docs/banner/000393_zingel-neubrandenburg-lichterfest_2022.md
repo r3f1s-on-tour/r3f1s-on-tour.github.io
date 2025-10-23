@@ -23,7 +23,7 @@ name: "Zingel Neubrandenburg Lichterfest"
 ---
 # Zingel Neubrandenburg Lichterfest
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![Zingel Neubrandenburg Lichterfest](https://api.bannergress.com/bnrs/pictures/2462f17ba9f206507792bc718e8b4f47)
 

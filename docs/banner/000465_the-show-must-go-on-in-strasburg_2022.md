@@ -23,7 +23,7 @@ name: "The Show Must Go On in Strasburg"
 ---
 # The Show Must Go On in Strasburg
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![The Show Must Go On in Strasburg](https://api.bannergress.com/bnrs/pictures/dca5a0834fa517ddd0a5056ad3859e8c)
 

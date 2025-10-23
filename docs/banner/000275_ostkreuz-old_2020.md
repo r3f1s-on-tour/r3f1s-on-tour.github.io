@@ -23,7 +23,7 @@ name: "Ostkreuz Old"
 ---
 # Ostkreuz Old
 
-*2020* • {{__REGION__}} • Deutschland
+*2020* • {{__region__}} • Deutschland
 
 
 

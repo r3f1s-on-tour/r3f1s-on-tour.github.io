@@ -23,7 +23,7 @@ name: "Happy Toastern April 2022"
 ---
 # Happy Toastern April 2022
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 
 

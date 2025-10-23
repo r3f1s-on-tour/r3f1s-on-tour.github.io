@@ -23,7 +23,7 @@ name: "Botanischer Garten Mosaik"
 ---
 # Botanischer Garten Mosaik
 
-*2015* • {{__REGION__}} • Deutschland
+*2015* • {{__region__}} • Deutschland
 
 
 

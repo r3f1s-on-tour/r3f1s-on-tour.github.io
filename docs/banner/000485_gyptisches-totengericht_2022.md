@@ -23,7 +23,7 @@ name: "Ägyptisches Totengericht"
 ---
 # Ägyptisches Totengericht
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![Ägyptisches Totengericht](https://api.bannergress.com/bnrs/pictures/20f32510404dc5dcb5b043d14ef777de)
 

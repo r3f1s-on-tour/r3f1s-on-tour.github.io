@@ -23,7 +23,7 @@ name: "Der Greif von Mecklenburg"
 ---
 # Der Greif von Mecklenburg
 
-*2016* • {{__REGION__}} • Deutschland
+*2016* • {{__region__}} • Deutschland
 
 ![Der Greif von Mecklenburg](https://api.bannergress.com/bnrs/pictures/4ee2a8167c2085a63047e7820de51ce3)
 

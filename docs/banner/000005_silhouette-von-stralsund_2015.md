@@ -23,7 +23,7 @@ name: "Silhouette von Stralsund"
 ---
 # Silhouette von Stralsund
 
-*2015* • {{__REGION__}} • Deutschland
+*2015* • {{__region__}} • Deutschland
 
 ![Silhouette von Stralsund](https://lh3.googleusercontent.com/pw/AP1GczNI-ZyjX21eRIE94q8r7gSQvHkYtXFoPmWCXOPYJCywjCSq3UYCkKVwuUd5vatVIJO8vajK2JuyK5Kf0ffy0T0_Y8GVkiU9sodnY4wG2DE0Ekwi5rtUPoEMdf2qdn8AZ18FgRqg9DOZ_B-aJyuLIV1msg)
 

@@ -23,7 +23,7 @@ name: "Deifel in Köln"
 ---
 # Deifel in Köln
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![Deifel in Köln](https://api.bannergress.com/bnrs/pictures/935bfc8026f0baa734992c8f0e84f869)
 

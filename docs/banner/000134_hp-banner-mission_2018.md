@@ -23,7 +23,7 @@ name: "HP Banner Mission"
 ---
 # HP Banner Mission
 
-*2018* • {{__REGION__}} • Deutschland
+*2018* • {{__region__}} • Deutschland
 
 ![HP Banner Mission](https://api.bannergress.com/bnrs/pictures/09194532139be6b93e15a2c0b2d3658c)
 

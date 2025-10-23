@@ -23,7 +23,7 @@ name: "Enlightened Berlinomaly"
 ---
 # Enlightened Berlinomaly
 
-*2021* • {{__REGION__}} • Deutschland
+*2021* • {{__region__}} • Deutschland
 
 ![Enlightened Berlinomaly](https://api.bannergress.com/bnrs/pictures/f30fb078a7e33b887f2748a04e80bdf6)
 

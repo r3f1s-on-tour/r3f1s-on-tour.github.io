@@ -23,7 +23,7 @@ name: "Smoking Dark Side"
 ---
 # Smoking Dark Side
 
-*2021* • {{__REGION__}} • Deutschland
+*2021* • {{__region__}} • Deutschland
 
 ![Smoking Dark Side](https://api.bannergress.com/bnrs/pictures/5c8a86424ccab3cec2fdadb28b4c2f95)
 

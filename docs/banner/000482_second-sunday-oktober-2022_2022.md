@@ -23,7 +23,7 @@ name: "Second Sunday - Oktober 2022"
 ---
 # Second Sunday - Oktober 2022
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![Second Sunday - Oktober 2022](https://api.bannergress.com/bnrs/pictures/00d66e6aeca687df4367e67fceabf1ed)
 

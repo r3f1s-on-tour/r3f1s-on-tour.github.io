@@ -23,7 +23,7 @@ name: "Sonne und Mond Tour"
 ---
 # Sonne und Mond Tour
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![Sonne und Mond Tour](https://api.bannergress.com/bnrs/pictures/776037acd81b06f4b9016319ea6e4805)
 

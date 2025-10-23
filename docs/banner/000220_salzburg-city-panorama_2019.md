@@ -23,7 +23,7 @@ name: "Salzburg City Panorama"
 ---
 # Salzburg City Panorama
 
-*2019* • {{__REGION__}} • Österreich
+*2019* • {{__region__}} • Österreich
 
 ![Salzburg City Panorama](https://api.bannergress.com/bnrs/pictures/4e6878a9715426b2ff73e04a2b533f69)
 

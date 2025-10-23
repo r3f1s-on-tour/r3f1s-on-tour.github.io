@@ -23,7 +23,7 @@ name: "World Blood Donor Day 2022 - Blood Types Edition"
 ---
 # World Blood Donor Day 2022 - Blood Types Edition
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 
 

@@ -23,7 +23,7 @@ name: "XMas Panda in Strasburg"
 ---
 # XMas Panda in Strasburg
 
-*2021* • {{__REGION__}} • Deutschland
+*2021* • {{__region__}} • Deutschland
 
 
 

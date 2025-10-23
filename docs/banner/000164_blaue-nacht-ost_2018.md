@@ -23,7 +23,7 @@ name: "Blaue Nacht Ost"
 ---
 # Blaue Nacht Ost
 
-*2018* • {{__REGION__}} • Deutschland
+*2018* • {{__region__}} • Deutschland
 
 
 

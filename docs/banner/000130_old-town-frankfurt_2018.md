@@ -23,7 +23,7 @@ name: "Old Town Frankfurt"
 ---
 # Old Town Frankfurt
 
-*2018* • {{__REGION__}} • Deutschland
+*2018* • {{__region__}} • Deutschland
 
 ![Old Town Frankfurt](https://api.bannergress.com/bnrs/pictures/96a6752fccd798553e396984d7f492c4)
 

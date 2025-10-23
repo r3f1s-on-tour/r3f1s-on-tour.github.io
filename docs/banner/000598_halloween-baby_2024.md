@@ -23,7 +23,7 @@ name: "Halloween Baby"
 ---
 # Halloween Baby
 
-*2024* • {{__REGION__}} • España
+*2024* • {{__region__}} • España
 
 ![Halloween Baby](https://api.bannergress.com/bnrs/pictures/35460256ed4090d948b3b8e8eccccef7)
 

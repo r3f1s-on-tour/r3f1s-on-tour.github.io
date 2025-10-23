@@ -23,7 +23,7 @@ name: "Berliner Türme"
 ---
 # Berliner Türme
 
-*2019* • {{__REGION__}} • Deutschland
+*2019* • {{__region__}} • Deutschland
 
 
 

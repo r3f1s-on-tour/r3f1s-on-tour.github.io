@@ -23,7 +23,7 @@ name: "Schleissheim Postcard"
 ---
 # Schleissheim Postcard
 
-*2016* • {{__REGION__}} • Deutschland
+*2016* • {{__region__}} • Deutschland
 
 ![Schleissheim Postcard](https://api.bannergress.com/bnrs/pictures/f101a454c5de5bc34c2ec4aff03bfe73)
 

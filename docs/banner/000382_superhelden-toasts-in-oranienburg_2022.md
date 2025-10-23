@@ -23,7 +23,7 @@ name: "Superhelden Toasts in Oranienburg"
 ---
 # Superhelden Toasts in Oranienburg
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 
 

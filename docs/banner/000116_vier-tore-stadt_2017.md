@@ -23,7 +23,7 @@ name: "Vier-Tore-Stadt"
 ---
 # Vier-Tore-Stadt
 
-*2017* • {{__REGION__}} • Deutschland
+*2017* • {{__region__}} • Deutschland
 
 ![Vier-Tore-Stadt](https://api.bannergress.com/bnrs/pictures/f30d99b5e1db11fb34669f0f9562bfb6)
 

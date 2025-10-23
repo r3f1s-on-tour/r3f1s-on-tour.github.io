@@ -23,7 +23,7 @@ name: "#FS Rubik Cube"
 ---
 # #FS Rubik Cube
 
-*2023* • {{__REGION__}} • Deutschland
+*2023* • {{__region__}} • Deutschland
 
 ![#FS Rubik Cube](https://api.bannergress.com/bnrs/pictures/58e35104a29b981b51012f9c4d015604)
 

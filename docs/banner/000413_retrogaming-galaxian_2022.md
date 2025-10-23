@@ -23,7 +23,7 @@ name: "RetroGaming - Galaxian"
 ---
 # RetroGaming - Galaxian
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![RetroGaming - Galaxian](https://api.bannergress.com/bnrs/pictures/594ee41b7e904b65b0d747e41be5b40c)
 

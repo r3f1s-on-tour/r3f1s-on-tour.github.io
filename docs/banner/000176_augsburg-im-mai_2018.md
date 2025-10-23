@@ -23,7 +23,7 @@ name: "Augsburg im Mai"
 ---
 # Augsburg im Mai
 
-*2018* • {{__REGION__}} • Deutschland
+*2018* • {{__region__}} • Deutschland
 
 
 

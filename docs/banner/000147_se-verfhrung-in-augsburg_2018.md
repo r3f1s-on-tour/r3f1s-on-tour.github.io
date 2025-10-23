@@ -23,7 +23,7 @@ name: "Süße Verführung in Augsburg"
 ---
 # Süße Verführung in Augsburg
 
-*2018* • {{__REGION__}} • Deutschland
+*2018* • {{__region__}} • Deutschland
 
 
 

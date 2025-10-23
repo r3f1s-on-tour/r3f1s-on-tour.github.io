@@ -23,7 +23,7 @@ name: "Drachenfrau"
 ---
 # Drachenfrau
 
-*2016* • {{__REGION__}} • Deutschland
+*2016* • {{__region__}} • Deutschland
 
 ![Drachenfrau](https://api.bannergress.com/bnrs/pictures/1b0601554cccf46bbf897c8a7d97d3b7)
 

@@ -23,7 +23,7 @@ name: "MissionDay Zürich"
 ---
 # MissionDay Zürich
 
-*2017* • {{__REGION__}} • Schweiz/Suisse/Svizzera/Svizra
+*2017* • {{__region__}} • Schweiz/Suisse/Svizzera/Svizra
 
 ![MissionDay Zürich](https://api.bannergress.com/bnrs/pictures/60989b4a7ea4e993c9d23756812cb691)
 

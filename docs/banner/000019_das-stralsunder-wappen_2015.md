@@ -23,7 +23,7 @@ name: "Das Stralsunder Wappen"
 ---
 # Das Stralsunder Wappen
 
-*2015* • {{__REGION__}} • Deutschland
+*2015* • {{__region__}} • Deutschland
 
 ![Das Stralsunder Wappen](https://api.bannergress.com/bnrs/pictures/ac273ab3137912d9cb9b92f74520cf2a)
 

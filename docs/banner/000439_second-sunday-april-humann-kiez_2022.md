@@ -23,7 +23,7 @@ name: "Second Sunday April Humann-Kiez"
 ---
 # Second Sunday April Humann-Kiez
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![Second Sunday April Humann-Kiez](https://api.bannergress.com/bnrs/pictures/bfd00140d1f5bf400b4f37055e4574da)
 

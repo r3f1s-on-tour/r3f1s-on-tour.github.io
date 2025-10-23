@@ -23,7 +23,7 @@ name: "NERV - EVA Units"
 ---
 # NERV - EVA Units
 
-*2020* • {{__REGION__}} • Deutschland
+*2020* • {{__region__}} • Deutschland
 
 
 

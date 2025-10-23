@@ -23,7 +23,7 @@ name: "Rengschburger Dom"
 ---
 # Rengschburger Dom
 
-*2018* • {{__REGION__}} • Deutschland
+*2018* • {{__region__}} • Deutschland
 
 ![Rengschburger Dom](https://api.bannergress.com/bnrs/pictures/01e618952f674835332465d76a5ce86c)
 

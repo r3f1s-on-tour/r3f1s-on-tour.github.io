@@ -23,7 +23,7 @@ name: "Green Wolf in Oranienburg"
 ---
 # Green Wolf in Oranienburg
 
-*2023* • {{__REGION__}} • Deutschland
+*2023* • {{__region__}} • Deutschland
 
 ![Green Wolf in Oranienburg](https://api.bannergress.com/bnrs/pictures/44daebe0e1b46af8d54b87da655110dd)
 

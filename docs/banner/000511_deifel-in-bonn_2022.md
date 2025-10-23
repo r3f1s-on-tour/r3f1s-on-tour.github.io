@@ -23,7 +23,7 @@ name: "Deifel in Bonn"
 ---
 # Deifel in Bonn
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![Deifel in Bonn](https://api.bannergress.com/bnrs/pictures/6666727754e8e2f93c7b7453c6529c6f)
 

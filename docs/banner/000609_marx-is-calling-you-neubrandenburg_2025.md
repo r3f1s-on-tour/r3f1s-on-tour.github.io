@@ -23,7 +23,7 @@ name: "Marx is calling you - Neubrandenburg"
 ---
 # Marx is calling you - Neubrandenburg
 
-*2025* • {{__REGION__}} • Deutschland
+*2025* • {{__region__}} • Deutschland
 
 ![Marx is calling you - Neubrandenburg](https://api.bannergress.com/bnrs/pictures/6b0ad5ccfffd041be5a78ec6f05071c3)
 

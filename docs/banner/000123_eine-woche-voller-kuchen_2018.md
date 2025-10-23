@@ -23,7 +23,7 @@ name: "Eine Woche voller Kuchen"
 ---
 # Eine Woche voller Kuchen
 
-*2018* • {{__REGION__}} • Deutschland
+*2018* • {{__region__}} • Deutschland
 
 
 

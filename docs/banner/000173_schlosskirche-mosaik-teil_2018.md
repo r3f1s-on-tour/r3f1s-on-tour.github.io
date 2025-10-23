@@ -23,7 +23,7 @@ name: "Schlosskirche Mosaik Teil"
 ---
 # Schlosskirche Mosaik Teil
 
-*2018* • {{__REGION__}} • Deutschland
+*2018* • {{__region__}} • Deutschland
 
 ![Schlosskirche Mosaik Teil](https://api.bannergress.com/bnrs/pictures/c3baf44c9c684a9e2adc92077d9b7157)
 

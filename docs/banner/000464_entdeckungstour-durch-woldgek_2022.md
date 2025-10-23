@@ -23,7 +23,7 @@ name: "Entdeckungstour durch Woldgek"
 ---
 # Entdeckungstour durch Woldgek
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![Entdeckungstour durch Woldgek](https://api.bannergress.com/bnrs/pictures/ff6ad125aa3e1172a6d5ec5aa5bf46e3)
 

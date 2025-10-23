@@ -23,7 +23,7 @@ name: "Augsburg im Februar"
 ---
 # Augsburg im Februar
 
-*2018* • {{__REGION__}} • Deutschland
+*2018* • {{__region__}} • Deutschland
 
 
 

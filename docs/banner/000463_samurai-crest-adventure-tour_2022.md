@@ -23,7 +23,7 @@ name: "Samurai Crest Adventure Tour"
 ---
 # Samurai Crest Adventure Tour
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![Samurai Crest Adventure Tour](https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/463.jpg)
 

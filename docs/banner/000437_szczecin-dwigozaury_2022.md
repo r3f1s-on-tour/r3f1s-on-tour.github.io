@@ -23,7 +23,7 @@ name: "Szczecin Dźwigozaury"
 ---
 # Szczecin Dźwigozaury
 
-*2022* • {{__REGION__}} • Polska
+*2022* • {{__region__}} • Polska
 
 ![Szczecin Dźwigozaury](https://api.bannergress.com/bnrs/pictures/db05b13ee6a46ff5ec7d822b6747bb6c)
 

@@ -23,7 +23,7 @@ name: "Sushi Sonntag"
 ---
 # Sushi Sonntag
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![Sushi Sonntag](https://api.bannergress.com/bnrs/pictures/39a9b3befeca7a4f970daa5a169df763)
 

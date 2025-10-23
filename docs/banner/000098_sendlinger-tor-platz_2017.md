@@ -23,7 +23,7 @@ name: "Sendlinger-Tor-Platz"
 ---
 # Sendlinger-Tor-Platz
 
-*2017* • {{__REGION__}} • Deutschland
+*2017* • {{__region__}} • Deutschland
 
 ![Sendlinger-Tor-Platz](https://api.bannergress.com/bnrs/pictures/57576cbb91daf59b5e6fe954135bc725)
 

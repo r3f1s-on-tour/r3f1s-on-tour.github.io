@@ -23,7 +23,7 @@ name: "Topographia Bavariae Straubinga"
 ---
 # Topographia Bavariae Straubinga
 
-*2017* • {{__REGION__}} • Deutschland
+*2017* • {{__region__}} • Deutschland
 
 ![Topographia Bavariae Straubinga](https://api.bannergress.com/bnrs/pictures/274a01d7420bcd11c1ed3e8f8713b236)
 

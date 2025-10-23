@@ -23,7 +23,7 @@ name: "Mein grüner Kaktus in Oranienburg"
 ---
 # Mein grüner Kaktus in Oranienburg
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![Mein grüner Kaktus in Oranienburg](https://api.bannergress.com/bnrs/pictures/8c94f3fbb77c8eef340b0ca8a9eda497)
 

@@ -23,7 +23,7 @@ name: "Stress an der Isar"
 ---
 # Stress an der Isar
 
-*2017* • {{__REGION__}} • Deutschland
+*2017* • {{__region__}} • Deutschland
 
 ![Stress an der Isar](https://api.bannergress.com/bnrs/pictures/531b1b36d72737597317a1351402e6ce)
 

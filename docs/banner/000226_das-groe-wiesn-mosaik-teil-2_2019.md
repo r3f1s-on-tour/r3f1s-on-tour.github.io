@@ -23,7 +23,7 @@ name: "Das Große Wiesn Mosaik Teil 2"
 ---
 # Das Große Wiesn Mosaik Teil 2
 
-*2019* • {{__REGION__}} • Deutschland
+*2019* • {{__region__}} • Deutschland
 
 
 

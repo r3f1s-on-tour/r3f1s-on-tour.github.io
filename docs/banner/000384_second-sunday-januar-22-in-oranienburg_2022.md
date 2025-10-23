@@ -23,7 +23,7 @@ name: "Second Sunday Januar 22 in Oranienburg"
 ---
 # Second Sunday Januar 22 in Oranienburg
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![Second Sunday Januar 22 in Oranienburg](https://api.bannergress.com/bnrs/pictures/82a8725714a55ccd98fba08e8fb07b50)
 

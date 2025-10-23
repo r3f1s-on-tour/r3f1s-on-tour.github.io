@@ -23,7 +23,7 @@ name: "Wasserburger Altstadt"
 ---
 # Wasserburger Altstadt
 
-*2018* • {{__REGION__}} • Deutschland
+*2018* • {{__region__}} • Deutschland
 
 ![Wasserburger Altstadt](https://api.bannergress.com/bnrs/pictures/58c8d77320693939ff63ece4ba442a6d)
 

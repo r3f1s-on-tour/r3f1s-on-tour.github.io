@@ -23,7 +23,7 @@ name: "Toast Run Part 3"
 ---
 # Toast Run Part 3
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 
 

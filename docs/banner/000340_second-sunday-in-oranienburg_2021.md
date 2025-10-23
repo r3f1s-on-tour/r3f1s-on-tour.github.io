@@ -23,7 +23,7 @@ name: "Second Sunday in Oranienburg"
 ---
 # Second Sunday in Oranienburg
 
-*2021* • {{__REGION__}} • Deutschland
+*2021* • {{__region__}} • Deutschland
 
 
 

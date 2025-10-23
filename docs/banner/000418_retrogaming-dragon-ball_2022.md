@@ -23,7 +23,7 @@ name: "RetroGaming - Dragon Ball"
 ---
 # RetroGaming - Dragon Ball
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![RetroGaming - Dragon Ball](https://api.bannergress.com/bnrs/pictures/7b1b3826271897a13f59a3f728e79571)
 

@@ -23,7 +23,7 @@ name: "Deathly Green Hallows"
 ---
 # Deathly Green Hallows
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![Deathly Green Hallows](https://api.bannergress.com/bnrs/pictures/8aa08bebec436b91fa019ecee5ac6957)
 

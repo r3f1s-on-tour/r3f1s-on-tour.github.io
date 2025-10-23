@@ -23,7 +23,7 @@ name: "Landungsbrücken"
 ---
 # Landungsbrücken
 
-*2015* • {{__REGION__}} • Deutschland
+*2015* • {{__region__}} • Deutschland
 
 ![Landungsbrücken](https://api.bannergress.com/bnrs/pictures/b5b4e97a8c42aca70facc47acb35a5ca)
 

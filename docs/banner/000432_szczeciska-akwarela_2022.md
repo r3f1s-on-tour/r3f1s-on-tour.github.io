@@ -23,7 +23,7 @@ name: "Szczecińska akwarela"
 ---
 # Szczecińska akwarela
 
-*2022* • {{__REGION__}} • Polska
+*2022* • {{__region__}} • Polska
 
 ![Szczecińska akwarela](https://api.bannergress.com/bnrs/pictures/4eebef126b4231b26f9236dd22138217)
 

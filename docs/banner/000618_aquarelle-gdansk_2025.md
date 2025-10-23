@@ -23,7 +23,7 @@ name: "Aquarelle Gdansk"
 ---
 # Aquarelle Gdansk
 
-*2025* • {{__REGION__}} • Polska
+*2025* • {{__region__}} • Polska
 
 ![Aquarelle Gdansk](https://api.bannergress.com/bnrs/pictures/ec7c1f87079942aabcfc16d660f09708)
 

@@ -23,7 +23,7 @@ name: "Weihnachten in Neubrandenburg - Second Sunday"
 ---
 # Weihnachten in Neubrandenburg - Second Sunday
 
-*2021* • {{__REGION__}} • Deutschland
+*2021* • {{__region__}} • Deutschland
 
 ![Weihnachten in Neubrandenburg - Second Sunday](https://api.bannergress.com/bnrs/pictures/a5dfdd73f2bd6ca728181bfedeb901e0)
 

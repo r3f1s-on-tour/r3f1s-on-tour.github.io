@@ -23,7 +23,7 @@ name: "MAGNUS Reawakens Szczecin"
 ---
 # MAGNUS Reawakens Szczecin
 
-*2017* • {{__REGION__}} • Polska
+*2017* • {{__region__}} • Polska
 
 ![MAGNUS Reawakens Szczecin](https://api.bannergress.com/bnrs/pictures/f3f19c5eebe702c31a6d1e6eb37d766f)
 

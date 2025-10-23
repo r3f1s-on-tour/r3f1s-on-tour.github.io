@@ -23,7 +23,7 @@ name: "Moutain Dragon in Strasburg"
 ---
 # Moutain Dragon in Strasburg
 
-*2023* • {{__REGION__}} • Deutschland
+*2023* • {{__region__}} • Deutschland
 
 ![Moutain Dragon in Strasburg](https://api.bannergress.com/bnrs/pictures/00a0ac4532b1e25b54e9618c6f9b3ff8)
 

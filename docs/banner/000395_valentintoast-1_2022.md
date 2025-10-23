@@ -23,7 +23,7 @@ name: "Valentintoast 1"
 ---
 # Valentintoast 1
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 
 

@@ -23,7 +23,7 @@ name: "Pinguine Tour in Oranienburg"
 ---
 # Pinguine Tour in Oranienburg
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![Pinguine Tour in Oranienburg](https://api.bannergress.com/bnrs/pictures/06ac4988be9db2ac9d99fc406b6ef275)
 

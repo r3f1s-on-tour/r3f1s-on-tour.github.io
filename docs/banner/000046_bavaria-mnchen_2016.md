@@ -23,7 +23,7 @@ name: "Bavaria München"
 ---
 # Bavaria München
 
-*2016* • {{__REGION__}} • Deutschland
+*2016* • {{__region__}} • Deutschland
 
 ![Bavaria München](https://api.bannergress.com/bnrs/pictures/f62fd3943e8a8f40cd07ff30a8d09d1a)
 

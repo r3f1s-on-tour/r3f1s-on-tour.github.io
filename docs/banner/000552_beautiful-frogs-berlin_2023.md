@@ -23,7 +23,7 @@ name: "Beautiful Frogs Berlin"
 ---
 # Beautiful Frogs Berlin
 
-*2023* • {{__REGION__}} • Deutschland
+*2023* • {{__region__}} • Deutschland
 
 ![Beautiful Frogs Berlin](https://api.bannergress.com/bnrs/pictures/cb773c8c9948b7bee5217d1db01cf7b7)
 

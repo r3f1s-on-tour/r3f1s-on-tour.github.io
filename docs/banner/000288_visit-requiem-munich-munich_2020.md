@@ -23,7 +23,7 @@ name: "Visit Requiem Munich - Munich"
 ---
 # Visit Requiem Munich - Munich
 
-*2020* • {{__REGION__}} • Deutschland
+*2020* • {{__region__}} • Deutschland
 
 ![Visit Requiem Munich - Munich](https://api.bannergress.com/bnrs/pictures/f1caacbbecf2101b63efa6ff94010fc4)
 

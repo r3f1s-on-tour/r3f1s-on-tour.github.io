@@ -23,7 +23,7 @@ name: "Fire Fighter Schwedt"
 ---
 # Fire Fighter Schwedt
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![Fire Fighter Schwedt](https://api.bannergress.com/bnrs/pictures/db8186d04725a6bd4986863acc0e1f68)
 

@@ -23,7 +23,7 @@ name: "NL - Berlin Event"
 ---
 # NL - Berlin Event
 
-*2020* • {{__REGION__}} • Deutschland
+*2020* • {{__region__}} • Deutschland
 
 
 

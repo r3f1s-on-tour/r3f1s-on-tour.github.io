@@ -23,7 +23,7 @@ name: "RetroGaming - Tetris"
 ---
 # RetroGaming - Tetris
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 
 

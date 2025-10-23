@@ -23,7 +23,7 @@ name: "HeartCore Beat FFB"
 ---
 # HeartCore Beat FFB
 
-*2018* • {{__REGION__}} • Deutschland
+*2018* • {{__region__}} • Deutschland
 
 
 

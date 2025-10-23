@@ -23,7 +23,7 @@ name: "Friedensengel"
 ---
 # Friedensengel
 
-*2016* • {{__REGION__}} • Deutschland
+*2016* • {{__region__}} • Deutschland
 
 ![Friedensengel](https://api.bannergress.com/bnrs/pictures/07497fdbabbc83aa9d872aec006f5387)
 

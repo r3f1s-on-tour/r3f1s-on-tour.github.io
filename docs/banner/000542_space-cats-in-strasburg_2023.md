@@ -23,7 +23,7 @@ name: "Space Cats in Strasburg"
 ---
 # Space Cats in Strasburg
 
-*2023* • {{__REGION__}} • Deutschland
+*2023* • {{__region__}} • Deutschland
 
 ![Space Cats in Strasburg](https://api.bannergress.com/bnrs/pictures/c61dd5eaabf367d3b46a1ee2f3da8b74)
 

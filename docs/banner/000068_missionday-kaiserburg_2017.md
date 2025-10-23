@@ -23,7 +23,7 @@ name: "MissionDay Kaiserburg"
 ---
 # MissionDay Kaiserburg
 
-*2017* • {{__REGION__}} • Deutschland
+*2017* • {{__region__}} • Deutschland
 
 ![MissionDay Kaiserburg](https://api.bannergress.com/bnrs/pictures/2104e045dafdef8399f8f8b76ec19f50)
 

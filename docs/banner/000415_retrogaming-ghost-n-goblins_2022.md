@@ -23,7 +23,7 @@ name: "RetroGaming - Ghost n Goblins"
 ---
 # RetroGaming - Ghost n Goblins
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![RetroGaming - Ghost n Goblins](https://api.bannergress.com/bnrs/pictures/6ed455d39db691971a312f230e184901)
 

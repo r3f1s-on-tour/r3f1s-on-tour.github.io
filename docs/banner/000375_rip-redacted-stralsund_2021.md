@@ -23,7 +23,7 @@ name: "rip redacted - stralsund"
 ---
 # rip redacted - stralsund
 
-*2021* • {{__REGION__}} • Deutschland
+*2021* • {{__region__}} • Deutschland
 
 ![rip redacted - stralsund](https://api.bannergress.com/bnrs/pictures/bd620aa75eda2f30110dc4e96c9b947a)
 

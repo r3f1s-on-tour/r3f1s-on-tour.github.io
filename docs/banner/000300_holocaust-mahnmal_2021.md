@@ -23,7 +23,7 @@ name: "Holocaust Mahnmal"
 ---
 # Holocaust Mahnmal
 
-*2021* • {{__REGION__}} • Deutschland
+*2021* • {{__region__}} • Deutschland
 
 ![Holocaust Mahnmal](https://api.bannergress.com/bnrs/pictures/9a68e7c78f3493a1011adcd9ebaf2808)
 

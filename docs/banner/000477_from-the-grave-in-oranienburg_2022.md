@@ -23,7 +23,7 @@ name: "From the Grave in Oranienburg"
 ---
 # From the Grave in Oranienburg
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![From the Grave in Oranienburg](https://api.bannergress.com/bnrs/pictures/023bb234581447c14213143dbc613c47)
 

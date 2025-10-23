@@ -23,7 +23,7 @@ name: "Visit Requiem Munich - Neubrandenburg"
 ---
 # Visit Requiem Munich - Neubrandenburg
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 
 

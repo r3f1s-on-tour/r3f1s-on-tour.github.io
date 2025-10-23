@@ -23,7 +23,7 @@ name: "Once Upon A Time Under The Valencian Sun"
 ---
 # Once Upon A Time Under The Valencian Sun
 
-*2024* • {{__REGION__}} • España
+*2024* • {{__region__}} • España
 
 ![Once Upon A Time Under The Valencian Sun](https://api.bannergress.com/bnrs/pictures/ac7cc5b5c57769ac63ca1dee8f5d8afa)
 

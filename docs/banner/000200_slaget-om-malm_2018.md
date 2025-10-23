@@ -23,7 +23,7 @@ name: "Slaget om Malmö"
 ---
 # Slaget om Malmö
 
-*2018* • {{__REGION__}} • Sverige
+*2018* • {{__region__}} • Sverige
 
 
 

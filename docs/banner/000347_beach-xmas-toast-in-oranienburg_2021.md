@@ -23,7 +23,7 @@ name: "Beach XMas Toast in Oranienburg"
 ---
 # Beach XMas Toast in Oranienburg
 
-*2021* • {{__REGION__}} • Deutschland
+*2021* • {{__region__}} • Deutschland
 
 
 

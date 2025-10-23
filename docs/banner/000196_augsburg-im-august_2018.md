@@ -23,7 +23,7 @@ name: "Augsburg im August"
 ---
 # Augsburg im August
 
-*2018* • {{__REGION__}} • Deutschland
+*2018* • {{__region__}} • Deutschland
 
 ![Augsburg im August](https://api.bannergress.com/bnrs/pictures/0859195348785935df6a54625e5f179c)
 

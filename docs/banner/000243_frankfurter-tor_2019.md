@@ -23,7 +23,7 @@ name: "Frankfurter Tor"
 ---
 # Frankfurter Tor
 
-*2019* • {{__REGION__}} • Deutschland
+*2019* • {{__region__}} • Deutschland
 
 
 

@@ -23,7 +23,7 @@ name: "Ohara Koson Birds"
 ---
 # Ohara Koson Birds
 
-*2023* • {{__REGION__}} • Deutschland
+*2023* • {{__region__}} • Deutschland
 
 ![Ohara Koson Birds](https://api.bannergress.com/bnrs/pictures/eefcf85b5670a1729b3d511685c6789e)
 

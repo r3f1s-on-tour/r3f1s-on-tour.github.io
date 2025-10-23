@@ -23,7 +23,7 @@ name: "Landshuter Katze"
 ---
 # Landshuter Katze
 
-*2017* • {{__REGION__}} • Deutschland
+*2017* • {{__region__}} • Deutschland
 
 
 

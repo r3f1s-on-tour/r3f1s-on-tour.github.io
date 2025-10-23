@@ -23,7 +23,7 @@ name: "Whaleomaly is Coming [Eching]"
 ---
 # Whaleomaly is Coming [Eching]
 
-*2018* • {{__REGION__}} • Deutschland
+*2018* • {{__region__}} • Deutschland
 
 ![Whaleomaly is Coming [Eching]](https://api.bannergress.com/bnrs/pictures/bc838cb116ae12100e0bb126b9485086)
 

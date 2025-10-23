@@ -23,7 +23,7 @@ name: "Drachenbraut"
 ---
 # Drachenbraut
 
-*2023* • {{__REGION__}} • Deutschland
+*2023* • {{__region__}} • Deutschland
 
 ![Drachenbraut](https://api.bannergress.com/bnrs/pictures/3b6d9fe949035422962ff24d0933b2f9)
 

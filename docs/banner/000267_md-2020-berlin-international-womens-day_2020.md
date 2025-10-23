@@ -23,7 +23,7 @@ name: "MD 2020: Berlin,  International Women's Day"
 ---
 # MD 2020: Berlin,  International Women's Day
 
-*2020* • {{__REGION__}} • Deutschland
+*2020* • {{__region__}} • Deutschland
 
 
 

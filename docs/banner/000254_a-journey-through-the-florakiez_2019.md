@@ -23,7 +23,7 @@ name: "A journey through the florakiez"
 ---
 # A journey through the florakiez
 
-*2019* • {{__REGION__}} • Deutschland
+*2019* • {{__region__}} • Deutschland
 
 
 

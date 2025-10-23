@@ -23,7 +23,7 @@ name: "Marienplatz München"
 ---
 # Marienplatz München
 
-*2016* • {{__REGION__}} • Deutschland
+*2016* • {{__region__}} • Deutschland
 
 
 

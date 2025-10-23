@@ -23,7 +23,7 @@ name: "EXO5 Berlin Resistance Victory"
 ---
 # EXO5 Berlin Resistance Victory
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 
 

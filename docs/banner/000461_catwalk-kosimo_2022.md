@@ -23,7 +23,7 @@ name: "Catwalk Kosimo"
 ---
 # Catwalk Kosimo
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![Catwalk Kosimo](https://api.bannergress.com/bnrs/pictures/60e253a7549362a18baee306acd4593f)
 

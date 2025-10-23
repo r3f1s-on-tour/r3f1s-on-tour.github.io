@@ -23,7 +23,7 @@ name: "Skyline Oranienburg"
 ---
 # Skyline Oranienburg
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![Skyline Oranienburg](https://api.bannergress.com/bnrs/pictures/e6f9a3278abcc41a820d1a2fadbbd15c)
 

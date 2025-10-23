@@ -23,7 +23,7 @@ name: "Whaleomaly is Coming / [Rosenheim]"
 ---
 # Whaleomaly is Coming / [Rosenheim]
 
-*2018* • {{__REGION__}} • Deutschland
+*2018* • {{__region__}} • Deutschland
 
 
 

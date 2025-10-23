@@ -23,7 +23,7 @@ name: "Cherry Blossom"
 ---
 # Cherry Blossom
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![Cherry Blossom](https://api.bannergress.com/bnrs/pictures/e9952cd06db29653926eedd0a0c39360)
 

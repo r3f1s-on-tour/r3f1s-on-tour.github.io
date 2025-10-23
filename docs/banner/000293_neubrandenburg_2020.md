@@ -23,7 +23,7 @@ name: "Neubrandenburg"
 ---
 # Neubrandenburg
 
-*2020* • {{__REGION__}} • Deutschland
+*2020* • {{__region__}} • Deutschland
 
 ![Neubrandenburg](https://api.bannergress.com/bnrs/pictures/d85936994fac2c3511a39ba11e6bdcde)
 

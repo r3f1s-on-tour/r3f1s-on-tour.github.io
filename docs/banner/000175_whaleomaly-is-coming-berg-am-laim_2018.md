@@ -23,7 +23,7 @@ name: "Whaleomaly is Coming [Berg am Laim]"
 ---
 # Whaleomaly is Coming [Berg am Laim]
 
-*2018* • {{__REGION__}} • Deutschland
+*2018* • {{__region__}} • Deutschland
 
 
 

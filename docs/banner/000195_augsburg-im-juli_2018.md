@@ -23,7 +23,7 @@ name: "Augsburg im Juli"
 ---
 # Augsburg im Juli
 
-*2018* • {{__REGION__}} • Deutschland
+*2018* • {{__region__}} • Deutschland
 
 
 

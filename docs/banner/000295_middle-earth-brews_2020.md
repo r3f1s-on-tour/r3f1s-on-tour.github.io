@@ -23,7 +23,7 @@ name: "Middle Earth Brews"
 ---
 # Middle Earth Brews
 
-*2020* • {{__REGION__}} • Deutschland
+*2020* • {{__region__}} • Deutschland
 
 ![Middle Earth Brews](https://api.bannergress.com/bnrs/pictures/d1803107d2f420be9cd3ac01848e01b2)
 

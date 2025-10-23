@@ -23,7 +23,7 @@ name: "Toast Wars in Oranienburg"
 ---
 # Toast Wars in Oranienburg
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 
 

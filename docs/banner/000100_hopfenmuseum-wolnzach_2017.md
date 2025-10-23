@@ -23,7 +23,7 @@ name: "Hopfenmuseum Wolnzach"
 ---
 # Hopfenmuseum Wolnzach
 
-*2017* • {{__REGION__}} • Deutschland
+*2017* • {{__region__}} • Deutschland
 
 ![Hopfenmuseum Wolnzach](https://api.bannergress.com/bnrs/pictures/380a803c7b40066370a20d88dcbee2ad)
 

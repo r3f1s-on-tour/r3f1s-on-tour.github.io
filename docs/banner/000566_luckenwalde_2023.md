@@ -23,7 +23,7 @@ name: "Luckenwalde"
 ---
 # Luckenwalde
 
-*2023* • {{__REGION__}} • Deutschland
+*2023* • {{__region__}} • Deutschland
 
 ![Luckenwalde](https://api.bannergress.com/bnrs/pictures/a14e9881fe75e72c4525b1cd6bed63a8)
 

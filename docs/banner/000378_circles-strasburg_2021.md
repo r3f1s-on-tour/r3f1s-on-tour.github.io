@@ -23,7 +23,7 @@ name: "Circles Strasburg"
 ---
 # Circles Strasburg
 
-*2021* • {{__REGION__}} • Deutschland
+*2021* • {{__region__}} • Deutschland
 
 ![Circles Strasburg](https://api.bannergress.com/bnrs/pictures/c49f41888b1c628db6cc35914e5a95cd)
 

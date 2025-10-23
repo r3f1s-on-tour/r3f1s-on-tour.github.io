@@ -23,7 +23,7 @@ name: "Greifswalder Flagge"
 ---
 # Greifswalder Flagge
 
-*2015* • {{__REGION__}} • Deutschland
+*2015* • {{__region__}} • Deutschland
 
 ![Greifswalder Flagge](https://api.bannergress.com/bnrs/pictures/98098407103277f8e6c82ac9c530ea09)
 

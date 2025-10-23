@@ -23,7 +23,7 @@ name: "Raute Blau Weiß 1"
 ---
 # Raute Blau Weiß 1
 
-*2019* • {{__REGION__}} • Deutschland
+*2019* • {{__region__}} • Deutschland
 
 
 

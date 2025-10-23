@@ -23,7 +23,7 @@ name: "Ingress down Rotenburg"
 ---
 # Ingress down Rotenburg
 
-*2023* • {{__REGION__}} • Deutschland
+*2023* • {{__region__}} • Deutschland
 
 ![Ingress down Rotenburg](https://api.bannergress.com/bnrs/pictures/7adade71b2852df2906470cb571a69c9)
 

@@ -23,7 +23,7 @@ name: "Sternbilder"
 ---
 # Sternbilder
 
-*2021* • {{__REGION__}} • Deutschland
+*2021* • {{__region__}} • Deutschland
 
 ![Sternbilder](https://api.bannergress.com/bnrs/pictures/acddc3f162894c9b9f2756e03c67c5c3)
 

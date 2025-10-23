@@ -23,7 +23,7 @@ name: "Art walk 1 - Until death do us part"
 ---
 # Art walk 1 - Until death do us part
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![Art walk 1 - Until death do us part](https://api.bannergress.com/bnrs/pictures/5df971042fa652a677f4b45579f2b79e)
 

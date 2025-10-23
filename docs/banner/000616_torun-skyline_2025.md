@@ -23,7 +23,7 @@ name: "Torun skyline"
 ---
 # Torun skyline
 
-*2025* • {{__REGION__}} • Polska
+*2025* • {{__region__}} • Polska
 
 ![Torun skyline](https://api.bannergress.com/bnrs/pictures/d1413bb121e5d1d037822169d6c692b5)
 

@@ -23,7 +23,7 @@ name: "FrogVersum in Oranienburg"
 ---
 # FrogVersum in Oranienburg
 
-*2023* • {{__REGION__}} • Deutschland
+*2023* • {{__region__}} • Deutschland
 
 ![FrogVersum in Oranienburg](https://api.bannergress.com/bnrs/pictures/bac9bbf077680843963f4fd3668e3508)
 

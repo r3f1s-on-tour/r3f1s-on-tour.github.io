@@ -23,7 +23,7 @@ name: "Toast Heros Dresden"
 ---
 # Toast Heros Dresden
 
-*2023* • {{__REGION__}} • Deutschland
+*2023* • {{__region__}} • Deutschland
 
 ![Toast Heros Dresden](https://api.bannergress.com/bnrs/pictures/c670eebd6d3b0dfe1c5deeddc0ae1302)
 

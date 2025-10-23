@@ -23,7 +23,7 @@ name: "Neubr. Stadtmusikanten"
 ---
 # Neubr. Stadtmusikanten
 
-*2023* • {{__REGION__}} • Deutschland
+*2023* • {{__region__}} • Deutschland
 
 ![Neubr. Stadtmusikanten](https://api.bannergress.com/bnrs/pictures/bd942df6e020a1b5fcc14c22e4219e4f)
 

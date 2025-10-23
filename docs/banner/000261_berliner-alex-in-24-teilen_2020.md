@@ -23,7 +23,7 @@ name: "Berliner Alex in 24 Teilen"
 ---
 # Berliner Alex in 24 Teilen
 
-*2020* • {{__REGION__}} • Deutschland
+*2020* • {{__region__}} • Deutschland
 
 
 

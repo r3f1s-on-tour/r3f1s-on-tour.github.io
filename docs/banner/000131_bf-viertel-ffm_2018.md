@@ -23,7 +23,7 @@ name: "Bf-Viertel FFM"
 ---
 # Bf-Viertel FFM
 
-*2018* • {{__REGION__}} • Deutschland
+*2018* • {{__region__}} • Deutschland
 
 ![Bf-Viertel FFM](https://api.bannergress.com/bnrs/pictures/9299ab22066d3b8cc8e8e9cdd0397bcb)
 

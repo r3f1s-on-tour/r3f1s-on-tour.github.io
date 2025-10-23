@@ -23,7 +23,7 @@ name: "Imperfect Humanist"
 ---
 # Imperfect Humanist
 
-*2021* • {{__REGION__}} • Deutschland
+*2021* • {{__region__}} • Deutschland
 
 ![Imperfect Humanist](https://api.bannergress.com/bnrs/pictures/ef586f48318a79b1033edc5fe8ab1539)
 

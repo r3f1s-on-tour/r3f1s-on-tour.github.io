@@ -23,7 +23,7 @@ name: "Call Shenlong in Oranienburg"
 ---
 # Call Shenlong in Oranienburg
 
-*2021* • {{__REGION__}} • Deutschland
+*2021* • {{__region__}} • Deutschland
 
 
 

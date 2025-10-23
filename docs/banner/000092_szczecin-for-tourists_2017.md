@@ -23,7 +23,7 @@ name: "SZCZECIN for TOURISTS"
 ---
 # SZCZECIN for TOURISTS
 
-*2017* • {{__REGION__}} • Polska
+*2017* • {{__region__}} • Polska
 
 ![SZCZECIN for TOURISTS](https://api.bannergress.com/bnrs/pictures/71b7ce979e492ea14124ae18d54c1f9b)
 

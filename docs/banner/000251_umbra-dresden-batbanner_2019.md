@@ -23,7 +23,7 @@ name: "Umbra Dresden Batbanner"
 ---
 # Umbra Dresden Batbanner
 
-*2019* • {{__REGION__}} • Deutschland
+*2019* • {{__region__}} • Deutschland
 
 
 

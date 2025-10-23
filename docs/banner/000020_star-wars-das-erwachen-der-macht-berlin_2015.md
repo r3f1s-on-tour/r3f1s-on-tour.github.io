@@ -23,7 +23,7 @@ name: "STAR WARS - Das Erwachen der Macht (Berlin)"
 ---
 # STAR WARS - Das Erwachen der Macht (Berlin)
 
-*2015* • {{__REGION__}} • Deutschland
+*2015* • {{__region__}} • Deutschland
 
 
 

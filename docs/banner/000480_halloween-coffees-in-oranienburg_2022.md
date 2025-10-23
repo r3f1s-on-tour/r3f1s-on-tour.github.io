@@ -23,7 +23,7 @@ name: "Halloween Coffees in Oranienburg"
 ---
 # Halloween Coffees in Oranienburg
 
-*2022* • {{__REGION__}} • Deutschland
+*2022* • {{__region__}} • Deutschland
 
 ![Halloween Coffees in Oranienburg](https://api.bannergress.com/bnrs/pictures/34708bc649d2d45395637b3f5ec63164)
 

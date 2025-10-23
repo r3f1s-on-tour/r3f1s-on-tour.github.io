@@ -23,7 +23,7 @@ name: "Grüner Krieger"
 ---
 # Grüner Krieger
 
-*2020* • {{__REGION__}} • Deutschland
+*2020* • {{__region__}} • Deutschland
 
 ![Grüner Krieger](https://api.bannergress.com/bnrs/pictures/c6cca0ff2a5a504df17fa983e4b3e143)
 

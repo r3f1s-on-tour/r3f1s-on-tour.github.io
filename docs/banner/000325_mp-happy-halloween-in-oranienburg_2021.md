@@ -23,7 +23,7 @@ name: "#MP Happy Halloween in Oranienburg"
 ---
 # #MP Happy Halloween in Oranienburg
 
-*2021* • {{__REGION__}} • Deutschland
+*2021* • {{__region__}} • Deutschland
 
 
 

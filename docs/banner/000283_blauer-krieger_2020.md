@@ -23,7 +23,7 @@ name: "Blauer Krieger"
 ---
 # Blauer Krieger
 
-*2020* • {{__REGION__}} • Deutschland
+*2020* • {{__region__}} • Deutschland
 
 ![Blauer Krieger](https://api.bannergress.com/bnrs/pictures/e308ea558019cb794a18cb214d61aa47)
 

@@ -23,7 +23,7 @@ name: "Münchner Tatort-Ermittler 1972 bis heute"
 ---
 # Münchner Tatort-Ermittler 1972 bis heute
 
-*2017* • {{__REGION__}} • Deutschland
+*2017* • {{__region__}} • Deutschland
 
 ![Münchner Tatort-Ermittler 1972 bis heute](https://api.bannergress.com/bnrs/pictures/77711b4cacce06b18fab3b10425c745d)
 
