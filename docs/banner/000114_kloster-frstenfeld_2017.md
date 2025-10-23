@@ -3,7 +3,7 @@ nummer: "114"
 startLatitude: "48.17097"
 startLongitude: "11.246921"
 titel: "Kloster Fürstenfeld"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/ff65ae5fc11860670e7443fbc8c0ee07"
 region: "Fürstenfeldbruck"
 country: "Deutschland"
 completed: "2814"
@@ -20,7 +20,7 @@ title: "Kloster Fürstenfeld"
 
 *2017* • Fürstenfeldbruck • Deutschland
 
-
+![Kloster Fürstenfeld](https://api.bannergress.com/bnrs/pictures/ff65ae5fc11860670e7443fbc8c0ee07)
 
 ## Details
 - **Distance (km):** 8.19

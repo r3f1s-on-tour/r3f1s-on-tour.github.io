@@ -3,7 +3,7 @@ nummer: "127"
 startLatitude: "49.413285"
 startLongitude: "8.709437"
 titel: "Bridge Runner"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/597a0aec5c059e13d831551ea49058b4"
 region: "Heidelberg"
 country: "Deutschland"
 completed: "3132"
@@ -20,7 +20,7 @@ title: "Bridge Runner"
 
 *2018* • Heidelberg • Deutschland
 
-
+![Bridge Runner](https://api.bannergress.com/bnrs/pictures/597a0aec5c059e13d831551ea49058b4)
 
 ## Details
 - **Distance (km):** 1.59

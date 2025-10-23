@@ -3,7 +3,7 @@ nummer: "129"
 startLatitude: "50.124608"
 startLongitude: "8.607167"
 titel: "Ameisennebel Rödelheim"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/4d55dd8c5da742149e679ca74e36da65"
 region: "Frankfurt am Main"
 country: "Deutschland"
 completed: "3156"
@@ -20,7 +20,7 @@ title: "Ameisennebel Rödelheim"
 
 *2018* • Frankfurt am Main • Deutschland
 
-
+![Ameisennebel Rödelheim](https://api.bannergress.com/bnrs/pictures/4d55dd8c5da742149e679ca74e36da65)
 
 ## Details
 - **Distance (km):** 7.88

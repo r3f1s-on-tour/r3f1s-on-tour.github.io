@@ -3,7 +3,7 @@ nummer: "134"
 startLatitude: "49.641673"
 startLongitude: "8.642779"
 titel: "HP Banner Mission"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/09194532139be6b93e15a2c0b2d3658c"
 region: "Heppenheim"
 country: "Deutschland"
 completed: "3252"
@@ -20,7 +20,7 @@ title: "HP Banner Mission"
 
 *2018* • Heppenheim • Deutschland
 
-
+![HP Banner Mission](https://api.bannergress.com/bnrs/pictures/09194532139be6b93e15a2c0b2d3658c)
 
 ## Details
 - **Distance (km):** 2.82

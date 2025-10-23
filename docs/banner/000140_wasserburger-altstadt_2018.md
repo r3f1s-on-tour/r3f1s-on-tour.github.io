@@ -3,7 +3,7 @@ nummer: "140"
 startLatitude: "48.062498"
 startLongitude: "12.227009"
 titel: "Wasserburger Altstadt"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/58c8d77320693939ff63ece4ba442a6d"
 region: "Wasserburg am Inn"
 country: "Deutschland"
 completed: "3348"
@@ -20,7 +20,7 @@ title: "Wasserburger Altstadt"
 
 *2018* • Wasserburg am Inn • Deutschland
 
-
+![Wasserburger Altstadt](https://api.bannergress.com/bnrs/pictures/58c8d77320693939ff63ece4ba442a6d)
 
 ## Details
 - **Distance (km):** 5.45

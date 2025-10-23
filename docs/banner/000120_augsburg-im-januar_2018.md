@@ -3,7 +3,7 @@ nummer: "120"
 startLatitude: "48.367034"
 startLongitude: "10.897771"
 titel: "Augsburg im Januar"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/a9b04629a49ec1e2b5f13c1fad7f785a"
 region: "Augsburg"
 country: "Deutschland"
 completed: "2934"
@@ -20,7 +20,7 @@ title: "Augsburg im Januar"
 
 *2018* • Augsburg • Deutschland
 
-
+![Augsburg im Januar](https://api.bannergress.com/bnrs/pictures/a9b04629a49ec1e2b5f13c1fad7f785a)
 
 ## Details
 

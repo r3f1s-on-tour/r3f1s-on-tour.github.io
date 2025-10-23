@@ -3,7 +3,7 @@ nummer: "135"
 startLatitude: "49.641064"
 startLongitude: "8.643477"
 titel: "Heppenheimer Mosaik"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/f0d8444b98b8e0c2271c6a92ea9ba1e6"
 region: "Heppenheim"
 country: "Deutschland"
 completed: "3264"
@@ -20,7 +20,7 @@ title: "Heppenheimer Mosaik"
 
 *2018* • Heppenheim • Deutschland
 
-
+![Heppenheimer Mosaik](https://api.bannergress.com/bnrs/pictures/f0d8444b98b8e0c2271c6a92ea9ba1e6)
 
 ## Details
 - **Distance (km):** 3.37

@@ -3,7 +3,7 @@ nummer: "118"
 startLatitude: "51.200384"
 startLongitude: "11.975287"
 titel: "Weißenfels Stadt an der Saale"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/3db3db3b1cd2be01b8bf9b55aa6a3dc2"
 region: "Weißenfels"
 country: "Deutschland"
 completed: "2880"
@@ -20,7 +20,7 @@ title: "Weißenfels Stadt an der Saale"
 
 *2018* • Weißenfels • Deutschland
 
-
+![Weißenfels Stadt an der Saale](https://api.bannergress.com/bnrs/pictures/3db3db3b1cd2be01b8bf9b55aa6a3dc2)
 
 ## Details
 - **Distance (km):** 4.70

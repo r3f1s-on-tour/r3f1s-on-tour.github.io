@@ -3,7 +3,7 @@ nummer: "130"
 startLatitude: "50.110412"
 startLongitude: "8.682509"
 titel: "Old Town Frankfurt"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/96a6752fccd798553e396984d7f492c4"
 region: "Frankfurt am Main"
 country: "Deutschland"
 completed: "3174"
@@ -20,7 +20,7 @@ title: "Old Town Frankfurt"
 
 *2018* • Frankfurt am Main • Deutschland
 
-
+![Old Town Frankfurt](https://api.bannergress.com/bnrs/pictures/96a6752fccd798553e396984d7f492c4)
 
 ## Details
 - **Distance (km):** 6.30

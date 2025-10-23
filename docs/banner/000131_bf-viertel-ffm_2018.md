@@ -3,7 +3,7 @@ nummer: "131"
 startLatitude: "50.107356"
 startLongitude: "8.664123"
 titel: "Bf-Viertel FFM"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/9299ab22066d3b8cc8e8e9cdd0397bcb"
 region: "Frankfurt am Main"
 country: "Deutschland"
 completed: "3180"
@@ -20,7 +20,7 @@ title: "Bf-Viertel FFM"
 
 *2018* • Frankfurt am Main • Deutschland
 
-
+![Bf-Viertel FFM](https://api.bannergress.com/bnrs/pictures/9299ab22066d3b8cc8e8e9cdd0397bcb)
 
 ## Details
 - **Distance (km):** 4.45

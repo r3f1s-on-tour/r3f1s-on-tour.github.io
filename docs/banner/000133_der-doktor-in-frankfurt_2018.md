@@ -3,7 +3,7 @@ nummer: "133"
 startLatitude: "50.122789"
 startLongitude: "8.70143"
 titel: "Der Doktor in Frankfurt"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/8546650e0b95d2bc754fda7c22f71304"
 region: "Frankfurt am Main"
 country: "Deutschland"
 completed: "3240"
@@ -20,7 +20,7 @@ title: "Der Doktor in Frankfurt"
 
 *2018* • Frankfurt am Main • Deutschland
 
-
+![Der Doktor in Frankfurt](https://api.bannergress.com/bnrs/pictures/8546650e0b95d2bc754fda7c22f71304)
 
 ## Details
 - **Distance (km):** 11.42

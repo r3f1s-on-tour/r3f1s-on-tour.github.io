@@ -3,7 +3,7 @@ nummer: "144"
 startLatitude: "48.15844"
 startLongitude: "11.511265"
 titel: "Nymphenburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/0cbba4493282badefafab15466afc9ab"
 region: "München"
 country: "Deutschland"
 completed: "3432"
@@ -20,7 +20,7 @@ title: "Nymphenburg"
 
 *2018* • München • Deutschland
 
-
+![Nymphenburg](https://api.bannergress.com/bnrs/pictures/0cbba4493282badefafab15466afc9ab)
 
 ## Details
 - **Distance (km):** 8.65

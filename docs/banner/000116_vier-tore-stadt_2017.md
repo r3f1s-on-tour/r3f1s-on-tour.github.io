@@ -3,7 +3,7 @@ nummer: "116"
 startLatitude: "53.557388"
 startLongitude: "13.260179"
 titel: "Vier-Tore-Stadt"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/f30d99b5e1db11fb34669f0f9562bfb6"
 region: "Neubrandenburg"
 country: "Deutschland"
 completed: "2844"
@@ -20,7 +20,7 @@ title: "Vier-Tore-Stadt"
 
 *2017* • Neubrandenburg • Deutschland
 
-
+![Vier-Tore-Stadt](https://api.bannergress.com/bnrs/pictures/f30d99b5e1db11fb34669f0f9562bfb6)
 
 ## Details
 
