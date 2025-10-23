@@ -7,10 +7,10 @@ make_banner_stats.py
 - Zeitraum: vom ersten erkannten Banner-Jahr bis heute (Jahre = inklusive Zählung).
 - Rekursives Scannen von docs/banner (Unterordner inkl.).
 - **Filter**: Es werden ausschließlich Banner-Dateien berücksichtigt, deren Frontmatter ein Feld 'nummer' enthält.
-- Jahresstatistik mit: Jahr, Banner, Missionen, MissionDays, km gesamt, **500er-Meilensteine** (aus kumulativem 'completed').
-- Länder- und Städte-Statistik: Tabellen nach Anzahl inkl. Anteil %, Top-15 + komplette Liste in <details>.
+- Jahresstatistik: Jahr, Banner, Missionen, MissionDays, km gesamt, 500er-Meilensteine (aus kumulativem 'completed').
+- Länder- & Städte-Statistik: Top-15 (mit Anteil %) + komplette Liste im <details>-Block.
 - Durchschnittsstatistik: Banner/∅Jahr/∅Monat, Missionen/∅Jahr/∅Monat, km/∅Jahr/∅Monat.
-- Gesamtstatistik: Gesamtbanner, Missionen gesamt, Gesamt-km, MissionDays gesamt, Zeitraum.
+- Gesamtstatistik: Gesamtbanner, Missionen gesamt, MissionDays gesamt, Gesamt-km, Zeitraum.
 Benötigt: pyyaml
 """
 import argparse
@@ -43,11 +43,10 @@ def parse_number(v):
     if v is None: return None
     if isinstance(v, (int,float)): return int(v)
     s = str(v).strip()
-    # allow +/- prefix
-    if s.startswith(('+','-')): 
+    if s.startswith(('+','-')):
         sign = -1 if s[0] == '-' else 1
-        s_body = s[1:]
-        return sign*int(s_body) if s_body.isdigit() else None
+        body = s[1:]
+        return sign*int(body) if body.isdigit() else None
     return int(s) if s.isdigit() else None
 
 def parse_date_any(v):
@@ -59,10 +58,8 @@ def parse_date_any(v):
     if s.isdigit() and len(s)==4:
         return date(int(s),1,1)
     for fmt in ("%Y-%m-%d","%Y/%m/%d","%d.%m.%Y"):
-        try:
-            return datetime.strptime(s, fmt).date()
-        except Exception:
-            pass
+        try: return datetime.strptime(s, fmt).date()
+        except Exception: pass
     return None
 
 def parse_float_km(v):
@@ -74,14 +71,11 @@ def parse_float_km(v):
 
 def parse_mission_day(v):
     if v in (True,"true","True","yes","ja","1",1,"y","t"): return 1
-    # allow numeric strings
-    try:
-        return 1 if int(str(v).strip()) != 0 else 0
-    except Exception:
-        return 0
+    try: return 1 if int(str(v).strip()) != 0 else 0
+    except Exception: return 0
 
 def banner_distance_km(fm: dict) -> float:
-    # treat these as kilometers (per user)
+    # interpretiert alle Felder als Kilometer
     for k in ("lengthKMeters","lengthKm","distance_km","km","distance","kilometer"):
         if k in fm and fm.get(k) not in (None, ""):
             return parse_float_km(fm.get(k))
@@ -89,9 +83,9 @@ def banner_distance_km(fm: dict) -> float:
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--banner-dir", default="docs/banner")
-    ap.add_argument("--out", default="docs/banner/stats.md")
-    ap.add_argument("--no-overwrite", action="store_true")
+    ap.add_argument("--banner-dir", default="docs/banner", help="Ordner mit Banner-Markdown")
+    ap.add_argument("--out", default="docs/banner/stats.md", help="Zieldatei für Statistik")
+    ap.add_argument("--no-overwrite", action="store_true", help="Vorhandene stats.md NICHT überschreiben")
     args = ap.parse_args()
 
     root = Path(".").resolve()
@@ -102,7 +96,7 @@ def main():
         print(f"Stats existiert bereits und --no-overwrite gesetzt: {out_path}")
         return 0
 
-    # Einlesen (nur Banner mit 'nummer')
+    # Einlesen (nur Dateien mit 'nummer')
     banners = []
     for path in banner_dir.rglob("*.md"):
         name = path.name.lower()
@@ -110,17 +104,16 @@ def main():
             continue
         text = path.read_text(encoding="utf-8", errors="ignore")
         fm = parse_frontmatter(text)
-        if not fm or "nummer" not in fm:
+        if not fm or "nummer" not in fm:  # nur echte Banner
             continue
 
-        # Datum/Jahr
         dt = parse_date_any(fm.get("date"))
         y = dt.year if dt else parse_number(fm.get("year"))
 
         km = banner_distance_km(fm)
         missions = parse_number(fm.get("missions")) or 0
         mday = parse_mission_day(fm.get("missionDay"))
-        completed = parse_number(fm.get("completed"))  # kumulativer Zähler (für 500er)
+        completed = parse_number(fm.get("completed"))  # kumulativ, für 500er
         city = fm.get("region") or fm.get("city") or fm.get("ort") or fm.get("stadt")
         country = fm.get("country") or fm.get("land") or fm.get("nation")
 
@@ -134,31 +127,28 @@ def main():
         print("Keine geeigneten Banner gefunden (mit 'nummer').")
         return 0
 
-    # Zeitraum
+    # Zeitraum (erstes Banner-Jahr -> heute)
     today = datetime.now().date()
     years = [b["year"] for b in banners if b["year"]]
     first_year = min(years) if years else today.year
     span_years = (today.year - first_year) + 1
     months = span_years * 12 if span_years else 1
 
-    # Sortierung chronologisch (Datum, sonst Jahr, dann Name)
+    # Chronologisch sortieren
     def s_key(b):
-        if b["date"]:
-            k = b["date"]
-        elif b["year"]:
-            k = date(b["year"],1,1)
-        else:
-            k = date(2999,1,1)
+        if b["date"]: k = b["date"]
+        elif b["year"]: k = date(b["year"],1,1)
+        else: k = date(2999,1,1)
         return (k, b["path"].name.lower())
     banners.sort(key=s_key)
 
-    # Aggregation je Jahr
+    # Gruppieren nach Jahr
     per_year = defaultdict(list)
     for b in banners:
         if b["year"]:
             per_year[b["year"]].append(b)
 
-    # 500er-Meilensteine: aus kumulativem 'completed'
+    # 500er-Meilensteine aus kumulativem 'completed'
     milestones_per_year = {}
     last_cum = 0
     for y in sorted(per_year):
@@ -179,23 +169,23 @@ def main():
 
     for y in sorted(per_year):
         lst = per_year[y]
-        km = sum(b["km"] for b in lst)
-        ms = sum(b["missions"] for b in lst)
-        md = sum(b["mday"] for b in lst)
+        km_sum = sum(b["km"] for b in lst)
+        ms_sum = sum(b["missions"] for b in lst)
+        md_sum = sum(b["mday"] for b in lst)
         year_rows.append({
-            "year": y, "banners": len(lst), "missions": ms, "md": md,
-            "km": km, "milestones": milestones_per_year.get(y, 0)
+            "year": y, "banners": len(lst), "missions": ms_sum, "md": md_sum,
+            "km": km_sum, "milestones": milestones_per_year.get(y, 0)
         })
         total_banners += len(lst)
-        total_km += km
-        total_missions += ms
-        total_mdays += md
+        total_km += km_sum
+        total_missions += ms_sum
+        total_mdays += md_sum
 
     # Länder / Städte
     countries = Counter(b["country"] for b in banners if b["country"])
     cities = Counter(b["city"] for b in banners if b["city"])
 
-    # Durchschnitt
+    # Durchschnittswerte (Jahr & Monat)
     avg_banners_year = total_banners / span_years if span_years else 0.0
     avg_banners_month = total_banners / months if months else 0.0
     avg_missions_year = total_missions / span_years if span_years else 0.0
@@ -203,9 +193,11 @@ def main():
     avg_km_year = total_km / span_years if span_years else 0.0
     avg_km_month = total_km / months if months else 0.0
 
-    # Markdown
+    # Markdown schreiben
     md = []
     md += ["# Banner-Statistik", ""]
+
+    # Gesamt
     md += ["## Gesamtstatistik", ""]
     md += [
         f"- **Gesamtbanner:** {total_banners}",
@@ -216,17 +208,19 @@ def main():
         ""
     ]
 
+    # Durchschnitt
     md += ["## Durchschnittsstatistik", ""]
     md += [
         f"- **Ø Banner/Jahr:** {avg_banners_year:.2f}",
         f"- **Ø Banner/Monat:** {avg_banners_month:.2f}",
         f"- **Ø Missionen/Jahr:** {avg_missions_year:.2f}",
-        f("- **Ø Missionen/Monat:** {:.2f}".format(avg_missions_month)),
+        f"- **Ø Missionen/Monat:** {avg_missions_month:.2f}",
         f"- **Ø km/Jahr:** {avg_km_year:.2f}",
-        f("- **Ø km/Monat:** {:.2f}".format(avg_km_month)),
+        f"- **Ø km/Monat:** {avg_km_month:.2f}",
         ""
     ]
 
+    # Jahresstatistik
     md += ["## Jahresstatistik", ""]
     if year_rows:
         md += ["| Jahr | Banner | Missionen | MissionDays | km | 500er-Meilensteine |",
@@ -237,36 +231,36 @@ def main():
         md += ["_Keine Jahresdaten gefunden._"]
     md += [""]
 
-    # Länder
+    # Länder (Top-15 + Details)
     md += ["## Länder (nach Anzahl Banner)", ""]
     if countries:
         total = total_banners if total_banners else 1
         md += ["| Land | Banner | Anteil |", "|:-----|------:|------:|"]
-        top = countries.most_common()
-        for c, v in top[:15]:
+        ordered = countries.most_common()
+        for c, v in ordered[:15]:
             md += [f"| {c} | {v} | {100.0*v/total:.1f}% |"]
-        if len(top) > 15:
+        if len(ordered) > 15:
             md += ["", "<details><summary>Komplette Liste anzeigen</summary>", ""]
             md += ["| Land | Banner | Anteil |", "|:-----|------:|------:|"]
-            for c, v in top:
+            for c, v in ordered:
                 md += [f"| {c} | {v} | {100.0*v/total:.1f}% |"]
             md += ["", "</details>", ""]
     else:
         md += ["_Keine Länder gefunden._"]
     md += [""]
 
-    # Städte
+    # Städte (Top-15 + Details)
     md += ["## Städte (nach Anzahl Banner)", ""]
     if cities:
         total = total_banners if total_banners else 1
         md += ["| Stadt | Banner | Anteil |", "|:------|------:|------:|"]
-        top = cities.most_common()
-        for c, v in top[:15]:
+        ordered = cities.most_common()
+        for c, v in ordered[:15]:
             md += [f"| {c} | {v} | {100.0*v/total:.1f}% |"]
-        if len(top) > 15:
+        if len(ordered) > 15:
             md += ["", "<details><summary>Komplette Liste anzeigen</summary>", ""]
             md += ["| Stadt | Banner | Anteil |", "|:------|------:|------:|"]
-            for c, v in top:
+            for c, v in ordered:
                 md += [f"| {c} | {v} | {100.0*v/total:.1f}% |"]
             md += ["", "</details>", ""]
     else:
@@ -280,4 +274,3 @@ def main():
 
 if __name__ == "__main__":
     raise SystemExit(main())
-    
