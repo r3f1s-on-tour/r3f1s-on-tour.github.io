@@ -35,132 +35,14 @@
 
 ## Länder (nach Anzahl Banner)
 
-| Land | Banner | Anteil |
-|:-----|------:|------:|
-| Deutschland | 558 | 89.6% |
-| España | 23 | 3.7% |
-| Polska | 17 | 2.7% |
-| Schweiz/Suisse/Svizzera/Svizra | 8 | 1.3% |
-| Österreich | 8 | 1.3% |
-| Sverige | 5 | 0.8% |
-| Magyarország | 2 | 0.3% |
-| Portugal | 1 | 0.2% |
-| Großbritannien | 1 | 0.2% |
+<div data-banner-stats="json" data-src="countries-data" data-top="10" data-title="Länder"></div>
+<script id="countries-data" type="application/json">
+[{"name": "Deutschland", "count": 558}, {"name": "España", "count": 23}, {"name": "Polska", "count": 17}, {"name": "Schweiz/Suisse/Svizzera/Svizra", "count": 8}, {"name": "Österreich", "count": 8}, {"name": "Sverige", "count": 5}, {"name": "Magyarország", "count": 2}, {"name": "Großbritannien", "count": 1}, {"name": "Portugal", "count": 1}]
+</script>
 
 ## Städte (nach Anzahl Banner)
 
-| Stadt | Banner | Anteil |
-|:------|------:|------:|
-| Berlin | 114 | 18.3% |
-| Oranienburg | 85 | 13.6% |
-| München | 75 | 12.0% |
-| Neubrandenburg | 39 | 6.3% |
-| Strasburg (Uckermark) | 32 | 5.1% |
-| Augsburg | 20 | 3.2% |
-| Dresden | 13 | 2.1% |
-| València | 13 | 2.1% |
-| Szczecin | 12 | 1.9% |
-| Stralsund | 11 | 1.8% |
-| Pasewalk | 9 | 1.4% |
-| Zürich | 8 | 1.3% |
-| Köln | 8 | 1.3% |
-| Hamburg | 7 | 1.1% |
-| Nürnberg | 7 | 1.1% |
-| Regensburg | 7 | 1.1% |
-| Frankfurt am Main | 6 | 1.0% |
-| Madrid | 6 | 1.0% |
-| Malmö | 5 | 0.8% |
-| Leipzig | 4 | 0.6% |
-
-<details><summary>Weitere Städte (alphabetisch)</summary>
-
-| Stadt | Banner | Anteil |
-|:------|------:|------:|
-| Altötting | 1 | 0.2% |
-| Bad Aibling | 2 | 0.3% |
-| Bergisch Gladbach | 1 | 0.2% |
-| Binz | 1 | 0.2% |
-| Birkenwerder | 3 | 0.5% |
-| Bonn | 4 | 0.6% |
-| Budapest | 2 | 0.3% |
-| Cambridge | 1 | 0.2% |
-| Chemnitz | 2 | 0.3% |
-| Cottbus - Chóśebuz | 2 | 0.3% |
-| Dachau | 1 | 0.2% |
-| Dortmund | 2 | 0.3% |
-| Drabenderhöhe | 1 | 0.2% |
-| Dörgenhausen - Němcy | 1 | 0.2% |
-| Düsseldorf | 4 | 0.6% |
-| Eching | 2 | 0.3% |
-| Freising | 1 | 0.2% |
-| Fürstenfeldbruck | 4 | 0.6% |
-| Garching bei München | 1 | 0.2% |
-| Gdansk | 1 | 0.2% |
-| Gdynia | 1 | 0.2% |
-| Germering | 1 | 0.2% |
-| Gildenhall | 1 | 0.2% |
-| Grafing bei München | 1 | 0.2% |
-| Greifswald | 3 | 0.5% |
-| Gröbenzell | 1 | 0.2% |
-| Göttingen | 3 | 0.5% |
-| Haag in Oberbayern | 1 | 0.2% |
-| Hannover | 3 | 0.5% |
-| Heidelberg | 1 | 0.2% |
-| Heppenheim | 2 | 0.3% |
-| Hoyerswerda - Wojerecy | 2 | 0.3% |
-| Ingolstadt | 1 | 0.2% |
-| Innsbruck | 1 | 0.2% |
-| Ismaning | 1 | 0.2% |
-| Katzow | 2 | 0.3% |
-| Kelheim | 1 | 0.2% |
-| Kirchheim bei München | 1 | 0.2% |
-| Landsberg am Lech | 1 | 0.2% |
-| Landshut | 1 | 0.2% |
-| Lohwinden | 1 | 0.2% |
-| Luckenwalde | 1 | 0.2% |
-| Lüttingen | 1 | 0.2% |
-| Mannheim | 1 | 0.2% |
-| Marschall | 1 | 0.2% |
-| Neustrelitz | 3 | 0.5% |
-| Oberpfaffenhofen | 1 | 0.2% |
-| Oberschleißheim | 2 | 0.3% |
-| Oberösterreich | 3 | 0.5% |
-| Oldenburg | 3 | 0.5% |
-| Palma | 4 | 0.6% |
-| Porto | 1 | 0.2% |
-| Potsdam | 3 | 0.5% |
-| Prenzlau | 1 | 0.2% |
-| Prohn | 1 | 0.2% |
-| Recklinghausen | 1 | 0.2% |
-| Rosenheim | 4 | 0.6% |
-| Rostock | 2 | 0.3% |
-| Rotenburg an der Fulda | 3 | 0.5% |
-| Röbel/Müritz | 2 | 0.3% |
-| Ründeroth | 1 | 0.2% |
-| Salzburg | 4 | 0.6% |
-| Schwedt/Oder | 1 | 0.2% |
-| Schwerin | 3 | 0.5% |
-| Senftenberg - Zły Komorow | 1 | 0.2% |
-| Sollngriesbach | 1 | 0.2% |
-| Straubing | 1 | 0.2% |
-| Torun | 1 | 0.2% |
-| Ulm | 1 | 0.2% |
-| Unterföhring | 1 | 0.2% |
-| Unterschleißheim | 3 | 0.5% |
-| Vaterstetten | 2 | 0.3% |
-| Velten | 1 | 0.2% |
-| Waldkraiburg | 1 | 0.2% |
-| Warsaw | 1 | 0.2% |
-| Wasserburg am Inn | 1 | 0.2% |
-| Webling | 1 | 0.2% |
-| Weißenfels | 1 | 0.2% |
-| Wendlingen am Neckar | 1 | 0.2% |
-| Willing | 1 | 0.2% |
-| Wittenberg | 1 | 0.2% |
-| Woldegk | 2 | 0.3% |
-| Wroclaw | 1 | 0.2% |
-| Wuppertal | 4 | 0.6% |
-| Würzburg | 1 | 0.2% |
-
-</details>
-
+<div data-banner-stats="json" data-src="cities-data" data-top="20" data-title="Städte"></div>
+<script id="cities-data" type="application/json">
+[{"name": "Berlin", "count": 114}, {"name": "Oranienburg", "count": 85}, {"name": "München", "count": 75}, {"name": "Neubrandenburg", "count": 39}, {"name": "Strasburg (Uckermark)", "count": 32}, {"name": "Augsburg", "count": 20}, {"name": "Dresden", "count": 13}, {"name": "València", "count": 13}, {"name": "Szczecin", "count": 12}, {"name": "Stralsund", "count": 11}, {"name": "Pasewalk", "count": 9}, {"name": "Köln", "count": 8}, {"name": "Zürich", "count": 8}, {"name": "Hamburg", "count": 7}, {"name": "Nürnberg", "count": 7}, {"name": "Regensburg", "count": 7}, {"name": "Frankfurt am Main", "count": 6}, {"name": "Madrid", "count": 6}, {"name": "Malmö", "count": 5}, {"name": "Bonn", "count": 4}, {"name": "Düsseldorf", "count": 4}, {"name": "Fürstenfeldbruck", "count": 4}, {"name": "Leipzig", "count": 4}, {"name": "Palma", "count": 4}, {"name": "Rosenheim", "count": 4}, {"name": "Salzburg", "count": 4}, {"name": "Wuppertal", "count": 4}, {"name": "Birkenwerder", "count": 3}, {"name": "Greifswald", "count": 3}, {"name": "Göttingen", "count": 3}, {"name": "Hannover", "count": 3}, {"name": "Neustrelitz", "count": 3}, {"name": "Oberösterreich", "count": 3}, {"name": "Oldenburg", "count": 3}, {"name": "Potsdam", "count": 3}, {"name": "Rotenburg an der Fulda", "count": 3}, {"name": "Schwerin", "count": 3}, {"name": "Unterschleißheim", "count": 3}, {"name": "Bad Aibling", "count": 2}, {"name": "Budapest", "count": 2}, {"name": "Chemnitz", "count": 2}, {"name": "Cottbus - Chóśebuz", "count": 2}, {"name": "Dortmund", "count": 2}, {"name": "Eching", "count": 2}, {"name": "Heppenheim", "count": 2}, {"name": "Hoyerswerda - Wojerecy", "count": 2}, {"name": "Katzow", "count": 2}, {"name": "Oberschleißheim", "count": 2}, {"name": "Rostock", "count": 2}, {"name": "Röbel/Müritz", "count": 2}, {"name": "Vaterstetten", "count": 2}, {"name": "Woldegk", "count": 2}, {"name": "Altötting", "count": 1}, {"name": "Bergisch Gladbach", "count": 1}, {"name": "Binz", "count": 1}, {"name": "Cambridge", "count": 1}, {"name": "Dachau", "count": 1}, {"name": "Drabenderhöhe", "count": 1}, {"name": "Dörgenhausen - Němcy", "count": 1}, {"name": "Freising", "count": 1}, {"name": "Garching bei München", "count": 1}, {"name": "Gdansk", "count": 1}, {"name": "Gdynia", "count": 1}, {"name": "Germering", "count": 1}, {"name": "Gildenhall", "count": 1}, {"name": "Grafing bei München", "count": 1}, {"name": "Gröbenzell", "count": 1}, {"name": "Haag in Oberbayern", "count": 1}, {"name": "Heidelberg", "count": 1}, {"name": "Ingolstadt", "count": 1}, {"name": "Innsbruck", "count": 1}, {"name": "Ismaning", "count": 1}, {"name": "Kelheim", "count": 1}, {"name": "Kirchheim bei München", "count": 1}, {"name": "Landsberg am Lech", "count": 1}, {"name": "Landshut", "count": 1}, {"name": "Lohwinden", "count": 1}, {"name": "Luckenwalde", "count": 1}, {"name": "Lüttingen", "count": 1}, {"name": "Mannheim", "count": 1}, {"name": "Marschall", "count": 1}, {"name": "Oberpfaffenhofen", "count": 1}, {"name": "Porto", "count": 1}, {"name": "Prenzlau", "count": 1}, {"name": "Prohn", "count": 1}, {"name": "Recklinghausen", "count": 1}, {"name": "Ründeroth", "count": 1}, {"name": "Schwedt/Oder", "count": 1}, {"name": "Senftenberg - Zły Komorow", "count": 1}, {"name": "Sollngriesbach", "count": 1}, {"name": "Straubing", "count": 1}, {"name": "Torun", "count": 1}, {"name": "Ulm", "count": 1}, {"name": "Unterföhring", "count": 1}, {"name": "Velten", "count": 1}, {"name": "Waldkraiburg", "count": 1}, {"name": "Warsaw", "count": 1}, {"name": "Wasserburg am Inn", "count": 1}, {"name": "Webling", "count": 1}, {"name": "Weißenfels", "count": 1}, {"name": "Wendlingen am Neckar", "count": 1}, {"name": "Willing", "count": 1}, {"name": "Wittenberg", "count": 1}, {"name": "Wroclaw", "count": 1}, {"name": "Würzburg", "count": 1}]
+</script>
