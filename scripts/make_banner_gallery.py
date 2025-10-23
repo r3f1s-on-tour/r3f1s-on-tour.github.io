@@ -9,7 +9,7 @@ Erzeugt docs/banner/gallery.md aus vorhandenen Banner-Seiten.
     - title/titel/name (Beschriftung)
     - picture/pic_url/picture_url/image/img/pic (Bild-URL; Pflicht)
 - erzeugt eine **einspaltige** Galerie (ein Bild pro Zeile)
-  Klick auf das Bild öffnet die Banner-Seite: /banner/<stem>/
+  Klick auf den **Button unter dem Bild** öffnet die Banner-Seite: /banner/<stem>/
 - Bilder werden lazy geladen
 
 Aufruf:
@@ -142,7 +142,8 @@ def collect_items(banner_dir: Path, verbose: bool = False) -> list[dict]:
 def render_single_column_md(items: list[dict]) -> str:
     """
     Rendert eine **einspaltige** Galerie.
-    Nutzt Inline-Styles, um Theme-Grids/Flex sicher zu übersteuern.
+    Bild oben (nicht verlinkt), darunter ein **Button** mit dem bisherigen Text
+    "#<nummer> — <title>", der zur Banner-Seite verlinkt.
     """
     lines = []
     lines.append("---")
@@ -160,34 +161,43 @@ def render_single_column_md(items: list[dict]) -> str:
 
     for it in items:
         alt = f"#{it['nummer']} — {it['title']}"
+        label_html = f"<strong>#{it['nummer']}</strong> — {it['title']}"
+
         # Karte block-level, volle Breite, Abstand unten
         lines.append(
             '<div class="banner-item" '
-            'style="display:block;width:100%;clear:both;margin:0 0 20px 0;">'
+            'style="display:block;width:100%;clear:both;margin:0 0 24px 0;">'
         )
+
+        # Bild (nicht verlinkt)
+        lines.append('  <figure style="display:block;width:100%;margin:0;">')
         lines.append(
-            f'  <a href="{it["link"]}" '
-            'style="display:block;width:100%;text-decoration:none;border:0;outline:0;">'
-        )
-        lines.append('    <figure style="display:block;width:100%;margin:0;">')
-        lines.append(
-            '      <img src="{src}" alt="{alt}" loading="lazy" decoding="async" '
+            '    <img src="{src}" alt="{alt}" loading="lazy" decoding="async" '
             'style="display:block;width:100%;height:auto;border-radius:10px;"/>'.format(
                 src=it["picture"], alt=alt.replace('"', "&quot;")
             )
         )
+        lines.append("  </figure>")
+
+        # Button unter dem Bild
         lines.append(
-            '      <figcaption style="display:block;width:100%;margin-top:8px;'
-            'font-size:1rem;opacity:0.9;">'
+            '  <div class="banner-cta" style="display:block;width:100%;margin-top:10px;">'
         )
         lines.append(
-            "        <strong>#{nummer}</strong> — {title}".format(
-                nummer=it["nummer"], title=it["title"]
+            '    <a href="{href}" role="button" '
+            'style="display:inline-block;padding:10px 14px;border-radius:8px;'
+            'text-decoration:none;border:1px solid currentColor;'
+            'font-size:1rem;line-height:1.2;'
+            'background: transparent;'
+            '">'
+            "{label}"
+            "</a>".format(
+                href=it["link"],
+                label=label_html,
             )
         )
-        lines.append("      </figcaption>")
-        lines.append("    </figure>")
-        lines.append("  </a>")
+        lines.append("  </div>")
+
         lines.append("</div>")
 
     lines.append("</div>")
