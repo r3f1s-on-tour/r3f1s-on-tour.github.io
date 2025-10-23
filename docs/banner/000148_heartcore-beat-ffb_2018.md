@@ -16,8 +16,8 @@ lengthKMeters: "4,09"
 umap: ""
 title: "HeartCore Beat FFB"
 ---
+# {{ page.meta.title | default('Untitled') }}
 
-# {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
 
 ## Links
@@ -33,4 +33,3 @@ _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
 - **missions**: {{ page.meta.missions }}
 - **onyx**: {{ page.meta.onyx }}
 - **lengthKMeters**: {{ page.meta.lengthKMeters }}
-

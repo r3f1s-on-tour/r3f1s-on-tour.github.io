@@ -16,8 +16,8 @@ lengthKMeters: "6,88"
 umap: ""
 title: "Toast Run Part 3"
 ---
+# {{ page.meta.title | default('Untitled') }}
 
-# {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
 
 ## Infos
@@ -31,4 +31,3 @@ _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
 - **onyx**: {{ page.meta.onyx }}
 - **description**: {{ page.meta.description }}
 - **lengthKMeters**: {{ page.meta.lengthKMeters }}
-

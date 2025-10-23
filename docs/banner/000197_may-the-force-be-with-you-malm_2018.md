@@ -16,8 +16,8 @@ lengthKMeters: "1,91"
 umap: ""
 title: "May the force be with you Malmö"
 ---
+# {{ page.meta.title | default('Untitled') }}
 
-# {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
 
 ## Links
@@ -34,4 +34,3 @@ _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
 - **onyx**: {{ page.meta.onyx }}
 - **description**: {{ page.meta.description }}
 - **lengthKMeters**: {{ page.meta.lengthKMeters }}
-

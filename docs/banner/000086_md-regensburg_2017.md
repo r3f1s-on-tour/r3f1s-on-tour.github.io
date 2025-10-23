@@ -16,8 +16,8 @@ lengthKMeters: "29,30"
 umap: ""
 title: "MD Regensburg"
 ---
+# {{ page.meta.title | default('Untitled') }}
 
-# {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
 
 ## Links
@@ -33,4 +33,3 @@ _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
 - **missions**: {{ page.meta.missions }}
 - **onyx**: {{ page.meta.onyx }}
 - **lengthKMeters**: {{ page.meta.lengthKMeters }}
-

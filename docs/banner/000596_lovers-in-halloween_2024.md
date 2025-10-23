@@ -16,8 +16,8 @@ lengthKMeters: "10,574"
 umap: ""
 title: "Lovers in Halloween"
 ---
+# {{ page.meta.title | default('Untitled') }}
 
-# {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
 
 ## Bild
@@ -37,4 +37,3 @@ _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
 - **onyx**: {{ page.meta.onyx }}
 - **description**: {{ page.meta.description }}
 - **lengthKMeters**: {{ page.meta.lengthKMeters }}
-

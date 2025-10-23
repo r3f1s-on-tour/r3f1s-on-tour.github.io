@@ -16,8 +16,8 @@ lengthKMeters: "12,84"
 umap: "https-//umap.openstreetmap.de/de/map/r3f1zul-on-tour_19893?feature=Rostocker-Flagge#18/54.077793/12.129966"
 title: "Rostocker Flagge"
 ---
+# {{ page.meta.title | default('Untitled') }}
 
-# {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
 
 ## Bild
@@ -38,4 +38,3 @@ _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
 - **description**: {{ page.meta.description }}
 - **lengthKMeters**: {{ page.meta.lengthKMeters }}
 - **umap**: {{ page.meta.umap }}
-

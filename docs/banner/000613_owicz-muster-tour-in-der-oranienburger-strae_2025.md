@@ -16,8 +16,8 @@ lengthKMeters: "1,6"
 umap: ""
 title: "Łowicz-Muster Tour in der Oranienburger Straße"
 ---
+# {{ page.meta.title | default('Untitled') }}
 
-# {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
 
 ## Bild
@@ -34,4 +34,3 @@ _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
 - **missions**: {{ page.meta.missions }}
 - **onyx**: {{ page.meta.onyx }}
 - **lengthKMeters**: {{ page.meta.lengthKMeters }}
-

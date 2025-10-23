@@ -16,8 +16,8 @@ lengthKMeters: ""
 umap: ""
 title: "Besuch der 4 Tore"
 ---
+# {{ page.meta.title | default('Untitled') }}
 
-# {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
 
 ## Bild
@@ -32,4 +32,3 @@ _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
 - **completed**: {{ page.meta.completed }}
 - **missions**: {{ page.meta.missions }}
 - **onyx**: {{ page.meta.onyx }}
-

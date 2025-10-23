@@ -16,8 +16,8 @@ lengthKMeters: ""
 umap: ""
 title: "Raute Blau Weiß 1"
 ---
+# {{ page.meta.title | default('Untitled') }}
 
-# {{ page.meta.title }}
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
 
 ## Links
@@ -31,4 +31,3 @@ _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
 - **country**: {{ page.meta.country }}
 - **completed**: {{ page.meta.completed }}
 - **missions**: {{ page.meta.missions }}
-
