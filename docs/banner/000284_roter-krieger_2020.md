@@ -3,7 +3,7 @@ nummer: "284"
 startLatitude: "48.139281"
 startLongitude: "11.566211"
 titel: "Roter Krieger"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/7c0d4c1bb53b12aa7849dbe5d1150d9a"
 region: "München"
 country: "Deutschland"
 completed: "6630"
@@ -20,7 +20,7 @@ title: "Roter Krieger"
 
 *2020* • München • Deutschland
 
-
+![Roter Krieger](https://api.bannergress.com/bnrs/pictures/7c0d4c1bb53b12aa7849dbe5d1150d9a)
 
 ## Details
 - **Distance (km):** 9.01

@@ -3,7 +3,7 @@ nummer: "308"
 startLatitude: "52.520647"
 startLongitude: "13.386811"
 titel: "Enlightened Berlinomaly"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/f30fb078a7e33b887f2748a04e80bdf6"
 region: "Berlin"
 country: "Deutschland"
 completed: "7242"
@@ -20,7 +20,7 @@ title: "Enlightened Berlinomaly"
 
 *2021* • Berlin • Deutschland
 
-
+![Enlightened Berlinomaly](https://api.bannergress.com/bnrs/pictures/f30fb078a7e33b887f2748a04e80bdf6)
 
 ## Details
 - **Distance (km):** 12.02

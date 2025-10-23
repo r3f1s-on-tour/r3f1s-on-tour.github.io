@@ -3,7 +3,7 @@ nummer: "288"
 startLatitude: "48.137238"
 startLongitude: "11.576208"
 titel: "Visit Requiem Munich - Munich"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/f1caacbbecf2101b63efa6ff94010fc4"
 region: "München"
 country: "Deutschland"
 completed: "6708"
@@ -20,7 +20,7 @@ title: "Visit Requiem Munich - Munich"
 
 *2020* • München • Deutschland
 
-
+![Visit Requiem Munich - Munich](https://api.bannergress.com/bnrs/pictures/f1caacbbecf2101b63efa6ff94010fc4)
 
 ## Details
 - **Distance (km):** 1.09

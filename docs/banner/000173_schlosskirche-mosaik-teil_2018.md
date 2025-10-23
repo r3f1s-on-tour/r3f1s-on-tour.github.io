@@ -3,7 +3,7 @@ nummer: "173"
 startLatitude: "53.363804"
 startLongitude: "13.062367"
 titel: "Schlosskirche Mosaik Teil"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/c3baf44c9c684a9e2adc92077d9b7157"
 region: "Neustrelitz"
 country: "Deutschland"
 completed: "4164"
@@ -20,7 +20,7 @@ title: "Schlosskirche Mosaik Teil"
 
 *2018* • Neustrelitz • Deutschland
 
-
+![Schlosskirche Mosaik Teil](https://api.bannergress.com/bnrs/pictures/c3baf44c9c684a9e2adc92077d9b7157)
 
 ## Details
 - **Distance (km):** 10.45

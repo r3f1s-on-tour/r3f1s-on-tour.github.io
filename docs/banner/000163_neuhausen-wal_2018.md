@@ -3,7 +3,7 @@ nummer: "163"
 startLatitude: "48.152683"
 startLongitude: "11.535624"
 titel: "Neuhausen Wal"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/6e2bbc52719c487e9845e7c85525fbe9"
 region: "München"
 country: "Deutschland"
 completed: "3948"
@@ -20,7 +20,7 @@ title: "Neuhausen Wal"
 
 *2018* • München • Deutschland
 
-
+![Neuhausen Wal](https://api.bannergress.com/bnrs/pictures/6e2bbc52719c487e9845e7c85525fbe9)
 
 ## Details
 - **Distance (km):** 9.80

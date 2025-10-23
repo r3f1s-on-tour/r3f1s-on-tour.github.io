@@ -3,7 +3,7 @@ nummer: "178"
 startLatitude: "48.171304"
 startLongitude: "11.24622"
 titel: "Whaleomaly is Coming [Kloster Fürstenfeld]"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/e34655fb861a32735a0c084ebbd3bd52"
 region: "Fürstenfeldbruck"
 country: "Deutschland"
 completed: "4254"
@@ -20,7 +20,7 @@ title: "Whaleomaly is Coming [Kloster Fürstenfeld]"
 
 *2018* • Fürstenfeldbruck • Deutschland
 
-
+![Whaleomaly is Coming [Kloster Fürstenfeld]](https://api.bannergress.com/bnrs/pictures/e34655fb861a32735a0c084ebbd3bd52)
 
 ## Details
 - **Distance (km):** 2.49

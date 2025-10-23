@@ -3,7 +3,7 @@ nummer: "305"
 startLatitude: "52.754504"
 startLongitude: "13.248415"
 titel: "Entdeckungsrunde OBurg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/320f8d96da93b09785eed451e073c100"
 region: "Oranienburg"
 country: "Deutschland"
 completed: "7110"
@@ -20,7 +20,7 @@ title: "Entdeckungsrunde OBurg"
 
 *2021* • Oranienburg • Deutschland
 
-
+![Entdeckungsrunde OBurg](https://api.bannergress.com/bnrs/pictures/320f8d96da93b09785eed451e073c100)
 
 ## Details
 - **Distance (km):** 1.70

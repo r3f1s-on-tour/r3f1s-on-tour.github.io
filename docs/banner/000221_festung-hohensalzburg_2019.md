@@ -3,7 +3,7 @@ nummer: "221"
 startLatitude: "47.79624"
 startLongitude: "13.046262"
 titel: "Festung Hohensalzburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/b437529817bcc6d5425441abf3144440"
 region: "Salzburg"
 country: "Österreich"
 completed: "5340"
@@ -20,7 +20,7 @@ title: "Festung Hohensalzburg"
 
 *2019* • Salzburg • Österreich
 
-
+![Festung Hohensalzburg](https://api.bannergress.com/bnrs/pictures/b437529817bcc6d5425441abf3144440)
 
 ## Details
 - **Distance (km):** 4.20

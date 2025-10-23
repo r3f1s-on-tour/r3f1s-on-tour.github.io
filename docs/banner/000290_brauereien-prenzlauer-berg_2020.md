@@ -3,7 +3,7 @@ nummer: "290"
 startLatitude: "52.545513"
 startLongitude: "13.410809"
 titel: "Brauereien Prenzlauer Berg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/b53e7ac7984fb73918dca6565c567454"
 region: "Berlin"
 country: "Deutschland"
 completed: "6744"
@@ -20,7 +20,7 @@ title: "Brauereien Prenzlauer Berg"
 
 *2020* • Berlin • Deutschland
 
-
+![Brauereien Prenzlauer Berg](https://api.bannergress.com/bnrs/pictures/b53e7ac7984fb73918dca6565c567454)
 
 ## Details
 - **Distance (km):** 7.29

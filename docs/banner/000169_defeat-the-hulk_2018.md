@@ -3,7 +3,7 @@ nummer: "169"
 startLatitude: "52.514989"
 startLongitude: "13.464558"
 titel: "Defeat the Hulk"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/d74f425a7878e1a0b7b3060823c637f2"
 region: "Berlin"
 country: "Deutschland"
 completed: "4104"
@@ -20,7 +20,7 @@ title: "Defeat the Hulk"
 
 *2018* • Berlin • Deutschland
 
-
+![Defeat the Hulk](https://api.bannergress.com/bnrs/pictures/d74f425a7878e1a0b7b3060823c637f2)
 
 ## Details
 - **Distance (km):** 1.62

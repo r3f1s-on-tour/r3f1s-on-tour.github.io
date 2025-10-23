@@ -3,7 +3,7 @@ nummer: "300"
 startLatitude: "52.534998"
 startLongitude: "13.419149"
 titel: "Holocaust Mahnmal"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/9a68e7c78f3493a1011adcd9ebaf2808"
 region: "Berlin"
 country: "Deutschland"
 completed: "7008"
@@ -20,7 +20,7 @@ title: "Holocaust Mahnmal"
 
 *2021* • Berlin • Deutschland
 
-
+![Holocaust Mahnmal](https://api.bannergress.com/bnrs/pictures/9a68e7c78f3493a1011adcd9ebaf2808)
 
 ## Details
 - **Distance (km):** 7.79

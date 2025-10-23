@@ -3,7 +3,7 @@ nummer: "203"
 startLatitude: "48.290208"
 startLongitude: "14.289772"
 titel: "Whaleomaly Is Here"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/7ef3c3398c4b6d2c6a3cb7f6ea40f196"
 region: "Oberösterreich"
 country: "Österreich"
 completed: "4770"
@@ -20,7 +20,7 @@ title: "Whaleomaly Is Here"
 
 *2018* • Oberösterreich • Österreich
 
-
+![Whaleomaly Is Here](https://api.bannergress.com/bnrs/pictures/7ef3c3398c4b6d2c6a3cb7f6ea40f196)
 
 ## Details
 - **Distance (km):** 7.16

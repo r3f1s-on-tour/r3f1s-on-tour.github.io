@@ -3,7 +3,7 @@ nummer: "160"
 startLatitude: "48.176896"
 startLongitude: "11.749702"
 titel: "Whaleomaly is Coming [Kirchheim b. München]"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/b8ce3006986dd6bc714822b7960454d9"
 region: "Kirchheim bei München"
 country: "Deutschland"
 completed: "3840"
@@ -20,7 +20,7 @@ title: "Whaleomaly is Coming [Kirchheim b. München]"
 
 *2018* • Kirchheim bei München • Deutschland
 
-
+![Whaleomaly is Coming [Kirchheim b. München]](https://api.bannergress.com/bnrs/pictures/b8ce3006986dd6bc714822b7960454d9)
 
 ## Details
 - **Distance (km):** 4.55

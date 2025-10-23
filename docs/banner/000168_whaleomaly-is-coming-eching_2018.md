@@ -3,7 +3,7 @@ nummer: "168"
 startLatitude: "48.302697"
 startLongitude: "11.615827"
 titel: "Whaleomaly is Coming [Eching]"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/bc838cb116ae12100e0bb126b9485086"
 region: "Eching"
 country: "Deutschland"
 completed: "4098"
@@ -20,7 +20,7 @@ title: "Whaleomaly is Coming [Eching]"
 
 *2018* • Eching • Deutschland
 
-
+![Whaleomaly is Coming [Eching]](https://api.bannergress.com/bnrs/pictures/bc838cb116ae12100e0bb126b9485086)
 
 ## Details
 

@@ -3,7 +3,7 @@ nummer: "301"
 startLatitude: "52.509603"
 startLongitude: "13.43469"
 titel: "Imperfect Humanist"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/ef586f48318a79b1033edc5fe8ab1539"
 region: "Berlin"
 country: "Deutschland"
 completed: "7014"
@@ -20,7 +20,7 @@ title: "Imperfect Humanist"
 
 *2021* • Berlin • Deutschland
 
-
+![Imperfect Humanist](https://api.bannergress.com/bnrs/pictures/ef586f48318a79b1033edc5fe8ab1539)
 
 ## Details
 - **Distance (km):** 1.25

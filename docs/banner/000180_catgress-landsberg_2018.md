@@ -3,7 +3,7 @@ nummer: "180"
 startLatitude: "48.049682"
 startLongitude: "10.876695"
 titel: "Catgress Landsberg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/3d9bb90b0fe08fc5ce4239ee33a76362"
 region: "Landsberg am Lech"
 country: "Deutschland"
 completed: "4332"
@@ -20,7 +20,7 @@ title: "Catgress Landsberg"
 
 *2018* • Landsberg am Lech • Deutschland
 
-
+![Catgress Landsberg](https://api.bannergress.com/bnrs/pictures/3d9bb90b0fe08fc5ce4239ee33a76362)
 
 ## Details
 - **Distance (km):** 8.12

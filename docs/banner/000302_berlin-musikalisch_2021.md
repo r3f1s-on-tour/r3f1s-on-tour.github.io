@@ -3,7 +3,7 @@ nummer: "302"
 startLatitude: "52.499205"
 startLongitude: "13.445166"
 titel: "Berlin musikalisch"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/a89817eb02ca154c8288464ef5510dc1"
 region: "Berlin"
 country: "Deutschland"
 completed: "7062"
@@ -20,7 +20,7 @@ title: "Berlin musikalisch"
 
 *2021* • Berlin • Deutschland
 
-
+![Berlin musikalisch](https://api.bannergress.com/bnrs/pictures/a89817eb02ca154c8288464ef5510dc1)
 
 ## Details
 - **Distance (km):** 15.82

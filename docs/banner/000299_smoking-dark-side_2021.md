@@ -3,7 +3,7 @@ nummer: "299"
 startLatitude: "52.54174"
 startLongitude: "13.412545"
 titel: "Smoking Dark Side"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/5c8a86424ccab3cec2fdadb28b4c2f95"
 region: "Berlin"
 country: "Deutschland"
 completed: "6978"
@@ -20,7 +20,7 @@ title: "Smoking Dark Side"
 
 *2021* • Berlin • Deutschland
 
-
+![Smoking Dark Side](https://api.bannergress.com/bnrs/pictures/5c8a86424ccab3cec2fdadb28b4c2f95)
 
 ## Details
 - **Distance (km):** 7.26

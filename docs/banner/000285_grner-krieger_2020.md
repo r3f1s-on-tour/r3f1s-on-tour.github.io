@@ -3,7 +3,7 @@ nummer: "285"
 startLatitude: "48.139613"
 startLongitude: "11.566192"
 titel: "Grüner Krieger"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/c6cca0ff2a5a504df17fa983e4b3e143"
 region: "München"
 country: "Deutschland"
 completed: "6684"
@@ -20,7 +20,7 @@ title: "Grüner Krieger"
 
 *2020* • München • Deutschland
 
-
+![Grüner Krieger](https://api.bannergress.com/bnrs/pictures/c6cca0ff2a5a504df17fa983e4b3e143)
 
 ## Details
 - **Distance (km):** 15.59

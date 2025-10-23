@@ -3,7 +3,7 @@ nummer: "298"
 startLatitude: "52.747433"
 startLongitude: "13.156316"
 titel: "Tier-, Freizeit- und Saurierpark Germendorf"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/c6287d71855e887912e3b88b4b9a1fa4"
 region: "Oranienburg"
 country: "Deutschland"
 completed: "6960"
@@ -20,7 +20,7 @@ title: "Tier-, Freizeit- und Saurierpark Germendorf"
 
 *2021* • Oranienburg • Deutschland
 
-
+![Tier-, Freizeit- und Saurierpark Germendorf](https://api.bannergress.com/bnrs/pictures/c6287d71855e887912e3b88b4b9a1fa4)
 
 ## Details
 - **Distance (km):** 4.32

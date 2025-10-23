@@ -3,7 +3,7 @@ nummer: "283"
 startLatitude: "48.140198"
 startLongitude: "11.560711"
 titel: "Blauer Krieger"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/e308ea558019cb794a18cb214d61aa47"
 region: "München"
 country: "Deutschland"
 completed: "6576"
@@ -20,7 +20,7 @@ title: "Blauer Krieger"
 
 *2020* • München • Deutschland
 
-
+![Blauer Krieger](https://api.bannergress.com/bnrs/pictures/e308ea558019cb794a18cb214d61aa47)
 
 ## Details
 - **Distance (km):** 11.78

@@ -3,7 +3,7 @@ nummer: "294"
 startLatitude: "52.553248"
 startLongitude: "13.416332"
 titel: "Pankow Irony"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/11a98eea02557e9b3dba0cb5e73d42d3"
 region: "Berlin"
 country: "Deutschland"
 completed: "6834"
@@ -20,7 +20,7 @@ title: "Pankow Irony"
 
 *2020* • Berlin • Deutschland
 
-
+![Pankow Irony](https://api.bannergress.com/bnrs/pictures/11a98eea02557e9b3dba0cb5e73d42d3)
 
 ## Details
 - **Distance (km):** 9.21

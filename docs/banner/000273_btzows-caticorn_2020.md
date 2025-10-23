@@ -3,7 +3,7 @@ nummer: "273"
 startLatitude: "52.533281"
 startLongitude: "13.430011"
 titel: "Bötzows Caticorn"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/9fa509e5426ba652665d5010c1df41e3"
 region: "Berlin"
 country: "Deutschland"
 completed: "6426"
@@ -20,7 +20,7 @@ title: "Bötzows Caticorn"
 
 *2020* • Berlin • Deutschland
 
-
+![Bötzows Caticorn](https://api.bannergress.com/bnrs/pictures/9fa509e5426ba652665d5010c1df41e3)
 
 ## Details
 - **Distance (km):** 7.65

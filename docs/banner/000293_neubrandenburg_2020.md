@@ -3,7 +3,7 @@ nummer: "293"
 startLatitude: "53.559027"
 startLongitude: "13.265403"
 titel: "Neubrandenburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/d85936994fac2c3511a39ba11e6bdcde"
 region: "Neubrandenburg"
 country: "Deutschland"
 completed: "6822"
@@ -20,7 +20,7 @@ title: "Neubrandenburg"
 
 *2020* • Neubrandenburg • Deutschland
 
-
+![Neubrandenburg](https://api.bannergress.com/bnrs/pictures/d85936994fac2c3511a39ba11e6bdcde)
 
 ## Details
 - **Distance (km):** 7.10

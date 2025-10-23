@@ -3,7 +3,7 @@ nummer: "220"
 startLatitude: "47.804923"
 startLongitude: "13.049646"
 titel: "Salzburg City Panorama"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/4e6878a9715426b2ff73e04a2b533f69"
 region: "Salzburg"
 country: "Österreich"
 completed: "5322"
@@ -20,7 +20,7 @@ title: "Salzburg City Panorama"
 
 *2019* • Salzburg • Österreich
 
-
+![Salzburg City Panorama](https://api.bannergress.com/bnrs/pictures/4e6878a9715426b2ff73e04a2b533f69)
 
 ## Details
 - **Distance (km):** 4.19

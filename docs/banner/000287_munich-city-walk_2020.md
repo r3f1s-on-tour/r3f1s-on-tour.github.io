@@ -3,7 +3,7 @@ nummer: "287"
 startLatitude: "48.136378"
 startLongitude: "11.578512"
 titel: "Munich city walk"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/2f4cfb669c81ecdd60c8625a9dc27fea"
 region: "München"
 country: "Deutschland"
 completed: "6702"
@@ -20,7 +20,7 @@ title: "Munich city walk"
 
 *2020* • München • Deutschland
 
-
+![Munich city walk](https://api.bannergress.com/bnrs/pictures/2f4cfb669c81ecdd60c8625a9dc27fea)
 
 ## Details
 - **Distance (km):** 3.41

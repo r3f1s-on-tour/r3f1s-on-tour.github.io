@@ -3,7 +3,7 @@ nummer: "303"
 startLatitude: "52.51242"
 startLongitude: "13.396239"
 titel: "Mongolian Embassy"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/fd3d163dfe7f5434769fb7900fedf27b"
 region: "Berlin"
 country: "Deutschland"
 completed: "7074"
@@ -20,7 +20,7 @@ title: "Mongolian Embassy"
 
 *2021* • Berlin • Deutschland
 
-
+![Mongolian Embassy](https://api.bannergress.com/bnrs/pictures/fd3d163dfe7f5434769fb7900fedf27b)
 
 ## Details
 - **Distance (km):** 3.58

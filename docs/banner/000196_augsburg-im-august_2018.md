@@ -3,7 +3,7 @@ nummer: "196"
 startLatitude: "48.36603"
 startLongitude: "10.894974"
 titel: "Augsburg im August"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/0859195348785935df6a54625e5f179c"
 region: "Augsburg"
 country: "Deutschland"
 completed: "4644"
@@ -20,7 +20,7 @@ title: "Augsburg im August"
 
 *2018* • Augsburg • Deutschland
 
-
+![Augsburg im August](https://api.bannergress.com/bnrs/pictures/0859195348785935df6a54625e5f179c)
 
 ## Details
 

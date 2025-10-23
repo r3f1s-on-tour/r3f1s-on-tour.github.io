@@ -3,7 +3,7 @@ nummer: "159"
 startLatitude: "48.273833"
 startLongitude: "11.568944"
 titel: "Flying Spaghetti Monster"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/06cb0ce7e0ac265005ef6fcbf52659ff"
 region: "Unterschleißheim"
 country: "Deutschland"
 completed: "3834"
@@ -20,7 +20,7 @@ title: "Flying Spaghetti Monster"
 
 *2018* • Unterschleißheim • Deutschland
 
-
+![Flying Spaghetti Monster](https://api.bannergress.com/bnrs/pictures/06cb0ce7e0ac265005ef6fcbf52659ff)
 
 ## Details
 - **Distance (km):** 18.35

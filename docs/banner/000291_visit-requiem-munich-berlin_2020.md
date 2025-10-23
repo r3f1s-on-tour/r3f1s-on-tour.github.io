@@ -3,7 +3,7 @@ nummer: "291"
 startLatitude: "52.516489"
 startLongitude: "13.380383"
 titel: "Visit Requiem Munich - Berlin"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/f70d56705168b4ca4f9e44c959ffccc5"
 region: "Berlin"
 country: "Deutschland"
 completed: "6750"
@@ -20,7 +20,7 @@ title: "Visit Requiem Munich - Berlin"
 
 *2020* • Berlin • Deutschland
 
-
+![Visit Requiem Munich - Berlin](https://api.bannergress.com/bnrs/pictures/f70d56705168b4ca4f9e44c959ffccc5)
 
 ## Details
 - **Distance (km):** 858.00

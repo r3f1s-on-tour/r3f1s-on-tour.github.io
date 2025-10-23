@@ -3,7 +3,7 @@ nummer: "155"
 startLatitude: "48.137437"
 startLongitude: "11.575546"
 titel: "Bayern Flagge"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/36b19fb50b7e8a80e702597fe017aa01"
 region: "München"
 country: "Deutschland"
 completed: "3762"
@@ -20,7 +20,7 @@ title: "Bayern Flagge"
 
 *2018* • München • Deutschland
 
-
+![Bayern Flagge](https://api.bannergress.com/bnrs/pictures/36b19fb50b7e8a80e702597fe017aa01)
 
 ## Details
 - **Distance (km):** 6.57

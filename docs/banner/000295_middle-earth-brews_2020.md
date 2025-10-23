@@ -3,7 +3,7 @@ nummer: "295"
 startLatitude: "52.563937"
 startLongitude: "13.364857"
 titel: "Middle Earth Brews"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/d1803107d2f420be9cd3ac01848e01b2"
 region: "Berlin"
 country: "Deutschland"
 completed: "6846"
@@ -20,7 +20,7 @@ title: "Middle Earth Brews"
 
 *2020* • Berlin • Deutschland
 
-
+![Middle Earth Brews](https://api.bannergress.com/bnrs/pictures/d1803107d2f420be9cd3ac01848e01b2)
 
 ## Details
 - **Distance (km):** 5.14

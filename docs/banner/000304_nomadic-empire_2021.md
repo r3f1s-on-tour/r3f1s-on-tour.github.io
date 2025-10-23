@@ -3,7 +3,7 @@ nummer: "304"
 startLatitude: "52.5203"
 startLongitude: "13.411325"
 titel: "Nomadic Empire"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/932c194d300c09de14c4da890d091230"
 region: "Berlin"
 country: "Deutschland"
 completed: "7104"
@@ -20,7 +20,7 @@ title: "Nomadic Empire"
 
 *2021* • Berlin • Deutschland
 
-
+![Nomadic Empire](https://api.bannergress.com/bnrs/pictures/932c194d300c09de14c4da890d091230)
 
 ## Details
 - **Distance (km):** 9.70

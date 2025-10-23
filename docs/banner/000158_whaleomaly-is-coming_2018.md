@@ -3,7 +3,7 @@ nummer: "158"
 startLatitude: "48.179037"
 startLongitude: "11.555921"
 titel: "Whaleomaly is Coming"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/81dcc992a4dee7dc4e1e7088c1719b8c"
 region: "München"
 country: "Deutschland"
 completed: "3816"
@@ -20,7 +20,7 @@ title: "Whaleomaly is Coming"
 
 *2018* • München • Deutschland
 
-
+![Whaleomaly is Coming](https://api.bannergress.com/bnrs/pictures/81dcc992a4dee7dc4e1e7088c1719b8c)
 
 ## Details
 - **Distance (km):** 3.06

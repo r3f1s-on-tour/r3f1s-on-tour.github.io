@@ -3,7 +3,7 @@ nummer: "286"
 startLatitude: "48.138408"
 startLongitude: "11.580943"
 titel: "Skyline Munich"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/f550ed54b313326e36d12e6c23e68f46"
 region: "München"
 country: "Deutschland"
 completed: "6690"
@@ -20,7 +20,7 @@ title: "Skyline Munich"
 
 *2020* • München • Deutschland
 
-
+![Skyline Munich](https://api.bannergress.com/bnrs/pictures/f550ed54b313326e36d12e6c23e68f46)
 
 ## Details
 - **Distance (km):** 1.45

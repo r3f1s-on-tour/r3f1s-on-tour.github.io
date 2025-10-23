@@ -3,7 +3,7 @@ nummer: "172"
 startLatitude: "53.377768"
 startLongitude: "12.607187"
 titel: "Whaleomaly is Coming [Röbel Müritz]"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/b3ae28f518e5deb2125e3bef14c3b7dd"
 region: "Röbel/Müritz"
 country: "Deutschland"
 completed: "4146"
@@ -20,7 +20,7 @@ title: "Whaleomaly is Coming [Röbel Müritz]"
 
 *2018* • Röbel/Müritz • Deutschland
 
-
+![Whaleomaly is Coming [Röbel Müritz]](https://api.bannergress.com/bnrs/pictures/b3ae28f518e5deb2125e3bef14c3b7dd)
 
 ## Details
 

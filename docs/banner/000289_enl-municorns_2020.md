@@ -3,7 +3,7 @@ nummer: "289"
 startLatitude: "48.134002"
 startLongitude: "11.566954"
 titel: "ENL Municorns"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/65d106e170698f784a1c3315804b405b"
 region: "München"
 country: "Deutschland"
 completed: "6732"
@@ -20,7 +20,7 @@ title: "ENL Municorns"
 
 *2020* • München • Deutschland
 
-
+![ENL Municorns](https://api.bannergress.com/bnrs/pictures/65d106e170698f784a1c3315804b405b)
 
 ## Details
 - **Distance (km):** 5.87
