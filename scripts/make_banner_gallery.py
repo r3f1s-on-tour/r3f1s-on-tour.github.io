@@ -1,19 +1,30 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Build a banner gallery page from a CSV.
-(… unveränderte Kopfzeilen / Docstring …)
+Build a banner gallery page from a CSV as a single-column, full-width Markdown gallery.
+
+Changes:
+- Render as Markdown image links (no CSS cards, no thumbnails).
+- Skip rows without picture (no empty boxes).
+- Correct relative links; supports directory URLs.
+
+Usage example:
+  python scripts/make_banner_gallery.py \
+    --csv scripts/banner.csv \
+    --out docs/banner/gallery.md \
+    --template template/gallery.md \
+    --overwrite \
+    --debug
 """
+
 import argparse, csv, os, re, sys, hashlib
 from datetime import datetime
 from typing import Any, Dict, List, Optional
 
-URL_PREFIXES = ("http://", "https://")
 PICTURE_KEYS = [
     "picture","pictures","image","images","img","pic","pic_url",
     "picture_url","image_url","bild","bilder","pictureurl","imageurl"
 ]
-IDENTIFIER_RE = re.compile(r"[A-Za-z_][A-Za-z0-9_]*$")
 
 def dprint(enabled: bool, *args):
     if enabled:
@@ -65,43 +76,26 @@ def infer(row: Dict[str, Any], keys: List[str]) -> str:
                 return v
     return ""
 
-def first_picture(front: Dict[str, str], ordered_fields: List[str]) -> str:
-    for k in ordered_fields:
-        if k.lower() in PICTURE_KEYS:
-            v = str(front.get(k, "")).strip()
-            if v:
-                return v
-    return ""
-
-def read_template(path: str) -> str:
-    if not os.path.isfile(path):
-        raise SystemExit(f"Template not found: {path}")
-    with open(path, "r", encoding="utf-8") as f:
-        return f.read()
-
-def _sha1(s: str) -> str:
-    return hashlib.sha1(s.encode("utf-8")).hexdigest()
+def sha1(s: str) -> str:
+    import hashlib as _h
+    return _h.sha1(s.encode("utf-8")).hexdigest()
 
 def write_text(path: str, content: str, overwrite: bool, debug: bool):
     path = os.path.normpath(path)
     os.makedirs(os.path.dirname(path), exist_ok=True)
 
     if os.path.exists(path):
-        with open(path, "r", encoding="utf-8") as f:
-            old = f.read()
-        if old == content:
-            dprint(debug, f"No change for {path} (identical content).")
-            # Trotzdem als Erfolg melden, damit CI nicht abbricht:
-            with open(path, "w", encoding="utf-8") as wf:
-                wf.write(content)
-            return
-
         if not overwrite:
+            with open(path, "r", encoding="utf-8") as f:
+                old = f.read()
+            if old == content:
+                dprint(debug, f"Identical content, leaving {path} as-is.")
+                return
             raise SystemExit(
                 f"Output exists and differs: {path}\n"
-                f"Tip: pass --overwrite or set BANNER_GALLERY_OVERWRITE=1"
+                f"Pass --overwrite or set BANNER_GALLERY_OVERWRITE=1"
             )
-        dprint(debug, f"Overwriting {path} (old sha1={_sha1(old)} -> new sha1={_sha1(content)})")
+        dprint(debug, f"Overwriting {path}")
     else:
         dprint(debug, f"Creating {path}")
 
@@ -110,8 +104,9 @@ def write_text(path: str, content: str, overwrite: bool, debug: bool):
 
 def format_number_for_filename(num_raw: str, min_width: int) -> str:
     s = str(num_raw or "").strip()
-    digits = re.sub(r"\D","", s)
-    if not digits: return s or "000000"
+    digits = re.sub(r"\D", "", s)
+    if not digits:
+        return s or "000000"
     width = max(min_width, len(digits))
     return digits.zfill(width)
 
@@ -124,23 +119,17 @@ def build_banner_filename(row: Dict[str, Any], idx: int, pad_width: int) -> str:
     slug = slugify(title)
     return f"{num_padded}_{slug}_{date_norm}.md"
 
-def build_card_html(href: str, img: str, title: str, date_de: str, city: str, country: str) -> str:
-    meta_bits = []
-    if date_de: meta_bits.append(date_de)
-    if city:    meta_bits.append(city)
-    if country: meta_bits.append(country)
-    meta = " • ".join(meta_bits)
-    return (
-        f'<a class="gallery-card" href="{href}">\n'
-        f'  <img src="{img}" alt="{title}">\n'
-        f'  <div class="content">\n'
-        f'    <h3>{title}</h3>\n'
-        f'    <div class="gallery-meta">{meta}</div>\n'
-        f'  </div>\n'
-        f'</a>\n'
-    )
+def read_template(path: str) -> str:
+    if not os.path.isfile(path):
+        raise SystemExit(f"Template not found: {path}")
+    with open(path, "r", encoding="utf-8") as f:
+        return f.read()
 
 def expand_each_banner(template_text: str, items: List[Dict[str, str]]) -> Optional[str]:
+    """
+    Supports {{__EACH_BANNER__}} ... {{__/EACH_BANNER__}} with:
+      {{__URL__}}, {{__PICTURE__}}, {{__TITLE__}}, {{__DATE_DE__}}, {{__CITY__}}, {{__COUNTRY__}}
+    """
     m = re.search(r"\{\{__EACH_BANNER__\}\}(.*?)\{\{__/EACH_BANNER__\}\}", template_text, re.DOTALL)
     if not m:
         return None
@@ -153,44 +142,76 @@ def expand_each_banner(template_text: str, items: List[Dict[str, str]]) -> Optio
         chunks.append(chunk)
     return template_text[:m.start()] + "".join(chunks) + template_text[m.end():]
 
+def compute_href(stem: str, out_path: str, directory_urls: bool) -> str:
+    """
+    If output is docs/banner/gallery.md  -> './<stem>/' or './<stem>.md'
+    If output is docs/gallery/index.md   -> '../banner/<stem>/' or '../banner/<stem>.md'
+    Else                                 -> 'banner/<stem>/' or 'banner/<stem>.md'
+    """
+    out_dir = os.path.normpath(os.path.dirname(out_path))
+    tail = out_dir.replace("\\", "/").split("/")[-1]
+
+    suffix = "/" if directory_urls else ".md"
+
+    if tail == "banner":
+        return f"./{stem}{suffix}"
+    if out_path.replace("\\", "/").endswith("docs/gallery/index.md") or tail == "gallery":
+        return f"../banner/{stem}{suffix}"
+    return f"banner/{stem}{suffix}"
+
+def render_markdown_gallery(items: List[Dict[str, str]]) -> str:
+    """
+    Render a single-column Markdown gallery:
+      [![Title](PICTURE)](URL)
+    Each entry separated by a blank line.
+    """
+    lines = []
+    for it in items:
+        # title as alt text; picture must exist
+        if not it["PICTURE"]:
+            continue
+        title = it["TITLE"] or ""
+        lines.append(f"[![{title}]({it['PICTURE']})]({it['URL']})")
+        lines.append("")  # blank line between entries
+    return "\n".join(lines).strip() + "\n"
+
 def main():
-    p = argparse.ArgumentParser(description="Build banner gallery page from CSV")
-    # NEW flags
+    p = argparse.ArgumentParser(description="Build banner gallery page from a CSV (Markdown, 1 column, full width)")
     p.add_argument("--csv", help="Path to input CSV (or env BANNER_GALLERY_CSV)")
-    p.add_argument("--out", default="docs/gallery/index.md", help="Output file (default: docs/gallery/index.md)")
+    p.add_argument("--out", default="docs/banner/gallery.md", help="Output file (default: docs/banner/gallery.md)")
     p.add_argument("--template", default="template/gallery.md", help="Template path (default: template/gallery.md)")
     p.add_argument("--pad-width", type=int, default=6, help="Zero-pad width for number prefix (default: 6)")
     p.add_argument("--overwrite", action="store_true", help="Overwrite output file if exists")
     p.add_argument("--debug", action="store_true", help="Verbose debug output")
-    # LEGACY flags (compat)
-    p.add_argument("--root", default=None, help="(legacy) site root; if --outfile present, out = root/outfile")
-    p.add_argument("--banner_dir", default=None, help="(legacy) ignored (CSV is the source)")
-    p.add_argument("--outfile", default=None, help="(legacy) single output file; overrides --out as <root>/<outfile>")
+    p.add_argument("--no-skip-missing-pictures", action="store_true",
+                   help="Include entries even if picture is missing (will create empty spots)")
+    p.add_argument("--no-directory-urls", action="store_true",
+                   help="Link to '<stem>.md' instead of '<stem>/'")
+    # Legacy flags
+    p.add_argument("--root", default=None, help="(legacy) site root; with --outfile => out = root/outfile")
+    p.add_argument("--banner_dir", default=None, help="(legacy) ignored")
+    p.add_argument("--outfile", default=None, help="(legacy) single output file; maps to --out")
     p.add_argument("--verbose", action="store_true", help="(legacy) alias for --debug")
     p.add_argument("--force", action="store_true", help="(legacy) alias for --overwrite")
     args = p.parse_args()
 
-    # Map legacy -> new
     if args.verbose and not args.debug:
         args.debug = True
-    if args.force and not args.overwrite:
+    if args.force:
         args.overwrite = True
-    if os.environ.get("BANNER_GALLERY_OVERWRITE", "").strip() in ("1","true","yes","on"):
+    if os.environ.get("BANNER_GALLERY_OVERWRITE", "").strip().lower() in ("1","true","yes","on"):
         args.overwrite = True
-
     if args.outfile:
         root = args.root or "."
         args.out = os.path.join(root, args.outfile)
 
-    # CSV required (allow env fallback)
     csv_path = args.csv or os.environ.get("BANNER_GALLERY_CSV")
     if not csv_path:
         raise SystemExit("error: --csv is required (or set env BANNER_GALLERY_CSV)")
     if not os.path.isfile(csv_path):
         raise SystemExit(f"CSV not found: {csv_path}")
 
-    dprint(args.debug, f"overwrite={args.overwrite}, out={os.path.normpath(args.out)}")
-    dprint(args.debug, f"template={args.template}")
+    dprint(args.debug, f"out={args.out} overwrite={args.overwrite} template={args.template} directory_urls={not args.no_directory_urls}")
 
     # Read CSV
     rows: List[Dict[str, Any]] = []
@@ -204,7 +225,7 @@ def main():
 
     dprint(args.debug, f"Loaded {len(rows)} rows from {csv_path}")
 
-    # Build items for gallery
+    # Build items (skip missing picture by default)
     items: List[Dict[str, str]] = []
     for idx, row in enumerate(rows, start=1):
         title = infer(row, ["title","titel","name"]) or f"row-{idx}"
@@ -223,49 +244,38 @@ def main():
                     break
 
         md_filename = build_banner_filename(row, idx, args.pad_width)
-        href = f"../banner/{md_filename}" if args.out.endswith("gallery/index.md") else f"banner/{md_filename}"
+        stem = md_filename[:-3]  # drop .md
+        href = compute_href(stem, args.out, directory_urls=not args.no_directory_urls)
 
-        items.append({
-            "URL": href,
-            "PICTURE": picture or "",
-            "TITLE": title,
-            "DATE_DE": date_de,
-            "CITY": city,
-            "COUNTRY": country,
-        })
-
-    # Load template
-    tpl = read_template(args.template)
-
-    # 1) Loop expansion
-    expanded = expand_each_banner(tpl, items)
-    if expanded is not None:
-        out_text = expanded
-    else:
-        # 2) Replace <!-- GALLERY -->
-        cards = []
-        for it in items:
-            cards.append(
-                build_card_html(
-                    href=it["URL"],
-                    img=it["PICTURE"],
-                    title=it["TITLE"],
-                    date_de=it["DATE_DE"],
-                    city=it["CITY"],
-                    country=it["COUNTRY"],
-                )
-            )
-        cards_html = "".join(cards)
-        if "<!-- GALLERY -->" in tpl:
-            out_text = tpl.replace("<!-- GALLERY -->", cards_html)
+        if picture or args.no_skip_missing_pictures:
+            items.append({
+                "URL": href,
+                "PICTURE": picture or "",
+                "TITLE": title,
+                "DATE_DE": date_de,
+                "CITY": city,
+                "COUNTRY": country,
+            })
         else:
-            out_text = tpl + "\n\n" + cards_html
+            dprint(args.debug, f"Skip row {idx} ('{title}') because no picture found.")
 
-    # Hide empty-state if cards exist
-    if "<div class=\"gallery-empty\"" in out_text and "gallery-card" in out_text:
-        out_text = out_text.replace('id="gallery-empty"', 'id="gallery-empty" style="display:none"')
+    # Render gallery as Markdown (one image per line)
+    gallery_md = render_markdown_gallery(items)
 
-    # Write output (with explicit overwrite handling)
+    # If template exists, insert into placeholder; else output only the gallery
+    out_text = gallery_md
+    if os.path.isfile(args.template):
+        tpl = read_template(args.template)
+        expanded = expand_each_banner(tpl, items)
+        if expanded is not None:
+            out_text = expanded
+        elif "<!-- GALLERY -->" in tpl:
+            out_text = tpl.replace("<!-- GALLERY -->", gallery_md)
+        else:
+            # append gallery at end
+            out_text = tpl.rstrip() + "\n\n" + gallery_md
+
+    # Write
     write_text(args.out, out_text, overwrite=args.overwrite, debug=args.debug)
     print(f"✅ Gallery written: {os.path.abspath(args.out)}")
 
