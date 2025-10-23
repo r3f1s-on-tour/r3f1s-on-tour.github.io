@@ -3,7 +3,7 @@ nummer: "469"
 startLatitude: "52,519115"
 startLongitude: "13,407982"
 titel: "Little Dandelion"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/d863aafb6c4e075c8e3cddf3389d1e6f"
 region: "Berlin"
 country: "Deutschland"
 completed: "10.308"
@@ -20,7 +20,7 @@ title: "Little Dandelion"
 
 *2022* • Deutschland
 
-
+![Little Dandelion](https://api.bannergress.com/bnrs/pictures/d863aafb6c4e075c8e3cddf3389d1e6f)
 
 ## Details
 - **Distanz (km):** 5,085

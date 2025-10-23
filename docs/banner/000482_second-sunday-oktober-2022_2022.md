@@ -3,7 +3,7 @@ nummer: "482"
 startLatitude: "52,756318"
 startLongitude: "13,244588"
 titel: "Second Sunday - Oktober 2022"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/00d66e6aeca687df4367e67fceabf1ed"
 region: "Oranienburg"
 country: "Deutschland"
 completed: "10.428"
@@ -20,7 +20,7 @@ title: "Second Sunday - Oktober 2022"
 
 *2022* • Deutschland
 
-
+![Second Sunday - Oktober 2022](https://api.bannergress.com/bnrs/pictures/00d66e6aeca687df4367e67fceabf1ed)
 
 ## Details
 - **Distanz (km):** 1,599

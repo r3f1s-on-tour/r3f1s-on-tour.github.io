@@ -3,7 +3,7 @@ nummer: "483"
 startLatitude: "52,756318"
 startLongitude: "13,244588"
 titel: "Rammbock in Oranienburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/497d3477de6312acf9cc142d6fe09ff6"
 region: "Oranienburg"
 country: "Deutschland"
 completed: "10.434"
@@ -20,7 +20,7 @@ title: "Rammbock in Oranienburg"
 
 *2022* • Deutschland
 
-
+![Rammbock in Oranienburg](https://api.bannergress.com/bnrs/pictures/497d3477de6312acf9cc142d6fe09ff6)
 
 ## Details
 - **Distanz (km):** 1,599

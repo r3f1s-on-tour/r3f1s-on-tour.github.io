@@ -3,7 +3,7 @@ nummer: "471"
 startLatitude: "52,50885"
 startLongitude: "13,497454"
 titel: "Cat Eyes Green"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/182670de155c6ecee8cbd731866220ff"
 region: "Berlin"
 country: "Deutschland"
 completed: "10.320"
@@ -20,7 +20,7 @@ title: "Cat Eyes Green"
 
 *2022* • Deutschland
 
-
+![Cat Eyes Green](https://api.bannergress.com/bnrs/pictures/182670de155c6ecee8cbd731866220ff)
 
 ## Details
 - **Distanz (km):** 2,258

@@ -3,7 +3,7 @@ nummer: "485"
 startLatitude: "52,516466"
 startLongitude: "13,45299"
 titel: "Ägyptisches Totengericht"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/20f32510404dc5dcb5b043d14ef777de"
 region: "Berlin"
 country: "Deutschland"
 completed: "10.482"
@@ -20,7 +20,7 @@ title: "Ägyptisches Totengericht"
 
 *2022* • Deutschland
 
-
+![Ägyptisches Totengericht](https://api.bannergress.com/bnrs/pictures/20f32510404dc5dcb5b043d14ef777de)
 
 ## Details
 - **Distanz (km):** 6,278

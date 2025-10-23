@@ -3,7 +3,7 @@ nummer: "494"
 startLatitude: "50,943451"
 startLongitude: "6,959376"
 titel: "Deifel in Köln"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/935bfc8026f0baa734992c8f0e84f869"
 region: "Köln"
 country: "Deutschland"
 completed: "10.566"
@@ -20,7 +20,7 @@ title: "Deifel in Köln"
 
 *2022* • Deutschland
 
-
+![Deifel in Köln](https://api.bannergress.com/bnrs/pictures/935bfc8026f0baa734992c8f0e84f869)
 
 ## Details
 - **Distanz (km):** 2

@@ -3,7 +3,7 @@ nummer: "473"
 startLatitude: "52,50885"
 startLongitude: "13,497454"
 titel: "Cat Eye Yellow"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/97abd24e1d39bce894418ba9ee886bb8"
 region: "Berlin"
 country: "Deutschland"
 completed: "10.344"
@@ -20,7 +20,7 @@ title: "Cat Eye Yellow"
 
 *2022* • Deutschland
 
-
+![Cat Eye Yellow](https://api.bannergress.com/bnrs/pictures/97abd24e1d39bce894418ba9ee886bb8)
 
 ## Details
 - **Distanz (km):** 2,258

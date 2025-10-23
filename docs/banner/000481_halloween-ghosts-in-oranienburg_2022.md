@@ -3,7 +3,7 @@ nummer: "481"
 startLatitude: "52,756318"
 startLongitude: "13,244588"
 titel: "Halloween Ghosts in Oranienburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/6f7936922144659006c5595beabc4602"
 region: "Oranienburg"
 country: "Deutschland"
 completed: "10.422"
@@ -20,7 +20,7 @@ title: "Halloween Ghosts in Oranienburg"
 
 *2022* • Deutschland
 
-
+![Halloween Ghosts in Oranienburg](https://api.bannergress.com/bnrs/pictures/6f7936922144659006c5595beabc4602)
 
 ## Details
 - **Distanz (km):** 1,599

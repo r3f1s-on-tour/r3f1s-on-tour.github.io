@@ -3,7 +3,7 @@ nummer: "497"
 startLatitude: "50,925167"
 startLongitude: "6,958304"
 titel: "Fischbrötchenbanner"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/7e92cd5ee56259c40f1cd19da7e0adb5"
 region: "Köln"
 country: "Deutschland"
 completed: "10.608"
@@ -20,7 +20,7 @@ title: "Fischbrötchenbanner"
 
 *2022* • Deutschland
 
-
+![Fischbrötchenbanner](https://api.bannergress.com/bnrs/pictures/7e92cd5ee56259c40f1cd19da7e0adb5)
 
 ## Details
 - **Distanz (km):** 3,235

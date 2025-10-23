@@ -3,7 +3,7 @@ nummer: "480"
 startLatitude: "52,756318"
 startLongitude: "13,244588"
 titel: "Halloween Coffees in Oranienburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/34708bc649d2d45395637b3f5ec63164"
 region: "Oranienburg"
 country: "Deutschland"
 completed: "10.416"
@@ -20,7 +20,7 @@ title: "Halloween Coffees in Oranienburg"
 
 *2022* • Deutschland
 
-
+![Halloween Coffees in Oranienburg](https://api.bannergress.com/bnrs/pictures/34708bc649d2d45395637b3f5ec63164)
 
 ## Details
 - **Distanz (km):** 1,599

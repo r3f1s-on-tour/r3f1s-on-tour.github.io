@@ -3,7 +3,7 @@ nummer: "495"
 startLatitude: "50,942198"
 startLongitude: "6,958069"
 titel: "Dom-Panorama"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/da5038c064c41416c54e3fde7d3042a6"
 region: "Köln"
 country: "Deutschland"
 completed: "10.590"
@@ -20,7 +20,7 @@ title: "Dom-Panorama"
 
 *2022* • Deutschland
 
-
+![Dom-Panorama](https://api.bannergress.com/bnrs/pictures/da5038c064c41416c54e3fde7d3042a6)
 
 ## Details
 - **Distanz (km):** 6,941

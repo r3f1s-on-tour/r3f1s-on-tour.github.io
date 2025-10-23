@@ -3,7 +3,7 @@ nummer: "498"
 startLatitude: "50,944624"
 startLongitude: "7,098962"
 titel: "Green Phoenix"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/0e6a5917c72dad760b4cfe201e90e9f5"
 region: "Bergisch Gladbach"
 country: "Deutschland"
 completed: "10.668"
@@ -20,7 +20,7 @@ title: "Green Phoenix"
 
 *2022* • Deutschland
 
-
+![Green Phoenix](https://api.bannergress.com/bnrs/pictures/0e6a5917c72dad760b4cfe201e90e9f5)
 
 ## Details
 - **Distanz (km):** 3,096

@@ -3,7 +3,7 @@ nummer: "496"
 startLatitude: "50,933153"
 startLongitude: "6,933925"
 titel: "Sushi Sonntag"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/39a9b3befeca7a4f970daa5a169df763"
 region: "Köln"
 country: "Deutschland"
 completed: "10.602"
@@ -20,7 +20,7 @@ title: "Sushi Sonntag"
 
 *2022* • Deutschland
 
-
+![Sushi Sonntag](https://api.bannergress.com/bnrs/pictures/39a9b3befeca7a4f970daa5a169df763)
 
 ## Details
 - **Distanz (km):** 3,283

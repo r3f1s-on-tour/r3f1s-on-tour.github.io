@@ -3,7 +3,7 @@ nummer: "477"
 startLatitude: "52,756318"
 startLongitude: "13,244588"
 titel: "From the Grave in Oranienburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/023bb234581447c14213143dbc613c47"
 region: "Oranienburg"
 country: "Deutschland"
 completed: "10.398"
@@ -20,7 +20,7 @@ title: "From the Grave in Oranienburg"
 
 *2022* • Deutschland
 
-
+![From the Grave in Oranienburg](https://api.bannergress.com/bnrs/pictures/023bb234581447c14213143dbc613c47)
 
 ## Details
 - **Distanz (km):** 8,961

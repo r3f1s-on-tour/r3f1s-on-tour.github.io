@@ -3,7 +3,7 @@ nummer: "484"
 startLatitude: "52,509603"
 startLongitude: "13,43469"
 titel: "Berghain Mosaik"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/fbceba1a5f412c69c9a424997b50b9c8"
 region: "Berlin"
 country: "Deutschland"
 completed: "10.452"
@@ -20,7 +20,7 @@ title: "Berghain Mosaik"
 
 *2022* • Deutschland
 
-
+![Berghain Mosaik](https://api.bannergress.com/bnrs/pictures/fbceba1a5f412c69c9a424997b50b9c8)
 
 ## Details
 - **Distanz (km):** 6,629

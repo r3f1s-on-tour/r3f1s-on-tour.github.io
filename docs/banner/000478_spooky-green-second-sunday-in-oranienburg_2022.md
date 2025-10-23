@@ -3,7 +3,7 @@ nummer: "478"
 startLatitude: "52,756318"
 startLongitude: "13,244588"
 titel: "Spooky Green Second Sunday in Oranienburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/c1ef445c8b0500080461fd3e9f2fa09d"
 region: "Oranienburg"
 country: "Deutschland"
 completed: "10.404"
@@ -20,7 +20,7 @@ title: "Spooky Green Second Sunday in Oranienburg"
 
 *2022* • Deutschland
 
-
+![Spooky Green Second Sunday in Oranienburg](https://api.bannergress.com/bnrs/pictures/c1ef445c8b0500080461fd3e9f2fa09d)
 
 ## Details
 - **Distanz (km):** 1,599

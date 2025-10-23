@@ -3,7 +3,7 @@ nummer: "486"
 startLatitude: "52,50834"
 startLongitude: "13,45134"
 titel: "Northern Legends"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/bbf03454c1ee32bd101d8b31f92dd5cf"
 region: "Berlin"
 country: "Deutschland"
 completed: "10.488"
@@ -20,7 +20,7 @@ title: "Northern Legends"
 
 *2022* • Deutschland
 
-
+![Northern Legends](https://api.bannergress.com/bnrs/pictures/bbf03454c1ee32bd101d8b31f92dd5cf)
 
 ## Details
 - **Distanz (km):** 1,259

@@ -3,7 +3,7 @@ nummer: "476"
 startLatitude: "52,756318"
 startLongitude: "13,244588"
 titel: "Spooky Second Sunday - Oktober 2022"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/acefba91bada626723bc788acb785537"
 region: "Oranienburg"
 country: "Deutschland"
 completed: "10.374"
@@ -20,7 +20,7 @@ title: "Spooky Second Sunday - Oktober 2022"
 
 *2022* • Deutschland
 
-
+![Spooky Second Sunday - Oktober 2022](https://api.bannergress.com/bnrs/pictures/acefba91bada626723bc788acb785537)
 
 ## Details
 - **Distanz (km):** 1,599
