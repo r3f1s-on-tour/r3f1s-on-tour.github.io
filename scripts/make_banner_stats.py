@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-make_banner_stats.py  (Variante A: JSON + JS Renderer)
+make_banner_stats.py
 - Überschreibt stats.md standardmäßig (Option --no-overwrite verhindert das).
 - Erkennt Datum robust (Jahreszahl oder Datum).
 - Zeitraum: vom ersten erkannten Banner-Jahr bis heute (Jahre = inklusive Zählung).
 - Rekursives Scannen von docs/banner (Unterordner inkl.).
 - **Filter**: Es werden ausschließlich Banner-Dateien berücksichtigt, deren Frontmatter ein Feld 'nummer' enthält.
 - Jahresstatistik: Jahr, Banner, Missionen, MissionDays, km gesamt, 500er-Meilensteine (aus kumulativem 'completed').
-- Länder- & Städte-Statistik: als JSON-Blöcke (für JS-Renderer) + Top-N-Steuerung via data-top.
+- Länder- & Städte-Statistik: vollständige Tabellen mit Anzahl und prozentualem Anteil.
 - Durchschnittsstatistik: Banner/∅Jahr/∅Monat, Missionen/∅Jahr/∅Monat, km/∅Jahr/∅Monat.
 - Gesamtstatistik: Gesamtbanner, Missionen gesamt, MissionDays gesamt, Gesamt-km, Zeitraum.
 Benötigt: pyyaml
@@ -16,7 +16,6 @@ Benötigt: pyyaml
 import argparse
 import sys
 import re
-import json
 from pathlib import Path
 from datetime import datetime, date
 from collections import Counter, defaultdict
@@ -87,9 +86,6 @@ def main():
     ap.add_argument("--banner-dir", default="docs/banner", help="Ordner mit Banner-Markdown")
     ap.add_argument("--out", default="docs/banner/stats.md", help="Zieldatei für Statistik")
     ap.add_argument("--no-overwrite", action="store_true", help="Vorhandene stats.md NICHT überschreiben")
-    # für das JS-Widget: Top-N Steuerung (Standard: Länder 10, Städte 20 – kann im HTML über data-top geändert werden)
-    ap.add_argument("--top-countries", type=int, default=10)
-    ap.add_argument("--top-cities", type=int, default=20)
     args = ap.parse_args()
 
     root = Path(".").resolve()
@@ -108,7 +104,7 @@ def main():
             continue
         text = path.read_text(encoding="utf-8", errors="ignore")
         fm = parse_frontmatter(text)
-        if not fm or "nummer" not in fm:
+        if not fm or "nummer" not in fm:  # nur echte Banner
             continue
 
         dt = parse_date_any(fm.get("date"))
@@ -185,21 +181,9 @@ def main():
         total_missions += ms_sum
         total_mdays += md_sum
 
-    # Länder / Städte -> JSON-Arrays (sorted by count desc, name asc)
-    country_counter = Counter(b["country"] for b in banners if b["country"])
-    city_counter = Counter(b["city"] for b in banners if b["city"])
-
-    countries_sorted = sorted(country_counter.items(), key=lambda x: (-x[1], str(x[0]).lower()))
-    cities_sorted = sorted(city_counter.items(), key=lambda x: (-x[1], str(x[0]).lower()))
-
-    countries_json = json.dumps(
-        [{"name": k, "count": v} for k, v in countries_sorted],
-        ensure_ascii=False
-    )
-    cities_json = json.dumps(
-        [{"name": k, "count": v} for k, v in cities_sorted],
-        ensure_ascii=False
-    )
+    # Länder / Städte
+    countries = Counter(b["country"] for b in banners if b["country"])
+    cities = Counter(b["city"] for b in banners if b["city"])
 
     # Durchschnittswerte (Jahr & Monat)
     avg_banners_year = total_banners / span_years if span_years else 0.0
@@ -218,7 +202,7 @@ def main():
     md += [
         f"- **Gesamtbanner:** {total_banners}",
         f"- **Missionen gesamt:** {total_missions}",
-        f"- **Gesamt km:** {total_km:.2f}",
+        f("- **Gesamt km:** {:.2f}".format(total_km)),
         f"- **MissionDays gesamt:** {total_mdays}",
         f"- **Zeitraum:** {first_year} – {today.year} ({span_years} Jahre)",
         ""
@@ -229,14 +213,14 @@ def main():
     md += [
         f"- **Ø Banner/Jahr:** {avg_banners_year:.2f}",
         f"- **Ø Banner/Monat:** {avg_banners_month:.2f}",
-        f"- **Ø Missionen/Jahr:** {avg_missions_year:.2f}",
-        f"- **Ø Missionen/Monat:** {avg_missions_month:.2f}",
-        f"- **Ø km/Jahr:** {avg_km_year:.2f}",
-        f"- **Ø km/Monat:** {avg_km_month:.2f}",
+        f("- **Ø Missionen/Jahr:** {:.2f}".format(avg_missions_year)),
+        f("- **Ø Missionen/Monat:** {:.2f}".format(avg_missions_month)),
+        f("- **Ø km/Jahr:** {:.2f}".format(avg_km_year)),
+        f("- **Ø km/Monat:** {:.2f}".format(avg_km_month)),
         ""
     ]
 
-    # Jahresstatistik (Markdown-Tabelle beibehalten)
+    # Jahresstatistik
     md += ["## Jahresstatistik", ""]
     if year_rows:
         md += ["| Jahr | Banner | Missionen | MissionDays | km | 500er-Meilensteine |",
@@ -247,19 +231,29 @@ def main():
         md += ["_Keine Jahresdaten gefunden._"]
     md += [""]
 
-    # Länder – JSON + Widget
+    # Länder – vollständige Tabelle
     md += ["## Länder (nach Anzahl Banner)", ""]
-    md += [f'<div data-banner-stats="json" data-src="countries-data" data-top="{args.top_countries}" data-title="Länder"></div>']
-    md += ['<script id="countries-data" type="application/json">']
-    md += [countries_json]
-    md += ['</script>', ""]
+    if countries:
+        total = total_banners if total_banners else 1
+        md += ["| Land | Banner | Anteil |", "|:-----|------:|------:|"]
+        for c, v in sorted(countries.items(), key=lambda x: (-x[1], str(x[0]).lower())):
+            pct = 100.0 * v / total
+            md += [f"| {c} | {v} | {pct:.1f}% |"]
+    else:
+        md += ["_Keine Länder gefunden._"]
+    md += [""]
 
-    # Städte – JSON + Widget
+    # Städte – vollständige Tabelle
     md += ["## Städte (nach Anzahl Banner)", ""]
-    md += [f'<div data-banner-stats="json" data-src="cities-data" data-top="{args.top_cities}" data-title="Städte"></div>']
-    md += ['<script id="cities-data" type="application/json">']
-    md += [cities_json]
-    md += ['</script>', ""]
+    if cities:
+        total = total_banners if total_banners else 1
+        md += ["| Stadt | Banner | Anteil |", "|:------|------:|------:|"]
+        for c, v in sorted(cities.items(), key=lambda x: (-x[1], str(x[0]).lower())):
+            pct = 100.0 * v / total
+            md += [f"| {c} | {v} | {pct:.1f}% |"]
+    else:
+        md += ["_Keine Städte gefunden._"]
+    md += [""]
 
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text("\n".join(md), encoding="utf-8")
