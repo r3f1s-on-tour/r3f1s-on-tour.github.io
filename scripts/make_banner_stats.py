@@ -8,7 +8,8 @@ make_banner_stats.py
 - Rekursives Scannen von docs/banner (Unterordner inkl.).
 - **Filter**: Es werden ausschließlich Banner-Dateien berücksichtigt, deren Frontmatter ein Feld 'nummer' enthält.
 - Jahresstatistik: Jahr, Banner, Missionen, MissionDays, km gesamt, 500er-Meilensteine (aus kumulativem 'completed').
-- Länder- & Städte-Statistik: Top-15 (mit Anteil %) + komplette Liste im <details>-Block.
+- Länder-Statistik: Top-10 (mit Anteil %) + Rest alphabetisch im <details>-Block.
+- Städte-Statistik: Top-20 (mit Anteil %) + Rest alphabetisch im <details>-Block.
 - Durchschnittsstatistik: Banner/∅Jahr/∅Monat, Missionen/∅Jahr/∅Monat, km/∅Jahr/∅Monat.
 - Gesamtstatistik: Gesamtbanner, Missionen gesamt, MissionDays gesamt, Gesamt-km, Zeitraum.
 Benötigt: pyyaml
@@ -27,6 +28,10 @@ except ImportError:
     sys.exit(1)
 
 FM_DELIM = re.compile(r'^---\s*$', re.MULTILINE)
+
+# Anzeige-Limits
+TOP_COUNTRIES = 10
+TOP_CITIES = 20
 
 def parse_frontmatter(md_text: str) -> dict:
     parts = FM_DELIM.split(md_text, maxsplit=2)
@@ -75,7 +80,7 @@ def parse_mission_day(v):
     except Exception: return 0
 
 def banner_distance_km(fm: dict) -> float:
-    # interpretiert alle Felder als Kilometer
+    # interpretiert alle Felder als Kilometer (per Nutzer-Vorgabe)
     for k in ("lengthKMeters","lengthKm","distance_km","km","distance","kilometer"):
         if k in fm and fm.get(k) not in (None, ""):
             return parse_float_km(fm.get(k))
@@ -231,36 +236,46 @@ def main():
         md += ["_Keine Jahresdaten gefunden._"]
     md += [""]
 
-    # Länder (Top-15 + Details)
+    # Länder (Top-10 + Rest alphabetisch in <details>)
     md += ["## Länder (nach Anzahl Banner)", ""]
     if countries:
         total = total_banners if total_banners else 1
-        md += ["| Land | Banner | Anteil |", "|:-----|------:|------:|"]
         ordered = countries.most_common()
-        for c, v in ordered[:15]:
+
+        # Top-N
+        md += ["| Land | Banner | Anteil |", "|:-----|------:|------:|"]
+        for c, v in ordered[:TOP_COUNTRIES]:
             md += [f"| {c} | {v} | {100.0*v/total:.1f}% |"]
-        if len(ordered) > 15:
-            md += ["", "<details><summary>Komplette Liste anzeigen</summary>", ""]
+
+        # Rest alphabetisch im Details-Block
+        remaining = ordered[TOP_COUNTRIES:]
+        if remaining:
+            md += ["", "<details><summary>Weitere Länder (alphabetisch)</summary>", ""]
             md += ["| Land | Banner | Anteil |", "|:-----|------:|------:|"]
-            for c, v in ordered:
+            for c, v in sorted(remaining, key=lambda x: (str(x[0]).lower(), -x[1])):
                 md += [f"| {c} | {v} | {100.0*v/total:.1f}% |"]
             md += ["", "</details>", ""]
     else:
         md += ["_Keine Länder gefunden._"]
     md += [""]
 
-    # Städte (Top-15 + Details)
+    # Städte (Top-20 + Rest alphabetisch in <details>)
     md += ["## Städte (nach Anzahl Banner)", ""]
     if cities:
         total = total_banners if total_banners else 1
-        md += ["| Stadt | Banner | Anteil |", "|:------|------:|------:|"]
         ordered = cities.most_common()
-        for c, v in ordered[:15]:
+
+        # Top-N
+        md += ["| Stadt | Banner | Anteil |", "|:------|------:|------:|"]
+        for c, v in ordered[:TOP_CITIES]:
             md += [f"| {c} | {v} | {100.0*v/total:.1f}% |"]
-        if len(ordered) > 15:
-            md += ["", "<details><summary>Komplette Liste anzeigen</summary>", ""]
+
+        # Rest alphabetisch im Details-Block
+        remaining = ordered[TOP_CITIES:]
+        if remaining:
+            md += ["", "<details><summary>Weitere Städte (alphabetisch)</summary>", ""]
             md += ["| Stadt | Banner | Anteil |", "|:------|------:|------:|"]
-            for c, v in ordered:
+            for c, v in sorted(remaining, key=lambda x: (str(x[0]).lower(), -x[1])):
                 md += [f"| {c} | {v} | {100.0*v/total:.1f}% |"]
             md += ["", "</details>", ""]
     else:
