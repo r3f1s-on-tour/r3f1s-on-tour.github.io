@@ -32,7 +32,7 @@ name: "Süße Verführung in Augsburg"
 ## Details
 
 - **Missions in banner:** 30
-- **Total missions completed:** 
+- **Total missions completed:** 3576
 - **This is my banner no.:** 147
 
 

@@ -32,7 +32,7 @@ name: "Nyan Toast - Strasburg"
 ## Details
 - **Distance (km):** 3.17
 - **Missions in banner:** 6
-- **Total missions completed:** 
+- **Total missions completed:** 7656
 - **This is my banner no.:** 336
 
 

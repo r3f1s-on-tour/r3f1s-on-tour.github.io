@@ -32,7 +32,7 @@ name: "A journey through the florakiez"
 ## Details
 - **Distance (km):** 8.84
 - **Missions in banner:** 18
-- **Total missions completed:** 
+- **Total missions completed:** 6126
 - **This is my banner no.:** 254
 
 

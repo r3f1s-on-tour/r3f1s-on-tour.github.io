@@ -32,7 +32,7 @@ name: "Held der Kindheit"
 ## Details
 - **Distance (km):** 4.89
 - **Missions in banner:** 12
-- **Total missions completed:** 
+- **Total missions completed:** 13.086
 - **This is my banner no.:** 592
 - **Mission Day:** Yes
 

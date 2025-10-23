@@ -32,7 +32,7 @@ name: "Catpool (Rote Augsburger Katze)"
 ## Details
 
 - **Missions in banner:** 36
-- **Total missions completed:** 
+- **Total missions completed:** 4368
 - **This is my banner no.:** 181
 
 

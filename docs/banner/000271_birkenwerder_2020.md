@@ -32,7 +32,7 @@ name: "Birkenwerder"
 ## Details
 - **Distance (km):** 2.33
 - **Missions in banner:** 6
-- **Total missions completed:** 
+- **Total missions completed:** 6366
 - **This is my banner no.:** 271
 
 

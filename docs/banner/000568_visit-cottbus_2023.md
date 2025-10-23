@@ -32,7 +32,7 @@ name: "Visit Cottbus"
 ## Details
 - **Distance (km):** 5.17
 - **Missions in banner:** 6
-- **Total missions completed:** 
+- **Total missions completed:** 12.558
 - **This is my banner no.:** 568
 
 

@@ -32,7 +32,7 @@ name: "Sound Vision"
 ## Details
 - **Distance (km):** 40.14
 - **Missions in banner:** 54
-- **Total missions completed:** 
+- **Total missions completed:** 600
 - **This is my banner no.:** 30
 
 

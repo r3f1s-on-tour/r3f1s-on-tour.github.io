@@ -32,7 +32,7 @@ name: "Nyan Cat Walk"
 ## Details
 - **Distance (km):** 3.69
 - **Missions in banner:** 6
-- **Total missions completed:** 
+- **Total missions completed:** 6360
 - **This is my banner no.:** 270
 
 

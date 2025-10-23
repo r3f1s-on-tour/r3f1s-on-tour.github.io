@@ -32,7 +32,7 @@ name: "Halloween in G zell"
 ## Details
 - **Distance (km):** 3.38
 - **Missions in banner:** 18
-- **Total missions completed:** 
+- **Total missions completed:** 2772
 - **This is my banner no.:** 112
 
 

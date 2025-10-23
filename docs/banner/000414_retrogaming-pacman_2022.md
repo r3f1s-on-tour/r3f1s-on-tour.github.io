@@ -32,7 +32,7 @@ name: "RetroGaming - Pacman"
 ## Details
 - **Distance (km):** 3.57
 - **Missions in banner:** 6
-- **Total missions completed:** 
+- **Total missions completed:** 8.718
 - **This is my banner no.:** 414
 
 

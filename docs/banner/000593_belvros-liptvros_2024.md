@@ -32,7 +32,7 @@ name: "Belváros-Lipótváros"
 ## Details
 - **Distance (km):** 4.67
 - **Missions in banner:** 24
-- **Total missions completed:** 
+- **Total missions completed:** 13.110
 - **This is my banner no.:** 593
 
 

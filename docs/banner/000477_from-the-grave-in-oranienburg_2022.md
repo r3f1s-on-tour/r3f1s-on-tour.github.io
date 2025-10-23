@@ -32,7 +32,7 @@ name: "From the Grave in Oranienburg"
 ## Details
 - **Distance (km):** 8.96
 - **Missions in banner:** 24
-- **Total missions completed:** 
+- **Total missions completed:** 10.398
 - **This is my banner no.:** 477
 
 

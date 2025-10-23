@@ -32,7 +32,7 @@ name: "Whaleomaly is Coming [Kloster Fürstenfeld]"
 ## Details
 - **Distance (km):** 2.49
 - **Missions in banner:** 6
-- **Total missions completed:** 
+- **Total missions completed:** 4254
 - **This is my banner no.:** 178
 
 

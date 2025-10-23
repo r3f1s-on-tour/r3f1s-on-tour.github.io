@@ -32,7 +32,7 @@ name: "Berlin musikalisch"
 ## Details
 - **Distance (km):** 15.82
 - **Missions in banner:** 48
-- **Total missions completed:** 
+- **Total missions completed:** 7062
 - **This is my banner no.:** 302
 
 

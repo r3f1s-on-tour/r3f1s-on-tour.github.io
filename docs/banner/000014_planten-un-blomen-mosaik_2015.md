@@ -32,7 +32,7 @@ name: "Planten un Blomen Mosaik"
 ## Details
 - **Distance (km):** 7.38
 - **Missions in banner:** 18
-- **Total missions completed:** 
+- **Total missions completed:** 276
 - **This is my banner no.:** 14
 
 

@@ -32,7 +32,7 @@ name: "Torun skyline"
 ## Details
 - **Distance (km):** 3.70
 - **Missions in banner:** 18
-- **Total missions completed:** 
+- **Total missions completed:** 13.470
 - **This is my banner no.:** 616
 
 

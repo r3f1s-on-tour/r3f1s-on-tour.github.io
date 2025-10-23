@@ -32,7 +32,7 @@ name: "Vier-Tore-Stadt"
 ## Details
 
 - **Missions in banner:** 18
-- **Total missions completed:** 
+- **Total missions completed:** 2844
 - **This is my banner no.:** 116
 
 

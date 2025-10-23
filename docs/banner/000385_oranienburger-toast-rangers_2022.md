@@ -32,7 +32,7 @@ name: "Oranienburger Toast Rangers"
 ## Details
 - **Distance (km):** 1.59
 - **Missions in banner:** 6
-- **Total missions completed:** 
+- **Total missions completed:** 8310
 - **This is my banner no.:** 385
 
 

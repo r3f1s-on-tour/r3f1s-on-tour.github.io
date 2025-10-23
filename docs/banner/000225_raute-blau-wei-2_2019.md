@@ -32,7 +32,7 @@ name: "Raute Blau Weiß 2"
 ## Details
 
 - **Missions in banner:** 6
-- **Total missions completed:** 
+- **Total missions completed:** 5406
 - **This is my banner no.:** 225
 
 

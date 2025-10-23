@@ -32,7 +32,7 @@ name: "MissionDay Kaiserburg"
 ## Details
 - **Distance (km):** 8.73
 - **Missions in banner:** 30
-- **Total missions completed:** 
+- **Total missions completed:** 1590
 - **This is my banner no.:** 68
 
 

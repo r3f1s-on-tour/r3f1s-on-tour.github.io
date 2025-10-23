@@ -32,7 +32,7 @@ name: "Halloween Baby"
 ## Details
 - **Distance (km):** 4.54
 - **Missions in banner:** 30
-- **Total missions completed:** 
+- **Total missions completed:** 13.200
 - **This is my banner no.:** 598
 
 

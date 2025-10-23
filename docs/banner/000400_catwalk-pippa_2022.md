@@ -32,7 +32,7 @@ name: "Catwalk Pippa"
 ## Details
 - **Distance (km):** 5.00
 - **Missions in banner:** 18
-- **Total missions completed:** 
+- **Total missions completed:** 8.574
 - **This is my banner no.:** 400
 
 

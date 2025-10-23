@@ -32,7 +32,7 @@ name: "Imperfect Humanist"
 ## Details
 - **Distance (km):** 1.25
 - **Missions in banner:** 6
-- **Total missions completed:** 
+- **Total missions completed:** 7014
 - **This is my banner no.:** 301
 
 

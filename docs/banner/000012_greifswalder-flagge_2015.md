@@ -32,7 +32,7 @@ name: "Greifswalder Flagge"
 ## Details
 - **Distance (km):** 12.22
 - **Missions in banner:** 18
-- **Total missions completed:** 
+- **Total missions completed:** 240
 - **This is my banner no.:** 12
 
 

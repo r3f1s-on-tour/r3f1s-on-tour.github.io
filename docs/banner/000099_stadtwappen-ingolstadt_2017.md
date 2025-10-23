@@ -32,7 +32,7 @@ name: "Stadtwappen Ingolstadt"
 ## Details
 - **Distance (km):** 20.49
 - **Missions in banner:** 42
-- **Total missions completed:** 
+- **Total missions completed:** 2562
 - **This is my banner no.:** 99
 
 

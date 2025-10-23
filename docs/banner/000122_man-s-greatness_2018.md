@@ -32,7 +32,7 @@ name: "Man s Greatness"
 ## Details
 - **Distance (km):** 20.50
 - **Missions in banner:** 36
-- **Total missions completed:** 
+- **Total missions completed:** 2988
 - **This is my banner no.:** 122
 
 

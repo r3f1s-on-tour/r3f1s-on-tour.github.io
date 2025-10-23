@@ -32,7 +32,7 @@ name: "Cherry Blossom"
 ## Details
 - **Distance (km):** 5.95
 - **Missions in banner:** 24
-- **Total missions completed:** 
+- **Total missions completed:** 10.944
 - **This is my banner no.:** 514
 
 

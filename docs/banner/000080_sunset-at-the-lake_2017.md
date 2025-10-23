@@ -32,7 +32,7 @@ name: "Sunset at the lake"
 ## Details
 - **Distance (km):** 6.25
 - **Missions in banner:** 12
-- **Total missions completed:** 
+- **Total missions completed:** 2142
 - **This is my banner no.:** 80
 
 

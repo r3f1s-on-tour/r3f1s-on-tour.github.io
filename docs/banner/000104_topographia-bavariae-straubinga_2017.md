@@ -32,7 +32,7 @@ name: "Topographia Bavariae Straubinga"
 ## Details
 - **Distance (km):** 4.14
 - **Missions in banner:** 12
-- **Total missions completed:** 
+- **Total missions completed:** 2664
 - **This is my banner no.:** 104
 
 

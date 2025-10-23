@@ -32,7 +32,7 @@ name: "Once Upon A Time Under The Valencian Sun"
 ## Details
 - **Distance (km):** 4.88
 - **Missions in banner:** 18
-- **Total missions completed:** 
+- **Total missions completed:** 13.236
 - **This is my banner no.:** 600
 
 

@@ -32,7 +32,7 @@ name: "Enlightened Berlinomaly"
 ## Details
 - **Distance (km):** 12.02
 - **Missions in banner:** 36
-- **Total missions completed:** 
+- **Total missions completed:** 7242
 - **This is my banner no.:** 308
 
 

@@ -32,7 +32,7 @@ name: "Deifel in Düsseldorf"
 ## Details
 - **Distance (km):** 4.00
 - **Missions in banner:** 6
-- **Total missions completed:** 
+- **Total missions completed:** 10.752
 - **This is my banner no.:** 503
 
 

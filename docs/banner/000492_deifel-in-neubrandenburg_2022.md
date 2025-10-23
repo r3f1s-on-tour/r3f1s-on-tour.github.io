@@ -32,7 +32,7 @@ name: "Deifel in Neubrandenburg"
 ## Details
 - **Distance (km):** 2.00
 - **Missions in banner:** 6
-- **Total missions completed:** 
+- **Total missions completed:** 10.542
 - **This is my banner no.:** 492
 
 

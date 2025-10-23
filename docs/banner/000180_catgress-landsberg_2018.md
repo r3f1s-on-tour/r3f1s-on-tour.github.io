@@ -32,7 +32,7 @@ name: "Catgress Landsberg"
 ## Details
 - **Distance (km):** 8.12
 - **Missions in banner:** 24
-- **Total missions completed:** 
+- **Total missions completed:** 4332
 - **This is my banner no.:** 180
 
 

@@ -32,7 +32,7 @@ name: "Fire Fighter Schwedt"
 ## Details
 - **Distance (km):** 7.33
 - **Missions in banner:** 18
-- **Total missions completed:** 
+- **Total missions completed:** 8.532
 - **This is my banner no.:** 398
 
 

@@ -32,7 +32,7 @@ name: "Stammstrecke München"
 ## Details
 
 - **Missions in banner:** 54
-- **Total missions completed:** 
+- **Total missions completed:** 4308
 - **This is my banner no.:** 179
 
 

@@ -32,7 +32,7 @@ name: "Second Sunday Tower in Neubrandenburg"
 ## Details
 - **Distance (km):** 5.76
 - **Missions in banner:** 96
-- **Total missions completed:** 
+- **Total missions completed:** 11.958
 - **This is my banner no.:** 539
 
 

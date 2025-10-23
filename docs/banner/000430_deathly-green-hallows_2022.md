@@ -32,7 +32,7 @@ name: "Deathly Green Hallows"
 ## Details
 - **Distance (km):** 21.08
 - **Missions in banner:** 36
-- **Total missions completed:** 
+- **Total missions completed:** 8.952
 - **This is my banner no.:** 430
 
 

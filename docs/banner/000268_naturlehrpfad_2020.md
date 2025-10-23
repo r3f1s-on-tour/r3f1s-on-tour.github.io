@@ -32,7 +32,7 @@ name: "Naturlehrpfad"
 ## Details
 - **Distance (km):** 5.28
 - **Missions in banner:** 12
-- **Total missions completed:** 
+- **Total missions completed:** 6342
 - **This is my banner no.:** 268
 
 

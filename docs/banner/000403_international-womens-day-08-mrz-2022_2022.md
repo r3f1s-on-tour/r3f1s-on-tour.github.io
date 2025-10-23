@@ -32,7 +32,7 @@ name: "International Womens Day 08 März 2022"
 ## Details
 - **Distance (km):** 5.02
 - **Missions in banner:** 18
-- **Total missions completed:** 
+- **Total missions completed:** 8.616
 - **This is my banner no.:** 403
 
 

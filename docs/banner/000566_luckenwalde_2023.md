@@ -32,7 +32,7 @@ name: "Luckenwalde"
 ## Details
 - **Distance (km):** 1.62
 - **Missions in banner:** 6
-- **Total missions completed:** 
+- **Total missions completed:** 12.528
 - **This is my banner no.:** 566
 
 

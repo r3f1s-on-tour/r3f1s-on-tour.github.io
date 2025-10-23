@@ -32,7 +32,7 @@ name: "Whaleomaly is Coming"
 ## Details
 - **Distance (km):** 3.06
 - **Missions in banner:** 6
-- **Total missions completed:** 
+- **Total missions completed:** 3816
 - **This is my banner no.:** 158
 
 

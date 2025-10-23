@@ -32,7 +32,7 @@ name: "Zum Viktualienmarkt"
 ## Details
 
 - **Missions in banner:** 18
-- **Total missions completed:** 
+- **Total missions completed:** 3324
 - **This is my banner no.:** 138
 
 

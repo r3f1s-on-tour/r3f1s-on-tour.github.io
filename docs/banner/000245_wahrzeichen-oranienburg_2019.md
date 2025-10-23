@@ -32,7 +32,7 @@ name: "Wahrzeichen Oranienburg"
 ## Details
 - **Distance (km):** 8.98
 - **Missions in banner:** 24
-- **Total missions completed:** 
+- **Total missions completed:** 5988
 - **This is my banner no.:** 245
 
 

@@ -32,7 +32,7 @@ name: "Sturmtruppler in Neubrandenburg"
 ## Details
 - **Distance (km):** 30.22
 - **Missions in banner:** 48
-- **Total missions completed:** 
+- **Total missions completed:** 9.474
 - **This is my banner no.:** 456
 
 

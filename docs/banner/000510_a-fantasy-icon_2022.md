@@ -32,7 +32,7 @@ name: "A fantasy Icon"
 ## Details
 - **Distance (km):** 3.87
 - **Missions in banner:** 18
-- **Total missions completed:** 
+- **Total missions completed:** 10.878
 - **This is my banner no.:** 510
 
 

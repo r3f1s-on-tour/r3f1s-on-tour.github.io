@@ -32,7 +32,7 @@ name: "Szczecińska akwarela"
 ## Details
 - **Distance (km):** 8.59
 - **Missions in banner:** 18
-- **Total missions completed:** 
+- **Total missions completed:** 9.018
 - **This is my banner no.:** 432
 
 

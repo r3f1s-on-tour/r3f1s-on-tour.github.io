@@ -32,7 +32,7 @@ name: "Augsburg im Mai"
 ## Details
 
 - **Missions in banner:** 30
-- **Total missions completed:** 
+- **Total missions completed:** 4218
 - **This is my banner no.:** 176
 
 

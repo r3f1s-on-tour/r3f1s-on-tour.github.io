@@ -32,7 +32,7 @@ name: "StarBattle of Orionids - Berlin"
 ## Details
 - **Distance (km):** 1.78
 - **Missions in banner:** 6
-- **Total missions completed:** 
+- **Total missions completed:** 8.316
 - **This is my banner no.:** 386
 
 

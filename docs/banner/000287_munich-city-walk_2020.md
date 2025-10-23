@@ -32,7 +32,7 @@ name: "Munich city walk"
 ## Details
 - **Distance (km):** 3.41
 - **Missions in banner:** 12
-- **Total missions completed:** 
+- **Total missions completed:** 6702
 - **This is my banner no.:** 287
 
 

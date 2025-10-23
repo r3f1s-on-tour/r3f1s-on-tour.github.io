@@ -32,7 +32,7 @@ name: "Bad Aibling - Therme"
 ## Details
 - **Distance (km):** 4.40
 - **Missions in banner:** 12
-- **Total missions completed:** 
+- **Total missions completed:** 4380
 - **This is my banner no.:** 182
 
 

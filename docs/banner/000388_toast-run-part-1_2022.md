@@ -32,7 +32,7 @@ name: "Toast Run Part 1"
 ## Details
 - **Distance (km):** 6.88
 - **Missions in banner:** 24
-- **Total missions completed:** 
+- **Total missions completed:** 8.352
 - **This is my banner no.:** 388
 
 

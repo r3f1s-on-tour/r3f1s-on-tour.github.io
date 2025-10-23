@@ -32,7 +32,7 @@ name: "All Hallows Toast in Oranienburg"
 ## Details
 - **Distance (km):** 1.74
 - **Missions in banner:** 6
-- **Total missions completed:** 
+- **Total missions completed:** 7470
 - **This is my banner no.:** 324
 
 

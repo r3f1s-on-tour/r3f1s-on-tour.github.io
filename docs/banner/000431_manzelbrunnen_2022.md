@@ -32,7 +32,7 @@ name: "Manzelbrunnen"
 ## Details
 - **Distance (km):** 13.08
 - **Missions in banner:** 48
-- **Total missions completed:** 
+- **Total missions completed:** 9.000
 - **This is my banner no.:** 431
 
 

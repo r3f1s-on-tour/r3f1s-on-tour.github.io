@@ -32,7 +32,7 @@ name: "Mr Pumpkin Slasher in Oranienburg - Part 2"
 ## Details
 - **Distance (km):** 6.05
 - **Missions in banner:** 18
-- **Total missions completed:** 
+- **Total missions completed:** 7794
 - **This is my banner no.:** 345
 
 

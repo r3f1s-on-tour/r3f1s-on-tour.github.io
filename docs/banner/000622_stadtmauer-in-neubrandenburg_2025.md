@@ -32,7 +32,7 @@ name: "Stadtmauer in Neubrandenburg"
 ## Details
 - **Distance (km):** 11.19
 - **Missions in banner:** 48
-- **Total missions completed:** 
+- **Total missions completed:** 13386
 - **This is my banner no.:** 622
 
 

@@ -32,7 +32,7 @@ name: "Valencia Skyline"
 ## Details
 - **Distance (km):** 3.56
 - **Missions in banner:** 12
-- **Total missions completed:** 
+- **Total missions completed:** 13.284
 - **This is my banner no.:** 604
 
 

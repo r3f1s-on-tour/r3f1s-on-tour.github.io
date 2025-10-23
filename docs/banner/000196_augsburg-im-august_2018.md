@@ -32,7 +32,7 @@ name: "Augsburg im August"
 ## Details
 
 - **Missions in banner:** 30
-- **Total missions completed:** 
+- **Total missions completed:** 4644
 - **This is my banner no.:** 196
 
 

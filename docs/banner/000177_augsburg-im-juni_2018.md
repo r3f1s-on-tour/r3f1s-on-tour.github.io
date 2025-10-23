@@ -32,7 +32,7 @@ name: "Augsburg im Juni"
 ## Details
 
 - **Missions in banner:** 30
-- **Total missions completed:** 
+- **Total missions completed:** 4248
 - **This is my banner no.:** 177
 
 

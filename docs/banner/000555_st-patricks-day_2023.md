@@ -32,7 +32,7 @@ name: "St-Patricks-Day"
 ## Details
 - **Distance (km):** 3.30
 - **Missions in banner:** 6
-- **Total missions completed:** 
+- **Total missions completed:** 12.366
 - **This is my banner no.:** 555
 
 

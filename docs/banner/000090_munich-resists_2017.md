@@ -32,7 +32,7 @@ name: "Munich resists!"
 ## Details
 - **Distance (km):** 25.94
 - **Missions in banner:** 66
-- **Total missions completed:** 
+- **Total missions completed:** 2364
 - **This is my banner no.:** 90
 
 

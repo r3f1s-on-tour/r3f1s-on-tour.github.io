@@ -32,7 +32,7 @@ name: "Salzburg Domination Tour"
 ## Details
 
 - **Missions in banner:** 60
-- **Total missions completed:** 
+- **Total missions completed:** 3642
 - **This is my banner no.:** 149
 
 

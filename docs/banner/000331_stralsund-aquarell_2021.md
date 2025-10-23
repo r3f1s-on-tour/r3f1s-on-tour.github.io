@@ -32,7 +32,7 @@ name: "Stralsund Aquarell"
 ## Details
 - **Distance (km):** 3.85
 - **Missions in banner:** 12
-- **Total missions completed:** 
+- **Total missions completed:** 7578
 - **This is my banner no.:** 331
 
 

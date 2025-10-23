@@ -32,7 +32,7 @@ name: "Rundum den Lehnitzsee"
 ## Details
 - **Distance (km):** 8.75
 - **Missions in banner:** 18
-- **Total missions completed:** 
+- **Total missions completed:** 6030
 - **This is my banner no.:** 247
 
 

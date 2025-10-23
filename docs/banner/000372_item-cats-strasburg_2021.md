@@ -32,7 +32,7 @@ name: "Item Cats Strasburg"
 ## Details
 - **Distance (km):** 6.56
 - **Missions in banner:** 12
-- **Total missions completed:** 
+- **Total missions completed:** 8160
 - **This is my banner no.:** 372
 
 

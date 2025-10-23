@@ -32,7 +32,7 @@ name: "Deifel in Wuppertal"
 ## Details
 - **Distance (km):** 1.32
 - **Missions in banner:** 6
-- **Total missions completed:** 
+- **Total missions completed:** 10.824
 - **This is my banner no.:** 507
 
 

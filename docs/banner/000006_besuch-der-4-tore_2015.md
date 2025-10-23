@@ -32,7 +32,7 @@ name: "Besuch der 4 Tore"
 ## Details
 
 - **Missions in banner:** 6
-- **Total missions completed:** 
+- **Total missions completed:** 144
 - **This is my banner no.:** 6
 
 

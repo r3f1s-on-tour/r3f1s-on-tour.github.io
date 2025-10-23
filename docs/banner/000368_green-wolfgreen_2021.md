@@ -32,7 +32,7 @@ name: "Green Wolfgreen"
 ## Details
 - **Distance (km):** 5.56
 - **Missions in banner:** 18
-- **Total missions completed:** 
+- **Total missions completed:** 8088
 - **This is my banner no.:** 368
 
 

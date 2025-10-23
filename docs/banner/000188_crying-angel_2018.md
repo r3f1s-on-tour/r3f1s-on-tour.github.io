@@ -32,7 +32,7 @@ name: "Crying Angel"
 ## Details
 - **Distance (km):** 2.21
 - **Missions in banner:** 12
-- **Total missions completed:** 
+- **Total missions completed:** 4458
 - **This is my banner no.:** 188
 
 

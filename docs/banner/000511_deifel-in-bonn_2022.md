@@ -32,7 +32,7 @@ name: "Deifel in Bonn"
 ## Details
 - **Distance (km):** 3.00
 - **Missions in banner:** 6
-- **Total missions completed:** 
+- **Total missions completed:** 10.884
 - **This is my banner no.:** 511
 
 

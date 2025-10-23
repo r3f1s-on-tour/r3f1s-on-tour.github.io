@@ -32,7 +32,7 @@ name: "Friedrichshain Nord"
 ## Details
 
 - **Missions in banner:** 18
-- **Total missions completed:** 
+- **Total missions completed:** 4122
 - **This is my banner no.:** 170
 
 

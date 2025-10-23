@@ -32,7 +32,7 @@ name: "Besenritt in Oranienburg"
 ## Details
 - **Distance (km):** 6.00
 - **Missions in banner:** 18
-- **Total missions completed:** 
+- **Total missions completed:** 10.530
 - **This is my banner no.:** 490
 
 

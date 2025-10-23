@@ -32,7 +32,7 @@ name: "Drachenbraut"
 ## Details
 - **Distance (km):** 4.39
 - **Missions in banner:** 18
-- **Total missions completed:** 
+- **Total missions completed:** 12.408
 - **This is my banner no.:** 558
 
 

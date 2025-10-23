@@ -32,7 +32,7 @@ name: "Harmony & Unity"
 ## Details
 - **Distance (km):** 8.40
 - **Missions in banner:** 36
-- **Total missions completed:** 
+- **Total missions completed:** 10.818
 - **This is my banner no.:** 506
 
 

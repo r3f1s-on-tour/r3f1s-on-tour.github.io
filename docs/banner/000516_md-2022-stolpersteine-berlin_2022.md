@@ -32,7 +32,7 @@ name: "MD 2022: Stolpersteine, Berlin"
 ## Details
 - **Distance (km):** 2.95
 - **Missions in banner:** 6
-- **Total missions completed:** 
+- **Total missions completed:** 10.974
 - **This is my banner no.:** 516
 
 

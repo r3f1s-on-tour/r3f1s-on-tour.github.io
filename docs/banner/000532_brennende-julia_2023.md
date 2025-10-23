@@ -32,7 +32,7 @@ name: "Brennende Julia"
 ## Details
 - **Distance (km):** 19.40
 - **Missions in banner:** 72
-- **Total missions completed:** 
+- **Total missions completed:** 11.580
 - **This is my banner no.:** 532
 
 

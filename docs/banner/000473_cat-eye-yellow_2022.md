@@ -32,7 +32,7 @@ name: "Cat Eye Yellow"
 ## Details
 - **Distance (km):** 2.26
 - **Missions in banner:** 6
-- **Total missions completed:** 
+- **Total missions completed:** 10.344
 - **This is my banner no.:** 473
 
 

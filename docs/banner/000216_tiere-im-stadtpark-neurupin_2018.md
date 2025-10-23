@@ -32,7 +32,7 @@ name: "Tiere im Stadtpark Neurupin"
 ## Details
 - **Distance (km):** 15.23
 - **Missions in banner:** 24
-- **Total missions completed:** 
+- **Total missions completed:** 5244
 - **This is my banner no.:** 216
 
 

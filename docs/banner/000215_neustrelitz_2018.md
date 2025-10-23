@@ -32,7 +32,7 @@ name: "Neustrelitz"
 ## Details
 
 - **Missions in banner:** 18
-- **Total missions completed:** 
+- **Total missions completed:** 5220
 - **This is my banner no.:** 215
 
 

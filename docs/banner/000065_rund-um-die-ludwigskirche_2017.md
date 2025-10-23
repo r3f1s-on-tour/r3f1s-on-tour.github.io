@@ -32,7 +32,7 @@ name: "Rund um die Ludwigskirche"
 ## Details
 
 - **Missions in banner:** 24
-- **Total missions completed:** 
+- **Total missions completed:** 1488
 - **This is my banner no.:** 65
 
 

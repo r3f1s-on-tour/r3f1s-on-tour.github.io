@@ -32,7 +32,7 @@ name: "Schlösser in Oberschleißheim"
 ## Details
 
 - **Missions in banner:** 3
-- **Total missions completed:** 
+- **Total missions completed:** 2043
 - **This is my banner no.:** 74
 
 

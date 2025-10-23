@@ -32,7 +32,7 @@ name: "Rosenheimer Tiger"
 ## Details
 - **Distance (km):** 4.79
 - **Missions in banner:** 18
-- **Total missions completed:** 
+- **Total missions completed:** 4410
 - **This is my banner no.:** 185
 
 

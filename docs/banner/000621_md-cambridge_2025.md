@@ -32,7 +32,7 @@ name: "MD Cambridge"
 ## Details
 
 - **Missions in banner:** 12
-- **Total missions completed:** 
+- **Total missions completed:** 13.524
 - **This is my banner no.:** 621
 - **Mission Day:** Yes
 

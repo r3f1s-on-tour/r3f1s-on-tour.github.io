@@ -32,7 +32,7 @@ name: "Aquarelle Gdansk"
 ## Details
 
 - **Missions in banner:** 12
-- **Total missions completed:** 
+- **Total missions completed:** 13.500
 - **This is my banner no.:** 618
 
 

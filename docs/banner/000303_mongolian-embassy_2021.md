@@ -32,7 +32,7 @@ name: "Mongolian Embassy"
 ## Details
 - **Distance (km):** 3.58
 - **Missions in banner:** 12
-- **Total missions completed:** 
+- **Total missions completed:** 7074
 - **This is my banner no.:** 303
 
 

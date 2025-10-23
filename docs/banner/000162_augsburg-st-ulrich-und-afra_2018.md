@@ -32,7 +32,7 @@ name: "Augsburg St Ulrich und Afra"
 ## Details
 
 - **Missions in banner:** 60
-- **Total missions completed:** 
+- **Total missions completed:** 3924
 - **This is my banner no.:** 162
 
 

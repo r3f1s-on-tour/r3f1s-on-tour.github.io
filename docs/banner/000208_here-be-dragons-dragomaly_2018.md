@@ -32,7 +32,7 @@ name: "Here Be Dragons - Dragomaly"
 ## Details
 
 - **Missions in banner:** 30
-- **Total missions completed:** 
+- **Total missions completed:** 4860
 - **This is my banner no.:** 208
 
 

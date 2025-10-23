@@ -32,7 +32,7 @@ name: "blue Frog Berlin"
 ## Details
 - **Distance (km):** 10.73
 - **Missions in banner:** 24
-- **Total missions completed:** 
+- **Total missions completed:** 7284
 - **This is my banner no.:** 311
 
 

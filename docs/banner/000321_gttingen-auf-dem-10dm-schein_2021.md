@@ -32,7 +32,7 @@ name: "Göttingen auf dem 10DM Schein"
 ## Details
 - **Distance (km):** 6.55
 - **Missions in banner:** 18
-- **Total missions completed:** 
+- **Total missions completed:** 7452
 - **This is my banner no.:** 321
 
 

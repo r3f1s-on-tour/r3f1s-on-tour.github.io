@@ -32,7 +32,7 @@ name: "Stralsund Map Anno 1628"
 ## Details
 - **Distance (km):** 8.46
 - **Missions in banner:** 30
-- **Total missions completed:** 
+- **Total missions completed:** 7626
 - **This is my banner no.:** 333
 
 

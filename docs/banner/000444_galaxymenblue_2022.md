@@ -32,7 +32,7 @@ name: "GalaxyMenBlue"
 ## Details
 - **Distance (km):** 11.09
 - **Missions in banner:** 24
-- **Total missions completed:** 
+- **Total missions completed:** 9.216
 - **This is my banner no.:** 444
 
 

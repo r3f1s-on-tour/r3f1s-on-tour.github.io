@@ -32,7 +32,7 @@ name: "Region Skåne Banner"
 ## Details
 
 - **Missions in banner:** 42
-- **Total missions completed:** 
+- **Total missions completed:** 4716
 - **This is my banner no.:** 201
 
 

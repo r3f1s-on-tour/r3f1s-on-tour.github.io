@@ -32,7 +32,7 @@ name: "Ich mag Waldkraiburg"
 ## Details
 - **Distance (km):** 4.01
 - **Missions in banner:** 6
-- **Total missions completed:** 
+- **Total missions completed:** 4584
 - **This is my banner no.:** 194
 
 

@@ -32,7 +32,7 @@ name: "Goldener Saal Augsburg"
 ## Details
 
 - **Missions in banner:** 24
-- **Total missions completed:** 
+- **Total missions completed:** 3078
 - **This is my banner no.:** 125
 
 

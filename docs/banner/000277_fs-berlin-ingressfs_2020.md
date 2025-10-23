@@ -32,7 +32,7 @@ name: "FS Berlin #IngressFS"
 ## Details
 - **Distance (km):** 1.66
 - **Missions in banner:** 6
-- **Total missions completed:** 
+- **Total missions completed:** 6462
 - **This is my banner no.:** 277
 
 

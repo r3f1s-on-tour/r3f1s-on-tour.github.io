@@ -32,7 +32,7 @@ name: "ToastAmp Neubrandenburg"
 ## Details
 - **Distance (km):** 5.94
 - **Missions in banner:** 18
-- **Total missions completed:** 
+- **Total missions completed:** 12.384
 - **This is my banner no.:** 556
 
 

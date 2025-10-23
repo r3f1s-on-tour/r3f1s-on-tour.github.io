@@ -32,7 +32,7 @@ name: "Entdeckungstour durch Woldgek"
 ## Details
 - **Distance (km):** 8.60
 - **Missions in banner:** 18
-- **Total missions completed:** 
+- **Total missions completed:** 10.218
 - **This is my banner no.:** 464
 
 

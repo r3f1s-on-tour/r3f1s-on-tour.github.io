@@ -32,7 +32,7 @@ name: "Frühlingsspaziergang"
 ## Details
 
 - **Missions in banner:** 24
-- **Total missions completed:** 
+- **Total missions completed:** 3786
 - **This is my banner no.:** 156
 
 

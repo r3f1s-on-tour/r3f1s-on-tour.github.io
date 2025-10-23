@@ -32,7 +32,7 @@ name: "Holzkirchen"
 ## Details
 - **Distance (km):** 10.84
 - **Missions in banner:** 36
-- **Total missions completed:** 
+- **Total missions completed:** 5172
 - **This is my banner no.:** 212
 
 

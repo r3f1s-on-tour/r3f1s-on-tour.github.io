@@ -32,7 +32,7 @@ name: "Starry Night TARDIS"
 ## Details
 
 - **Missions in banner:** 24
-- **Total missions completed:** 
+- **Total missions completed:** 132
 - **This is my banner no.:** 4
 
 
