@@ -2,12 +2,30 @@
 # -*- coding: utf-8 -*-
 """
 CSV -> Markdown (Bannergress banners)
-Variant B (neutral English template) + support for:
-- missionDay => Yes/No via {{__VALYESNO:missionDay__}}
-- notice => highlighted notice box (with <br> via {{__VALBR:notice__}})
-- Distance formatted to 2 decimals via {{__VAL2DP:lengthKMeters__}}
-- Title aliases (title/name/titel), slug & href always present in front matter
-Usage:
+
+- Reads a CSV and creates one Markdown page per row.
+- Writes all CSV columns into YAML front matter (sanitizing ":" except for some keys).
+- Special handling:
+  * 'description' and 'notice' are always quoted and store newlines as "\\n".
+  * One banner image (first matching picture-like column).
+  * Zero-padded numeric prefix in filename (default width 6; --pad-width).
+  * Title aliases ensured: title, name, titel.
+  * Always writes slug and href into front matter (useful for overview pages).
+  * Region/City: if 'region' is given and 'city' is empty, city is set to region.
+    Placeholders also prefer region where applicable.
+
+- Template system (no Jinja needed):
+  {{__VAL:key__}}        → value
+  {{__VALBR:key__}}      → value with "\\n" rendered as <br>
+  {{__VAL2DP:key__}}     → numeric value formatted with 2 decimals
+  {{__VALYESNO:key__}}   → "Yes"/"No" for truthy/falsy values (1/0, true/false, yes/no)
+  {{__IMG:key__}}        → Markdown image if url present
+  {{__IF:key__}} ... {{__/IF__}}            → conditional block if key has a value
+  {{__IFANY:a,b__}} ... {{__/IFANY__}}      → block if any of the given keys has a value
+
+- English UI text expected in the template file (see template/banner.md).
+
+Usage example:
   python scripts/make_banner_markdown.py \
     --csv scripts/banner.csv \
     --out docs/banner \
@@ -16,18 +34,18 @@ Usage:
 """
 import argparse, csv, os, re, sys
 from datetime import datetime
-from typing import List, Dict, Any, Optional
+from typing import List, Dict, Any
 
-# ---------------- Config ----------------
+# -------- Config ----------
 PICTURE_KEYS = [
     "picture","pictures","image","images","img","pic","pic_url",
     "picture_url","image_url","bild","bilder","pictureurl","imageurl"
 ]
-EXCLUDED_SANITIZE_KEYS = {"bg-link","picture"}          # don't replace ":" in these values
+EXCLUDED_SANITIZE_KEYS = {"bg-link","picture"}  # do not replace ":" in these
 URL_PREFIXES = ("http://","https://")
 IDENTIFIER_RE = re.compile(r"[A-Za-z_][A-Za-z0-9_]*$")
 
-# ---------------- Utils ----------------
+# -------- Utils ----------
 def dprint(enabled: bool, *args):
     if enabled:
         print("[DEBUG]", *args, file=sys.stderr)
@@ -110,7 +128,7 @@ def format_number_for_filename(num_raw: str, min_width: int) -> str:
     width = max(min_width, len(digits))
     return digits.zfill(width)
 
-# ---------------- Template engine ----------------
+# -------- Template engine ----------
 _BLOCK_IF    = re.compile(r"\{\{__IF:([^}]+)__\}\}(.*?)\{\{__/IF__\}\}", re.DOTALL)
 _BLOCK_IFANY = re.compile(r"\{\{__IFANY:([^}]+)__\}\}(.*?)\{\{__/IFANY__\}\}", re.DOTALL)
 
@@ -136,26 +154,23 @@ def render_placeholders(template_text: str, ctx: Dict[str,Any]) -> str:
     tpl  = template_text
     meta = ctx["meta"]
 
-    # IF / IFANY
+    # conditions
     tpl = _expand_if_blocks(tpl, meta)
 
-    # simple value
+    # values
     for m in re.findall(r"\{\{__VAL:([^}]+)__\}\}", tpl):
         tpl = tpl.replace(f"{{{{__VAL:{m}__}}}}", str(meta.get(m, "")).strip())
 
-    # with <br> (stored as \n in YAML)
     for m in re.findall(r"\{\{__VALBR:([^}]+)__\}\}", tpl):
         val = str(meta.get(m, "")).strip().replace("\\n", "<br>")
         tpl = tpl.replace(f"{{{{__VALBR:{m}__}}}}", val)
 
-    # 2 decimals
     for m in re.findall(r"\{\{__VAL2DP:([^}]+)__\}\}", tpl):
         raw = str(meta.get(m, "")).strip().replace(",", ".")
         try: val = f"{float(raw):.2f}"
         except Exception: val = raw
         tpl = tpl.replace(f"{{{{__VAL2DP:{m}__}}}}", val)
 
-    # Yes/No
     for m in re.findall(r"\{\{__VALYESNO:([^}]+)__\}\}", tpl):
         val = str(meta.get(m, "")).strip().lower()
         yes = val in ("1","true","yes","y")
@@ -163,27 +178,25 @@ def render_placeholders(template_text: str, ctx: Dict[str,Any]) -> str:
         out = "Yes" if yes else "No" if no or val else ""
         tpl = tpl.replace(f"{{{{__VALYESNO:{m}__}}}}", out)
 
-    # links & image
     for m in re.findall(r"\{\{__LINK:([^}]+)__\}\}", tpl):
         url = str(meta.get(m, "")).strip()
-        repl = f"[{url}]({url})" if is_urlish(url) else ""
-        tpl = tpl.replace(f"{{{{__LINK:{m}__}}}}", repl)
+        tpl = tpl.replace(f"{{{{__LINK:{m}__}}}}", f"[{url}]({url})" if is_urlish(url) else "")
 
     for m in re.findall(r"\{\{__IMG:([^}]+)__\}\}", tpl):
         url = str(meta.get(m, "")).strip()
         tpl = tpl.replace(f"{{{{__IMG:{m}__}}}}", f"![{meta.get('title','Image')}]({url})" if url else "")
 
-    # static helpers
-    tpl = tpl.replace("{{__TITLE__}}", str(meta.get("title") or meta.get("name") or meta.get("titel") or "Untitled"))
+    # helpers (prefer region for CITY placeholder)
+    tpl = tpl.replace("{{__TITLE__}}",   str(meta.get("title") or meta.get("name") or meta.get("titel") or "Untitled"))
     tpl = tpl.replace("{{__DATE_DE__}}", fmt_date_de(meta.get("date") or meta.get("datum") or ""))
-    tpl = tpl.replace("{{__CITY__}}",     str(meta.get("city") or meta.get("stadt") or meta.get("ort") or ""))
-    tpl = tpl.replace("{{__COUNTRY__}}",  str(meta.get("country") or meta.get("land") or ""))
-    tpl = tpl.replace("{{__NUMBER__}}",   ctx["number_padded"])
-    tpl = tpl.replace("{{__SLUG__}}",     ctx["slug"])
-    tpl = tpl.replace("{{__FILENAME__}}", ctx["filename"])
+    tpl = tpl.replace("{{__CITY__}}",    str(meta.get("region") or meta.get("city") or meta.get("stadt") or meta.get("ort") or ""))
+    tpl = tpl.replace("{{__COUNTRY__}}", str(meta.get("country") or meta.get("land") or ""))
+    tpl = tpl.replace("{{__NUMBER__}}",  ctx["number_padded"])
+    tpl = tpl.replace("{{__SLUG__}}",    ctx["slug"])
+    tpl = tpl.replace("{{__FILENAME__}}",ctx["filename"])
     return tpl.strip() + "\n"
 
-# ---------------- Template / IO ----------------
+# -------- IO ----------
 def read_template(path: str) -> str:
     if not os.path.isfile(path):
         raise SystemExit(f"Template not found: {path}")
@@ -200,22 +213,17 @@ def write_markdown(out_path: str, fm: dict, ordered: list[str], body: str):
             lines.append(f'{k}: "{esc}"')
         else:
             lines.append(f"{k}: {yaml_escape(v)}")
-    # ensure slug & href (may not be in CSV header)
-    if "slug" not in ordered:
-        lines.append(f"slug: {yaml_escape(fm.get('slug',''))}")
-    if "href" not in ordered:
-        lines.append(f"href: {yaml_escape(fm.get('href',''))}")
-    # ensure title aliases
-    if "name" not in ordered:
-        lines.append(f"name: {yaml_escape(fm.get('name',''))}")
-    if "titel" not in ordered:
-        lines.append(f"titel: {yaml_escape(fm.get('titel',''))}")
+    # also ensure these helper fields are present even if not in CSV header
+    if "slug" not in ordered:   lines.append(f"slug: {yaml_escape(fm.get('slug',''))}")
+    if "href" not in ordered:   lines.append(f"href: {yaml_escape(fm.get('href',''))}")
+    if "name" not in ordered:   lines.append(f"name: {yaml_escape(fm.get('name',''))}")
+    if "titel" not in ordered:  lines.append(f"titel: {yaml_escape(fm.get('titel',''))}")
     lines.append("---\n")
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
     with open(out_path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + body)
 
-# ---------------- Main ----------------
+# -------- Main ----------
 def main():
     ap = argparse.ArgumentParser(description="CSV -> Markdown generator (Banner)")
     ap.add_argument("--csv", required=True, help="Path to input CSV")
@@ -240,7 +248,7 @@ def main():
             num_raw = infer_field(row, ["nummer","number","no","id"]) or str(idx)
             number_padded = format_number_for_filename(num_raw, args.pad_width)
 
-            # core fields
+            # core fields from CSV
             title_csv = infer_field(row, ["title","titel","name"]) or f"row-{idx}"
             date_raw  = infer_field(row, ["date","datum","created","when","planned_date"])
             date_norm = normalize_date(date_raw)
@@ -248,11 +256,11 @@ def main():
             filename  = f"{number_padded}_{slug_val}_{date_norm}.md"
             out_path  = os.path.join(args.out, filename)
 
-            # front matter base from CSV
+            # front matter straight from CSV (sanitized)
             ordered_fields = list(reader.fieldnames)
             fm = {k: sanitize_value(k, (row.get(k,"") or "").strip()) for k in ordered_fields}
 
-            # ensure title/date always present
+            # ensure title/date
             if not str(fm.get("title","")).strip():
                 fm["title"] = title_csv
                 if "title" not in ordered_fields: ordered_fields.append("title")
@@ -260,17 +268,21 @@ def main():
                 fm["date"] = date_norm
                 if "date" not in ordered_fields: ordered_fields.append("date")
 
-            # title aliases + slug + href (help Overview)
+            # title aliases
             t = (fm.get("title") or fm.get("titel") or fm.get("name") or title_csv).strip()
             fm["title"] = t
-            if not str(fm.get("name","")).strip():
-                fm["name"] = t
-            if not str(fm.get("titel","")).strip():
-                fm["titel"] = t
+            if not str(fm.get("name","")).strip():  fm["name"]  = t
+            if not str(fm.get("titel","")).strip(): fm["titel"] = t
+
+            # region -> city alias if city empty
+            if str(fm.get("region","")).strip() and not str(fm.get("city","")).strip():
+                fm["city"] = fm["region"]
+
+            # helpers
             fm["slug"] = fm.get("slug") or slug_val
             fm["href"] = fm.get("href") or f"banner/{number_padded}_{slug_val}_{date_norm}.md"
 
-            # render body via placeholders
+            # render body via simple placeholders
             ctx = {
                 "meta": fm,
                 "number_padded": number_padded,
