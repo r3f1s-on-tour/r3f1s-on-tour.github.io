@@ -11,7 +11,7 @@ missions: "36"
 date: "2016"
 bg-link: "https://bannergress.com/banner/munich-s-celtic-knot-a147"
 onyx: "0"
-description: "36er Mosaik durch München, das Wissenswertes über die Kelten vermittelt.\n\nDie Kelten besiedelten einst ganz Europa und hinterließen ihre Spuren in Großbritannien, Frankreich, Deutschland & Anatolien"
+description: "36er Mosaik durch München, das Wissenswertes über die Kelten vermittelt. Die Kelten besiedelten einst ganz Europa und hinterließen ihre Spuren in Großbritannien, Frankreich, Deutschland & Anatolien"
 lengthKMeters: "10,38"
 umap: ""
 title: "MUNICHS CELTIC KNOT"
@@ -30,9 +30,7 @@ title: "MUNICHS CELTIC KNOT"
 
 
 !!! note "Description"
-    36er Mosaik durch München, das Wissenswertes über die Kelten vermittelt.
-
-Die Kelten besiedelten einst ganz Europa und hinterließen ihre Spuren in Großbritannien, Frankreich, Deutschland & Anatolien
+    36er Mosaik durch München, das Wissenswertes über die Kelten vermittelt. Die Kelten besiedelten einst ganz Europa und hinterließen ihre Spuren in Großbritannien, Frankreich, Deutschland & Anatolien
 
 
 

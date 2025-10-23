@@ -3,7 +3,7 @@ nummer: "122"
 startLatitude: "48.100909"
 startLongitude: "11.64795"
 titel: "Man s Greatness"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/c1d059c65604cab5b3cfc53523d2005c"
 region: "München"
 country: "Deutschland"
 completed: "2988"
@@ -20,7 +20,7 @@ title: "Man s Greatness"
 
 *2018* • München • Deutschland
 
-
+![Man s Greatness](https://api.bannergress.com/bnrs/pictures/c1d059c65604cab5b3cfc53523d2005c)
 
 ## Details
 - **Distance (km):** 20.50
