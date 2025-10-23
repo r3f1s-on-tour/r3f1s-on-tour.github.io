@@ -96,6 +96,7 @@ jobs:
         run: |
           python scripts/make_banner_gallery.py \
             --root docs \
+            --csv scripts/banner.csv \
             --banner_dir banner \
             --outfile gallery.md \
             --verbose
