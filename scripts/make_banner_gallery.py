@@ -3,23 +3,23 @@
 """
 Build a banner gallery page from a CSV as a single-column HTML gallery.
 
-- Default output: docs/banner/gallery.md
-- Images render via <a><img></a> (reliable inside HTML blocks).
-- Rows without picture are skipped (no empty boxes).
-- Links computed relative to output location; supports directory URLs.
+Fixes:
+- Correct relative links from docs/banner/gallery.md to banner pages.
+- No vertical spacing between images.
+- Sort descending by 'nummer' (fallback: number/no/id).
 
 Overwrite controls:
   --overwrite | legacy --force | env BANNER_GALLERY_OVERWRITE=1
 
 Template support:
-  1) {{__EACH_BANNER__}} ... {{__/EACH_BANNER__}} with placeholders:
+  1) {{__EACH_BANNER__}} ... {{__/EACH_BANNER__}} with:
      {{__URL__}}, {{__PICTURE__}}, {{__TITLE__}}, {{__DATE_DE__}}, {{__CITY__}}, {{__COUNTRY__}}
-  2) <!-- GALLERY --> placeholder (safe replacement; strips <p> wrapper)
+  2) <!-- GALLERY --> placeholder (strips <p> wrapper)
 """
 
 import argparse, csv, os, re, sys, hashlib
 from datetime import datetime
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, List, Optional, Tuple
 
 PICTURE_KEYS = [
     "picture","pictures","image","images","img","pic","pic_url",
@@ -79,6 +79,24 @@ def infer(row: Dict[str, Any], keys: List[str]) -> str:
                 return v
     return ""
 
+def parse_num_for_sort(row: Dict[str, Any]) -> Tuple[int, str]:
+    raw = infer(row, ["nummer","number","no","id"])
+    digits = re.sub(r"\D","", raw)
+    if digits:
+        try:
+            return (int(digits), digits)
+        except Exception:
+            pass
+    # fallback: try to derive from title start
+    title = infer(row, ["title","titel","name"])
+    m = re.match(r"^\s*(\d+)", title or "")
+    if m:
+        try:
+            return (int(m.group(1)), m.group(1))
+        except Exception:
+            pass
+    return (0, "0")
+
 def sha1(s: str) -> str:
     return hashlib.sha1(s.encode("utf-8")).hexdigest()
 
@@ -132,8 +150,7 @@ def read_template(path: str) -> str:
 def expand_each_banner(template_text: str, items: List[Dict[str, str]]) -> Optional[str]:
     """
     Expand {{__EACH_BANNER__}} ... {{__/EACH_BANNER__}} for items that have pictures.
-    Supported placeholders:
-      {{__URL__}}, {{__PICTURE__}}, {{__TITLE__}}, {{__DATE_DE__}}, {{__CITY__}}, {{__COUNTRY__}}
+    Supports: {{__URL__}}, {{__PICTURE__}}, {{__TITLE__}}, {{__DATE_DE__}}, {{__CITY__}}, {{__COUNTRY__}}
     """
     m = re.search(r"\{\{__EACH_BANNER__\}\}(.*?)\{\{__/EACH_BANNER__\}\}", template_text, re.DOTALL)
     if not m:
@@ -151,36 +168,45 @@ def expand_each_banner(template_text: str, items: List[Dict[str, str]]) -> Optio
 
 def render_html_gallery(items: List[Dict[str, str]]) -> str:
     """
-    Robust HTML rendering: one <p><a><img></a></p> per banner (skips missing pictures).
+    No vertical spacing: each image wrapped in a div with zero line-height/margins.
     """
     lines = []
     for it in items:
         if not it["PICTURE"]:
             continue
         title = (it["TITLE"] or "").replace('"', '&quot;')
-        lines.append(f'<p><a href="{it["URL"]}"><img src="{it["PICTURE"]}" alt="{title}"></a></p>')
+        lines.append(
+            f'<div style="margin:0;padding:0;line-height:0"><a href="{it["URL"]}">'
+            f'<img src="{it["PICTURE"]}" alt="{title}"></a></div>'
+        )
     return ("\n".join(lines) + "\n") if lines else "\n"
 
 def compute_href(stem: str, out_path: str, directory_urls: bool) -> str:
     """
-    If output is docs/banner/gallery.md  -> './<stem>/' or './<stem>.md'
+    If output is docs/banner/gallery.md  -> '../<stem>/' or '../<stem>.md'
     If output is docs/gallery/index.md   -> '../banner/<stem>/' or '../banner/<stem>.md'
     Else                                 -> 'banner/<stem>/' or 'banner/<stem>.md'
     """
     out_dir = os.path.normpath(os.path.dirname(out_path))
+    base = os.path.basename(out_path).lower()
     tail = out_dir.replace("\\", "/").split("/")[-1]
     suffix = "/" if directory_urls else ".md"
 
-    if tail == "banner":
-        return f"./{stem}{suffix}"
+    # Gallery lives inside docs/banner/ as 'gallery.md'
+    if tail == "banner" and base.startswith("gallery"):
+        return f"../{stem}{suffix}"
+
+    # Classic gallery homepage docs/gallery/index.md
     if out_path.replace("\\", "/").endswith("docs/gallery/index.md") or tail == "gallery":
         return f"../banner/{stem}{suffix}"
+
+    # Default fallback
     return f"banner/{stem}{suffix}"
 
 # -------------------- main --------------------
 
 def main():
-    p = argparse.ArgumentParser(description="Build banner gallery page from a CSV (HTML, 1 column, full width)")
+    p = argparse.ArgumentParser(description="Build banner gallery page from a CSV (HTML, 1 column, no spacing)")
     # New flags
     p.add_argument("--csv", help="Path to input CSV (or env BANNER_GALLERY_CSV)")
     p.add_argument("--out", default="docs/banner/gallery.md", help="Output file (default: docs/banner/gallery.md)")
@@ -232,6 +258,9 @@ def main():
 
     dprint(args.debug, f"Loaded {len(rows)} rows from {csv_path}")
 
+    # ---- Sort rows by 'nummer' DESC (fallback to 0) ----
+    rows.sort(key=lambda r: parse_num_for_sort(r)[0], reverse=True)
+
     # Build items
     items: List[Dict[str, str]] = []
     for idx, row in enumerate(rows, start=1):
@@ -264,21 +293,19 @@ def main():
                 "COUNTRY": country,
             })
         else:
-            dprint(args.debug, f"Skip row {idx} ('{title}') because no picture found.")
+            dprint(args.debug, f"Skip row idx={idx} '{title}' (no picture).")
 
-    # Render gallery HTML
+    # Render gallery HTML (no spacing)
     gallery_html = render_html_gallery(items)
 
     # Apply template if present
     out_text = gallery_html
     if os.path.isfile(args.template):
         tpl = read_template(args.template)
-        # Prefer EACH block
         expanded = expand_each_banner(tpl, items)
         if expanded is not None:
             out_text = expanded
         else:
-            # Replace <!-- GALLERY -->; strip possible <p> wrappers first
             cleaned_tpl = re.sub(
                 r"<p>\s*<!--\s*GALLERY\s*-->\s*</p>",
                 "<!-- GALLERY -->",
