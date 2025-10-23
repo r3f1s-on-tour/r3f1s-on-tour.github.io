@@ -1,0 +1,10 @@
+<style>
+.bs-table-wrap{ overflow-x:auto; margin:.25rem 0 1rem; }
+.bs-table{ width:100%; border-collapse:collapse; font-size:0.95rem; }
+.bs-table th,.bs-table td{ padding:.5rem .6rem; border-bottom:1px solid var(--md-default-fg-color--lightest, #eee); }
+.bs-table th{ text-align:left; white-space:nowrap; }
+.bs-table tr:hover td{ background: var(--md-default-bg-color--lighter, #fafafa); }
+.bs-details{ margin:.25rem 0 1rem; }
+.bs-details > summary{ cursor:pointer; margin:.25rem 0 .5rem; }
+.bs-search{ width:100%; max-width:420px; padding:.45rem .6rem; margin:.25rem 0 .75rem; border:1px solid var(--md-default-fg-color--lighter, #ddd); border-radius:6px; }
+</style>
