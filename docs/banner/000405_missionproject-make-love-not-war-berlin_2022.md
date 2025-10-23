@@ -3,7 +3,7 @@ nummer: "405"
 startLatitude: "52,528711"
 startLongitude: "13,424447"
 titel: "#MissionProject Make Love Not War Berlin"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/157bba3f751c31c82aa832552c721f58"
 region: "Berlin"
 country: "Deutschland"
 completed: "8.646"
@@ -20,7 +20,7 @@ title: "#MissionProject Make Love Not War Berlin"
 
 *2022* • Berlin • Deutschland
 
-
+![#MissionProject Make Love Not War Berlin](https://api.bannergress.com/bnrs/pictures/157bba3f751c31c82aa832552c721f58)
 
 ## Details
 - **Distance (km):** 4.13

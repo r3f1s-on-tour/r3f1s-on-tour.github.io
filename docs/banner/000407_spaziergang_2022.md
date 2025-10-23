@@ -3,7 +3,7 @@ nummer: "407"
 startLatitude: "52,530972"
 startLongitude: "13,382606"
 titel: "SPAZIERGANG"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/1cfaf295539445878d66d9d0cdb8e390"
 region: "Berlin"
 country: "Deutschland"
 completed: "8.676"
@@ -20,7 +20,7 @@ title: "SPAZIERGANG"
 
 *2022* • Berlin • Deutschland
 
-
+![SPAZIERGANG](https://api.bannergress.com/bnrs/pictures/1cfaf295539445878d66d9d0cdb8e390)
 
 ## Details
 - **Distance (km):** 6.23

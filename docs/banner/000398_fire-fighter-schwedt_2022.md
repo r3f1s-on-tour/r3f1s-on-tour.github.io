@@ -3,7 +3,7 @@ nummer: "398"
 startLatitude: "53,062951"
 startLongitude: "14,290398"
 titel: "Fire Fighter Schwedt"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/db8186d04725a6bd4986863acc0e1f68"
 region: "Schwedt/Oder"
 country: "Deutschland"
 completed: "8.532"
@@ -20,7 +20,7 @@ title: "Fire Fighter Schwedt"
 
 *2022* • Schwedt/Oder • Deutschland
 
-
+![Fire Fighter Schwedt](https://api.bannergress.com/bnrs/pictures/db8186d04725a6bd4986863acc0e1f68)
 
 ## Details
 - **Distance (km):** 7.33

@@ -3,7 +3,7 @@ nummer: "418"
 startLatitude: "53,503771"
 startLongitude: "13,98897"
 titel: "RetroGaming - Dragon Ball"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/7b1b3826271897a13f59a3f728e79571"
 region: "Pasewalk"
 country: "Deutschland"
 completed: "8.742"
@@ -20,7 +20,7 @@ title: "RetroGaming - Dragon Ball"
 
 *2022* • Pasewalk • Deutschland
 
-
+![RetroGaming - Dragon Ball](https://api.bannergress.com/bnrs/pictures/7b1b3826271897a13f59a3f728e79571)
 
 ## Details
 - **Distance (km):** 3.57

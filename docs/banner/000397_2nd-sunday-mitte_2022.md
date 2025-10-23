@@ -3,7 +3,7 @@ nummer: "397"
 startLatitude: "52,516121"
 startLongitude: "13,379398"
 titel: "2nd Sunday Mitte"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/edc412993520c3741de81742a59f4e3f"
 region: "Berlin"
 country: "Deutschland"
 completed: "8.514"
@@ -20,7 +20,7 @@ title: "2nd Sunday Mitte"
 
 *2022* • Berlin • Deutschland
 
-
+![2nd Sunday Mitte](https://api.bannergress.com/bnrs/pictures/edc412993520c3741de81742a59f4e3f)
 
 ## Details
 - **Distance (km):** 2.04

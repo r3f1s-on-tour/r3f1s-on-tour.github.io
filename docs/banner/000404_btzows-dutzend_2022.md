@@ -3,7 +3,7 @@ nummer: "404"
 startLatitude: "52,535859"
 startLongitude: "13,433165"
 titel: "Bötzows Dutzend"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/ae36de32d3233a720296734dad2e68c5"
 region: "Berlin"
 country: "Deutschland"
 completed: "8.628"
@@ -20,7 +20,7 @@ title: "Bötzows Dutzend"
 
 *2022* • Berlin • Deutschland
 
-
+![Bötzows Dutzend](https://api.bannergress.com/bnrs/pictures/ae36de32d3233a720296734dad2e68c5)
 
 ## Details
 - **Distance (km):** 6.56

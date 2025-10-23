@@ -3,7 +3,7 @@ nummer: "414"
 startLatitude: "53,503771"
 startLongitude: "13,98897"
 titel: "RetroGaming - Pacman"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/515657e1428c309d3271c0e1562f5527"
 region: "Pasewalk"
 country: "Deutschland"
 completed: "8.718"
@@ -20,7 +20,7 @@ title: "RetroGaming - Pacman"
 
 *2022* • Pasewalk • Deutschland
 
-
+![RetroGaming - Pacman](https://api.bannergress.com/bnrs/pictures/515657e1428c309d3271c0e1562f5527)
 
 ## Details
 - **Distance (km):** 3.57

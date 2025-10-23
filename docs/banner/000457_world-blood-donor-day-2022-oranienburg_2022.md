@@ -3,7 +3,7 @@ nummer: "457"
 startLatitude: "52,754504"
 startLongitude: "13,248415"
 titel: "World Blood Donor Day 2022 - Oranienburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/ca87f1b6d949b49be9708f22d91243f0"
 region: "Oranienburg"
 country: "Deutschland"
 completed: "9.480"
@@ -20,7 +20,7 @@ title: "World Blood Donor Day 2022 - Oranienburg"
 
 *2022* • Oranienburg • Deutschland
 
-
+![World Blood Donor Day 2022 - Oranienburg](https://api.bannergress.com/bnrs/pictures/ca87f1b6d949b49be9708f22d91243f0)
 
 ## Details
 - **Distance (km):** 3.01

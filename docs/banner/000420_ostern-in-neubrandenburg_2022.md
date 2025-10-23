@@ -3,7 +3,7 @@ nummer: "420"
 startLatitude: "53,5614"
 startLongitude: "13,260847"
 titel: "Ostern in Neubrandenburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/c9ff13f42d96267548ce87bf7f4b0d2b"
 region: "Neubrandenburg"
 country: "Deutschland"
 completed: "8.760"
@@ -20,7 +20,7 @@ title: "Ostern in Neubrandenburg"
 
 *2022* • Neubrandenburg • Deutschland
 
-
+![Ostern in Neubrandenburg](https://api.bannergress.com/bnrs/pictures/c9ff13f42d96267548ce87bf7f4b0d2b)
 
 ## Details
 - **Distance (km):** 3.57

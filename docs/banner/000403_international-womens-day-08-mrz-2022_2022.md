@@ -3,7 +3,7 @@ nummer: "403"
 startLatitude: "52,537001"
 startLongitude: "13,423264"
 titel: "International Womens Day 08 März 2022"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/334ae19bd55e72b9bf4ad987aacd8541"
 region: "Berlin"
 country: "Deutschland"
 completed: "8.616"
@@ -20,7 +20,7 @@ title: "International Womens Day 08 März 2022"
 
 *2022* • Berlin • Deutschland
 
-
+![International Womens Day 08 März 2022](https://api.bannergress.com/bnrs/pictures/334ae19bd55e72b9bf4ad987aacd8541)
 
 ## Details
 - **Distance (km):** 5.02

@@ -3,7 +3,7 @@ nummer: "401"
 startLatitude: "52,509237"
 startLongitude: "13,497382"
 titel: "Catwalk Flummi"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/7f786041d09e3f569238527184afdc87"
 region: "Berlin"
 country: "Deutschland"
 completed: "8.592"
@@ -20,7 +20,7 @@ title: "Catwalk Flummi"
 
 *2022* • Berlin • Deutschland
 
-
+![Catwalk Flummi](https://api.bannergress.com/bnrs/pictures/7f786041d09e3f569238527184afdc87)
 
 ## Details
 - **Distance (km):** 5.00

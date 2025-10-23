@@ -3,7 +3,7 @@ nummer: "400"
 startLatitude: "52,509237"
 startLongitude: "13,497382"
 titel: "Catwalk Pippa"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/6eebdacf7d1601c8a0f6206f61859139"
 region: "Berlin"
 country: "Deutschland"
 completed: "8.574"
@@ -20,7 +20,7 @@ title: "Catwalk Pippa"
 
 *2022* • Berlin • Deutschland
 
-
+![Catwalk Pippa](https://api.bannergress.com/bnrs/pictures/6eebdacf7d1601c8a0f6206f61859139)
 
 ## Details
 - **Distance (km):** 5.00

@@ -3,7 +3,7 @@ nummer: "412"
 startLatitude: "53,503771"
 startLongitude: "13,98897"
 titel: "RetroGaming - Pengo"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/c571f6cf063c9258ff8e7bd9b804701a"
 region: "Pasewalk"
 country: "Deutschland"
 completed: "8.706"
@@ -20,7 +20,7 @@ title: "RetroGaming - Pengo"
 
 *2022* • Pasewalk • Deutschland
 
-
+![RetroGaming - Pengo](https://api.bannergress.com/bnrs/pictures/c571f6cf063c9258ff8e7bd9b804701a)
 
 ## Details
 - **Distance (km):** 3.57

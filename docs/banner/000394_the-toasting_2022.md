@@ -3,7 +3,7 @@ nummer: "394"
 startLatitude: "52,756318"
 startLongitude: "13,244588"
 titel: "The Toasting"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/3940ec3067c0e815a31b686f4b1ba8e8"
 region: "Oranienburg"
 country: "Deutschland"
 completed: "8.496"
@@ -20,7 +20,7 @@ title: "The Toasting"
 
 *2022* • Oranienburg • Deutschland
 
-
+![The Toasting](https://api.bannergress.com/bnrs/pictures/3940ec3067c0e815a31b686f4b1ba8e8)
 
 ## Details
 - **Distance (km):** 1.60

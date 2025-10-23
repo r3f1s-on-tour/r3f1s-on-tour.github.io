@@ -3,7 +3,7 @@ nummer: "417"
 startLatitude: "53,503771"
 startLongitude: "13,98897"
 titel: "RetroGaming - Donkey Kong"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/4d509c2bf3d08a37ad81607ee16cd2ce"
 region: "Pasewalk"
 country: "Deutschland"
 completed: "8.736"
@@ -20,7 +20,7 @@ title: "RetroGaming - Donkey Kong"
 
 *2022* • Pasewalk • Deutschland
 
-
+![RetroGaming - Donkey Kong](https://api.bannergress.com/bnrs/pictures/4d509c2bf3d08a37ad81607ee16cd2ce)
 
 ## Details
 - **Distance (km):** 3.57

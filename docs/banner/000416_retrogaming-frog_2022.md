@@ -3,7 +3,7 @@ nummer: "416"
 startLatitude: "53,503771"
 startLongitude: "13,98897"
 titel: "RetroGaming - Frog"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/8a9fe61065086dc03dcb9410114399a3"
 region: "Pasewalk"
 country: "Deutschland"
 completed: "8.730"
@@ -20,7 +20,7 @@ title: "RetroGaming - Frog"
 
 *2022* • Pasewalk • Deutschland
 
-
+![RetroGaming - Frog](https://api.bannergress.com/bnrs/pictures/8a9fe61065086dc03dcb9410114399a3)
 
 ## Details
 - **Distance (km):** 3.57

@@ -3,7 +3,7 @@ nummer: "415"
 startLatitude: "53,503771"
 startLongitude: "13,98897"
 titel: "RetroGaming - Ghost n Goblins"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/6ed455d39db691971a312f230e184901"
 region: "Pasewalk"
 country: "Deutschland"
 completed: "8.724"
@@ -20,7 +20,7 @@ title: "RetroGaming - Ghost n Goblins"
 
 *2022* • Pasewalk • Deutschland
 
-
+![RetroGaming - Ghost n Goblins](https://api.bannergress.com/bnrs/pictures/6ed455d39db691971a312f230e184901)
 
 ## Details
 - **Distance (km):** 3.57

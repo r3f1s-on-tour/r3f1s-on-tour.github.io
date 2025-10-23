@@ -3,7 +3,7 @@ nummer: "406"
 startLatitude: "52,520464"
 startLongitude: "13,386087"
 titel: "Museumsinsel"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/88655916b24278a55bf419bcf1de2187"
 region: "Berlin"
 country: "Deutschland"
 completed: "8.670"
@@ -20,7 +20,7 @@ title: "Museumsinsel"
 
 *2022* • Berlin • Deutschland
 
-
+![Museumsinsel](https://api.bannergress.com/bnrs/pictures/88655916b24278a55bf419bcf1de2187)
 
 ## Details
 - **Distance (km):** 5.35
