@@ -1,21 +1,25 @@
 ---
-nummer: 520
-startLatitude: 52,756491
-startLongitude: 13,245295
-titel: Evil Bears in Oranienburg
+nummer: "520"
+startLatitude: "52,756491"
+startLongitude: "13,245295"
+titel: "Evil Bears in Oranienburg"
 picture: ""
-region: Oranienburg
-country: Deutschland
-completed: 10.998
-missions: 6
-date: 2023
+region: "Oranienburg"
+country: "Deutschland"
+completed: "10.998"
+missions: "6"
+date: "2023"
 bg-link: ""
-onyx: 0
+onyx: "0"
 description: "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße"
-lengthKMeters: 1,29
+lengthKMeters: "1,29"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Evil Bears in Oranienburg"
+slug: "evil-bears-in-oranienburg"
+href: "banner/000520_evil-bears-in-oranienburg_2023.md"
+name: "Evil Bears in Oranienburg"
 ---
 # Evil Bears in Oranienburg
 

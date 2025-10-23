@@ -1,21 +1,25 @@
 ---
-nummer: 36
-startLatitude: 48.141321
-startLongitude: 11.558117
-titel: Olympiaturm München
+nummer: "36"
+startLatitude: "48.141321"
+startLongitude: "11.558117"
+titel: "Olympiaturm München"
 picture: ""
-region: München
-country: Deutschland
-completed: 750
-missions: 60
-date: 2016
+region: "München"
+country: "Deutschland"
+completed: "750"
+missions: "60"
+date: "2016"
 bg-link: "https://bannergress.com/banner/olympiaturm-m%C3%BCnchen-24a1"
-onyx: 0
+onyx: "0"
 description: "Diese Missionsreihe führt dich vom Hauptbahnhof quer durch München zum Olympiaturm in 60 kleinen Missionen."
-lengthKMeters: 21,90
+lengthKMeters: "21,90"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Olympiaturm München"
+slug: "olympiaturm-mnchen"
+href: "banner/000036_olympiaturm-mnchen_2016.md"
+name: "Olympiaturm München"
 ---
 # Olympiaturm München
 

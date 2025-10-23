@@ -1,21 +1,25 @@
 ---
-nummer: 76
-startLatitude: 48.254208
-startLongitude: 11.444106
-titel: Stadtwappen Dachau
+nummer: "76"
+startLatitude: "48.254208"
+startLongitude: "11.444106"
+titel: "Stadtwappen Dachau"
 picture: "https://api.bannergress.com/bnrs/pictures/b038833bc9235fa7d58e6918acb67bda"
-region: Dachau
-country: Deutschland
-completed: 2070
-missions: 24
-date: 2017
+region: "Dachau"
+country: "Deutschland"
+completed: "2070"
+missions: "24"
+date: "2017"
 bg-link: "https://bannergress.com/banner/stadtwappen-dachau-b0c1"
-onyx: 0
+onyx: "0"
 description: "Zeig allen, dass du Dachau wirklich besucht hast! (Start- Bahnhof)\nShow everyone that you've been to Dachau! (Start- Train Station)\n\nIn rememberance of liberation Dachau's concentration camp."
-lengthKMeters: 11,39
+lengthKMeters: "11,39"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Stadtwappen Dachau"
+slug: "stadtwappen-dachau"
+href: "banner/000076_stadtwappen-dachau_2017.md"
+name: "Stadtwappen Dachau"
 ---
 # Stadtwappen Dachau
 

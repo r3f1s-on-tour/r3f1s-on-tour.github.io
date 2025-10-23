@@ -1,21 +1,25 @@
 ---
-nummer: 269
-startLatitude: 52.512688
-startLongitude: 13.411233
-titel: Rainbow Bridge
+nummer: "269"
+startLatitude: "52.512688"
+startLongitude: "13.411233"
+titel: "Rainbow Bridge"
 picture: ""
-region: Berlin
-country: Deutschland
-completed: 6354
-missions: 12
-date: 2020
+region: "Berlin"
+country: "Deutschland"
+completed: "6354"
+missions: "12"
+date: "2020"
 bg-link: "https://bannergress.com/banner/rainbow-bridge-f3e7"
-onyx: 0
+onyx: "0"
 description: "Make your rounds in the park around the Märkisches Museum and receive a colourful picture for your Scanner."
-lengthKMeters: 2,53
+lengthKMeters: "2,53"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Rainbow Bridge"
+slug: "rainbow-bridge"
+href: "banner/000269_rainbow-bridge_2020.md"
+name: "Rainbow Bridge"
 ---
 # Rainbow Bridge
 

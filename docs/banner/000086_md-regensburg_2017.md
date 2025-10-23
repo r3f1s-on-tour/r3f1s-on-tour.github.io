@@ -1,21 +1,25 @@
 ---
-nummer: 86
-startLatitude: 49.020225
-startLongitude: 12.094676
-titel: MD Regensburg
+nummer: "86"
+startLatitude: "49.020225"
+startLongitude: "12.094676"
+titel: "MD Regensburg"
 picture: ""
-region: Regensburg
-country: Deutschland
-completed: 2232
-missions: 24
-date: 2017
+region: "Regensburg"
+country: "Deutschland"
+completed: "2232"
+missions: "24"
+date: "2017"
 bg-link: "https://bannergress.com/banner/md-regensburg-3d16"
-onyx: 0
+onyx: "0"
 description: ""
-lengthKMeters: 29,30
+lengthKMeters: "29,30"
 umap: ""
 missionDay: ""
 notice: ""
+title: "MD Regensburg"
+slug: "md-regensburg"
+href: "banner/000086_md-regensburg_2017.md"
+name: "MD Regensburg"
 ---
 # MD Regensburg
 

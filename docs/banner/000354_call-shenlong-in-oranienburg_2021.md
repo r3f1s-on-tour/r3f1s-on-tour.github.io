@@ -1,21 +1,25 @@
 ---
-nummer: 354
-startLatitude: 52.754504
-startLongitude: 13.248415
-titel: Call Shenlong in Oranienburg
+nummer: "354"
+startLatitude: "52.754504"
+startLongitude: "13.248415"
+titel: "Call Shenlong in Oranienburg"
 picture: ""
-region: Oranienburg
-country: Deutschland
-completed: 7920
-missions: 18
-date: 2021
+region: "Oranienburg"
+country: "Deutschland"
+completed: "7920"
+missions: "18"
+date: "2021"
 bg-link: ""
-onyx: 0
+onyx: "0"
 description: "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße"
-lengthKMeters: 6,05
+lengthKMeters: "6,05"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Call Shenlong in Oranienburg"
+slug: "call-shenlong-in-oranienburg"
+href: "banner/000354_call-shenlong-in-oranienburg_2021.md"
+name: "Call Shenlong in Oranienburg"
 ---
 # Call Shenlong in Oranienburg
 

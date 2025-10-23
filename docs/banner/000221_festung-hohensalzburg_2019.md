@@ -1,21 +1,25 @@
 ---
-nummer: 221
-startLatitude: 47.79624
-startLongitude: 13.046262
-titel: Festung Hohensalzburg
+nummer: "221"
+startLatitude: "47.79624"
+startLongitude: "13.046262"
+titel: "Festung Hohensalzburg"
 picture: "https://api.bannergress.com/bnrs/pictures/b437529817bcc6d5425441abf3144440"
-region: Salzburg
-country: Österreich
-completed: 5340
-missions: 18
-date: 2019
+region: "Salzburg"
+country: "Österreich"
+completed: "5340"
+missions: "18"
+date: "2019"
 bg-link: "https://bannergress.com/banner/festung-hohensalzburg-92bb"
-onyx: 0
+onyx: "0"
 description: "Über der Stadt Salzburg ragt ihr Wahrzeichen, die Festung Hohensalzburg, die zu den größten Burgen Europas zählt."
-lengthKMeters: 4,20
+lengthKMeters: "4,20"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Festung Hohensalzburg"
+slug: "festung-hohensalzburg"
+href: "banner/000221_festung-hohensalzburg_2019.md"
+name: "Festung Hohensalzburg"
 ---
 # Festung Hohensalzburg
 

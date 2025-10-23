@@ -1,21 +1,25 @@
 ---
-nummer: 289
-startLatitude: 48.134002
-startLongitude: 11.566954
-titel: ENL Municorns
+nummer: "289"
+startLatitude: "48.134002"
+startLongitude: "11.566954"
+titel: "ENL Municorns"
 picture: "https://api.bannergress.com/bnrs/pictures/65d106e170698f784a1c3315804b405b"
-region: München
-country: Deutschland
-completed: 6732
-missions: 24
-date: 2020
+region: "München"
+country: "Deutschland"
+completed: "6732"
+missions: "24"
+date: "2020"
 bg-link: "https://bannergress.com/banner/enl-municorns-e3a4"
-onyx: 0
+onyx: "0"
 description: "The most mystical anomaly ever would definitely be the Unicorn anomaly in Munich - pardon- the Municorn Anomaly."
-lengthKMeters: 5,87
+lengthKMeters: "5,87"
 umap: ""
 missionDay: ""
 notice: ""
+title: "ENL Municorns"
+slug: "enl-municorns"
+href: "banner/000289_enl-municorns_2020.md"
+name: "ENL Municorns"
 ---
 # ENL Municorns
 

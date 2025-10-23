@@ -1,21 +1,25 @@
 ---
-nummer: 460
-startLatitude: 52,521395
-startLongitude: 13,388252
-titel: Berlin Green Sunrise
+nummer: "460"
+startLatitude: "52,521395"
+startLongitude: "13,388252"
+titel: "Berlin Green Sunrise"
 picture: "https://api.bannergress.com/bnrs/pictures/0f8b9e7fbef4a49e2886011f753f6d05"
-region: Berlin
-country: Deutschland
-completed: 9.534
-missions: 24
-date: 2022
+region: "Berlin"
+country: "Deutschland"
+completed: "9.534"
+missions: "24"
+date: "2022"
 bg-link: "https://bannergress.com/banner/berlin-green-sunrise-dc88"
-onyx: 0
+onyx: "0"
 description: "See Berlin in the Green Sunrise"
-lengthKMeters: 6,52
+lengthKMeters: "6,52"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Berlin Green Sunrise"
+slug: "berlin-green-sunrise"
+href: "banner/000460_berlin-green-sunrise_2022.md"
+name: "Berlin Green Sunrise"
 ---
 # Berlin Green Sunrise
 

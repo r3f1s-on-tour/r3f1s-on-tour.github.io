@@ -1,21 +1,25 @@
 ---
-nummer: 26
-startLatitude: 51.338149
-startLongitude: 12.380866
-titel: Drachenfrau
+nummer: "26"
+startLatitude: "51.338149"
+startLongitude: "12.380866"
+titel: "Drachenfrau"
 picture: "https://api.bannergress.com/bnrs/pictures/1b0601554cccf46bbf897c8a7d97d3b7"
-region: Leipzig
-country: Deutschland
-completed: 468
-missions: 24
-date: 2016
+region: "Leipzig"
+country: "Deutschland"
+completed: "468"
+missions: "24"
+date: "2016"
 bg-link: "https://bannergress.com/banner/drachenfrau-5063"
-onyx: 0
+onyx: "0"
 description: "In der fast fertig sanierten Innenstadt kann man gut shoppen, altes und neues entdecken oder einfach durch die Gassen wandeln. Viel Spaß dabei."
-lengthKMeters: 7,44
+lengthKMeters: "7,44"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Drachenfrau"
+slug: "drachenfrau"
+href: "banner/000026_drachenfrau_2016.md"
+name: "Drachenfrau"
 ---
 # Drachenfrau
 

@@ -1,21 +1,25 @@
 ---
-nummer: 345
-startLatitude: 52.756491
-startLongitude: 13.245295
-titel: Mr Pumpkin Slasher in Oranienburg - Part 2
+nummer: "345"
+startLatitude: "52.756491"
+startLongitude: "13.245295"
+titel: "Mr Pumpkin Slasher in Oranienburg - Part 2"
 picture: ""
-region: Oranienburg
-country: Deutschland
-completed: 7794
-missions: 18
-date: 2021
+region: "Oranienburg"
+country: "Deutschland"
+completed: "7794"
+missions: "18"
+date: "2021"
 bg-link: ""
-onyx: 0
+onyx: "0"
 description: "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße"
-lengthKMeters: 6,05
+lengthKMeters: "6,05"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Mr Pumpkin Slasher in Oranienburg - Part 2"
+slug: "mr-pumpkin-slasher-in-oranienburg-part-2"
+href: "banner/000345_mr-pumpkin-slasher-in-oranienburg-part-2_2021.md"
+name: "Mr Pumpkin Slasher in Oranienburg - Part 2"
 ---
 # Mr Pumpkin Slasher in Oranienburg - Part 2
 

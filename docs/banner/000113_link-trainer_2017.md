@@ -1,21 +1,25 @@
 ---
-nummer: 113
-startLatitude: 48.284507
-startLongitude: 11.561197
-titel: Link Trainer
+nummer: "113"
+startLatitude: "48.284507"
+startLongitude: "11.561197"
+titel: "Link Trainer"
 picture: "https://api.bannergress.com/bnrs/pictures/53b38fef563ac97445c6b6bf6ca27a99"
-region: Unterschleißheim
-country: Deutschland
-completed: 2790
-missions: 18
-date: 2017
+region: "Unterschleißheim"
+country: "Deutschland"
+completed: "2790"
+missions: "18"
+date: "2017"
 bg-link: "https://bannergress.com/banner/link-trainer-d948"
-onyx: 0
+onyx: "0"
 description: "Diese Portalreihe führt euch durch Unterschleißheim. Start ist das Infinity Hotel im Gewerbegebiet."
-lengthKMeters: 18,78
+lengthKMeters: "18,78"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Link Trainer"
+slug: "link-trainer"
+href: "banner/000113_link-trainer_2017.md"
+name: "Link Trainer"
 ---
 # Link Trainer
 

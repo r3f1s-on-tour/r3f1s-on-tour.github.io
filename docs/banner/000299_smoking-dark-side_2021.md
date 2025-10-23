@@ -1,21 +1,25 @@
 ---
-nummer: 299
-startLatitude: 52.54174
-startLongitude: 13.412545
-titel: Smoking Dark Side
+nummer: "299"
+startLatitude: "52.54174"
+startLongitude: "13.412545"
+titel: "Smoking Dark Side"
 picture: "https://api.bannergress.com/bnrs/pictures/5c8a86424ccab3cec2fdadb28b4c2f95"
-region: Berlin
-country: Deutschland
-completed: 6978
-missions: 18
-date: 2021
+region: "Berlin"
+country: "Deutschland"
+completed: "6978"
+missions: "18"
+date: "2021"
 bg-link: "https://bannergress.com/banner/smoking-dark-side-28f4"
-onyx: 0
+onyx: "0"
 description: "Starte einen Spaziergang durch den Kollwitzkiez und dem Winsviertel\nStart ist U-Bahn Eberswalder Straße und endet bei der Tram Prenzlauer Allee / Ecke Knaackstraße"
-lengthKMeters: 7,26
+lengthKMeters: "7,26"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Smoking Dark Side"
+slug: "smoking-dark-side"
+href: "banner/000299_smoking-dark-side_2021.md"
+name: "Smoking Dark Side"
 ---
 # Smoking Dark Side
 

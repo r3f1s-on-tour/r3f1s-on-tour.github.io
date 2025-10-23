@@ -1,21 +1,25 @@
 ---
-nummer: 581
-startLatitude: 51,616926
-startLongitude: 7,203765
-titel: Tut-Tut Child
+nummer: "581"
+startLatitude: "51,616926"
+startLongitude: "7,203765"
+titel: "Tut-Tut Child"
 picture: "https://api.bannergress.com/bnrs/pictures/852e63da31fb6cbdd7e8b5307e4c49af"
-region: Recklinghausen
-country: Deutschland
-completed: 12.954
-missions: 90
-date: 2023
+region: "Recklinghausen"
+country: "Deutschland"
+completed: "12.954"
+missions: "90"
+date: "2023"
 bg-link: "https://bannergress.com/banner/tut-tut-child-4d7a"
-onyx: 0
+onyx: "0"
 description: "Erkunde das beschauliche Recklinghausen ganz genau, vielleicht findest du die Maske vom Kind."
-lengthKMeters: 23,182
+lengthKMeters: "23,182"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Tut-Tut Child"
+slug: "tut-tut-child"
+href: "banner/000581_tut-tut-child_2023.md"
+name: "Tut-Tut Child"
 ---
 # Tut-Tut Child
 

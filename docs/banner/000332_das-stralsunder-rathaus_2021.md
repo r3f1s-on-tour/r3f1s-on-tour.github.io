@@ -1,21 +1,25 @@
 ---
-nummer: 332
-startLatitude: 54.315786
-startLongitude: 13.090288
-titel: Das Stralsunder Rathaus
+nummer: "332"
+startLatitude: "54.315786"
+startLongitude: "13.090288"
+titel: "Das Stralsunder Rathaus"
 picture: ""
-region: Stralsund
-country: Deutschland
-completed: 7596
-missions: 18
-date: 2021
+region: "Stralsund"
+country: "Deutschland"
+completed: "7596"
+missions: "18"
+date: "2021"
 bg-link: "https://bannergress.com/banner/das-stralsunder-rathaus-bf96"
-onyx: 0
+onyx: "0"
 description: "Die Stadt gehörte nach dem Erlöschen des Fürstentums Rügen 1325 zu Pommern-Wolgast."
-lengthKMeters: 5,45
+lengthKMeters: "5,45"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Das Stralsunder Rathaus"
+slug: "das-stralsunder-rathaus"
+href: "banner/000332_das-stralsunder-rathaus_2021.md"
+name: "Das Stralsunder Rathaus"
 ---
 # Das Stralsunder Rathaus
 

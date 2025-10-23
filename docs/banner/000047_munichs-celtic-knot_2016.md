@@ -1,21 +1,25 @@
 ---
-nummer: 47
-startLatitude: 48.139141
-startLongitude: 11.565815
-titel: MUNICHS CELTIC KNOT
+nummer: "47"
+startLatitude: "48.139141"
+startLongitude: "11.565815"
+titel: "MUNICHS CELTIC KNOT"
 picture: "https://api.bannergress.com/bnrs/pictures/954131ec881716126388a45ec52ad185"
-region: München
-country: Deutschland
-completed: 1086
-missions: 36
-date: 2016
+region: "München"
+country: "Deutschland"
+completed: "1086"
+missions: "36"
+date: "2016"
 bg-link: "https://bannergress.com/banner/munich-s-celtic-knot-a147"
-onyx: 0
+onyx: "0"
 description: "36er Mosaik durch München, das Wissenswertes über die Kelten vermittelt. Die Kelten besiedelten einst ganz Europa und hinterließen ihre Spuren in Großbritannien, Frankreich, Deutschland & Anatolien"
-lengthKMeters: 10,38
+lengthKMeters: "10,38"
 umap: ""
 missionDay: ""
 notice: ""
+title: "MUNICHS CELTIC KNOT"
+slug: "munichs-celtic-knot"
+href: "banner/000047_munichs-celtic-knot_2016.md"
+name: "MUNICHS CELTIC KNOT"
 ---
 # MUNICHS CELTIC KNOT
 

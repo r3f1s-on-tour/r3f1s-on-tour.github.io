@@ -1,21 +1,25 @@
 ---
-nummer: 451
-startLatitude: 52,756491
-startLongitude: 13,245295
-titel: Furby Toast Wars in Oranienburg
+nummer: "451"
+startLatitude: "52,756491"
+startLongitude: "13,245295"
+titel: "Furby Toast Wars in Oranienburg"
 picture: ""
-region: Oranienburg
-country: Deutschland
-completed: 9.318
-missions: 12
-date: 2022
+region: "Oranienburg"
+country: "Deutschland"
+completed: "9.318"
+missions: "12"
+date: "2022"
 bg-link: ""
-onyx: 0
+onyx: "0"
 description: "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße"
-lengthKMeters: 4
+lengthKMeters: "4"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Furby Toast Wars in Oranienburg"
+slug: "furby-toast-wars-in-oranienburg"
+href: "banner/000451_furby-toast-wars-in-oranienburg_2022.md"
+name: "Furby Toast Wars in Oranienburg"
 ---
 # Furby Toast Wars in Oranienburg
 

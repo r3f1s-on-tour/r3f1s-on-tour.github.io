@@ -1,21 +1,25 @@
 ---
-nummer: 618
+nummer: "618"
 startLatitude: ""
 startLongitude: ""
-titel: Aquarelle Gdansk
+titel: "Aquarelle Gdansk"
 picture: "https://api.bannergress.com/bnrs/pictures/ec7c1f87079942aabcfc16d660f09708"
-region: Gdansk
-country: Polska
-completed: 13.500
-missions: 12
-date: 2025
+region: "Gdansk"
+country: "Polska"
+completed: "13.500"
+missions: "12"
+date: "2025"
 bg-link: "https://bannergress.com/banner/aquarelle-gdansk-a640"
-onyx: 1
+onyx: "1"
 description: ""
 lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
+title: "Aquarelle Gdansk"
+slug: "aquarelle-gdansk"
+href: "banner/000618_aquarelle-gdansk_2025.md"
+name: "Aquarelle Gdansk"
 ---
 # Aquarelle Gdansk
 

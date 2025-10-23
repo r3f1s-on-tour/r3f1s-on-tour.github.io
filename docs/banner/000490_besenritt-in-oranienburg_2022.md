@@ -1,21 +1,25 @@
 ---
-nummer: 490
-startLatitude: 52,756491
-startLongitude: 13,245295
-titel: Besenritt in Oranienburg
+nummer: "490"
+startLatitude: "52,756491"
+startLongitude: "13,245295"
+titel: "Besenritt in Oranienburg"
 picture: ""
-region: Oranienburg
-country: Deutschland
-completed: 10.530
-missions: 18
-date: 2022
+region: "Oranienburg"
+country: "Deutschland"
+completed: "10.530"
+missions: "18"
+date: "2022"
 bg-link: ""
-onyx: 0
+onyx: "0"
 description: "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße"
-lengthKMeters: 6
+lengthKMeters: "6"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Besenritt in Oranienburg"
+slug: "besenritt-in-oranienburg"
+href: "banner/000490_besenritt-in-oranienburg_2022.md"
+name: "Besenritt in Oranienburg"
 ---
 # Besenritt in Oranienburg
 

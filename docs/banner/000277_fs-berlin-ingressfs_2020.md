@@ -1,21 +1,25 @@
 ---
-nummer: 277
-startLatitude: 52.504802
-startLongitude: 13.467357
-titel: FS Berlin #IngressFS
+nummer: "277"
+startLatitude: "52.504802"
+startLongitude: "13.467357"
+titel: "FS Berlin #IngressFS"
 picture: ""
-region: Berlin
-country: Deutschland
-completed: 6462
-missions: 6
-date: 2020
+region: "Berlin"
+country: "Deutschland"
+completed: "6462"
+missions: "6"
+date: "2020"
 bg-link: "https://bannergress.com/banner/fs-berlin-ingressfs-e919"
-onyx: 0
+onyx: "0"
 description: "Kurze Missionsreihe zum Berliner First Saturday. Bekannte Berliner Motive zusammengefasst zu einem schönen Kiezspaziergang."
-lengthKMeters: 1,66
+lengthKMeters: "1,66"
 umap: ""
 missionDay: ""
 notice: ""
+title: "FS Berlin #IngressFS"
+slug: "fs-berlin-ingressfs"
+href: "banner/000277_fs-berlin-ingressfs_2020.md"
+name: "FS Berlin #IngressFS"
 ---
 # FS Berlin #IngressFS
 

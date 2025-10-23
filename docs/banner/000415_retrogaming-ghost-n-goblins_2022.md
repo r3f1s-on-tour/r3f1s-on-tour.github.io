@@ -1,21 +1,25 @@
 ---
-nummer: 415
-startLatitude: 53,503771
-startLongitude: 13,98897
-titel: RetroGaming - Ghost n Goblins
+nummer: "415"
+startLatitude: "53,503771"
+startLongitude: "13,98897"
+titel: "RetroGaming - Ghost n Goblins"
 picture: "https://api.bannergress.com/bnrs/pictures/6ed455d39db691971a312f230e184901"
-region: Pasewalk
-country: Deutschland
-completed: 8.724
-missions: 6
-date: 2022
+region: "Pasewalk"
+country: "Deutschland"
+completed: "8.724"
+missions: "6"
+date: "2022"
 bg-link: "https://bannergress.com/banner/retrogaming-ghost-n-goblins-cf24"
-onyx: 0
+onyx: "0"
 description: "Starte auf dem Markt eine Entdeckungsreise durch die Stadt Pasewalk und entdecke dabei die Sehenswürdigkeiten der Stadt"
-lengthKMeters: 3,57
+lengthKMeters: "3,57"
 umap: ""
 missionDay: ""
 notice: ""
+title: "RetroGaming - Ghost n Goblins"
+slug: "retrogaming-ghost-n-goblins"
+href: "banner/000415_retrogaming-ghost-n-goblins_2022.md"
+name: "RetroGaming - Ghost n Goblins"
 ---
 # RetroGaming - Ghost n Goblins
 

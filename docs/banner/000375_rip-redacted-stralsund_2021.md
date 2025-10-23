@@ -1,21 +1,25 @@
 ---
-nummer: 375
-startLatitude: 54.309652
-startLongitude: 13.084511
-titel: rip redacted - stralsund
+nummer: "375"
+startLatitude: "54.309652"
+startLongitude: "13.084511"
+titel: "rip redacted - stralsund"
 picture: "https://api.bannergress.com/bnrs/pictures/bd620aa75eda2f30110dc4e96c9b947a"
-region: Stralsund
-country: Deutschland
-completed: 8190
-missions: 18
-date: 2021
+region: "Stralsund"
+country: "Deutschland"
+completed: "8190"
+missions: "18"
+date: "2021"
 bg-link: "https://bannergress.com/banner/rip-redacted-stralsund-c40f"
-onyx: 0
+onyx: "0"
 description: "Begebe dich auf eine Entdeckungsreise durch die engen Gassen der Stralsunder Altstadt. Sie wurde 2002 in  die UNESCO-Welterbe­liste aufgenommen."
-lengthKMeters: 5,66
+lengthKMeters: "5,66"
 umap: ""
 missionDay: ""
 notice: ""
+title: "rip redacted - stralsund"
+slug: "rip-redacted-stralsund"
+href: "banner/000375_rip-redacted-stralsund_2021.md"
+name: "rip redacted - stralsund"
 ---
 # rip redacted - stralsund
 

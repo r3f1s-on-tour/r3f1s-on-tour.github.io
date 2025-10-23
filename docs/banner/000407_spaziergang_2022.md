@@ -1,21 +1,25 @@
 ---
-nummer: 407
-startLatitude: 52,530972
-startLongitude: 13,382606
-titel: SPAZIERGANG
+nummer: "407"
+startLatitude: "52,530972"
+startLongitude: "13,382606"
+titel: "SPAZIERGANG"
 picture: "https://api.bannergress.com/bnrs/pictures/1cfaf295539445878d66d9d0cdb8e390"
-region: Berlin
-country: Deutschland
-completed: 8.676
-missions: 6
-date: 2022
+region: "Berlin"
+country: "Deutschland"
+completed: "8.676"
+missions: "6"
+date: "2022"
 bg-link: "https://bannergress.com/banner/spaziergang-88bd"
-onyx: 0
+onyx: "0"
 description: "Eine kleine  Runde in Berlin Mitte"
-lengthKMeters: 6,23
+lengthKMeters: "6,23"
 umap: ""
 missionDay: ""
 notice: ""
+title: "SPAZIERGANG"
+slug: "spaziergang"
+href: "banner/000407_spaziergang_2022.md"
+name: "SPAZIERGANG"
 ---
 # SPAZIERGANG
 

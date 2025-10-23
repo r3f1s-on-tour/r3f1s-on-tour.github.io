@@ -1,21 +1,25 @@
 ---
-nummer: 273
-startLatitude: 52.533281
-startLongitude: 13.430011
-titel: Bötzows Caticorn
+nummer: "273"
+startLatitude: "52.533281"
+startLongitude: "13.430011"
+titel: "Bötzows Caticorn"
 picture: "https://api.bannergress.com/bnrs/pictures/9fa509e5426ba652665d5010c1df41e3"
-region: Berlin
-country: Deutschland
-completed: 6426
-missions: 42
-date: 2020
+region: "Berlin"
+country: "Deutschland"
+completed: "6426"
+missions: "42"
+date: "2020"
 bg-link: "https://bannergress.com/banner/b%C3%B6tzows-caticorn-e6b1"
-onyx: 0
+onyx: "0"
 description: "Nur noch bis 31.10.2021 spielbar."
-lengthKMeters: 7,65
+lengthKMeters: "7,65"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Bötzows Caticorn"
+slug: "btzows-caticorn"
+href: "banner/000273_btzows-caticorn_2020.md"
+name: "Bötzows Caticorn"
 ---
 # Bötzows Caticorn
 

@@ -1,21 +1,25 @@
 ---
-nummer: 426
-startLatitude: 53,626352
-startLongitude: 11,416058
-titel: Enlightened Schwerin Teil
+nummer: "426"
+startLatitude: "53,626352"
+startLongitude: "11,416058"
+titel: "Enlightened Schwerin Teil"
 picture: "https://api.bannergress.com/bnrs/pictures/8c756836df25c1b15a2ddf43a83b3510"
-region: Schwerin
-country: Deutschland
-completed: 8.874
-missions: 6
-date: 2022
+region: "Schwerin"
+country: "Deutschland"
+completed: "8.874"
+missions: "6"
+date: "2022"
 bg-link: "https://bannergress.com/banner/enlightened-schwerin-teil-f758"
-onyx: 0
+onyx: "0"
 description: "Der Alte Garten wartet ;)"
-lengthKMeters: 2,72
+lengthKMeters: "2,72"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Enlightened Schwerin Teil"
+slug: "enlightened-schwerin-teil"
+href: "banner/000426_enlightened-schwerin-teil_2022.md"
+name: "Enlightened Schwerin Teil"
 ---
 # Enlightened Schwerin Teil
 

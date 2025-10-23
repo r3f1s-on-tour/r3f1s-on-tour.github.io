@@ -1,21 +1,25 @@
 ---
-nummer: 16
-startLatitude: 53.546274
-startLongitude: 9.997115
-titel: Speicherstadt Mosaik
+nummer: "16"
+startLatitude: "53.546274"
+startLongitude: "9.997115"
+titel: "Speicherstadt Mosaik"
 picture: "https://api.bannergress.com/bnrs/pictures/c06ec1426ed7220a73534afaa62b7fe9"
-region: Hamburg
-country: Deutschland
-completed: 312
-missions: 18
-date: 2015
+region: "Hamburg"
+country: "Deutschland"
+completed: "312"
+missions: "18"
+date: "2015"
 bg-link: "https://bannergress.com/banner/speicherstadt-mosaik-a9bd"
-onyx: 0
+onyx: "0"
 description: "All missions are in sequence.\nLocation- Hamburg Germany"
-lengthKMeters: 5,64
+lengthKMeters: "5,64"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Speicherstadt Mosaik"
+slug: "speicherstadt-mosaik"
+href: "banner/000016_speicherstadt-mosaik_2015.md"
+name: "Speicherstadt Mosaik"
 ---
 # Speicherstadt Mosaik
 

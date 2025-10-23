@@ -1,21 +1,25 @@
 ---
-nummer: 403
-startLatitude: 52,537001
-startLongitude: 13,423264
-titel: International Womens Day 08 März 2022
+nummer: "403"
+startLatitude: "52,537001"
+startLongitude: "13,423264"
+titel: "International Womens Day 08 März 2022"
 picture: "https://api.bannergress.com/bnrs/pictures/334ae19bd55e72b9bf4ad987aacd8541"
-region: Berlin
-country: Deutschland
-completed: 8.616
-missions: 18
-date: 2022
+region: "Berlin"
+country: "Deutschland"
+completed: "8.616"
+missions: "18"
+date: "2022"
 bg-link: "https://bannergress.com/banner/international-womens-day-08-m%C3%A4rz-2022-cd3c"
-onyx: 0
+onyx: "0"
 description: "Erkunde und Entdecke Berlin am Frauentag"
-lengthKMeters: 5,02
+lengthKMeters: "5,02"
 umap: ""
 missionDay: ""
 notice: ""
+title: "International Womens Day 08 März 2022"
+slug: "international-womens-day-08-mrz-2022"
+href: "banner/000403_international-womens-day-08-mrz-2022_2022.md"
+name: "International Womens Day 08 März 2022"
 ---
 # International Womens Day 08 März 2022
 

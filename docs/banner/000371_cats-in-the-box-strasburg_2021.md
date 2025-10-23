@@ -1,21 +1,25 @@
 ---
-nummer: 371
-startLatitude: 53.505877
-startLongitude: 13.745118
-titel: Cats in the box - Strasburg
+nummer: "371"
+startLatitude: "53.505877"
+startLongitude: "13.745118"
+titel: "Cats in the box - Strasburg"
 picture: ""
-region: Strasburg (Uckermark)
-country: Deutschland
-completed: 8148
-missions: 6
-date: 2021
+region: "Strasburg (Uckermark)"
+country: "Deutschland"
+completed: "8148"
+missions: "6"
+date: "2021"
 bg-link: "https://bannergress.com/banner/cats-in-the-box-strasburg-baf2"
-onyx: 0
+onyx: "0"
 description: "Starte am Marktplatz und entdecke Strasburg Uckermark bei einer weihnachtlichen Spaziergang. \n\nBanner geht am 26.12.2021 offline"
-lengthKMeters: 3,18
+lengthKMeters: "3,18"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Cats in the box - Strasburg"
+slug: "cats-in-the-box-strasburg"
+href: "banner/000371_cats-in-the-box-strasburg_2021.md"
+name: "Cats in the box - Strasburg"
 ---
 # Cats in the box - Strasburg
 

@@ -1,21 +1,25 @@
 ---
-nummer: 326
-startLatitude: 52.754504
-startLongitude: 13.248415
-titel: Thriller in Oranienburg
+nummer: "326"
+startLatitude: "52.754504"
+startLongitude: "13.248415"
+titel: "Thriller in Oranienburg"
 picture: ""
-region: Oranienburg
-country: Deutschland
-completed: 7500
-missions: 18
-date: 2021
+region: "Oranienburg"
+country: "Deutschland"
+completed: "7500"
+missions: "18"
+date: "2021"
 bg-link: "https://bannergress.com/banner/thriller-in-oranienburg-97e9"
-onyx: 1
+onyx: "1"
 description: "Mache eine kleine Tour durch Oranienburg und starte am Bahnhof"
-lengthKMeters: 5,81
+lengthKMeters: "5,81"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Thriller in Oranienburg"
+slug: "thriller-in-oranienburg"
+href: "banner/000326_thriller-in-oranienburg_2021.md"
+name: "Thriller in Oranienburg"
 ---
 # Thriller in Oranienburg
 

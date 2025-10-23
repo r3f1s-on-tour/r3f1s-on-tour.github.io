@@ -1,21 +1,25 @@
 ---
-nummer: 566
-startLatitude: 52,089824
-startLongitude: 13,171479
-titel: Luckenwalde
+nummer: "566"
+startLatitude: "52,089824"
+startLongitude: "13,171479"
+titel: "Luckenwalde"
 picture: "https://api.bannergress.com/bnrs/pictures/a14e9881fe75e72c4525b1cd6bed63a8"
-region: Luckenwalde
-country: Deutschland
-completed: 12.528
-missions: 6
-date: 2023
+region: "Luckenwalde"
+country: "Deutschland"
+completed: "12.528"
+missions: "6"
+date: "2023"
 bg-link: "https://bannergress.com/banner/luckenwalde-bd50"
-onyx: 0
+onyx: "0"
 description: "Beginn am Markt über den Boulevard"
-lengthKMeters: 1,622
+lengthKMeters: "1,622"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Luckenwalde"
+slug: "luckenwalde"
+href: "banner/000566_luckenwalde_2023.md"
+name: "Luckenwalde"
 ---
 # Luckenwalde
 

@@ -1,21 +1,25 @@
 ---
-nummer: 410
-startLatitude: 53,50675
-startLongitude: 13,745004
-titel: Happy Toastern April 2022
+nummer: "410"
+startLatitude: "53,50675"
+startLongitude: "13,745004"
+titel: "Happy Toastern April 2022"
 picture: ""
-region: Strasburg (Uckermark)
-country: Deutschland
-completed: 8.694
-missions: 6
-date: 2022
+region: "Strasburg (Uckermark)"
+country: "Deutschland"
+completed: "8.694"
+missions: "6"
+date: "2022"
 bg-link: ""
-onyx: 0
+onyx: "0"
 description: "Starte am Markt eine Entdeckungsreise durch die Stadt Strasburg Uckermark und entdecke dabei historische Orte der Stadt"
-lengthKMeters: 2,76
+lengthKMeters: "2,76"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Happy Toastern April 2022"
+slug: "happy-toastern-april-2022"
+href: "banner/000410_happy-toastern-april-2022_2022.md"
+name: "Happy Toastern April 2022"
 ---
 # Happy Toastern April 2022
 

@@ -1,21 +1,25 @@
 ---
-nummer: 278
-startLatitude: 52.504521
-startLongitude: 13.468999
-titel: NL - Berlin Event
+nummer: "278"
+startLatitude: "52.504521"
+startLongitude: "13.468999"
+titel: "NL - Berlin Event"
 picture: ""
-region: Berlin
-country: Deutschland
-completed: 6468
-missions: 6
-date: 2020
+region: "Berlin"
+country: "Deutschland"
+completed: "6468"
+missions: "6"
+date: "2020"
 bg-link: "https://bannergress.com/banner/nl-berlin-event-e295"
-onyx: 0
+onyx: "0"
 description: "A short banner around the berlin NL location. Enjoy."
-lengthKMeters: 1,57
+lengthKMeters: "1,57"
 umap: ""
 missionDay: ""
 notice: ""
+title: "NL - Berlin Event"
+slug: "nl-berlin-event"
+href: "banner/000278_nl-berlin-event_2020.md"
+name: "NL - Berlin Event"
 ---
 # NL - Berlin Event
 

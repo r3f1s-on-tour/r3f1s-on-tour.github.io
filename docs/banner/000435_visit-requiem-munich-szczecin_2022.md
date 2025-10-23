@@ -1,21 +1,25 @@
 ---
-nummer: 435
-startLatitude: 53,431731
-startLongitude: 14,566931
-titel: Visit Requiem Munich - Szczecin
+nummer: "435"
+startLatitude: "53,431731"
+startLongitude: "14,566931"
+titel: "Visit Requiem Munich - Szczecin"
 picture: "https://api.bannergress.com/bnrs/pictures/2ea1dfa09712f37892b7617d14ea3b91"
-region: Szczecin
-country: Polska
-completed: 9.078
-missions: 6
-date: 2022
+region: "Szczecin"
+country: "Polska"
+completed: "9.078"
+missions: "6"
+date: "2022"
 bg-link: "https://bannergress.com/banner/visit-requiem-munich-szczecin-f424"
-onyx: 0
+onyx: "0"
 description: "On the 9th May of 2020 an epic battle between Enlightened and Resistance will take place in Munich! Join our forces and spread the message by completing this banner."
-lengthKMeters: 1,31
+lengthKMeters: "1,31"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Visit Requiem Munich - Szczecin"
+slug: "visit-requiem-munich-szczecin"
+href: "banner/000435_visit-requiem-munich-szczecin_2022.md"
+name: "Visit Requiem Munich - Szczecin"
 ---
 # Visit Requiem Munich - Szczecin
 

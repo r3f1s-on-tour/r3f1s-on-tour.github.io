@@ -1,21 +1,25 @@
 ---
-nummer: 471
-startLatitude: 52,50885
-startLongitude: 13,497454
-titel: Cat Eyes Green
+nummer: "471"
+startLatitude: "52,50885"
+startLongitude: "13,497454"
+titel: "Cat Eyes Green"
 picture: "https://api.bannergress.com/bnrs/pictures/182670de155c6ecee8cbd731866220ff"
-region: Berlin
-country: Deutschland
-completed: 10.320
-missions: 6
-date: 2022
+region: "Berlin"
+country: "Deutschland"
+completed: "10.320"
+missions: "6"
+date: "2022"
 bg-link: "https://bannergress.com/banner/cat-eyes-green-bd57"
-onyx: 0
+onyx: "0"
 description: "Dieses Banner ist die zweite Farbe von insgesamt 6. \nSie startet und Endet am S+U Lichtenberg. \nAls Passphrase wird jedweils die aktuelle Missionsnummer abgefragt\n\nThis banner is the second colour of a total of 6. \nIt starts and ends at S+U Lichtenberg. \nThe passphrases are only asking for the current mission number."
-lengthKMeters: 2,258
+lengthKMeters: "2,258"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Cat Eyes Green"
+slug: "cat-eyes-green"
+href: "banner/000471_cat-eyes-green_2022.md"
+name: "Cat Eyes Green"
 ---
 # Cat Eyes Green
 

@@ -1,21 +1,25 @@
 ---
-nummer: 288
-startLatitude: 48.137238
-startLongitude: 11.576208
-titel: Visit Requiem Munich - Munich
+nummer: "288"
+startLatitude: "48.137238"
+startLongitude: "11.576208"
+titel: "Visit Requiem Munich - Munich"
 picture: "https://api.bannergress.com/bnrs/pictures/f1caacbbecf2101b63efa6ff94010fc4"
-region: München
-country: Deutschland
-completed: 6708
-missions: 6
-date: 2020
+region: "München"
+country: "Deutschland"
+completed: "6708"
+missions: "6"
+date: "2020"
 bg-link: "https://bannergress.com/banner/visit-requiem-munich-munich-6065"
-onyx: 0
+onyx: "0"
 description: "On the 9th May of 2020 an epic battle between Enlightened and Resistance will take place right here! Join our forces and spread the message by completing this banner."
-lengthKMeters: 1,09
+lengthKMeters: "1,09"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Visit Requiem Munich - Munich"
+slug: "visit-requiem-munich-munich"
+href: "banner/000288_visit-requiem-munich-munich_2020.md"
+name: "Visit Requiem Munich - Munich"
 ---
 # Visit Requiem Munich - Munich
 

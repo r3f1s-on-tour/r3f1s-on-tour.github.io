@@ -1,21 +1,25 @@
 ---
-nummer: 252
-startLatitude: 51.052358
-startLongitude: 13.746748
-titel: For the Empire Dresden
+nummer: "252"
+startLatitude: "51.052358"
+startLongitude: "13.746748"
+titel: "For the Empire Dresden"
 picture: ""
-region: Dresden
-country: Deutschland
-completed: 6090
-missions: 6
-date: 2019
+region: "Dresden"
+country: "Deutschland"
+completed: "6090"
+missions: "6"
+date: "2019"
 bg-link: "https://bannergress.com/banner/for-the-empire-dresden-f22e"
-onyx: 0
+onyx: "0"
 description: "For the Empire Umbra Anomaly banner"
-lengthKMeters: 1,63
+lengthKMeters: "1,63"
 umap: ""
 missionDay: ""
 notice: ""
+title: "For the Empire Dresden"
+slug: "for-the-empire-dresden"
+href: "banner/000252_for-the-empire-dresden_2019.md"
+name: "For the Empire Dresden"
 ---
 # For the Empire Dresden
 

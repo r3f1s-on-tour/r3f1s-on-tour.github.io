@@ -1,21 +1,25 @@
 ---
-nummer: 603
-startLatitude: 39,466853
-startLongitude: -0,375619
-titel: CALAVERAS MEXICANAS
+nummer: "603"
+startLatitude: "39,466853"
+startLongitude: "-0,375619"
+titel: "CALAVERAS MEXICANAS"
 picture: "https://api.bannergress.com/bnrs/pictures/eccdc68e6b1708f73455329bc55f459c"
-region: València
-country: España
-completed: 13.272
-missions: 6
-date: 2024
+region: "València"
+country: "España"
+completed: "13.272"
+missions: "6"
+date: "2024"
 bg-link: "https://bannergress.com/banner/calaveras-mexicanas-35f1"
-onyx: 0
+onyx: "0"
 description: "La Plaza de Toros de Valencia fue inaugurada en 1851. Su estilo neoclásico fue inspirado de la arquitectura romana, del Coliseo . Declarada Monumento Histórico Artístico por la D.G. de bellas artes."
-lengthKMeters: 1,389
+lengthKMeters: "1,389"
 umap: ""
 missionDay: ""
 notice: ""
+title: "CALAVERAS MEXICANAS"
+slug: "calaveras-mexicanas"
+href: "banner/000603_calaveras-mexicanas_2024.md"
+name: "CALAVERAS MEXICANAS"
 ---
 # CALAVERAS MEXICANAS
 

@@ -1,21 +1,25 @@
 ---
-nummer: 250
-startLatitude: 51.054458
-startLongitude: 13.735795
-titel: Semperoper in Dresden
+nummer: "250"
+startLatitude: "51.054458"
+startLongitude: "13.735795"
+titel: "Semperoper in Dresden"
 picture: ""
-region: Dresden
-country: Deutschland
-completed: 6066
-missions: 18
-date: 2019
+region: "Dresden"
+country: "Deutschland"
+completed: "6066"
+missions: "18"
+date: "2019"
 bg-link: "https://bannergress.com/banner/semperoper-in-dresden-53d2"
-onyx: 0
+onyx: "0"
 description: "The Semperoper is the opera house of the Sächsische Staatsoper Dresden (Saxon State Opera) and the concert hall of the Staatskapelle Dresden (Saxon State Orchestra). Surprisingly it's not a brewery."
-lengthKMeters: 5,48
+lengthKMeters: "5,48"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Semperoper in Dresden"
+slug: "semperoper-in-dresden"
+href: "banner/000250_semperoper-in-dresden_2019.md"
+name: "Semperoper in Dresden"
 ---
 # Semperoper in Dresden
 

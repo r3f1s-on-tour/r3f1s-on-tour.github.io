@@ -1,21 +1,25 @@
 ---
-nummer: 235
-startLatitude: 53.387211
-startLongitude: 12.617863
-titel: Pandion haliaetus
+nummer: "235"
+startLatitude: "53.387211"
+startLongitude: "12.617863"
+titel: "Pandion haliaetus"
 picture: ""
-region: Röbel/Müritz
-country: Deutschland
-completed: 5568
-missions: 12
-date: 2019
+region: "Röbel/Müritz"
+country: "Deutschland"
+completed: "5568"
+missions: "12"
+date: "2019"
 bg-link: "https://bannergress.com/banner/pandion-haliaetus-98d7"
-onyx: 0
+onyx: "0"
 description: "Die Missionsreihe führt durch Röbel. Anfang und Ende befinden sich am Müritzufer. Die ersten Portale werden zum Schluss der Reihe nochmals besucht."
-lengthKMeters: 8,90
+lengthKMeters: "8,90"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Pandion haliaetus"
+slug: "pandion-haliaetus"
+href: "banner/000235_pandion-haliaetus_2019.md"
+name: "Pandion haliaetus"
 ---
 # Pandion haliaetus
 

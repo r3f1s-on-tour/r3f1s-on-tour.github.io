@@ -1,21 +1,25 @@
 ---
-nummer: 133
-startLatitude: 50.122789
-startLongitude: 8.70143
-titel: Der Doktor in Frankfurt
+nummer: "133"
+startLatitude: "50.122789"
+startLongitude: "8.70143"
+titel: "Der Doktor in Frankfurt"
 picture: "https://api.bannergress.com/bnrs/pictures/8546650e0b95d2bc754fda7c22f71304"
-region: Frankfurt am Main
-country: Deutschland
-completed: 3240
-missions: 24
-date: 2018
+region: "Frankfurt am Main"
+country: "Deutschland"
+completed: "3240"
+missions: "24"
+date: "2018"
 bg-link: "https://bannergress.com/banner/der-doktor-in-frankfurt-34ee"
-onyx: 0
+onyx: "0"
 description: "Es ist 2017 und Der Doktor ist dabei die Welt in Frankfurt zu retten. Hilf Ihm sein Gedächtnis wieder zu erlangen und den Weg zurück zur Tardis zu finden."
-lengthKMeters: 11,42
+lengthKMeters: "11,42"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Der Doktor in Frankfurt"
+slug: "der-doktor-in-frankfurt"
+href: "banner/000133_der-doktor-in-frankfurt_2018.md"
+name: "Der Doktor in Frankfurt"
 ---
 # Der Doktor in Frankfurt
 

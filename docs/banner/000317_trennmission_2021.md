@@ -1,21 +1,25 @@
 ---
-nummer: 317
-startLatitude: 52.376816
-startLongitude: 9.740148
-titel: Trennmission
+nummer: "317"
+startLatitude: "52.376816"
+startLongitude: "9.740148"
+titel: "Trennmission"
 picture: ""
-region: Hannover
-country: Deutschland
-completed: 7380
-missions: 6
-date: 2021
+region: "Hannover"
+country: "Deutschland"
+completed: "7380"
+missions: "6"
+date: "2021"
 bg-link: "https://bannergress.com/banner/trennmission-aba1"
-onyx: 0
+onyx: "0"
 description: "Hannover bietet so viel! Nutze die Trennmissionen für Deinen Scanner."
-lengthKMeters: 3,21
+lengthKMeters: "3,21"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Trennmission"
+slug: "trennmission"
+href: "banner/000317_trennmission_2021.md"
+name: "Trennmission"
 ---
 # Trennmission
 

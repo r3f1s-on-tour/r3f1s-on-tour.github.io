@@ -1,21 +1,25 @@
 ---
-nummer: 284
-startLatitude: 48.139281
-startLongitude: 11.566211
-titel: Roter Krieger
+nummer: "284"
+startLatitude: "48.139281"
+startLongitude: "11.566211"
+titel: "Roter Krieger"
 picture: "https://api.bannergress.com/bnrs/pictures/7c0d4c1bb53b12aa7849dbe5d1150d9a"
-region: München
-country: Deutschland
-completed: 6630
-missions: 54
-date: 2020
+region: "München"
+country: "Deutschland"
+completed: "6630"
+missions: "54"
+date: "2020"
 bg-link: "https://bannergress.com/banner/roter-krieger-7556"
-onyx: 0
+onyx: "0"
 description: "Erkunde die Stadt München ab dem Stachus über den Marienplatz, die Altstadt und wieder zurück."
-lengthKMeters: 9,01
+lengthKMeters: "9,01"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Roter Krieger"
+slug: "roter-krieger"
+href: "banner/000284_roter-krieger_2020.md"
+name: "Roter Krieger"
 ---
 # Roter Krieger
 

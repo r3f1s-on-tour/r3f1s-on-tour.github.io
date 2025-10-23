@@ -1,21 +1,25 @@
 ---
-nummer: 492
-startLatitude: 53,558018
-startLongitude: 13,266924
-titel: Deifel in Neubrandenburg
+nummer: "492"
+startLatitude: "53,558018"
+startLongitude: "13,266924"
+titel: "Deifel in Neubrandenburg"
 picture: ""
-region: Neubrandenburg
-country: Deutschland
-completed: 10.542
-missions: 6
-date: 2022
+region: "Neubrandenburg"
+country: "Deutschland"
+completed: "10.542"
+missions: "6"
+date: "2022"
 bg-link: ""
-onyx: 0
+onyx: "0"
 description: "Starte am Rathaus einen Rundgang und entdecke Neubrandenburg. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet auf dem Marktplatz"
-lengthKMeters: 2
+lengthKMeters: "2"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Deifel in Neubrandenburg"
+slug: "deifel-in-neubrandenburg"
+href: "banner/000492_deifel-in-neubrandenburg_2022.md"
+name: "Deifel in Neubrandenburg"
 ---
 # Deifel in Neubrandenburg
 

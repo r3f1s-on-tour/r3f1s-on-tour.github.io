@@ -1,21 +1,25 @@
 ---
-nummer: 418
-startLatitude: 53,503771
-startLongitude: 13,98897
-titel: RetroGaming - Dragon Ball
+nummer: "418"
+startLatitude: "53,503771"
+startLongitude: "13,98897"
+titel: "RetroGaming - Dragon Ball"
 picture: "https://api.bannergress.com/bnrs/pictures/7b1b3826271897a13f59a3f728e79571"
-region: Pasewalk
-country: Deutschland
-completed: 8.742
-missions: 6
-date: 2022
+region: "Pasewalk"
+country: "Deutschland"
+completed: "8.742"
+missions: "6"
+date: "2022"
 bg-link: "https://bannergress.com/banner/retrogaming-dragon-ball-4bcb"
-onyx: 0
+onyx: "0"
 description: "Starte auf dem Markt eine Entdeckungsreise durch die Stadt Pasewalk und entdecke dabei die Sehenswürdigkeiten der Stadt"
-lengthKMeters: 3,57
+lengthKMeters: "3,57"
 umap: ""
 missionDay: ""
 notice: ""
+title: "RetroGaming - Dragon Ball"
+slug: "retrogaming-dragon-ball"
+href: "banner/000418_retrogaming-dragon-ball_2022.md"
+name: "RetroGaming - Dragon Ball"
 ---
 # RetroGaming - Dragon Ball
 

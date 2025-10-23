@@ -1,21 +1,25 @@
 ---
-nummer: 549
-startLatitude: 52,68692
-startLongitude: 13,275572
-titel: Kirche in Birkenwerder
+nummer: "549"
+startLatitude: "52,68692"
+startLongitude: "13,275572"
+titel: "Kirche in Birkenwerder"
 picture: "https://api.bannergress.com/bnrs/pictures/816c29e707a3870739747459dff43ee6"
-region: Birkenwerder
-country: Deutschland
-completed: 12.174
-missions: 42
-date: 2023
+region: "Birkenwerder"
+country: "Deutschland"
+completed: "12.174"
+missions: "42"
+date: "2023"
 bg-link: "https://bannergress.com/banner/kirche-in-birkenwerder-c60b"
-onyx: 0
+onyx: "0"
 description: "Beginne eine Runde durch Birkenwerder und entdecke auf deiner Runde die Wassertretanlage in der Briese. Starte am Briesesteig deine Runde"
-lengthKMeters: 7,026
+lengthKMeters: "7,026"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Kirche in Birkenwerder"
+slug: "kirche-in-birkenwerder"
+href: "banner/000549_kirche-in-birkenwerder_2023.md"
+name: "Kirche in Birkenwerder"
 ---
 # Kirche in Birkenwerder
 

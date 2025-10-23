@@ -1,21 +1,25 @@
 ---
-nummer: 432
-startLatitude: 53,42492
-startLongitude: 14,550643
-titel: Szczecińska akwarela
+nummer: "432"
+startLatitude: "53,42492"
+startLongitude: "14,550643"
+titel: "Szczecińska akwarela"
 picture: "https://api.bannergress.com/bnrs/pictures/4eebef126b4231b26f9236dd22138217"
-region: Szczecin
-country: Polska
-completed: 9.018
-missions: 18
-date: 2022
+region: "Szczecin"
+country: "Polska"
+completed: "9.018"
+missions: "18"
+date: "2022"
 bg-link: "https://bannergress.com/banner/szczeci%C5%84ska-akwarela-19aa"
-onyx: 0
+onyx: "0"
 description: "Akwarela z charakterystycznymi miejscami Szczecina. Za bardzo się nie zmęczysz przy robieniu tej mozaiki -) \nStart - Brama Portowa!"
-lengthKMeters: 8,59
+lengthKMeters: "8,59"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Szczecińska akwarela"
+slug: "szczeciska-akwarela"
+href: "banner/000432_szczeciska-akwarela_2022.md"
+name: "Szczecińska akwarela"
 ---
 # Szczecińska akwarela
 

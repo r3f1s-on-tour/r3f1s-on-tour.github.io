@@ -1,21 +1,25 @@
 ---
-nummer: 116
-startLatitude: 53.557388
-startLongitude: 13.260179
-titel: Vier-Tore-Stadt
+nummer: "116"
+startLatitude: "53.557388"
+startLongitude: "13.260179"
+titel: "Vier-Tore-Stadt"
 picture: "https://api.bannergress.com/bnrs/pictures/f30d99b5e1db11fb34669f0f9562bfb6"
-region: Neubrandenburg
-country: Deutschland
-completed: 2844
-missions: 18
-date: 2017
+region: "Neubrandenburg"
+country: "Deutschland"
+completed: "2844"
+missions: "18"
+date: "2017"
 bg-link: "https://bannergress.com/banner/vier-tore-stadt-5193"
-onyx: 0
+onyx: "0"
 description: ""
 lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
+title: "Vier-Tore-Stadt"
+slug: "vier-tore-stadt"
+href: "banner/000116_vier-tore-stadt_2017.md"
+name: "Vier-Tore-Stadt"
 ---
 # Vier-Tore-Stadt
 

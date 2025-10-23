@@ -1,21 +1,25 @@
 ---
-nummer: 381
-startLatitude: 52.756491
-startLongitude: 13.245295
-titel: Neujahrs Runde durch Oranienburg
+nummer: "381"
+startLatitude: "52.756491"
+startLongitude: "13.245295"
+titel: "Neujahrs Runde durch Oranienburg"
 picture: ""
-region: Oranienburg
-country: Deutschland
-completed: 8274
-missions: 12
-date: 2022
+region: "Oranienburg"
+country: "Deutschland"
+completed: "8274"
+missions: "12"
+date: "2022"
 bg-link: ""
-onyx: 0
+onyx: "0"
 description: "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße"
-lengthKMeters: 3,64
+lengthKMeters: "3,64"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Neujahrs Runde durch Oranienburg"
+slug: "neujahrs-runde-durch-oranienburg"
+href: "banner/000381_neujahrs-runde-durch-oranienburg_2022.md"
+name: "Neujahrs Runde durch Oranienburg"
 ---
 # Neujahrs Runde durch Oranienburg
 

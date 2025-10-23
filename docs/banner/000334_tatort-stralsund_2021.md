@@ -1,21 +1,25 @@
 ---
-nummer: 334
-startLatitude: 54.322059
-startLongitude: 13.082235
-titel: Tatort Stralsund
+nummer: "334"
+startLatitude: "54.322059"
+startLongitude: "13.082235"
+titel: "Tatort Stralsund"
 picture: ""
-region: Stralsund
-country: Deutschland
-completed: 7644
-missions: 18
-date: 2021
+region: "Stralsund"
+country: "Deutschland"
+completed: "7644"
+missions: "18"
+date: "2021"
 bg-link: "https://bannergress.com/banner/tatort-stralsund-b5f9"
-onyx: 0
+onyx: "0"
 description: "Wir starten am Tatort Brunnenaue."
-lengthKMeters: 6,10
+lengthKMeters: "6,10"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Tatort Stralsund"
+slug: "tatort-stralsund"
+href: "banner/000334_tatort-stralsund_2021.md"
+name: "Tatort Stralsund"
 ---
 # Tatort Stralsund
 

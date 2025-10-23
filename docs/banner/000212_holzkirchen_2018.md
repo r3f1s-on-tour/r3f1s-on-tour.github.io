@@ -1,21 +1,25 @@
 ---
-nummer: 212
-startLatitude: 47.875529
-startLongitude: 11.708485
-titel: Holzkirchen
+nummer: "212"
+startLatitude: "47.875529"
+startLongitude: "11.708485"
+titel: "Holzkirchen"
 picture: ""
-region: Marschall
-country: Deutschland
-completed: 5172
-missions: 36
-date: 2018
+region: "Marschall"
+country: "Deutschland"
+completed: "5172"
+missions: "36"
+date: "2018"
 bg-link: "https://bannergress.com/banner/holzkirchen-773c"
-onyx: 0
+onyx: "0"
 description: "Erfülle alle Missionen in der richtigen Reihenfolge um das Holzkirchner Wappen zu erhalten."
-lengthKMeters: 10,84
+lengthKMeters: "10,84"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Holzkirchen"
+slug: "holzkirchen"
+href: "banner/000212_holzkirchen_2018.md"
+name: "Holzkirchen"
 ---
 # Holzkirchen
 

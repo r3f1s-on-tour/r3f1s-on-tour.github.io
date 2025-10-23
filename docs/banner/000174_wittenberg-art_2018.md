@@ -1,21 +1,25 @@
 ---
-nummer: 174
-startLatitude: 51.866831
-startLongitude: 12.633432
-titel: Wittenberg Art
+nummer: "174"
+startLatitude: "51.866831"
+startLongitude: "12.633432"
+titel: "Wittenberg Art"
 picture: ""
-region: Wittenberg
-country: Deutschland
-completed: 4182
-missions: 18
-date: 2018
+region: "Wittenberg"
+country: "Deutschland"
+completed: "4182"
+missions: "18"
+date: "2018"
 bg-link: "https://bannergress.com/banner/wittenberg-art-1499"
-onyx: 0
+onyx: "0"
 description: "eine lustige Runde"
-lengthKMeters: 6,04
+lengthKMeters: "6,04"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Wittenberg Art"
+slug: "wittenberg-art"
+href: "banner/000174_wittenberg-art_2018.md"
+name: "Wittenberg Art"
 ---
 # Wittenberg Art
 

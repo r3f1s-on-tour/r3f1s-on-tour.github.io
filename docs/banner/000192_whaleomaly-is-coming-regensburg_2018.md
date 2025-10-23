@@ -1,21 +1,25 @@
 ---
-nummer: 192
-startLatitude: 49.013222
-startLongitude: 12.100138
-titel: Whaleomaly is Coming Regensburg
+nummer: "192"
+startLatitude: "49.013222"
+startLongitude: "12.100138"
+titel: "Whaleomaly is Coming Regensburg"
 picture: ""
-region: Regensburg
-country: Deutschland
-completed: 4572
-missions: 6
-date: 2018
+region: "Regensburg"
+country: "Deutschland"
+completed: "4572"
+missions: "6"
+date: "2018"
 bg-link: "https://bannergress.com/banner/whaleomaly-is-coming-regensburg-7a9c"
-onyx: 0
+onyx: "0"
 description: "Entdecke Regensburgs Wale! Bring sie mit, damit wir diese bei der Whaleomaly in Linz verbünden !\nExplore Regensburgs Whales! Take them with you to unite at the Whaleomaly Linz!"
-lengthKMeters: 1,62
+lengthKMeters: "1,62"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Whaleomaly is Coming Regensburg"
+slug: "whaleomaly-is-coming-regensburg"
+href: "banner/000192_whaleomaly-is-coming-regensburg_2018.md"
+name: "Whaleomaly is Coming Regensburg"
 ---
 # Whaleomaly is Coming Regensburg
 

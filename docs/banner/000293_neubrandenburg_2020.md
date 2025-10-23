@@ -1,21 +1,25 @@
 ---
-nummer: 293
-startLatitude: 53.559027
-startLongitude: 13.265403
-titel: Neubrandenburg
+nummer: "293"
+startLatitude: "53.559027"
+startLongitude: "13.265403"
+titel: "Neubrandenburg"
 picture: "https://api.bannergress.com/bnrs/pictures/d85936994fac2c3511a39ba11e6bdcde"
-region: Neubrandenburg
-country: Deutschland
-completed: 6822
-missions: 24
-date: 2020
+region: "Neubrandenburg"
+country: "Deutschland"
+completed: "6822"
+missions: "24"
+date: "2020"
 bg-link: "https://bannergress.com/banner/neubrandenburg-284f"
-onyx: 0
+onyx: "0"
 description: "1170\nFürst Kasimir von Pommern schenkt dem Havelberger Domstift einen Landstrich am Tollensesee. Der Ort, an dem einmal das wunderschöne Neubrandenburg entstehen wird."
-lengthKMeters: 7,10
+lengthKMeters: "7,10"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Neubrandenburg"
+slug: "neubrandenburg"
+href: "banner/000293_neubrandenburg_2020.md"
+name: "Neubrandenburg"
 ---
 # Neubrandenburg
 

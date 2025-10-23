@@ -1,21 +1,25 @@
 ---
-nummer: 367
-startLatitude: 53.557736
-startLongitude: 13.26025
-titel: Weihnachten in Neubrandenburg - Second Sunday
+nummer: "367"
+startLatitude: "53.557736"
+startLongitude: "13.26025"
+titel: "Weihnachten in Neubrandenburg - Second Sunday"
 picture: "https://api.bannergress.com/bnrs/pictures/a5dfdd73f2bd6ca728181bfedeb901e0"
-region: Neubrandenburg
-country: Deutschland
-completed: 8070
-missions: 6
-date: 2021
+region: "Neubrandenburg"
+country: "Deutschland"
+completed: "8070"
+missions: "6"
+date: "2021"
 bg-link: "https://bannergress.com/banner/weihnachten-in-neubrandenburg-second-sunday-fc21"
-onyx: 0
+onyx: "0"
 description: "Erkunde Neubrandenburg in der Weihnachtszeit. Die Mission beginnt und endet auf dem Marktplatz."
-lengthKMeters: 2,03
+lengthKMeters: "2,03"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Weihnachten in Neubrandenburg - Second Sunday"
+slug: "weihnachten-in-neubrandenburg-second-sunday"
+href: "banner/000367_weihnachten-in-neubrandenburg-second-sunday_2021.md"
+name: "Weihnachten in Neubrandenburg - Second Sunday"
 ---
 # Weihnachten in Neubrandenburg - Second Sunday
 

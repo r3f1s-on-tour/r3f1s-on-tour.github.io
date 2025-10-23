@@ -1,21 +1,25 @@
 ---
-nummer: 44
-startLatitude: 48.136661
-startLongitude: 11.576878
-titel: Munich city walls
+nummer: "44"
+startLatitude: "48.136661"
+startLongitude: "11.576878"
+titel: "Munich city walls"
 picture: "https://api.bannergress.com/bnrs/pictures/32a35f14acc45a1c3470909a31431e93"
-region: München
-country: Deutschland
-completed: 978
-missions: 24
-date: 2016
+region: "München"
+country: "Deutschland"
+completed: "978"
+missions: "24"
+date: "2016"
 bg-link: "https://bannergress.com/banner/munich-city-walls-0113"
-onyx: 0
+onyx: "0"
 description: "In former times Munich had two city walls. Later the town was transformed into a fortress. This mission series explores the remnants and traces of that time. Please read the portal texts."
-lengthKMeters: 13,80
+lengthKMeters: "13,80"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Munich city walls"
+slug: "munich-city-walls"
+href: "banner/000044_munich-city-walls_2016.md"
+name: "Munich city walls"
 ---
 # Munich city walls
 

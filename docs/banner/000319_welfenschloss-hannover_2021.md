@@ -1,21 +1,25 @@
 ---
-nummer: 319
-startLatitude: 52.381809
-startLongitude: 9.717681
-titel: Welfenschloss Hannover
+nummer: "319"
+startLatitude: "52.381809"
+startLongitude: "9.717681"
+titel: "Welfenschloss Hannover"
 picture: ""
-region: Hannover
-country: Deutschland
-completed: 7410
-missions: 24
-date: 2021
+region: "Hannover"
+country: "Deutschland"
+completed: "7410"
+missions: "24"
+date: "2021"
 bg-link: "https://bannergress.com/banner/welfenschloss-hannover-2957"
-onyx: 0
+onyx: "0"
 description: "Das Welfenschloss ist ein ehemaliges Schloss in Hannover im Stadtteil Nordstadt, das seit 1879 Sitz der Universität Hannover ist."
-lengthKMeters: 6,77
+lengthKMeters: "6,77"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Welfenschloss Hannover"
+slug: "welfenschloss-hannover"
+href: "banner/000319_welfenschloss-hannover_2021.md"
+name: "Welfenschloss Hannover"
 ---
 # Welfenschloss Hannover
 

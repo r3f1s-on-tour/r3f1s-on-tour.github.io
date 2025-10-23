@@ -1,21 +1,25 @@
 ---
-nummer: 315
-startLatitude: 53.138129
-startLongitude: 8.215659
-titel: Schlossplatz Panorama
+nummer: "315"
+startLatitude: "53.138129"
+startLongitude: "8.215659"
+titel: "Schlossplatz Panorama"
 picture: ""
-region: Oldenburg
-country: Deutschland
-completed: 7338
-missions: 6
-date: 2021
+region: "Oldenburg"
+country: "Deutschland"
+completed: "7338"
+missions: "6"
+date: "2021"
 bg-link: "https://bannergress.com/banner/schlossplatz-panorama-57c4"
-onyx: 0
+onyx: "0"
 description: "360° Panorama vom Oldenburger Schlossplatz. \nDurch den 360° Blick könnt ihr bei jeder der 6 Missionen Starten.\nYou can start at any Mission, after Mission 6 you can put Mission 1 and it will still fit"
-lengthKMeters: 1,71
+lengthKMeters: "1,71"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Schlossplatz Panorama"
+slug: "schlossplatz-panorama"
+href: "banner/000315_schlossplatz-panorama_2021.md"
+name: "Schlossplatz Panorama"
 ---
 # Schlossplatz Panorama
 

@@ -1,21 +1,25 @@
 ---
-nummer: 171
-startLatitude: 52.532442
-startLongitude: 13.475188
-titel: The Eye of the Eagle
+nummer: "171"
+startLatitude: "52.532442"
+startLongitude: "13.475188"
+titel: "The Eye of the Eagle"
 picture: "https://api.bannergress.com/bnrs/pictures/1a75cd095dfdce1f94228ffe2e5b2130"
-region: Berlin
-country: Deutschland
-completed: 4140
-missions: 18
-date: 2018
+region: "Berlin"
+country: "Deutschland"
+completed: "4140"
+missions: "18"
+date: "2018"
 bg-link: "https://bannergress.com/banner/the-eye-of-the-eagle-066e"
-onyx: 0
+onyx: "0"
 description: "This is a 18 missions walk through the Fennpfuhl park. At the end you will have an eagle in your profile, the heraldic animal of Poland, Austria, Germany and many other countries."
-lengthKMeters: 5,81
+lengthKMeters: "5,81"
 umap: ""
 missionDay: ""
 notice: ""
+title: "The Eye of the Eagle"
+slug: "the-eye-of-the-eagle"
+href: "banner/000171_the-eye-of-the-eagle_2018.md"
+name: "The Eye of the Eagle"
 ---
 # The Eye of the Eagle
 

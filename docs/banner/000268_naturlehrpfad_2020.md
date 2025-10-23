@@ -1,21 +1,25 @@
 ---
-nummer: 268
-startLatitude: 52.68642
-startLongitude: 13.202188
-titel: Naturlehrpfad
+nummer: "268"
+startLatitude: "52.68642"
+startLongitude: "13.202188"
+titel: "Naturlehrpfad"
 picture: ""
-region: Velten
-country: Deutschland
-completed: 6342
-missions: 12
-date: 2020
+region: "Velten"
+country: "Deutschland"
+completed: "6342"
+missions: "12"
+date: "2020"
 bg-link: "https://bannergress.com/banner/naturlehrpfad-4161"
-onyx: 0
+onyx: "0"
 description: "Diese Missionsreihe führt euch über den Naturlehrpfad durch beschauliche Wälder und Wiesen zu Interessanten Versteckten Orten.\nLernt etwas daraus und habt spaß beim Wandern."
-lengthKMeters: 5,28
+lengthKMeters: "5,28"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Naturlehrpfad"
+slug: "naturlehrpfad"
+href: "banner/000268_naturlehrpfad_2020.md"
+name: "Naturlehrpfad"
 ---
 # Naturlehrpfad
 

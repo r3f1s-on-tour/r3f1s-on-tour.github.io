@@ -1,21 +1,25 @@
 ---
-nummer: 180
-startLatitude: 48.049682
-startLongitude: 10.876695
-titel: Catgress Landsberg
+nummer: "180"
+startLatitude: "48.049682"
+startLongitude: "10.876695"
+titel: "Catgress Landsberg"
 picture: "https://api.bannergress.com/bnrs/pictures/3d9bb90b0fe08fc5ce4239ee33a76362"
-region: Landsberg am Lech
-country: Deutschland
-completed: 4332
-missions: 24
-date: 2018
+region: "Landsberg am Lech"
+country: "Deutschland"
+completed: "4332"
+missions: "24"
+date: "2018"
 bg-link: "https://bannergress.com/banner/catgress-landsberg-7ccd"
-onyx: 0
+onyx: "0"
 description: "Es kann gar nicht zu viele Katzenfotos geben!\nSchleicht auf Katzenpfoten durch die Landsberger Altstadt. \nDas Catgress Mosaik besteht aus 24 Einzelmissionen (Hack/Passphrase)"
-lengthKMeters: 8,12
+lengthKMeters: "8,12"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Catgress Landsberg"
+slug: "catgress-landsberg"
+href: "banner/000180_catgress-landsberg_2018.md"
+name: "Catgress Landsberg"
 ---
 # Catgress Landsberg
 

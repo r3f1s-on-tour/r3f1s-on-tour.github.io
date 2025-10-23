@@ -1,21 +1,25 @@
 ---
-nummer: 125
-startLatitude: 48.368734
-startLongitude: 10.89838
-titel: Goldener Saal Augsburg
+nummer: "125"
+startLatitude: "48.368734"
+startLongitude: "10.89838"
+titel: "Goldener Saal Augsburg"
 picture: ""
-region: Augsburg
-country: Deutschland
-completed: 3078
-missions: 24
-date: 2018
+region: "Augsburg"
+country: "Deutschland"
+completed: "3078"
+missions: "24"
+date: "2018"
 bg-link: ""
-onyx: 0
+onyx: "0"
 description: ""
 lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
+title: "Goldener Saal Augsburg"
+slug: "goldener-saal-augsburg"
+href: "banner/000125_goldener-saal-augsburg_2018.md"
+name: "Goldener Saal Augsburg"
 ---
 # Goldener Saal Augsburg
 

@@ -1,21 +1,25 @@
 ---
-nummer: 149
-startLatitude: 47.813104
-startLongitude: 13.044842
-titel: Salzburg Domination Tour
+nummer: "149"
+startLatitude: "47.813104"
+startLongitude: "13.044842"
+titel: "Salzburg Domination Tour"
 picture: "https://api.bannergress.com/bnrs/pictures/d90096600f5757922eb05f93018cbd0e"
-region: Salzburg
-country: Österreich
-completed: 3642
-missions: 60
-date: 2018
+region: "Salzburg"
+country: "Österreich"
+completed: "3642"
+missions: "60"
+date: "2018"
 bg-link: "https://bannergress.com/banner/salzburg-domination-tour-9711"
-onyx: 0
+onyx: "0"
 description: ""
 lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
+title: "Salzburg Domination Tour"
+slug: "salzburg-domination-tour"
+href: "banner/000149_salzburg-domination-tour_2018.md"
+name: "Salzburg Domination Tour"
 ---
 # Salzburg Domination Tour
 

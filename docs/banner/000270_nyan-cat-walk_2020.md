@@ -1,21 +1,25 @@
 ---
-nummer: 270
-startLatitude: 52.493721
-startLongitude: 13.462305
-titel: Nyan Cat Walk
+nummer: "270"
+startLatitude: "52.493721"
+startLongitude: "13.462305"
+titel: "Nyan Cat Walk"
 picture: ""
-region: Berlin
-country: Deutschland
-completed: 6360
-missions: 6
-date: 2020
+region: "Berlin"
+country: "Deutschland"
+completed: "6360"
+missions: "6"
+date: "2020"
 bg-link: "https://bannergress.com/banner/nyan-cat-walk-ad70"
-onyx: 0
+onyx: "0"
 description: "Follow the nyan cat through the Treptower park and gain it as companion on your future walks with the scanner."
-lengthKMeters: 3,69
+lengthKMeters: "3,69"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Nyan Cat Walk"
+slug: "nyan-cat-walk"
+href: "banner/000270_nyan-cat-walk_2020.md"
+name: "Nyan Cat Walk"
 ---
 # Nyan Cat Walk
 

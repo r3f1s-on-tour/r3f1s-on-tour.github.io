@@ -1,21 +1,25 @@
 ---
-nummer: 337
-startLatitude: 53.506348
-startLongitude: 13.745009
-titel: Evolution of Frog - Strasburg
+nummer: "337"
+startLatitude: "53.506348"
+startLongitude: "13.745009"
+titel: "Evolution of Frog - Strasburg"
 picture: ""
-region: Strasburg (Uckermark)
-country: Deutschland
-completed: 7662
-missions: 6
-date: 2021
+region: "Strasburg (Uckermark)"
+country: "Deutschland"
+completed: "7662"
+missions: "6"
+date: "2021"
 bg-link: "https://bannergress.com/banner/evolution-of-frog-strasburg-f93f"
-onyx: 0
+onyx: "0"
 description: "Starte am Marktplatz und entdecke Strasburg Uckermark\n\nGeht am 08.11.2021 offline"
-lengthKMeters: 3,17
+lengthKMeters: "3,17"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Evolution of Frog - Strasburg"
+slug: "evolution-of-frog-strasburg"
+href: "banner/000337_evolution-of-frog-strasburg_2021.md"
+name: "Evolution of Frog - Strasburg"
 ---
 # Evolution of Frog - Strasburg
 

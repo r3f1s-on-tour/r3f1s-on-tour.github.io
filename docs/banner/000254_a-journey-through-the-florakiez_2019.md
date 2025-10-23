@@ -1,21 +1,25 @@
 ---
-nummer: 254
-startLatitude: 52.563652
-startLongitude: 13.391916
-titel: A journey through the florakiez
+nummer: "254"
+startLatitude: "52.563652"
+startLongitude: "13.391916"
+titel: "A journey through the florakiez"
 picture: ""
-region: Berlin
-country: Deutschland
-completed: 6126
-missions: 18
-date: 2019
+region: "Berlin"
+country: "Deutschland"
+completed: "6126"
+missions: "18"
+date: "2019"
 bg-link: "https://bannergress.com/banner/a-journey-through-the-florakiez-ac90"
-onyx: 0
+onyx: "0"
 description: "Discover the green lung of Pankow and get a nice mosaic as a reminder. All missions are hack only."
-lengthKMeters: 8,84
+lengthKMeters: "8,84"
 umap: ""
 missionDay: ""
 notice: ""
+title: "A journey through the florakiez"
+slug: "a-journey-through-the-florakiez"
+href: "banner/000254_a-journey-through-the-florakiez_2019.md"
+name: "A journey through the florakiez"
 ---
 # A journey through the florakiez
 

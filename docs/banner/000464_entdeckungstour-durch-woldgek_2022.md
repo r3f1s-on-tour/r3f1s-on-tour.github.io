@@ -1,21 +1,25 @@
 ---
-nummer: 464
-startLatitude: 53,459171
-startLongitude: 13,583411
-titel: Entdeckungstour durch Woldgek
+nummer: "464"
+startLatitude: "53,459171"
+startLongitude: "13,583411"
+titel: "Entdeckungstour durch Woldgek"
 picture: "https://api.bannergress.com/bnrs/pictures/ff6ad125aa3e1172a6d5ec5aa5bf46e3"
-region: Woldegk
-country: Deutschland
-completed: 10.218
-missions: 18
-date: 2022
+region: "Woldegk"
+country: "Deutschland"
+completed: "10.218"
+missions: "18"
+date: "2022"
 bg-link: "https://bannergress.com/banner/entdeckungstour-durch-woldgek-10c0"
-onyx: 0
+onyx: "0"
 description: "Starte am Marktplatz und entdecke die Windmühlenstadt Woldegek. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte"
-lengthKMeters: 8,602
+lengthKMeters: "8,602"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Entdeckungstour durch Woldgek"
+slug: "entdeckungstour-durch-woldgek"
+href: "banner/000464_entdeckungstour-durch-woldgek_2022.md"
+name: "Entdeckungstour durch Woldgek"
 ---
 # Entdeckungstour durch Woldgek
 

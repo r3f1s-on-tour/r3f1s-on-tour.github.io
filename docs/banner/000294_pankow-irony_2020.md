@@ -1,21 +1,25 @@
 ---
-nummer: 294
-startLatitude: 52.553248
-startLongitude: 13.416332
-titel: Pankow Irony
+nummer: "294"
+startLatitude: "52.553248"
+startLongitude: "13.416332"
+titel: "Pankow Irony"
 picture: "https://api.bannergress.com/bnrs/pictures/11a98eea02557e9b3dba0cb5e73d42d3"
-region: Berlin
-country: Deutschland
-completed: 6834
-missions: 12
-date: 2020
+region: "Berlin"
+country: "Deutschland"
+completed: "6834"
+missions: "12"
+date: "2020"
 bg-link: "https://bannergress.com/banner/pankow-irony-cf7e"
-onyx: 0
+onyx: "0"
 description: "Diese 12er Missionsreihe beginnt in Pankow und geleitet euch durch den Pankow Südkiez. Sie besteht aus 12 Missionen und bildet ein einmaliges Banner. Das Banner endet wo es beginnt."
-lengthKMeters: 9,21
+lengthKMeters: "9,21"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Pankow Irony"
+slug: "pankow-irony"
+href: "banner/000294_pankow-irony_2020.md"
+name: "Pankow Irony"
 ---
 # Pankow Irony
 

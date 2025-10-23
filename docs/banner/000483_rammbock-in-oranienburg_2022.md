@@ -1,21 +1,25 @@
 ---
-nummer: 483
-startLatitude: 52,756318
-startLongitude: 13,244588
-titel: Rammbock in Oranienburg
+nummer: "483"
+startLatitude: "52,756318"
+startLongitude: "13,244588"
+titel: "Rammbock in Oranienburg"
 picture: "https://api.bannergress.com/bnrs/pictures/497d3477de6312acf9cc142d6fe09ff6"
-region: Oranienburg
-country: Deutschland
-completed: 10.434
-missions: 6
-date: 2022
+region: "Oranienburg"
+country: "Deutschland"
+completed: "10.434"
+missions: "6"
+date: "2022"
 bg-link: "https://bannergress.com/banner/rammbock-in-oranienburg-1b23"
-onyx: 0
+onyx: "0"
 description: "Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße."
-lengthKMeters: 1,599
+lengthKMeters: "1,599"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Rammbock in Oranienburg"
+slug: "rammbock-in-oranienburg"
+href: "banner/000483_rammbock-in-oranienburg_2022.md"
+name: "Rammbock in Oranienburg"
 ---
 # Rammbock in Oranienburg
 

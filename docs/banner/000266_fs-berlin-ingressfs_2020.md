@@ -1,21 +1,25 @@
 ---
-nummer: 266
-startLatitude: 52.523294
-startLongitude: 13.397903
-titel: FS Berlin - #IngressFS
+nummer: "266"
+startLatitude: "52.523294"
+startLongitude: "13.397903"
+titel: "FS Berlin - #IngressFS"
 picture: ""
-region: Berlin
-country: Deutschland
-completed: 6312
-missions: 6
-date: 2020
+region: "Berlin"
+country: "Deutschland"
+completed: "6312"
+missions: "6"
+date: "2020"
 bg-link: "https://bannergress.com/banner/fs-berlin-ingressfs-fe36"
-onyx: 0
+onyx: "0"
 description: "Missionset for the First Saturday in Berlin. This mission is dedicated to all berlin hipsters."
-lengthKMeters: 1,87
+lengthKMeters: "1,87"
 umap: ""
 missionDay: ""
 notice: ""
+title: "FS Berlin - #IngressFS"
+slug: "fs-berlin-ingressfs"
+href: "banner/000266_fs-berlin-ingressfs_2020.md"
+name: "FS Berlin - #IngressFS"
 ---
 # FS Berlin - #IngressFS
 

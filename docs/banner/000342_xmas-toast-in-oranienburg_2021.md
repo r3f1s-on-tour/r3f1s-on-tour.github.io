@@ -1,21 +1,25 @@
 ---
-nummer: 342
-startLatitude: 52.756491
-startLongitude: 13.245295
-titel: XMas Toast in Oranienburg
+nummer: "342"
+startLatitude: "52.756491"
+startLongitude: "13.245295"
+titel: "XMas Toast in Oranienburg"
 picture: ""
-region: Oranienburg
-country: Deutschland
-completed: 7740
-missions: 6
-date: 2021
+region: "Oranienburg"
+country: "Deutschland"
+completed: "7740"
+missions: "6"
+date: "2021"
 bg-link: "https://bannergress.com/banner/xmas-toast-in-oranienburg-7417"
-onyx: 0
+onyx: "0"
 description: "Mache eine kleine Tour durch Oranienburg und hole dir die XMas Toast ins Profil\n\nGeht am 24.11.2021 offline"
-lengthKMeters: 1,64
+lengthKMeters: "1,64"
 umap: ""
 missionDay: ""
 notice: ""
+title: "XMas Toast in Oranienburg"
+slug: "xmas-toast-in-oranienburg"
+href: "banner/000342_xmas-toast-in-oranienburg_2021.md"
+name: "XMas Toast in Oranienburg"
 ---
 # XMas Toast in Oranienburg
 

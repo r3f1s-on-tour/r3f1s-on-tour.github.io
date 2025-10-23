@@ -1,21 +1,25 @@
 ---
-nummer: 9
-startLatitude: 54.398545
-startLongitude: 13.625131
-titel: Binz auf Rügen
+nummer: "9"
+startLatitude: "54.398545"
+startLongitude: "13.625131"
+titel: "Binz auf Rügen"
 picture: ""
-region: Binz
-country: Deutschland
-completed: 198
-missions: 18
-date: 2015
+region: "Binz"
+country: "Deutschland"
+completed: "198"
+missions: "18"
+date: "2015"
 bg-link: "https://bannergress.com/banner/binz-auf-r%C3%BCgen-2ec3"
-onyx: 0
+onyx: "0"
 description: "Besonderer Anziehungspunkt ist die 3,2 km lange Strandpromenade mit zahlreichen und liebevoll restaurierten Bädervillen, Hotels, Cafés und Restaurants sowie der Seebrücke."
-lengthKMeters: 9,08
+lengthKMeters: "9,08"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Binz auf Rügen"
+slug: "binz-auf-rgen"
+href: "banner/000009_binz-auf-rgen_2015.md"
+name: "Binz auf Rügen"
 ---
 # Binz auf Rügen
 

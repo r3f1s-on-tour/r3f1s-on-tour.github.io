@@ -1,21 +1,25 @@
 ---
-nummer: 159
-startLatitude: 48.273833
-startLongitude: 11.568944
-titel: Flying Spaghetti Monster
+nummer: "159"
+startLatitude: "48.273833"
+startLongitude: "11.568944"
+titel: "Flying Spaghetti Monster"
 picture: "https://api.bannergress.com/bnrs/pictures/06cb0ce7e0ac265005ef6fcbf52659ff"
-region: Unterschleißheim
-country: Deutschland
-completed: 3834
-missions: 18
-date: 2018
+region: "Unterschleißheim"
+country: "Deutschland"
+completed: "3834"
+missions: "18"
+date: "2018"
 bg-link: "https://bannergress.com/banner/flying-spaghetti-monster-3382"
-onyx: 0
+onyx: "0"
 description: "Diese Mosaik führt vom Bahnhof Unterschleißheim zum Bahnhof Lohhof mit vielen Umwegen. - Our One Creator Which Flies and is Spaghetti and a Monster,"
-lengthKMeters: 18,35
+lengthKMeters: "18,35"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Flying Spaghetti Monster"
+slug: "flying-spaghetti-monster"
+href: "banner/000159_flying-spaghetti-monster_2018.md"
+name: "Flying Spaghetti Monster"
 ---
 # Flying Spaghetti Monster
 

@@ -1,21 +1,25 @@
 ---
-nummer: 227
-startLatitude: 48.132192
-startLongitude: 11.553859
-titel: Das Große Wiesn Mosaik Teil 3
+nummer: "227"
+startLatitude: "48.132192"
+startLongitude: "11.553859"
+titel: "Das Große Wiesn Mosaik Teil 3"
 picture: ""
-region: München
-country: Deutschland
-completed: 5484
-missions: 30
-date: 2019
+region: "München"
+country: "Deutschland"
+completed: "5484"
+missions: "30"
+date: "2019"
 bg-link: "https://bannergress.com/banner/wiesn-teil-3-1df2"
-onyx: 0
+onyx: "0"
 description: "Teil 3 der großen Wiesnreihe. Start und Ende an der Theresienwiese. Hälfte ist in Steinhauaen Viel Spaß"
-lengthKMeters: 34,00
+lengthKMeters: "34,00"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Das Große Wiesn Mosaik Teil 3"
+slug: "das-groe-wiesn-mosaik-teil-3"
+href: "banner/000227_das-groe-wiesn-mosaik-teil-3_2019.md"
+name: "Das Große Wiesn Mosaik Teil 3"
 ---
 # Das Große Wiesn Mosaik Teil 3
 

@@ -1,21 +1,25 @@
 ---
-nummer: 606
-startLatitude: 39,47116
-startLongitude: -0,324172
-titel: Las Banderas
+nummer: "606"
+startLatitude: "39,47116"
+startLongitude: "-0,324172"
+titel: "Las Banderas"
 picture: "https://api.bannergress.com/bnrs/pictures/1b12a50c200b30ace4a20b0cd161dc02"
-region: València
-country: España
-completed: 13.302
-missions: 12
-date: 2024
+region: "València"
+country: "España"
+completed: "13.302"
+missions: "12"
+date: "2024"
 bg-link: "https://bannergress.com/banner/las-banderas-c32a"
-onyx: 0
+onyx: "0"
 description: "Vamos a pasear desde un gran punto de reunión e interés (La Nau de l'aigua) hasta otro gran punto de referencia (Las Banderas) que hace de unión entre el paseo marítimo y \"La Marina de València\""
-lengthKMeters: 4,719
+lengthKMeters: "4,719"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Las Banderas"
+slug: "las-banderas"
+href: "banner/000606_las-banderas_2024.md"
+name: "Las Banderas"
 ---
 # Las Banderas
 

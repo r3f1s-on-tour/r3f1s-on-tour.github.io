@@ -1,21 +1,25 @@
 ---
-nummer: 243
-startLatitude: 52.512885
-startLongitude: 13.451796
-titel: Frankfurter Tor
+nummer: "243"
+startLatitude: "52.512885"
+startLongitude: "13.451796"
+titel: "Frankfurter Tor"
 picture: ""
-region: Berlin
-country: Deutschland
-completed: 5814
-missions: 12
-date: 2019
+region: "Berlin"
+country: "Deutschland"
+completed: "5814"
+missions: "12"
+date: "2019"
 bg-link: "https://bannergress.com/banner/frankfurter-tor-940b"
-onyx: 0
+onyx: "0"
 description: "Das Frankfurter Tor ist heute ein Platz im Berliner Ortsteil Friedrichshain am östlichen Ende der Karl-Marx-Allee. Obwohl der Name es vermuten lässt."
-lengthKMeters: 4,15
+lengthKMeters: "4,15"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Frankfurter Tor"
+slug: "frankfurter-tor"
+href: "banner/000243_frankfurter-tor_2019.md"
+name: "Frankfurter Tor"
 ---
 # Frankfurter Tor
 

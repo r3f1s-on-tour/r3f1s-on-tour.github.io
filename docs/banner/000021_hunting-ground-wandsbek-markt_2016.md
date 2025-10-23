@@ -1,21 +1,25 @@
 ---
-nummer: 21
-startLatitude: 53.573784
-startLongitude: 10.071849
-titel: Hunting ground Wandsbek Markt
+nummer: "21"
+startLatitude: "53.573784"
+startLongitude: "10.071849"
+titel: "Hunting ground Wandsbek Markt"
 picture: "https://api.bannergress.com/bnrs/pictures/4a9916708f283ca0625a1546dbcf5d55"
-region: Hamburg
-country: Deutschland
-completed: 360
-missions: 6
-date: 2016
+region: "Hamburg"
+country: "Deutschland"
+completed: "360"
+missions: "6"
+date: "2016"
 bg-link: "https://bannergress.com/banner/hunting-ground-wandsbek-markt-ventrue-3567"
-onyx: 0
+onyx: "0"
 description: "Die sechs Vampir Clans der Camarilla begehren diese Domäne. Welcher Clan wird obsiegen? Wen wirst du unterstützen?"
-lengthKMeters: 1,51
+lengthKMeters: "1,51"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Hunting ground Wandsbek Markt"
+slug: "hunting-ground-wandsbek-markt"
+href: "banner/000021_hunting-ground-wandsbek-markt_2016.md"
+name: "Hunting ground Wandsbek Markt"
 ---
 # Hunting ground Wandsbek Markt
 

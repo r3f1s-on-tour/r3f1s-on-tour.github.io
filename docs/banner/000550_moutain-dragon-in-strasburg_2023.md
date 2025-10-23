@@ -1,21 +1,25 @@
 ---
-nummer: 550
-startLatitude: 53,507239
-startLongitude: 13,745734
-titel: Moutain Dragon in Strasburg
+nummer: "550"
+startLatitude: "53,507239"
+startLongitude: "13,745734"
+titel: "Moutain Dragon in Strasburg"
 picture: "https://api.bannergress.com/bnrs/pictures/00a0ac4532b1e25b54e9618c6f9b3ff8"
-region: Strasburg (Uckermark)
-country: Deutschland
-completed: 12.180
-missions: 6
-date: 2023
+region: "Strasburg (Uckermark)"
+country: "Deutschland"
+completed: "12.180"
+missions: "6"
+date: "2023"
 bg-link: "https://bannergress.com/banner/moutain-dragon-in-strasburg-66e0"
-onyx: 0
+onyx: "0"
 description: "Starte am Marktplatz  einen Rundgang und entdecke Strasburg. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet auf dem Marktplatz"
-lengthKMeters: 3,514
+lengthKMeters: "3,514"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Moutain Dragon in Strasburg"
+slug: "moutain-dragon-in-strasburg"
+href: "banner/000550_moutain-dragon-in-strasburg_2023.md"
+name: "Moutain Dragon in Strasburg"
 ---
 # Moutain Dragon in Strasburg
 

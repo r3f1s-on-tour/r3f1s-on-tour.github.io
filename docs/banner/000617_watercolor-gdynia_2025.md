@@ -1,21 +1,25 @@
 ---
-nummer: 617
+nummer: "617"
 startLatitude: ""
 startLongitude: ""
-titel: Watercolor Gdynia
+titel: "Watercolor Gdynia"
 picture: "https://api.bannergress.com/bnrs/pictures/eee051ad9c7e48a747300f104a5ef880"
-region: Gdynia
-country: Polska
-completed: 13.488
-missions: 18
-date: 2025
+region: "Gdynia"
+country: "Polska"
+completed: "13.488"
+missions: "18"
+date: "2025"
 bg-link: "https://bannergress.com/banner/watercolor-gdynia-2799"
-onyx: 0
+onyx: "0"
 description: ""
 lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
+title: "Watercolor Gdynia"
+slug: "watercolor-gdynia"
+href: "banner/000617_watercolor-gdynia_2025.md"
+name: "Watercolor Gdynia"
 ---
 # Watercolor Gdynia
 

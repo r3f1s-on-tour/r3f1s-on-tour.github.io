@@ -1,21 +1,25 @@
 ---
-nummer: 325
-startLatitude: 52.754504
-startLongitude: 13.248415
-titel: #MP Happy Halloween in Oranienburg
+nummer: "325"
+startLatitude: "52.754504"
+startLongitude: "13.248415"
+titel: "#MP Happy Halloween in Oranienburg"
 picture: ""
-region: Oranienburg
-country: Deutschland
-completed: 7482
-missions: 12
-date: 2021
+region: "Oranienburg"
+country: "Deutschland"
+completed: "7482"
+missions: "12"
+date: "2021"
 bg-link: "https://bannergress.com/banner/mp-happy-halloween-in-oranienburg-b2cc"
-onyx: 0
+onyx: "0"
 description: "Mache eine kleine Entdeckungstour durch Oranienburg. Start ist am Bahnhof und führt die zum Schloss wieder zurück zum Bahnhof\n\nBanner geht am 01.11.2021 offline"
-lengthKMeters: 3,64
+lengthKMeters: "3,64"
 umap: ""
 missionDay: ""
 notice: ""
+title: "#MP Happy Halloween in Oranienburg"
+slug: "mp-happy-halloween-in-oranienburg"
+href: "banner/000325_mp-happy-halloween-in-oranienburg_2021.md"
+name: "#MP Happy Halloween in Oranienburg"
 ---
 # #MP Happy Halloween in Oranienburg
 

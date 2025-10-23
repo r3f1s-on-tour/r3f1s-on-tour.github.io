@@ -1,21 +1,25 @@
 ---
-nummer: 459
-startLatitude: 52,542933
-startLongitude: 13,403165
-titel: Waldmeister Tour
+nummer: "459"
+startLatitude: "52,542933"
+startLongitude: "13,403165"
+titel: "Waldmeister Tour"
 picture: "https://api.bannergress.com/bnrs/pictures/8df256dc83d0bc302f8362fdb199de09"
-region: Berlin
-country: Deutschland
-completed: 9.510
-missions: 24
-date: 2022
+region: "Berlin"
+country: "Deutschland"
+completed: "9.510"
+missions: "24"
+date: "2022"
 bg-link: "https://bannergress.com/banner/waldmeister-tour-be43"
-onyx: 1
+onyx: "1"
 description: "Starte eine Waldmeister Tour im Mauerpark und mache eine Entdeckungsreise durch das Gleimviertel und PBerg entdecke auf deinen Weg u.a den Friedrich Jahn Sportpark."
-lengthKMeters: 10,25
+lengthKMeters: "10,25"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Waldmeister Tour"
+slug: "waldmeister-tour"
+href: "banner/000459_waldmeister-tour_2022.md"
+name: "Waldmeister Tour"
 ---
 # Waldmeister Tour
 

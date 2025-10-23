@@ -1,21 +1,25 @@
 ---
-nummer: 344
-startLatitude: 52.756491
-startLongitude: 13.245295
-titel: Mr Pumpkin Slasher in Oranienburg
+nummer: "344"
+startLatitude: "52.756491"
+startLongitude: "13.245295"
+titel: "Mr Pumpkin Slasher in Oranienburg"
 picture: ""
-region: Oranienburg
-country: Deutschland
-completed: 7776
-missions: 18
-date: 2021
+region: "Oranienburg"
+country: "Deutschland"
+completed: "7776"
+missions: "18"
+date: "2021"
 bg-link: "https://bannergress.com/banner/mr-pumpkin-slasher-in-oranienburg-13b7"
-onyx: 0
+onyx: "0"
 description: "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße"
-lengthKMeters: 6,06
+lengthKMeters: "6,06"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Mr Pumpkin Slasher in Oranienburg"
+slug: "mr-pumpkin-slasher-in-oranienburg"
+href: "banner/000344_mr-pumpkin-slasher-in-oranienburg_2021.md"
+name: "Mr Pumpkin Slasher in Oranienburg"
 ---
 # Mr Pumpkin Slasher in Oranienburg
 

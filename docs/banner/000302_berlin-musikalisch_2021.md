@@ -1,21 +1,25 @@
 ---
-nummer: 302
-startLatitude: 52.499205
-startLongitude: 13.445166
-titel: Berlin musikalisch
+nummer: "302"
+startLatitude: "52.499205"
+startLongitude: "13.445166"
+titel: "Berlin musikalisch"
 picture: "https://api.bannergress.com/bnrs/pictures/a89817eb02ca154c8288464ef5510dc1"
-region: Berlin
-country: Deutschland
-completed: 7062
-missions: 48
-date: 2021
+region: "Berlin"
+country: "Deutschland"
+completed: "7062"
+missions: "48"
+date: "2021"
 bg-link: "https://bannergress.com/banner/berlin-musikalisch-5b7d"
-onyx: 0
+onyx: "0"
 description: "Auf dem Weg vom Postbahnhof zum Lido. \nZwei der besten Konzertlocations in Berlin."
-lengthKMeters: 15,82
+lengthKMeters: "15,82"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Berlin musikalisch"
+slug: "berlin-musikalisch"
+href: "banner/000302_berlin-musikalisch_2021.md"
+name: "Berlin musikalisch"
 ---
 # Berlin musikalisch
 

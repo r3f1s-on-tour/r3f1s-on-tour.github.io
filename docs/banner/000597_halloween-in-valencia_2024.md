@@ -1,21 +1,25 @@
 ---
-nummer: 597
-startLatitude: 39,467715
-startLongitude: -0,376814
-titel: Halloween in Valencia
+nummer: "597"
+startLatitude: "39,467715"
+startLongitude: "-0,376814"
+titel: "Halloween in Valencia"
 picture: "https://api.bannergress.com/bnrs/pictures/dde27ab1355659599191184a174d41f8"
-region: València
-country: España
-completed: 13.170
-missions: 6
-date: 2024
+region: "València"
+country: "España"
+completed: "13.170"
+missions: "6"
+date: "2024"
 bg-link: "https://bannergress.com/banner/halloween-in-valencia-f0f4"
-onyx: 0
+onyx: "0"
 description: "Discover Valencia at Halloween and get this spooky banner!"
-lengthKMeters: 1,623
+lengthKMeters: "1,623"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Halloween in Valencia"
+slug: "halloween-in-valencia"
+href: "banner/000597_halloween-in-valencia_2024.md"
+name: "Halloween in Valencia"
 ---
 # Halloween in Valencia
 

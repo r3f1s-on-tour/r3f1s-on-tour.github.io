@@ -1,21 +1,25 @@
 ---
-nummer: 93
-startLatitude: 53.41929
-startLongitude: 14.552349
-titel: MAGNUS Reawakens Szczecin
+nummer: "93"
+startLatitude: "53.41929"
+startLongitude: "14.552349"
+titel: "MAGNUS Reawakens Szczecin"
 picture: "https://api.bannergress.com/bnrs/pictures/f3f19c5eebe702c31a6d1e6eb37d766f"
-region: Szczecin
-country: Polska
-completed: 2418
-missions: 42
-date: 2017
+region: "Szczecin"
+country: "Polska"
+completed: "2418"
+missions: "42"
+date: "2017"
 bg-link: "https://bannergress.com/banner/magnus-reawakens-szczecin-796c"
-onyx: 0
+onyx: "0"
 description: "42 missions in recognition of your contributions during 13Magnus Reawakens XM Anomaly in Szczecin, 26.08.2017"
-lengthKMeters: 13,54
+lengthKMeters: "13,54"
 umap: ""
 missionDay: ""
 notice: ""
+title: "MAGNUS Reawakens Szczecin"
+slug: "magnus-reawakens-szczecin"
+href: "banner/000093_magnus-reawakens-szczecin_2017.md"
+name: "MAGNUS Reawakens Szczecin"
 ---
 # MAGNUS Reawakens Szczecin
 

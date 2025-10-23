@@ -1,21 +1,25 @@
 ---
-nummer: 18
-startLatitude: 53.552386
-startLongitude: 9.993663
-titel: MissionDay Hamburg
+nummer: "18"
+startLatitude: "53.552386"
+startLongitude: "9.993663"
+titel: "MissionDay Hamburg"
 picture: ""
-region: Hamburg
-country: Deutschland
-completed: 330
-missions: 12
-date: 2015
+region: "Hamburg"
+country: "Deutschland"
+completed: "330"
+missions: "12"
+date: "2015"
 bg-link: "https://bannergress.com/banner/md-hamburg-0950"
-onyx: 0
+onyx: "0"
 description: "The Alsterarkaden is the smallest and oldest shopping arcade in Hamburg."
-lengthKMeters: 71,95
+lengthKMeters: "71,95"
 umap: ""
 missionDay: ""
 notice: ""
+title: "MissionDay Hamburg"
+slug: "missionday-hamburg"
+href: "banner/000018_missionday-hamburg_2015.md"
+name: "MissionDay Hamburg"
 ---
 # MissionDay Hamburg
 

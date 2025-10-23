@@ -1,21 +1,25 @@
 ---
-nummer: 442
-startLatitude: 52,756318
-startLongitude: 13,244588
-titel: World Bee Day in Oranienburg
+nummer: "442"
+startLatitude: "52,756318"
+startLongitude: "13,244588"
+titel: "World Bee Day in Oranienburg"
 picture: ""
-region: Oranienburg
-country: Deutschland
-completed: 9.168
-missions: 6
-date: 2022
+region: "Oranienburg"
+country: "Deutschland"
+completed: "9.168"
+missions: "6"
+date: "2022"
 bg-link: ""
-onyx: 0
+onyx: "0"
 description: "Mache eine kleine Runde durch Oranienburg und feiere den Weltbienentag."
-lengthKMeters: 1,59
+lengthKMeters: "1,59"
 umap: ""
 missionDay: ""
 notice: ""
+title: "World Bee Day in Oranienburg"
+slug: "world-bee-day-in-oranienburg"
+href: "banner/000442_world-bee-day-in-oranienburg_2022.md"
+name: "World Bee Day in Oranienburg"
 ---
 # World Bee Day in Oranienburg
 

@@ -1,21 +1,25 @@
 ---
-nummer: 323
-startLatitude: 52.754692
-startLongitude: 13.236654
-titel: Spider Sunday in Oranienburg
+nummer: "323"
+startLatitude: "52.754692"
+startLongitude: "13.236654"
+titel: "Spider Sunday in Oranienburg"
 picture: ""
-region: Oranienburg
-country: Deutschland
-completed: 7464
-missions: 6
-date: 2021
+region: "Oranienburg"
+country: "Deutschland"
+completed: "7464"
+missions: "6"
+date: "2021"
 bg-link: "https://bannergress.com/banner/spider-sunday-in-oranienburg-67de"
-onyx: 0
+onyx: "0"
 description: "Mache eine kleine Tour durch Oranienburg und starte am Bahnhof"
-lengthKMeters: 2,00
+lengthKMeters: "2,00"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Spider Sunday in Oranienburg"
+slug: "spider-sunday-in-oranienburg"
+href: "banner/000323_spider-sunday-in-oranienburg_2021.md"
+name: "Spider Sunday in Oranienburg"
 ---
 # Spider Sunday in Oranienburg
 

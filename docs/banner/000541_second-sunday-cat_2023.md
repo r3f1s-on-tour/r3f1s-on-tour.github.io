@@ -1,21 +1,25 @@
 ---
-nummer: 541
-startLatitude: 53,506861
-startLongitude: 13,74885
-titel: Second Sunday Cat
+nummer: "541"
+startLatitude: "53,506861"
+startLongitude: "13,74885"
+titel: "Second Sunday Cat"
 picture: "https://api.bannergress.com/bnrs/pictures/0166c6cbf03cc2bb96914b8599396a95"
-region: Strasburg (Uckermark)
-country: Deutschland
-completed: 11.988
-missions: 24
-date: 2023
+region: "Strasburg (Uckermark)"
+country: "Deutschland"
+completed: "11.988"
+missions: "24"
+date: "2023"
 bg-link: "https://bannergress.com/banner/second-sunday-cat-226f"
-onyx: 0
+onyx: "0"
 description: "Beginne eine Runde durch Strasburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Strasburg. Starte in der Schulstraße"
-lengthKMeters: 8,511
+lengthKMeters: "8,511"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Second Sunday Cat"
+slug: "second-sunday-cat"
+href: "banner/000541_second-sunday-cat_2023.md"
+name: "Second Sunday Cat"
 ---
 # Second Sunday Cat
 

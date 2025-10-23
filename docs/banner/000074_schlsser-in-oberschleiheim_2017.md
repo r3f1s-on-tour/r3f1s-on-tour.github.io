@@ -1,21 +1,25 @@
 ---
-nummer: 74
-startLatitude: 48.248869
-startLongitude: 11.558202
-titel: Schlösser in Oberschleißheim
+nummer: "74"
+startLatitude: "48.248869"
+startLongitude: "11.558202"
+titel: "Schlösser in Oberschleißheim"
 picture: "https://api.bannergress.com/bnrs/pictures/68478dcd093f42017ae41b3a7757c17b"
-region: Oberschleißheim
-country: Deutschland
-completed: 2043
-missions: 3
-date: 2017
+region: "Oberschleißheim"
+country: "Deutschland"
+completed: "2043"
+missions: "3"
+date: "2017"
 bg-link: "https://bannergress.com/banner/schl%C3%B6sser-in-oberschlei%C3%9Fheim-429e"
-onyx: 0
+onyx: "0"
 description: ""
 lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
+title: "Schlösser in Oberschleißheim"
+slug: "schlsser-in-oberschleiheim"
+href: "banner/000074_schlsser-in-oberschleiheim_2017.md"
+name: "Schlösser in Oberschleißheim"
 ---
 # Schlösser in Oberschleißheim
 

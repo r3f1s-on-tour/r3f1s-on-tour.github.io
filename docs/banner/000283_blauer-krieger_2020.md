@@ -1,21 +1,25 @@
 ---
-nummer: 283
-startLatitude: 48.140198
-startLongitude: 11.560711
-titel: Blauer Krieger
+nummer: "283"
+startLatitude: "48.140198"
+startLongitude: "11.560711"
+titel: "Blauer Krieger"
 picture: "https://api.bannergress.com/bnrs/pictures/e308ea558019cb794a18cb214d61aa47"
-region: München
-country: Deutschland
-completed: 6576
-missions: 48
-date: 2020
+region: "München"
+country: "Deutschland"
+completed: "6576"
+missions: "48"
+date: "2020"
 bg-link: "https://bannergress.com/banner/blauer-krieger-9159"
-onyx: 0
+onyx: "0"
 description: "Erkunde die Stadt München ab dem Hauptbahnhof über Schwanthalerhöhe bis zum Stachus"
-lengthKMeters: 11,78
+lengthKMeters: "11,78"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Blauer Krieger"
+slug: "blauer-krieger"
+href: "banner/000283_blauer-krieger_2020.md"
+name: "Blauer Krieger"
 ---
 # Blauer Krieger
 

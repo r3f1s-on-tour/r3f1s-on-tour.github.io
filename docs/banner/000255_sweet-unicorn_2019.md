@@ -1,21 +1,25 @@
 ---
-nummer: 255
-startLatitude: 52.5065851
-startLongitude: 13.33226
-titel: Sweet Unicorn
+nummer: "255"
+startLatitude: "52.5065851"
+startLongitude: "13.33226"
+titel: "Sweet Unicorn"
 picture: ""
-region: Berlin
-country: Deutschland
-completed: 6156
-missions: 30
-date: 2019
+region: "Berlin"
+country: "Deutschland"
+completed: "6156"
+missions: "30"
+date: "2019"
 bg-link: "https://bannergress.com/banner/the-sweet-unicorn-cd78"
-onyx: 0
+onyx: "0"
 description: ""
 lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
+title: "Sweet Unicorn"
+slug: "sweet-unicorn"
+href: "banner/000255_sweet-unicorn_2019.md"
+name: "Sweet Unicorn"
 ---
 # Sweet Unicorn
 

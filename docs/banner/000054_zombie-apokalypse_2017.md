@@ -1,21 +1,25 @@
 ---
-nummer: 54
-startLatitude: 48.262847
-startLongitude: 11.437851
-titel: Zombie Apokalypse
+nummer: "54"
+startLatitude: "48.262847"
+startLongitude: "11.437851"
+titel: "Zombie Apokalypse"
 picture: "https://api.bannergress.com/bnrs/pictures/5af621cc1fd0fe4e83ab4d00eea6c11a"
-region: Webling
-country: Deutschland
-completed: 1236
-missions: 12
-date: 2017
+region: "Webling"
+country: "Deutschland"
+completed: "1236"
+missions: "12"
+date: "2017"
 bg-link: "https://bannergress.com/banner/zombie-apokalypse-8e27"
-onyx: 0
+onyx: "0"
 description: "Zombies überrennen die Stadt. Versuche zu entkommen und durchquere die Altstadt."
-lengthKMeters: 4,55
+lengthKMeters: "4,55"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Zombie Apokalypse"
+slug: "zombie-apokalypse"
+href: "banner/000054_zombie-apokalypse_2017.md"
+name: "Zombie Apokalypse"
 ---
 # Zombie Apokalypse
 

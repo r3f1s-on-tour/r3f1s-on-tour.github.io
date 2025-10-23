@@ -1,21 +1,25 @@
 ---
-nummer: 397
-startLatitude: 52,516121
-startLongitude: 13,379398
-titel: 2nd Sunday Mitte
+nummer: "397"
+startLatitude: "52,516121"
+startLongitude: "13,379398"
+titel: "2nd Sunday Mitte"
 picture: "https://api.bannergress.com/bnrs/pictures/edc412993520c3741de81742a59f4e3f"
-region: Berlin
-country: Deutschland
-completed: 8.514
-missions: 6
-date: 2022
+region: "Berlin"
+country: "Deutschland"
+completed: "8.514"
+missions: "6"
+date: "2022"
 bg-link: "https://bannergress.com/banner/2nd-sunday-mitte-fe1f"
-onyx: 0
+onyx: "0"
 description: "Spaziere zum Second Sunday 02/22 über den Boulevard Unter den Linden im Bezitk Mitte."
-lengthKMeters: 2,04
+lengthKMeters: "2,04"
 umap: ""
 missionDay: ""
 notice: ""
+title: "2nd Sunday Mitte"
+slug: "2nd-sunday-mitte"
+href: "banner/000397_2nd-sunday-mitte_2022.md"
+name: "2nd Sunday Mitte"
 ---
 # 2nd Sunday Mitte
 

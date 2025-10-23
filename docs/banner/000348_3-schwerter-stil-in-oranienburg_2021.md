@@ -1,21 +1,25 @@
 ---
-nummer: 348
-startLatitude: 52.754504
-startLongitude: 13.248415
-titel: 3 Schwerter Stil in Oranienburg
+nummer: "348"
+startLatitude: "52.754504"
+startLongitude: "13.248415"
+titel: "3 Schwerter Stil in Oranienburg"
 picture: ""
-region: Oranienburg
-country: Deutschland
-completed: 7824
-missions: 18
-date: 2021
+region: "Oranienburg"
+country: "Deutschland"
+completed: "7824"
+missions: "18"
+date: "2021"
 bg-link: ""
-onyx: 0
+onyx: "0"
 description: "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße und am Ende erwartet dich der 3 Schwerter Stil"
-lengthKMeters: 6,05
+lengthKMeters: "6,05"
 umap: ""
 missionDay: ""
 notice: ""
+title: "3 Schwerter Stil in Oranienburg"
+slug: "3-schwerter-stil-in-oranienburg"
+href: "banner/000348_3-schwerter-stil-in-oranienburg_2021.md"
+name: "3 Schwerter Stil in Oranienburg"
 ---
 # 3 Schwerter Stil in Oranienburg
 

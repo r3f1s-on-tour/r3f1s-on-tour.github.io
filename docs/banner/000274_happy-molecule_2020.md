@@ -1,21 +1,25 @@
 ---
-nummer: 274
-startLatitude: 53.506861
-startLongitude: 13.74885
-titel: Happy Molecule
+nummer: "274"
+startLatitude: "53.506861"
+startLongitude: "13.74885"
+titel: "Happy Molecule"
 picture: ""
-region: Strasburg (Uckermark)
-country: Deutschland
-completed: 6432
-missions: 6
-date: 2020
+region: "Strasburg (Uckermark)"
+country: "Deutschland"
+completed: "6432"
+missions: "6"
+date: "2020"
 bg-link: "https://bannergress.com/banner/happy-molecule-f3bc"
-onyx: 0
+onyx: "0"
 description: ""
 lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
+title: "Happy Molecule"
+slug: "happy-molecule"
+href: "banner/000274_happy-molecule_2020.md"
+name: "Happy Molecule"
 ---
 # Happy Molecule
 

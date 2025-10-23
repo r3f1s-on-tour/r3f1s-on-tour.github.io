@@ -1,21 +1,25 @@
 ---
-nummer: 400
-startLatitude: 52,509237
-startLongitude: 13,497382
-titel: Catwalk Pippa
+nummer: "400"
+startLatitude: "52,509237"
+startLongitude: "13,497382"
+titel: "Catwalk Pippa"
 picture: "https://api.bannergress.com/bnrs/pictures/6eebdacf7d1601c8a0f6206f61859139"
-region: Berlin
-country: Deutschland
-completed: 8.574
-missions: 18
-date: 2022
+region: "Berlin"
+country: "Deutschland"
+completed: "8.574"
+missions: "18"
+date: "2022"
 bg-link: "https://bannergress.com/banner/catwalk-pippa-9bcd"
-onyx: 0
+onyx: "0"
 description: "Begleite Pippa auf einen Entdeckungsstreifzug vom S+U Lichtenberg nach Friedrichsfelde und dort im Bogen durch den Weitlingkiez zurück zu seinem Ausgangspunkt."
-lengthKMeters: 5,00
+lengthKMeters: "5,00"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Catwalk Pippa"
+slug: "catwalk-pippa"
+href: "banner/000400_catwalk-pippa_2022.md"
+name: "Catwalk Pippa"
 ---
 # Catwalk Pippa
 

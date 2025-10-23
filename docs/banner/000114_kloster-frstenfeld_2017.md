@@ -1,21 +1,25 @@
 ---
-nummer: 114
-startLatitude: 48.17097
-startLongitude: 11.246921
-titel: Kloster Fürstenfeld
+nummer: "114"
+startLatitude: "48.17097"
+startLongitude: "11.246921"
+titel: "Kloster Fürstenfeld"
 picture: "https://api.bannergress.com/bnrs/pictures/ff65ae5fc11860670e7443fbc8c0ee07"
-region: Fürstenfeldbruck
-country: Deutschland
-completed: 2814
-missions: 24
-date: 2017
+region: "Fürstenfeldbruck"
+country: "Deutschland"
+completed: "2814"
+missions: "24"
+date: "2017"
 bg-link: "https://bannergress.com/banner/kloster-f%C3%BCrstenfeld-cd21"
-onyx: 0
+onyx: "0"
 description: "Das Kloster Fürstenfeld ist eine ehemalige Zisterzienserabtei in Fürstenfeldbruck in der Erzdiözese München und Freising."
-lengthKMeters: 8,19
+lengthKMeters: "8,19"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Kloster Fürstenfeld"
+slug: "kloster-frstenfeld"
+href: "banner/000114_kloster-frstenfeld_2017.md"
+name: "Kloster Fürstenfeld"
 ---
 # Kloster Fürstenfeld
 

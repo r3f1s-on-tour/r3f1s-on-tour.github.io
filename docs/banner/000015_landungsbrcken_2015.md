@@ -1,21 +1,25 @@
 ---
-nummer: 15
-startLatitude: 53.545576
-startLongitude: 9.970032
-titel: Landungsbrücken
+nummer: "15"
+startLatitude: "53.545576"
+startLongitude: "9.970032"
+titel: "Landungsbrücken"
 picture: "https://api.bannergress.com/bnrs/pictures/b5b4e97a8c42aca70facc47acb35a5ca"
-region: Hamburg
-country: Deutschland
-completed: 294
-missions: 18
-date: 2015
+region: "Hamburg"
+country: "Deutschland"
+completed: "294"
+missions: "18"
+date: "2015"
 bg-link: "https://bannergress.com/banner/landungsbr%C3%BCcken-mosaik-5dad"
-onyx: 0
+onyx: "0"
 description: "Mosaic around the Landungsbrücken"
-lengthKMeters: 5,87
+lengthKMeters: "5,87"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Landungsbrücken"
+slug: "landungsbrcken"
+href: "banner/000015_landungsbrcken_2015.md"
+name: "Landungsbrücken"
 ---
 # Landungsbrücken
 

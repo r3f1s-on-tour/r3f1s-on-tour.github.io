@@ -1,21 +1,25 @@
 ---
-nummer: 262
-startLatitude: 52.542993
-startLongitude: 13.428082
-titel: Zeiss-Großplanetarium
+nummer: "262"
+startLatitude: "52.542993"
+startLongitude: "13.428082"
+titel: "Zeiss-Großplanetarium"
 picture: ""
-region: Berlin
-country: Deutschland
-completed: 6276
-missions: 18
-date: 2020
+region: "Berlin"
+country: "Deutschland"
+completed: "6276"
+missions: "18"
+date: "2020"
 bg-link: "https://bannergress.com/banner/zeiss-gro%C3%9Fplanetarium-6b8c"
-onyx: 0
+onyx: "0"
 description: ""
 lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
+title: "Zeiss-Großplanetarium"
+slug: "zeiss-groplanetarium"
+href: "banner/000262_zeiss-groplanetarium_2020.md"
+name: "Zeiss-Großplanetarium"
 ---
 # Zeiss-Großplanetarium
 

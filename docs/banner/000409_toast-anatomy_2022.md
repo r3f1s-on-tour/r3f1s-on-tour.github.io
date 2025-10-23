@@ -1,21 +1,25 @@
 ---
-nummer: 409
-startLatitude: 53,50675
-startLongitude: 13,745004
-titel: Toast Anatomy
+nummer: "409"
+startLatitude: "53,50675"
+startLongitude: "13,745004"
+titel: "Toast Anatomy"
 picture: ""
-region: Strasburg (Uckermark)
-country: Deutschland
-completed: 8.688
-missions: 6
-date: 2022
+region: "Strasburg (Uckermark)"
+country: "Deutschland"
+completed: "8.688"
+missions: "6"
+date: "2022"
 bg-link: ""
-onyx: 0
+onyx: "0"
 description: "Starte am Markt eine Entdeckungsreise durch die Stadt Strasburg Uckermark und entdecke dabei historische Orte der Stadt"
-lengthKMeters: 2,76
+lengthKMeters: "2,76"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Toast Anatomy"
+slug: "toast-anatomy"
+href: "banner/000409_toast-anatomy_2022.md"
+name: "Toast Anatomy"
 ---
 # Toast Anatomy
 

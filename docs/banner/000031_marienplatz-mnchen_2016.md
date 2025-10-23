@@ -1,21 +1,25 @@
 ---
-nummer: 31
-startLatitude: 48.137437
-startLongitude: 11.575546
-titel: Marienplatz München
+nummer: "31"
+startLatitude: "48.137437"
+startLongitude: "11.575546"
+titel: "Marienplatz München"
 picture: ""
-region: München
-country: Deutschland
-completed: 624
-missions: 24
-date: 2016
+region: "München"
+country: "Deutschland"
+completed: "624"
+missions: "24"
+date: "2016"
 bg-link: "https://bannergress.com/banner/marienplatz-m%C3%BCnchen-50a9"
-onyx: 0
+onyx: "0"
 description: "1315 verlieh Kaiser Ludwig der Bayer München die Marktfreiheit mit der Auflage, dass der damals Marktplatz genannte Marienplatz „auf ewige Zeiten“ hin unbebaut bleibe."
-lengthKMeters: 5,84
+lengthKMeters: "5,84"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Marienplatz München"
+slug: "marienplatz-mnchen"
+href: "banner/000031_marienplatz-mnchen_2016.md"
+name: "Marienplatz München"
 ---
 # Marienplatz München
 

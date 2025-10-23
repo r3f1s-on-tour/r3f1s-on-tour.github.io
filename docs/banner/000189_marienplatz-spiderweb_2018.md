@@ -1,21 +1,25 @@
 ---
-nummer: 189
-startLatitude: 48.13722
-startLongitude: 11.575486
-titel: Marienplatz SPIDERWEB
+nummer: "189"
+startLatitude: "48.13722"
+startLongitude: "11.575486"
+titel: "Marienplatz SPIDERWEB"
 picture: ""
-region: München
-country: Deutschland
-completed: 4470
-missions: 12
-date: 2018
+region: "München"
+country: "Deutschland"
+completed: "4470"
+missions: "12"
+date: "2018"
 bg-link: "https://bannergress.com/banner/marienplatz-spiderweb-6516"
-onyx: 0
+onyx: "0"
 description: "Such link. Very hack. Wow."
-lengthKMeters: 2,55
+lengthKMeters: "2,55"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Marienplatz SPIDERWEB"
+slug: "marienplatz-spiderweb"
+href: "banner/000189_marienplatz-spiderweb_2018.md"
+name: "Marienplatz SPIDERWEB"
 ---
 # Marienplatz SPIDERWEB
 

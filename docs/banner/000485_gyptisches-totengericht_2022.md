@@ -1,21 +1,25 @@
 ---
-nummer: 485
-startLatitude: 52,516466
-startLongitude: 13,45299
-titel: Ägyptisches Totengericht
+nummer: "485"
+startLatitude: "52,516466"
+startLongitude: "13,45299"
+titel: "Ägyptisches Totengericht"
 picture: "https://api.bannergress.com/bnrs/pictures/20f32510404dc5dcb5b043d14ef777de"
-region: Berlin
-country: Deutschland
-completed: 10.482
-missions: 18
-date: 2022
+region: "Berlin"
+country: "Deutschland"
+completed: "10.482"
+missions: "18"
+date: "2022"
 bg-link: "https://bannergress.com/banner/%C3%A4gyptisches-totengericht-17af"
-onyx: 0
+onyx: "0"
 description: "Betritt die Halle der vollständigen Wahrheit und lasse dein Herz wiegen."
-lengthKMeters: 6,278
+lengthKMeters: "6,278"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Ägyptisches Totengericht"
+slug: "gyptisches-totengericht"
+href: "banner/000485_gyptisches-totengericht_2022.md"
+name: "Ägyptisches Totengericht"
 ---
 # Ägyptisches Totengericht
 

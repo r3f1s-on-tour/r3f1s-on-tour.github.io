@@ -1,21 +1,25 @@
 ---
-nummer: 226
-startLatitude: 48.130672
-startLongitude: 11.545971
-titel: Das Große Wiesn Mosaik Teil 2
+nummer: "226"
+startLatitude: "48.130672"
+startLongitude: "11.545971"
+titel: "Das Große Wiesn Mosaik Teil 2"
 picture: ""
-region: München
-country: Deutschland
-completed: 5454
-missions: 48
-date: 2019
+region: "München"
+country: "Deutschland"
+completed: "5454"
+missions: "48"
+date: "2019"
 bg-link: "https://bannergress.com/banner/wiesn-teil-2-166f"
-onyx: 0
+onyx: "0"
 description: "Teil 2 der großen Wiesnreihe. Start und Ende an der Theresienwiese. Hälfte ist am Tierpark Hellabrunn. Viel Spaß"
-lengthKMeters: 26,00
+lengthKMeters: "26,00"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Das Große Wiesn Mosaik Teil 2"
+slug: "das-groe-wiesn-mosaik-teil-2"
+href: "banner/000226_das-groe-wiesn-mosaik-teil-2_2019.md"
+name: "Das Große Wiesn Mosaik Teil 2"
 ---
 # Das Große Wiesn Mosaik Teil 2
 

@@ -1,21 +1,25 @@
 ---
-nummer: 91
-startLatitude: 48.157372
-startLongitude: 11.584719
-titel: Münchens Biergärten
+nummer: "91"
+startLatitude: "48.157372"
+startLongitude: "11.584719"
+titel: "Münchens Biergärten"
 picture: ""
-region: München
-country: Deutschland
-completed: 2370
-missions: 6
-date: 2017
+region: "München"
+country: "Deutschland"
+completed: "2370"
+missions: "6"
+date: "2017"
 bg-link: "https://bannergress.com/banner/m%C3%BCnchens-bierg%C3%A4rten-ce86"
-onyx: 0
+onyx: "0"
 description: "Besuche Münchens große Biergärten"
-lengthKMeters: 13,99
+lengthKMeters: "13,99"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Münchens Biergärten"
+slug: "mnchens-biergrten"
+href: "banner/000091_mnchens-biergrten_2017.md"
+name: "Münchens Biergärten"
 ---
 # Münchens Biergärten
 

@@ -1,21 +1,25 @@
 ---
-nummer: 164
-startLatitude: 49.452761
-startLongitude: 11.078086
-titel: Blaue Nacht Ost
+nummer: "164"
+startLatitude: "49.452761"
+startLongitude: "11.078086"
+titel: "Blaue Nacht Ost"
 picture: ""
-region: Nürnberg
-country: Deutschland
-completed: 3984
-missions: 36
-date: 2018
+region: "Nürnberg"
+country: "Deutschland"
+completed: "3984"
+missions: "36"
+date: "2018"
 bg-link: ""
-onyx: 0
+onyx: "0"
 description: ""
 lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
+title: "Blaue Nacht Ost"
+slug: "blaue-nacht-ost"
+href: "banner/000164_blaue-nacht-ost_2018.md"
+name: "Blaue Nacht Ost"
 ---
 # Blaue Nacht Ost
 

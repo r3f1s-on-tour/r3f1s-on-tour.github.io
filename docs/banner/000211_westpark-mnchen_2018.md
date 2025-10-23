@@ -1,21 +1,25 @@
 ---
-nummer: 211
-startLatitude: 48.116477
-startLongitude: 11.502844
-titel: Westpark München
+nummer: "211"
+startLatitude: "48.116477"
+startLongitude: "11.502844"
+titel: "Westpark München"
 picture: ""
-region: München
-country: Deutschland
-completed: 5136
-missions: 24
-date: 2018
+region: "München"
+country: "Deutschland"
+completed: "5136"
+missions: "24"
+date: "2018"
 bg-link: "https://bannergress.com/banner/westpark-m%C3%BCnchen-bf4a"
-onyx: 0
+onyx: "0"
 description: "Spaziergang durch den Westpark. Start ist an der U-Bahnstation Holzapfelkreuth, sie endet am Harras"
-lengthKMeters: 8,73
+lengthKMeters: "8,73"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Westpark München"
+slug: "westpark-mnchen"
+href: "banner/000211_westpark-mnchen_2018.md"
+name: "Westpark München"
 ---
 # Westpark München
 

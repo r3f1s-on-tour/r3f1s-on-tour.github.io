@@ -1,21 +1,25 @@
 ---
-nummer: 253
-startLatitude: 51.052006
-startLongitude: 13.741577
-titel: Dresden Artistic Skyline
+nummer: "253"
+startLatitude: "51.052006"
+startLongitude: "13.741577"
+titel: "Dresden Artistic Skyline"
 picture: ""
-region: Dresden
-country: Deutschland
-completed: 6108
-missions: 18
-date: 2019
+region: "Dresden"
+country: "Deutschland"
+completed: "6108"
+missions: "18"
+date: "2019"
 bg-link: "https://bannergress.com/banner/dresden-artistic-skyline-b160"
-onyx: 0
+onyx: "0"
 description: "Visit the historic city center of Dresden and create a beautiful artistic Skyline Banner."
-lengthKMeters: 4,86
+lengthKMeters: "4,86"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Dresden Artistic Skyline"
+slug: "dresden-artistic-skyline"
+href: "banner/000253_dresden-artistic-skyline_2019.md"
+name: "Dresden Artistic Skyline"
 ---
 # Dresden Artistic Skyline
 

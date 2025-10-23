@@ -1,21 +1,25 @@
 ---
-nummer: 463
-startLatitude: 53,506861
-startLongitude: 13,74885
-titel: Samurai Crest Adventure Tour
+nummer: "463"
+startLatitude: "53,506861"
+startLongitude: "13,74885"
+titel: "Samurai Crest Adventure Tour"
 picture: "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/463.jpg"
-region: Strasburg (Uckermark)
-country: Deutschland
-completed: 10.200
-missions: 642
-date: 2022
+region: "Strasburg (Uckermark)"
+country: "Deutschland"
+completed: "10.200"
+missions: "642"
+date: "2022"
 bg-link: ""
-onyx: 1
+onyx: "1"
 description: "Starte deine Samurai Crests Adeventure Tour in der Stadt Strasburg Uckermark und entdecke auf deiner Runde historische Gebäude und Sehenswürdigkeiten. Die Runde endet am"
-lengthKMeters: 277,36
+lengthKMeters: "277,36"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Samurai Crest Adventure Tour"
+slug: "samurai-crest-adventure-tour"
+href: "banner/000463_samurai-crest-adventure-tour_2022.md"
+name: "Samurai Crest Adventure Tour"
 ---
 # Samurai Crest Adventure Tour
 

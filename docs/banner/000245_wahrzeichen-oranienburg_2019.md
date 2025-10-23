@@ -1,21 +1,25 @@
 ---
-nummer: 245
-startLatitude: 52.75329
-startLongitude: 13.249462
-titel: Wahrzeichen Oranienburg
+nummer: "245"
+startLatitude: "52.75329"
+startLongitude: "13.249462"
+titel: "Wahrzeichen Oranienburg"
 picture: ""
-region: Oranienburg
-country: Deutschland
-completed: 5988
-missions: 24
-date: 2019
+region: "Oranienburg"
+country: "Deutschland"
+completed: "5988"
+missions: "24"
+date: "2019"
 bg-link: "https://bannergress.com/banner/wahrzeichen-oranienburg-2a95"
-onyx: 0
+onyx: "0"
 description: "Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erhälst das Abzeichen *Schloß Oranienburg*\nZu Fuß je Mission ca 10 min.\nViel Spaß"
-lengthKMeters: 8,98
+lengthKMeters: "8,98"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Wahrzeichen Oranienburg"
+slug: "wahrzeichen-oranienburg"
+href: "banner/000245_wahrzeichen-oranienburg_2019.md"
+name: "Wahrzeichen Oranienburg"
 ---
 # Wahrzeichen Oranienburg
 

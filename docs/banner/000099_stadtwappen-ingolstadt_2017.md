@@ -1,21 +1,25 @@
 ---
-nummer: 99
-startLatitude: 48.743869
-startLongitude: 11.438011
-titel: Stadtwappen Ingolstadt
+nummer: "99"
+startLatitude: "48.743869"
+startLongitude: "11.438011"
+titel: "Stadtwappen Ingolstadt"
 picture: "https://api.bannergress.com/bnrs/pictures/3c3c57c3a487dec99ad1d6cb2a55319a"
-region: Ingolstadt
-country: Deutschland
-completed: 2562
-missions: 42
-date: 2017
+region: "Ingolstadt"
+country: "Deutschland"
+completed: "2562"
+missions: "42"
+date: "2017"
 bg-link: "https://bannergress.com/banner/stadtwappen-ingolstadt-73f7"
-onyx: 0
+onyx: "0"
 description: "Das 1200 Jahre alte Ingolstadt war jahrhundertelang Universitätsstadt, Zentrum politischer Macht und später Festungsstadt. Diese Mosaik führt durch eine hübsche, aber unterschätzte  Großstadt."
-lengthKMeters: 20,49
+lengthKMeters: "20,49"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Stadtwappen Ingolstadt"
+slug: "stadtwappen-ingolstadt"
+href: "banner/000099_stadtwappen-ingolstadt_2017.md"
+name: "Stadtwappen Ingolstadt"
 ---
 # Stadtwappen Ingolstadt
 

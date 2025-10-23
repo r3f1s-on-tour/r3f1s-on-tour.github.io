@@ -1,21 +1,25 @@
 ---
-nummer: 20
-startLatitude: 52.50931
-startLongitude: 13.371313
-titel: STAR WARS - Das Erwachen der Macht (Berlin)
+nummer: "20"
+startLatitude: "52.50931"
+startLongitude: "13.371313"
+titel: "STAR WARS - Das Erwachen der Macht (Berlin)"
 picture: ""
-region: Berlin
-country: Deutschland
-completed: 354
-missions: 6
-date: 2015
+region: "Berlin"
+country: "Deutschland"
+completed: "354"
+missions: "6"
+date: "2015"
 bg-link: ""
-onyx: 0
+onyx: "0"
 description: ""
 lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
+title: "STAR WARS - Das Erwachen der Macht (Berlin)"
+slug: "star-wars-das-erwachen-der-macht-berlin"
+href: "banner/000020_star-wars-das-erwachen-der-macht-berlin_2015.md"
+name: "STAR WARS - Das Erwachen der Macht (Berlin)"
 ---
 # STAR WARS - Das Erwachen der Macht (Berlin)
 

@@ -1,21 +1,25 @@
 ---
-nummer: 387
-startLatitude: 52,51724
-startLongitude: 13,396536
-titel: Xenomorph Walk
+nummer: "387"
+startLatitude: "52,51724"
+startLongitude: "13,396536"
+titel: "Xenomorph Walk"
 picture: "https://api.bannergress.com/bnrs/pictures/a104bfc2d0faab1edba420f6b82cbfa9"
-region: Berlin
-country: Deutschland
-completed: 8.328
-missions: 12
-date: 2022
+region: "Berlin"
+country: "Deutschland"
+completed: "8.328"
+missions: "12"
+date: "2022"
 bg-link: "https://bannergress.com/banner/xenomorph-walk-afac"
-onyx: 0
+onyx: "0"
 description: "Starte einen kleinen Spaziergang durch Berlin Mitte. Die Rund startet dabei am Schinkel Pavillion und führt dich zur St Marienkirche und der Martin Luther Statue.\n\nOnline bis 01.05.2022"
-lengthKMeters: 3,92
+lengthKMeters: "3,92"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Xenomorph Walk"
+slug: "xenomorph-walk"
+href: "banner/000387_xenomorph-walk_2022.md"
+name: "Xenomorph Walk"
 ---
 # Xenomorph Walk
 

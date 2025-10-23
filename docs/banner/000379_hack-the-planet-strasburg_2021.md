@@ -1,21 +1,25 @@
 ---
-nummer: 379
-startLatitude: 53.507239
-startLongitude: 13.745734
-titel: Hack the planet - Strasburg
+nummer: "379"
+startLatitude: "53.507239"
+startLongitude: "13.745734"
+titel: "Hack the planet - Strasburg"
 picture: "https://api.bannergress.com/bnrs/pictures/5d9a96aec7cb4f9a4a326a6e5c1b7b86"
-region: Strasburg (Uckermark)
-country: Deutschland
-completed: 8256
-missions: 18
-date: 2021
+region: "Strasburg (Uckermark)"
+country: "Deutschland"
+completed: "8256"
+missions: "18"
+date: "2021"
 bg-link: "https://bannergress.com/banner/hack-the-planet-strasburg-a0fd"
-onyx: 0
+onyx: "0"
 description: "Erkunde die Stadt Strasburg."
-lengthKMeters: 14,08
+lengthKMeters: "14,08"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Hack the planet - Strasburg"
+slug: "hack-the-planet-strasburg"
+href: "banner/000379_hack-the-planet-strasburg_2021.md"
+name: "Hack the planet - Strasburg"
 ---
 # Hack the planet - Strasburg
 

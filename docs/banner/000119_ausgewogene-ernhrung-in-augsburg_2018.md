@@ -1,21 +1,25 @@
 ---
-nummer: 119
-startLatitude: 48.361922
-startLongitude: 10.902978
-titel: Ausgewogene Ernährung in Augsburg
+nummer: "119"
+startLatitude: "48.361922"
+startLongitude: "10.902978"
+titel: "Ausgewogene Ernährung in Augsburg"
 picture: "https://api.bannergress.com/bnrs/pictures/79fa43fc00f3e41220080d80ce72ad57"
-region: Augsburg
-country: Deutschland
-completed: 2904
-missions: 24
-date: 2018
+region: "Augsburg"
+country: "Deutschland"
+completed: "2904"
+missions: "24"
+date: "2018"
 bg-link: "https://bannergress.com/banner/ausgewogene-ern%C3%A4hrung-in-augsburg-807f"
-onyx: 0
+onyx: "0"
 description: ""
 lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
+title: "Ausgewogene Ernährung in Augsburg"
+slug: "ausgewogene-ernhrung-in-augsburg"
+href: "banner/000119_ausgewogene-ernhrung-in-augsburg_2018.md"
+name: "Ausgewogene Ernährung in Augsburg"
 ---
 # Ausgewogene Ernährung in Augsburg
 

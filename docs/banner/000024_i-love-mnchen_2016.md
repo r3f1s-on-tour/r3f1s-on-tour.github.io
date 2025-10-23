@@ -1,21 +1,25 @@
 ---
-nummer: 24
-startLatitude: 48.140198
-startLongitude: 11.560711
-titel: I Love München
+nummer: "24"
+startLatitude: "48.140198"
+startLongitude: "11.560711"
+titel: "I Love München"
 picture: ""
-region: München
-country: Deutschland
-completed: 426
-missions: 6
-date: 2016
+region: "München"
+country: "Deutschland"
+completed: "426"
+missions: "6"
+date: "2016"
 bg-link: "https://bannergress.com/banner/m%C3%BCnchen-c9f9"
-onyx: 0
+onyx: "0"
 description: "I love München."
-lengthKMeters: 2,32
+lengthKMeters: "2,32"
 umap: ""
 missionDay: ""
 notice: ""
+title: "I Love München"
+slug: "i-love-mnchen"
+href: "banner/000024_i-love-mnchen_2016.md"
+name: "I Love München"
 ---
 # I Love München
 

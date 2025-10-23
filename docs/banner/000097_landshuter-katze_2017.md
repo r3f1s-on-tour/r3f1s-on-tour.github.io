@@ -1,21 +1,25 @@
 ---
-nummer: 97
-startLatitude: 48.53133
-startLongitude: 12.147025
-titel: Landshuter Katze
+nummer: "97"
+startLatitude: "48.53133"
+startLongitude: "12.147025"
+titel: "Landshuter Katze"
 picture: ""
-region: Landshut
-country: Deutschland
-completed: 2496
-missions: 30
-date: 2017
+region: "Landshut"
+country: "Deutschland"
+completed: "2496"
+missions: "30"
+date: "2017"
 bg-link: "https://bannergress.com/banner/landshuter-katze-d42b"
-onyx: 0
+onyx: "0"
 description: "Die Landshuter Katze führt euch durch unser schönes Landshut. \nViel Spaß"
-lengthKMeters: 7,93
+lengthKMeters: "7,93"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Landshuter Katze"
+slug: "landshuter-katze"
+href: "banner/000097_landshuter-katze_2017.md"
+name: "Landshuter Katze"
 ---
 # Landshuter Katze
 

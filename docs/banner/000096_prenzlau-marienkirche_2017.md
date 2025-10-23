@@ -1,21 +1,25 @@
 ---
-nummer: 96
-startLatitude: 53.311645
-startLongitude: 13.85215
-titel: Prenzlau Marienkirche
+nummer: "96"
+startLatitude: "53.311645"
+startLongitude: "13.85215"
+titel: "Prenzlau Marienkirche"
 picture: "https://api.bannergress.com/bnrs/pictures/570a69dff1498e3c55c99c9b6b73155b"
-region: Prenzlau
-country: Deutschland
-completed: 2466
-missions: 12
-date: 2017
+region: "Prenzlau"
+country: "Deutschland"
+completed: "2466"
+missions: "12"
+date: "2017"
 bg-link: "https://bannergress.com/banner/prenzlau-marienkirche-c1d5"
-onyx: 0
+onyx: "0"
 description: "Eine kleine Stadterkundung durch das Zentrum von Prenzlau."
-lengthKMeters: 4,94
+lengthKMeters: "4,94"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Prenzlau Marienkirche"
+slug: "prenzlau-marienkirche"
+href: "banner/000096_prenzlau-marienkirche_2017.md"
+name: "Prenzlau Marienkirche"
 ---
 # Prenzlau Marienkirche
 

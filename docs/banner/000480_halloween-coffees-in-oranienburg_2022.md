@@ -1,21 +1,25 @@
 ---
-nummer: 480
-startLatitude: 52,756318
-startLongitude: 13,244588
-titel: Halloween Coffees in Oranienburg
+nummer: "480"
+startLatitude: "52,756318"
+startLongitude: "13,244588"
+titel: "Halloween Coffees in Oranienburg"
 picture: "https://api.bannergress.com/bnrs/pictures/34708bc649d2d45395637b3f5ec63164"
-region: Oranienburg
-country: Deutschland
-completed: 10.416
-missions: 6
-date: 2022
+region: "Oranienburg"
+country: "Deutschland"
+completed: "10.416"
+missions: "6"
+date: "2022"
 bg-link: "https://bannergress.com/banner/halloween-coffees-in-oranienburg-c369"
-onyx: 0
+onyx: "0"
 description: "Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße."
-lengthKMeters: 1,599
+lengthKMeters: "1,599"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Halloween Coffees in Oranienburg"
+slug: "halloween-coffees-in-oranienburg"
+href: "banner/000480_halloween-coffees-in-oranienburg_2022.md"
+name: "Halloween Coffees in Oranienburg"
 ---
 # Halloween Coffees in Oranienburg
 

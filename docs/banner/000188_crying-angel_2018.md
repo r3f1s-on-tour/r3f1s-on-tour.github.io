@@ -1,21 +1,25 @@
 ---
-nummer: 188
-startLatitude: 48.153409
-startLongitude: 11.571345
-titel: Crying Angel
+nummer: "188"
+startLatitude: "48.153409"
+startLongitude: "11.571345"
+titel: "Crying Angel"
 picture: ""
-region: München
-country: Deutschland
-completed: 4458
-missions: 12
-date: 2018
+region: "München"
+country: "Deutschland"
+completed: "4458"
+missions: "12"
+date: "2018"
 bg-link: "https://bannergress.com/banner/crying-angel-59c9"
-onyx: 0
+onyx: "0"
 description: "Kleine Tour über den alten Nordfriedhof. Vorsicht vor den weinenden Engel"
-lengthKMeters: 2,21
+lengthKMeters: "2,21"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Crying Angel"
+slug: "crying-angel"
+href: "banner/000188_crying-angel_2018.md"
+name: "Crying Angel"
 ---
 # Crying Angel
 

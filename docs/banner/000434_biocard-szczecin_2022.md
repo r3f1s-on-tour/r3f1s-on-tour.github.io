@@ -1,21 +1,25 @@
 ---
-nummer: 434
-startLatitude: 53,429481
-startLongitude: 14,553038
-titel: Biocard Szczecin
+nummer: "434"
+startLatitude: "53,429481"
+startLongitude: "14,553038"
+titel: "Biocard Szczecin"
 picture: "https://api.bannergress.com/bnrs/pictures/20a058074b53019498efad8705ff63fd"
-region: Szczecin
-country: Polska
-completed: 9.072
-missions: 48
-date: 2022
+region: "Szczecin"
+country: "Polska"
+completed: "9.072"
+missions: "48"
+date: "2022"
 bg-link: "https://bannergress.com/banner/biocard-szczecin-0805"
-onyx: 0
+onyx: "0"
 description: "Welcome to Szczecin! This banner will lead you through the city's most famous highlights. Complete it to earn a biocard depicting the statue of the Seaman."
-lengthKMeters: 18,62
+lengthKMeters: "18,62"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Biocard Szczecin"
+slug: "biocard-szczecin"
+href: "banner/000434_biocard-szczecin_2022.md"
+name: "Biocard Szczecin"
 ---
 # Biocard Szczecin
 

@@ -1,21 +1,25 @@
 ---
-nummer: 308
-startLatitude: 52.520647
-startLongitude: 13.386811
-titel: Enlightened Berlinomaly
+nummer: "308"
+startLatitude: "52.520647"
+startLongitude: "13.386811"
+titel: "Enlightened Berlinomaly"
 picture: "https://api.bannergress.com/bnrs/pictures/f30fb078a7e33b887f2748a04e80bdf6"
-region: Berlin
-country: Deutschland
-completed: 7242
-missions: 36
-date: 2021
+region: "Berlin"
+country: "Deutschland"
+completed: "7242"
+missions: "36"
+date: "2021"
 bg-link: "https://bannergress.com/banner/enlightened-berlinomaly-a9fd"
-onyx: 0
+onyx: "0"
 description: "Welcome to Berlin, Enlightened Agents! This banner takes you along some of Berlins important sights and results in the offical Berlinomaly logo. \n\nThis mission starts at S Friedrichstrasse."
-lengthKMeters: 12,02
+lengthKMeters: "12,02"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Enlightened Berlinomaly"
+slug: "enlightened-berlinomaly"
+href: "banner/000308_enlightened-berlinomaly_2021.md"
+name: "Enlightened Berlinomaly"
 ---
 # Enlightened Berlinomaly
 

@@ -1,21 +1,25 @@
 ---
-nummer: 305
-startLatitude: 52.754504
-startLongitude: 13.248415
-titel: Entdeckungsrunde OBurg
+nummer: "305"
+startLatitude: "52.754504"
+startLongitude: "13.248415"
+titel: "Entdeckungsrunde OBurg"
 picture: "https://api.bannergress.com/bnrs/pictures/320f8d96da93b09785eed451e073c100"
-region: Oranienburg
-country: Deutschland
-completed: 7110
-missions: 6
-date: 2021
+region: "Oranienburg"
+country: "Deutschland"
+completed: "7110"
+missions: "6"
+date: "2021"
 bg-link: "https://bannergress.com/banner/entdeckungsrunde-oburg-62cd"
-onyx: 0
+onyx: "0"
 description: "Kleine Runde durch Oranienburg. Start ist am Bahnhof"
-lengthKMeters: 1,70
+lengthKMeters: "1,70"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Entdeckungsrunde OBurg"
+slug: "entdeckungsrunde-oburg"
+href: "banner/000305_entdeckungsrunde-oburg_2021.md"
+name: "Entdeckungsrunde OBurg"
 ---
 # Entdeckungsrunde OBurg
 

@@ -1,21 +1,25 @@
 ---
-nummer: 247
-startLatitude: 52.765923
-startLongitude: 13.278086
-titel: Rundum den Lehnitzsee
+nummer: "247"
+startLatitude: "52.765923"
+startLongitude: "13.278086"
+titel: "Rundum den Lehnitzsee"
 picture: ""
-region: Oranienburg
-country: Deutschland
-completed: 6030
-missions: 18
-date: 2019
+region: "Oranienburg"
+country: "Deutschland"
+completed: "6030"
+missions: "18"
+date: "2019"
 bg-link: "https://bannergress.com/banner/rundum-den-lehnitzsee-3930"
-onyx: 0
+onyx: "0"
 description: "Abfolge 1 der Reihe um den Lehnitzsee entlang des Naturlehrpfades.\nZu Fuß wirst du etwa 4 std. benötigen und kannst dies nur mit dem Fahrrad verkürzen."
-lengthKMeters: 8,75
+lengthKMeters: "8,75"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Rundum den Lehnitzsee"
+slug: "rundum-den-lehnitzsee"
+href: "banner/000247_rundum-den-lehnitzsee_2019.md"
+name: "Rundum den Lehnitzsee"
 ---
 # Rundum den Lehnitzsee
 

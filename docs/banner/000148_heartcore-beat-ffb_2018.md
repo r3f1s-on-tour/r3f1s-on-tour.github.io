@@ -1,21 +1,25 @@
 ---
-nummer: 148
-startLatitude: 48.171765
-startLongitude: 11.26258
-titel: HeartCore Beat FFB
+nummer: "148"
+startLatitude: "48.171765"
+startLongitude: "11.26258"
+titel: "HeartCore Beat FFB"
 picture: ""
-region: Fürstenfeldbruck
-country: Deutschland
-completed: 3582
-missions: 6
-date: 2018
+region: "Fürstenfeldbruck"
+country: "Deutschland"
+completed: "3582"
+missions: "6"
+date: "2018"
 bg-link: "https://bannergress.com/banner/heartcore-beat-ffb-ea0e"
-onyx: 0
+onyx: "0"
 description: ""
-lengthKMeters: 4,09
+lengthKMeters: "4,09"
 umap: ""
 missionDay: ""
 notice: ""
+title: "HeartCore Beat FFB"
+slug: "heartcore-beat-ffb"
+href: "banner/000148_heartcore-beat-ffb_2018.md"
+name: "HeartCore Beat FFB"
 ---
 # HeartCore Beat FFB
 

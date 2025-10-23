@@ -1,21 +1,25 @@
 ---
-nummer: 318
-startLatitude: 52.375425
-startLongitude: 9.741563
-titel: Dark Skyline
+nummer: "318"
+startLatitude: "52.375425"
+startLongitude: "9.741563"
+titel: "Dark Skyline"
 picture: ""
-region: Hannover
-country: Deutschland
-completed: 7386
-missions: 6
-date: 2021
+region: "Hannover"
+country: "Deutschland"
+completed: "7386"
+missions: "6"
+date: "2021"
 bg-link: "https://bannergress.com/banner/dark-skyline-135b"
-onyx: 0
+onyx: "0"
 description: "Six-mission-set in the city-centre that shows some of Hannovers popular sights."
-lengthKMeters: 1,81
+lengthKMeters: "1,81"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Dark Skyline"
+slug: "dark-skyline"
+href: "banner/000318_dark-skyline_2021.md"
+name: "Dark Skyline"
 ---
 # Dark Skyline
 

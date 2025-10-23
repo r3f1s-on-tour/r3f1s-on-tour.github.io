@@ -1,21 +1,25 @@
 ---
-nummer: 309
-startLatitude: 52.514863
-startLongitude: 13.473202
-titel: Mishima Zaibatsu - Tekken Characters
+nummer: "309"
+startLatitude: "52.514863"
+startLongitude: "13.473202"
+titel: "Mishima Zaibatsu - Tekken Characters"
 picture: ""
-region: Berlin
-country: Deutschland
-completed: 7254
-missions: 12
-date: 2021
+region: "Berlin"
+country: "Deutschland"
+completed: "7254"
+missions: "12"
+date: "2021"
 bg-link: "https://bannergress.com/banner/mishima-zaibatsu-tekken-characters-8f8e"
-onyx: 0
+onyx: "0"
 description: "A walk through  the neighborhood of the well known Samaviertel."
-lengthKMeters: 3,63
+lengthKMeters: "3,63"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Mishima Zaibatsu - Tekken Characters"
+slug: "mishima-zaibatsu-tekken-characters"
+href: "banner/000309_mishima-zaibatsu-tekken-characters_2021.md"
+name: "Mishima Zaibatsu - Tekken Characters"
 ---
 # Mishima Zaibatsu - Tekken Characters
 

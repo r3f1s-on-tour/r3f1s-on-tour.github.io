@@ -1,21 +1,25 @@
 ---
-nummer: 10
-startLatitude: 54.099775
-startLongitude: 13.382173
-titel: Museumshafen Greifswald
+nummer: "10"
+startLatitude: "54.099775"
+startLongitude: "13.382173"
+titel: "Museumshafen Greifswald"
 picture: "https://api.bannergress.com/bnrs/pictures/01328fd0e24c9c0a82a36a93613be784"
-region: Greifswald
-country: Deutschland
-completed: 216
-missions: 18
-date: 2015
+region: "Greifswald"
+country: "Deutschland"
+completed: "216"
+missions: "18"
+date: "2015"
 bg-link: "https://bannergress.com/banner/museumshafen-greifswald-66c3"
-onyx: 0
+onyx: "0"
 description: "Teil 1 der Tour \"Museumshafen Greifswald\""
-lengthKMeters: 5,93
+lengthKMeters: "5,93"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Museumshafen Greifswald"
+slug: "museumshafen-greifswald"
+href: "banner/000010_museumshafen-greifswald_2015.md"
+name: "Museumshafen Greifswald"
 ---
 # Museumshafen Greifswald
 

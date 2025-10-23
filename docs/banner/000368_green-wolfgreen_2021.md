@@ -1,21 +1,25 @@
 ---
-nummer: 368
-startLatitude: 53.561402
-startLongitude: 13.261756
-titel: Green Wolfgreen
+nummer: "368"
+startLatitude: "53.561402"
+startLongitude: "13.261756"
+titel: "Green Wolfgreen"
 picture: "https://api.bannergress.com/bnrs/pictures/ca869e2afbc4b90b4c48db706fa04c4e"
-region: Neubrandenburg
-country: Deutschland
-completed: 8088
-missions: 18
-date: 2021
+region: "Neubrandenburg"
+country: "Deutschland"
+completed: "8088"
+missions: "18"
+date: "2021"
 bg-link: "https://bannergress.com/banner/green-wolfgreen-0f7e"
-onyx: 0
+onyx: "0"
 description: "Erkunde die Innenstadt von Neubrandenburg mit all ihren mittelalterlichen Gebäuden und moderner Architektur."
-lengthKMeters: 5,56
+lengthKMeters: "5,56"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Green Wolfgreen"
+slug: "green-wolfgreen"
+href: "banner/000368_green-wolfgreen_2021.md"
+name: "Green Wolfgreen"
 ---
 # Green Wolfgreen
 

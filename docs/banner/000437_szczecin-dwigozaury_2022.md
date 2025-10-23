@@ -1,21 +1,25 @@
 ---
-nummer: 437
-startLatitude: 53,43814
-startLongitude: 14,542281
-titel: Szczecin Dźwigozaury
+nummer: "437"
+startLatitude: "53,43814"
+startLongitude: "14,542281"
+titel: "Szczecin Dźwigozaury"
 picture: "https://api.bannergress.com/bnrs/pictures/db05b13ee6a46ff5ec7d822b6747bb6c"
-region: Szczecin
-country: Polska
-completed: 9.114
-missions: 18
-date: 2022
+region: "Szczecin"
+country: "Polska"
+completed: "9.114"
+missions: "18"
+date: "2022"
 bg-link: "https://bannergress.com/banner/szczecin-d%C5%BAwigozaury-1ed0"
-onyx: 0
+onyx: "0"
 description: "Szczecin Dźwigozaury"
-lengthKMeters: 4,64
+lengthKMeters: "4,64"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Szczecin Dźwigozaury"
+slug: "szczecin-dwigozaury"
+href: "banner/000437_szczecin-dwigozaury_2022.md"
+name: "Szczecin Dźwigozaury"
 ---
 # Szczecin Dźwigozaury
 

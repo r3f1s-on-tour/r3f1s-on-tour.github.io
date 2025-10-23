@@ -1,21 +1,25 @@
 ---
-nummer: 340
-startLatitude: 52.754504
-startLongitude: 13.248415
-titel: Second Sunday in Oranienburg
+nummer: "340"
+startLatitude: "52.754504"
+startLongitude: "13.248415"
+titel: "Second Sunday in Oranienburg"
 picture: ""
-region: Oranienburg
-country: Deutschland
-completed: 7704
-missions: 6
-date: 2021
+region: "Oranienburg"
+country: "Deutschland"
+completed: "7704"
+missions: "6"
+date: "2021"
 bg-link: "https://bannergress.com/banner/second-sunday-in-oranienburg-8c7a"
-onyx: 0
+onyx: "0"
 description: "Mache zum Second Sunday ein kleine Runde durch Oranienburg. Start ist in der Bernauer Straße\n\nGeht am 17.11.2021 offline"
-lengthKMeters: 2,13
+lengthKMeters: "2,13"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Second Sunday in Oranienburg"
+slug: "second-sunday-in-oranienburg"
+href: "banner/000340_second-sunday-in-oranienburg_2021.md"
+name: "Second Sunday in Oranienburg"
 ---
 # Second Sunday in Oranienburg
 

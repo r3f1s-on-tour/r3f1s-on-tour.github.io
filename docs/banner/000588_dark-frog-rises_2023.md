@@ -1,21 +1,25 @@
 ---
-nummer: 588
-startLatitude: 51,044895
-startLongitude: 13,739913
-titel: DARK FROG RISES
+nummer: "588"
+startLatitude: "51,044895"
+startLongitude: "13,739913"
+titel: "DARK FROG RISES"
 picture: "https://api.bannergress.com/bnrs/pictures/81e737911804f4785c856eac86305ba1"
-region: Dresden
-country: Deutschland
-completed: 13.044
-missions: 18
-date: 2023
+region: "Dresden"
+country: "Deutschland"
+completed: "13.044"
+missions: "18"
+date: "2023"
 bg-link: "https://bannergress.com/banner/dark-frog-rises-7776"
-onyx: 0
+onyx: "0"
 description: "This is the mosaic for the Enlightened at Umbra Dresden, which consists of 18 missions and offers a short walk through the city.\nBatfrog is calling!"
-lengthKMeters: 6,811
+lengthKMeters: "6,811"
 umap: ""
 missionDay: ""
 notice: ""
+title: "DARK FROG RISES"
+slug: "dark-frog-rises"
+href: "banner/000588_dark-frog-rises_2023.md"
+name: "DARK FROG RISES"
 ---
 # DARK FROG RISES
 

@@ -1,21 +1,25 @@
 ---
-nummer: 280
-startLatitude: 52.528068
-startLongitude: 13.425806
-titel: Volkspark Friedrichshain
+nummer: "280"
+startLatitude: "52.528068"
+startLongitude: "13.425806"
+titel: "Volkspark Friedrichshain"
 picture: ""
-region: Berlin
-country: Deutschland
-completed: 6492
-missions: 12
-date: 2020
+region: "Berlin"
+country: "Deutschland"
+completed: "6492"
+missions: "12"
+date: "2020"
 bg-link: "https://bannergress.com/banner/volkspark-friedrichshain-c30c"
-onyx: 0
+onyx: "0"
 description: "The Volkspark Friedrichshain is the oldest public park in Berlin, opened 1846. The park was originally conceived by the landscape gardener Peter Joseph Lenné."
-lengthKMeters: 4,25
+lengthKMeters: "4,25"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Volkspark Friedrichshain"
+slug: "volkspark-friedrichshain"
+href: "banner/000280_volkspark-friedrichshain_2020.md"
+name: "Volkspark Friedrichshain"
 ---
 # Volkspark Friedrichshain
 

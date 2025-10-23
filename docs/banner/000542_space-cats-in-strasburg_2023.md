@@ -1,21 +1,25 @@
 ---
-nummer: 542
-startLatitude: 53,507919
-startLongitude: 13,746105
-titel: Space Cats in Strasburg
+nummer: "542"
+startLatitude: "53,507919"
+startLongitude: "13,746105"
+titel: "Space Cats in Strasburg"
 picture: "https://api.bannergress.com/bnrs/pictures/c61dd5eaabf367d3b46a1ee2f3da8b74"
-region: Strasburg (Uckermark)
-country: Deutschland
-completed: 11.994
-missions: 6
-date: 2023
+region: "Strasburg (Uckermark)"
+country: "Deutschland"
+completed: "11.994"
+missions: "6"
+date: "2023"
 bg-link: "https://bannergress.com/banner/space-cats-in-strasburg-bacf"
-onyx: 0
+onyx: "0"
 description: "Beginne eine Runde durch Strasburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Strasburg. Starte in der Schulstraße"
-lengthKMeters: 1,047
+lengthKMeters: "1,047"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Space Cats in Strasburg"
+slug: "space-cats-in-strasburg"
+href: "banner/000542_space-cats-in-strasburg_2023.md"
+name: "Space Cats in Strasburg"
 ---
 # Space Cats in Strasburg
 

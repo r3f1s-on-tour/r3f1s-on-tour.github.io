@@ -1,21 +1,25 @@
 ---
-nummer: 110
-startLatitude: 54.044021
-startLongitude: 13.692991
-titel: Skulpturenpark Katzow
+nummer: "110"
+startLatitude: "54.044021"
+startLongitude: "13.692991"
+titel: "Skulpturenpark Katzow"
 picture: "https://api.bannergress.com/bnrs/pictures/cabc494aebc54641411fbe0130c120a3"
-region: Katzow
-country: Deutschland
-completed: 2742
-missions: 24
-date: 2017
+region: "Katzow"
+country: "Deutschland"
+completed: "2742"
+missions: "24"
+date: "2017"
 bg-link: "https://bannergress.com/banner/skulpturenpark-katzow-4359"
-onyx: 0
+onyx: "0"
 description: "Der Park besteht seit 1991. Gründer des Skulpturenparks Katzow ist der Bildhauer Thomas Radeloff."
-lengthKMeters: 6,38
+lengthKMeters: "6,38"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Skulpturenpark Katzow"
+slug: "skulpturenpark-katzow"
+href: "banner/000110_skulpturenpark-katzow_2017.md"
+name: "Skulpturenpark Katzow"
 ---
 # Skulpturenpark Katzow
 

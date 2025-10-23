@@ -1,21 +1,25 @@
 ---
-nummer: 412
-startLatitude: 53,503771
-startLongitude: 13,98897
-titel: RetroGaming - Pengo
+nummer: "412"
+startLatitude: "53,503771"
+startLongitude: "13,98897"
+titel: "RetroGaming - Pengo"
 picture: "https://api.bannergress.com/bnrs/pictures/c571f6cf063c9258ff8e7bd9b804701a"
-region: Pasewalk
-country: Deutschland
-completed: 8.706
-missions: 6
-date: 2022
+region: "Pasewalk"
+country: "Deutschland"
+completed: "8.706"
+missions: "6"
+date: "2022"
 bg-link: "https://bannergress.com/banner/retrogaming-pengo-4ac0"
-onyx: 0
+onyx: "0"
 description: "Starte auf dem Markt eine Entdeckungsreise durch die Stadt Pasewalk und entdecke dabei die Sehenswürdigkeiten der Stadt"
-lengthKMeters: 3,57
+lengthKMeters: "3,57"
 umap: ""
 missionDay: ""
 notice: ""
+title: "RetroGaming - Pengo"
+slug: "retrogaming-pengo"
+href: "banner/000412_retrogaming-pengo_2022.md"
+name: "RetroGaming - Pengo"
 ---
 # RetroGaming - Pengo
 

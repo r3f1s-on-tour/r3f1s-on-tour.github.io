@@ -1,21 +1,25 @@
 ---
-nummer: 13
-startLatitude: 53.558877
-startLongitude: 9.862231
-titel: Botanischer Garten Mosaik
+nummer: "13"
+startLatitude: "53.558877"
+startLongitude: "9.862231"
+titel: "Botanischer Garten Mosaik"
 picture: ""
-region: Hamburg
-country: Deutschland
-completed: 258
-missions: 18
-date: 2015
+region: "Hamburg"
+country: "Deutschland"
+completed: "258"
+missions: "18"
+date: "2015"
 bg-link: "https://bannergress.com/banner/botanischer-garten-mosaik-30ba"
-onyx: 0
+onyx: "0"
 description: "Ein wunderschönes Mosaik aus dem Botanischen Garten / Loki-Schmidt-Garten"
-lengthKMeters: 4,28
+lengthKMeters: "4,28"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Botanischer Garten Mosaik"
+slug: "botanischer-garten-mosaik"
+href: "banner/000013_botanischer-garten-mosaik_2015.md"
+name: "Botanischer Garten Mosaik"
 ---
 # Botanischer Garten Mosaik
 

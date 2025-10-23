@@ -1,21 +1,25 @@
 ---
-nummer: 163
-startLatitude: 48.152683
-startLongitude: 11.535624
-titel: Neuhausen Wal
+nummer: "163"
+startLatitude: "48.152683"
+startLongitude: "11.535624"
+titel: "Neuhausen Wal"
 picture: "https://api.bannergress.com/bnrs/pictures/6e2bbc52719c487e9845e7c85525fbe9"
-region: München
-country: Deutschland
-completed: 3948
-missions: 24
-date: 2018
+region: "München"
+country: "Deutschland"
+completed: "3948"
+missions: "24"
+date: "2018"
 bg-link: "https://bannergress.com/banner/neuhausen-wal-b74f"
-onyx: 0
+onyx: "0"
 description: "Lass dich verzaubern vom Einhornwal in Neuhausen"
-lengthKMeters: 9,80
+lengthKMeters: "9,80"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Neuhausen Wal"
+slug: "neuhausen-wal"
+href: "banner/000163_neuhausen-wal_2018.md"
+name: "Neuhausen Wal"
 ---
 # Neuhausen Wal
 

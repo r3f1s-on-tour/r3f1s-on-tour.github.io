@@ -1,21 +1,25 @@
 ---
-nummer: 109
-startLatitude: 51.344563
-startLongitude: 12.379711
-titel: Leipziger Stadtrunde
+nummer: "109"
+startLatitude: "51.344563"
+startLongitude: "12.379711"
+titel: "Leipziger Stadtrunde"
 picture: "https://api.bannergress.com/bnrs/pictures/23c0dadd75534ac3ba400e4b74232da4"
-region: Leipzig
-country: Deutschland
-completed: 2718
-missions: 6
-date: 2017
+region: "Leipzig"
+country: "Deutschland"
+completed: "2718"
+missions: "6"
+date: "2017"
 bg-link: "https://bannergress.com/banner/leipziger-stadtrunde-8503"
-onyx: 0
+onyx: "0"
 description: "Dies ist  eine kleine 6-teilige Missionsreihe durch das Herz der Messestadt und führt euch an dein Sehenswürdigkeiten des alten und neuen Leipzigs.\nIhr startet am ehemals größten Sackbahnhof."
-lengthKMeters: 2,22
+lengthKMeters: "2,22"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Leipziger Stadtrunde"
+slug: "leipziger-stadtrunde"
+href: "banner/000109_leipziger-stadtrunde_2017.md"
+name: "Leipziger Stadtrunde"
 ---
 # Leipziger Stadtrunde
 

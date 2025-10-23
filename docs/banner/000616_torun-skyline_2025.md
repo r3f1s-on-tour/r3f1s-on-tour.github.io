@@ -1,21 +1,25 @@
 ---
-nummer: 616
+nummer: "616"
 startLatitude: ""
 startLongitude: ""
-titel: Torun skyline
+titel: "Torun skyline"
 picture: "https://api.bannergress.com/bnrs/pictures/d1413bb121e5d1d037822169d6c692b5"
-region: Torun
-country: Polska
-completed: 13.470
-missions: 18
-date: 2025
+region: "Torun"
+country: "Polska"
+completed: "13.470"
+missions: "18"
+date: "2025"
 bg-link: "https://bannergress.com/banner/torun-skyline-15f3"
-onyx: 0
+onyx: "0"
 description: ""
-lengthKMeters: 3,7
+lengthKMeters: "3,7"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Torun skyline"
+slug: "torun-skyline"
+href: "banner/000616_torun-skyline_2025.md"
+name: "Torun skyline"
 ---
 # Torun skyline
 

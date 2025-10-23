@@ -1,21 +1,25 @@
 ---
-nummer: 441
-startLatitude: 52,756318
-startLongitude: 13,244588
-titel: Honey Bees in Oranienburg
+nummer: "441"
+startLatitude: "52,756318"
+startLongitude: "13,244588"
+titel: "Honey Bees in Oranienburg"
 picture: ""
-region: Oranienburg
-country: Deutschland
-completed: 9.162
-missions: 6
-date: 2022
+region: "Oranienburg"
+country: "Deutschland"
+completed: "9.162"
+missions: "6"
+date: "2022"
 bg-link: ""
-onyx: 0
+onyx: "0"
 description: "Mache eine kleine Honigbienen Runde durch Oranienburg und hole dir die Bienchen ins Profil"
-lengthKMeters: 1,59
+lengthKMeters: "1,59"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Honey Bees in Oranienburg"
+slug: "honey-bees-in-oranienburg"
+href: "banner/000441_honey-bees-in-oranienburg_2022.md"
+name: "Honey Bees in Oranienburg"
 ---
 # Honey Bees in Oranienburg
 

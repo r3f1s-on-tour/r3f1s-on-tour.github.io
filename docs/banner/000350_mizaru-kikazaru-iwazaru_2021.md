@@ -1,21 +1,25 @@
 ---
-nummer: 350
-startLatitude: 52.533167
-startLongitude: 13.412641
-titel: Mizaru, Kikazaru, Iwazaru
+nummer: "350"
+startLatitude: "52.533167"
+startLongitude: "13.412641"
+titel: "Mizaru, Kikazaru, Iwazaru"
 picture: "https://api.bannergress.com/bnrs/pictures/334761ec1815ec8b11b42c6d9105bb24"
-region: Berlin
-country: Deutschland
-completed: 7860
-missions: 18
-date: 2021
+region: "Berlin"
+country: "Deutschland"
+completed: "7860"
+missions: "18"
+date: "2021"
 bg-link: "https://bannergress.com/banner/mizaru-kikazaru-iwazaru-dbe2"
-onyx: 0
+onyx: "0"
 description: "Starte eine Runde durch den Kollwitzkiez entlang des Teutoburger Platz und der Zionkirchsplatz.\nStart und Ende der Runde ist am Senefelderplatz"
-lengthKMeters: 6,02
+lengthKMeters: "6,02"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Mizaru, Kikazaru, Iwazaru"
+slug: "mizaru-kikazaru-iwazaru"
+href: "banner/000350_mizaru-kikazaru-iwazaru_2021.md"
+name: "Mizaru, Kikazaru, Iwazaru"
 ---
 # Mizaru, Kikazaru, Iwazaru
 

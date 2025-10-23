@@ -1,21 +1,25 @@
 ---
-nummer: 279
-startLatitude: 52.553363
-startLongitude: 13.415256
-titel: Pankowsmasher
+nummer: "279"
+startLatitude: "52.553363"
+startLongitude: "13.415256"
+titel: "Pankowsmasher"
 picture: ""
-region: Berlin
-country: Deutschland
-completed: 6480
-missions: 12
-date: 2020
+region: "Berlin"
+country: "Deutschland"
+completed: "6480"
+missions: "12"
+date: "2020"
 bg-link: "https://bannergress.com/banner/pankowsmasher-b978"
-onyx: 0
+onyx: "0"
 description: "Diese Mission beginnt in Pankow und geleitet euch vorbei an wunderschönen Wasserpumpen, Informationstafeln und historischen Bauwerken.  Sie besteht aus 12 Missionen  und bildet ein  einmaliges Banner."
-lengthKMeters: 8,97
+lengthKMeters: "8,97"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Pankowsmasher"
+slug: "pankowsmasher"
+href: "banner/000279_pankowsmasher_2020.md"
+name: "Pankowsmasher"
 ---
 # Pankowsmasher
 

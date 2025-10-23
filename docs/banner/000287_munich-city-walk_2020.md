@@ -1,21 +1,25 @@
 ---
-nummer: 287
-startLatitude: 48.136378
-startLongitude: 11.578512
-titel: Munich city walk
+nummer: "287"
+startLatitude: "48.136378"
+startLongitude: "11.578512"
+titel: "Munich city walk"
 picture: "https://api.bannergress.com/bnrs/pictures/2f4cfb669c81ecdd60c8625a9dc27fea"
-region: München
-country: Deutschland
-completed: 6702
-missions: 12
-date: 2020
+region: "München"
+country: "Deutschland"
+completed: "6702"
+missions: "12"
+date: "2020"
 bg-link: "https://bannergress.com/banner/munich-city-walk-bb17"
-onyx: 0
+onyx: "0"
 description: "A short walk in the inner city. Start east of Marienplatz."
-lengthKMeters: 3,41
+lengthKMeters: "3,41"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Munich city walk"
+slug: "munich-city-walk"
+href: "banner/000287_munich-city-walk_2020.md"
+name: "Munich city walk"
 ---
 # Munich city walk
 

@@ -1,21 +1,25 @@
 ---
-nummer: 467
-startLatitude: 53,557736
-startLongitude: 13,26025
-titel: Millenium Falke
+nummer: "467"
+startLatitude: "53,557736"
+startLongitude: "13,26025"
+titel: "Millenium Falke"
 picture: "https://api.bannergress.com/bnrs/pictures/c0033d99d0ed627372fa4bb5a1b9312b"
-region: Neubrandenburg
-country: Deutschland
-completed: 10.266
-missions: 18
-date: 2022
+region: "Neubrandenburg"
+country: "Deutschland"
+completed: "10.266"
+missions: "18"
+date: "2022"
 bg-link: "https://bannergress.com/banner/millenium-falke-f37e"
-onyx: 0
+onyx: "0"
 description: "Die Missionen führen dich vom Markplatz direkt in den Kulturpark von Neubrandenburg. Erlebe dabei den wunderschönen Tollensesee und die Strände."
-lengthKMeters: 6,455
+lengthKMeters: "6,455"
 umap: ""
 missionDay: ""
 notice: ""
+title: "Millenium Falke"
+slug: "millenium-falke"
+href: "banner/000467_millenium-falke_2022.md"
+name: "Millenium Falke"
 ---
 # Millenium Falke
 

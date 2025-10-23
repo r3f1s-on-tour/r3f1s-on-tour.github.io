@@ -1,21 +1,25 @@
 ---
-nummer: 170
-startLatitude: 52.514424
-startLongitude: 13.474693
-titel: Friedrichshain Nord
+nummer: "170"
+startLatitude: "52.514424"
+startLongitude: "13.474693"
+titel: "Friedrichshain Nord"
 picture: ""
-region: Berlin
-country: Deutschland
-completed: 4122
-missions: 18
-date: 2018
+region: "Berlin"
+country: "Deutschland"
+completed: "4122"
+missions: "18"
+date: "2018"
 bg-link: ""
-onyx: 0
+onyx: "0"
 description: ""
 lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
+title: "Friedrichshain Nord"
+slug: "friedrichshain-nord"
+href: "banner/000170_friedrichshain-nord_2018.md"
+name: "Friedrichshain Nord"
 ---
 # Friedrichshain Nord
 
