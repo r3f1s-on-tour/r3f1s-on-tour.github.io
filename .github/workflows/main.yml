@@ -94,12 +94,13 @@ jobs:
       # 2) Galerie erzeugen (einspaltig, lazy)
       - name: Build banner gallery
         run: |
-          python scripts/make_banner_gallery.py \
-            --root docs \
-            --csv scripts/banner.csv \
-            --banner_dir banner \
-            --outfile gallery.md \
-            --verbose
+          python3 scripts/make_banner_gallery.py \
+          --csv scripts/banner.csv \
+          --root docs \
+          --outfile gallery.md \
+          --verbose \
+          --overwrite \
+          --template template/gallery.md
 
       # optionales Zusatzfile
       - name: Generate banner stats (optional)
