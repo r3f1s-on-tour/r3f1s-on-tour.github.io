@@ -1,15 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-make_banner_stats.py
+make_banner_stats.py  (Variante A: JSON + JS Renderer)
 - Überschreibt stats.md standardmäßig (Option --no-overwrite verhindert das).
 - Erkennt Datum robust (Jahreszahl oder Datum).
 - Zeitraum: vom ersten erkannten Banner-Jahr bis heute (Jahre = inklusive Zählung).
 - Rekursives Scannen von docs/banner (Unterordner inkl.).
 - **Filter**: Es werden ausschließlich Banner-Dateien berücksichtigt, deren Frontmatter ein Feld 'nummer' enthält.
 - Jahresstatistik: Jahr, Banner, Missionen, MissionDays, km gesamt, 500er-Meilensteine (aus kumulativem 'completed').
-- Länder-Statistik: Top-10 (mit Anteil %) + Rest alphabetisch im <details>-Block.
-- Städte-Statistik: Top-20 (mit Anteil %) + Rest alphabetisch im <details>-Block.
+- Länder- & Städte-Statistik: als JSON-Blöcke (für JS-Renderer) + Top-N-Steuerung via data-top.
 - Durchschnittsstatistik: Banner/∅Jahr/∅Monat, Missionen/∅Jahr/∅Monat, km/∅Jahr/∅Monat.
 - Gesamtstatistik: Gesamtbanner, Missionen gesamt, MissionDays gesamt, Gesamt-km, Zeitraum.
 Benötigt: pyyaml
@@ -17,6 +16,7 @@ Benötigt: pyyaml
 import argparse
 import sys
 import re
+import json
 from pathlib import Path
 from datetime import datetime, date
 from collections import Counter, defaultdict
@@ -28,10 +28,6 @@ except ImportError:
     sys.exit(1)
 
 FM_DELIM = re.compile(r'^---\s*$', re.MULTILINE)
-
-# Anzeige-Limits
-TOP_COUNTRIES = 10
-TOP_CITIES = 20
 
 def parse_frontmatter(md_text: str) -> dict:
     parts = FM_DELIM.split(md_text, maxsplit=2)
@@ -80,7 +76,7 @@ def parse_mission_day(v):
     except Exception: return 0
 
 def banner_distance_km(fm: dict) -> float:
-    # interpretiert alle Felder als Kilometer (per Nutzer-Vorgabe)
+    # interpretiert alle Felder als Kilometer
     for k in ("lengthKMeters","lengthKm","distance_km","km","distance","kilometer"):
         if k in fm and fm.get(k) not in (None, ""):
             return parse_float_km(fm.get(k))
@@ -91,6 +87,9 @@ def main():
     ap.add_argument("--banner-dir", default="docs/banner", help="Ordner mit Banner-Markdown")
     ap.add_argument("--out", default="docs/banner/stats.md", help="Zieldatei für Statistik")
     ap.add_argument("--no-overwrite", action="store_true", help="Vorhandene stats.md NICHT überschreiben")
+    # für das JS-Widget: Top-N Steuerung (Standard: Länder 10, Städte 20 – kann im HTML über data-top geändert werden)
+    ap.add_argument("--top-countries", type=int, default=10)
+    ap.add_argument("--top-cities", type=int, default=20)
     args = ap.parse_args()
 
     root = Path(".").resolve()
@@ -109,7 +108,7 @@ def main():
             continue
         text = path.read_text(encoding="utf-8", errors="ignore")
         fm = parse_frontmatter(text)
-        if not fm or "nummer" not in fm:  # nur echte Banner
+        if not fm or "nummer" not in fm:
             continue
 
         dt = parse_date_any(fm.get("date"))
@@ -186,9 +185,21 @@ def main():
         total_missions += ms_sum
         total_mdays += md_sum
 
-    # Länder / Städte
-    countries = Counter(b["country"] for b in banners if b["country"])
-    cities = Counter(b["city"] for b in banners if b["city"])
+    # Länder / Städte -> JSON-Arrays (sorted by count desc, name asc)
+    country_counter = Counter(b["country"] for b in banners if b["country"])
+    city_counter = Counter(b["city"] for b in banners if b["city"])
+
+    countries_sorted = sorted(country_counter.items(), key=lambda x: (-x[1], str(x[0]).lower()))
+    cities_sorted = sorted(city_counter.items(), key=lambda x: (-x[1], str(x[0]).lower()))
+
+    countries_json = json.dumps(
+        [{"name": k, "count": v} for k, v in countries_sorted],
+        ensure_ascii=False
+    )
+    cities_json = json.dumps(
+        [{"name": k, "count": v} for k, v in cities_sorted],
+        ensure_ascii=False
+    )
 
     # Durchschnittswerte (Jahr & Monat)
     avg_banners_year = total_banners / span_years if span_years else 0.0
@@ -225,7 +236,7 @@ def main():
         ""
     ]
 
-    # Jahresstatistik
+    # Jahresstatistik (Markdown-Tabelle beibehalten)
     md += ["## Jahresstatistik", ""]
     if year_rows:
         md += ["| Jahr | Banner | Missionen | MissionDays | km | 500er-Meilensteine |",
@@ -236,51 +247,19 @@ def main():
         md += ["_Keine Jahresdaten gefunden._"]
     md += [""]
 
-    # Länder (Top-10 + Rest alphabetisch in <details>)
+    # Länder – JSON + Widget
     md += ["## Länder (nach Anzahl Banner)", ""]
-    if countries:
-        total = total_banners if total_banners else 1
-        ordered = countries.most_common()
+    md += [f'<div data-banner-stats="json" data-src="countries-data" data-top="{args.top_countries}" data-title="Länder"></div>']
+    md += ['<script id="countries-data" type="application/json">']
+    md += [countries_json]
+    md += ['</script>', ""]
 
-        # Top-N
-        md += ["| Land | Banner | Anteil |", "|:-----|------:|------:|"]
-        for c, v in ordered[:TOP_COUNTRIES]:
-            md += [f"| {c} | {v} | {100.0*v/total:.1f}% |"]
-
-        # Rest alphabetisch im Details-Block
-        remaining = ordered[TOP_COUNTRIES:]
-        if remaining:
-            md += ["", "<details><summary>Weitere Länder (alphabetisch)</summary>", ""]
-            md += ["| Land | Banner | Anteil |", "|:-----|------:|------:|"]
-            for c, v in sorted(remaining, key=lambda x: (str(x[0]).lower(), -x[1])):
-                md += [f"| {c} | {v} | {100.0*v/total:.1f}% |"]
-            md += ["", "</details>", ""]
-    else:
-        md += ["_Keine Länder gefunden._"]
-    md += [""]
-
-    # Städte (Top-20 + Rest alphabetisch in <details>)
+    # Städte – JSON + Widget
     md += ["## Städte (nach Anzahl Banner)", ""]
-    if cities:
-        total = total_banners if total_banners else 1
-        ordered = cities.most_common()
-
-        # Top-N
-        md += ["| Stadt | Banner | Anteil |", "|:------|------:|------:|"]
-        for c, v in ordered[:TOP_CITIES]:
-            md += [f"| {c} | {v} | {100.0*v/total:.1f}% |"]
-
-        # Rest alphabetisch im Details-Block
-        remaining = ordered[TOP_CITIES:]
-        if remaining:
-            md += ["", "<details><summary>Weitere Städte (alphabetisch)</summary>", ""]
-            md += ["| Stadt | Banner | Anteil |", "|:------|------:|------:|"]
-            for c, v in sorted(remaining, key=lambda x: (str(x[0]).lower(), -x[1])):
-                md += [f"| {c} | {v} | {100.0*v/total:.1f}% |"]
-            md += ["", "</details>", ""]
-    else:
-        md += ["_Keine Städte gefunden._"]
-    md += [""]
+    md += [f'<div data-banner-stats="json" data-src="cities-data" data-top="{args.top_cities}" data-title="Städte"></div>']
+    md += ['<script id="cities-data" type="application/json">']
+    md += [cities_json]
+    md += ['</script>', ""]
 
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text("\n".join(md), encoding="utf-8")
