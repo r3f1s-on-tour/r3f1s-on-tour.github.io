@@ -2,33 +2,9 @@
 # -*- coding: utf-8 -*-
 """
 Build a banner gallery page from a CSV.
-
-Features
-- Accepts both NEW and LEGACY flags (compat layer).
-- Reads CSV rows and builds cards (image, title, meta).
-- Computes the same filename pattern as make_banner_markdown.py
-  so links point to the corresponding banner page.
-- Template support:
-    1) If template contains "{{__EACH_BANNER__}}...{{__/EACH_BANNER__}}"
-       it will expand that loop with placeholders.
-    2) Otherwise it replaces "<!-- GALLERY -->" with generated HTML cards.
-- Safe defaults and helpful debug logs.
-
-NEW flags:
-  --csv PATH                input CSV (required unless env BANNER_GALLERY_CSV)
-  --out PATH                output file (default: docs/gallery/index.md)
-  --template PATH           template file (default: template/gallery.md)
-  --pad-width N             zero-pad width for number prefix (default: 6)
-  --overwrite               overwrite output file
-  --debug                   verbose logs to STDERR
-
-LEGACY flags (accepted and mapped/ignored when appropriate):
-  --root ROOT               (legacy) site root; if --outfile given => out = root/outfile
-  --banner_dir DIR          (legacy) ignored (CSV is the source of truth now)
-  --outfile FILE            (legacy) single output file name; maps to --out
-  --verbose                 (legacy) alias for --debug
+(… unveränderte Kopfzeilen / Docstring …)
 """
-import argparse, csv, os, re, sys
+import argparse, csv, os, re, sys, hashlib
 from datetime import datetime
 from typing import Any, Dict, List, Optional
 
@@ -103,10 +79,32 @@ def read_template(path: str) -> str:
     with open(path, "r", encoding="utf-8") as f:
         return f.read()
 
-def write_text(path: str, content: str, overwrite: bool):
+def _sha1(s: str) -> str:
+    return hashlib.sha1(s.encode("utf-8")).hexdigest()
+
+def write_text(path: str, content: str, overwrite: bool, debug: bool):
+    path = os.path.normpath(path)
     os.makedirs(os.path.dirname(path), exist_ok=True)
-    if os.path.exists(path) and not overwrite:
-        raise SystemExit(f"Output exists (use --overwrite): {path}")
+
+    if os.path.exists(path):
+        with open(path, "r", encoding="utf-8") as f:
+            old = f.read()
+        if old == content:
+            dprint(debug, f"No change for {path} (identical content).")
+            # Trotzdem als Erfolg melden, damit CI nicht abbricht:
+            with open(path, "w", encoding="utf-8") as wf:
+                wf.write(content)
+            return
+
+        if not overwrite:
+            raise SystemExit(
+                f"Output exists and differs: {path}\n"
+                f"Tip: pass --overwrite or set BANNER_GALLERY_OVERWRITE=1"
+            )
+        dprint(debug, f"Overwriting {path} (old sha1={_sha1(old)} -> new sha1={_sha1(content)})")
+    else:
+        dprint(debug, f"Creating {path}")
+
     with open(path, "w", encoding="utf-8") as f:
         f.write(content)
 
@@ -132,7 +130,6 @@ def build_card_html(href: str, img: str, title: str, date_de: str, city: str, co
     if city:    meta_bits.append(city)
     if country: meta_bits.append(country)
     meta = " • ".join(meta_bits)
-    # Basic, neutral card HTML (works in plain MkDocs)
     return (
         f'<a class="gallery-card" href="{href}">\n'
         f'  <img src="{img}" alt="{title}">\n'
@@ -144,12 +141,6 @@ def build_card_html(href: str, img: str, title: str, date_de: str, city: str, co
     )
 
 def expand_each_banner(template_text: str, items: List[Dict[str, str]]) -> Optional[str]:
-    """
-    Expand a {{__EACH_BANNER__}} ... {{__/EACH_BANNER__}} block if present.
-    Supported placeholders inside the block:
-      {{__URL__}}, {{__PICTURE__}}, {{__TITLE__}}, {{__DATE_DE__}}, {{__CITY__}}, {{__COUNTRY__}}
-    Returns the expanded text or None if no EACH block was found.
-    """
     m = re.search(r"\{\{__EACH_BANNER__\}\}(.*?)\{\{__/EACH_BANNER__\}\}", template_text, re.DOTALL)
     if not m:
         return None
@@ -176,11 +167,17 @@ def main():
     p.add_argument("--banner_dir", default=None, help="(legacy) ignored (CSV is the source)")
     p.add_argument("--outfile", default=None, help="(legacy) single output file; overrides --out as <root>/<outfile>")
     p.add_argument("--verbose", action="store_true", help="(legacy) alias for --debug")
+    p.add_argument("--force", action="store_true", help="(legacy) alias for --overwrite")
     args = p.parse_args()
 
     # Map legacy -> new
     if args.verbose and not args.debug:
         args.debug = True
+    if args.force and not args.overwrite:
+        args.overwrite = True
+    if os.environ.get("BANNER_GALLERY_OVERWRITE", "").strip() in ("1","true","yes","on"):
+        args.overwrite = True
+
     if args.outfile:
         root = args.root or "."
         args.out = os.path.join(root, args.outfile)
@@ -191,6 +188,9 @@ def main():
         raise SystemExit("error: --csv is required (or set env BANNER_GALLERY_CSV)")
     if not os.path.isfile(csv_path):
         raise SystemExit(f"CSV not found: {csv_path}")
+
+    dprint(args.debug, f"overwrite={args.overwrite}, out={os.path.normpath(args.out)}")
+    dprint(args.debug, f"template={args.template}")
 
     # Read CSV
     rows: List[Dict[str, Any]] = []
@@ -213,7 +213,7 @@ def main():
         date_de  = fmt_date_de(date_iso)
         city     = infer(row, ["city","stadt","ort","location","place"])
         country  = infer(row, ["country","land"])
-        # image
+
         picture = ""
         for k in fieldnames:
             if k.lower() in PICTURE_KEYS:
@@ -221,10 +221,9 @@ def main():
                 if val:
                     picture = val
                     break
-        # link to banner page (same filename pattern as the markdown generator)
+
         md_filename = build_banner_filename(row, idx, args.pad_width)
-        # Most MkDocs setups allow linking without .md, but leave .md to be explicit
-        href = f"banner/{md_filename}"
+        href = f"../banner/{md_filename}" if args.out.endswith("gallery/index.md") else f"banner/{md_filename}"
 
         items.append({
             "URL": href,
@@ -238,12 +237,12 @@ def main():
     # Load template
     tpl = read_template(args.template)
 
-    # 1) Try placeholder loop expansion
+    # 1) Loop expansion
     expanded = expand_each_banner(tpl, items)
     if expanded is not None:
         out_text = expanded
     else:
-        # 2) Otherwise replace <!-- GALLERY --> with generated cards HTML
+        # 2) Replace <!-- GALLERY -->
         cards = []
         for it in items:
             cards.append(
@@ -260,15 +259,14 @@ def main():
         if "<!-- GALLERY -->" in tpl:
             out_text = tpl.replace("<!-- GALLERY -->", cards_html)
         else:
-            # If no placeholder is present, append at the end
             out_text = tpl + "\n\n" + cards_html
 
-    # Auto-hide empty-state box if we wrote cards
+    # Hide empty-state if cards exist
     if "<div class=\"gallery-empty\"" in out_text and "gallery-card" in out_text:
         out_text = out_text.replace('id="gallery-empty"', 'id="gallery-empty" style="display:none"')
 
-    # Write output
-    write_text(args.out, out_text, overwrite=args.overwrite)
+    # Write output (with explicit overwrite handling)
+    write_text(args.out, out_text, overwrite=args.overwrite, debug=args.debug)
     print(f"✅ Gallery written: {os.path.abspath(args.out)}")
 
 if __name__ == "__main__":
