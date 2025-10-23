@@ -23,7 +23,7 @@ name: "Northern Legends"
 ---
 # Northern Legends
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Berlin • Deutschland
 
 ![Northern Legends](https://api.bannergress.com/bnrs/pictures/bbf03454c1ee32bd101d8b31f92dd5cf)
 

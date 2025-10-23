@@ -23,7 +23,7 @@ name: "Rundum den Lehnitzsee"
 ---
 # Rundum den Lehnitzsee
 
-*2019* • {{__region__}} • Deutschland
+*2019* • Oranienburg • Deutschland
 
 
 

@@ -23,7 +23,7 @@ name: "Museumshafen Greifswald"
 ---
 # Museumshafen Greifswald
 
-*2015* • {{__region__}} • Deutschland
+*2015* • Greifswald • Deutschland
 
 ![Museumshafen Greifswald](https://api.bannergress.com/bnrs/pictures/01328fd0e24c9c0a82a36a93613be784)
 

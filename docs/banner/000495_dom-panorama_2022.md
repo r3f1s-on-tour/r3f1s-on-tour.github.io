@@ -23,7 +23,7 @@ name: "Dom-Panorama"
 ---
 # Dom-Panorama
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Köln • Deutschland
 
 ![Dom-Panorama](https://api.bannergress.com/bnrs/pictures/da5038c064c41416c54e3fde7d3042a6)
 

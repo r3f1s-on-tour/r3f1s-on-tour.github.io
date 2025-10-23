@@ -23,7 +23,7 @@ name: "Banksy - Stop and Search"
 ---
 # Banksy - Stop and Search
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Berlin • Deutschland
 
 ![Banksy - Stop and Search](https://api.bannergress.com/bnrs/pictures/9fa8dee798ddf525290fe2b7ab8b2e41)
 

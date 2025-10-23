@@ -23,7 +23,7 @@ name: "Playing Frogs NB"
 ---
 # Playing Frogs NB
 
-*2025* • {{__region__}} • Deutschland
+*2025* • Neubrandenburg • Deutschland
 
 ![Playing Frogs NB](https://api.bannergress.com/bnrs/pictures/38c1dd490e87d10690357af83dccbb59)
 

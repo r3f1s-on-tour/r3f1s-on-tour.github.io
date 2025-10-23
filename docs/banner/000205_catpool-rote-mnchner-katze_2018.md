@@ -23,7 +23,7 @@ name: "Catpool (Rote Münchner Katze)"
 ---
 # Catpool (Rote Münchner Katze)
 
-*2018* • {{__region__}} • Deutschland
+*2018* • München • Deutschland
 
 
 

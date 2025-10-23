@@ -23,7 +23,7 @@ name: "Echo Brighton"
 ---
 # Echo Brighton
 
-*2023* • {{__region__}} • Deutschland
+*2023* • Strasburg (Uckermark) • Deutschland
 
 
 

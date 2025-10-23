@@ -23,7 +23,7 @@ name: "Find the Alien"
 ---
 # Find the Alien
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Düsseldorf • Deutschland
 
 ![Find the Alien](https://api.bannergress.com/bnrs/pictures/abf6cf5b89cb3c4d941e4591cc9d2cab)
 

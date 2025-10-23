@@ -23,7 +23,7 @@ name: "Dresden Artistic Skyline"
 ---
 # Dresden Artistic Skyline
 
-*2019* • {{__region__}} • Deutschland
+*2019* • Dresden • Deutschland
 
 
 

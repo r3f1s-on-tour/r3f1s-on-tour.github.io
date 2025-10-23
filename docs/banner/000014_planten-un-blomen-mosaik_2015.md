@@ -23,7 +23,7 @@ name: "Planten un Blomen Mosaik"
 ---
 # Planten un Blomen Mosaik
 
-*2015* • {{__region__}} • Deutschland
+*2015* • Hamburg • Deutschland
 
 ![Planten un Blomen Mosaik](https://api.bannergress.com/bnrs/pictures/a844bc123043e26a652f2fef6fa42d3f)
 

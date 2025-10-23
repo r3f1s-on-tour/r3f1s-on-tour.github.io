@@ -23,7 +23,7 @@ name: "Wiener Platz"
 ---
 # Wiener Platz
 
-*2017* • {{__region__}} • Deutschland
+*2017* • München • Deutschland
 
 ![Wiener Platz](https://api.bannergress.com/bnrs/pictures/017bedff3d4bbcaf87c58d14b36ffd1e)
 

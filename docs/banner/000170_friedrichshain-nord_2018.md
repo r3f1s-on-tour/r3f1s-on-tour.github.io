@@ -23,7 +23,7 @@ name: "Friedrichshain Nord"
 ---
 # Friedrichshain Nord
 
-*2018* • {{__region__}} • Deutschland
+*2018* • Berlin • Deutschland
 
 
 

@@ -23,7 +23,7 @@ name: "Zürich Altstadt"
 ---
 # Zürich Altstadt
 
-*2017* • {{__region__}} • Schweiz/Suisse/Svizzera/Svizra
+*2017* • Zürich • Schweiz/Suisse/Svizzera/Svizra
 
 ![Zürich Altstadt](https://api.bannergress.com/bnrs/pictures/1d206fb325d07ff960cb466b2ca723e1)
 

@@ -23,7 +23,7 @@ name: "FS Berlin Halloween"
 ---
 # FS Berlin Halloween
 
-*2019* • {{__region__}} • Deutschland
+*2019* • Berlin • Deutschland
 
 
 

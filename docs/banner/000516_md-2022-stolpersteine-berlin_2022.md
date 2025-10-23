@@ -23,7 +23,7 @@ name: "MD 2022: Stolpersteine, Berlin"
 ---
 # MD 2022: Stolpersteine, Berlin
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Berlin • Deutschland
 
 
 

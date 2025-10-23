@@ -23,7 +23,7 @@ name: "An der Paulskirche"
 ---
 # An der Paulskirche
 
-*2018* • {{__region__}} • Deutschland
+*2018* • Frankfurt am Main • Deutschland
 
 
 

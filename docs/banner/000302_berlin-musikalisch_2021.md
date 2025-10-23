@@ -23,7 +23,7 @@ name: "Berlin musikalisch"
 ---
 # Berlin musikalisch
 
-*2021* • {{__region__}} • Deutschland
+*2021* • Berlin • Deutschland
 
 ![Berlin musikalisch](https://api.bannergress.com/bnrs/pictures/a89817eb02ca154c8288464ef5510dc1)
 

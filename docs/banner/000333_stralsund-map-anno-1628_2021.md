@@ -23,7 +23,7 @@ name: "Stralsund Map Anno 1628"
 ---
 # Stralsund Map Anno 1628
 
-*2021* • {{__region__}} • Deutschland
+*2021* • Stralsund • Deutschland
 
 
 

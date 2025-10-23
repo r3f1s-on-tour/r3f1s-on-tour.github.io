@@ -23,7 +23,7 @@ name: "Victory of Joker"
 ---
 # Victory of Joker
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Wuppertal • Deutschland
 
 ![Victory of Joker](https://api.bannergress.com/bnrs/pictures/944f3a74ebc07fb46703491c0a54556a)
 

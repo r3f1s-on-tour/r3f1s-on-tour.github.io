@@ -23,7 +23,7 @@ name: "Toast Anatomy"
 ---
 # Toast Anatomy
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Strasburg (Uckermark) • Deutschland
 
 
 

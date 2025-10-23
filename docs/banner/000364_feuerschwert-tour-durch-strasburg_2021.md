@@ -23,7 +23,7 @@ name: "Feuerschwert Tour durch Strasburg"
 ---
 # Feuerschwert Tour durch Strasburg
 
-*2021* • {{__region__}} • Deutschland
+*2021* • Strasburg (Uckermark) • Deutschland
 
 
 

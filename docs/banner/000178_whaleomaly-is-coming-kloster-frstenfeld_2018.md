@@ -23,7 +23,7 @@ name: "Whaleomaly is Coming [Kloster Fürstenfeld]"
 ---
 # Whaleomaly is Coming [Kloster Fürstenfeld]
 
-*2018* • {{__region__}} • Deutschland
+*2018* • Fürstenfeldbruck • Deutschland
 
 ![Whaleomaly is Coming [Kloster Fürstenfeld]](https://api.bannergress.com/bnrs/pictures/e34655fb861a32735a0c084ebbd3bd52)
 

@@ -23,7 +23,7 @@ name: "Weißenfels Stadt an der Saale"
 ---
 # Weißenfels Stadt an der Saale
 
-*2018* • {{__region__}} • Deutschland
+*2018* • Weißenfels • Deutschland
 
 ![Weißenfels Stadt an der Saale](https://api.bannergress.com/bnrs/pictures/3db3db3b1cd2be01b8bf9b55aa6a3dc2)
 

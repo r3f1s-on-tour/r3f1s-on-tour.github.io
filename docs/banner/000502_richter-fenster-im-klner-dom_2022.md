@@ -23,7 +23,7 @@ name: "Richter Fenster im Kölner Dom"
 ---
 # Richter Fenster im Kölner Dom
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Köln • Deutschland
 
 ![Richter Fenster im Kölner Dom](https://api.bannergress.com/bnrs/pictures/6ec737c556775c4c488cff75ae1e450c)
 

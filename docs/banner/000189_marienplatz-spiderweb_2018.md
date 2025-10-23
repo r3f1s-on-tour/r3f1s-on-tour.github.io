@@ -23,7 +23,7 @@ name: "Marienplatz SPIDERWEB"
 ---
 # Marienplatz SPIDERWEB
 
-*2018* • {{__region__}} • Deutschland
+*2018* • München • Deutschland
 
 
 

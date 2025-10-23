@@ -23,7 +23,7 @@ name: "Festung Hohensalzburg"
 ---
 # Festung Hohensalzburg
 
-*2019* • {{__region__}} • Österreich
+*2019* • Salzburg • Österreich
 
 ![Festung Hohensalzburg](https://api.bannergress.com/bnrs/pictures/b437529817bcc6d5425441abf3144440)
 

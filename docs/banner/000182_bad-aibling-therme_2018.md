@@ -23,7 +23,7 @@ name: "Bad Aibling - Therme"
 ---
 # Bad Aibling - Therme
 
-*2018* • {{__region__}} • Deutschland
+*2018* • Willing • Deutschland
 
 
 

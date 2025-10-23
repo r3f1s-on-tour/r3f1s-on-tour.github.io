@@ -23,7 +23,7 @@ name: "Nymphenburg"
 ---
 # Nymphenburg
 
-*2018* • {{__region__}} • Deutschland
+*2018* • München • Deutschland
 
 ![Nymphenburg](https://api.bannergress.com/bnrs/pictures/0cbba4493282badefafab15466afc9ab)
 

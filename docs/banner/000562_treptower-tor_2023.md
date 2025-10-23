@@ -23,7 +23,7 @@ name: "Treptower Tor"
 ---
 # Treptower Tor
 
-*2023* • {{__region__}} • Deutschland
+*2023* • Neubrandenburg • Deutschland
 
 ![Treptower Tor](https://api.bannergress.com/bnrs/pictures/5f7927c0f266221315c11d67fd512db6)
 

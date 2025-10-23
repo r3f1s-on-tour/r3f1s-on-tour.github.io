@@ -23,7 +23,7 @@ name: "Toast Run Part 2"
 ---
 # Toast Run Part 2
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Oranienburg • Deutschland
 
 
 

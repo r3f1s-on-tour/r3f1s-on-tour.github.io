@@ -23,7 +23,7 @@ name: "Mr Pumpkin Slasher in Oranienburg - Part 2"
 ---
 # Mr Pumpkin Slasher in Oranienburg - Part 2
 
-*2021* • {{__region__}} • Deutschland
+*2021* • Oranienburg • Deutschland
 
 
 

@@ -23,7 +23,7 @@ name: "Enlightened Mission"
 ---
 # Enlightened Mission
 
-*2023* • {{__region__}} • Deutschland
+*2023* • Hoyerswerda - Wojerecy • Deutschland
 
 ![Enlightened Mission](https://api.bannergress.com/bnrs/pictures/fdc0a14c1205c69eb50b5f9b8bfa4371)
 

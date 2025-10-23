@@ -23,7 +23,7 @@ name: "Spaziergang durch Senftenberg"
 ---
 # Spaziergang durch Senftenberg
 
-*2023* • {{__region__}} • Deutschland
+*2023* • Senftenberg - Zły Komorow • Deutschland
 
 ![Spaziergang durch Senftenberg](https://api.bannergress.com/bnrs/pictures/7b13bb8094f44ddd4b30776d91c0caaf)
 

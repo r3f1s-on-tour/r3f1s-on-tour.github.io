@@ -23,7 +23,7 @@ name: "Augsburg im Januar"
 ---
 # Augsburg im Januar
 
-*2018* • {{__region__}} • Deutschland
+*2018* • Augsburg • Deutschland
 
 ![Augsburg im Januar](https://api.bannergress.com/bnrs/pictures/a9b04629a49ec1e2b5f13c1fad7f785a)
 

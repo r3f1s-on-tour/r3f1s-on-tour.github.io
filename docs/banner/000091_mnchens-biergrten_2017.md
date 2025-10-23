@@ -23,7 +23,7 @@ name: "Münchens Biergärten"
 ---
 # Münchens Biergärten
 
-*2017* • {{__region__}} • Deutschland
+*2017* • München • Deutschland
 
 
 

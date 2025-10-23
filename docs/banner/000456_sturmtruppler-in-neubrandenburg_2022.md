@@ -23,7 +23,7 @@ name: "Sturmtruppler in Neubrandenburg"
 ---
 # Sturmtruppler in Neubrandenburg
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Neubrandenburg • Deutschland
 
 ![Sturmtruppler in Neubrandenburg](https://api.bannergress.com/bnrs/pictures/f4c34f53c0e4612d09d9bb4302e5533a)
 

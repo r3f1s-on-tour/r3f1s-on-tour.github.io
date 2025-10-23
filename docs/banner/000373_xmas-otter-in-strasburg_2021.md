@@ -23,7 +23,7 @@ name: "XMas Otter in Strasburg"
 ---
 # XMas Otter in Strasburg
 
-*2021* • {{__region__}} • Deutschland
+*2021* • Strasburg (Uckermark) • Deutschland
 
 
 

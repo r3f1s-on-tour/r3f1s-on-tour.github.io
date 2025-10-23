@@ -23,7 +23,7 @@ name: "Augsburg im Juni"
 ---
 # Augsburg im Juni
 
-*2018* • {{__region__}} • Deutschland
+*2018* • Augsburg • Deutschland
 
 
 

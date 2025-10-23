@@ -23,7 +23,7 @@ name: "Pinguine Tour in Oranienburg Part 2"
 ---
 # Pinguine Tour in Oranienburg Part 2
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Oranienburg • Deutschland
 
 
 

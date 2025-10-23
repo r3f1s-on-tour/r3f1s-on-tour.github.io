@@ -23,7 +23,7 @@ name: "Whaleomaly Is Here"
 ---
 # Whaleomaly Is Here
 
-*2018* • {{__region__}} • Österreich
+*2018* • Oberösterreich • Österreich
 
 ![Whaleomaly Is Here](https://api.bannergress.com/bnrs/pictures/7ef3c3398c4b6d2c6a3cb7f6ea40f196)
 

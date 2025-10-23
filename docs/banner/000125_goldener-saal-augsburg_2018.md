@@ -23,7 +23,7 @@ name: "Goldener Saal Augsburg"
 ---
 # Goldener Saal Augsburg
 
-*2018* • {{__region__}} • Deutschland
+*2018* • Augsburg • Deutschland
 
 
 

@@ -23,7 +23,7 @@ name: "Rund um die Ludwigskirche"
 ---
 # Rund um die Ludwigskirche
 
-*2017* • {{__region__}} • Deutschland
+*2017* • München • Deutschland
 
 ![Rund um die Ludwigskirche](https://api.bannergress.com/bnrs/pictures/41194c44e62f228147d66dbcb6a8e51b)
 

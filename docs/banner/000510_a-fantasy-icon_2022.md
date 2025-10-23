@@ -23,7 +23,7 @@ name: "A fantasy Icon"
 ---
 # A fantasy Icon
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Wuppertal • Deutschland
 
 ![A fantasy Icon](https://api.bannergress.com/bnrs/pictures/66a9ba980385fbfd4bfb51078f4d280e)
 

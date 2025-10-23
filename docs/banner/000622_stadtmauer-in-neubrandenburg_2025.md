@@ -23,7 +23,7 @@ name: "Stadtmauer in Neubrandenburg"
 ---
 # Stadtmauer in Neubrandenburg
 
-*2025* • {{__region__}} • Deutschland
+*2025* • Neubrandenburg • Deutschland
 
 ![Stadtmauer in Neubrandenburg](https://api.bannergress.com/bnrs/pictures/a3e4a93dea7c3b00d11dfa7c64c2d3d2)
 

@@ -23,7 +23,7 @@ name: "For the Empire Dresden"
 ---
 # For the Empire Dresden
 
-*2019* • {{__region__}} • Deutschland
+*2019* • Dresden • Deutschland
 
 
 

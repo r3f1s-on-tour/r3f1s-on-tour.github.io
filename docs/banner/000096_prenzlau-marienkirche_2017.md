@@ -23,7 +23,7 @@ name: "Prenzlau Marienkirche"
 ---
 # Prenzlau Marienkirche
 
-*2017* • {{__region__}} • Deutschland
+*2017* • Prenzlau • Deutschland
 
 ![Prenzlau Marienkirche](https://api.bannergress.com/bnrs/pictures/570a69dff1498e3c55c99c9b6b73155b)
 

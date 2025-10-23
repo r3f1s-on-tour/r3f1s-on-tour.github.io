@@ -23,7 +23,7 @@ name: "Heart Core Beat Aibling"
 ---
 # Heart Core Beat Aibling
 
-*2018* • {{__region__}} • Deutschland
+*2018* • Bad Aibling • Deutschland
 
 
 

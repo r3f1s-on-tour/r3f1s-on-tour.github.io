@@ -23,7 +23,7 @@ name: "Visit Cottbus"
 ---
 # Visit Cottbus
 
-*2023* • {{__region__}} • Deutschland
+*2023* • Cottbus - Chóśebuz • Deutschland
 
 ![Visit Cottbus](https://api.bannergress.com/bnrs/pictures/d0b5f523e3b86a0b7c9c3e7e5a069b7d)
 

@@ -23,7 +23,7 @@ name: "Second Sunday - February 2022"
 ---
 # Second Sunday - February 2022
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Oranienburg • Deutschland
 
 
 

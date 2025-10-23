@@ -23,7 +23,7 @@ name: "Spooky Second Sunday - Oktober 2022"
 ---
 # Spooky Second Sunday - Oktober 2022
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Oranienburg • Deutschland
 
 ![Spooky Second Sunday - Oktober 2022](https://api.bannergress.com/bnrs/pictures/acefba91bada626723bc788acb785537)
 

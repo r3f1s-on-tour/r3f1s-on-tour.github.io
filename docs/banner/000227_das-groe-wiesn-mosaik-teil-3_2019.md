@@ -23,7 +23,7 @@ name: "Das Große Wiesn Mosaik Teil 3"
 ---
 # Das Große Wiesn Mosaik Teil 3
 
-*2019* • {{__region__}} • Deutschland
+*2019* • München • Deutschland
 
 
 

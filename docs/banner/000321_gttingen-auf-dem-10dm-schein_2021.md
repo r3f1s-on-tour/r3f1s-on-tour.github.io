@@ -23,7 +23,7 @@ name: "Göttingen auf dem 10DM Schein"
 ---
 # Göttingen auf dem 10DM Schein
 
-*2021* • {{__region__}} • Deutschland
+*2021* • Göttingen • Deutschland
 
 
 

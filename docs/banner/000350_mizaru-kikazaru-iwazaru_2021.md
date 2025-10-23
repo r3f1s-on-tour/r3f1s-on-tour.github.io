@@ -23,7 +23,7 @@ name: "Mizaru, Kikazaru, Iwazaru"
 ---
 # Mizaru, Kikazaru, Iwazaru
 
-*2021* • {{__region__}} • Deutschland
+*2021* • Berlin • Deutschland
 
 ![Mizaru, Kikazaru, Iwazaru](https://api.bannergress.com/bnrs/pictures/334761ec1815ec8b11b42c6d9105bb24)
 

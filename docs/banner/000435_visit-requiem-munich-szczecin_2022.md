@@ -23,7 +23,7 @@ name: "Visit Requiem Munich - Szczecin"
 ---
 # Visit Requiem Munich - Szczecin
 
-*2022* • {{__region__}} • Polska
+*2022* • Szczecin • Polska
 
 ![Visit Requiem Munich - Szczecin](https://api.bannergress.com/bnrs/pictures/2ea1dfa09712f37892b7617d14ea3b91)
 

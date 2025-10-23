@@ -23,7 +23,7 @@ name: "Binz auf Rügen"
 ---
 # Binz auf Rügen
 
-*2015* • {{__region__}} • Deutschland
+*2015* • Binz • Deutschland
 
 
 

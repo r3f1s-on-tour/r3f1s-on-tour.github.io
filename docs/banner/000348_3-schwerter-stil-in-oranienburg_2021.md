@@ -23,7 +23,7 @@ name: "3 Schwerter Stil in Oranienburg"
 ---
 # 3 Schwerter Stil in Oranienburg
 
-*2021* • {{__region__}} • Deutschland
+*2021* • Oranienburg • Deutschland
 
 
 

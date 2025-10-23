@@ -23,7 +23,7 @@ name: "Pandion haliaetus"
 ---
 # Pandion haliaetus
 
-*2019* • {{__region__}} • Deutschland
+*2019* • Röbel/Müritz • Deutschland
 
 
 

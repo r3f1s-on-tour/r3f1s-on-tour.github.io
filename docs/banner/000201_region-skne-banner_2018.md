@@ -23,7 +23,7 @@ name: "Region Skåne Banner"
 ---
 # Region Skåne Banner
 
-*2018* • {{__region__}} • Sverige
+*2018* • Malmö • Sverige
 
 
 

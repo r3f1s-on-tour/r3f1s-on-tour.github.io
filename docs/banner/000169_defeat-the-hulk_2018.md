@@ -23,7 +23,7 @@ name: "Defeat the Hulk"
 ---
 # Defeat the Hulk
 
-*2018* • {{__region__}} • Deutschland
+*2018* • Berlin • Deutschland
 
 ![Defeat the Hulk](https://api.bannergress.com/bnrs/pictures/d74f425a7878e1a0b7b3060823c637f2)
 

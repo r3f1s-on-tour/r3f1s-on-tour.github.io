@@ -23,7 +23,7 @@ name: "Holzkirchen"
 ---
 # Holzkirchen
 
-*2018* • {{__region__}} • Deutschland
+*2018* • Marschall • Deutschland
 
 
 

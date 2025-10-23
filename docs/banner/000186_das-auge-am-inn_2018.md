@@ -23,7 +23,7 @@ name: "Das Auge am Inn"
 ---
 # Das Auge am Inn
 
-*2018* • {{__region__}} • Deutschland
+*2018* • Rosenheim • Deutschland
 
 
 

@@ -23,7 +23,7 @@ name: "Erobere Woldegk"
 ---
 # Erobere Woldegk
 
-*2016* • {{__region__}} • Deutschland
+*2016* • Woldegk • Deutschland
 
 ![Erobere Woldegk](https://api.bannergress.com/bnrs/pictures/3c2830ae35ae267284d887f7097ce367)
 

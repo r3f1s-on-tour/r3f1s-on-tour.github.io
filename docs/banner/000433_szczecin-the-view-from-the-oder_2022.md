@@ -23,7 +23,7 @@ name: "Szczecin, the view from the Oder"
 ---
 # Szczecin, the view from the Oder
 
-*2022* • {{__region__}} • Polska
+*2022* • Szczecin • Polska
 
 ![Szczecin, the view from the Oder](https://api.bannergress.com/bnrs/pictures/1137e673cfebf27eeb9465f2754c7780)
 

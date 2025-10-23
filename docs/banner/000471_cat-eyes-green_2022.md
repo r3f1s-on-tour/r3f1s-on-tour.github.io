@@ -23,7 +23,7 @@ name: "Cat Eyes Green"
 ---
 # Cat Eyes Green
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Berlin • Deutschland
 
 ![Cat Eyes Green](https://api.bannergress.com/bnrs/pictures/182670de155c6ecee8cbd731866220ff)
 

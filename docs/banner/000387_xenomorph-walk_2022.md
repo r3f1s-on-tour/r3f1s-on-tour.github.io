@@ -23,7 +23,7 @@ name: "Xenomorph Walk"
 ---
 # Xenomorph Walk
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Berlin • Deutschland
 
 ![Xenomorph Walk](https://api.bannergress.com/bnrs/pictures/a104bfc2d0faab1edba420f6b82cbfa9)
 

@@ -23,7 +23,7 @@ name: "Göttingen Skyline"
 ---
 # Göttingen Skyline
 
-*2021* • {{__region__}} • Deutschland
+*2021* • Göttingen • Deutschland
 
 
 

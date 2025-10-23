@@ -23,7 +23,7 @@ name: "Mission Day Nürnberg"
 ---
 # Mission Day Nürnberg
 
-*2016* • {{__region__}} • Deutschland
+*2016* • Nürnberg • Deutschland
 
 
 

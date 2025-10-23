@@ -23,7 +23,7 @@ name: "Green Phoenix"
 ---
 # Green Phoenix
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Bergisch Gladbach • Deutschland
 
 ![Green Phoenix](https://api.bannergress.com/bnrs/pictures/0e6a5917c72dad760b4cfe201e90e9f5)
 

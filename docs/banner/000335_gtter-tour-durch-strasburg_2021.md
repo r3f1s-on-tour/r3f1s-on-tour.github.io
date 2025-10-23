@@ -23,7 +23,7 @@ name: "Götter Tour durch Strasburg"
 ---
 # Götter Tour durch Strasburg
 
-*2021* • {{__region__}} • Deutschland
+*2021* • Strasburg (Uckermark) • Deutschland
 
 
 

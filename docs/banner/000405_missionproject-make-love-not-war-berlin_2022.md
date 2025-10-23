@@ -23,7 +23,7 @@ name: "#MissionProject Make Love Not War Berlin"
 ---
 # #MissionProject Make Love Not War Berlin
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Berlin • Deutschland
 
 ![#MissionProject Make Love Not War Berlin](https://api.bannergress.com/bnrs/pictures/157bba3f751c31c82aa832552c721f58)
 

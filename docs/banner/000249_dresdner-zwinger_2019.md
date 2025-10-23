@@ -23,7 +23,7 @@ name: "Dresdner Zwinger"
 ---
 # Dresdner Zwinger
 
-*2019* • {{__region__}} • Deutschland
+*2019* • Dresden • Deutschland
 
 
 

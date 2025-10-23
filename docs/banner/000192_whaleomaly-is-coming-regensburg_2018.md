@@ -23,7 +23,7 @@ name: "Whaleomaly is Coming Regensburg"
 ---
 # Whaleomaly is Coming Regensburg
 
-*2018* • {{__region__}} • Deutschland
+*2018* • Regensburg • Deutschland
 
 
 

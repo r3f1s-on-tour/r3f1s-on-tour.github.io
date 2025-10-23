@@ -23,7 +23,7 @@ name: "Catwalk Palina"
 ---
 # Catwalk Palina
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Berlin • Deutschland
 
 
 

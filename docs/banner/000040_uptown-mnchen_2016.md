@@ -23,7 +23,7 @@ name: "Uptown München"
 ---
 # Uptown München
 
-*2016* • {{__region__}} • Deutschland
+*2016* • München • Deutschland
 
 ![Uptown München](https://api.bannergress.com/bnrs/pictures/a295e76d39c5950cbc83463f55857a90)
 

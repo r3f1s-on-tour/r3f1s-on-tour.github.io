@@ -23,7 +23,7 @@ name: "May the force be with you Malmö"
 ---
 # May the force be with you Malmö
 
-*2018* • {{__region__}} • Sverige
+*2018* • Malmö • Sverige
 
 
 

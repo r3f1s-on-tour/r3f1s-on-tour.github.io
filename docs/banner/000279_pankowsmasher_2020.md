@@ -23,7 +23,7 @@ name: "Pankowsmasher"
 ---
 # Pankowsmasher
 
-*2020* • {{__region__}} • Deutschland
+*2020* • Berlin • Deutschland
 
 
 

@@ -23,7 +23,7 @@ name: "Manzelbrunnen"
 ---
 # Manzelbrunnen
 
-*2022* • {{__region__}} • Polska
+*2022* • Szczecin • Polska
 
 ![Manzelbrunnen](https://api.bannergress.com/bnrs/pictures/27731c7eed356342597202a124dc7155)
 

@@ -23,7 +23,7 @@ name: "Zombie Apokalypse"
 ---
 # Zombie Apokalypse
 
-*2017* • {{__region__}} • Deutschland
+*2017* • Webling • Deutschland
 
 ![Zombie Apokalypse](https://api.bannergress.com/bnrs/pictures/5af621cc1fd0fe4e83ab4d00eea6c11a)
 

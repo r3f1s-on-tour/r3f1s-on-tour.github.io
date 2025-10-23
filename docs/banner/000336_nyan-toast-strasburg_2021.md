@@ -23,7 +23,7 @@ name: "Nyan Toast - Strasburg"
 ---
 # Nyan Toast - Strasburg
 
-*2021* • {{__region__}} • Deutschland
+*2021* • Strasburg (Uckermark) • Deutschland
 
 
 

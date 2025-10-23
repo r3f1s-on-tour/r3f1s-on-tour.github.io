@@ -23,7 +23,7 @@ name: "Mallorca Skyline"
 ---
 # Mallorca Skyline
 
-*2018* • {{__region__}} • España
+*2018* • Palma • España
 
 
 

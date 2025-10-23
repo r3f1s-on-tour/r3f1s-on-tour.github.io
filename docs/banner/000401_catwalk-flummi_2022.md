@@ -23,7 +23,7 @@ name: "Catwalk Flummi"
 ---
 # Catwalk Flummi
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Berlin • Deutschland
 
 ![Catwalk Flummi](https://api.bannergress.com/bnrs/pictures/7f786041d09e3f569238527184afdc87)
 

@@ -23,7 +23,7 @@ name: "Kirche in Birkenwerder"
 ---
 # Kirche in Birkenwerder
 
-*2023* • {{__region__}} • Deutschland
+*2023* • Birkenwerder • Deutschland
 
 ![Kirche in Birkenwerder](https://api.bannergress.com/bnrs/pictures/816c29e707a3870739747459dff43ee6)
 

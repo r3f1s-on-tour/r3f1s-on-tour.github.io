@@ -23,7 +23,7 @@ name: "RetroGaming - Pacman"
 ---
 # RetroGaming - Pacman
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Pasewalk • Deutschland
 
 ![RetroGaming - Pacman](https://api.bannergress.com/bnrs/pictures/515657e1428c309d3271c0e1562f5527)
 

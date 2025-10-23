@@ -23,7 +23,7 @@ name: "Deifel in Neubrandenburg"
 ---
 # Deifel in Neubrandenburg
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Neubrandenburg • Deutschland
 
 
 

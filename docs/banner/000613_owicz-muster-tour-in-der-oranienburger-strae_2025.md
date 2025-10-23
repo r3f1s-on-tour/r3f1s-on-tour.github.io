@@ -23,7 +23,7 @@ name: "Łowicz-Muster Tour in der Oranienburger Straße"
 ---
 # Łowicz-Muster Tour in der Oranienburger Straße
 
-*2025* • {{__region__}} • Deutschland
+*2025* • Berlin • Deutschland
 
 ![Łowicz-Muster Tour in der Oranienburger Straße](https://api.bannergress.com/bnrs/pictures/4eb320933eceae6520fde68d35d23d05)
 

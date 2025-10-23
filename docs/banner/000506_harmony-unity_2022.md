@@ -23,7 +23,7 @@ name: "Harmony & Unity"
 ---
 # Harmony & Unity
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Düsseldorf • Deutschland
 
 ![Harmony & Unity](https://api.bannergress.com/bnrs/pictures/052ed06117552afdf70a69b31bbd2109)
 

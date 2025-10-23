@@ -23,7 +23,7 @@ name: "Domberg-Mosaik"
 ---
 # Domberg-Mosaik
 
-*2017* • {{__region__}} • Deutschland
+*2017* • Freising • Deutschland
 
 ![Domberg-Mosaik](https://api.bannergress.com/bnrs/pictures/95d8726bc1d325192bbca93502f70816)
 

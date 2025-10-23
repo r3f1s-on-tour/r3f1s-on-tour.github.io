@@ -23,7 +23,7 @@ name: "Know Your Doctor"
 ---
 # Know Your Doctor
 
-*2017* • {{__region__}} • Deutschland
+*2017* • Eching • Deutschland
 
 ![Know Your Doctor](https://api.bannergress.com/bnrs/pictures/8b268421b1b460fa6bd0ec140cd29265)
 

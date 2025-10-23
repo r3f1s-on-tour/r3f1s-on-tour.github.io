@@ -23,7 +23,7 @@ name: "World Blood Donor Day 2022 - Oranienburg"
 ---
 # World Blood Donor Day 2022 - Oranienburg
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Oranienburg • Deutschland
 
 ![World Blood Donor Day 2022 - Oranienburg](https://api.bannergress.com/bnrs/pictures/ca87f1b6d949b49be9708f22d91243f0)
 

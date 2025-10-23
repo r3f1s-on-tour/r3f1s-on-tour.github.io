@@ -23,7 +23,7 @@ name: "Tour de Cottbus"
 ---
 # Tour de Cottbus
 
-*2023* • {{__region__}} • Deutschland
+*2023* • Cottbus - Chóśebuz • Deutschland
 
 ![Tour de Cottbus](https://api.bannergress.com/bnrs/pictures/3f258f0ce5e2c5102ec9311981f34cb8)
 

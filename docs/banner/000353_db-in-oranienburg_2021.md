@@ -23,7 +23,7 @@ name: "DB in Oranienburg"
 ---
 # DB in Oranienburg
 
-*2021* • {{__region__}} • Deutschland
+*2021* • Oranienburg • Deutschland
 
 
 

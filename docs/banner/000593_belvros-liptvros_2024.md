@@ -23,7 +23,7 @@ name: "Belváros-Lipótváros"
 ---
 # Belváros-Lipótváros
 
-*2024* • {{__region__}} • Magyarország
+*2024* • Budapest • Magyarország
 
 ![Belváros-Lipótváros](https://api.bannergress.com/bnrs/pictures/9b37d605591bc696e5dc8d4849919780)
 

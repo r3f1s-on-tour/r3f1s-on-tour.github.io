@@ -23,7 +23,7 @@ name: "Das Stralsunder Rathaus"
 ---
 # Das Stralsunder Rathaus
 
-*2021* • {{__region__}} • Deutschland
+*2021* • Stralsund • Deutschland
 
 
 

@@ -23,7 +23,7 @@ name: "CALAVERAS MEXICANAS"
 ---
 # CALAVERAS MEXICANAS
 
-*2024* • {{__region__}} • España
+*2024* • València • España
 
 ![CALAVERAS MEXICANAS](https://api.bannergress.com/bnrs/pictures/eccdc68e6b1708f73455329bc55f459c)
 

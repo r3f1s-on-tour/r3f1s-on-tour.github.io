@@ -23,7 +23,7 @@ name: "Millenium Falke"
 ---
 # Millenium Falke
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Neubrandenburg • Deutschland
 
 ![Millenium Falke](https://api.bannergress.com/bnrs/pictures/c0033d99d0ed627372fa4bb5a1b9312b)
 

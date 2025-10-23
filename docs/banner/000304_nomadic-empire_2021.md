@@ -23,7 +23,7 @@ name: "Nomadic Empire"
 ---
 # Nomadic Empire
 
-*2021* • {{__region__}} • Deutschland
+*2021* • Berlin • Deutschland
 
 ![Nomadic Empire](https://api.bannergress.com/bnrs/pictures/932c194d300c09de14c4da890d091230)
 

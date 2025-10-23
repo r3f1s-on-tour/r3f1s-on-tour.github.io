@@ -23,7 +23,7 @@ name: "Hacktour DUS"
 ---
 # Hacktour DUS
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Düsseldorf • Deutschland
 
 ![Hacktour DUS](https://api.bannergress.com/bnrs/pictures/5c5e3a02e1ed671a95579d74899d76ff)
 

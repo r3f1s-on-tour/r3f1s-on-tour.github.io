@@ -23,7 +23,7 @@ name: "Ausgewogene Ernährung in Augsburg"
 ---
 # Ausgewogene Ernährung in Augsburg
 
-*2018* • {{__region__}} • Deutschland
+*2018* • Augsburg • Deutschland
 
 ![Ausgewogene Ernährung in Augsburg](https://api.bannergress.com/bnrs/pictures/79fa43fc00f3e41220080d80ce72ad57)
 

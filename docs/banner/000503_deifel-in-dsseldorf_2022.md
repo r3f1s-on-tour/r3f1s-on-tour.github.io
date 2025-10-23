@@ -23,7 +23,7 @@ name: "Deifel in Düsseldorf"
 ---
 # Deifel in Düsseldorf
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Düsseldorf • Deutschland
 
 ![Deifel in Düsseldorf](https://api.bannergress.com/bnrs/pictures/077dbe7f5a8f89090241712c3eec4522)
 

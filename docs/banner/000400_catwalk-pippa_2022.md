@@ -23,7 +23,7 @@ name: "Catwalk Pippa"
 ---
 # Catwalk Pippa
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Berlin • Deutschland
 
 ![Catwalk Pippa](https://api.bannergress.com/bnrs/pictures/6eebdacf7d1601c8a0f6206f61859139)
 

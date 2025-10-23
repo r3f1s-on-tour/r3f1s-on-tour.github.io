@@ -23,7 +23,7 @@ name: "Welfenschloss Hannover"
 ---
 # Welfenschloss Hannover
 
-*2021* • {{__region__}} • Deutschland
+*2021* • Hannover • Deutschland
 
 
 

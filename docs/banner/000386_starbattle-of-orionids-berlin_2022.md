@@ -23,7 +23,7 @@ name: "StarBattle of Orionids - Berlin"
 ---
 # StarBattle of Orionids - Berlin
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Berlin • Deutschland
 
 ![StarBattle of Orionids - Berlin](https://api.bannergress.com/bnrs/pictures/0dd1597cdf430da0866d0818fd39a212)
 

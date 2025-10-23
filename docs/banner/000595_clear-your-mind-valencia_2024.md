@@ -23,7 +23,7 @@ name: "Clear your mind -Valencia"
 ---
 # Clear your mind -Valencia
 
-*2024* • {{__region__}} • España
+*2024* • València • España
 
 ![Clear your mind -Valencia](https://api.bannergress.com/bnrs/pictures/60b33693a25a907d8635e803d0a96741)
 

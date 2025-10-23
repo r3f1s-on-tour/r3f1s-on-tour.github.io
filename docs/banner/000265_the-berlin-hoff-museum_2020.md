@@ -23,7 +23,7 @@ name: "The Berlin Hoff Museum"
 ---
 # The Berlin Hoff Museum
 
-*2020* • {{__region__}} • Deutschland
+*2020* • Berlin • Deutschland
 
 
 

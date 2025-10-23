@@ -23,7 +23,7 @@ name: "Ich mag Waldkraiburg"
 ---
 # Ich mag Waldkraiburg
 
-*2018* • {{__region__}} • Deutschland
+*2018* • Waldkraiburg • Deutschland
 
 
 

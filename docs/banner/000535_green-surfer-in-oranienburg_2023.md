@@ -23,7 +23,7 @@ name: "Green Surfer  in Oranienburg"
 ---
 # Green Surfer  in Oranienburg
 
-*2023* • {{__region__}} • Deutschland
+*2023* • Oranienburg • Deutschland
 
 ![Green Surfer  in Oranienburg](https://api.bannergress.com/bnrs/pictures/fe3d5c29234689a130ffe14e60f826e9)
 

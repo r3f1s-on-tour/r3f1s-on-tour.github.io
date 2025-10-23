@@ -23,7 +23,7 @@ name: "Here Be Dragons - Dragomaly"
 ---
 # Here Be Dragons - Dragomaly
 
-*2018* • {{__region__}} • España
+*2018* • Palma • España
 
 
 

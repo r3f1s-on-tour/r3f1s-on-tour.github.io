@@ -23,7 +23,7 @@ name: "Blauer Reiter Tour"
 ---
 # Blauer Reiter Tour
 
-*2016* • {{__region__}} • Deutschland
+*2016* • München • Deutschland
 
 ![Blauer Reiter Tour](https://api.bannergress.com/bnrs/pictures/0d330415cd7568296591257b578f2bff)
 

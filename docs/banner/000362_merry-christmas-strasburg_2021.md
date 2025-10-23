@@ -23,7 +23,7 @@ name: "Merry Christmas - Strasburg"
 ---
 # Merry Christmas - Strasburg
 
-*2021* • {{__region__}} • Deutschland
+*2021* • Strasburg (Uckermark) • Deutschland
 
 
 

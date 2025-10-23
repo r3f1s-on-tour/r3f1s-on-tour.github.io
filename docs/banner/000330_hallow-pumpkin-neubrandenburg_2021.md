@@ -23,7 +23,7 @@ name: "Hallow Pumpkin Neubrandenburg"
 ---
 # Hallow Pumpkin Neubrandenburg
 
-*2021* • {{__region__}} • Deutschland
+*2021* • Neubrandenburg • Deutschland
 
 
 

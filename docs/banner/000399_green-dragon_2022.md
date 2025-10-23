@@ -23,7 +23,7 @@ name: "Green Dragon"
 ---
 # Green Dragon
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Berlin • Deutschland
 
 ![Green Dragon](https://api.bannergress.com/bnrs/pictures/043a30133f2516c00fb1c1d2c9b7767c)
 

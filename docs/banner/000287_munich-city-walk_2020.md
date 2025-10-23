@@ -23,7 +23,7 @@ name: "Munich city walk"
 ---
 # Munich city walk
 
-*2020* • {{__region__}} • Deutschland
+*2020* • München • Deutschland
 
 ![Munich city walk](https://api.bannergress.com/bnrs/pictures/2f4cfb669c81ecdd60c8625a9dc27fea)
 

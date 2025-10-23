@@ -23,7 +23,7 @@ name: "Karlsplatz Stachus"
 ---
 # Karlsplatz Stachus
 
-*2016* • {{__region__}} • Deutschland
+*2016* • München • Deutschland
 
 
 

@@ -23,7 +23,7 @@ name: "Regensburg Donaupanorama"
 ---
 # Regensburg Donaupanorama
 
-*2017* • {{__region__}} • Deutschland
+*2017* • Regensburg • Deutschland
 
 ![Regensburg Donaupanorama](https://api.bannergress.com/bnrs/pictures/9660e92b71a13bd0abb35c73ea9b93bd)
 

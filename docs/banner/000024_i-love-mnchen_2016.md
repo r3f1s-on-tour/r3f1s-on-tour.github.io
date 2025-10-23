@@ -23,7 +23,7 @@ name: "I Love München"
 ---
 # I Love München
 
-*2016* • {{__region__}} • Deutschland
+*2016* • München • Deutschland
 
 
 

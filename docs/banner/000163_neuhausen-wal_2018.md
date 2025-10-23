@@ -23,7 +23,7 @@ name: "Neuhausen Wal"
 ---
 # Neuhausen Wal
 
-*2018* • {{__region__}} • Deutschland
+*2018* • München • Deutschland
 
 ![Neuhausen Wal](https://api.bannergress.com/bnrs/pictures/6e2bbc52719c487e9845e7c85525fbe9)
 

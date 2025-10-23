@@ -23,7 +23,7 @@ name: "Ostern in Neubrandenburg"
 ---
 # Ostern in Neubrandenburg
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Neubrandenburg • Deutschland
 
 ![Ostern in Neubrandenburg](https://api.bannergress.com/bnrs/pictures/c9ff13f42d96267548ce87bf7f4b0d2b)
 

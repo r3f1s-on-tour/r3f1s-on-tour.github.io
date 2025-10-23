@@ -23,7 +23,7 @@ name: "Pasinger Stadtwappen"
 ---
 # Pasinger Stadtwappen
 
-*2017* • {{__region__}} • Deutschland
+*2017* • München • Deutschland
 
 ![Pasinger Stadtwappen](https://api.bannergress.com/bnrs/pictures/fd818caf54ddf0a3b1cdbe1e34009f71)
 

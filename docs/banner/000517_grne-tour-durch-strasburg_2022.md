@@ -23,7 +23,7 @@ name: "Grüne Tour durch Strasburg"
 ---
 # Grüne Tour durch Strasburg
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Strasburg (Uckermark) • Deutschland
 
 ![Grüne Tour durch Strasburg](https://api.bannergress.com/bnrs/pictures/239dec4fc7819ff18dfb77dccbc1c525)
 

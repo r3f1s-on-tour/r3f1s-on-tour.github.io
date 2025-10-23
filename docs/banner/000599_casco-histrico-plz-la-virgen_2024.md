@@ -23,7 +23,7 @@ name: "Casco Histórico Plz. La Virgen"
 ---
 # Casco Histórico Plz. La Virgen
 
-*2024* • {{__region__}} • España
+*2024* • València • España
 
 ![Casco Histórico Plz. La Virgen](https://api.bannergress.com/bnrs/pictures/342c7600849e873a4902bf8f0f8af4d0)
 

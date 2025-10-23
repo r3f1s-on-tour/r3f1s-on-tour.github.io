@@ -23,7 +23,7 @@ name: "ToastAmp Neubrandenburg"
 ---
 # ToastAmp Neubrandenburg
 
-*2023* • {{__region__}} • Deutschland
+*2023* • Neubrandenburg • Deutschland
 
 ![ToastAmp Neubrandenburg](https://api.bannergress.com/bnrs/pictures/c89ef58e3c7328c4ea37fff8be3a6af2)
 

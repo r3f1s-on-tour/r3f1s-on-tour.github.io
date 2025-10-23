@@ -23,7 +23,7 @@ name: "New Years Toast in Oranienburg"
 ---
 # New Years Toast in Oranienburg
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Oranienburg • Deutschland
 
 
 

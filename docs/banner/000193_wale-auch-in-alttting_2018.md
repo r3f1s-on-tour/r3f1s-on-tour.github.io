@@ -23,7 +23,7 @@ name: "Wale auch in Altötting"
 ---
 # Wale auch in Altötting
 
-*2018* • {{__region__}} • Deutschland
+*2018* • Altötting • Deutschland
 
 
 

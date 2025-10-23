@@ -23,7 +23,7 @@ name: "Elberfeld im Schneckentempo"
 ---
 # Elberfeld im Schneckentempo
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Wuppertal • Deutschland
 
 ![Elberfeld im Schneckentempo](https://api.bannergress.com/bnrs/pictures/59a729228b1cf48cf1b3990eedf280e7)
 

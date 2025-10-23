@@ -23,7 +23,7 @@ name: "Deifel in Wuppertal"
 ---
 # Deifel in Wuppertal
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Wuppertal • Deutschland
 
 ![Deifel in Wuppertal](https://api.bannergress.com/bnrs/pictures/5043c3a180f5f2f1114de085f13cdf83)
 

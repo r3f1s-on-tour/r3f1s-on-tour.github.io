@@ -23,7 +23,7 @@ name: "Second Sunday Cat"
 ---
 # Second Sunday Cat
 
-*2023* • {{__region__}} • Deutschland
+*2023* • Strasburg (Uckermark) • Deutschland
 
 ![Second Sunday Cat](https://api.bannergress.com/bnrs/pictures/0166c6cbf03cc2bb96914b8599396a95)
 

@@ -23,7 +23,7 @@ name: "Birkenwerder"
 ---
 # Birkenwerder
 
-*2020* • {{__region__}} • Deutschland
+*2020* • Birkenwerder • Deutschland
 
 
 

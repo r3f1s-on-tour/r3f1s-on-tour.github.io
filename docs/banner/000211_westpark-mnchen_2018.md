@@ -23,7 +23,7 @@ name: "Westpark München"
 ---
 # Westpark München
 
-*2018* • {{__region__}} • Deutschland
+*2018* • München • Deutschland
 
 
 

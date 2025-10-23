@@ -23,7 +23,7 @@ name: "Besenritt in Oranienburg"
 ---
 # Besenritt in Oranienburg
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Oranienburg • Deutschland
 
 
 

@@ -23,7 +23,7 @@ name: "RetroGaming - Pengo"
 ---
 # RetroGaming - Pengo
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Pasewalk • Deutschland
 
 ![RetroGaming - Pengo](https://api.bannergress.com/bnrs/pictures/c571f6cf063c9258ff8e7bd9b804701a)
 

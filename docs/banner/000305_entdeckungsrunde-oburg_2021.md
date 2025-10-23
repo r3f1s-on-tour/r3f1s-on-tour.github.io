@@ -23,7 +23,7 @@ name: "Entdeckungsrunde OBurg"
 ---
 # Entdeckungsrunde OBurg
 
-*2021* • {{__region__}} • Deutschland
+*2021* • Oranienburg • Deutschland
 
 ![Entdeckungsrunde OBurg](https://api.bannergress.com/bnrs/pictures/320f8d96da93b09785eed451e073c100)
 

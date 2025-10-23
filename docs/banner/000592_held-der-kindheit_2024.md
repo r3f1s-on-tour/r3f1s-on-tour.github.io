@@ -23,7 +23,7 @@ name: "Held der Kindheit"
 ---
 # Held der Kindheit
 
-*2024* • {{__region__}} • Deutschland
+*2024* • Ründeroth • Deutschland
 
 ![Held der Kindheit](https://api.bannergress.com/bnrs/pictures/90bb836182e01425f4d95e1cdba38b65)
 

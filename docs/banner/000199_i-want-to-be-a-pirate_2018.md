@@ -23,7 +23,7 @@ name: "I want to be a pirate!"
 ---
 # I want to be a pirate!
 
-*2018* • {{__region__}} • Sverige
+*2018* • Malmö • Sverige
 
 
 

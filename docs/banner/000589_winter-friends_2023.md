@@ -23,7 +23,7 @@ name: "Winter Friends"
 ---
 # Winter Friends
 
-*2023* • {{__region__}} • Deutschland
+*2023* • Dresden • Deutschland
 
 ![Winter Friends](https://api.bannergress.com/bnrs/pictures/0deac4815912469ec07e98a727543277)
 

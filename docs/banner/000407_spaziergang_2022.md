@@ -23,7 +23,7 @@ name: "SPAZIERGANG"
 ---
 # SPAZIERGANG
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Berlin • Deutschland
 
 ![SPAZIERGANG](https://api.bannergress.com/bnrs/pictures/1cfaf295539445878d66d9d0cdb8e390)
 

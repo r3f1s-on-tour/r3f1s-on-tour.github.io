@@ -23,7 +23,7 @@ name: "Salzburg Domination Tour"
 ---
 # Salzburg Domination Tour
 
-*2018* • {{__region__}} • Österreich
+*2018* • Salzburg • Österreich
 
 ![Salzburg Domination Tour](https://api.bannergress.com/bnrs/pictures/d90096600f5757922eb05f93018cbd0e)
 

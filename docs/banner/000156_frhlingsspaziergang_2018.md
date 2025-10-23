@@ -23,7 +23,7 @@ name: "Frühlingsspaziergang"
 ---
 # Frühlingsspaziergang
 
-*2018* • {{__region__}} • Deutschland
+*2018* • München • Deutschland
 
 
 

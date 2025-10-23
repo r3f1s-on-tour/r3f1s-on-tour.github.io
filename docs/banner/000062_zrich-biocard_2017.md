@@ -23,7 +23,7 @@ name: "Zürich Biocard"
 ---
 # Zürich Biocard
 
-*2017* • {{__region__}} • Schweiz/Suisse/Svizzera/Svizra
+*2017* • Zürich • Schweiz/Suisse/Svizzera/Svizra
 
 ![Zürich Biocard](https://api.bannergress.com/bnrs/pictures/0f8d583886672ef36e28dd0a88fda13f)
 

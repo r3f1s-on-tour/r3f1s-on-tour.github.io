@@ -23,7 +23,7 @@ name: "Aiblinger Wolf"
 ---
 # Aiblinger Wolf
 
-*2018* • {{__region__}} • Deutschland
+*2018* • Bad Aibling • Deutschland
 
 
 

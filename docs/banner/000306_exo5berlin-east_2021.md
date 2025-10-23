@@ -23,7 +23,7 @@ name: "EXO5BERLIN East"
 ---
 # EXO5BERLIN East
 
-*2021* • {{__region__}} • Deutschland
+*2021* • Berlin • Deutschland
 
 ![EXO5BERLIN East](https://api.bannergress.com/bnrs/pictures/41d6f7b502f08abee0c2b50aec38082a)
 

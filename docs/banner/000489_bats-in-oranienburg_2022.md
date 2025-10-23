@@ -23,7 +23,7 @@ name: "Bats in Oranienburg"
 ---
 # Bats in Oranienburg
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Oranienburg • Deutschland
 
 
 

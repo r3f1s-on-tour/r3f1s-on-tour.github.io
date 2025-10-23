@@ -23,7 +23,7 @@ name: "Zeiss-Großplanetarium"
 ---
 # Zeiss-Großplanetarium
 
-*2020* • {{__region__}} • Deutschland
+*2020* • Berlin • Deutschland
 
 
 

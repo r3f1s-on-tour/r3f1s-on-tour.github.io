@@ -23,7 +23,7 @@ name: "Watercolor Munich"
 ---
 # Watercolor Munich
 
-*2019* • {{__region__}} • Deutschland
+*2019* • München • Deutschland
 
 
 

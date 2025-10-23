@@ -23,7 +23,7 @@ name: "Evil Penguins in Oranienburg"
 ---
 # Evil Penguins in Oranienburg
 
-*2023* • {{__region__}} • Deutschland
+*2023* • Oranienburg • Deutschland
 
 
 

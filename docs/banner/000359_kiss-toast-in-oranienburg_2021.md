@@ -23,7 +23,7 @@ name: "Kiss Toast in Oranienburg"
 ---
 # Kiss Toast in Oranienburg
 
-*2021* • {{__region__}} • Deutschland
+*2021* • Oranienburg • Deutschland
 
 
 

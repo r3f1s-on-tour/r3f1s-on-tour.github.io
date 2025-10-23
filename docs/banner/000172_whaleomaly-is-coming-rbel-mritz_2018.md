@@ -23,7 +23,7 @@ name: "Whaleomaly is Coming [Röbel Müritz]"
 ---
 # Whaleomaly is Coming [Röbel Müritz]
 
-*2018* • {{__region__}} • Deutschland
+*2018* • Röbel/Müritz • Deutschland
 
 ![Whaleomaly is Coming [Röbel Müritz]](https://api.bannergress.com/bnrs/pictures/b3ae28f518e5deb2125e3bef14c3b7dd)
 

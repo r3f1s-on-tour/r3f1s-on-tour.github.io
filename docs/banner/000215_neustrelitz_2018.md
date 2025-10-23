@@ -23,7 +23,7 @@ name: "Neustrelitz"
 ---
 # Neustrelitz
 
-*2018* • {{__region__}} • Deutschland
+*2018* • Neustrelitz • Deutschland
 
 
 

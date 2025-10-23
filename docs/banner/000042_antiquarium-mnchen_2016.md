@@ -23,7 +23,7 @@ name: "Antiquarium München"
 ---
 # Antiquarium München
 
-*2016* • {{__region__}} • Deutschland
+*2016* • München • Deutschland
 
 ![Antiquarium München](https://api.bannergress.com/bnrs/pictures/84f766e615e30748b7ad56ec92a8e957)
 

@@ -23,7 +23,7 @@ name: "Berlin Green Sunrise"
 ---
 # Berlin Green Sunrise
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Berlin • Deutschland
 
 ![Berlin Green Sunrise](https://api.bannergress.com/bnrs/pictures/0f8b9e7fbef4a49e2886011f753f6d05)
 

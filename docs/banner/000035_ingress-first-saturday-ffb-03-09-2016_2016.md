@@ -23,7 +23,7 @@ name: "Ingress First Saturday FFB 03 09 2016"
 ---
 # Ingress First Saturday FFB 03 09 2016
 
-*2016* • {{__region__}} • Deutschland
+*2016* • Fürstenfeldbruck • Deutschland
 
 
 

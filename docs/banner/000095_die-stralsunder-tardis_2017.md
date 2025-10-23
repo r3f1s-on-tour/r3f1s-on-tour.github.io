@@ -23,7 +23,7 @@ name: "Die Stralsunder Tardis"
 ---
 # Die Stralsunder Tardis
 
-*2017* • {{__region__}} • Deutschland
+*2017* • Stralsund • Deutschland
 
 ![Die Stralsunder Tardis](https://api.bannergress.com/bnrs/pictures/4514877a414406f85ec78584e9e3c01c)
 

@@ -23,7 +23,7 @@ name: "Der Doktor in Frankfurt"
 ---
 # Der Doktor in Frankfurt
 
-*2018* • {{__region__}} • Deutschland
+*2018* • Frankfurt am Main • Deutschland
 
 ![Der Doktor in Frankfurt](https://api.bannergress.com/bnrs/pictures/8546650e0b95d2bc754fda7c22f71304)
 

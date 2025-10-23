@@ -23,7 +23,7 @@ name: "RetroGaming - Frog"
 ---
 # RetroGaming - Frog
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Pasewalk • Deutschland
 
 ![RetroGaming - Frog](https://api.bannergress.com/bnrs/pictures/8a9fe61065086dc03dcb9410114399a3)
 

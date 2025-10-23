@@ -23,7 +23,7 @@ name: "Sunset at the lake"
 ---
 # Sunset at the lake
 
-*2017* • {{__region__}} • Deutschland
+*2017* • Oberpfaffenhofen • Deutschland
 
 ![Sunset at the lake](https://api.bannergress.com/bnrs/pictures/e3e494a190ecc79e317bf49128248159)
 

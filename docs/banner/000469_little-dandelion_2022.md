@@ -23,7 +23,7 @@ name: "Little Dandelion"
 ---
 # Little Dandelion
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Berlin • Deutschland
 
 ![Little Dandelion](https://api.bannergress.com/bnrs/pictures/d863aafb6c4e075c8e3cddf3389d1e6f)
 

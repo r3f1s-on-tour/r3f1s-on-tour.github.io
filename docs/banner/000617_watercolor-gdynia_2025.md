@@ -23,7 +23,7 @@ name: "Watercolor Gdynia"
 ---
 # Watercolor Gdynia
 
-*2025* • {{__region__}} • Polska
+*2025* • Gdynia • Polska
 
 ![Watercolor Gdynia](https://api.bannergress.com/bnrs/pictures/eee051ad9c7e48a747300f104a5ef880)
 

@@ -23,7 +23,7 @@ name: "Skulpturenpark Katzow"
 ---
 # Skulpturenpark Katzow
 
-*2017* • {{__region__}} • Deutschland
+*2017* • Katzow • Deutschland
 
 ![Skulpturenpark Katzow](https://api.bannergress.com/bnrs/pictures/cabc494aebc54641411fbe0130c120a3)
 

@@ -23,7 +23,7 @@ name: "Biocard Szczecin"
 ---
 # Biocard Szczecin
 
-*2022* • {{__region__}} • Polska
+*2022* • Szczecin • Polska
 
 ![Biocard Szczecin](https://api.bannergress.com/bnrs/pictures/20a058074b53019498efad8705ff63fd)
 

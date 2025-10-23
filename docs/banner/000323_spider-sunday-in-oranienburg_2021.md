@@ -23,7 +23,7 @@ name: "Spider Sunday in Oranienburg"
 ---
 # Spider Sunday in Oranienburg
 
-*2021* • {{__region__}} • Deutschland
+*2021* • Oranienburg • Deutschland
 
 
 

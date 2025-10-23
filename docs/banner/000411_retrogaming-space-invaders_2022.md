@@ -23,7 +23,7 @@ name: "RetroGaming - Space Invaders"
 ---
 # RetroGaming - Space Invaders
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Pasewalk • Deutschland
 
 
 

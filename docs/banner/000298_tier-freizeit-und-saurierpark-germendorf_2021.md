@@ -23,7 +23,7 @@ name: "Tier-, Freizeit- und Saurierpark Germendorf"
 ---
 # Tier-, Freizeit- und Saurierpark Germendorf
 
-*2021* • {{__region__}} • Deutschland
+*2021* • Oranienburg • Deutschland
 
 ![Tier-, Freizeit- und Saurierpark Germendorf](https://api.bannergress.com/bnrs/pictures/c6287d71855e887912e3b88b4b9a1fa4)
 

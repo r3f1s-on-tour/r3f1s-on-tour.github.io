@@ -23,7 +23,7 @@ name: "MADRID POP ART GIRL"
 ---
 # MADRID POP ART GIRL
 
-*2023* • {{__region__}} • España
+*2023* • Madrid • España
 
 ![MADRID POP ART GIRL](https://api.bannergress.com/bnrs/pictures/e02f9baada257bc24bc1e6614c1fb79f)
 

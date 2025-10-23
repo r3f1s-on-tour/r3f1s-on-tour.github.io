@@ -23,7 +23,7 @@ name: "Green Wolfgreen"
 ---
 # Green Wolfgreen
 
-*2021* • {{__region__}} • Deutschland
+*2021* • Neubrandenburg • Deutschland
 
 ![Green Wolfgreen](https://api.bannergress.com/bnrs/pictures/ca869e2afbc4b90b4c48db706fa04c4e)
 

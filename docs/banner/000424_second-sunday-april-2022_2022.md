@@ -23,7 +23,7 @@ name: "Second Sunday April 2022"
 ---
 # Second Sunday April 2022
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Strasburg (Uckermark) • Deutschland
 
 ![Second Sunday April 2022](https://api.bannergress.com/bnrs/pictures/54810f92b84347b2e09a8ab6c3016249)
 

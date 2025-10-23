@@ -23,7 +23,7 @@ name: "Stadtwappen Ingolstadt"
 ---
 # Stadtwappen Ingolstadt
 
-*2017* • {{__region__}} • Deutschland
+*2017* • Ingolstadt • Deutschland
 
 ![Stadtwappen Ingolstadt](https://api.bannergress.com/bnrs/pictures/3c3c57c3a487dec99ad1d6cb2a55319a)
 

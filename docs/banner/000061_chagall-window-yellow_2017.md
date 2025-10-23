@@ -23,7 +23,7 @@ name: "Chagall Window yellow"
 ---
 # Chagall Window yellow
 
-*2017* • {{__region__}} • Schweiz/Suisse/Svizzera/Svizra
+*2017* • Zürich • Schweiz/Suisse/Svizzera/Svizra
 
 ![Chagall Window yellow](https://api.bannergress.com/bnrs/pictures/8611b3520266f1e355ead4be0fa96bec)
 

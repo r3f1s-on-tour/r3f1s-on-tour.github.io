@@ -23,7 +23,7 @@ name: "Guerrero Legendario"
 ---
 # Guerrero Legendario
 
-*2023* • {{__region__}} • España
+*2023* • Madrid • España
 
 ![Guerrero Legendario](https://api.bannergress.com/bnrs/pictures/eb1b85cac73dcfcc4de21edf4c16aee3)
 

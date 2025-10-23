@@ -23,7 +23,7 @@ name: "Mit der 25 nach Grünwald"
 ---
 # Mit der 25 nach Grünwald
 
-*2017* • {{__region__}} • Deutschland
+*2017* • München • Deutschland
 
 ![Mit der 25 nach Grünwald](https://api.bannergress.com/bnrs/pictures/b53d37e0f534572b1c95f217c63c8344)
 

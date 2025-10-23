@@ -23,7 +23,7 @@ name: "St-Patricks-Day"
 ---
 # St-Patricks-Day
 
-*2023* • {{__region__}} • Deutschland
+*2023* • Neubrandenburg • Deutschland
 
 ![St-Patricks-Day](https://api.bannergress.com/bnrs/pictures/e91d4e2fe6878463c0eae2f711628455)
 

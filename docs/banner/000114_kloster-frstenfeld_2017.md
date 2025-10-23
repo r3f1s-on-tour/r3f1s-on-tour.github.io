@@ -23,7 +23,7 @@ name: "Kloster Fürstenfeld"
 ---
 # Kloster Fürstenfeld
 
-*2017* • {{__region__}} • Deutschland
+*2017* • Fürstenfeldbruck • Deutschland
 
 ![Kloster Fürstenfeld](https://api.bannergress.com/bnrs/pictures/ff65ae5fc11860670e7443fbc8c0ee07)
 

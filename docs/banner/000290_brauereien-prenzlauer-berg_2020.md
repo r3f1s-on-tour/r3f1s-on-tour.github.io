@@ -23,7 +23,7 @@ name: "Brauereien Prenzlauer Berg"
 ---
 # Brauereien Prenzlauer Berg
 
-*2020* • {{__region__}} • Deutschland
+*2020* • Berlin • Deutschland
 
 ![Brauereien Prenzlauer Berg](https://api.bannergress.com/bnrs/pictures/b53e7ac7984fb73918dca6565c567454)
 

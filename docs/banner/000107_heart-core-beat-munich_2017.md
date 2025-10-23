@@ -23,7 +23,7 @@ name: "Heart Core Beat Munich"
 ---
 # Heart Core Beat Munich
 
-*2017* • {{__region__}} • Deutschland
+*2017* • München • Deutschland
 
 ![Heart Core Beat Munich](https://api.bannergress.com/bnrs/pictures/6b1fc0c0d18684b1ae6d1fcfe9dc37c7)
 

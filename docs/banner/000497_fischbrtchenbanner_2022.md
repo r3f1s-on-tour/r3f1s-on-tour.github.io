@@ -23,7 +23,7 @@ name: "Fischbrötchenbanner"
 ---
 # Fischbrötchenbanner
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Köln • Deutschland
 
 ![Fischbrötchenbanner](https://api.bannergress.com/bnrs/pictures/7e92cd5ee56259c40f1cd19da7e0adb5)
 

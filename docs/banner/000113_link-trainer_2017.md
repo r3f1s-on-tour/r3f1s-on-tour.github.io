@@ -23,7 +23,7 @@ name: "Link Trainer"
 ---
 # Link Trainer
 
-*2017* • {{__region__}} • Deutschland
+*2017* • Unterschleißheim • Deutschland
 
 ![Link Trainer](https://api.bannergress.com/bnrs/pictures/53b38fef563ac97445c6b6bf6ca27a99)
 

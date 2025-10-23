@@ -23,7 +23,7 @@ name: "Dresden Skyline"
 ---
 # Dresden Skyline
 
-*2023* • {{__region__}} • Deutschland
+*2023* • Dresden • Deutschland
 
 ![Dresden Skyline](https://api.bannergress.com/bnrs/pictures/24dd2b71b50b077aa14b9c7ff4a7c449)
 

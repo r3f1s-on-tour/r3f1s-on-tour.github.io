@@ -23,7 +23,7 @@ name: "Find the 13 Archetypes in Oranienburg"
 ---
 # Find the 13 Archetypes in Oranienburg
 
-*2021* • {{__region__}} • Deutschland
+*2021* • Oranienburg • Deutschland
 
 
 

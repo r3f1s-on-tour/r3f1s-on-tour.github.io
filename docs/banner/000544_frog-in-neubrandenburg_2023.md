@@ -23,7 +23,7 @@ name: "Frog in Neubrandenburg"
 ---
 # Frog in Neubrandenburg
 
-*2023* • {{__region__}} • Deutschland
+*2023* • Neubrandenburg • Deutschland
 
 ![Frog in Neubrandenburg](https://api.bannergress.com/bnrs/pictures/756fc53167da24deda52c4fe6b4b0f95)
 

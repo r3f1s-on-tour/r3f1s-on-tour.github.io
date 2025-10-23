@@ -23,7 +23,7 @@ name: "2nd Sunday - May 4th be with you - Berlin"
 ---
 # 2nd Sunday - May 4th be with you - Berlin
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Berlin • Deutschland
 
 
 

@@ -23,7 +23,7 @@ name: "Raute Blau Weiß 2"
 ---
 # Raute Blau Weiß 2
 
-*2019* • {{__region__}} • Deutschland
+*2019* • München • Deutschland
 
 
 

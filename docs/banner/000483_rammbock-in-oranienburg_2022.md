@@ -23,7 +23,7 @@ name: "Rammbock in Oranienburg"
 ---
 # Rammbock in Oranienburg
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Oranienburg • Deutschland
 
 ![Rammbock in Oranienburg](https://api.bannergress.com/bnrs/pictures/497d3477de6312acf9cc142d6fe09ff6)
 

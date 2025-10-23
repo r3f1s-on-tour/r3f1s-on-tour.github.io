@@ -23,7 +23,7 @@ name: "Second Sunday"
 ---
 # Second Sunday
 
-*2023* • {{__region__}} • Deutschland
+*2023* • Neubrandenburg • Deutschland
 
 ![Second Sunday](https://api.bannergress.com/bnrs/pictures/37af51a3f3295a162c245f325a7e4d61)
 

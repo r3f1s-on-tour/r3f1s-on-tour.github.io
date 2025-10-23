@@ -23,7 +23,7 @@ name: "A Second Sunday Cat Paws in Strasburg"
 ---
 # A Second Sunday Cat Paws in Strasburg
 
-*2023* • {{__region__}} • Deutschland
+*2023* • Strasburg (Uckermark) • Deutschland
 
 ![A Second Sunday Cat Paws in Strasburg](https://api.bannergress.com/bnrs/pictures/e4260d74ee503da66a2aa96b81108c52)
 

@@ -23,7 +23,7 @@ name: "Viktualienmarkt München"
 ---
 # Viktualienmarkt München
 
-*2017* • {{__region__}} • Deutschland
+*2017* • München • Deutschland
 
 ![Viktualienmarkt München](https://api.bannergress.com/bnrs/pictures/d78faacdee4e460a4f3aecd6f6df5ff0)
 

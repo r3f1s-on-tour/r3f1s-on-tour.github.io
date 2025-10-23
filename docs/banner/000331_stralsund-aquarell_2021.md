@@ -23,7 +23,7 @@ name: "Stralsund Aquarell"
 ---
 # Stralsund Aquarell
 
-*2021* • {{__region__}} • Deutschland
+*2021* • Stralsund • Deutschland
 
 
 

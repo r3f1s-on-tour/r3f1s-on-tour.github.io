@@ -23,7 +23,7 @@ name: "Crystal Snowflake Ball in Oranienburg"
 ---
 # Crystal Snowflake Ball in Oranienburg
 
-*2021* • {{__region__}} • Deutschland
+*2021* • Oranienburg • Deutschland
 
 
 

@@ -23,7 +23,7 @@ name: "Speicherstadt Mosaik"
 ---
 # Speicherstadt Mosaik
 
-*2015* • {{__region__}} • Deutschland
+*2015* • Hamburg • Deutschland
 
 ![Speicherstadt Mosaik](https://api.bannergress.com/bnrs/pictures/c06ec1426ed7220a73534afaa62b7fe9)
 

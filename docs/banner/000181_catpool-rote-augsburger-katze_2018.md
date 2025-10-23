@@ -23,7 +23,7 @@ name: "Catpool (Rote Augsburger Katze)"
 ---
 # Catpool (Rote Augsburger Katze)
 
-*2018* • {{__region__}} • Deutschland
+*2018* • Augsburg • Deutschland
 
 
 

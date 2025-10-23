@@ -23,7 +23,7 @@ name: "Cat Eye Yellow"
 ---
 # Cat Eye Yellow
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Berlin • Deutschland
 
 ![Cat Eye Yellow](https://api.bannergress.com/bnrs/pictures/97abd24e1d39bce894418ba9ee886bb8)
 

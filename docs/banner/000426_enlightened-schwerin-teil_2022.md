@@ -23,7 +23,7 @@ name: "Enlightened Schwerin Teil"
 ---
 # Enlightened Schwerin Teil
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Schwerin • Deutschland
 
 ![Enlightened Schwerin Teil](https://api.bannergress.com/bnrs/pictures/8c756836df25c1b15a2ddf43a83b3510)
 

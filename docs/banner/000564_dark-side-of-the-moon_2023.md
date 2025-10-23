@@ -23,7 +23,7 @@ name: "Dark Side of the Moon"
 ---
 # Dark Side of the Moon
 
-*2023* • {{__region__}} • Deutschland
+*2023* • Potsdam • Deutschland
 
 ![Dark Side of the Moon](https://api.bannergress.com/bnrs/pictures/8056b949b29c54063454af0daeea55b4)
 

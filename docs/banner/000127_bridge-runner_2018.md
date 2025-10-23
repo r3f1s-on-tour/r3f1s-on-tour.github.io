@@ -23,7 +23,7 @@ name: "Bridge Runner"
 ---
 # Bridge Runner
 
-*2018* • {{__region__}} • Deutschland
+*2018* • Heidelberg • Deutschland
 
 ![Bridge Runner](https://api.bannergress.com/bnrs/pictures/597a0aec5c059e13d831551ea49058b4)
 

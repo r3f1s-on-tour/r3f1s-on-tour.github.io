@@ -23,7 +23,7 @@ name: "Halloween Ghosts in Oranienburg"
 ---
 # Halloween Ghosts in Oranienburg
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Oranienburg • Deutschland
 
 ![Halloween Ghosts in Oranienburg](https://api.bannergress.com/bnrs/pictures/6f7936922144659006c5595beabc4602)
 

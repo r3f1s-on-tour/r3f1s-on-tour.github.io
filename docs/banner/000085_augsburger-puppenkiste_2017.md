@@ -23,7 +23,7 @@ name: "Augsburger Puppenkiste"
 ---
 # Augsburger Puppenkiste
 
-*2017* • {{__region__}} • Deutschland
+*2017* • Augsburg • Deutschland
 
 ![Augsburger Puppenkiste](https://api.bannergress.com/bnrs/pictures/9163e53b4b43358758c57fd17bd2724c)
 

@@ -23,7 +23,7 @@ name: "MD Regensburg"
 ---
 # MD Regensburg
 
-*2017* • {{__region__}} • Deutschland
+*2017* • Regensburg • Deutschland
 
 
 

@@ -23,7 +23,7 @@ name: "Berchinger Stadtmauer"
 ---
 # Berchinger Stadtmauer
 
-*2017* • {{__region__}} • Deutschland
+*2017* • Sollngriesbach • Deutschland
 
 ![Berchinger Stadtmauer](https://api.bannergress.com/bnrs/pictures/109263d1997f0bef578efd3bf35cd29b)
 

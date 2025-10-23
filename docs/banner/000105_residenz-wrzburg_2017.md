@@ -23,7 +23,7 @@ name: "Residenz Würzburg"
 ---
 # Residenz Würzburg
 
-*2017* • {{__region__}} • Deutschland
+*2017* • Würzburg • Deutschland
 
 ![Residenz Würzburg](https://api.bannergress.com/bnrs/pictures/37e61a3e78a05831a720419a5e17d465)
 

@@ -23,7 +23,7 @@ name: "#MP Stan Lee Tribute [München-Pasing]"
 ---
 # #MP Stan Lee Tribute [München-Pasing]
 
-*2018* • {{__region__}} • Deutschland
+*2018* • München • Deutschland
 
 
 

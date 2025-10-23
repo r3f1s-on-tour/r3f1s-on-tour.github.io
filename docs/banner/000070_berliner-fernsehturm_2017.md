@@ -23,7 +23,7 @@ name: "Berliner Fernsehturm"
 ---
 # Berliner Fernsehturm
 
-*2017* • {{__region__}} • Deutschland
+*2017* • Berlin • Deutschland
 
 ![Berliner Fernsehturm](https://api.bannergress.com/bnrs/pictures/31b08225ae72b1f2f2cc3a10d7491b92)
 

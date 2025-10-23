@@ -23,7 +23,7 @@ name: "Tut-Tut Child"
 ---
 # Tut-Tut Child
 
-*2023* • {{__region__}} • Deutschland
+*2023* • Recklinghausen • Deutschland
 
 ![Tut-Tut Child](https://api.bannergress.com/bnrs/pictures/852e63da31fb6cbdd7e8b5307e4c49af)
 

@@ -23,7 +23,7 @@ name: "Mongolian Embassy"
 ---
 # Mongolian Embassy
 
-*2021* • {{__region__}} • Deutschland
+*2021* • Berlin • Deutschland
 
 ![Mongolian Embassy](https://api.bannergress.com/bnrs/pictures/fd3d163dfe7f5434769fb7900fedf27b)
 

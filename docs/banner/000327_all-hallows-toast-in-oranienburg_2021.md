@@ -23,7 +23,7 @@ name: "All Hallows Toast in Oranienburg"
 ---
 # All Hallows Toast in Oranienburg
 
-*2021* • {{__region__}} • Deutschland
+*2021* • Oranienburg • Deutschland
 
 
 

@@ -23,7 +23,7 @@ name: "BlueSunGarching"
 ---
 # BlueSunGarching
 
-*2016* • {{__region__}} • Deutschland
+*2016* • Garching bei München • Deutschland
 
 ![BlueSunGarching](https://api.bannergress.com/bnrs/pictures/534d4ea65f043ae17ab0adaae39ce044)
 

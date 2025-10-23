@@ -23,7 +23,7 @@ name: "Frog Wall Drabenderhöhe"
 ---
 # Frog Wall Drabenderhöhe
 
-*2023* • {{__region__}} • Deutschland
+*2023* • Drabenderhöhe • Deutschland
 
 ![Frog Wall Drabenderhöhe](https://api.bannergress.com/bnrs/pictures/460aa2693281ecb3e07f5c1d6fefbeda)
 

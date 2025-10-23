@@ -23,7 +23,7 @@ name: "Schauspielhaus"
 ---
 # Schauspielhaus
 
-*2023* • {{__region__}} • Deutschland
+*2023* • Neubrandenburg • Deutschland
 
 ![Schauspielhaus](https://api.bannergress.com/bnrs/pictures/1a84ff953b346ed980f83a30166ab1a2)
 

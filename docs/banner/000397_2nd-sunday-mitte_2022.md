@@ -23,7 +23,7 @@ name: "2nd Sunday Mitte"
 ---
 # 2nd Sunday Mitte
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Berlin • Deutschland
 
 ![2nd Sunday Mitte](https://api.bannergress.com/bnrs/pictures/edc412993520c3741de81742a59f4e3f)
 

@@ -23,7 +23,7 @@ name: "MD Cambridge"
 ---
 # MD Cambridge
 
-*2025* • {{__region__}} • Großbritannien
+*2025* • Cambridge • Großbritannien
 
 
 

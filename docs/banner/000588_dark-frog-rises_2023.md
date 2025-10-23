@@ -23,7 +23,7 @@ name: "DARK FROG RISES"
 ---
 # DARK FROG RISES
 
-*2023* • {{__region__}} • Deutschland
+*2023* • Dresden • Deutschland
 
 ![DARK FROG RISES](https://api.bannergress.com/bnrs/pictures/81e737911804f4785c856eac86305ba1)
 

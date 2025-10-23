@@ -23,7 +23,7 @@ name: "Friedrich-Ludwig-Jahn-Sportpark"
 ---
 # Friedrich-Ludwig-Jahn-Sportpark
 
-*2020* • {{__region__}} • Deutschland
+*2020* • Berlin • Deutschland
 
 
 

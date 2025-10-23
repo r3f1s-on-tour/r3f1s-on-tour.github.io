@@ -23,7 +23,7 @@ name: "MissionDay Hamburg"
 ---
 # MissionDay Hamburg
 
-*2015* • {{__region__}} • Deutschland
+*2015* • Hamburg • Deutschland
 
 
 

@@ -23,7 +23,7 @@ name: "Oranienburger Toast Rangers"
 ---
 # Oranienburger Toast Rangers
 
-*2022* • {{__region__}} • Deutschland
+*2022* • Oranienburg • Deutschland
 
 
 

@@ -23,7 +23,7 @@ name: "Wahrzeichen Oranienburg"
 ---
 # Wahrzeichen Oranienburg
 
-*2019* • {{__region__}} • Deutschland
+*2019* • Oranienburg • Deutschland
 
 
 

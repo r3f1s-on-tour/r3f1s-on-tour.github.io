@@ -23,7 +23,7 @@ name: "Augsburg im März"
 ---
 # Augsburg im März
 
-*2018* • {{__region__}} • Deutschland
+*2018* • Augsburg • Deutschland
 
 
 

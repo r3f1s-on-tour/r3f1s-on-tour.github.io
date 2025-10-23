@@ -23,7 +23,7 @@ name: "Gryf Szczeciński"
 ---
 # Gryf Szczeciński
 
-*2016* • {{__region__}} • Polska
+*2016* • Szczecin • Polska
 
 ![Gryf Szczeciński](https://api.bannergress.com/bnrs/pictures/c06a4e6331dcb9dadd919ff242cc385f)
 

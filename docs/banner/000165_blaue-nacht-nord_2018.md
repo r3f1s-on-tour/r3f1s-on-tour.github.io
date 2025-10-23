@@ -23,7 +23,7 @@ name: "Blaue Nacht Nord"
 ---
 # Blaue Nacht Nord
 
-*2018* • {{__region__}} • Deutschland
+*2018* • Nürnberg • Deutschland
 
 
 

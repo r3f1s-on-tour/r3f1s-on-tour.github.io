@@ -23,7 +23,7 @@ name: "Evolution of Frog - Strasburg"
 ---
 # Evolution of Frog - Strasburg
 
-*2021* • {{__region__}} • Deutschland
+*2021* • Strasburg (Uckermark) • Deutschland
 
 
 

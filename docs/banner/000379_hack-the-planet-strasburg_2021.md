@@ -23,7 +23,7 @@ name: "Hack the planet - Strasburg"
 ---
 # Hack the planet - Strasburg
 
-*2021* • {{__region__}} • Deutschland
+*2021* • Strasburg (Uckermark) • Deutschland
 
 ![Hack the planet - Strasburg](https://api.bannergress.com/bnrs/pictures/5d9a96aec7cb4f9a4a326a6e5c1b7b86)
 

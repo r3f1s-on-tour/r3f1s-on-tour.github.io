@@ -23,7 +23,7 @@ name: "BC Regensburgp"
 ---
 # BC Regensburgp
 
-*2017* • {{__region__}} • Deutschland
+*2017* • Regensburg • Deutschland
 
 ![BC Regensburgp](https://api.bannergress.com/bnrs/pictures/a3f5023277f9d882dc5bb9c62d1f5f17)
 
