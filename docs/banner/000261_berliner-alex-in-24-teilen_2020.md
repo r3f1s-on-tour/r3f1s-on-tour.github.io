@@ -20,10 +20,8 @@ title: "Berliner Alex in 24 Teilen"
 
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
 
-## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-## Infos
 - **nummer**: {{ page.meta.nummer }}
 - **startLatitude**: {{ page.meta.startLatitude }}
 - **startLongitude**: {{ page.meta.startLongitude }}

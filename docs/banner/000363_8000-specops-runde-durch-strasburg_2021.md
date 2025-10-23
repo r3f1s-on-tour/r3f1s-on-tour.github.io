@@ -20,7 +20,6 @@ title: "8000 SpecOps Runde durch Strasburg"
 
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
 
-## Infos
 - **nummer**: {{ page.meta.nummer }}
 - **startLatitude**: {{ page.meta.startLatitude }}
 - **startLongitude**: {{ page.meta.startLongitude }}

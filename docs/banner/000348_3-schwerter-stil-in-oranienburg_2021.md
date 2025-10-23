@@ -20,7 +20,6 @@ title: "3 Schwerter Stil in Oranienburg"
 
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
 
-## Infos
 - **nummer**: {{ page.meta.nummer }}
 - **startLatitude**: {{ page.meta.startLatitude }}
 - **startLongitude**: {{ page.meta.startLongitude }}

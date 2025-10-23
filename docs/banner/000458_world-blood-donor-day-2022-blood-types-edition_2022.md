@@ -20,7 +20,6 @@ title: "World Blood Donor Day 2022 - Blood Types Edition"
 
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
 
-## Infos
 - **nummer**: {{ page.meta.nummer }}
 - **startLatitude**: {{ page.meta.startLatitude }}
 - **startLongitude**: {{ page.meta.startLongitude }}

@@ -20,7 +20,6 @@ title: "2nd Sunday - May 4th be with you - Berlin"
 
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
 
-## Infos
 - **nummer**: {{ page.meta.nummer }}
 - **startLatitude**: {{ page.meta.startLatitude }}
 - **startLongitude**: {{ page.meta.startLongitude }}

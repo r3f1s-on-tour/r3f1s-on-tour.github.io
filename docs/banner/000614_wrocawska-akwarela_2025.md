@@ -20,13 +20,10 @@ title: "Wrocławska akwarela"
 
 _**Datum:** {{ page.meta.date }} • **Country:** {{ page.meta.country }}_
 
-## Bild
 ![{{ page.meta.title | default('Bild') }}]({{ page.meta.picture }})
 
-## Links
 - **bg-link**: [{{ page.meta['bg-link'] }}]({{ page.meta['bg-link'] }})
 
-## Infos
 - **nummer**: {{ page.meta.nummer }}
 - **region**: {{ page.meta.region }}
 - **country**: {{ page.meta.country }}
