@@ -18,15 +18,15 @@ title: "SPAZIERGANG"
 ---
 # SPAZIERGANG
 
-*2022* • Deutschland
+*2022* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 6,23
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 8.676
+- **Das ist mein Banner Nr.:** 407
 - **Beschreibung:** Eine kleine  Runde in Berlin Mitte
 
 

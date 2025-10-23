@@ -18,15 +18,15 @@ title: "FS Berlin #IngressFS"
 ---
 # FS Berlin #IngressFS
 
-*2020* • Deutschland
+*2020* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 1,66
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 6462
+- **Das ist mein Banner Nr.:** 277
 - **Beschreibung:** Kurze Missionsreihe zum Berliner First Saturday. Bekannte Berliner Motive zusammengefasst zu einem schönen Kiezspaziergang.
 
 

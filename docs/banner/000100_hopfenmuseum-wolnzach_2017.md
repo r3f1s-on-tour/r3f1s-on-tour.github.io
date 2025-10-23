@@ -18,15 +18,15 @@ title: "Hopfenmuseum Wolnzach"
 ---
 # Hopfenmuseum Wolnzach
 
-*2017* • Deutschland
+*2017* • Lohwinden • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 10,21
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 2580
+- **Das ist mein Banner Nr.:** 100
 - **Beschreibung:** Das Deutsche Hopfenmuseum in Wolnzach in der Hallertau in Bayern wurde 2002 vom Förderverein Deutsches Hopfenmuseum auf dem ehemaligen Gelände des Feuerwehrhauses eingerichtet.
 
 

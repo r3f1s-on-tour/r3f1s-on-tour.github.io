@@ -18,15 +18,15 @@ title: "The Berlin Hoff Museum"
 ---
 # The Berlin Hoff Museum
 
-*2020* • Deutschland
+*2020* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 1,51
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 6306
+- **Das ist mein Banner Nr.:** 265
 - **Beschreibung:** This walk guides you at the end to the small but famous Museum of the Hoff. Its located in Mitte close to Rosenthaler Platz.
 
 

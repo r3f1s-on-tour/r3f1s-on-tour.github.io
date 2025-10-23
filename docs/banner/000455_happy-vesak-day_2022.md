@@ -18,15 +18,15 @@ title: "Happy Vesak Day"
 ---
 # Happy Vesak Day
 
-*2022* • Deutschland
+*2022* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 5,587
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 9.426
+- **Das ist mein Banner Nr.:** 455
 - **Beschreibung:** Buddhists celebrate Vesak as their most important festival. This day, they remember Buddha's birth, his enlightenment and his death. Follow the path of Buddah from S-Charlottenburg to S-Savignyplatz.
 
 

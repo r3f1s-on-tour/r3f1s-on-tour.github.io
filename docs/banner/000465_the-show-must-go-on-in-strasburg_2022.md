@@ -3,7 +3,7 @@ nummer: "465"
 startLatitude: "53,507239"
 startLongitude: "13,745734"
 titel: "The Show Must Go On in Strasburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/dca5a0834fa517ddd0a5056ad3859e8c"
 region: "Strasburg (Uckermark)"
 country: "Deutschland"
 completed: "10.224"
@@ -18,15 +18,15 @@ title: "The Show Must Go On in Strasburg"
 ---
 # The Show Must Go On in Strasburg
 
-*2022* • Deutschland
+*2022* • Strasburg (Uckermark) • Deutschland
 
-
+![The Show Must Go On in Strasburg](https://api.bannergress.com/bnrs/pictures/dca5a0834fa517ddd0a5056ad3859e8c)
 
 ## Details
 - **Distanz (km):** 3,514
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 10.224
+- **Das ist mein Banner Nr.:** 465
 - **Beschreibung:** Starte am Marktplatz  einen Rundgang und entdecke Strasburg. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet auf dem Marktplatz
 
 

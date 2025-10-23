@@ -18,15 +18,15 @@ title: "I Love München"
 ---
 # I Love München
 
-*2016* • Deutschland
+*2016* • München • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 2,32
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 426
+- **Das ist mein Banner Nr.:** 24
 - **Beschreibung:** I love München.
 
 

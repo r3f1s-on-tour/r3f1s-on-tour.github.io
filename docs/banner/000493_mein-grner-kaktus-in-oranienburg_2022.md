@@ -18,15 +18,15 @@ title: "Mein grüner Kaktus in Oranienburg"
 ---
 # Mein grüner Kaktus in Oranienburg
 
-*2022* • Deutschland
+*2022* • Oranienburg • Deutschland
 
 ![Mein grüner Kaktus in Oranienburg](https://api.bannergress.com/bnrs/pictures/8c94f3fbb77c8eef340b0ca8a9eda497)
 
 ## Details
 - **Distanz (km):** 8
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 10.560
+- **Das ist mein Banner Nr.:** 493
 - **Beschreibung:** Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 

@@ -18,15 +18,15 @@ title: "Berlin musikalisch"
 ---
 # Berlin musikalisch
 
-*2021* • Deutschland
+*2021* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 15,82
-
-
-
+- **Missionen im Banner:** 48
+- **Insgesamt abgeschlossene Missionen:** 7062
+- **Das ist mein Banner Nr.:** 302
 - **Beschreibung:** Auf dem Weg vom Postbahnhof zum Lido. 
 Zwei der besten Konzertlocations in Berlin.
 

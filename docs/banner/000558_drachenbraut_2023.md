@@ -18,15 +18,15 @@ title: "Drachenbraut"
 ---
 # Drachenbraut
 
-*2023* • Deutschland
+*2023* • Rotenburg an der Fulda • Deutschland
 
 ![Drachenbraut](https://api.bannergress.com/bnrs/pictures/3b6d9fe949035422962ff24d0933b2f9)
 
 ## Details
 - **Distanz (km):** 4,39
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 12.408
+- **Das ist mein Banner Nr.:** 558
 - **Beschreibung:** Willkommen zu meinen ersten Mossaik in Rotenburg an der Fulda.
 
 

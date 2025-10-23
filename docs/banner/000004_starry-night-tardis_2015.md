@@ -18,15 +18,15 @@ title: "Starry Night TARDIS"
 ---
 # Starry Night TARDIS
 
-*2015* • Deutschland
+*2015* • Stralsund • Deutschland
 
 ![Starry Night TARDIS](https://lh3.googleusercontent.com/pw/AP1GczOYoXuwqJp6yd2kMQlUhFxc6l_VGhug7zs10AvGDFxAAzh07RDi_diFwOgtVu6l7dY_JUiUSpP7Jn4KRorWu0AUjLUZinfiiVYuchvBL-DZB-TiH39rbiRALO_JPRP75GnIifAZ8EA_0XSppe65X2Cl5w)
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 132
+- **Das ist mein Banner Nr.:** 4
 
 
 

@@ -18,15 +18,15 @@ title: "Elberfeld im Schneckentempo"
 ---
 # Elberfeld im Schneckentempo
 
-*2022* • Deutschland
+*2022* • Wuppertal • Deutschland
 
 ![Elberfeld im Schneckentempo](https://api.bannergress.com/bnrs/pictures/59a729228b1cf48cf1b3990eedf280e7)
 
 ## Details
 - **Distanz (km):** 2,828
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 10.836
+- **Das ist mein Banner Nr.:** 508
 - **Beschreibung:** Eine gemütliche Runde durch den Stadtbezirk Elberfeld der Stadt Wuppertal.
 
 

@@ -18,15 +18,15 @@ title: "Zingel Neubrandenburg Lichterfest"
 ---
 # Zingel Neubrandenburg Lichterfest
 
-*2022* • Deutschland
+*2022* • Neubrandenburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 8,22
-
-
-
+- **Missionen im Banner:** 30
+- **Insgesamt abgeschlossene Missionen:** 8.490
+- **Das ist mein Banner Nr.:** 393
 - **Beschreibung:** Der Rundgang führt durch die Innenstadt von Neubrandenburg. Erlebe dabei die zahlreichen Gebäude aus dem Mittelalter und entdecke die Infotafeln, die die Geschichte der Stadt Neubrandenburg erzählen.
 
 

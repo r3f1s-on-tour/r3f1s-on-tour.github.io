@@ -18,15 +18,15 @@ title: "blue Frog Berlin"
 ---
 # blue Frog Berlin
 
-*2021* • Deutschland
+*2021* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 10,73
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 7284
+- **Das ist mein Banner Nr.:** 311
 - **Beschreibung:** Hack  all Portals
 
 

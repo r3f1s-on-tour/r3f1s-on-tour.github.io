@@ -18,15 +18,15 @@ title: "Łowicz-Muster Tour in der Oranienburger Straße"
 ---
 # Łowicz-Muster Tour in der Oranienburger Straße
 
-*2025* • Deutschland
+*2025* • Berlin • Deutschland
 
 ![Łowicz-Muster Tour in der Oranienburger Straße](https://api.bannergress.com/bnrs/pictures/4eb320933eceae6520fde68d35d23d05)
 
 ## Details
 - **Distanz (km):** 1,6
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 13.422
+- **Das ist mein Banner Nr.:** 613
 
 
 

@@ -18,15 +18,15 @@ title: "Wiener Platz"
 ---
 # Wiener Platz
 
-*2017* • Deutschland
+*2017* • München • Deutschland
 
 ![Wiener Platz](https://api.bannergress.com/bnrs/pictures/017bedff3d4bbcaf87c58d14b36ffd1e)
 
 ## Details
 - **Distanz (km):** 7,90
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 2088
+- **Das ist mein Banner Nr.:** 77
 - **Beschreibung:** Am Wiener Platz befindet sich seit 1889 der kleinste der 4 ständigen Märkte Münchens. Nebenan befindet sich der Hofbräukeller, wo auch bis in die 1980er Jahre das Hofbräu-Bier gebraut wurde.
 
 

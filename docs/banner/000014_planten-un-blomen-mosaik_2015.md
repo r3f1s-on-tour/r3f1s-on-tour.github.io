@@ -18,15 +18,15 @@ title: "Planten un Blomen Mosaik"
 ---
 # Planten un Blomen Mosaik
 
-*2015* • Deutschland
+*2015* • Hamburg • Deutschland
 
 ![Planten un Blomen Mosaik](https://api.bannergress.com/bnrs/pictures/a844bc123043e26a652f2fef6fa42d3f)
 
 ## Details
 - **Distanz (km):** 7,38
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 276
+- **Das ist mein Banner Nr.:** 14
 - **Beschreibung:** All Missions are in sequence and hack only!
 Mission- 1 of 18
 Location- Hamburg Germany

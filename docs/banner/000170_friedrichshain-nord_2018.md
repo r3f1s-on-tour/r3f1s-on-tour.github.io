@@ -18,15 +18,15 @@ title: "Friedrichshain Nord"
 ---
 # Friedrichshain Nord
 
-*2018* • Deutschland
+*2018* • Berlin • Deutschland
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 4122
+- **Das ist mein Banner Nr.:** 170
 
 
 

@@ -18,15 +18,15 @@ title: "Slaget om Malmö"
 ---
 # Slaget om Malmö
 
-*2018* • Sverige
+*2018* • Malmö • Sverige
 
 
 
 ## Details
 - **Distanz (km):** 2,56
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 4674
+- **Das ist mein Banner Nr.:** 200
 - **Beschreibung:** Sista kriget mellan Sverige och Danmark var i slutet av 1600-talet. Då hade det krigats  till och från i ett par hundra år om Skåne.  Bild av 1658 när Karl X Gustav besöker nya staden. Not 24/7!
 
 

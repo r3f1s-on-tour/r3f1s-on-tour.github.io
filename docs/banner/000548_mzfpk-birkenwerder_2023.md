@@ -18,15 +18,15 @@ title: "MZFPK-Birkenwerder"
 ---
 # MZFPK-Birkenwerder
 
-*2023* • Deutschland
+*2023* • Birkenwerder • Deutschland
 
 ![MZFPK-Birkenwerder](https://api.bannergress.com/bnrs/pictures/8965839e7973fe31f6de0b7f9ce72fe5)
 
 ## Details
 - **Distanz (km):** 0,926
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 12.132
+- **Das ist mein Banner Nr.:** 548
 - **Beschreibung:** Erkunde Birkenwerder zum MZFPK am 18.März
 Builder.Enginer-Hacker-Purifier-Translator-Trekker
 

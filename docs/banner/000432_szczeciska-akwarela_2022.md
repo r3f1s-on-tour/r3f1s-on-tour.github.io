@@ -18,15 +18,15 @@ title: "Szczecińska akwarela"
 ---
 # Szczecińska akwarela
 
-*2022* • Polska
+*2022* • Szczecin • Polska
 
 
 
 ## Details
 - **Distanz (km):** 8,59
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 9.018
+- **Das ist mein Banner Nr.:** 432
 - **Beschreibung:** Akwarela z charakterystycznymi miejscami Szczecina. Za bardzo się nie zmęczysz przy robieniu tej mozaiki -) 
 Start - Brama Portowa!
 

@@ -18,15 +18,15 @@ title: "Merry Christmas - Strasburg"
 ---
 # Merry Christmas - Strasburg
 
-*2021* • Deutschland
+*2021* • Strasburg (Uckermark) • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 3,18
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 7998
+- **Das ist mein Banner Nr.:** 362
 - **Beschreibung:** Starte am Marktplatz und entdecke Strasburg Uckermark bei einer weihnachtlichen Spaziergang.
 
 

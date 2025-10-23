@@ -18,15 +18,15 @@ title: "Catwalk Pippa"
 ---
 # Catwalk Pippa
 
-*2022* • Deutschland
+*2022* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 5,00
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 8.574
+- **Das ist mein Banner Nr.:** 400
 - **Beschreibung:** Begleite Pippa auf einen Entdeckungsstreifzug vom S+U Lichtenberg nach Friedrichsfelde und dort im Bogen durch den Weitlingkiez zurück zu seinem Ausgangspunkt.
 
 

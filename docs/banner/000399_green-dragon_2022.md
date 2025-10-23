@@ -18,15 +18,15 @@ title: "Green Dragon"
 ---
 # Green Dragon
 
-*2022* • Deutschland
+*2022* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 12,00
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 8.556
+- **Das ist mein Banner Nr.:** 399
 - **Beschreibung:** Der kleine Drache schlüpft am S+U Bhf Lichtenberg. Begleite ihn Richtung Friedrichsfelde Ost, um von dort weiter den Weitling- & Nöldnerkiez zu durchstreifen. Seine Reise endet dort, wo alles begann.
 
 

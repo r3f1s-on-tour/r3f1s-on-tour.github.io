@@ -18,15 +18,15 @@ title: "Der Greif von Mecklenburg"
 ---
 # Der Greif von Mecklenburg
 
-*2016* • Deutschland
+*2016* • Katzow • Deutschland
 
 ![Der Greif von Mecklenburg](https://api.bannergress.com/bnrs/pictures/4ee2a8167c2085a63047e7820de51ce3)
 
 ## Details
 - **Distanz (km):** 11,11
-
-
-
+- **Missionen im Banner:** 48
+- **Insgesamt abgeschlossene Missionen:** 516
+- **Das ist mein Banner Nr.:** 27
 - **Beschreibung:** Zu schnelles hacken wird bestraft mit 5min Wartezeit;) 
 solltet ihr zu schnell gehackt haben kann es zum Schluss des Mosaik knapp werden. Genügend Multihacks wären von Vorteil. Viel Spaß -o)
 

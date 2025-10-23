@@ -18,15 +18,15 @@ title: "Grüner Krieger"
 ---
 # Grüner Krieger
 
-*2020* • Deutschland
+*2020* • München • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 15,59
-
-
-
+- **Missionen im Banner:** 54
+- **Insgesamt abgeschlossene Missionen:** 6684
+- **Das ist mein Banner Nr.:** 285
 - **Beschreibung:** Erkunde die Stadt München ab dem Karlsplatz durch die Maxvorstadt bis zum Hauptbahnhof
 
 

@@ -18,15 +18,15 @@ title: "Ingress down Rotenburg"
 ---
 # Ingress down Rotenburg
 
-*2023* • Deutschland
+*2023* • Rotenburg an der Fulda • Deutschland
 
 ![Ingress down Rotenburg](https://api.bannergress.com/bnrs/pictures/7adade71b2852df2906470cb571a69c9)
 
 ## Details
 - **Distanz (km):** 2,144
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 12.420
+- **Das ist mein Banner Nr.:** 559
 - **Beschreibung:** Entdecke spannende Orte und historische Ecken bei einem kleinen Rundgang durch Rotenburg
 
 

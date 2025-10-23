@@ -18,15 +18,15 @@ title: "Blaue Nacht Ost"
 ---
 # Blaue Nacht Ost
 
-*2018* • Deutschland
+*2018* • Nürnberg • Deutschland
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 36
+- **Insgesamt abgeschlossene Missionen:** 3984
+- **Das ist mein Banner Nr.:** 164
 
 
 

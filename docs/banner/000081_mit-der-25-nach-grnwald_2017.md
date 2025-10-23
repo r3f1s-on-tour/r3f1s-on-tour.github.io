@@ -18,15 +18,15 @@ title: "Mit der 25 nach Grünwald"
 ---
 # Mit der 25 nach Grünwald
 
-*2017* • Deutschland
+*2017* • München • Deutschland
 
 ![Mit der 25 nach Grünwald](https://api.bannergress.com/bnrs/pictures/b53d37e0f534572b1c95f217c63c8344)
 
 ## Details
 - **Distanz (km):** 17,46
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 2160
+- **Das ist mein Banner Nr.:** 81
 - **Beschreibung:** Vom Max-Weber-Platz mit der Tram 25 nach Grünwald. Am Ende kann in Grünwald noch der Schriftzug „Entdecke Grünwald“ (6er Banner) angehängt werden.
 
 

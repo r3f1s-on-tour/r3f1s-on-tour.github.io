@@ -18,15 +18,15 @@ title: "Salzburg City Panorama"
 ---
 # Salzburg City Panorama
 
-*2019* • Österreich
+*2019* • Salzburg • Österreich
 
 
 
 ## Details
 - **Distanz (km):** 4,19
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 5322
+- **Das ist mein Banner Nr.:** 220
 - **Beschreibung:** Salzburg City Panorama
 
 

@@ -18,15 +18,15 @@ title: "Second Sunday April Humann-Kiez"
 ---
 # Second Sunday April Humann-Kiez
 
-*2022* • Deutschland
+*2022* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 1,66
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 9.132
+- **Das ist mein Banner Nr.:** 439
 - **Beschreibung:** This mission will guide you from Schoenhauser Allee to Humannplatz
 
 

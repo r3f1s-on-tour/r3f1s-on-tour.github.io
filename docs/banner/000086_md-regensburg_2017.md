@@ -18,15 +18,15 @@ title: "MD Regensburg"
 ---
 # MD Regensburg
 
-*2017* • Deutschland
+*2017* • Regensburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 29,30
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 2232
+- **Das ist mein Banner Nr.:** 86
 
 
 

@@ -18,15 +18,15 @@ title: "Berghain Mosaik"
 ---
 # Berghain Mosaik
 
-*2022* • Deutschland
+*2022* • Berlin • Deutschland
 
 ![Berghain Mosaik](https://api.bannergress.com/bnrs/pictures/fbceba1a5f412c69c9a424997b50b9c8)
 
 ## Details
 - **Distanz (km):** 6,629
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 10.452
+- **Das ist mein Banner Nr.:** 484
 - **Beschreibung:** Praising the glorious techno club you take a walk through it's neighborhood.
 
 You will get some further information about Berghain during your trip.

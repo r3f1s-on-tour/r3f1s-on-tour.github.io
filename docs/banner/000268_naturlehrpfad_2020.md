@@ -18,15 +18,15 @@ title: "Naturlehrpfad"
 ---
 # Naturlehrpfad
 
-*2020* • Deutschland
+*2020* • Velten • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 5,28
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 6342
+- **Das ist mein Banner Nr.:** 268
 - **Beschreibung:** Diese Missionsreihe führt euch über den Naturlehrpfad durch beschauliche Wälder und Wiesen zu Interessanten Versteckten Orten.
 Lernt etwas daraus und habt spaß beim Wandern.
 

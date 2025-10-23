@@ -18,15 +18,15 @@ title: "Weihnachten am Chinesischen Turm"
 ---
 # Weihnachten am Chinesischen Turm
 
-*2016* • Deutschland
+*2016* • München • Deutschland
 
 ![Weihnachten am Chinesischen Turm](https://api.bannergress.com/bnrs/pictures/4b5ea303a04b6c745ca69d622a2b195f)
 
 ## Details
 - **Distanz (km):** 5,54
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 1164
+- **Das ist mein Banner Nr.:** 50
 - **Beschreibung:** Der Chinesische Turm wurde in den Jahren 1789 bis 1790 erbaut und 1792 mit der Eröffnung des Englischen Gartens als Aussichtsplattform der Öffentlichkeit zugänglich gemacht.
 
 

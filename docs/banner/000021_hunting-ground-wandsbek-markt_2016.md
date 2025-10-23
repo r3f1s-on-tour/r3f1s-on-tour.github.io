@@ -18,15 +18,15 @@ title: "Hunting ground Wandsbek Markt"
 ---
 # Hunting ground Wandsbek Markt
 
-*2016* • Deutschland
+*2016* • Hamburg • Deutschland
 
 ![Hunting ground Wandsbek Markt](https://api.bannergress.com/bnrs/pictures/4a9916708f283ca0625a1546dbcf5d55)
 
 ## Details
 - **Distanz (km):** 1,51
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 360
+- **Das ist mein Banner Nr.:** 21
 - **Beschreibung:** Die sechs Vampir Clans der Camarilla begehren diese Domäne. Welcher Clan wird obsiegen? Wen wirst du unterstützen?
 
 

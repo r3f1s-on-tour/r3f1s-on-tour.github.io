@@ -18,15 +18,15 @@ title: "Das Große Wiesn Mosaik Teil 3"
 ---
 # Das Große Wiesn Mosaik Teil 3
 
-*2019* • Deutschland
+*2019* • München • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 34,00
-
-
-
+- **Missionen im Banner:** 30
+- **Insgesamt abgeschlossene Missionen:** 5484
+- **Das ist mein Banner Nr.:** 227
 - **Beschreibung:** Teil 3 der großen Wiesnreihe. Start und Ende an der Theresienwiese. Hälfte ist in Steinhauaen Viel Spaß
 
 

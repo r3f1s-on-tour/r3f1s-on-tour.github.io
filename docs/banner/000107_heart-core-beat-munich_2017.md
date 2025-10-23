@@ -18,15 +18,15 @@ title: "Heart Core Beat Munich"
 ---
 # Heart Core Beat Munich
 
-*2017* • Deutschland
+*2017* • München • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 2,70
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 2700
+- **Das ist mein Banner Nr.:** 107
 - **Beschreibung:** This resistance heartbeat as a counterpart to the luminescent heart leads  you through one of the most beautiful quarters of Munich.
 
 

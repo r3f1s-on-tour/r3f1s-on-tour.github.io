@@ -18,15 +18,15 @@ title: "Tatort Stralsund"
 ---
 # Tatort Stralsund
 
-*2021* • Deutschland
+*2021* • Stralsund • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 6,10
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 7644
+- **Das ist mein Banner Nr.:** 334
 - **Beschreibung:** Wir starten am Tatort Brunnenaue.
 
 

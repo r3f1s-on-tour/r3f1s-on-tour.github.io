@@ -18,15 +18,15 @@ title: "Rammbock in Oranienburg"
 ---
 # Rammbock in Oranienburg
 
-*2022* • Deutschland
+*2022* • Oranienburg • Deutschland
 
 ![Rammbock in Oranienburg](https://api.bannergress.com/bnrs/pictures/497d3477de6312acf9cc142d6fe09ff6)
 
 ## Details
 - **Distanz (km):** 1,599
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 10.434
+- **Das ist mein Banner Nr.:** 483
 - **Beschreibung:** Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
 
 

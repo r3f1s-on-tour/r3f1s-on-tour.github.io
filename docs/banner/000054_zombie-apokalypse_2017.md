@@ -18,15 +18,15 @@ title: "Zombie Apokalypse"
 ---
 # Zombie Apokalypse
 
-*2017* • Deutschland
+*2017* • Webling • Deutschland
 
 ![Zombie Apokalypse](https://api.bannergress.com/bnrs/pictures/5af621cc1fd0fe4e83ab4d00eea6c11a)
 
 ## Details
 - **Distanz (km):** 4,55
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 1236
+- **Das ist mein Banner Nr.:** 54
 - **Beschreibung:** Zombies überrennen die Stadt. Versuche zu entkommen und durchquere die Altstadt.
 
 

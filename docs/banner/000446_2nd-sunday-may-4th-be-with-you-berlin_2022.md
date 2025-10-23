@@ -18,15 +18,15 @@ title: "2nd Sunday - May 4th be with you - Berlin"
 ---
 # 2nd Sunday - May 4th be with you - Berlin
 
-*2022* • Deutschland
+*2022* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 2,45
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 9.246
+- **Das ist mein Banner Nr.:** 446
 - **Beschreibung:** Zum 2nd Sunday führt Dich eine kleine Tour durch den Weitlingkiez von Lichtenberg. Start und Endpunkt sind U+S Lichtenberg.
 This graphic is submitted / accepted around the Globe in different cities
 

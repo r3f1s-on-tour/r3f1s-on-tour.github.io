@@ -18,15 +18,15 @@ title: "Marienplatz München"
 ---
 # Marienplatz München
 
-*2016* • Deutschland
+*2016* • München • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 5,84
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 624
+- **Das ist mein Banner Nr.:** 31
 - **Beschreibung:** 1315 verlieh Kaiser Ludwig der Bayer München die Marktfreiheit mit der Auflage, dass der damals Marktplatz genannte Marienplatz „auf ewige Zeiten“ hin unbebaut bleibe.
 
 

@@ -18,15 +18,15 @@ title: "Watercolor Munich"
 ---
 # Watercolor Munich
 
-*2019* • Deutschland
+*2019* • München • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 2,10
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 5694
+- **Das ist mein Banner Nr.:** 238
 - **Beschreibung:** Quick walk through Munich city. Start/End Marienplatz.
 
 

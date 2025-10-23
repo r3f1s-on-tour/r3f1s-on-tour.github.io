@@ -18,15 +18,15 @@ title: "Cat Eyes Green"
 ---
 # Cat Eyes Green
 
-*2022* • Deutschland
+*2022* • Berlin • Deutschland
 
 ![Cat Eyes Green](https://api.bannergress.com/bnrs/pictures/182670de155c6ecee8cbd731866220ff)
 
 ## Details
 - **Distanz (km):** 2,258
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 10.320
+- **Das ist mein Banner Nr.:** 471
 - **Beschreibung:** Dieses Banner ist die zweite Farbe von insgesamt 6. 
 Sie startet und Endet am S+U Lichtenberg. 
 Als Passphrase wird jedweils die aktuelle Missionsnummer abgefragt

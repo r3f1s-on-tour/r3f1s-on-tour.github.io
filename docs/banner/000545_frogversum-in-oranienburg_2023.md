@@ -18,15 +18,15 @@ title: "FrogVersum in Oranienburg"
 ---
 # FrogVersum in Oranienburg
 
-*2023* • Deutschland
+*2023* • Oranienburg • Deutschland
 
 ![FrogVersum in Oranienburg](https://api.bannergress.com/bnrs/pictures/bac9bbf077680843963f4fd3668e3508)
 
 ## Details
 - **Distanz (km):** 9,631
-
-
-
+- **Missionen im Banner:** 36
+- **Insgesamt abgeschlossene Missionen:** 12.072
+- **Das ist mein Banner Nr.:** 545
 - **Beschreibung:** Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg. Starte in der Bernauer Straße
 
 

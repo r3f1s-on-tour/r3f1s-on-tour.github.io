@@ -18,15 +18,15 @@ title: "Welfenschloss Hannover"
 ---
 # Welfenschloss Hannover
 
-*2021* • Deutschland
+*2021* • Hannover • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 6,77
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 7410
+- **Das ist mein Banner Nr.:** 319
 - **Beschreibung:** Das Welfenschloss ist ein ehemaliges Schloss in Hannover im Stadtteil Nordstadt, das seit 1879 Sitz der Universität Hannover ist.
 
 

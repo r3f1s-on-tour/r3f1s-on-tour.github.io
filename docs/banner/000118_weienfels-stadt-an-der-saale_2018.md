@@ -18,15 +18,15 @@ title: "Weißenfels Stadt an der Saale"
 ---
 # Weißenfels Stadt an der Saale
 
-*2018* • Deutschland
+*2018* • Weißenfels • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 4,70
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 2880
+- **Das ist mein Banner Nr.:** 118
 - **Beschreibung:** Herzlich Willkommen zum 18zener Mosaik der Stadt Weißenfels. In jeder Mission erwartet euch am Ende eine Passphrase. Alle Fragen könnt ihr mit Wiki beantworten. Ich wünsche euch viel Spaß!
 
 

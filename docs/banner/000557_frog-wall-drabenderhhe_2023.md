@@ -18,15 +18,15 @@ title: "Frog Wall Drabenderhöhe"
 ---
 # Frog Wall Drabenderhöhe
 
-*2023* • Deutschland
+*2023* • Drabenderhöhe • Deutschland
 
 ![Frog Wall Drabenderhöhe](https://api.bannergress.com/bnrs/pictures/460aa2693281ecb3e07f5c1d6fefbeda)
 
 ## Details
 - **Distanz (km):** 2,081
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 12.390
+- **Das ist mein Banner Nr.:** 557
 - **Beschreibung:** Kleine Runde um die Kirche und dem Turm der Erinnerung in Drabenderhöhe.
 
 

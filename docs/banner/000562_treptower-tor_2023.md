@@ -18,15 +18,15 @@ title: "Treptower Tor"
 ---
 # Treptower Tor
 
-*2023* • Deutschland
+*2023* • Neubrandenburg • Deutschland
 
 ![Treptower Tor](https://api.bannergress.com/bnrs/pictures/5f7927c0f266221315c11d67fd512db6)
 
 ## Details
 - **Distanz (km):** 10,222
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 12.456
+- **Das ist mein Banner Nr.:** 562
 - **Beschreibung:** Das Treptower Tor ist eines von 4 Toren  in Neubrandenburg. Im Baustil  der norddeutschen Backsteingotik wurde das Tor im 14. Jahrhundert errichtet.
 
 

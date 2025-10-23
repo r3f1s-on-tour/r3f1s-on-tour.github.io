@@ -18,15 +18,15 @@ title: "Imperfect Humanist"
 ---
 # Imperfect Humanist
 
-*2021* • Deutschland
+*2021* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 1,25
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 7014
+- **Das ist mein Banner Nr.:** 301
 - **Beschreibung:** A special mission for one of the chosen Kaltenberg PLP teams.
 
 

@@ -18,15 +18,15 @@ title: "FS Berlin Halloween"
 ---
 # FS Berlin Halloween
 
-*2019* • Deutschland
+*2019* • Berlin • Deutschland
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 6162
+- **Das ist mein Banner Nr.:** 256
 
 
 

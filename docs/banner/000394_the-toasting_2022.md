@@ -18,15 +18,15 @@ title: "The Toasting"
 ---
 # The Toasting
 
-*2022* • Deutschland
+*2022* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 1,60
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 8.496
+- **Das ist mein Banner Nr.:** 394
 - **Beschreibung:** Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
 
 -----------------------------------

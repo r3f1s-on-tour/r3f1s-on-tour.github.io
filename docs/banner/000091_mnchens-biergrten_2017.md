@@ -18,15 +18,15 @@ title: "Münchens Biergärten"
 ---
 # Münchens Biergärten
 
-*2017* • Deutschland
+*2017* • München • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 13,99
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 2370
+- **Das ist mein Banner Nr.:** 91
 - **Beschreibung:** Besuche Münchens große Biergärten
 
 

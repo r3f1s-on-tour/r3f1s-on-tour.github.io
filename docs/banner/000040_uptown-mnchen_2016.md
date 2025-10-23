@@ -18,15 +18,15 @@ title: "Uptown München"
 ---
 # Uptown München
 
-*2016* • Deutschland
+*2016* • München • Deutschland
 
 ![Uptown München](https://api.bannergress.com/bnrs/pictures/a295e76d39c5950cbc83463f55857a90)
 
 ## Details
 - **Distanz (km):** 18,71
-
-
-
+- **Missionen im Banner:** 60
+- **Insgesamt abgeschlossene Missionen:** 888
+- **Das ist mein Banner Nr.:** 40
 - **Beschreibung:** Die gläserne Fassade umhüllt das Tragwerk des nach dreijähriger Bauzeit im Jahre 2004 im Stadtteil Moosach fertiggestellten Büroturms. Das Hochhaus wird von vier siebengeschossigen Gebäuden flankiert
 
 

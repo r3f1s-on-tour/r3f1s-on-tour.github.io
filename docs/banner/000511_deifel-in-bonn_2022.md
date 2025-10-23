@@ -18,15 +18,15 @@ title: "Deifel in Bonn"
 ---
 # Deifel in Bonn
 
-*2022* • Deutschland
+*2022* • Bonn • Deutschland
 
 ![Deifel in Bonn](https://api.bannergress.com/bnrs/pictures/6666727754e8e2f93c7b7453c6529c6f)
 
 ## Details
 - **Distanz (km):** 3
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 10.884
+- **Das ist mein Banner Nr.:** 511
 - **Beschreibung:** Starte am Hauptbahnhof einen Rundgang und entdecke Wuppertal. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet wieder am Hauptbahnhof
 
 

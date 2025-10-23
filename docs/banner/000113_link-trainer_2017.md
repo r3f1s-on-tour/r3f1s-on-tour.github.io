@@ -18,15 +18,15 @@ title: "Link Trainer"
 ---
 # Link Trainer
 
-*2017* • Deutschland
+*2017* • Unterschleißheim • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 18,78
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 2790
+- **Das ist mein Banner Nr.:** 113
 - **Beschreibung:** Diese Portalreihe führt euch durch Unterschleißheim. Start ist das Infinity Hotel im Gewerbegebiet.
 
 

@@ -18,15 +18,15 @@ title: "Göttingen Skyline"
 ---
 # Göttingen Skyline
 
-*2021* • Deutschland
+*2021* • Göttingen • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 2,59
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 7458
+- **Das ist mein Banner Nr.:** 322
 - **Beschreibung:** kleiner walk durch die Stadt vom Liesel bis zum Rathaus. Teil 1 führt dich zur Johanniskirche
 
 

@@ -18,15 +18,15 @@ title: "Birkenwerder"
 ---
 # Birkenwerder
 
-*2020* • Deutschland
+*2020* • Birkenwerder • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 2,33
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 6366
+- **Das ist mein Banner Nr.:** 271
 - **Beschreibung:** Eine kleine Runde durch Birkenwerder. Viel Spaß
 
 

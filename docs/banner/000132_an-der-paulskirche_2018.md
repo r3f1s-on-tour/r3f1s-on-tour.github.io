@@ -18,15 +18,15 @@ title: "An der Paulskirche"
 ---
 # An der Paulskirche
 
-*2018* • Deutschland
+*2018* • Frankfurt am Main • Deutschland
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 36
+- **Insgesamt abgeschlossene Missionen:** 3216
+- **Das ist mein Banner Nr.:** 132
 
 
 

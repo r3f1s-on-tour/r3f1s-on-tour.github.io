@@ -18,15 +18,15 @@ title: "Hacking Tour in und um Prohn"
 ---
 # Hacking Tour in und um Prohn
 
-*2015* • Deutschland
+*2015* • Prohn • Deutschland
 
 ![Hacking Tour in und um Prohn](https://lh3.googleusercontent.com/pw/AP1GczMzCoIKM9NTJgpLOnE0DMWtwTa6huMJdA7OyB2i8pZK2JsbdH4_DxE__4E9mPBC5LRIMhH8gB8iFpzDCAgU2nS-Cja3IMBkXMMw8v8VOSwIDSm6B4MWOlicWPu9ldZIbGxvuEshDe-sXWr_Ayyy7CqUUg)
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 108
+- **Das ist mein Banner Nr.:** 3
 
 
 

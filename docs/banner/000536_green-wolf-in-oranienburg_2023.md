@@ -18,15 +18,15 @@ title: "Green Wolf in Oranienburg"
 ---
 # Green Wolf in Oranienburg
 
-*2023* • Deutschland
+*2023* • Oranienburg • Deutschland
 
 ![Green Wolf in Oranienburg](https://api.bannergress.com/bnrs/pictures/44daebe0e1b46af8d54b87da655110dd)
 
 ## Details
 - **Distanz (km):** 17,927
-
-
-
+- **Missionen im Banner:** 78
+- **Insgesamt abgeschlossene Missionen:** 11.820
+- **Das ist mein Banner Nr.:** 536
 - **Beschreibung:** Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg. Starte in der Bernauer Straße
 
 

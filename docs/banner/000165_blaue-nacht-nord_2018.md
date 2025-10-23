@@ -18,15 +18,15 @@ title: "Blaue Nacht Nord"
 ---
 # Blaue Nacht Nord
 
-*2018* • Deutschland
+*2018* • Nürnberg • Deutschland
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 36
+- **Insgesamt abgeschlossene Missionen:** 4020
+- **Das ist mein Banner Nr.:** 165
 
 
 

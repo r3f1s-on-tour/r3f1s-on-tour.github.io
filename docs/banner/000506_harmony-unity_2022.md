@@ -18,15 +18,15 @@ title: "Harmony & Unity"
 ---
 # Harmony & Unity
 
-*2022* • Deutschland
+*2022* • Düsseldorf • Deutschland
 
 ![Harmony & Unity](https://api.bannergress.com/bnrs/pictures/052ed06117552afdf70a69b31bbd2109)
 
 ## Details
 - **Distanz (km):** 8,405
-
-
-
+- **Missionen im Banner:** 36
+- **Insgesamt abgeschlossene Missionen:** 10.818
+- **Das ist mein Banner Nr.:** 506
 - **Beschreibung:** Genieße diese kleine Runde durch die Düsseldorfer Altstadt und freu dich auf ein tolles Mosaik für beide Fraktionen. Im Anschluss solltest Du die Missionsreihe "Unity" absolvieren. Viel Spaß !
 
 

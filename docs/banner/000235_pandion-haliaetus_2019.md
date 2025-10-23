@@ -18,15 +18,15 @@ title: "Pandion haliaetus"
 ---
 # Pandion haliaetus
 
-*2019* • Deutschland
+*2019* • Röbel/Müritz • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 8,90
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 5568
+- **Das ist mein Banner Nr.:** 235
 - **Beschreibung:** Die Missionsreihe führt durch Röbel. Anfang und Ende befinden sich am Müritzufer. Die ersten Portale werden zum Schluss der Reihe nochmals besucht.
 
 

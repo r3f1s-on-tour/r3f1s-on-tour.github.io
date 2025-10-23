@@ -18,15 +18,15 @@ title: "Binz auf Rügen"
 ---
 # Binz auf Rügen
 
-*2015* • Deutschland
+*2015* • Binz • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 9,08
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 198
+- **Das ist mein Banner Nr.:** 9
 - **Beschreibung:** Besonderer Anziehungspunkt ist die 3,2 km lange Strandpromenade mit zahlreichen und liebevoll restaurierten Bädervillen, Hotels, Cafés und Restaurants sowie der Seebrücke.
 
 

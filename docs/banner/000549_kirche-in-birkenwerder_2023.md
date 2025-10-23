@@ -18,15 +18,15 @@ title: "Kirche in Birkenwerder"
 ---
 # Kirche in Birkenwerder
 
-*2023* • Deutschland
+*2023* • Birkenwerder • Deutschland
 
 ![Kirche in Birkenwerder](https://api.bannergress.com/bnrs/pictures/816c29e707a3870739747459dff43ee6)
 
 ## Details
 - **Distanz (km):** 7,026
-
-
-
+- **Missionen im Banner:** 42
+- **Insgesamt abgeschlossene Missionen:** 12.174
+- **Das ist mein Banner Nr.:** 549
 - **Beschreibung:** Beginne eine Runde durch Birkenwerder und entdecke auf deiner Runde die Wassertretanlage in der Briese. Starte am Briesesteig deine Runde
 
 

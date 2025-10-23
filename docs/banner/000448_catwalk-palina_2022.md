@@ -18,15 +18,15 @@ title: "Catwalk Palina"
 ---
 # Catwalk Palina
 
-*2022* • Deutschland
+*2022* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 8,00
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 9.282
+- **Das ist mein Banner Nr.:** 448
 - **Beschreibung:** Begleite Palina auf einen Entdeckungsstreifzug vom S+U Lichtenberg nach Friedrichsfelde und dort im Bogen durch den Weitlingkiez zurück zu seinem Ausgangspunkt.
 
 

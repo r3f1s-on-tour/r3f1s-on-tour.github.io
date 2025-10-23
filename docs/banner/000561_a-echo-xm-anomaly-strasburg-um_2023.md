@@ -18,15 +18,15 @@ title: "A Echo XM Anomaly Strasburg UM"
 ---
 # A Echo XM Anomaly Strasburg UM
 
-*2023* • Deutschland
+*2023* • Strasburg (Uckermark) • Deutschland
 
 ![A Echo XM Anomaly Strasburg UM](https://api.bannergress.com/bnrs/pictures/968776cd4d5c13635cc58353173c3808)
 
 ## Details
 - **Distanz (km):** 2,058
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 12.432
+- **Das ist mein Banner Nr.:** 561
 - **Beschreibung:** Führen Sie anlässlich der Echo XM Anomaly in Athen eine Event-Mission durch.
 
 

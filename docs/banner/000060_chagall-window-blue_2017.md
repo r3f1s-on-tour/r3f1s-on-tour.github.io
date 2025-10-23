@@ -18,15 +18,15 @@ title: "Chagall Window blue"
 ---
 # Chagall Window blue
 
-*2017* • Schweiz/Suisse/Svizzera/Svizra
+*2017* • Zürich • Schweiz/Suisse/Svizzera/Svizra
 
 ![Chagall Window blue](https://api.bannergress.com/bnrs/pictures/ea8abd6fbee2c76131fb4a97016de779)
 
 ## Details
 - **Distanz (km):** 1,74
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 1350
+- **Das ist mein Banner Nr.:** 60
 - **Beschreibung:** The beautiful windows made by Marc Chagall in 1970 belong to the modern, yet classic cultural heritage of Zurich and bring many tourists to Fraumünster.
 
 Optimal starting point for all three windows

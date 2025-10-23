@@ -3,7 +3,7 @@ nummer: "461"
 startLatitude: "52,509237"
 startLongitude: "13,497382"
 titel: "Catwalk Kosimo"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/60e253a7549362a18baee306acd4593f"
 region: "Berlin"
 country: "Deutschland"
 completed: "9.552"
@@ -18,15 +18,15 @@ title: "Catwalk Kosimo"
 ---
 # Catwalk Kosimo
 
-*2022* • Deutschland
+*2022* • Berlin • Deutschland
 
-
+![Catwalk Kosimo](https://api.bannergress.com/bnrs/pictures/60e253a7549362a18baee306acd4593f)
 
 ## Details
 - **Distanz (km):** 6,862
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 9.552
+- **Das ist mein Banner Nr.:** 461
 - **Beschreibung:** Join my cat Kosimo on a journey of discovery from S+U Lichtenberg to Friedrichsfelde and then in an arc through the Weitlingkiez back to his starting point.
 
 

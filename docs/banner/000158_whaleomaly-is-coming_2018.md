@@ -18,15 +18,15 @@ title: "Whaleomaly is Coming"
 ---
 # Whaleomaly is Coming
 
-*2018* • Deutschland
+*2018* • München • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 3,06
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 3816
+- **Das ist mein Banner Nr.:** 158
 - **Beschreibung:** Entdecke Münchens Wale! Bring sie mit, damit wir diese bei der Whaleomaly in Linz verbünden !
 
 Explore Munichs Whales! Take them with you to unite at the Whaleomaly Linz!

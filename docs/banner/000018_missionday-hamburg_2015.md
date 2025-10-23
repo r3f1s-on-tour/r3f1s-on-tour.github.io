@@ -18,15 +18,15 @@ title: "MissionDay Hamburg"
 ---
 # MissionDay Hamburg
 
-*2015* • Deutschland
+*2015* • Hamburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 71,95
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 330
+- **Das ist mein Banner Nr.:** 18
 - **Beschreibung:** The Alsterarkaden is the smallest and oldest shopping arcade in Hamburg.
 
 

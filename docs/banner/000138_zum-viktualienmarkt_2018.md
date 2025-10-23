@@ -18,15 +18,15 @@ title: "Zum Viktualienmarkt"
 ---
 # Zum Viktualienmarkt
 
-*2018* • Deutschland
+*2018* • München • Deutschland
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 3324
+- **Das ist mein Banner Nr.:** 138
 
 
 

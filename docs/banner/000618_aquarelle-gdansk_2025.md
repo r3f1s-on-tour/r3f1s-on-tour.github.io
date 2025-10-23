@@ -18,15 +18,15 @@ title: "Aquarelle Gdansk"
 ---
 # Aquarelle Gdansk
 
-*2025* • Polska
+*2025* • Gdansk • Polska
 
 ![Aquarelle Gdansk](https://api.bannergress.com/bnrs/pictures/ec7c1f87079942aabcfc16d660f09708)
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 13.500
+- **Das ist mein Banner Nr.:** 618
 
 
 

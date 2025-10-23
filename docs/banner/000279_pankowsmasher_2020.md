@@ -18,15 +18,15 @@ title: "Pankowsmasher"
 ---
 # Pankowsmasher
 
-*2020* • Deutschland
+*2020* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 8,97
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 6480
+- **Das ist mein Banner Nr.:** 279
 - **Beschreibung:** Diese Mission beginnt in Pankow und geleitet euch vorbei an wunderschönen Wasserpumpen, Informationstafeln und historischen Bauwerken.  Sie besteht aus 12 Missionen  und bildet ein  einmaliges Banner.
 
 

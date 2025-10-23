@@ -18,15 +18,15 @@ title: "Halloween in G zell"
 ---
 # Halloween in G zell
 
-*2017* • Deutschland
+*2017* • Gröbenzell • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 3,38
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 2772
+- **Das ist mein Banner Nr.:** 112
 - **Beschreibung:** Ursprünglich aus Irland stammend fand der Brauch, in der Nacht vor Allerheiligen beleuchtete Kürbisse (als "Jack O’Lantern" bekannt) aufzustellen, in den 90ern seinen Weg über die USA auch zu uns.
 
 

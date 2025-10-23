@@ -18,15 +18,15 @@ title: "Mizaru, Kikazaru, Iwazaru"
 ---
 # Mizaru, Kikazaru, Iwazaru
 
-*2021* • Deutschland
+*2021* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 6,02
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 7860
+- **Das ist mein Banner Nr.:** 350
 - **Beschreibung:** Starte eine Runde durch den Kollwitzkiez entlang des Teutoburger Platz und der Zionkirchsplatz.
 Start und Ende der Runde ist am Senefelderplatz
 

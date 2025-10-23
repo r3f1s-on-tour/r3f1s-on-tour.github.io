@@ -18,15 +18,15 @@ title: "Smoking Dark Side"
 ---
 # Smoking Dark Side
 
-*2021* • Deutschland
+*2021* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 7,26
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 6978
+- **Das ist mein Banner Nr.:** 299
 - **Beschreibung:** Starte einen Spaziergang durch den Kollwitzkiez und dem Winsviertel
 Start ist U-Bahn Eberswalder Straße und endet bei der Tram Prenzlauer Allee / Ecke Knaackstraße
 

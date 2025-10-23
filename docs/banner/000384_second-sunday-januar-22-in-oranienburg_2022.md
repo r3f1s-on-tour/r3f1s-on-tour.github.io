@@ -18,15 +18,15 @@ title: "Second Sunday Januar 22 in Oranienburg"
 ---
 # Second Sunday Januar 22 in Oranienburg
 
-*2022* • Deutschland
+*2022* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 2,13
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 8304
+- **Das ist mein Banner Nr.:** 384
 - **Beschreibung:** Mache zum Second Sunday ein kleine Runde durch Oranienburg. Start ist in der Bernauer Straße.
 
 Online bis 10.01.2022

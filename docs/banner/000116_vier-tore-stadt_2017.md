@@ -18,15 +18,15 @@ title: "Vier-Tore-Stadt"
 ---
 # Vier-Tore-Stadt
 
-*2017* • Deutschland
+*2017* • Neubrandenburg • Deutschland
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 2844
+- **Das ist mein Banner Nr.:** 116
 
 
 

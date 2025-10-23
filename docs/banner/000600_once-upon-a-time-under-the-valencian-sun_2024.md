@@ -18,15 +18,15 @@ title: "Once Upon A Time Under The Valencian Sun"
 ---
 # Once Upon A Time Under The Valencian Sun
 
-*2024* • España
+*2024* • València • España
 
 ![Once Upon A Time Under The Valencian Sun](https://api.bannergress.com/bnrs/pictures/ac7cc5b5c57769ac63ca1dee8f5d8afa)
 
 ## Details
 - **Distanz (km):** 4,879
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 13.236
+- **Das ist mein Banner Nr.:** 600
 - **Beschreibung:** Discover Valencia's Old Town, where historic charm meets vibrant culture. Wander through medieval streets, admire stunning architecture, and indulge in local cuisine at lively plazas.
 
 

@@ -18,15 +18,15 @@ title: "Łowicz-Muster Tour in Szczecin"
 ---
 # Łowicz-Muster Tour in Szczecin
 
-*2025* • Polska
+*2025* • Szczecin • Polska
 
 ![Łowicz-Muster Tour in Szczecin](https://api.bannergress.com/bnrs/pictures/20d5ac49d45afb2407fdb2b5f81576b0)
 
 ## Details
 - **Distanz (km):** 1,3
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 13.506
+- **Das ist mein Banner Nr.:** 619
 
 
 

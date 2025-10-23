@@ -18,15 +18,15 @@ title: "MissionDay Kaiserburg"
 ---
 # MissionDay Kaiserburg
 
-*2017* • Deutschland
+*2017* • Nürnberg • Deutschland
 
 ![MissionDay Kaiserburg](https://api.bannergress.com/bnrs/pictures/2104e045dafdef8399f8f8b76ec19f50)
 
 ## Details
 - **Distanz (km):** 8,73
-
-
-
+- **Missionen im Banner:** 30
+- **Insgesamt abgeschlossene Missionen:** 1590
+- **Das ist mein Banner Nr.:** 68
 - **Beschreibung:** Welcome to Nürnberg! Starting at Handwerkerhof across the main station this mission will lead you all along the old city wall up to the imperial castle and back to the main station.
 
 

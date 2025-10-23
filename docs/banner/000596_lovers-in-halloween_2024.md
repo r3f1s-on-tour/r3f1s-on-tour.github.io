@@ -18,15 +18,15 @@ title: "Lovers in Halloween"
 ---
 # Lovers in Halloween
 
-*2024* • España
+*2024* • València • España
 
 ![Lovers in Halloween](https://api.bannergress.com/bnrs/pictures/53887dbebfe07c6dd4073575ca5cc182)
 
 ## Details
 - **Distanz (km):** 10,574
-
-
-
+- **Missionen im Banner:** 42
+- **Insgesamt abgeschlossene Missionen:** 13.164
+- **Das ist mein Banner Nr.:** 596
 - **Beschreibung:** Celebra Halloween haciendo este bonito mural por las calles de Valencia.
 
 

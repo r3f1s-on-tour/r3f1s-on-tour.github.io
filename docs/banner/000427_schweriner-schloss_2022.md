@@ -18,15 +18,15 @@ title: "Schweriner Schloss"
 ---
 # Schweriner Schloss
 
-*2022* • Deutschland
+*2022* • Schwerin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 18,13
-
-
-
+- **Missionen im Banner:** 30
+- **Insgesamt abgeschlossene Missionen:** 8.904
+- **Das ist mein Banner Nr.:** 427
 - **Beschreibung:** Nach Absolvieren der Missionsreihe erhalten Sie ein schönes Bild des Schweriner Schlosses.
 
 

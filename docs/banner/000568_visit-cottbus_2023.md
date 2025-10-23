@@ -18,15 +18,15 @@ title: "Visit Cottbus"
 ---
 # Visit Cottbus
 
-*2023* • Deutschland
+*2023* • Cottbus - Chóśebuz • Deutschland
 
 ![Visit Cottbus](https://api.bannergress.com/bnrs/pictures/d0b5f523e3b86a0b7c9c3e7e5a069b7d)
 
 ## Details
 - **Distanz (km):** 5,169
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 12.558
+- **Das ist mein Banner Nr.:** 568
 - **Beschreibung:** Diese Mission beginnt am Bahnhof und geht über die Bahnhofstraße in Richtung Theater.
 
 

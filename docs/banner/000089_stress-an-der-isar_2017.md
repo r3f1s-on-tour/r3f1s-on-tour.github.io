@@ -18,15 +18,15 @@ title: "Stress an der Isar"
 ---
 # Stress an der Isar
 
-*2017* • Deutschland
+*2017* • München • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 15,65
-
-
-
+- **Missionen im Banner:** 36
+- **Insgesamt abgeschlossene Missionen:** 2298
+- **Das ist mein Banner Nr.:** 89
 - **Beschreibung:** "Minga, du machst mi fertig" möchte man laut ausschreien angesichts von all dem Stress, den man in unserem Millionendorf täglich erlebt. Dieses Missionsbanner soll als Mahnung dienen!
 
 

@@ -18,15 +18,15 @@ title: "Space Cats in Strasburg"
 ---
 # Space Cats in Strasburg
 
-*2023* • Deutschland
+*2023* • Strasburg (Uckermark) • Deutschland
 
 ![Space Cats in Strasburg](https://api.bannergress.com/bnrs/pictures/c61dd5eaabf367d3b46a1ee2f3da8b74)
 
 ## Details
 - **Distanz (km):** 1,047
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 11.994
+- **Das ist mein Banner Nr.:** 542
 - **Beschreibung:** Beginne eine Runde durch Strasburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Strasburg. Starte in der Schulstraße
 
 

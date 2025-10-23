@@ -18,15 +18,15 @@ title: "Cherry Blossom"
 ---
 # Cherry Blossom
 
-*2022* • Deutschland
+*2022* • Bonn • Deutschland
 
 ![Cherry Blossom](https://api.bannergress.com/bnrs/pictures/e9952cd06db29653926eedd0a0c39360)
 
 ## Details
 - **Distanz (km):** 5,954
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 10.944
+- **Das ist mein Banner Nr.:** 514
 - **Beschreibung:** Welcome to Bonn! Have a great time and enjoy the Cherry Blossom.
 
 

@@ -18,15 +18,15 @@ title: "Auf den Spuren des Wasabi"
 ---
 # Auf den Spuren des Wasabi
 
-*2021* • Deutschland
+*2021* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 1,59
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 7260
+- **Das ist mein Banner Nr.:** 310
 - **Beschreibung:** Hier im Kiez liegt die Historie des Wasabiphänomens. In verschiedenen Formen erhältlich, am bekömmlichsten als Milch. Verursacht auch in kleinsten Mengen Tränen.
 
 

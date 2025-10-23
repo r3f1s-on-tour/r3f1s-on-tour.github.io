@@ -18,15 +18,15 @@ title: "Dark Skyline"
 ---
 # Dark Skyline
 
-*2021* • Deutschland
+*2021* • Hannover • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 1,81
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 7386
+- **Das ist mein Banner Nr.:** 318
 - **Beschreibung:** Six-mission-set in the city-centre that shows some of Hannovers popular sights.
 
 

@@ -18,15 +18,15 @@ title: "Skyline Oranienburg"
 ---
 # Skyline Oranienburg
 
-*2022* • Deutschland
+*2022* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 2,88
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 9.126
+- **Das ist mein Banner Nr.:** 438
 - **Beschreibung:** Nimm Dir Zeit auf Deiner Reise durch Oranienburg. Die Tour beginnt in der Bernauer Straße und dauert ca. 2 Stunden. Entdecke historische Sehenswürdigkeiten und tolle Monumente der Moderne.
 
 

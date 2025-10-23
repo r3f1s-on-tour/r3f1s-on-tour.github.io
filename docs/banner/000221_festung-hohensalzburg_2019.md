@@ -18,15 +18,15 @@ title: "Festung Hohensalzburg"
 ---
 # Festung Hohensalzburg
 
-*2019* • Österreich
+*2019* • Salzburg • Österreich
 
 
 
 ## Details
 - **Distanz (km):** 4,20
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 5340
+- **Das ist mein Banner Nr.:** 221
 - **Beschreibung:** Über der Stadt Salzburg ragt ihr Wahrzeichen, die Festung Hohensalzburg, die zu den größten Burgen Europas zählt.
 
 

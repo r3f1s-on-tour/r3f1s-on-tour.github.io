@@ -18,15 +18,15 @@ title: "Stammstrecke München"
 ---
 # Stammstrecke München
 
-*2018* • Deutschland
+*2018* • München • Deutschland
 
 ![Stammstrecke München](https://api.bannergress.com/bnrs/pictures/a79aadf92efd27e31e9091eebee114de)
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 54
+- **Insgesamt abgeschlossene Missionen:** 4308
+- **Das ist mein Banner Nr.:** 179
 
 
 

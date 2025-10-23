@@ -18,15 +18,15 @@ title: "Schleissheim Postcard"
 ---
 # Schleissheim Postcard
 
-*2016* • Deutschland
+*2016* • Oberschleißheim • Deutschland
 
 ![Schleissheim Postcard](https://api.bannergress.com/bnrs/pictures/f101a454c5de5bc34c2ec4aff03bfe73)
 
 ## Details
 - **Distanz (km):** 9,63
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 954
+- **Das ist mein Banner Nr.:** 43
 - **Beschreibung:** Schleissheim Postcard Mission Banner.
 The Missions will lead you through most of Oberschleissheim.
 Possible on foot. Bike recommended.

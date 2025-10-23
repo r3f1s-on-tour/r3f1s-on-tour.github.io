@@ -18,15 +18,15 @@ title: "Circles Strasburg"
 ---
 # Circles Strasburg
 
-*2021* • Deutschland
+*2021* • Strasburg (Uckermark) • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 14,99
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 8238
+- **Das ist mein Banner Nr.:** 378
 - **Beschreibung:** Geh auf Entdeckungstour durch Strasburg.
 
 

@@ -18,15 +18,15 @@ title: "Sunset at the lake"
 ---
 # Sunset at the lake
 
-*2017* • Deutschland
+*2017* • Oberpfaffenhofen • Deutschland
 
 ![Sunset at the lake](https://api.bannergress.com/bnrs/pictures/e3e494a190ecc79e317bf49128248159)
 
 ## Details
 - **Distanz (km):** 6,25
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 2142
+- **Das ist mein Banner Nr.:** 80
 - **Beschreibung:** Erkunde den Wesslinger See und mache ein schönes Bild mit Sonnenuntergang am See. Die Missionsreihe besteht aus zwei Runden um den Wesslinger See- Hack&Capture und Link&Field. Endportal = Startportal.
 
 

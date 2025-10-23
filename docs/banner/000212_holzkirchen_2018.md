@@ -18,15 +18,15 @@ title: "Holzkirchen"
 ---
 # Holzkirchen
 
-*2018* • Deutschland
+*2018* • Marschall • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 10,84
-
-
-
+- **Missionen im Banner:** 36
+- **Insgesamt abgeschlossene Missionen:** 5172
+- **Das ist mein Banner Nr.:** 212
 - **Beschreibung:** Erfülle alle Missionen in der richtigen Reihenfolge um das Holzkirchner Wappen zu erhalten.
 
 

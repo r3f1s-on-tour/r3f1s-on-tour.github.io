@@ -18,15 +18,15 @@ title: "Wahrzeichen Oranienburg"
 ---
 # Wahrzeichen Oranienburg
 
-*2019* • Deutschland
+*2019* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 8,98
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 5988
+- **Das ist mein Banner Nr.:** 245
 - **Beschreibung:** Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erhälst das Abzeichen *Schloß Oranienburg*
 Zu Fuß je Mission ca 10 min.
 Viel Spaß

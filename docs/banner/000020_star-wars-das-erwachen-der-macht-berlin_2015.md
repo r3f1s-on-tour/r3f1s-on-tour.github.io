@@ -18,15 +18,15 @@ title: "STAR WARS - Das Erwachen der Macht (Berlin)"
 ---
 # STAR WARS - Das Erwachen der Macht (Berlin)
 
-*2015* • Deutschland
+*2015* • Berlin • Deutschland
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 354
+- **Das ist mein Banner Nr.:** 20
 
 
 

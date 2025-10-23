@@ -18,15 +18,15 @@ title: "World Bee Day in Oranienburg"
 ---
 # World Bee Day in Oranienburg
 
-*2022* • Deutschland
+*2022* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 1,59
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 9.168
+- **Das ist mein Banner Nr.:** 442
 - **Beschreibung:** Mache eine kleine Runde durch Oranienburg und feiere den Weltbienentag.
 
 

@@ -18,15 +18,15 @@ title: "Augsburg im März"
 ---
 # Augsburg im März
 
-*2018* • Deutschland
+*2018* • Augsburg • Deutschland
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 30
+- **Insgesamt abgeschlossene Missionen:** 3396
+- **Das ist mein Banner Nr.:** 142
 
 
 

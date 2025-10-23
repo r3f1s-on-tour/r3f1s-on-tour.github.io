@@ -18,15 +18,15 @@ title: "Weihnachten in Neubrandenburg - Second Sunday"
 ---
 # Weihnachten in Neubrandenburg - Second Sunday
 
-*2021* • Deutschland
+*2021* • Neubrandenburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 2,03
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 8070
+- **Das ist mein Banner Nr.:** 367
 - **Beschreibung:** Erkunde Neubrandenburg in der Weihnachtszeit. Die Mission beginnt und endet auf dem Marktplatz.
 
 

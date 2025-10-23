@@ -18,15 +18,15 @@ title: "Besuch der 4 Tore"
 ---
 # Besuch der 4 Tore
 
-*2015* • Deutschland
+*2015* • Neubrandenburg • Deutschland
 
 ![Besuch der 4 Tore](https://lh3.googleusercontent.com/pw/AP1GczMm-fJxwsRbALPJLTC-Zl7SMcFXyW54vRBOKRLjytSlbvXZOHFOvJf2RO5ujsN_LCxRAXQUK1c9Aya9tKaYogsDHBbRqNnXjjcam_-suxi7vAU7LV0G1px1zXPhXMESqFDIoOZeKnlGZ4Yfz7BAD3hygA)
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 144
+- **Das ist mein Banner Nr.:** 6
 
 
 

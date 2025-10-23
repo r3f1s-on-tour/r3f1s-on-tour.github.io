@@ -18,15 +18,15 @@ title: "Feldzug durch Bonn"
 ---
 # Feldzug durch Bonn
 
-*2022* • Deutschland
+*2022* • Bonn • Deutschland
 
 ![Feldzug durch Bonn](https://api.bannergress.com/bnrs/pictures/930e8b5b12515495725c0e0d4fcac97a)
 
 ## Details
 - **Distanz (km):** 3,806
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 10.902
+- **Das ist mein Banner Nr.:** 512
 - **Beschreibung:** Diese Missionsreihe führt durch Bonn. Vom Hauptbahnhof über den alten Friedhof und wieder zurück.
 
 

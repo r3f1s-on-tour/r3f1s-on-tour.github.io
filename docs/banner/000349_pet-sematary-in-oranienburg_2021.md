@@ -18,15 +18,15 @@ title: "Pet Sematary in Oranienburg"
 ---
 # Pet Sematary in Oranienburg
 
-*2021* • Deutschland
+*2021* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 6,05
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 7842
+- **Das ist mein Banner Nr.:** 349
 - **Beschreibung:** Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 

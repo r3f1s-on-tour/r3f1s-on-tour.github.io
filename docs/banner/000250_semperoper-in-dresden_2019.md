@@ -18,15 +18,15 @@ title: "Semperoper in Dresden"
 ---
 # Semperoper in Dresden
 
-*2019* • Deutschland
+*2019* • Dresden • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 5,48
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 6066
+- **Das ist mein Banner Nr.:** 250
 - **Beschreibung:** The Semperoper is the opera house of the Sächsische Staatsoper Dresden (Saxon State Opera) and the concert hall of the Staatskapelle Dresden (Saxon State Orchestra). Surprisingly it's not a brewery.
 
 

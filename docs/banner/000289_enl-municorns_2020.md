@@ -18,15 +18,15 @@ title: "ENL Municorns"
 ---
 # ENL Municorns
 
-*2020* • Deutschland
+*2020* • München • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 5,87
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 6732
+- **Das ist mein Banner Nr.:** 289
 - **Beschreibung:** The most mystical anomaly ever would definitely be the Unicorn anomaly in Munich - pardon- the Municorn Anomaly.
 
 

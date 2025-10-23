@@ -18,15 +18,15 @@ title: "Sternbilder"
 ---
 # Sternbilder
 
-*2021* • Deutschland
+*2021* • Stralsund • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 3,47
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 8220
+- **Das ist mein Banner Nr.:** 377
 - **Beschreibung:** Besucht die Stadt am Strelasund. Als Belohnung erwarten euch die 12 Sternzeichen als Sternbild am Himmel.
 
 

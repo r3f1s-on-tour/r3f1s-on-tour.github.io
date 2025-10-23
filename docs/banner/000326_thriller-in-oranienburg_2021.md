@@ -18,15 +18,15 @@ title: "Thriller in Oranienburg"
 ---
 # Thriller in Oranienburg
 
-*2021* • Deutschland
+*2021* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 5,81
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 7500
+- **Das ist mein Banner Nr.:** 326
 - **Beschreibung:** Mache eine kleine Tour durch Oranienburg und starte am Bahnhof
 
 

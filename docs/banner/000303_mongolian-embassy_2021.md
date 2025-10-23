@@ -18,15 +18,15 @@ title: "Mongolian Embassy"
 ---
 # Mongolian Embassy
 
-*2021* • Deutschland
+*2021* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 3,58
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 7074
+- **Das ist mein Banner Nr.:** 303
 - **Beschreibung:** This tour will guide you around the area of the mongolian embassy.  Located near Hausvogteiplatz and famous Gendarmenmarkt are only a few minutes away.
 
 

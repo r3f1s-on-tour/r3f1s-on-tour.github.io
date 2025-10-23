@@ -18,15 +18,15 @@ title: "Sturmtruppler in Neubrandenburg"
 ---
 # Sturmtruppler in Neubrandenburg
 
-*2022* • Deutschland
+*2022* • Neubrandenburg • Deutschland
 
 ![Sturmtruppler in Neubrandenburg](https://api.bannergress.com/bnrs/pictures/f4c34f53c0e4612d09d9bb4302e5533a)
 
 ## Details
 - **Distanz (km):** 30,217
-
-
-
+- **Missionen im Banner:** 48
+- **Insgesamt abgeschlossene Missionen:** 9.474
+- **Das ist mein Banner Nr.:** 456
 - **Beschreibung:** Erkunde Neubrandenburg. Die Mission beginnt am Bahnhof, führt durch den Kulturpark zum Lindenberg und dann zurück über die Südstadt. Führt dann durch den Kulturpark und endet wieder am Bahnhof.
 
 

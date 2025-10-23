@@ -18,15 +18,15 @@ title: "Hallow Pumpkin Neubrandenburg"
 ---
 # Hallow Pumpkin Neubrandenburg
 
-*2021* • Deutschland
+*2021* • Neubrandenburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 8,52
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 7566
+- **Das ist mein Banner Nr.:** 330
 - **Beschreibung:** Erlebe mit ein paar Missionen die tolle Halloween Tour in Neubrandenburg.
 
 

@@ -18,15 +18,15 @@ title: "Die Stralsunder Tardis"
 ---
 # Die Stralsunder Tardis
 
-*2017* • Deutschland
+*2017* • Stralsund • Deutschland
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 2454
+- **Das ist mein Banner Nr.:** 95
 
 
 

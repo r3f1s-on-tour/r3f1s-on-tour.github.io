@@ -18,15 +18,15 @@ title: "Ostkreuz Old"
 ---
 # Ostkreuz Old
 
-*2020* • Deutschland
+*2020* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 6,47
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 6450
+- **Das ist mein Banner Nr.:** 275
 - **Beschreibung:** erkunde die Gegend um das Ostkreuz
 
 

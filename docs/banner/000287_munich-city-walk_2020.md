@@ -18,15 +18,15 @@ title: "Munich city walk"
 ---
 # Munich city walk
 
-*2020* • Deutschland
+*2020* • München • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 3,41
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 6702
+- **Das ist mein Banner Nr.:** 287
 - **Beschreibung:** A short walk in the inner city. Start east of Marienplatz.
 
 

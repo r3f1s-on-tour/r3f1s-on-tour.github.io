@@ -18,15 +18,15 @@ title: "Ägyptisches Totengericht"
 ---
 # Ägyptisches Totengericht
 
-*2022* • Deutschland
+*2022* • Berlin • Deutschland
 
 ![Ägyptisches Totengericht](https://api.bannergress.com/bnrs/pictures/20f32510404dc5dcb5b043d14ef777de)
 
 ## Details
 - **Distanz (km):** 6,278
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 10.482
+- **Das ist mein Banner Nr.:** 485
 - **Beschreibung:** Betritt die Halle der vollständigen Wahrheit und lasse dein Herz wiegen.
 
 

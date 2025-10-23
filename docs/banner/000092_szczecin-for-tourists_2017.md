@@ -18,15 +18,15 @@ title: "SZCZECIN for TOURISTS"
 ---
 # SZCZECIN for TOURISTS
 
-*2017* • Polska
+*2017* • Szczecin • Polska
 
 
 
 ## Details
 - **Distanz (km):** 1,63
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 2376
+- **Das ist mein Banner Nr.:** 92
 - **Beschreibung:** Welcome to Szczecin! Let's take a walk together and complete the banner! Hack-only #tourist-friendly missions!
 
 

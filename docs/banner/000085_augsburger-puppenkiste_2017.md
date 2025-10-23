@@ -18,15 +18,15 @@ title: "Augsburger Puppenkiste"
 ---
 # Augsburger Puppenkiste
 
-*2017* • Deutschland
+*2017* • Augsburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 4,39
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 2208
+- **Das ist mein Banner Nr.:** 85
 - **Beschreibung:** This mosaic is devoted to Augsburger Puppenkiste. It is a well known marionette theater in Augsburg.  It is hack only mosaic without any questions, all missions are  accessible 24/7.
 
 

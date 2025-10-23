@@ -18,15 +18,15 @@ title: "Spooky Green Second Sunday in Oranienburg"
 ---
 # Spooky Green Second Sunday in Oranienburg
 
-*2022* • Deutschland
+*2022* • Oranienburg • Deutschland
 
 ![Spooky Green Second Sunday in Oranienburg](https://api.bannergress.com/bnrs/pictures/c1ef445c8b0500080461fd3e9f2fa09d)
 
 ## Details
 - **Distanz (km):** 1,599
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 10.404
+- **Das ist mein Banner Nr.:** 478
 - **Beschreibung:** Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
 
 

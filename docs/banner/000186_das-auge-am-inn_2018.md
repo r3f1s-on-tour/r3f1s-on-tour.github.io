@@ -18,15 +18,15 @@ title: "Das Auge am Inn"
 ---
 # Das Auge am Inn
 
-*2018* • Deutschland
+*2018* • Rosenheim • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 4,83
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 4428
+- **Das ist mein Banner Nr.:** 186
 - **Beschreibung:** Erkunde die Rosenheimer Portale am Inn
 
 

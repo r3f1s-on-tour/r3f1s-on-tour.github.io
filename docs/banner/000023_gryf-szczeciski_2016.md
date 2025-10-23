@@ -18,15 +18,15 @@ title: "Gryf Szczeciński"
 ---
 # Gryf Szczeciński
 
-*2016* • Polska
+*2016* • Szczecin • Polska
 
 ![Gryf Szczeciński](https://api.bannergress.com/bnrs/pictures/c06a4e6331dcb9dadd919ff242cc385f)
 
 ## Details
 - **Distanz (km):** 12,44
-
-
-
+- **Missionen im Banner:** 42
+- **Insgesamt abgeschlossene Missionen:** 420
+- **Das ist mein Banner Nr.:** 23
 - **Beschreibung:** Jeden z symboli miejskich Szczecina. Symbol książąt z dynastii Gryfitów.
 
 

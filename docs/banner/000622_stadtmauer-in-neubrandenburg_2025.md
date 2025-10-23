@@ -18,15 +18,15 @@ title: "Stadtmauer in Neubrandenburg"
 ---
 # Stadtmauer in Neubrandenburg
 
-*2025* • Deutschland
+*2025* • Neubrandenburg • Deutschland
 
 ![Stadtmauer in Neubrandenburg](https://api.bannergress.com/bnrs/pictures/a3e4a93dea7c3b00d11dfa7c64c2d3d2)
 
 ## Details
 - **Distanz (km):** 11,186
-
-
-
+- **Missionen im Banner:** 48
+- **Insgesamt abgeschlossene Missionen:** 13386
+- **Das ist mein Banner Nr.:** 622
 - **Beschreibung:** Entdecke bei diesen Missionen insbesondere auch die Stadtmauer von Neubrandenburg. Sie wurde im 13. und 14. Jahrhundert gebaut. Sie ist die besterhaltene Stadtbefestigung der Backsteingotik in Europa.
 
 

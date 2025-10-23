@@ -18,15 +18,15 @@ title: "BlueSunGarching"
 ---
 # BlueSunGarching
 
-*2016* • Deutschland
+*2016* • Garching bei München • Deutschland
 
 ![BlueSunGarching](https://api.bannergress.com/bnrs/pictures/534d4ea65f043ae17ab0adaae39ce044)
 
 ## Details
 - **Distanz (km):** 26,52
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 774
+- **Das ist mein Banner Nr.:** 37
 - **Beschreibung:** A Trip to (nearly) all portals in Garching Hochbrück (1-6), Garching (7-12) and Garching-Forschungszentrum (13-24). The first 3 missions have long Distances. Bycicle is adviced.
 
 

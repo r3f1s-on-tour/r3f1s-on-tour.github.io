@@ -18,15 +18,15 @@ title: "Pinguine Tour in Oranienburg"
 ---
 # Pinguine Tour in Oranienburg
 
-*2022* • Deutschland
+*2022* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 8,574
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 9.408
+- **Das ist mein Banner Nr.:** 454
 - **Beschreibung:** Starte in der Bernauer Straße eine Reise durch die Stadt Oranienburg. Deine Reise führt dich entlang des Schloss, Schlosspark und endet am Bahnhof.
 
 Banner ist bis 01.06.2022 online

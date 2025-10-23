@@ -18,15 +18,15 @@ title: "Bad Aibling - Therme"
 ---
 # Bad Aibling - Therme
 
-*2018* • Deutschland
+*2018* • Willing • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 4,40
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 4380
+- **Das ist mein Banner Nr.:** 182
 - **Beschreibung:** Die Therme in Bad Aibling ist jedermann bekannt. Mit Abschluss dieser Missionsserie in der richtigen Reihenfolge erhältst du ein Bild der Therme.
 
 

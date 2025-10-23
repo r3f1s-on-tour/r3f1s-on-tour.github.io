@@ -18,15 +18,15 @@ title: "Whaleomaly is Coming [Berg am Laim]"
 ---
 # Whaleomaly is Coming [Berg am Laim]
 
-*2018* • Deutschland
+*2018* • München • Deutschland
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 4188
+- **Das ist mein Banner Nr.:** 175
 
 
 

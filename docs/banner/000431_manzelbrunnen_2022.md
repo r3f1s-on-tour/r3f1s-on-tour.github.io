@@ -18,15 +18,15 @@ title: "Manzelbrunnen"
 ---
 # Manzelbrunnen
 
-*2022* • Polska
+*2022* • Szczecin • Polska
 
 ![Manzelbrunnen](https://api.bannergress.com/bnrs/pictures/27731c7eed356342597202a124dc7155)
 
 ## Details
 - **Distanz (km):** 13,08
-
-
-
+- **Missionen im Banner:** 48
+- **Insgesamt abgeschlossene Missionen:** 9.000
+- **Das ist mein Banner Nr.:** 431
 - **Beschreibung:** Historyczna rzeźba symbolizująca Szczecin, zaginiona w czasie 2 Wojny Światowej. Część  2 - wzdłuż Bulwarów.
 
 

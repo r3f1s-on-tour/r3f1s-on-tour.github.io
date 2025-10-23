@@ -18,15 +18,15 @@ title: "Nyan Cat Walk"
 ---
 # Nyan Cat Walk
 
-*2020* • Deutschland
+*2020* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 3,69
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 6360
+- **Das ist mein Banner Nr.:** 270
 - **Beschreibung:** Follow the nyan cat through the Treptower park and gain it as companion on your future walks with the scanner.
 
 

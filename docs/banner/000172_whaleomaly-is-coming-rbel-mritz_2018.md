@@ -18,15 +18,15 @@ title: "Whaleomaly is Coming [Röbel Müritz]"
 ---
 # Whaleomaly is Coming [Röbel Müritz]
 
-*2018* • Deutschland
+*2018* • Röbel/Müritz • Deutschland
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 4146
+- **Das ist mein Banner Nr.:** 172
 
 
 

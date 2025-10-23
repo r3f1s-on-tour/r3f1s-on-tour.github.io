@@ -18,15 +18,15 @@ title: "Berliner Türme"
 ---
 # Berliner Türme
 
-*2019* • Deutschland
+*2019* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 12,05
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 6012
+- **Das ist mein Banner Nr.:** 246
 - **Beschreibung:** Ein Gang von Turm zu Turm
 
 

@@ -18,15 +18,15 @@ title: "rip redacted - stralsund"
 ---
 # rip redacted - stralsund
 
-*2021* • Deutschland
+*2021* • Stralsund • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 5,66
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 8190
+- **Das ist mein Banner Nr.:** 375
 - **Beschreibung:** Begebe dich auf eine Entdeckungsreise durch die engen Gassen der Stralsunder Altstadt. Sie wurde 2002 in  die UNESCO-Welterbe­liste aufgenommen.
 
 

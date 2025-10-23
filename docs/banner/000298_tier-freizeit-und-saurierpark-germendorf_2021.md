@@ -18,15 +18,15 @@ title: "Tier-, Freizeit- und Saurierpark Germendorf"
 ---
 # Tier-, Freizeit- und Saurierpark Germendorf
 
-*2021* • Deutschland
+*2021* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 4,32
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 6960
+- **Das ist mein Banner Nr.:** 298
 - **Beschreibung:** Tagesausflug im Tierpark
 
 

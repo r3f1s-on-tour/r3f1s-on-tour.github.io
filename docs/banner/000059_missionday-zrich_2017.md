@@ -18,15 +18,15 @@ title: "MissionDay Zürich"
 ---
 # MissionDay Zürich
 
-*2017* • Schweiz/Suisse/Svizzera/Svizra
+*2017* • Zürich • Schweiz/Suisse/Svizzera/Svizra
 
 ![MissionDay Zürich](https://api.bannergress.com/bnrs/pictures/60989b4a7ea4e993c9d23756812cb691)
 
 ## Details
 - **Distanz (km):** 20,03
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 1344
+- **Das ist mein Banner Nr.:** 59
 
 
 

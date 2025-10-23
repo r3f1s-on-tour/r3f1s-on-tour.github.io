@@ -18,15 +18,15 @@ title: "Regensburg Donaupanorama"
 ---
 # Regensburg Donaupanorama
 
-*2017* • Deutschland
+*2017* • Regensburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 8,61
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 2652
+- **Das ist mein Banner Nr.:** 103
 - **Beschreibung:** Erlebe unsere wunderschöne Stadt an der Donau durch einen schönen Spaziergang! Ich wünsche euch viel Spaß!
 
 

@@ -18,15 +18,15 @@ title: "Green Surfer  in Oranienburg"
 ---
 # Green Surfer  in Oranienburg
 
-*2023* • Deutschland
+*2023* • Oranienburg • Deutschland
 
 ![Green Surfer  in Oranienburg](https://api.bannergress.com/bnrs/pictures/fe3d5c29234689a130ffe14e60f826e9)
 
 ## Details
 - **Distanz (km):** 5,54
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 11.742
+- **Das ist mein Banner Nr.:** 535
 - **Beschreibung:** Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 

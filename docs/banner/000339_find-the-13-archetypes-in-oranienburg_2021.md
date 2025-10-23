@@ -18,15 +18,15 @@ title: "Find the 13 Archetypes in Oranienburg"
 ---
 # Find the 13 Archetypes in Oranienburg
 
-*2021* • Deutschland
+*2021* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 6,56
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 7698
+- **Das ist mein Banner Nr.:** 339
 - **Beschreibung:** Gehe auf Tour in Oranienburg und finde die 13 Archetypen in Oranienburg. Die Tour startet in der Bernauer Straße
 
 

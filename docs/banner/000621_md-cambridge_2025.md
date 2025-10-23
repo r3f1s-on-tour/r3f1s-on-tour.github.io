@@ -18,15 +18,15 @@ title: "MD Cambridge"
 ---
 # MD Cambridge
 
-*2025* • Großbritannien
+*2025* • Cambridge • Großbritannien
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 13.524
+- **Das ist mein Banner Nr.:** 621
 
 
 

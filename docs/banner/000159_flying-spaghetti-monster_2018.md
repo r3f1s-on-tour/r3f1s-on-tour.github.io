@@ -18,15 +18,15 @@ title: "Flying Spaghetti Monster"
 ---
 # Flying Spaghetti Monster
 
-*2018* • Deutschland
+*2018* • Unterschleißheim • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 18,35
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 3834
+- **Das ist mein Banner Nr.:** 159
 - **Beschreibung:** Diese Mosaik führt vom Bahnhof Unterschleißheim zum Bahnhof Lohhof mit vielen Umwegen. - Our One Creator Which Flies and is Spaghetti and a Monster,
 
 

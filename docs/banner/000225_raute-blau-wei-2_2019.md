@@ -18,15 +18,15 @@ title: "Raute Blau Weiß 2"
 ---
 # Raute Blau Weiß 2
 
-*2019* • Deutschland
+*2019* • München • Deutschland
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 5406
+- **Das ist mein Banner Nr.:** 225
 
 
 

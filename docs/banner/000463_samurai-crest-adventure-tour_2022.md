@@ -18,15 +18,15 @@ title: "Samurai Crest Adventure Tour"
 ---
 # Samurai Crest Adventure Tour
 
-*2022* • Deutschland
+*2022* • Strasburg (Uckermark) • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 277,36
-
-
-
+- **Missionen im Banner:** 642
+- **Insgesamt abgeschlossene Missionen:** 10.200
+- **Das ist mein Banner Nr.:** 463
 - **Beschreibung:** Starte deine Samurai Crests Adeventure Tour in der Stadt Strasburg Uckermark und entdecke auf deiner Runde historische Gebäude und Sehenswürdigkeiten. Die Runde endet am
 
 

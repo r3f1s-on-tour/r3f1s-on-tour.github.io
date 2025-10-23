@@ -18,15 +18,15 @@ title: "Marienplatz SPIDERWEB"
 ---
 # Marienplatz SPIDERWEB
 
-*2018* • Deutschland
+*2018* • München • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 2,55
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 4470
+- **Das ist mein Banner Nr.:** 189
 - **Beschreibung:** Such link. Very hack. Wow.
 
 

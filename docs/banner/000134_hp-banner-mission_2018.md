@@ -18,15 +18,15 @@ title: "HP Banner Mission"
 ---
 # HP Banner Mission
 
-*2018* • Deutschland
+*2018* • Heppenheim • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 2,82
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 3252
+- **Das ist mein Banner Nr.:** 134
 - **Beschreibung:** Schön gemütliche Tour durch die Heppenheimer Fußgängerzone und Altstadt. Bei richtiger Reihenfolge ergibt sich ein Bild von Marco Mayer. Start und Ende nah am Graben, wo auch geparkt werden kann.
 
 

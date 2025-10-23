@@ -18,15 +18,15 @@ title: "Richter Fenster im Kölner Dom"
 ---
 # Richter Fenster im Kölner Dom
 
-*2022* • Deutschland
+*2022* • Köln • Deutschland
 
 ![Richter Fenster im Kölner Dom](https://api.bannergress.com/bnrs/pictures/6ec737c556775c4c488cff75ae1e450c)
 
 ## Details
 - **Distanz (km):** 4,3
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 10.746
+- **Das ist mein Banner Nr.:** 502
 - **Beschreibung:** Richter-Fenster ist das von Richter entworfene Südquerhausfenster des Kölner Doms.
 Richter window is the southern transverse window of the Cologne Cathedral, designed by the artist named Richter.
 

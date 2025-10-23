@@ -18,15 +18,15 @@ title: "Deifel in Düsseldorf"
 ---
 # Deifel in Düsseldorf
 
-*2022* • Deutschland
+*2022* • Düsseldorf • Deutschland
 
 ![Deifel in Düsseldorf](https://api.bannergress.com/bnrs/pictures/077dbe7f5a8f89090241712c3eec4522)
 
 ## Details
 - **Distanz (km):** 4
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 10.752
+- **Das ist mein Banner Nr.:** 503
 - **Beschreibung:** Starte am Hauptbahnhof einen Rundgang und entdecke Düsseldorf. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet wieder am Hauptbahnhof
 
 

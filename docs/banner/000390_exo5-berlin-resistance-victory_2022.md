@@ -18,15 +18,15 @@ title: "EXO5 Berlin Resistance Victory"
 ---
 # EXO5 Berlin Resistance Victory
 
-*2022* • Deutschland
+*2022* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 2,29
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 8.412
+- **Das ist mein Banner Nr.:** 390
 - **Beschreibung:** This is where we fought them! This is where we stood our ground! Remember this day agent, for it will stand in history as the day the Resistance halted Shaper progress!
 
 

@@ -18,15 +18,15 @@ title: "Stadtwappen Dachau"
 ---
 # Stadtwappen Dachau
 
-*2017* • Deutschland
+*2017* • Dachau • Deutschland
 
 ![Stadtwappen Dachau](https://api.bannergress.com/bnrs/pictures/b038833bc9235fa7d58e6918acb67bda)
 
 ## Details
 - **Distanz (km):** 11,39
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 2070
+- **Das ist mein Banner Nr.:** 76
 - **Beschreibung:** Zeig allen, dass du Dachau wirklich besucht hast! (Start- Bahnhof)
 Show everyone that you've been to Dachau! (Start- Train Station)
 

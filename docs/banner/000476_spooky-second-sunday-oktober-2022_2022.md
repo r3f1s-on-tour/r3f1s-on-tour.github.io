@@ -18,15 +18,15 @@ title: "Spooky Second Sunday - Oktober 2022"
 ---
 # Spooky Second Sunday - Oktober 2022
 
-*2022* • Deutschland
+*2022* • Oranienburg • Deutschland
 
 ![Spooky Second Sunday - Oktober 2022](https://api.bannergress.com/bnrs/pictures/acefba91bada626723bc788acb785537)
 
 ## Details
 - **Distanz (km):** 1,599
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 10.374
+- **Das ist mein Banner Nr.:** 476
 - **Beschreibung:** Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
 
 

@@ -18,15 +18,15 @@ title: "Apfelschnitt"
 ---
 # Apfelschnitt
 
-*2023* • Deutschland
+*2023* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 19,4
-
-
-
+- **Missionen im Banner:** 72
+- **Insgesamt abgeschlossene Missionen:** 11.220
+- **Das ist mein Banner Nr.:** 527
 - **Beschreibung:** Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg. Starte in der Bernauer Straße
 
 

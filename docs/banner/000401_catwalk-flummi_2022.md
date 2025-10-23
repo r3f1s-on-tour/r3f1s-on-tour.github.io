@@ -18,15 +18,15 @@ title: "Catwalk Flummi"
 ---
 # Catwalk Flummi
 
-*2022* • Deutschland
+*2022* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 5,00
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 8.592
+- **Das ist mein Banner Nr.:** 401
 - **Beschreibung:** Begleite Flummi auf einen Entdeckungsstreifzug vom S+U Lichtenberg nach Friedrichsfelde und dort im Bogen durch den Weitlingkiez zurück zu seinem Ausgangspunkt.
 
 

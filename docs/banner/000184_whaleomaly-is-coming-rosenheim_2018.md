@@ -18,15 +18,15 @@ title: "Whaleomaly is Coming / [Rosenheim]"
 ---
 # Whaleomaly is Coming / [Rosenheim]
 
-*2018* • Deutschland
+*2018* • Rosenheim • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 1,57
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 4392
+- **Das ist mein Banner Nr.:** 184
 - **Beschreibung:** Entdecke Rosenheims Wale! Bring sie mit, damit wir diese bei der Walomalie in Linz verbünden !
 Explore Rosenheims Whales! Take them with you to unite at the Whaleomaly Linz!
 

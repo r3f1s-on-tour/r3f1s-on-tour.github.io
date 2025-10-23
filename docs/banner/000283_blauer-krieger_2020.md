@@ -18,15 +18,15 @@ title: "Blauer Krieger"
 ---
 # Blauer Krieger
 
-*2020* • Deutschland
+*2020* • München • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 11,78
-
-
-
+- **Missionen im Banner:** 48
+- **Insgesamt abgeschlossene Missionen:** 6576
+- **Das ist mein Banner Nr.:** 283
 - **Beschreibung:** Erkunde die Stadt München ab dem Hauptbahnhof über Schwanthalerhöhe bis zum Stachus
 
 

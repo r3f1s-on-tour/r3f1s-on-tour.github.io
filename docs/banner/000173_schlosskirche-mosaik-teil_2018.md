@@ -18,15 +18,15 @@ title: "Schlosskirche Mosaik Teil"
 ---
 # Schlosskirche Mosaik Teil
 
-*2018* • Deutschland
+*2018* • Neustrelitz • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 10,45
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 4164
+- **Das ist mein Banner Nr.:** 173
 - **Beschreibung:** In der ersten Mission beginnt ihr den Rundgang durch das historische Neustrelitz am Markt. Die Tour  führt euch durch die Innenstadt von Neustrelitz. Am besten, ihr macht die Missionen zu Fuß.
 
 

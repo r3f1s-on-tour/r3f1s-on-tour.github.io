@@ -18,15 +18,15 @@ title: "ToastAmp Neubrandenburg"
 ---
 # ToastAmp Neubrandenburg
 
-*2023* • Deutschland
+*2023* • Neubrandenburg • Deutschland
 
 ![ToastAmp Neubrandenburg](https://api.bannergress.com/bnrs/pictures/c89ef58e3c7328c4ea37fff8be3a6af2)
 
 ## Details
 - **Distanz (km):** 5,944
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 12.384
+- **Das ist mein Banner Nr.:** 556
 - **Beschreibung:** Help the Toast fight the Illuminati Link-Amp!
 
 

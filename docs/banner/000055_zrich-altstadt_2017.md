@@ -18,15 +18,15 @@ title: "Zürich Altstadt"
 ---
 # Zürich Altstadt
 
-*2017* • Schweiz/Suisse/Svizzera/Svizra
+*2017* • Zürich • Schweiz/Suisse/Svizzera/Svizra
 
 ![Zürich Altstadt](https://api.bannergress.com/bnrs/pictures/1d206fb325d07ff960cb466b2ca723e1)
 
 ## Details
 - **Distanz (km):** 11,49
-
-
-
+- **Missionen im Banner:** 36
+- **Insgesamt abgeschlossene Missionen:** 1272
+- **Das ist mein Banner Nr.:** 55
 - **Beschreibung:** Entdecke auf diesem grossen Rundgang die mindere und die mehrere Altstadt von Zürich.
 
 

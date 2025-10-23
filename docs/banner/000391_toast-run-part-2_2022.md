@@ -18,15 +18,15 @@ title: "Toast Run Part 2"
 ---
 # Toast Run Part 2
 
-*2022* • Deutschland
+*2022* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 6,88
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 8.436
+- **Das ist mein Banner Nr.:** 391
 - **Beschreibung:** Gehe in Oranienburg auf eine Entdeckungsrunde und starte deine Runde in der Bernauer Straße.
 Die Runde führt dich unter anderem an der Havel und dem Schloss entlang.
 

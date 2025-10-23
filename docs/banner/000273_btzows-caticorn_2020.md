@@ -18,15 +18,15 @@ title: "Bötzows Caticorn"
 ---
 # Bötzows Caticorn
 
-*2020* • Deutschland
+*2020* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 7,65
-
-
-
+- **Missionen im Banner:** 42
+- **Insgesamt abgeschlossene Missionen:** 6426
+- **Das ist mein Banner Nr.:** 273
 - **Beschreibung:** Nur noch bis 31.10.2021 spielbar.
 
 

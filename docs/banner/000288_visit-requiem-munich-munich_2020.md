@@ -18,15 +18,15 @@ title: "Visit Requiem Munich - Munich"
 ---
 # Visit Requiem Munich - Munich
 
-*2020* • Deutschland
+*2020* • München • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 1,09
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 6708
+- **Das ist mein Banner Nr.:** 288
 - **Beschreibung:** On the 9th May of 2020 an epic battle between Enlightened and Resistance will take place right here! Join our forces and spread the message by completing this banner.
 
 

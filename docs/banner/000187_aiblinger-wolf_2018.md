@@ -18,15 +18,15 @@ title: "Aiblinger Wolf"
 ---
 # Aiblinger Wolf
 
-*2018* • Deutschland
+*2018* • Bad Aibling • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 3,47
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 4446
+- **Das ist mein Banner Nr.:** 187
 - **Beschreibung:** Hackrunde durch den Kurpark zur Eisdiele.
 Insgesamt 4 Runden. 
 Nur nach Aufforderung hacken.

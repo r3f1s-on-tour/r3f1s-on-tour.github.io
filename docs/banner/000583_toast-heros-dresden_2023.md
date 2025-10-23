@@ -18,15 +18,15 @@ title: "Toast Heros Dresden"
 ---
 # Toast Heros Dresden
 
-*2023* • Deutschland
+*2023* • Dresden • Deutschland
 
 ![Toast Heros Dresden](https://api.bannergress.com/bnrs/pictures/c670eebd6d3b0dfe1c5deeddc0ae1302)
 
 ## Details
 - **Distanz (km):** 1,313
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 12.996
+- **Das ist mein Banner Nr.:** 583
 - **Beschreibung:** Eine kleine Runde durch den schönen Stadtteil Dresden Löbtau.
 
 

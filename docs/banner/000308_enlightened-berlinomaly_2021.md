@@ -18,15 +18,15 @@ title: "Enlightened Berlinomaly"
 ---
 # Enlightened Berlinomaly
 
-*2021* • Deutschland
+*2021* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 12,02
-
-
-
+- **Missionen im Banner:** 36
+- **Insgesamt abgeschlossene Missionen:** 7242
+- **Das ist mein Banner Nr.:** 308
 - **Beschreibung:** Welcome to Berlin, Enlightened Agents! This banner takes you along some of Berlins important sights and results in the offical Berlinomaly logo. 
 
 This mission starts at S Friedrichstrasse.

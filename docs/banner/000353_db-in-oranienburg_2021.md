@@ -18,15 +18,15 @@ title: "DB in Oranienburg"
 ---
 # DB in Oranienburg
 
-*2021* • Deutschland
+*2021* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 6,05
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 7902
+- **Das ist mein Banner Nr.:** 353
 - **Beschreibung:** Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 

@@ -18,15 +18,15 @@ title: "Snowflakes in Oranienburg"
 ---
 # Snowflakes in Oranienburg
 
-*2023* • Deutschland
+*2023* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 17,7
-
-
-
+- **Missionen im Banner:** 66
+- **Insgesamt abgeschlossene Missionen:** 11.076
+- **Das ist mein Banner Nr.:** 523
 - **Beschreibung:** Starte eine Runde durch Oranienburg zum Second Sunday und denke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg
 
 

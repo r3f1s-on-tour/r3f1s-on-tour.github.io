@@ -18,15 +18,15 @@ title: "Domberg-Mosaik"
 ---
 # Domberg-Mosaik
 
-*2017* • Deutschland
+*2017* • Freising • Deutschland
 
 ![Domberg-Mosaik](https://api.bannergress.com/bnrs/pictures/95d8726bc1d325192bbca93502f70816)
 
 ## Details
 - **Distanz (km):** 8,44
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 2040
+- **Das ist mein Banner Nr.:** 73
 - **Beschreibung:** 18-teilige Mosaik-Missionen rund um den Freisinger Domberg.
 Erster Teil startet im Domhof, wo auch der letzte Teil beendet wird.
 

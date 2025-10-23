@@ -18,15 +18,15 @@ title: "Heppenheimer Mosaik"
 ---
 # Heppenheimer Mosaik
 
-*2018* • Deutschland
+*2018* • Heppenheim • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 3,37
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 3264
+- **Das ist mein Banner Nr.:** 135
 - **Beschreibung:** Gemütliche Hackerrunde durch Heppenheim. Startet am Graben (wo man auch parken kann). 
 Wenn die Missionen in richtiger Reihenfolge durchgeführt werden fügt sich ein Bild von Heppenheim zusammen.
 

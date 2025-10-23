@@ -18,15 +18,15 @@ title: "Creepy Cupcakes in Oranienburg"
 ---
 # Creepy Cupcakes in Oranienburg
 
-*2022* • Deutschland
+*2022* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 1,599
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 10.410
+- **Das ist mein Banner Nr.:** 479
 - **Beschreibung:** Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
 
 

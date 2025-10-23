@@ -18,15 +18,15 @@ title: "Ingress First Saturday FFB 03 09 2016"
 ---
 # Ingress First Saturday FFB 03 09 2016
 
-*2016* • Deutschland
+*2016* • Fürstenfeldbruck • Deutschland
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 690
+- **Das ist mein Banner Nr.:** 35
 
 
 

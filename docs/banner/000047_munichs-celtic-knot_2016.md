@@ -18,15 +18,15 @@ title: "MUNICHS CELTIC KNOT"
 ---
 # MUNICHS CELTIC KNOT
 
-*2016* • Deutschland
+*2016* • München • Deutschland
 
 ![MUNICHS CELTIC KNOT](https://api.bannergress.com/bnrs/pictures/954131ec881716126388a45ec52ad185)
 
 ## Details
 - **Distanz (km):** 10,38
-
-
-
+- **Missionen im Banner:** 36
+- **Insgesamt abgeschlossene Missionen:** 1086
+- **Das ist mein Banner Nr.:** 47
 - **Beschreibung:** 36er Mosaik durch München, das Wissenswertes über die Kelten vermittelt.
 
 Die Kelten besiedelten einst ganz Europa und hinterließen ihre Spuren in Großbritannien, Frankreich, Deutschland & Anatolien

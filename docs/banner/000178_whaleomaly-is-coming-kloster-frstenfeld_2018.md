@@ -18,15 +18,15 @@ title: "Whaleomaly is Coming [Kloster Fürstenfeld]"
 ---
 # Whaleomaly is Coming [Kloster Fürstenfeld]
 
-*2018* • Deutschland
+*2018* • Fürstenfeldbruck • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 2,49
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 4254
+- **Das ist mein Banner Nr.:** 178
 - **Beschreibung:** Entdecke die Wale im Kloster Fürstenfeld! Bring sie mit zur Walomalie nach Linz, sie dort zu verbünden!
 Explore the Whales of Kloster Fürstenfeld! Take them with you to unite at the Whaleomaly Linz!
 

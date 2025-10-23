@@ -18,15 +18,15 @@ title: "Topographia Bavariae Straubinga"
 ---
 # Topographia Bavariae Straubinga
 
-*2017* • Deutschland
+*2017* • Straubing • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 4,14
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 2664
+- **Das ist mein Banner Nr.:** 104
 - **Beschreibung:** A Tour through the historical Straubing.
 
 

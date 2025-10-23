@@ -18,15 +18,15 @@ title: "Goldener Saal Augsburg"
 ---
 # Goldener Saal Augsburg
 
-*2018* • Deutschland
+*2018* • Augsburg • Deutschland
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 3078
+- **Das ist mein Banner Nr.:** 125
 
 
 

@@ -18,15 +18,15 @@ title: "Szczecin Dźwigozaury"
 ---
 # Szczecin Dźwigozaury
 
-*2022* • Polska
+*2022* • Szczecin • Polska
 
 
 
 ## Details
 - **Distanz (km):** 4,64
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 9.114
+- **Das ist mein Banner Nr.:** 437
 - **Beschreibung:** Szczecin Dźwigozaury
 
 

@@ -18,15 +18,15 @@ title: "Warszawska akwarela"
 ---
 # Warszawska akwarela
 
-*2025* • Polska
+*2025* • Warsaw • Polska
 
 ![Warszawska akwarela](https://api.bannergress.com/bnrs/pictures/abbc5fb6e3bb5ec11ded7cf9b51c22aa)
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 13.452
+- **Das ist mein Banner Nr.:** 615
 
 
 

@@ -18,15 +18,15 @@ title: "Spaziergang durch Senftenberg"
 ---
 # Spaziergang durch Senftenberg
 
-*2023* • Deutschland
+*2023* • Senftenberg - Zły Komorow • Deutschland
 
 ![Spaziergang durch Senftenberg](https://api.bannergress.com/bnrs/pictures/7b13bb8094f44ddd4b30776d91c0caaf)
 
 ## Details
 - **Distanz (km):** 4,121
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 12.564
+- **Das ist mein Banner Nr.:** 569
 - **Beschreibung:** Der Spaziergang durch Senftenberg zeigt schöne Flecken und besondere Orte von Senftenberg. 
 Länge ca. 5 km 
 Die Festung ist ab ca.17 Uhr geschlossen dann nur noch  Zugang über Treppe am Tierpark

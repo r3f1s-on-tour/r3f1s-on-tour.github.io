@@ -18,15 +18,15 @@ title: "Augsburg im Juni"
 ---
 # Augsburg im Juni
 
-*2018* • Deutschland
+*2018* • Augsburg • Deutschland
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 30
+- **Insgesamt abgeschlossene Missionen:** 4248
+- **Das ist mein Banner Nr.:** 177
 
 
 

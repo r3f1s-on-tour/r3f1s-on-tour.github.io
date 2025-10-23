@@ -18,15 +18,15 @@ title: "Sonne und Mond Tour"
 ---
 # Sonne und Mond Tour
 
-*2022* • Deutschland
+*2022* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 8,89
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 8298
+- **Das ist mein Banner Nr.:** 383
 - **Beschreibung:** Starte am Zeiss-Großplanetarium eine Entdeckungsrunde nach Weissensee
 
 

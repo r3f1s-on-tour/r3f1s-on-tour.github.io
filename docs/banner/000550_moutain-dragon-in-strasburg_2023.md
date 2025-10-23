@@ -18,15 +18,15 @@ title: "Moutain Dragon in Strasburg"
 ---
 # Moutain Dragon in Strasburg
 
-*2023* • Deutschland
+*2023* • Strasburg (Uckermark) • Deutschland
 
 ![Moutain Dragon in Strasburg](https://api.bannergress.com/bnrs/pictures/00a0ac4532b1e25b54e9618c6f9b3ff8)
 
 ## Details
 - **Distanz (km):** 3,514
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 12.180
+- **Das ist mein Banner Nr.:** 550
 - **Beschreibung:** Starte am Marktplatz  einen Rundgang und entdecke Strasburg. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet auf dem Marktplatz
 
 

@@ -18,15 +18,15 @@ title: "Stralsund Map Anno 1628"
 ---
 # Stralsund Map Anno 1628
 
-*2021* • Deutschland
+*2021* • Stralsund • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 8,46
-
-
-
+- **Missionen im Banner:** 30
+- **Insgesamt abgeschlossene Missionen:** 7626
+- **Das ist mein Banner Nr.:** 333
 - **Beschreibung:** Gehe auf Entdeckungstour durch die Hansestadt Stralsund. Diese Mission beginnt am Bahnhof und führt bis zum Tribseer Damm. Übrigens, der Bahnhof wurde am 01.01.1878 feierlich eröffnet.
 
 

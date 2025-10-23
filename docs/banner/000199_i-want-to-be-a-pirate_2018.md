@@ -18,15 +18,15 @@ title: "I want to be a pirate!"
 ---
 # I want to be a pirate!
 
-*2018* • Sverige
+*2018* • Malmö • Sverige
 
 
 
 ## Details
 - **Distanz (km):** 6,60
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 4668
+- **Das ist mein Banner Nr.:** 199
 - **Beschreibung:** Begin at "the gold factory" where you buried your treasure and take a stroll on the artificial part of Malmö, "western harbour", to be able to draw up your own pirate map.
 All portals available 24/7
 

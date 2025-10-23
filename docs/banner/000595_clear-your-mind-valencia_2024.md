@@ -18,15 +18,15 @@ title: "Clear your mind -Valencia"
 ---
 # Clear your mind -Valencia
 
-*2024* • España
+*2024* • València • España
 
 ![Clear your mind -Valencia](https://api.bannergress.com/bnrs/pictures/60b33693a25a907d8635e803d0a96741)
 
 ## Details
 - **Distanz (km):** 1,319
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 13.122
+- **Das ist mein Banner Nr.:** 595
 - **Beschreibung:** Agradable paseo por las calles de Valencia
 
 

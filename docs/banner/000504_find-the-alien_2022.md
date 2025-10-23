@@ -18,15 +18,15 @@ title: "Find the Alien"
 ---
 # Find the Alien
 
-*2022* • Deutschland
+*2022* • Düsseldorf • Deutschland
 
 ![Find the Alien](https://api.bannergress.com/bnrs/pictures/abf6cf5b89cb3c4d941e4591cc9d2cab)
 
 ## Details
 - **Distanz (km):** 5,541
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 10.776
+- **Das ist mein Banner Nr.:** 504
 - **Beschreibung:** Willkommen auf dem Düsseldorfer Nordfriedhof. Nachdem hier schon die Borg gesichtet worden sind, 
 gibt es starke Anzeichen dass es hier auch Aliens gibt. Folge der Route in der richtigen Reihenfolge!
 

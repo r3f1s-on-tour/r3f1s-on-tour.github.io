@@ -18,15 +18,15 @@ title: "Siegestor München"
 ---
 # Siegestor München
 
-*2016* • Deutschland
+*2016* • München • Deutschland
 
 ![Siegestor München](https://api.bannergress.com/bnrs/pictures/235ff037bace8063259176a2f8e669d9)
 
 ## Details
 - **Distanz (km):** 7,66
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 672
+- **Das ist mein Banner Nr.:** 33
 - **Beschreibung:** Das Siegestor wurde 1843 bis 1850 aus Kelheimer Kalkstein errichtet. Am 15. Oktober 1850 übergab König Maximilian II. im Namen seines abgedankten Vaters das Siegestor an die Stadt München.
 
 

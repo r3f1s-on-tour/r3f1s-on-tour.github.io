@@ -18,15 +18,15 @@ title: "A fantasy Icon"
 ---
 # A fantasy Icon
 
-*2022* • Deutschland
+*2022* • Wuppertal • Deutschland
 
 ![A fantasy Icon](https://api.bannergress.com/bnrs/pictures/66a9ba980385fbfd4bfb51078f4d280e)
 
 ## Details
 - **Distanz (km):** 3,869
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 10.878
+- **Das ist mein Banner Nr.:** 510
 - **Beschreibung:** At last, Sir Terry we must walk together
 A tribute mission through Wuppertal
 

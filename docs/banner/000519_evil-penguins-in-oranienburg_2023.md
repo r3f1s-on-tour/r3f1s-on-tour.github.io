@@ -18,15 +18,15 @@ title: "Evil Penguins in Oranienburg"
 ---
 # Evil Penguins in Oranienburg
 
-*2023* • Deutschland
+*2023* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 1,29
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 10.992
+- **Das ist mein Banner Nr.:** 519
 - **Beschreibung:** Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 

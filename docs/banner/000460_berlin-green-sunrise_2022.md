@@ -3,7 +3,7 @@ nummer: "460"
 startLatitude: "52,521395"
 startLongitude: "13,388252"
 titel: "Berlin Green Sunrise"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/0f8b9e7fbef4a49e2886011f753f6d05"
 region: "Berlin"
 country: "Deutschland"
 completed: "9.534"
@@ -18,15 +18,15 @@ title: "Berlin Green Sunrise"
 ---
 # Berlin Green Sunrise
 
-*2022* • Deutschland
+*2022* • Berlin • Deutschland
 
-
+![Berlin Green Sunrise](https://api.bannergress.com/bnrs/pictures/0f8b9e7fbef4a49e2886011f753f6d05)
 
 ## Details
 - **Distanz (km):** 6,52
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 9.534
+- **Das ist mein Banner Nr.:** 460
 - **Beschreibung:** See Berlin in the Green Sunrise
 
 

@@ -18,15 +18,15 @@ title: "Nymphenburg"
 ---
 # Nymphenburg
 
-*2017* • Deutschland
+*2017* • München • Deutschland
 
 ![Nymphenburg](https://api.bannergress.com/bnrs/pictures/069e66615474f09b4374fee4f40390be)
 
 ## Details
 - **Distanz (km):** 1,14
-
-
-
+- **Missionen im Banner:** 3
+- **Insgesamt abgeschlossene Missionen:** 2046
+- **Das ist mein Banner Nr.:** 75
 - **Beschreibung:** Schloss Nymphenburg und seine Parkanlage wurden Ende des 17. Jh. geplant und erbaut. Wir erkunden den Parkteil, der nahe am Schloss gelegen ist. Viel Spaß!
 
 

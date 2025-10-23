@@ -18,15 +18,15 @@ title: "Hack the planet - Strasburg"
 ---
 # Hack the planet - Strasburg
 
-*2021* • Deutschland
+*2021* • Strasburg (Uckermark) • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 14,08
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 8256
+- **Das ist mein Banner Nr.:** 379
 - **Beschreibung:** Erkunde die Stadt Strasburg.
 
 

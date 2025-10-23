@@ -18,15 +18,15 @@ title: "Beautiful Frogs Berlin"
 ---
 # Beautiful Frogs Berlin
 
-*2023* • Deutschland
+*2023* • Berlin • Deutschland
 
 ![Beautiful Frogs Berlin](https://api.bannergress.com/bnrs/pictures/cb773c8c9948b7bee5217d1db01cf7b7)
 
 ## Details
 - **Distanz (km):** 1,459
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 12.258
+- **Das ist mein Banner Nr.:** 552
 - **Beschreibung:** Have a walk around the Gethsemane church.
 
 

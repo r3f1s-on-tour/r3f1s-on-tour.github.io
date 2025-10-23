@@ -18,15 +18,15 @@ title: "Nyan Toast - Strasburg"
 ---
 # Nyan Toast - Strasburg
 
-*2021* • Deutschland
+*2021* • Strasburg (Uckermark) • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 3,17
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 7656
+- **Das ist mein Banner Nr.:** 336
 - **Beschreibung:** Starte am Marktplatz und entdecke Strasburg Uckermark und hole dir Toasts ins Profil
 
 

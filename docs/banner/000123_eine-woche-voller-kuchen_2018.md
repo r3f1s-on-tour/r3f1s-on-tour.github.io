@@ -18,15 +18,15 @@ title: "Eine Woche voller Kuchen"
 ---
 # Eine Woche voller Kuchen
 
-*2018* • Deutschland
+*2018* • Augsburg • Deutschland
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 36
+- **Insgesamt abgeschlossene Missionen:** 3024
+- **Das ist mein Banner Nr.:** 123
 
 
 

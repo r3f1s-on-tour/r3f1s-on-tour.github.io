@@ -18,15 +18,15 @@ title: "Toast Wars in Oranienburg"
 ---
 # Toast Wars in Oranienburg
 
-*2022* • Deutschland
+*2022* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 6,05
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 9.306
+- **Das ist mein Banner Nr.:** 450
 - **Beschreibung:** Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 

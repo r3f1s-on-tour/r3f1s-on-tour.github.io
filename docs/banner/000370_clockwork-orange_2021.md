@@ -18,15 +18,15 @@ title: "Clockwork Orange"
 ---
 # Clockwork Orange
 
-*2021* • Deutschland
+*2021* • Neubrandenburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 21,78
-
-
-
+- **Missionen im Banner:** 36
+- **Insgesamt abgeschlossene Missionen:** 8142
+- **Das ist mein Banner Nr.:** 370
 - **Beschreibung:** Geh auf Entdeckungstour durch Neubrandenburg. Es beginnt und endet bei Clockwork Orange.
 
 

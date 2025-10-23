@@ -18,15 +18,15 @@ title: "Deifel in Wuppertal"
 ---
 # Deifel in Wuppertal
 
-*2022* • Deutschland
+*2022* • Wuppertal • Deutschland
 
 ![Deifel in Wuppertal](https://api.bannergress.com/bnrs/pictures/5043c3a180f5f2f1114de085f13cdf83)
 
 ## Details
 - **Distanz (km):** 1,323
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 10.824
+- **Das ist mein Banner Nr.:** 507
 - **Beschreibung:** Starte am Hauptbahnhof einen Rundgang und entdecke Wuppertal. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet wieder am Hauptbahnhof
 
 

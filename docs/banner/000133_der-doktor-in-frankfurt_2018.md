@@ -18,15 +18,15 @@ title: "Der Doktor in Frankfurt"
 ---
 # Der Doktor in Frankfurt
 
-*2018* • Deutschland
+*2018* • Frankfurt am Main • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 11,42
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 3240
+- **Das ist mein Banner Nr.:** 133
 - **Beschreibung:** Es ist 2017 und Der Doktor ist dabei die Welt in Frankfurt zu retten. Hilf Ihm sein Gedächtnis wieder zu erlangen und den Weg zurück zur Tardis zu finden.
 
 

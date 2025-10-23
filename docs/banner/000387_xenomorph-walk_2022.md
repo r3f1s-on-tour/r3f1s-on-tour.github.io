@@ -18,15 +18,15 @@ title: "Xenomorph Walk"
 ---
 # Xenomorph Walk
 
-*2022* • Deutschland
+*2022* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 3,92
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 8.328
+- **Das ist mein Banner Nr.:** 387
 - **Beschreibung:** Starte einen kleinen Spaziergang durch Berlin Mitte. Die Rund startet dabei am Schinkel Pavillion und führt dich zur St Marienkirche und der Martin Luther Statue.
 
 Online bis 01.05.2022

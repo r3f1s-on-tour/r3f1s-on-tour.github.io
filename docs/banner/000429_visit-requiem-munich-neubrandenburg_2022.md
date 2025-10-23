@@ -18,15 +18,15 @@ title: "Visit Requiem Munich - Neubrandenburg"
 ---
 # Visit Requiem Munich - Neubrandenburg
 
-*2022* • Deutschland
+*2022* • Neubrandenburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 4,21
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 8.922
+- **Das ist mein Banner Nr.:** 429
 - **Beschreibung:** In 2020 there will be an epic fight between the enlightened and resistance in Munich! Join our forces and spread the message by filling out this banner.
 
 

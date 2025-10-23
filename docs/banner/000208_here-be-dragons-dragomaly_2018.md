@@ -18,15 +18,15 @@ title: "Here Be Dragons - Dragomaly"
 ---
 # Here Be Dragons - Dragomaly
 
-*2018* • España
+*2018* • Palma • España
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 30
+- **Insgesamt abgeschlossene Missionen:** 4860
+- **Das ist mein Banner Nr.:** 208
 
 
 

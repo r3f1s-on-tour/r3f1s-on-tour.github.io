@@ -18,15 +18,15 @@ title: "Munich resists!"
 ---
 # Munich resists!
 
-*2017* • Deutschland
+*2017* • München • Deutschland
 
 ![Munich resists!](https://api.bannergress.com/bnrs/pictures/aa450cbf2fff346fcbba9f846ff0b53f)
 
 ## Details
 - **Distanz (km):** 25,94
-
-
-
+- **Missionen im Banner:** 66
+- **Insgesamt abgeschlossene Missionen:** 2364
+- **Das ist mein Banner Nr.:** 90
 - **Beschreibung:** Sei kein Frosch - und folge dem Weg des Widerstands durch die bayerische Landeshauptstadt!
 
 

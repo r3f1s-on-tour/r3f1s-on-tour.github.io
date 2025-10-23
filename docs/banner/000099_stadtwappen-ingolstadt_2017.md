@@ -18,15 +18,15 @@ title: "Stadtwappen Ingolstadt"
 ---
 # Stadtwappen Ingolstadt
 
-*2017* • Deutschland
+*2017* • Ingolstadt • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 20,49
-
-
-
+- **Missionen im Banner:** 42
+- **Insgesamt abgeschlossene Missionen:** 2562
+- **Das ist mein Banner Nr.:** 99
 - **Beschreibung:** Das 1200 Jahre alte Ingolstadt war jahrhundertelang Universitätsstadt, Zentrum politischer Macht und später Festungsstadt. Diese Mosaik führt durch eine hübsche, aber unterschätzte  Großstadt.
 
 

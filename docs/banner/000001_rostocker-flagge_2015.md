@@ -18,15 +18,15 @@ title: "Rostocker Flagge"
 ---
 # Rostocker Flagge
 
-*2015* • Deutschland
+*2015* • Rostock • Deutschland
 
 ![Rostocker Flagge](https://lh3.googleusercontent.com/pw/AP1GczNZfmWJMlnG4IgP3QqtGnTgM4sx0qr9gu6y91N6J9zXIHbc3TdoB2ZleBNZ6HAPN43hoZFSr1m308E1sJP_NLIInCJy7p9q-dTx0TNiId-X9OsJnubD1ZRioYCEF7Hu1m7U9PtdyKV3uZQKAa17q2qQYQ)
 
 ## Details
 - **Distanz (km):** 12,84
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 96
+- **Das ist mein Banner Nr.:** 1
 - **Beschreibung:** Erkunde ab hier die wunderschöne Hansestadt Rostock mit Ihren Sehenswürdigkeiten.
 Beginne mit dem Bahnhof als zentralen Anlaufpunkt.
 PS- Es sollte das Fahrrad genutzt werden.

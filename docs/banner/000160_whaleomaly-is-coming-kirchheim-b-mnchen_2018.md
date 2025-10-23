@@ -18,15 +18,15 @@ title: "Whaleomaly is Coming [Kirchheim b. München]"
 ---
 # Whaleomaly is Coming [Kirchheim b. München]
 
-*2018* • Deutschland
+*2018* • Kirchheim bei München • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 4,55
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 3840
+- **Das ist mein Banner Nr.:** 160
 - **Beschreibung:** Explore Kirchheims Whales! Take them with you to unite at the Whaleomaly Linz!
 
 Entdecke Kirchheims Wale! Bring sie mit, damit wir diese bei der Walomalie in Linz verbünden!

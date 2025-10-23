@@ -18,15 +18,15 @@ title: "Halloween Baby"
 ---
 # Halloween Baby
 
-*2024* • España
+*2024* • València • España
 
 ![Halloween Baby](https://api.bannergress.com/bnrs/pictures/35460256ed4090d948b3b8e8eccccef7)
 
 ## Details
 - **Distanz (km):** 4,536
-
-
-
+- **Missionen im Banner:** 30
+- **Insgesamt abgeschlossene Missionen:** 13.200
+- **Das ist mein Banner Nr.:** 598
 - **Beschreibung:** Recorre nuestra capital y llévate pequeño recuerdo de Halloween 2019
 
 

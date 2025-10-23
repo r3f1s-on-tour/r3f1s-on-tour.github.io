@@ -18,15 +18,15 @@ title: "Bavaria München"
 ---
 # Bavaria München
 
-*2016* • Deutschland
+*2016* • München • Deutschland
 
 ![Bavaria München](https://api.bannergress.com/bnrs/pictures/f62fd3943e8a8f40cd07ff30a8d09d1a)
 
 ## Details
 - **Distanz (km):** 9,69
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 1050
+- **Das ist mein Banner Nr.:** 46
 - **Beschreibung:** Die kolossale und monumental anmutende Bronzestatue der Bavaria wurde im Auftrag von König Ludwig I. (1786–1868) in den Jahren 1843 bis 1850 errichtet. Sie bildet eine Einheit mit der Ruhmeshalle.
 
 

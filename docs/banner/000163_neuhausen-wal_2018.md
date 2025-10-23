@@ -18,15 +18,15 @@ title: "Neuhausen Wal"
 ---
 # Neuhausen Wal
 
-*2018* • Deutschland
+*2018* • München • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 9,80
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 3948
+- **Das ist mein Banner Nr.:** 163
 - **Beschreibung:** Lass dich verzaubern vom Einhornwal in Neuhausen
 
 

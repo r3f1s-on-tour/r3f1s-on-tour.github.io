@@ -18,15 +18,15 @@ title: "Munich city walls"
 ---
 # Munich city walls
 
-*2016* • Deutschland
+*2016* • München • Deutschland
 
 ![Munich city walls](https://api.bannergress.com/bnrs/pictures/32a35f14acc45a1c3470909a31431e93)
 
 ## Details
 - **Distanz (km):** 13,80
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 978
+- **Das ist mein Banner Nr.:** 44
 - **Beschreibung:** In former times Munich had two city walls. Later the town was transformed into a fortress. This mission series explores the remnants and traces of that time. Please read the portal texts.
 
 

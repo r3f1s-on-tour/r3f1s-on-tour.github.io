@@ -18,15 +18,15 @@ title: "8000 SpecOps Runde durch Strasburg"
 ---
 # 8000 SpecOps Runde durch Strasburg
 
-*2021* • Deutschland
+*2021* • Strasburg (Uckermark) • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 2,79
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 8004
+- **Das ist mein Banner Nr.:** 363
 - **Beschreibung:** Mache eine Entdeckungsrunde durch Strasburg und hole die 8000 ins Profil
 
 

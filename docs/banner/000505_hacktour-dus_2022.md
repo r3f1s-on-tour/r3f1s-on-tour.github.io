@@ -18,15 +18,15 @@ title: "Hacktour DUS"
 ---
 # Hacktour DUS
 
-*2022* • Deutschland
+*2022* • Düsseldorf • Deutschland
 
 ![Hacktour DUS](https://api.bannergress.com/bnrs/pictures/5c5e3a02e1ed671a95579d74899d76ff)
 
 ## Details
 - **Distanz (km):** 2,309
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 10.782
+- **Das ist mein Banner Nr.:** 505
 
 
 

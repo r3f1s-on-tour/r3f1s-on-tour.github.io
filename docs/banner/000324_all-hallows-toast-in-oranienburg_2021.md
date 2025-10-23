@@ -18,15 +18,15 @@ title: "All Hallows Toast in Oranienburg"
 ---
 # All Hallows Toast in Oranienburg
 
-*2021* • Deutschland
+*2021* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 1,74
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 7470
+- **Das ist mein Banner Nr.:** 324
 - **Beschreibung:** Eine kleine Entdeckungsrunde durch Oranienburg. Die Reihe startet am Bahnhof und führt dich zum Schlosspark der Stadt
 
 Geht am 01.11.2021 offline

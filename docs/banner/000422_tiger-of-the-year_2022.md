@@ -18,15 +18,15 @@ title: "Tiger of the Year"
 ---
 # Tiger of the Year
 
-*2022* • Deutschland
+*2022* • Neubrandenburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 16,08
-
-
-
+- **Missionen im Banner:** 30
+- **Insgesamt abgeschlossene Missionen:** 8.808
+- **Das ist mein Banner Nr.:** 422
 - **Beschreibung:** Entdecke durch die Missionen Neubrandenburg. Die Mission beginnt  und endet im Vogelviertel.
 
 

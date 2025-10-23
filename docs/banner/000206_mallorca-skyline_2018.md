@@ -18,15 +18,15 @@ title: "Mallorca Skyline"
 ---
 # Mallorca Skyline
 
-*2018* • España
+*2018* • Palma • España
 
 
 
 ## Details
 - **Distanz (km):** 1,75
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 4818
+- **Das ist mein Banner Nr.:** 206
 - **Beschreibung:** Mallorca is one of Spain's Balearic Islands in the Mediterranean. It's known for beach resorts, sheltered coves, limestone mountains and Roman and Moorish remains. Capital Palma has nightlife.
 
 

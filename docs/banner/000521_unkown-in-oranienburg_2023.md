@@ -18,15 +18,15 @@ title: "Unkown in Oranienburg"
 ---
 # Unkown in Oranienburg
 
-*2023* • Deutschland
+*2023* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 1,29
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 11.004
+- **Das ist mein Banner Nr.:** 521
 - **Beschreibung:** Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 

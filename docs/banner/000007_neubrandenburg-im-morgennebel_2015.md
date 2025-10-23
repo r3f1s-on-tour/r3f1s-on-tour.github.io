@@ -18,15 +18,15 @@ title: "Neubrandenburg im Morgennebel"
 ---
 # Neubrandenburg im Morgennebel
 
-*2015* • Deutschland
+*2015* • Neubrandenburg • Deutschland
 
 ![Neubrandenburg im Morgennebel](https://lh3.googleusercontent.com/pw/AP1GczPmbMPXUHyfnJM74wDoKNARFhcH8rcOCVLiwk10EYMnl6itxdJA1oIBNnGonL4H371Z-rKih91YQRpWP5wPazUuMhtvMwGHfezZNga2B-I9z_ss4vE3fS7RmUm73URrNaVfKuWtpL61vPrOwNRbdZQBbw)
 
 ## Details
 - **Distanz (km):** 35,29
-
-
-
+- **Missionen im Banner:** 30
+- **Insgesamt abgeschlossene Missionen:** 174
+- **Das ist mein Banner Nr.:** 7
 - **Beschreibung:** Neubrandenburg - die Stadt der 4 Tore in 36 Teilen.
 Schon Caspar David Friedrich erkannte 1816 die Schönheit der Stadt.
 

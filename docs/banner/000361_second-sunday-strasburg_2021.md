@@ -18,15 +18,15 @@ title: "Second Sunday - Strasburg"
 ---
 # Second Sunday - Strasburg
 
-*2021* • Deutschland
+*2021* • Strasburg (Uckermark) • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 3,17
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 7992
+- **Das ist mein Banner Nr.:** 361
 - **Beschreibung:** Starte am Marktplatz und entdecke zum Second Sunday die Stadt Strasburg Uckermark
 
 

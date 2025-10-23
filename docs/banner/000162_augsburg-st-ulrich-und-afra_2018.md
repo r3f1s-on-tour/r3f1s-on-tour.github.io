@@ -18,15 +18,15 @@ title: "Augsburg St Ulrich und Afra"
 ---
 # Augsburg St Ulrich und Afra
 
-*2018* • Deutschland
+*2018* • Augsburg • Deutschland
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 60
+- **Insgesamt abgeschlossene Missionen:** 3924
+- **Das ist mein Banner Nr.:** 162
 
 
 

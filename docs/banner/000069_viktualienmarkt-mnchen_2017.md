@@ -18,15 +18,15 @@ title: "Viktualienmarkt München"
 ---
 # Viktualienmarkt München
 
-*2017* • Deutschland
+*2017* • München • Deutschland
 
 ![Viktualienmarkt München](https://api.bannergress.com/bnrs/pictures/d78faacdee4e460a4f3aecd6f6df5ff0)
 
 ## Details
 - **Distanz (km):** 7,60
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 1614
+- **Das ist mein Banner Nr.:** 69
 - **Beschreibung:** Der Viktualienmarkt am heutigen Ort entstand aus der Verlegung des alten Münchner Stadtmarktes am Schrannenplatz, dem heutigen Marienplatz, der als Handelsort zu klein geworden war.
 
 

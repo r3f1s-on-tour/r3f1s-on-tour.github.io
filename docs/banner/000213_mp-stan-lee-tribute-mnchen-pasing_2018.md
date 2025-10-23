@@ -18,15 +18,15 @@ title: "#MP Stan Lee Tribute [München-Pasing]"
 ---
 # #MP Stan Lee Tribute [München-Pasing]
 
-*2018* • Deutschland
+*2018* • München • Deutschland
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 5178
+- **Das ist mein Banner Nr.:** 213
 
 
 

@@ -18,15 +18,15 @@ title: "Second Sunday Tower in Neubrandenburg"
 ---
 # Second Sunday Tower in Neubrandenburg
 
-*2023* • Deutschland
+*2023* • Neubrandenburg • Deutschland
 
 ![Second Sunday Tower in Neubrandenburg](https://api.bannergress.com/bnrs/pictures/a788ccd7ecdc2cdf406a7cdbf51c2265)
 
 ## Details
 - **Distanz (km):** 5,756
-
-
-
+- **Missionen im Banner:** 96
+- **Insgesamt abgeschlossene Missionen:** 11.958
+- **Das ist mein Banner Nr.:** 539
 - **Beschreibung:** Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Neubrandenburg. Starte am Bahnhof deine Runde
 
 

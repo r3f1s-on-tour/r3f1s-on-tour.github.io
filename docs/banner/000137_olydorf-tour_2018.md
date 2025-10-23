@@ -18,15 +18,15 @@ title: "Olydorf-Tour"
 ---
 # Olydorf-Tour
 
-*2018* • Deutschland
+*2018* • München • Deutschland
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 3306
+- **Das ist mein Banner Nr.:** 137
 
 
 

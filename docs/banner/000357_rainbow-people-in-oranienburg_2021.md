@@ -18,15 +18,15 @@ title: "Rainbow People in Oranienburg"
 ---
 # Rainbow People in Oranienburg
 
-*2021* • Deutschland
+*2021* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 3,64
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 7956
+- **Das ist mein Banner Nr.:** 357
 - **Beschreibung:** Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 

@@ -18,15 +18,15 @@ title: "Stralsund Aquarell"
 ---
 # Stralsund Aquarell
 
-*2021* • Deutschland
+*2021* • Stralsund • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 3,85
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 7578
+- **Das ist mein Banner Nr.:** 331
 - **Beschreibung:** Willkommen am Stralsunder Hauptbahnhof. Von hier aus führt die Missionsreihe in Richtung Altstadt.
 
 

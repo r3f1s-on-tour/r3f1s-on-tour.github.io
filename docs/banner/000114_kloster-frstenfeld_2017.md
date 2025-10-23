@@ -18,15 +18,15 @@ title: "Kloster Fürstenfeld"
 ---
 # Kloster Fürstenfeld
 
-*2017* • Deutschland
+*2017* • Fürstenfeldbruck • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 8,19
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 2814
+- **Das ist mein Banner Nr.:** 114
 - **Beschreibung:** Das Kloster Fürstenfeld ist eine ehemalige Zisterzienserabtei in Fürstenfeldbruck in der Erzdiözese München und Freising.
 
 

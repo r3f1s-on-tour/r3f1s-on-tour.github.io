@@ -18,15 +18,15 @@ title: "Landungsbrücken"
 ---
 # Landungsbrücken
 
-*2015* • Deutschland
+*2015* • Hamburg • Deutschland
 
 ![Landungsbrücken](https://api.bannergress.com/bnrs/pictures/b5b4e97a8c42aca70facc47acb35a5ca)
 
 ## Details
 - **Distanz (km):** 5,87
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 294
+- **Das ist mein Banner Nr.:** 15
 - **Beschreibung:** Mosaic around the Landungsbrücken
 
 

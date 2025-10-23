@@ -18,15 +18,15 @@ title: "Das Stralsunder Rathaus"
 ---
 # Das Stralsunder Rathaus
 
-*2021* • Deutschland
+*2021* • Stralsund • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 5,45
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 7596
+- **Das ist mein Banner Nr.:** 332
 - **Beschreibung:** Die Stadt gehörte nach dem Erlöschen des Fürstentums Rügen 1325 zu Pommern-Wolgast.
 
 

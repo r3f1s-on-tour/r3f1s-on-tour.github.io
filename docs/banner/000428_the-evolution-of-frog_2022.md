@@ -18,15 +18,15 @@ title: "The evolution of frog"
 ---
 # The evolution of frog
 
-*2022* • Deutschland
+*2022* • Neubrandenburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 2,37
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 8.910
+- **Das ist mein Banner Nr.:** 428
 - **Beschreibung:** Macht einen kleinen Spaziergang durch die Vorstadt und schaut Euch dabei die Entwicklung des Frosches genau an. Wenn ihr wollt, könnt Ihr vor dem Start und am Ende ein schönes Eis essen.
 
 

@@ -18,15 +18,15 @@ title: "Whaleomaly is Coming [Eching]"
 ---
 # Whaleomaly is Coming [Eching]
 
-*2018* • Deutschland
+*2018* • Eching • Deutschland
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 4098
+- **Das ist mein Banner Nr.:** 168
 
 
 

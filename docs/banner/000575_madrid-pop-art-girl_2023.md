@@ -18,15 +18,15 @@ title: "MADRID POP ART GIRL"
 ---
 # MADRID POP ART GIRL
 
-*2023* • España
+*2023* • Madrid • España
 
 ![MADRID POP ART GIRL](https://api.bannergress.com/bnrs/pictures/e02f9baada257bc24bc1e6614c1fb79f)
 
 ## Details
 - **Distanz (km):** 8,268
-
-
-
+- **Missionen im Banner:** 48
+- **Insgesamt abgeschlossene Missionen:** 12.750
+- **Das ist mein Banner Nr.:** 575
 - **Beschreibung:** Descubre los lugares más emblematicos y con encato de Madrid. Desde Sol a la Plaza de la Villa, pasando por la Plaza de Oriente.
 
 

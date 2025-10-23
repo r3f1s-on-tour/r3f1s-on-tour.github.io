@@ -18,15 +18,15 @@ title: "Tut-Tut Child"
 ---
 # Tut-Tut Child
 
-*2023* • Deutschland
+*2023* • Recklinghausen • Deutschland
 
 ![Tut-Tut Child](https://api.bannergress.com/bnrs/pictures/852e63da31fb6cbdd7e8b5307e4c49af)
 
 ## Details
 - **Distanz (km):** 23,182
-
-
-
+- **Missionen im Banner:** 90
+- **Insgesamt abgeschlossene Missionen:** 12.954
+- **Das ist mein Banner Nr.:** 581
 - **Beschreibung:** Erkunde das beschauliche Recklinghausen ganz genau, vielleicht findest du die Maske vom Kind.
 
 

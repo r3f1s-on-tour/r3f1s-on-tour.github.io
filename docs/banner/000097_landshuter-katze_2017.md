@@ -18,15 +18,15 @@ title: "Landshuter Katze"
 ---
 # Landshuter Katze
 
-*2017* • Deutschland
+*2017* • Landshut • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 7,93
-
-
-
+- **Missionen im Banner:** 30
+- **Insgesamt abgeschlossene Missionen:** 2496
+- **Das ist mein Banner Nr.:** 97
 - **Beschreibung:** Die Landshuter Katze führt euch durch unser schönes Landshut. 
 Viel Spaß
 

@@ -18,15 +18,15 @@ title: "Middle Earth Brews"
 ---
 # Middle Earth Brews
 
-*2020* • Deutschland
+*2020* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 5,14
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 6846
+- **Das ist mein Banner Nr.:** 295
 - **Beschreibung:** Entdeckungsrunde vom Schäfersee zum Volkspark Rehberge
 
 

@@ -18,15 +18,15 @@ title: "Ameisennebel Rödelheim"
 ---
 # Ameisennebel Rödelheim
 
-*2018* • Deutschland
+*2018* • Frankfurt am Main • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 7,88
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 3156
+- **Das ist mein Banner Nr.:** 129
 - **Beschreibung:** Der Ameisennebel ist ein junger planetarischer Nebel. Der Name Ameisennebel kommt von seinem Aussehen, da er dem Thorax einer Ameise ähnelt.
 
 

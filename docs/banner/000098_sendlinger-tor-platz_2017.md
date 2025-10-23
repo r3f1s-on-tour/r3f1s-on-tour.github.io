@@ -18,15 +18,15 @@ title: "Sendlinger-Tor-Platz"
 ---
 # Sendlinger-Tor-Platz
 
-*2017* • Deutschland
+*2017* • München • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 8,60
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 2520
+- **Das ist mein Banner Nr.:** 98
 - **Beschreibung:** Im Rahmen der großen Stadterweiterung durch Ludwig den Bayern entstand 1285 bis 1337 eine zweite Stadtbefestigung, in deren Rahmen das Sendlinger Tor errichtet wurde. 1319 wird es erstmals erwähnt.
 
 

@@ -18,15 +18,15 @@ title: "Ostern in Neubrandenburg"
 ---
 # Ostern in Neubrandenburg
 
-*2022* • Deutschland
+*2022* • Neubrandenburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 3,57
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 8.760
+- **Das ist mein Banner Nr.:** 420
 - **Beschreibung:** Mache einen Osterspaziergang in der Neubrandenburger Innenstadt.
 
 

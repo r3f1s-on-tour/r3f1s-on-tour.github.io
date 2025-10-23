@@ -18,15 +18,15 @@ title: "Augsburg im Februar"
 ---
 # Augsburg im Februar
 
-*2018* • Deutschland
+*2018* • Augsburg • Deutschland
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 30
+- **Insgesamt abgeschlossene Missionen:** 3054
+- **Das ist mein Banner Nr.:** 124
 
 
 

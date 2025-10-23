@@ -18,15 +18,15 @@ title: "Schauspielhaus"
 ---
 # Schauspielhaus
 
-*2023* • Deutschland
+*2023* • Neubrandenburg • Deutschland
 
 ![Schauspielhaus](https://api.bannergress.com/bnrs/pictures/1a84ff953b346ed980f83a30166ab1a2)
 
 ## Details
 - **Distanz (km):** 5,061
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 11.862
+- **Das ist mein Banner Nr.:** 538
 - **Beschreibung:** Das Schauspielhaus befindet sich im Zentrum von Neubrandenburg. Es ist das älteste erhaltene Theater von Mecklenburg Vorpommern.
 
 

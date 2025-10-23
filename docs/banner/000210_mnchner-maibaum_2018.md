@@ -18,15 +18,15 @@ title: "Münchner Maibaum"
 ---
 # Münchner Maibaum
 
-*2018* • Deutschland
+*2018* • München • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 91,63
-
-
-
+- **Missionen im Banner:** 216
+- **Insgesamt abgeschlossene Missionen:** 5112
+- **Das ist mein Banner Nr.:** 210
 - **Beschreibung:** Das große Maibaum Mosaik startet am Maibaum am Viktualienmarkt und führt uns in 4 Schleifen durch ganz München. Das Mosaik besteht aus 216 Missionen .
 
 

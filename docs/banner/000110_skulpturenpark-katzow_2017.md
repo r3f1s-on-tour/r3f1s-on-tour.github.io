@@ -18,15 +18,15 @@ title: "Skulpturenpark Katzow"
 ---
 # Skulpturenpark Katzow
 
-*2017* • Deutschland
+*2017* • Katzow • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 6,38
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 2742
+- **Das ist mein Banner Nr.:** 110
 - **Beschreibung:** Der Park besteht seit 1991. Gründer des Skulpturenparks Katzow ist der Bildhauer Thomas Radeloff.
 
 

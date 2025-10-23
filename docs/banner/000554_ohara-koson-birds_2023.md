@@ -18,15 +18,15 @@ title: "Ohara Koson Birds"
 ---
 # Ohara Koson Birds
 
-*2023* • Deutschland
+*2023* • Neubrandenburg • Deutschland
 
 ![Ohara Koson Birds](https://api.bannergress.com/bnrs/pictures/eefcf85b5670a1729b3d511685c6789e)
 
 ## Details
 - **Distanz (km):** 5,756
-
-
-
+- **Missionen im Banner:** 96
+- **Insgesamt abgeschlossene Missionen:** 12.360
+- **Das ist mein Banner Nr.:** 554
 - **Beschreibung:** Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Neubrandenburg. Starte am Bahnhof deine Runde
 
 

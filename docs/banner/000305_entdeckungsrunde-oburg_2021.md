@@ -18,15 +18,15 @@ title: "Entdeckungsrunde OBurg"
 ---
 # Entdeckungsrunde OBurg
 
-*2021* • Deutschland
+*2021* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 1,70
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 7110
+- **Das ist mein Banner Nr.:** 305
 - **Beschreibung:** Kleine Runde durch Oranienburg. Start ist am Bahnhof
 
 

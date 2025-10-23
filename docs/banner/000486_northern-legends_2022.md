@@ -18,15 +18,15 @@ title: "Northern Legends"
 ---
 # Northern Legends
 
-*2022* • Deutschland
+*2022* • Berlin • Deutschland
 
 ![Northern Legends](https://api.bannergress.com/bnrs/pictures/bbf03454c1ee32bd101d8b31f92dd5cf)
 
 ## Details
 - **Distanz (km):** 1,259
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 10.488
+- **Das ist mein Banner Nr.:** 486
 - **Beschreibung:** Follow your path through the neighborhood of Friedrichshain.
 
 

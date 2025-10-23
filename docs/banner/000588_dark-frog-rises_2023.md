@@ -18,15 +18,15 @@ title: "DARK FROG RISES"
 ---
 # DARK FROG RISES
 
-*2023* • Deutschland
+*2023* • Dresden • Deutschland
 
 ![DARK FROG RISES](https://api.bannergress.com/bnrs/pictures/81e737911804f4785c856eac86305ba1)
 
 ## Details
 - **Distanz (km):** 6,811
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 13.044
+- **Das ist mein Banner Nr.:** 588
 - **Beschreibung:** This is the mosaic for the Enlightened at Umbra Dresden, which consists of 18 missions and offers a short walk through the city.
 Batfrog is calling!
 

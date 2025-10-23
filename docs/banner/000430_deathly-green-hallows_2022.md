@@ -18,15 +18,15 @@ title: "Deathly Green Hallows"
 ---
 # Deathly Green Hallows
 
-*2022* • Deutschland
+*2022* • Neubrandenburg • Deutschland
 
 ![Deathly Green Hallows](https://api.bannergress.com/bnrs/pictures/8aa08bebec436b91fa019ecee5ac6957)
 
 ## Details
 - **Distanz (km):** 21,08
-
-
-
+- **Missionen im Banner:** 36
+- **Insgesamt abgeschlossene Missionen:** 8.952
+- **Das ist mein Banner Nr.:** 430
 - **Beschreibung:** Mach eine Entdeckungstour durch den Osten von Neubrandenburg.
 
 

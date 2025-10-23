@@ -18,15 +18,15 @@ title: "Catpool (Rote Münchner Katze)"
 ---
 # Catpool (Rote Münchner Katze)
 
-*2018* • Deutschland
+*2018* • München • Deutschland
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 36
+- **Insgesamt abgeschlossene Missionen:** 4812
+- **Das ist mein Banner Nr.:** 205
 
 
 

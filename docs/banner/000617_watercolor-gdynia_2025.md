@@ -18,15 +18,15 @@ title: "Watercolor Gdynia"
 ---
 # Watercolor Gdynia
 
-*2025* • Polska
+*2025* • Gdynia • Polska
 
 ![Watercolor Gdynia](https://api.bannergress.com/bnrs/pictures/eee051ad9c7e48a747300f104a5ef880)
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 13.488
+- **Das ist mein Banner Nr.:** 617
 
 
 

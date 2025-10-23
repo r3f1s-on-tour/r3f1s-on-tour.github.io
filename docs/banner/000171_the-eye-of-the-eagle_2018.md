@@ -18,15 +18,15 @@ title: "The Eye of the Eagle"
 ---
 # The Eye of the Eagle
 
-*2018* • Deutschland
+*2018* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 5,81
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 4140
+- **Das ist mein Banner Nr.:** 171
 - **Beschreibung:** This is a 18 missions walk through the Fennpfuhl park. At the end you will have an eagle in your profile, the heraldic animal of Poland, Austria, Germany and many other countries.
 
 

@@ -18,15 +18,15 @@ title: "2nd Sunday Mitte"
 ---
 # 2nd Sunday Mitte
 
-*2022* • Deutschland
+*2022* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 2,04
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 8.514
+- **Das ist mein Banner Nr.:** 397
 - **Beschreibung:** Spaziere zum Second Sunday 02/22 über den Boulevard Unter den Linden im Bezitk Mitte.
 
 

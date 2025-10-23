@@ -18,15 +18,15 @@ title: "Friedensengel"
 ---
 # Friedensengel
 
-*2016* • Deutschland
+*2016* • München • Deutschland
 
 ![Friedensengel](https://api.bannergress.com/bnrs/pictures/07497fdbabbc83aa9d872aec006f5387)
 
 ## Details
 - **Distanz (km):** 13,40
-
-
-
+- **Missionen im Banner:** 48
+- **Insgesamt abgeschlossene Missionen:** 1140
+- **Das ist mein Banner Nr.:** 49
 - **Beschreibung:** Der so genannte Friedensengel ist eigentlich der griechischen Siegesgöttin Nike nachempfunden und erinnert an den Friedensschluss nach Ende des Deutsch-Französischen Krieges von 1870/1871.
 
 

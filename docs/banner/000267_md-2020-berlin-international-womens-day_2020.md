@@ -18,15 +18,15 @@ title: "MD 2020- Berlin,  International Women's Day"
 ---
 # MD 2020- Berlin,  International Women's Day
 
-*2020* • Deutschland
+*2020* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 19,23
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 6330
+- **Das ist mein Banner Nr.:** 267
 
 
 

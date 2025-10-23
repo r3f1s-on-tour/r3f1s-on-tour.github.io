@@ -18,15 +18,15 @@ title: "Cassandra Mission Day Linz 2018"
 ---
 # Cassandra Mission Day Linz 2018
 
-*2018* • Österreich
+*2018* • Oberösterreich • Österreich
 
 
 
 ## Details
 - **Distanz (km):** 21,33
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 4776
+- **Das ist mein Banner Nr.:** 204
 - **Beschreibung:** Discover Linz through missions!
 
 

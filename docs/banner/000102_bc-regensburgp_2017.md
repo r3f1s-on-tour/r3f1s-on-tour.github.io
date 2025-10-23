@@ -18,15 +18,15 @@ title: "BC Regensburgp"
 ---
 # BC Regensburgp
 
-*2017* • Deutschland
+*2017* • Regensburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 6,41
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 2628
+- **Das ist mein Banner Nr.:** 102
 - **Beschreibung:** Visit the "Historische Wurstkuchl". This is notable as perhaps the oldest continuously open public diner in the world. It serves food to people since 1146. Enjoy the famous "Bratwurschtkipferl".
 
 

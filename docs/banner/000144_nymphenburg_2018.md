@@ -18,15 +18,15 @@ title: "Nymphenburg"
 ---
 # Nymphenburg
 
-*2018* • Deutschland
+*2018* • München • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 8,65
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 3432
+- **Das ist mein Banner Nr.:** 144
 - **Beschreibung:** Eine Tour vom Schloss Nymphenburg über den Hubertusbrunnen zum Löwenbräukeller immer der nach dem Schloss benannten Nymphenburger Strasse entlang.
 
 

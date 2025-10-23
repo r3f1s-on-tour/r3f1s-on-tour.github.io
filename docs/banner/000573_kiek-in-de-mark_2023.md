@@ -18,15 +18,15 @@ title: "Kiek in de Mark"
 ---
 # Kiek in de Mark
 
-*2023* • Deutschland
+*2023* • Pasewalk • Deutschland
 
 ![Kiek in de Mark](https://api.bannergress.com/bnrs/pictures/e075ccd90e335eba835d0a349672f3d1)
 
 ## Details
 - **Distanz (km):** 3,24
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 12.630
+- **Das ist mein Banner Nr.:** 573
 - **Beschreibung:** Walk through the city and pick up a banner with the tower in rainbow colours.
 
 

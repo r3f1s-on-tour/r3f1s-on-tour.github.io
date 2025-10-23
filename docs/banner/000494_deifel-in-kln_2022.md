@@ -18,15 +18,15 @@ title: "Deifel in Köln"
 ---
 # Deifel in Köln
 
-*2022* • Deutschland
+*2022* • Köln • Deutschland
 
 ![Deifel in Köln](https://api.bannergress.com/bnrs/pictures/935bfc8026f0baa734992c8f0e84f869)
 
 ## Details
 - **Distanz (km):** 2
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 10.566
+- **Das ist mein Banner Nr.:** 494
 - **Beschreibung:** Starte am Hauptbahnhof einen Rundgang und entdecke Köln. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten, historische Orte und den Kölner Dom. Die Runde endet am Hansaring
 
 

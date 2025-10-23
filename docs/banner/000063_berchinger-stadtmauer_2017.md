@@ -18,15 +18,15 @@ title: "Berchinger Stadtmauer"
 ---
 # Berchinger Stadtmauer
 
-*2017* • Deutschland
+*2017* • Sollngriesbach • Deutschland
 
 ![Berchinger Stadtmauer](https://api.bannergress.com/bnrs/pictures/109263d1997f0bef578efd3bf35cd29b)
 
 ## Details
 - **Distanz (km):** 7,46
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 1404
+- **Das ist mein Banner Nr.:** 63
 - **Beschreibung:** Die 1. von 24 Missionen, um ein Mosaik der Berchinger Stadtmauer in's Profil zu kriegen.
 Hack only. Am besten zu Fuß machbar.
 

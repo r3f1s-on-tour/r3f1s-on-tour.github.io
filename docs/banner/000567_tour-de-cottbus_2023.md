@@ -18,15 +18,15 @@ title: "Tour de Cottbus"
 ---
 # Tour de Cottbus
 
-*2023* • Deutschland
+*2023* • Cottbus - Chóśebuz • Deutschland
 
 ![Tour de Cottbus](https://api.bannergress.com/bnrs/pictures/3f258f0ce5e2c5102ec9311981f34cb8)
 
 ## Details
 - **Distanz (km):** 16,661
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 12.552
+- **Das ist mein Banner Nr.:** 567
 - **Beschreibung:** Etappe 1 von 24 beginnt am Wahrzeichen von Cottbus und ist eine Runde um den  Spremberger Turm. Am letzten Portal gibt es den Hinweis auf die nächste Etappe.
 
 

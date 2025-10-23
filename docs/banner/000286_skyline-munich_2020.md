@@ -18,15 +18,15 @@ title: "Skyline Munich"
 ---
 # Skyline Munich
 
-*2020* • Deutschland
+*2020* • München • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 1,45
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 6690
+- **Das ist mein Banner Nr.:** 286
 - **Beschreibung:** Part 1 of 6
 
 

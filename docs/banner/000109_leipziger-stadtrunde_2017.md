@@ -18,15 +18,15 @@ title: "Leipziger Stadtrunde"
 ---
 # Leipziger Stadtrunde
 
-*2017* • Deutschland
+*2017* • Leipzig • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 2,22
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 2718
+- **Das ist mein Banner Nr.:** 109
 - **Beschreibung:** Dies ist  eine kleine 6-teilige Missionsreihe durch das Herz der Messestadt und führt euch an dein Sehenswürdigkeiten des alten und neuen Leipzigs.
 Ihr startet am ehemals größten Sackbahnhof.
 

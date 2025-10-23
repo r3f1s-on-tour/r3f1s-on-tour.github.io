@@ -18,15 +18,15 @@ title: "Happy Molecule"
 ---
 # Happy Molecule
 
-*2020* • Deutschland
+*2020* • Strasburg (Uckermark) • Deutschland
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 6432
+- **Das ist mein Banner Nr.:** 274
 
 
 

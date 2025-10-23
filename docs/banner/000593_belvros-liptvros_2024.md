@@ -18,15 +18,15 @@ title: "Belváros-Lipótváros"
 ---
 # Belváros-Lipótváros
 
-*2024* • Magyarország
+*2024* • Budapest • Magyarország
 
 ![Belváros-Lipótváros](https://api.bannergress.com/bnrs/pictures/9b37d605591bc696e5dc8d4849919780)
 
 ## Details
 - **Distanz (km):** 4,671
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 13.110
+- **Das ist mein Banner Nr.:** 593
 - **Beschreibung:** Discover the central part of Budapest in District V, situated on the east bank of the river Danube.
 
 

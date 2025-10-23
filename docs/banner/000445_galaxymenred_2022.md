@@ -18,15 +18,15 @@ title: "GalaxyMenRed"
 ---
 # GalaxyMenRed
 
-*2022* • Deutschland
+*2022* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 11,09
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 9.240
+- **Das ist mein Banner Nr.:** 445
 - **Beschreibung:** Der Urknall fand am Bhf Lichtenberg statt.Nun breitet sich eine neue Galaxy Richtung Friedrichsfelde aus; dehnt sich über den Weitling- und Nöldnerkiez bis sie implodiert und dort endet wo sie begann.
 
 

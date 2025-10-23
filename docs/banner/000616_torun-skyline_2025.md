@@ -18,15 +18,15 @@ title: "Torun skyline"
 ---
 # Torun skyline
 
-*2025* • Polska
+*2025* • Torun • Polska
 
 ![Torun skyline](https://api.bannergress.com/bnrs/pictures/d1413bb121e5d1d037822169d6c692b5)
 
 ## Details
 - **Distanz (km):** 3,7
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 13.470
+- **Das ist mein Banner Nr.:** 616
 
 
 

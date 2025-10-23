@@ -18,15 +18,15 @@ title: "Bayern Flagge"
 ---
 # Bayern Flagge
 
-*2018* • Deutschland
+*2018* • München • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 6,57
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 3762
+- **Das ist mein Banner Nr.:** 155
 - **Beschreibung:** Erkunde die bayerische Hauptstadt, beantworte Fragen zu Bayern und erhalte als Belohnung die bayerische Flagge mit Wappen.
 Diese Mission startet am Marienplatz.
 

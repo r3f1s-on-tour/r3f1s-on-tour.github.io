@@ -18,15 +18,15 @@ title: "Mission Day Nürnberg"
 ---
 # Mission Day Nürnberg
 
-*2016* • Deutschland
+*2016* • Nürnberg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 31,10
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 684
+- **Das ist mein Banner Nr.:** 34
 - **Beschreibung:** The former AEG factory premises have been become a lively urban site with IT offices, workshops, photographs’ and artists’ studios, exhibition halls and last but not least Nuremberg’s FabLab.
 
 

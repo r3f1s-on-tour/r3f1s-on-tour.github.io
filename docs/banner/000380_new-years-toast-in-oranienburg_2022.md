@@ -18,15 +18,15 @@ title: "New Years Toast in Oranienburg"
 ---
 # New Years Toast in Oranienburg
 
-*2022* • Deutschland
+*2022* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 1,68
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 8262
+- **Das ist mein Banner Nr.:** 380
 - **Beschreibung:** Mache eine kleine Tour durch Oranienburg und hole dir die Toasts ins Profil
 
 

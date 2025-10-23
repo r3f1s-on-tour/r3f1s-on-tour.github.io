@@ -18,15 +18,15 @@ title: "Grüne Tour durch Strasburg"
 ---
 # Grüne Tour durch Strasburg
 
-*2022* • Deutschland
+*2022* • Strasburg (Uckermark) • Deutschland
 
 ![Grüne Tour durch Strasburg](https://api.bannergress.com/bnrs/pictures/239dec4fc7819ff18dfb77dccbc1c525)
 
 ## Details
 - **Distanz (km):** 3,514
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 10.980
+- **Das ist mein Banner Nr.:** 517
 - **Beschreibung:** Starte am Marktplatz  einen Rundgang und entdecke Strasburg. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet auf dem Marktplatz
 
 

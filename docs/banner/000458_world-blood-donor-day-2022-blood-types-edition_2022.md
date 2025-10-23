@@ -18,15 +18,15 @@ title: "World Blood Donor Day 2022 - Blood Types Edition"
 ---
 # World Blood Donor Day 2022 - Blood Types Edition
 
-*2022* • Deutschland
+*2022* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 3,011
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 9.486
+- **Das ist mein Banner Nr.:** 458
 - **Beschreibung:** Am 14. Juni 2022 ist globaler Blutspendetag! Lasst euch mit diesem Banner durch Oranienburg zum Blutspendezentrum leiten. Beachtet, dass ihr euch für eine Blutspende vorher anmelden müsst!
 
 

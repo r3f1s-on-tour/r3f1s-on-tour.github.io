@@ -18,15 +18,15 @@ title: "Trennmission"
 ---
 # Trennmission
 
-*2021* • Deutschland
+*2021* • Hannover • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 3,21
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 7380
+- **Das ist mein Banner Nr.:** 317
 - **Beschreibung:** Hannover bietet so viel! Nutze die Trennmissionen für Deinen Scanner.
 
 

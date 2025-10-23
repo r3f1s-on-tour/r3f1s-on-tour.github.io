@@ -18,15 +18,15 @@ title: "Berliner Funkturm"
 ---
 # Berliner Funkturm
 
-*2019* • Deutschland
+*2019* • Berlin • Deutschland
 
 ![Berliner Funkturm](https://api.bannergress.com/bnrs/pictures/e5bdca79ae49d548bcbd328e0c16509e)
 
 ## Details
 - **Distanz (km):** 86,77
-
-
-
+- **Missionen im Banner:** 150
+- **Insgesamt abgeschlossene Missionen:** 5964
+- **Das ist mein Banner Nr.:** 244
 - **Beschreibung:** Der Berliner Funkturm ist ein 146,7m hoher Stahlfachwerkturm in Berlin und  eines der Wahrzeichen der Stadt sowie Symbol des Widerstandes und Freiheitswillen der West-Berliner in der Nachkriegszeit.
 
 

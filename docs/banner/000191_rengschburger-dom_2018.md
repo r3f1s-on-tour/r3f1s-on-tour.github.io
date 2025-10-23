@@ -18,15 +18,15 @@ title: "Rengschburger Dom"
 ---
 # Rengschburger Dom
 
-*2018* • Deutschland
+*2018* • Regensburg • Deutschland
 
 ![Rengschburger Dom](https://api.bannergress.com/bnrs/pictures/01e618952f674835332465d76a5ce86c)
 
 ## Details
 - **Distanz (km):** 16,84
-
-
-
+- **Missionen im Banner:** 60
+- **Insgesamt abgeschlossene Missionen:** 4566
+- **Das ist mein Banner Nr.:** 191
 - **Beschreibung:** Servus, Griaß di und Habedere in Rengschburg! Dieses Mosaik hat insgesamt 60 Missionen und ist auf 3 Teile aufgeteilt. Parken und Start Unterer Wöhrd. Viel Spaß
 
 

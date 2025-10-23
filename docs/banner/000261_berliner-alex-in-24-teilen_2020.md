@@ -18,15 +18,15 @@ title: "Berliner Alex in 24 Teilen"
 ---
 # Berliner Alex in 24 Teilen
 
-*2020* • Deutschland
+*2020* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 7,37
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 6258
+- **Das ist mein Banner Nr.:** 261
 - **Beschreibung:** Eine Missionsreihe in 24 Teilen rund um den Berliner Alexanderplatz
 Start und Ende an der berühmten Weltzeituhr
 

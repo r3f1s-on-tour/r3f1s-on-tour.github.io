@@ -18,15 +18,15 @@ title: "Defeat the Hulk"
 ---
 # Defeat the Hulk
 
-*2018* • Deutschland
+*2018* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 1,62
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 4104
+- **Das ist mein Banner Nr.:** 169
 - **Beschreibung:** This tour guides you through the Friedrichshain Nordkiez which is also known as the Samariterkiez. You will find a lot of fascinating places here.
 
 

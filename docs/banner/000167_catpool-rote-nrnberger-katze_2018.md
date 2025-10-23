@@ -18,15 +18,15 @@ title: "Catpool (Rote Nürnberger Katze)"
 ---
 # Catpool (Rote Nürnberger Katze)
 
-*2018* • Deutschland
+*2018* • Nürnberg • Deutschland
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 36
+- **Insgesamt abgeschlossene Missionen:** 4092
+- **Das ist mein Banner Nr.:** 167
 
 
 

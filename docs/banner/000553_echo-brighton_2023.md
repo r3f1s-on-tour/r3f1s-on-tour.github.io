@@ -18,15 +18,15 @@ title: "Echo Brighton"
 ---
 # Echo Brighton
 
-*2023* • Deutschland
+*2023* • Strasburg (Uckermark) • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 3,514
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 12.264
+- **Das ist mein Banner Nr.:** 553
 - **Beschreibung:** Führen Sie anlässlich der Echo XM Anomaly in Brighton eine Event-Mission durch.
 
 

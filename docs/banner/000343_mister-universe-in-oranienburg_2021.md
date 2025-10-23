@@ -18,15 +18,15 @@ title: "Mister-Universe in Oranienburg"
 ---
 # Mister-Universe in Oranienburg
 
-*2021* • Deutschland
+*2021* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 5,80
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 7758
+- **Das ist mein Banner Nr.:** 343
 - **Beschreibung:** Mache eine kleine Tour mit Bengalos durch Oranienburg und starte am Bahnhof
 
 

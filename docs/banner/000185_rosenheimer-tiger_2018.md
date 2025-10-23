@@ -18,15 +18,15 @@ title: "Rosenheimer Tiger"
 ---
 # Rosenheimer Tiger
 
-*2018* • Deutschland
+*2018* • Rosenheim • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 4,79
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 4410
+- **Das ist mein Banner Nr.:** 185
 - **Beschreibung:** Erkunde Rosenheim!
 
 

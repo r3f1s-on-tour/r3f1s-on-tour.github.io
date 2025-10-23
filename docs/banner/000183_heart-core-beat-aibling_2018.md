@@ -18,15 +18,15 @@ title: "Heart Core Beat Aibling"
 ---
 # Heart Core Beat Aibling
 
-*2018* • Deutschland
+*2018* • Bad Aibling • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 1,42
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 4386
+- **Das ist mein Banner Nr.:** 183
 - **Beschreibung:** Fühle den Herzschlag vom schönen Bad Aibling.
 
 

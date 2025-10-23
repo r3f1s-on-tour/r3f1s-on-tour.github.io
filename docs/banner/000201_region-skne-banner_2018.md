@@ -18,15 +18,15 @@ title: "Region Skåne Banner"
 ---
 # Region Skåne Banner
 
-*2018* • Sverige
+*2018* • Malmö • Sverige
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 42
+- **Insgesamt abgeschlossene Missionen:** 4716
+- **Das ist mein Banner Nr.:** 201
 
 
 

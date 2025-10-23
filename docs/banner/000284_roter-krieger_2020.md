@@ -18,15 +18,15 @@ title: "Roter Krieger"
 ---
 # Roter Krieger
 
-*2020* • Deutschland
+*2020* • München • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 9,01
-
-
-
+- **Missionen im Banner:** 54
+- **Insgesamt abgeschlossene Missionen:** 6630
+- **Das ist mein Banner Nr.:** 284
 - **Beschreibung:** Erkunde die Stadt München ab dem Stachus über den Marienplatz, die Altstadt und wieder zurück.
 
 

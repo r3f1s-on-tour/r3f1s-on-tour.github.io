@@ -18,15 +18,15 @@ title: "Neubr. Stadtmusikanten"
 ---
 # Neubr. Stadtmusikanten
 
-*2023* • Deutschland
+*2023* • Neubrandenburg • Deutschland
 
 ![Neubr. Stadtmusikanten](https://api.bannergress.com/bnrs/pictures/bd942df6e020a1b5fcc14c22e4219e4f)
 
 ## Details
 - **Distanz (km):** 12,503
-
-
-
+- **Missionen im Banner:** 72
+- **Insgesamt abgeschlossene Missionen:** 12.252
+- **Das ist mein Banner Nr.:** 551
 - **Beschreibung:** Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde die Sehenswürdigkeiten und Denkmäler der Stadt.
 
 

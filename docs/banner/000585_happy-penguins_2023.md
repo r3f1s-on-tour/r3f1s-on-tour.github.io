@@ -18,15 +18,15 @@ title: "Happy Penguins"
 ---
 # Happy Penguins
 
-*2023* • Deutschland
+*2023* • Dresden • Deutschland
 
 ![Happy Penguins](https://api.bannergress.com/bnrs/pictures/d8b662243150fb4deb9d1b4b29fd8f61)
 
 ## Details
 - **Distanz (km):** 1,619
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 13.008
+- **Das ist mein Banner Nr.:** 585
 - **Beschreibung:** Weihnachtliche Pinguine verstecken sich am Dresdner Elbufer. Kannst du sie finden?
 
 

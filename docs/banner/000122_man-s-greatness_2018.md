@@ -18,15 +18,15 @@ title: "Man s Greatness"
 ---
 # Man s Greatness
 
-*2018* • Deutschland
+*2018* • München • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 20,50
-
-
-
+- **Missionen im Banner:** 36
+- **Insgesamt abgeschlossene Missionen:** 2988
+- **Das ist mein Banner Nr.:** 122
 - **Beschreibung:** Inspired by the artwork of  Scott Manley, leading my dear fellows in a new area of Munich which they might not have visited before.
 
 

@@ -18,15 +18,15 @@ title: "Fischbrötchenbanner"
 ---
 # Fischbrötchenbanner
 
-*2022* • Deutschland
+*2022* • Köln • Deutschland
 
 ![Fischbrötchenbanner](https://api.bannergress.com/bnrs/pictures/7e92cd5ee56259c40f1cd19da7e0adb5)
 
 ## Details
 - **Distanz (km):** 3,235
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 10.608
+- **Das ist mein Banner Nr.:** 497
 - **Beschreibung:** Schnapp dir ein Fischbrötchen deiner Wahl.
 Köln erstes Fischbrötchenbanner startet bei Fisch Hembsch, einem Familienbetrieb mit über 120 Jahren Tradition. Immer geradeaus gelangst du am Eigelstein zum Reefhouse. Ein sehr gutes Fischrestaurant welches auch Fischbrötchen und Backfisch anbietet.
 Am Ende des Banners liegt das Pescado. Hier gibt es die Luxusvariante des Fischbrötchen. Absolut empfehlenswert!

@@ -18,15 +18,15 @@ title: "Casco Histórico Plz. La Virgen"
 ---
 # Casco Histórico Plz. La Virgen
 
-*2024* • España
+*2024* • València • España
 
 ![Casco Histórico Plz. La Virgen](https://api.bannergress.com/bnrs/pictures/342c7600849e873a4902bf8f0f8af4d0)
 
 ## Details
 - **Distanz (km):** 4,275
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 13.218
+- **Das ist mein Banner Nr.:** 599
 - **Beschreibung:** Uno de los lugares mas emblemáticos de la ciudad Valenciana, es sin duda la plaza de la Virgen en pleno centro del casco antiguo y rodeado de muchas calles con un ambiente muy muy agradable.
 
 

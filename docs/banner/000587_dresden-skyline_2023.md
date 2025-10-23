@@ -18,15 +18,15 @@ title: "Dresden Skyline"
 ---
 # Dresden Skyline
 
-*2023* • Deutschland
+*2023* • Dresden • Deutschland
 
 ![Dresden Skyline](https://api.bannergress.com/bnrs/pictures/24dd2b71b50b077aa14b9c7ff4a7c449)
 
 ## Details
 - **Distanz (km):** 4,1
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 13.026
+- **Das ist mein Banner Nr.:** 587
 - **Beschreibung:** Dresden - eine barocke Perle an der Elbe. Viele Maler haben diese Pracht schon auf Leinwand verewigt. Nun könnt ihr ein Mosaik aus 12 Teilen in eurem Agent-Profil ergänzen.
 Teil 1 von 12
 

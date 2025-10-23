@@ -18,15 +18,15 @@ title: "Vicke Schorler Rolle"
 ---
 # Vicke Schorler Rolle
 
-*2015* • Deutschland
+*2015* • Rostock • Deutschland
 
 ![Vicke Schorler Rolle](https://lh3.googleusercontent.com/pw/AP1GczMR6Ew49IolF_yKFAtKx2CaWrCeRg9NtiP3RF5H4aUAGzMi9Po7v_tc626pFIPbloPP7-yaBtUmO_eF3MXvescWN4xJwPrBo3MTsCvzMTaGSy4cKd4QGRvobKJSXWe8IH0AO9irvuhPwjU1t5JUw_cJ9Q)
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 102
+- **Das ist mein Banner Nr.:** 2
 
 
 

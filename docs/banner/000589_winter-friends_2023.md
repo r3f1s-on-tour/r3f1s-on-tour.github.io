@@ -18,15 +18,15 @@ title: "Winter Friends"
 ---
 # Winter Friends
 
-*2023* • Deutschland
+*2023* • Dresden • Deutschland
 
 ![Winter Friends](https://api.bannergress.com/bnrs/pictures/0deac4815912469ec07e98a727543277)
 
 ## Details
 - **Distanz (km):** 1,889
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 13.050
+- **Das ist mein Banner Nr.:** 589
 - **Beschreibung:** Geh mit deinen Freunden durch Löbtau
 
 

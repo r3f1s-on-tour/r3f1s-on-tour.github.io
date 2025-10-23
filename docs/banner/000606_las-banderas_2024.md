@@ -18,15 +18,15 @@ title: "Las Banderas"
 ---
 # Las Banderas
 
-*2024* • España
+*2024* • València • España
 
 ![Las Banderas](https://api.bannergress.com/bnrs/pictures/1b12a50c200b30ace4a20b0cd161dc02)
 
 ## Details
 - **Distanz (km):** 4,719
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 13.302
+- **Das ist mein Banner Nr.:** 606
 - **Beschreibung:** Vamos a pasear desde un gran punto de reunión e interés (La Nau de l'aigua) hasta otro gran punto de referencia (Las Banderas) que hace de unión entre el paseo marítimo y "La Marina de València"
 
 

@@ -18,15 +18,15 @@ title: "Enlightened Schwerin Teil"
 ---
 # Enlightened Schwerin Teil
 
-*2022* • Deutschland
+*2022* • Schwerin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 2,72
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 8.874
+- **Das ist mein Banner Nr.:** 426
 - **Beschreibung:** Der Alte Garten wartet ;)
 
 

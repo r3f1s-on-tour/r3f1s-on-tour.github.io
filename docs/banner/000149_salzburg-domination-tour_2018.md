@@ -18,15 +18,15 @@ title: "Salzburg Domination Tour"
 ---
 # Salzburg Domination Tour
 
-*2018* • Österreich
+*2018* • Salzburg • Österreich
 
 ![Salzburg Domination Tour](https://api.bannergress.com/bnrs/pictures/d90096600f5757922eb05f93018cbd0e)
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 60
+- **Insgesamt abgeschlossene Missionen:** 3642
+- **Das ist mein Banner Nr.:** 149
 
 
 

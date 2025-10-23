@@ -18,15 +18,15 @@ title: "Mr Pumpkin Slasher in Oranienburg - Part 2"
 ---
 # Mr Pumpkin Slasher in Oranienburg - Part 2
 
-*2021* • Deutschland
+*2021* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 6,05
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 7794
+- **Das ist mein Banner Nr.:** 345
 - **Beschreibung:** Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 

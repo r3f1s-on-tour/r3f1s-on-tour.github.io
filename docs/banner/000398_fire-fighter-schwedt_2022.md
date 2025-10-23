@@ -18,15 +18,15 @@ title: "Fire Fighter Schwedt"
 ---
 # Fire Fighter Schwedt
 
-*2022* • Deutschland
+*2022* • Schwedt/Oder • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 7,33
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 8.532
+- **Das ist mein Banner Nr.:** 398
 - **Beschreibung:** Eine Runde durch Schwedt wird belohnt mit diesem tollen Banner.
 
 

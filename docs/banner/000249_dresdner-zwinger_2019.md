@@ -18,15 +18,15 @@ title: "Dresdner Zwinger"
 ---
 # Dresdner Zwinger
 
-*2019* • Deutschland
+*2019* • Dresden • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 2,89
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 6048
+- **Das ist mein Banner Nr.:** 249
 - **Beschreibung:** Der Zwinger ist eines der bekanntesten barocken Bauwerke in Dresden.
 Dieses Mosaik führt euch rund um und in den Zwinger.
 Bittet beachtet die Öffnungszeiten des Zwingers!

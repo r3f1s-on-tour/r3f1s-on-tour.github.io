@@ -18,15 +18,15 @@ title: "Item Cats Strasburg"
 ---
 # Item Cats Strasburg
 
-*2021* • Deutschland
+*2021* • Strasburg (Uckermark) • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 6,56
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 8160
+- **Das ist mein Banner Nr.:** 372
 - **Beschreibung:** Starte am Marktplatz und entdecke Strasburg Uckermark bei einer weihnachtlichen Spaziergang.
 
 Banner geht am 26.12.2012 offline

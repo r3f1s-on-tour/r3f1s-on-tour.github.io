@@ -18,15 +18,15 @@ title: "Neubrandenburg"
 ---
 # Neubrandenburg
 
-*2020* • Deutschland
+*2020* • Neubrandenburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 7,10
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 6822
+- **Das ist mein Banner Nr.:** 293
 - **Beschreibung:** 1170
 Fürst Kasimir von Pommern schenkt dem Havelberger Domstift einen Landstrich am Tollensesee. Der Ort, an dem einmal das wunderschöne Neubrandenburg entstehen wird.
 

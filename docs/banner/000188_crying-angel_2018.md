@@ -18,15 +18,15 @@ title: "Crying Angel"
 ---
 # Crying Angel
 
-*2018* • Deutschland
+*2018* • München • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 2,21
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 4458
+- **Das ist mein Banner Nr.:** 188
 - **Beschreibung:** Kleine Tour über den alten Nordfriedhof. Vorsicht vor den weinenden Engel
 
 

@@ -18,15 +18,15 @@ title: "Göttingen auf dem 10DM Schein"
 ---
 # Göttingen auf dem 10DM Schein
 
-*2021* • Deutschland
+*2021* • Göttingen • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 6,55
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 7452
+- **Das ist mein Banner Nr.:** 321
 - **Beschreibung:** Auf dem letzten 10 Deutsche Mark Schein waren die Sternwarte, die Johanniskirche, die Universitätsaula, das Rathaus, der Kirchturm von Jacobi und das Museum der Stadt Göttingen zu sehen.
 
 

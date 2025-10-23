@@ -18,15 +18,15 @@ title: "Dresden Artistic Skyline"
 ---
 # Dresden Artistic Skyline
 
-*2019* • Deutschland
+*2019* • Dresden • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 4,86
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 6108
+- **Das ist mein Banner Nr.:** 253
 - **Beschreibung:** Visit the historic city center of Dresden and create a beautiful artistic Skyline Banner.
 
 

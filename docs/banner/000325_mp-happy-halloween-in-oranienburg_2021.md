@@ -18,15 +18,15 @@ title: "#MP Happy Halloween in Oranienburg"
 ---
 # #MP Happy Halloween in Oranienburg
 
-*2021* • Deutschland
+*2021* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 3,64
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 7482
+- **Das ist mein Banner Nr.:** 325
 - **Beschreibung:** Mache eine kleine Entdeckungstour durch Oranienburg. Start ist am Bahnhof und führt die zum Schloss wieder zurück zum Bahnhof
 
 Banner geht am 01.11.2021 offline

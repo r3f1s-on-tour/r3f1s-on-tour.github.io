@@ -18,15 +18,15 @@ title: "Antiquarium München"
 ---
 # Antiquarium München
 
-*2016* • Deutschland
+*2016* • München • Deutschland
 
 ![Antiquarium München](https://api.bannergress.com/bnrs/pictures/84f766e615e30748b7ad56ec92a8e957)
 
 ## Details
 - **Distanz (km):** 8,23
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 930
+- **Das ist mein Banner Nr.:** 42
 - **Beschreibung:** Das Antiquarium wurde ab 1568 zur Aufnahme der herzoglichen Antikensammlung und Bibliothek als Erweiterung der Münchner Residenz errichtet und wenig später zu einem Festsaal umgestaltet.
 
 

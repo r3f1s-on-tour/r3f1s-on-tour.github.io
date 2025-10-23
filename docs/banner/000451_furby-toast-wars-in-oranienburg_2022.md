@@ -18,15 +18,15 @@ title: "Furby Toast Wars in Oranienburg"
 ---
 # Furby Toast Wars in Oranienburg
 
-*2022* • Deutschland
+*2022* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 4
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 9.318
+- **Das ist mein Banner Nr.:** 451
 - **Beschreibung:** Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 

@@ -18,15 +18,15 @@ title: "Green Unicorn"
 ---
 # Green Unicorn
 
-*2021* • Deutschland
+*2021* • Neubrandenburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 24,03
-
-
-
+- **Missionen im Banner:** 36
+- **Insgesamt abgeschlossene Missionen:** 7548
+- **Das ist mein Banner Nr.:** 329
 - **Beschreibung:** Die Missionen führen durch die Grünanlagen von Neubrandenburg. Dabei sieht man unter anderem den Burgwall, Strandbad Broda, den Kulturbark, das Augustabad und die hinterste Mühle.
 
 

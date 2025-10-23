@@ -18,15 +18,15 @@ title: "Green Galaxy Men in Oranienburg"
 ---
 # Green Galaxy Men in Oranienburg
 
-*2022* • Deutschland
+*2022* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 8,57
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 9.192
+- **Das ist mein Banner Nr.:** 443
 - **Beschreibung:** Starte in der Bernauer Straße eine Reise durch Galaxie und entdecke den Ursprung. Deine Reise durch die Stadt Oranienburg führt dich entlang des Schloss, Schlosspark und endet am Bahnhof
 
 

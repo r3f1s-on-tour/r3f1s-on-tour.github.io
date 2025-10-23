@@ -18,15 +18,15 @@ title: "Feuerschwert Tour durch Strasburg"
 ---
 # Feuerschwert Tour durch Strasburg
 
-*2021* • Deutschland
+*2021* • Strasburg (Uckermark) • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 2,79
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 8010
+- **Das ist mein Banner Nr.:** 364
 - **Beschreibung:** Mache eine Entdeckungsrunde durch Strasburg und hole dir ein Feuerschwert ins PRofil
 
 

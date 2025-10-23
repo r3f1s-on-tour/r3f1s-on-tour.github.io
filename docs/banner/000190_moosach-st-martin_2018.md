@@ -18,15 +18,15 @@ title: "Moosach St. Martin"
 ---
 # Moosach St. Martin
 
-*2018* • Deutschland
+*2018* • München • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 26,62
-
-
-
+- **Missionen im Banner:** 36
+- **Insgesamt abgeschlossene Missionen:** 4506
+- **Das ist mein Banner Nr.:** 190
 - **Beschreibung:** Die Alte Pfarrkirche St. Martin im Münchner Stadtteil Moosach
 
 

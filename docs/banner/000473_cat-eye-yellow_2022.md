@@ -18,15 +18,15 @@ title: "Cat Eye Yellow"
 ---
 # Cat Eye Yellow
 
-*2022* • Deutschland
+*2022* • Berlin • Deutschland
 
 ![Cat Eye Yellow](https://api.bannergress.com/bnrs/pictures/97abd24e1d39bce894418ba9ee886bb8)
 
 ## Details
 - **Distanz (km):** 2,258
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 10.344
+- **Das ist mein Banner Nr.:** 473
 - **Beschreibung:** Dieses Banner ist die sechste Farbe von insgesamt 6. 
 Sie startet und Endet am S+U Lichtenberg. 
 Als Passphrase wird jedweils die aktuelle Missionsnummer abgefragt

@@ -18,15 +18,15 @@ title: "Raute Blau Weiß 1"
 ---
 # Raute Blau Weiß 1
 
-*2019* • Deutschland
+*2019* • Vaterstetten • Deutschland
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 5352
+- **Das ist mein Banner Nr.:** 223
 
 
 

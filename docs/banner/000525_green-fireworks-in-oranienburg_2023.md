@@ -18,15 +18,15 @@ title: "Green Fireworks in Oranienburg"
 ---
 # Green Fireworks in Oranienburg
 
-*2023* • Deutschland
+*2023* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 5,7
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 11.100
+- **Das ist mein Banner Nr.:** 525
 - **Beschreibung:** Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 

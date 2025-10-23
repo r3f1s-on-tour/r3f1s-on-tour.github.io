@@ -18,15 +18,15 @@ title: "Art walk 1 - Until death do us part"
 ---
 # Art walk 1 - Until death do us part
 
-*2022* • Deutschland
+*2022* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 26,48
-
-
-
+- **Missionen im Banner:** 48
+- **Insgesamt abgeschlossene Missionen:** 9.366
+- **Das ist mein Banner Nr.:** 452
 - **Beschreibung:** Starte am Berliner Hauptbahnhof eine Entdeckungsrunde in den Norden von Berlin. Die Tour führt dich dann von Berlin Mitte durch den Bezirk Reinickendorf und endet am U-Bahnhof Rathaus Reinickendorf.
 
 Ein Tribute an den großartigen, polnischen Künstler Zdzisław Beksiński (24.02.1929 - 21.02.2005)

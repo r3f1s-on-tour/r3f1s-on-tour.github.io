@@ -18,15 +18,15 @@ title: "Neujahrs Runde durch Oranienburg"
 ---
 # Neujahrs Runde durch Oranienburg
 
-*2022* • Deutschland
+*2022* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 3,64
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 8274
+- **Das ist mein Banner Nr.:** 381
 - **Beschreibung:** Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 

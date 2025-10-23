@@ -18,15 +18,15 @@ title: "Second Sunday - February 2022"
 ---
 # Second Sunday - February 2022
 
-*2022* • Deutschland
+*2022* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 1,60
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 8.508
+- **Das ist mein Banner Nr.:** 396
 - **Beschreibung:** Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
 
 

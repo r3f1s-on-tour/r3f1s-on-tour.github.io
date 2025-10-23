@@ -18,15 +18,15 @@ title: "Sweet Unicorn"
 ---
 # Sweet Unicorn
 
-*2019* • Deutschland
+*2019* • Berlin • Deutschland
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 30
+- **Insgesamt abgeschlossene Missionen:** 6156
+- **Das ist mein Banner Nr.:** 255
 
 
 

@@ -18,15 +18,15 @@ title: "Cats in the box - Strasburg"
 ---
 # Cats in the box - Strasburg
 
-*2021* • Deutschland
+*2021* • Strasburg (Uckermark) • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 3,18
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 8148
+- **Das ist mein Banner Nr.:** 371
 - **Beschreibung:** Starte am Marktplatz und entdecke Strasburg Uckermark bei einer weihnachtlichen Spaziergang. 
 
 Banner geht am 26.12.2021 offline

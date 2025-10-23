@@ -18,15 +18,15 @@ title: "St-Patricks-Day"
 ---
 # St-Patricks-Day
 
-*2023* • Deutschland
+*2023* • Neubrandenburg • Deutschland
 
 ![St-Patricks-Day](https://api.bannergress.com/bnrs/pictures/e91d4e2fe6878463c0eae2f711628455)
 
 ## Details
 - **Distanz (km):** 3,3
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 12.366
+- **Das ist mein Banner Nr.:** 555
 - **Beschreibung:** Der Saint Patrick’s Day ist der Gedenktag des irischen Bischofs Patrick, der im 5. Jahrhundert lebte und als erster christlicher Missionar in Irland gilt. (Cargress ready!)
 
 

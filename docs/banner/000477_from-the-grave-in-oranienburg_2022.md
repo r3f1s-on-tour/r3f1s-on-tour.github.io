@@ -18,15 +18,15 @@ title: "From the Grave in Oranienburg"
 ---
 # From the Grave in Oranienburg
 
-*2022* • Deutschland
+*2022* • Oranienburg • Deutschland
 
 ![From the Grave in Oranienburg](https://api.bannergress.com/bnrs/pictures/023bb234581447c14213143dbc613c47)
 
 ## Details
 - **Distanz (km):** 8,961
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 10.398
+- **Das ist mein Banner Nr.:** 477
 - **Beschreibung:** Starte in der Bernauer Straße eine Entdeckungstour durch Oranienburg entdecke auf deiner Runde Sehenswürdigkeiten wie das Schloss und andere Denkmäler. Es geht entlang der Havel zurück zum Bahnhof.
 
 

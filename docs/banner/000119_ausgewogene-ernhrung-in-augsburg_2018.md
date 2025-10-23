@@ -18,15 +18,15 @@ title: "Ausgewogene Ernährung in Augsburg"
 ---
 # Ausgewogene Ernährung in Augsburg
 
-*2018* • Deutschland
+*2018* • Augsburg • Deutschland
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 2904
+- **Das ist mein Banner Nr.:** 119
 
 
 

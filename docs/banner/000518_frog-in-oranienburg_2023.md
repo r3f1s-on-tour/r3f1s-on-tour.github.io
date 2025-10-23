@@ -18,15 +18,15 @@ title: "Frog in Oranienburg"
 ---
 # Frog in Oranienburg
 
-*2023* • Deutschland
+*2023* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 1,29
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 10.986
+- **Das ist mein Banner Nr.:** 518
 - **Beschreibung:** Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 

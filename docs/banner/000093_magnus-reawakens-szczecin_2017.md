@@ -18,15 +18,15 @@ title: "MAGNUS Reawakens Szczecin"
 ---
 # MAGNUS Reawakens Szczecin
 
-*2017* • Polska
+*2017* • Szczecin • Polska
 
 ![MAGNUS Reawakens Szczecin](https://api.bannergress.com/bnrs/pictures/f3f19c5eebe702c31a6d1e6eb37d766f)
 
 ## Details
 - **Distanz (km):** 13,54
-
-
-
+- **Missionen im Banner:** 42
+- **Insgesamt abgeschlossene Missionen:** 2418
+- **Das ist mein Banner Nr.:** 93
 - **Beschreibung:** 42 missions in recognition of your contributions during 13Magnus Reawakens XM Anomaly in Szczecin, 26.08.2017
 
 

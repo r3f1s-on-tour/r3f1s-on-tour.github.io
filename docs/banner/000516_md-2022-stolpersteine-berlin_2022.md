@@ -18,15 +18,15 @@ title: "MD 2022- Stolpersteine, Berlin"
 ---
 # MD 2022- Stolpersteine, Berlin
 
-*2022* • Deutschland
+*2022* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 2,946
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 10.974
+- **Das ist mein Banner Nr.:** 516
 - **Beschreibung:** Part of MD 2022- Stolpersteine
 
 

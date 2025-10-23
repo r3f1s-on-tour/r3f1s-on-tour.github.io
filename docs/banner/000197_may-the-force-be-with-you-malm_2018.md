@@ -18,15 +18,15 @@ title: "May the force be with you Malmö"
 ---
 # May the force be with you Malmö
 
-*2018* • Sverige
+*2018* • Malmö • Sverige
 
 
 
 ## Details
 - **Distanz (km):** 1,91
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 4650
+- **Das ist mein Banner Nr.:** 197
 - **Beschreibung:** Quick banner mission in order to bring out the force in central parts of Malmö.
 
 All portals available 24/7.

@@ -18,15 +18,15 @@ title: "Pasinger Stadtwappen"
 ---
 # Pasinger Stadtwappen
 
-*2017* • Deutschland
+*2017* • München • Deutschland
 
 ![Pasinger Stadtwappen](https://api.bannergress.com/bnrs/pictures/fd818caf54ddf0a3b1cdbe1e34009f71)
 
 ## Details
 - **Distanz (km):** 13,85
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 1224
+- **Das ist mein Banner Nr.:** 53
 - **Beschreibung:** Die nächste Mission beginnt jeweils am letzten Portal der vorherigen Mission. Es kommen Hack- und Capture/Upgrade-Missionen vor. Fahrrad ist von Vorteil.
 
 

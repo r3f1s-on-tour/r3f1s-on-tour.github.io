@@ -18,15 +18,15 @@ title: "Zeiss-Großplanetarium"
 ---
 # Zeiss-Großplanetarium
 
-*2020* • Deutschland
+*2020* • Berlin • Deutschland
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 6276
+- **Das ist mein Banner Nr.:** 262
 
 
 

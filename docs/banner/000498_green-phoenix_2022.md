@@ -18,15 +18,15 @@ title: "Green Phoenix"
 ---
 # Green Phoenix
 
-*2022* • Deutschland
+*2022* • Bergisch Gladbach • Deutschland
 
 ![Green Phoenix](https://api.bannergress.com/bnrs/pictures/0e6a5917c72dad760b4cfe201e90e9f5)
 
 ## Details
 - **Distanz (km):** 3,096
-
-
-
+- **Missionen im Banner:** 60
+- **Insgesamt abgeschlossene Missionen:** 10.668
+- **Das ist mein Banner Nr.:** 498
 - **Beschreibung:** Willkommen im Wildpark Brück. Entdecke bei 60 Missionen die Vielfalt des Waldes.
 
 

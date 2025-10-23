@@ -18,15 +18,15 @@ title: "Schlösser in Oberschleißheim"
 ---
 # Schlösser in Oberschleißheim
 
-*2017* • Deutschland
+*2017* • Oberschleißheim • Deutschland
 
 ![Schlösser in Oberschleißheim](https://api.bannergress.com/bnrs/pictures/68478dcd093f42017ae41b3a7757c17b)
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 3
+- **Insgesamt abgeschlossene Missionen:** 2043
+- **Das ist mein Banner Nr.:** 74
 
 
 

@@ -18,15 +18,15 @@ title: "Second Sunday"
 ---
 # Second Sunday
 
-*2023* • Deutschland
+*2023* • Neubrandenburg • Deutschland
 
 ![Second Sunday](https://api.bannergress.com/bnrs/pictures/37af51a3f3295a162c245f325a7e4d61)
 
 ## Details
 - **Distanz (km):** 2,132
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 11.964
+- **Das ist mein Banner Nr.:** 540
 - **Beschreibung:** Second Sunday im Oktober 2022 in Neubrandenburg
 
 

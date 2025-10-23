@@ -18,15 +18,15 @@ title: "Friedrich-Ludwig-Jahn-Sportpark"
 ---
 # Friedrich-Ludwig-Jahn-Sportpark
 
-*2020* • Deutschland
+*2020* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 8,10
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 6210
+- **Das ist mein Banner Nr.:** 259
 - **Beschreibung:** Eine Runde um den Friedrich-Ludwig-Jahn-Sportpark.
 1825 wurde das Areal von der Preußischen Armee als Exerzierplatz genutzt.
 

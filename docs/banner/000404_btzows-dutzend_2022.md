@@ -18,15 +18,15 @@ title: "Bötzows Dutzend"
 ---
 # Bötzows Dutzend
 
-*2022* • Deutschland
+*2022* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 6,56
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 8.628
+- **Das ist mein Banner Nr.:** 404
 - **Beschreibung:** Als Bötzowviertel wird die Ortslage zwischen der Danziger Straße im Nordosten, dem Volkspark Friedrichshain im Süden und der Greifswalder Straße im Nordwesten bezeichnet.
 
 

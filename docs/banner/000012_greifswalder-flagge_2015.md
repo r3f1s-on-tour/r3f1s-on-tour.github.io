@@ -18,15 +18,15 @@ title: "Greifswalder Flagge"
 ---
 # Greifswalder Flagge
 
-*2015* • Deutschland
+*2015* • Greifswald • Deutschland
 
 ![Greifswalder Flagge](https://api.bannergress.com/bnrs/pictures/98098407103277f8e6c82ac9c530ea09)
 
 ## Details
 - **Distanz (km):** 12,22
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 240
+- **Das ist mein Banner Nr.:** 12
 - **Beschreibung:** Zeige Flagge für die einzigartige Universitäts- und Hansestadt Greifswald! Dies ist die erste von achtzehn Missionen für das Mosaik der Greifswalder Flagge.
 
 

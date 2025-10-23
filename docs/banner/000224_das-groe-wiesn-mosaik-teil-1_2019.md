@@ -18,15 +18,15 @@ title: "Das Große Wiesn Mosaik Teil 1"
 ---
 # Das Große Wiesn Mosaik Teil 1
 
-*2019* • Deutschland
+*2019* • München • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 21,00
-
-
-
+- **Missionen im Banner:** 48
+- **Insgesamt abgeschlossene Missionen:** 5400
+- **Das ist mein Banner Nr.:** 224
 - **Beschreibung:** Teil 1 der großen Wiesnreihe. Start und Ende an der Theresienwiese. Hälfte der Strecke an der Münchner Freiheit. Viel Spaß
 
 

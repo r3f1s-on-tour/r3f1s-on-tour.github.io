@@ -18,15 +18,15 @@ title: "EXO5BERLIN East"
 ---
 # EXO5BERLIN East
 
-*2021* • Deutschland
+*2021* • Berlin • Deutschland
 
 ![EXO5BERLIN East](https://api.bannergress.com/bnrs/pictures/41d6f7b502f08abee0c2b50aec38082a)
 
 ## Details
 - **Distanz (km):** 12,65
-
-
-
+- **Missionen im Banner:** 48
+- **Insgesamt abgeschlossene Missionen:** 7158
+- **Das ist mein Banner Nr.:** 306
 - **Beschreibung:** This mission leads you to famous places in Berlin.  See places of Resistance history and farmgrounds. The first mission starts at Alexanderplatz.
 
 

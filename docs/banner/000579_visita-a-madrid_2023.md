@@ -18,15 +18,15 @@ title: "Visita a Madrid"
 ---
 # Visita a Madrid
 
-*2023* • España
+*2023* • Madrid • España
 
 ![Visita a Madrid](https://api.bannergress.com/bnrs/pictures/39251cd3df3e8cd862e8823254136dae)
 
 ## Details
 - **Distanz (km):** 949
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 12.846
+- **Das ist mein Banner Nr.:** 579
 - **Beschreibung:** Primera parte de la visita al la Puerta del Sol y sus alrededores, centro turístico y emblemático de la Capital de España, que no se puede dejar de visitar al ir a esta importante ciudad.
 
 

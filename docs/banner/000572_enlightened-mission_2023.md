@@ -18,15 +18,15 @@ title: "Enlightened Mission"
 ---
 # Enlightened Mission
 
-*2023* • Deutschland
+*2023* • Hoyerswerda - Wojerecy • Deutschland
 
 ![Enlightened Mission](https://api.bannergress.com/bnrs/pictures/fdc0a14c1205c69eb50b5f9b8bfa4371)
 
 ## Details
 - **Distanz (km):** 5,127
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 12.624
+- **Das ist mein Banner Nr.:** 572
 - **Beschreibung:** Ne Fixe Runde durch Hoyerswerda damit hier die Erleuchtung wieder einkehrt!
 
 

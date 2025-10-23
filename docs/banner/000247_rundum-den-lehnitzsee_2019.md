@@ -18,15 +18,15 @@ title: "Rundum den Lehnitzsee"
 ---
 # Rundum den Lehnitzsee
 
-*2019* • Deutschland
+*2019* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 8,75
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 6030
+- **Das ist mein Banner Nr.:** 247
 - **Beschreibung:** Abfolge 1 der Reihe um den Lehnitzsee entlang des Naturlehrpfades.
 Zu Fuß wirst du etwa 4 std. benötigen und kannst dies nur mit dem Fahrrad verkürzen.
 

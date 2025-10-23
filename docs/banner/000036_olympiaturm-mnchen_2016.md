@@ -18,15 +18,15 @@ title: "Olympiaturm München"
 ---
 # Olympiaturm München
 
-*2016* • Deutschland
+*2016* • München • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 21,90
-
-
-
+- **Missionen im Banner:** 60
+- **Insgesamt abgeschlossene Missionen:** 750
+- **Das ist mein Banner Nr.:** 36
 - **Beschreibung:** Diese Missionsreihe führt dich vom Hauptbahnhof quer durch München zum Olympiaturm in 60 kleinen Missionen.
 
 

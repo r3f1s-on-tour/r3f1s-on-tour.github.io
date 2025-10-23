@@ -18,15 +18,15 @@ title: "Bridge Runner"
 ---
 # Bridge Runner
 
-*2018* • Deutschland
+*2018* • Heidelberg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 1,59
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 3132
+- **Das ist mein Banner Nr.:** 127
 - **Beschreibung:** Hin und her auf der Brücke mit Fragen & Hacks. Als 5er- oder 6er-Mission spielbar. / Across the Old Bridge with hacks & questions. Can be played as 5- or 6-mission-set.
 
 

@@ -18,15 +18,15 @@ title: "Happy Toastern April 2022"
 ---
 # Happy Toastern April 2022
 
-*2022* • Deutschland
+*2022* • Strasburg (Uckermark) • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 2,76
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 8.694
+- **Das ist mein Banner Nr.:** 410
 - **Beschreibung:** Starte am Markt eine Entdeckungsreise durch die Stadt Strasburg Uckermark und entdecke dabei historische Orte der Stadt
 
 

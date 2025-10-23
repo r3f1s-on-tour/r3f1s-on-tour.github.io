@@ -18,15 +18,15 @@ title: "Green Wolfgreen"
 ---
 # Green Wolfgreen
 
-*2021* • Deutschland
+*2021* • Neubrandenburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 5,56
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 8088
+- **Das ist mein Banner Nr.:** 368
 - **Beschreibung:** Erkunde die Innenstadt von Neubrandenburg mit all ihren mittelalterlichen Gebäuden und moderner Architektur.
 
 

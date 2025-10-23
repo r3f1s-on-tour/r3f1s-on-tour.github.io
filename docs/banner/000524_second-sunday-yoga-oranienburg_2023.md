@@ -18,15 +18,15 @@ title: "Second Sunday Yoga Oranienburg"
 ---
 # Second Sunday Yoga Oranienburg
 
-*2023* • Deutschland
+*2023* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 1,29
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 11.082
+- **Das ist mein Banner Nr.:** 524
 - **Beschreibung:** Starte eine Runde durch Oranienburg zum Second Sunday und denke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg
 
 

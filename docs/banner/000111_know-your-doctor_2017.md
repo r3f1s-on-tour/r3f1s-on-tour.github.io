@@ -18,15 +18,15 @@ title: "Know Your Doctor"
 ---
 # Know Your Doctor
 
-*2017* • Deutschland
+*2017* • Eching • Deutschland
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 2754
+- **Das ist mein Banner Nr.:** 111
 
 
 

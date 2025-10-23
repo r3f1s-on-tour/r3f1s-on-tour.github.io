@@ -18,15 +18,15 @@ title: "Wittenberg Art"
 ---
 # Wittenberg Art
 
-*2018* • Deutschland
+*2018* • Wittenberg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 6,04
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 4182
+- **Das ist mein Banner Nr.:** 174
 - **Beschreibung:** eine lustige Runde
 
 

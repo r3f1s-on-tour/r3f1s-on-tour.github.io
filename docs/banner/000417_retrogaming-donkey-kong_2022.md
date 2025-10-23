@@ -18,15 +18,15 @@ title: "RetroGaming - Donkey Kong"
 ---
 # RetroGaming - Donkey Kong
 
-*2022* • Deutschland
+*2022* • Pasewalk • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 3,57
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 8.736
+- **Das ist mein Banner Nr.:** 417
 - **Beschreibung:** Starte auf dem Markt eine Entdeckungsreise durch die Stadt Pasewalk und entdecke dabei die Sehenswürdigkeiten der Stadt
 
 

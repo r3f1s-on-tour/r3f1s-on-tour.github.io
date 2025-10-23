@@ -18,15 +18,15 @@ title: "Chagall Window yellow"
 ---
 # Chagall Window yellow
 
-*2017* • Schweiz/Suisse/Svizzera/Svizra
+*2017* • Zürich • Schweiz/Suisse/Svizzera/Svizra
 
 ![Chagall Window yellow](https://api.bannergress.com/bnrs/pictures/8611b3520266f1e355ead4be0fa96bec)
 
 ## Details
 - **Distanz (km):** 1,20
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 1356
+- **Das ist mein Banner Nr.:** 61
 
 
 

@@ -18,15 +18,15 @@ title: "Museumshafen Greifswald"
 ---
 # Museumshafen Greifswald
 
-*2015* • Deutschland
+*2015* • Greifswald • Deutschland
 
 ![Museumshafen Greifswald](https://api.bannergress.com/bnrs/pictures/01328fd0e24c9c0a82a36a93613be784)
 
 ## Details
 - **Distanz (km):** 5,93
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 216
+- **Das ist mein Banner Nr.:** 10
 - **Beschreibung:** Teil 1 der Tour "Museumshafen Greifswald"
 
 

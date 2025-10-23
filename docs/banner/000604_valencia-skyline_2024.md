@@ -18,15 +18,15 @@ title: "Valencia Skyline"
 ---
 # Valencia Skyline
 
-*2024* • España
+*2024* • València • España
 
 ![Valencia Skyline](https://api.bannergress.com/bnrs/pictures/b575cef9c16f79e0b3d1fcb32ac87cf0)
 
 ## Details
 - **Distanz (km):** 3,561
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 13.284
+- **Das ist mein Banner Nr.:** 604
 - **Beschreibung:** Descubre los lugares más emblemáticos de la ciudad de Valencia y completa este bonito banner.
 Discover the most emblematic places in Valencia and complete this beautiful banner.
 

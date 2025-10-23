@@ -18,15 +18,15 @@ title: "Rainbow Bridge"
 ---
 # Rainbow Bridge
 
-*2020* • Deutschland
+*2020* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 2,53
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 6354
+- **Das ist mein Banner Nr.:** 269
 - **Beschreibung:** Make your rounds in the park around the Märkisches Museum and receive a colourful picture for your Scanner.
 
 

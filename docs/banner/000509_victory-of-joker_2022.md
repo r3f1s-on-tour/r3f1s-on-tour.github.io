@@ -18,15 +18,15 @@ title: "Victory of Joker"
 ---
 # Victory of Joker
 
-*2022* • Deutschland
+*2022* • Wuppertal • Deutschland
 
 ![Victory of Joker](https://api.bannergress.com/bnrs/pictures/944f3a74ebc07fb46703491c0a54556a)
 
 ## Details
 - **Distanz (km):** 6,081
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 10.860
+- **Das ist mein Banner Nr.:** 509
 - **Beschreibung:** Capture die Innenstadt von Wuppertal/Elberfeld. Am besten bringst du viele burster mit und ein wenig zeit. Die Mission wird dich durch Elberfeld zum Luisenviertel führen. viel Spaß -D
 
 

@@ -18,15 +18,15 @@ title: "Adventure Toast in Oranienburg"
 ---
 # Adventure Toast in Oranienburg
 
-*2022* • Deutschland
+*2022* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 8,57
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 9.156
+- **Das ist mein Banner Nr.:** 440
 - **Beschreibung:** Starte in der Bernauer Straße eine Reise durch die Stadt Oranienburg und hole Adventure Toasts ins Profil
 
 

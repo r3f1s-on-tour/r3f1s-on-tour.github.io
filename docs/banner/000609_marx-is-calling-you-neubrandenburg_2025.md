@@ -18,15 +18,15 @@ title: "Marx is calling you - Neubrandenburg"
 ---
 # Marx is calling you - Neubrandenburg
 
-*2025* • Deutschland
+*2025* • Neubrandenburg • Deutschland
 
 ![Marx is calling you - Neubrandenburg](https://api.bannergress.com/bnrs/pictures/6b0ad5ccfffd041be5a78ec6f05071c3)
 
 ## Details
 - **Distanz (km):** 1,366
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 13.338
+- **Das ist mein Banner Nr.:** 609
 - **Beschreibung:** "+Theta Chemnitz is coming! Explore a city in transformation from industrial heritage and stunning architecture to cultural diversity. As ECoC 2025, Chemnitz invites you to C the Unseen!"
 
 

@@ -18,15 +18,15 @@ title: "XMas Panda in Strasburg"
 ---
 # XMas Panda in Strasburg
 
-*2021* • Deutschland
+*2021* • Strasburg (Uckermark) • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 2,73
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 8172
+- **Das ist mein Banner Nr.:** 374
 - **Beschreibung:** Mache eine Entdeckungsrunde durch Strasburg und hole dir paar XMas Panda ins Profil
 
 

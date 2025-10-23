@@ -18,15 +18,15 @@ title: "#FS Rubik Cube"
 ---
 # #FS Rubik Cube
 
-*2023* • Deutschland
+*2023* • Dresden • Deutschland
 
 ![#FS Rubik Cube](https://api.bannergress.com/bnrs/pictures/58e35104a29b981b51012f9c4d015604)
 
 ## Details
 - **Distanz (km):** 1,828
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 13.014
+- **Das ist mein Banner Nr.:** 586
 - **Beschreibung:** Can you solve this riddle at the FS in Dresden?
 
 

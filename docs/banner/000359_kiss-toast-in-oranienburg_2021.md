@@ -18,15 +18,15 @@ title: "Kiss Toast in Oranienburg"
 ---
 # Kiss Toast in Oranienburg
 
-*2021* • Deutschland
+*2021* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 1,64
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 7968
+- **Das ist mein Banner Nr.:** 359
 - **Beschreibung:** Mache eine kleine Tour durch Oranienburg und hole dir die Kiss Toast ins Profil
 
 

@@ -18,15 +18,15 @@ title: "Botanischer Garten Mosaik"
 ---
 # Botanischer Garten Mosaik
 
-*2015* • Deutschland
+*2015* • Hamburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 4,28
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 258
+- **Das ist mein Banner Nr.:** 13
 - **Beschreibung:** Ein wunderschönes Mosaik aus dem Botanischen Garten / Loki-Schmidt-Garten
 
 

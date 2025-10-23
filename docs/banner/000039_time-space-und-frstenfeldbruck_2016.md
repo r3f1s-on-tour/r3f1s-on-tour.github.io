@@ -18,15 +18,15 @@ title: "Time Space und Fürstenfeldbruck"
 ---
 # Time Space und Fürstenfeldbruck
 
-*2016* • Deutschland
+*2016* • Germering • Deutschland
 
 ![Time Space und Fürstenfeldbruck](https://api.bannergress.com/bnrs/pictures/0c9708630f31755d9cb89f468ad2e6ba)
 
 ## Details
 - **Distanz (km):** 98,19
-
-
-
+- **Missionen im Banner:** 48
+- **Insgesamt abgeschlossene Missionen:** 828
+- **Das ist mein Banner Nr.:** 39
 - **Beschreibung:** Eine Reise durch den schönen Landkreis Fürstenfeldbruck.
 
 

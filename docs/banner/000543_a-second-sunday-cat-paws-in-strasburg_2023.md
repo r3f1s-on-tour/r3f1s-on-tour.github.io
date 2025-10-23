@@ -18,15 +18,15 @@ title: "A Second Sunday Cat Paws in Strasburg"
 ---
 # A Second Sunday Cat Paws in Strasburg
 
-*2023* • Deutschland
+*2023* • Strasburg (Uckermark) • Deutschland
 
 ![A Second Sunday Cat Paws in Strasburg](https://api.bannergress.com/bnrs/pictures/e4260d74ee503da66a2aa96b81108c52)
 
 ## Details
 - **Distanz (km):** 1,047
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 12.000
+- **Das ist mein Banner Nr.:** 543
 - **Beschreibung:** Beginne eine Runde durch Strasburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Strasburg. Starte in der Schulstraße
 
 

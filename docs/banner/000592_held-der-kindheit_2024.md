@@ -18,15 +18,15 @@ title: "Held der Kindheit"
 ---
 # Held der Kindheit
 
-*2024* • Deutschland
+*2024* • Ründeroth • Deutschland
 
 ![Held der Kindheit](https://api.bannergress.com/bnrs/pictures/90bb836182e01425f4d95e1cdba38b65)
 
 ## Details
 - **Distanz (km):** 4,887
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 13.086
+- **Das ist mein Banner Nr.:** 592
 - **Beschreibung:** Eine Runde rund um und durch Ründeroth, entlang alter Handelswege und vieler historischer Denkmäler. Länge beträgt ca. 5 km und dauert ca. 2 Stunden. Viel Spaß.
 
 

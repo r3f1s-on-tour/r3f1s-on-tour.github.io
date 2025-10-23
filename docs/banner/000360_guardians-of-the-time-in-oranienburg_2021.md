@@ -18,15 +18,15 @@ title: "Guardians of the Time in Oranienburg"
 ---
 # Guardians of the Time in Oranienburg
 
-*2021* • Deutschland
+*2021* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 6,05
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 7986
+- **Das ist mein Banner Nr.:** 360
 - **Beschreibung:** Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße und finde die Guardians
 
 

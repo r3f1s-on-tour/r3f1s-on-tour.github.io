@@ -18,15 +18,15 @@ title: "Visit Requiem Munich - Szczecin"
 ---
 # Visit Requiem Munich - Szczecin
 
-*2022* • Polska
+*2022* • Szczecin • Polska
 
 
 
 ## Details
 - **Distanz (km):** 1,31
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 9.078
+- **Das ist mein Banner Nr.:** 435
 - **Beschreibung:** On the 9th May of 2020 an epic battle between Enlightened and Resistance will take place in Munich! Join our forces and spread the message by completing this banner.
 
 

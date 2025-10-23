@@ -18,15 +18,15 @@ title: "Volkspark Friedrichshain"
 ---
 # Volkspark Friedrichshain
 
-*2020* • Deutschland
+*2020* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 4,25
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 6492
+- **Das ist mein Banner Nr.:** 280
 - **Beschreibung:** The Volkspark Friedrichshain is the oldest public park in Berlin, opened 1846. The park was originally conceived by the landscape gardener Peter Joseph Lenné.
 
 

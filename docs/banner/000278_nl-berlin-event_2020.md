@@ -18,15 +18,15 @@ title: "NL - Berlin Event"
 ---
 # NL - Berlin Event
 
-*2020* • Deutschland
+*2020* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 1,57
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 6468
+- **Das ist mein Banner Nr.:** 278
 - **Beschreibung:** A short banner around the berlin NL location. Enjoy.
 
 

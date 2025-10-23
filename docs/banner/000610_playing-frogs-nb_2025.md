@@ -18,15 +18,15 @@ title: "Playing Frogs NB"
 ---
 # Playing Frogs NB
 
-*2025* • Deutschland
+*2025* • Neubrandenburg • Deutschland
 
 ![Playing Frogs NB](https://api.bannergress.com/bnrs/pictures/38c1dd490e87d10690357af83dccbb59)
 
 ## Details
 - **Distanz (km):** 6,965
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 13.362
+- **Das ist mein Banner Nr.:** 610
 - **Beschreibung:** Diese Missionen führen entlang des Strandbads Brodas und dem Kulturpark von Neubrandenburg. Entdecke dabei auch die zahlreichen Skulpturen im Kulturpark.
 
 

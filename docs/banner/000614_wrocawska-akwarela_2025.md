@@ -18,15 +18,15 @@ title: "Wrocławska akwarela"
 ---
 # Wrocławska akwarela
 
-*2025* • Polska
+*2025* • Wroclaw • Polska
 
 ![Wrocławska akwarela](https://api.bannergress.com/bnrs/pictures/3d3813d1331c65663189a5e5a17636a9)
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 13.440
+- **Das ist mein Banner Nr.:** 614
 
 
 

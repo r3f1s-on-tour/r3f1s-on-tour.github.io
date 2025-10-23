@@ -18,15 +18,15 @@ title: "Frühlingsspaziergang"
 ---
 # Frühlingsspaziergang
 
-*2018* • Deutschland
+*2018* • München • Deutschland
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 3786
+- **Das ist mein Banner Nr.:** 156
 
 
 

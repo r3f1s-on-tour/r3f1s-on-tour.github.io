@@ -18,15 +18,15 @@ title: "Halloween in Valencia"
 ---
 # Halloween in Valencia
 
-*2024* • España
+*2024* • València • España
 
 ![Halloween in Valencia](https://api.bannergress.com/bnrs/pictures/dde27ab1355659599191184a174d41f8)
 
 ## Details
 - **Distanz (km):** 1,623
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 13.170
+- **Das ist mein Banner Nr.:** 597
 - **Beschreibung:** Discover Valencia at Halloween and get this spooky banner!
 
 

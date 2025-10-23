@@ -18,15 +18,15 @@ title: "Prenzlau Marienkirche"
 ---
 # Prenzlau Marienkirche
 
-*2017* • Deutschland
+*2017* • Prenzlau • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 4,94
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 2466
+- **Das ist mein Banner Nr.:** 96
 - **Beschreibung:** Eine kleine Stadterkundung durch das Zentrum von Prenzlau.
 
 

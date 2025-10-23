@@ -18,15 +18,15 @@ title: "Karlsplatz Stachus"
 ---
 # Karlsplatz Stachus
 
-*2016* • Deutschland
+*2016* • München • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 6,14
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 648
+- **Das ist mein Banner Nr.:** 32
 - **Beschreibung:** Der Karlsplatz liegt an einer Stelle, über die im Mittelalter die Salzstraße führte, die Herzog Heinrich der Löwe von Föhring nach München verlegt hatte.
 
 

@@ -18,15 +18,15 @@ title: "Drachenfrau"
 ---
 # Drachenfrau
 
-*2016* • Deutschland
+*2016* • Leipzig • Deutschland
 
 ![Drachenfrau](https://api.bannergress.com/bnrs/pictures/1b0601554cccf46bbf897c8a7d97d3b7)
 
 ## Details
 - **Distanz (km):** 7,44
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 468
+- **Das ist mein Banner Nr.:** 26
 - **Beschreibung:** In der fast fertig sanierten Innenstadt kann man gut shoppen, altes und neues entdecken oder einfach durch die Gassen wandeln. Viel Spaß dabei.
 
 

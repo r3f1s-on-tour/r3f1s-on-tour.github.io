@@ -18,15 +18,15 @@ title: "Banksy - Stop and Search"
 ---
 # Banksy - Stop and Search
 
-*2022* • Deutschland
+*2022* • Berlin • Deutschland
 
 ![Banksy - Stop and Search](https://api.bannergress.com/bnrs/pictures/9fa8dee798ddf525290fe2b7ab8b2e41)
 
 ## Details
 - **Distanz (km):** 6,987
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 10.968
+- **Das ist mein Banner Nr.:** 515
 - **Beschreibung:** Banksy, an English artist and sprayer, has advocated for peace as early as the 90s. His art has inspired many generations and hopefully will do so in the future. Over the course of these missions, you will be lead through one of the most capitalistic streets in Berlin, the Kurfürstendamm. Start and end is a mural at S Charlottenburg. Enjoy your trip!
 
 --------------------------------------------------------------------------

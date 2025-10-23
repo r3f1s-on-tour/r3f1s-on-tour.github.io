@@ -18,15 +18,15 @@ title: "Zürich Biocard"
 ---
 # Zürich Biocard
 
-*2017* • Schweiz/Suisse/Svizzera/Svizra
+*2017* • Zürich • Schweiz/Suisse/Svizzera/Svizra
 
 ![Zürich Biocard](https://api.bannergress.com/bnrs/pictures/0f8d583886672ef36e28dd0a88fda13f)
 
 ## Details
 - **Distanz (km):** 7,97
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 1380
+- **Das ist mein Banner Nr.:** 62
 - **Beschreibung:** Zurich Main Station is the largest train station in Switzerland, it serves about 3000 connections a day. It's the main hub to connect to the rest of Switzerland.
 
 

@@ -18,15 +18,15 @@ title: "Blauer Reiter Tour"
 ---
 # Blauer Reiter Tour
 
-*2016* • Deutschland
+*2016* • München • Deutschland
 
 ![Blauer Reiter Tour](https://api.bannergress.com/bnrs/pictures/0d330415cd7568296591257b578f2bff)
 
 ## Details
 - **Distanz (km):** 17,08
-
-
-
+- **Missionen im Banner:** 48
+- **Insgesamt abgeschlossene Missionen:** 1026
+- **Das ist mein Banner Nr.:** 45
 - **Beschreibung:** Wünsche viel Spaß beim Spielen beim 48 Mosaik des Blauen Reiters. 
 
 Erschaffen hat den Blauen Reiter Franz Marc (1880 – 1916), wo man das Original im Lenbachhaus anschauen kann.

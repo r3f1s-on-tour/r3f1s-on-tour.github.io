@@ -18,15 +18,15 @@ title: "Second Sunday - Oktober 2022"
 ---
 # Second Sunday - Oktober 2022
 
-*2022* • Deutschland
+*2022* • Oranienburg • Deutschland
 
 ![Second Sunday - Oktober 2022](https://api.bannergress.com/bnrs/pictures/00d66e6aeca687df4367e67fceabf1ed)
 
 ## Details
 - **Distanz (km):** 1,599
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 10.428
+- **Das ist mein Banner Nr.:** 482
 - **Beschreibung:** Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
 
 

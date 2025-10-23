@@ -18,15 +18,15 @@ title: "Guerrero Legendario"
 ---
 # Guerrero Legendario
 
-*2023* • España
+*2023* • Madrid • España
 
 ![Guerrero Legendario](https://api.bannergress.com/bnrs/pictures/eb1b85cac73dcfcc4de21edf4c16aee3)
 
 ## Details
 - **Distanz (km):** 18,342
-
-
-
+- **Missionen im Banner:** 72
+- **Insgesamt abgeschlossene Missionen:** 12.702
+- **Das ist mein Banner Nr.:** 574
 - **Beschreibung:** Paseo por el centro de Madrid
 
 

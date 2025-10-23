@@ -18,15 +18,15 @@ title: "Districts of Munich"
 ---
 # Districts of Munich
 
-*2018* • Deutschland
+*2018* • München • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 83,57
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 3546
+- **Das ist mein Banner Nr.:** 146
 - **Beschreibung:** Mission-sequence through Munich's districts. DayTicket (Inneraum) helps ;)
 
 

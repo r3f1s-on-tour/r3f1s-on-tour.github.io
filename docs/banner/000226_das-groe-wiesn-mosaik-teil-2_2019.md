@@ -18,15 +18,15 @@ title: "Das Große Wiesn Mosaik Teil 2"
 ---
 # Das Große Wiesn Mosaik Teil 2
 
-*2019* • Deutschland
+*2019* • München • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 26,00
-
-
-
+- **Missionen im Banner:** 48
+- **Insgesamt abgeschlossene Missionen:** 5454
+- **Das ist mein Banner Nr.:** 226
 - **Beschreibung:** Teil 2 der großen Wiesnreihe. Start und Ende an der Theresienwiese. Hälfte ist am Tierpark Hellabrunn. Viel Spaß
 
 

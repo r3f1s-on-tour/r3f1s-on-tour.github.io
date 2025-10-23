@@ -18,15 +18,15 @@ title: "General Hulk in Hoyerswerda"
 ---
 # General Hulk in Hoyerswerda
 
-*2023* • Deutschland
+*2023* • Hoyerswerda - Wojerecy • Deutschland
 
 ![General Hulk in Hoyerswerda](https://api.bannergress.com/bnrs/pictures/fdb76a0fc7cf48e6ec1df65a34e3012f)
 
 ## Details
 - **Distanz (km):** 15,405
-
-
-
+- **Missionen im Banner:** 36
+- **Insgesamt abgeschlossene Missionen:** 12.600
+- **Das ist mein Banner Nr.:** 570
 - **Beschreibung:** General Hulk besucht Hoyerswerda zu Fuß, und möchte dich auf seiner Runde mitnehmen.
 Beginnend am Bahnhof, vorbei am Zoo und über Zentralpark kommt Ihr zum Schluss am Bahnhof wieder an.
 

@@ -18,15 +18,15 @@ title: "#MissionProject Make Love Not War Berlin"
 ---
 # #MissionProject Make Love Not War Berlin
 
-*2022* • Deutschland
+*2022* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 4,13
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 8.646
+- **Das ist mein Banner Nr.:** 405
 - **Beschreibung:** Explore the famous Bötzowviertel in Prenzlauer Berg and get a banner that shows your support for the people in Ukraine.
 
 

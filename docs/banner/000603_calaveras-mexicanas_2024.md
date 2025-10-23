@@ -18,15 +18,15 @@ title: "CALAVERAS MEXICANAS"
 ---
 # CALAVERAS MEXICANAS
 
-*2024* • España
+*2024* • València • España
 
 ![CALAVERAS MEXICANAS](https://api.bannergress.com/bnrs/pictures/eccdc68e6b1708f73455329bc55f459c)
 
 ## Details
 - **Distanz (km):** 1,389
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 13.272
+- **Das ist mein Banner Nr.:** 603
 - **Beschreibung:** La Plaza de Toros de Valencia fue inaugurada en 1851. Su estilo neoclásico fue inspirado de la arquitectura romana, del Coliseo . Declarada Monumento Histórico Artístico por la D.G. de bellas artes.
 
 

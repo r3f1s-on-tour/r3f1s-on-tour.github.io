@@ -18,15 +18,15 @@ title: "Superhelden Toasts in Oranienburg"
 ---
 # Superhelden Toasts in Oranienburg
 
-*2022* • Deutschland
+*2022* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 2,20
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 8280
+- **Das ist mein Banner Nr.:** 382
 - **Beschreibung:** Starte einen kleinen Rundgang durch Oranienburg und hole die Superhelden Toats ins Profil.
 
 

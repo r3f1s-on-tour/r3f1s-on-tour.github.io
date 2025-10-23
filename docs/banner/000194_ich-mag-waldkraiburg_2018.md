@@ -18,15 +18,15 @@ title: "Ich mag Waldkraiburg"
 ---
 # Ich mag Waldkraiburg
 
-*2018* • Deutschland
+*2018* • Waldkraiburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 4,01
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 4584
+- **Das ist mein Banner Nr.:** 194
 - **Beschreibung:** Eine Tour durch Waldkraiburg. Wenn man die Missionen der Reihe nach macht erhält man den Schriftzug "Ich mag Waldkraiburg".
 Mission 1- Vom Rathaus Richtung Stadtpark
 

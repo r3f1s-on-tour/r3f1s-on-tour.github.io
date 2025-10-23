@@ -18,15 +18,15 @@ title: "Catpool (Rote Augsburger Katze)"
 ---
 # Catpool (Rote Augsburger Katze)
 
-*2018* • Deutschland
+*2018* • Augsburg • Deutschland
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 36
+- **Insgesamt abgeschlossene Missionen:** 4368
+- **Das ist mein Banner Nr.:** 181
 
 
 

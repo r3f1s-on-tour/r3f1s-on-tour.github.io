@@ -18,15 +18,15 @@ title: "Whaleomaly Is Here"
 ---
 # Whaleomaly Is Here
 
-*2018* • Österreich
+*2018* • Oberösterreich • Österreich
 
 
 
 ## Details
 - **Distanz (km):** 7,16
-
-
-
+- **Missionen im Banner:** 30
+- **Insgesamt abgeschlossene Missionen:** 4770
+- **Das ist mein Banner Nr.:** 203
 - **Beschreibung:** 25 million years ago, Linz was populated by Whales. Discover and explore them at Linz's Central Station, learn some facts about Whales and unite them at Whaleomaly on August 25th, 2018!
 
 

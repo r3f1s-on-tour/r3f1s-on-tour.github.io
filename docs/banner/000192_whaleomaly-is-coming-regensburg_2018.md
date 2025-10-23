@@ -18,15 +18,15 @@ title: "Whaleomaly is Coming Regensburg"
 ---
 # Whaleomaly is Coming Regensburg
 
-*2018* • Deutschland
+*2018* • Regensburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 1,62
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 4572
+- **Das ist mein Banner Nr.:** 192
 - **Beschreibung:** Entdecke Regensburgs Wale! Bring sie mit, damit wir diese bei der Whaleomaly in Linz verbünden !
 Explore Regensburgs Whales! Take them with you to unite at the Whaleomaly Linz!
 

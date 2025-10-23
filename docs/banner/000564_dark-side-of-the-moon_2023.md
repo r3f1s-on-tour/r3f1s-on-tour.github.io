@@ -18,15 +18,15 @@ title: "Dark Side of the Moon"
 ---
 # Dark Side of the Moon
 
-*2023* • Deutschland
+*2023* • Potsdam • Deutschland
 
 ![Dark Side of the Moon](https://api.bannergress.com/bnrs/pictures/8056b949b29c54063454af0daeea55b4)
 
 ## Details
 - **Distanz (km):** 5,476
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 12.498
+- **Das ist mein Banner Nr.:** 564
 - **Beschreibung:** Discover the dark side of the moon in Potsdam. Start at the Fachhochschule and move towards Nauener Tor.
 
 

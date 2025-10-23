@@ -18,15 +18,15 @@ title: "Halloween Ghosts in Oranienburg"
 ---
 # Halloween Ghosts in Oranienburg
 
-*2022* • Deutschland
+*2022* • Oranienburg • Deutschland
 
 ![Halloween Ghosts in Oranienburg](https://api.bannergress.com/bnrs/pictures/6f7936922144659006c5595beabc4602)
 
 ## Details
 - **Distanz (km):** 1,599
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 10.422
+- **Das ist mein Banner Nr.:** 481
 - **Beschreibung:** Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
 
 

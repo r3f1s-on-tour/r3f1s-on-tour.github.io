@@ -18,15 +18,15 @@ title: "Bf-Viertel FFM"
 ---
 # Bf-Viertel FFM
 
-*2018* • Deutschland
+*2018* • Frankfurt am Main • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 4,45
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 3180
+- **Das ist mein Banner Nr.:** 131
 - **Beschreibung:** Discover the fascinating facets of the cosmopolitan microcosm at Frankfurts central  station in six chapters. 
 Let's go and... discover a peacefull park.
 

@@ -18,15 +18,15 @@ title: "Hafentempel Xanten"
 ---
 # Hafentempel Xanten
 
-*2023* • Deutschland
+*2023* • Lüttingen • Deutschland
 
 ![Hafentempel Xanten](https://api.bannergress.com/bnrs/pictures/31f13a6f1f7a3c3efa65aaf090a76874)
 
 ## Details
 - **Distanz (km):** 6,671
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 12.864
+- **Das ist mein Banner Nr.:** 580
 - **Beschreibung:** Dieses 18 Mosaik führt durch den APX.  Hier muss man Eintritt bezahlen. die Preise findet ihr auf folgender Internetseite www.apx.lvr.de. Für Kinder ist dort ein Kletterparadies und Hüpfkissen.
 
 

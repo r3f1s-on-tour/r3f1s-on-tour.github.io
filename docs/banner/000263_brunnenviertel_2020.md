@@ -18,15 +18,15 @@ title: "Brunnenviertel"
 ---
 # Brunnenviertel
 
-*2020* • Deutschland
+*2020* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 4,23
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 6282
+- **Das ist mein Banner Nr.:** 263
 - **Beschreibung:** Genieße die frische Luft
 
 

@@ -18,15 +18,15 @@ title: "Silhouette von Stralsund"
 ---
 # Silhouette von Stralsund
 
-*2015* • Deutschland
+*2015* • Stralsund • Deutschland
 
 ![Silhouette von Stralsund](https://lh3.googleusercontent.com/pw/AP1GczNI-ZyjX21eRIE94q8r7gSQvHkYtXFoPmWCXOPYJCywjCSq3UYCkKVwuUd5vatVIJO8vajK2JuyK5Kf0ffy0T0_Y8GVkiU9sodnY4wG2DE0Ekwi5rtUPoEMdf2qdn8AZ18FgRqg9DOZ_B-aJyuLIV1msg)
 
 ## Details
 - **Distanz (km):** 5,51
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 138
+- **Das ist mein Banner Nr.:** 5
 - **Beschreibung:** Vom Dänholm entlang des Strelasunds in Richtung  Parow charakterisiert die neue Rügenbrücke sowie die drei großen mittelalterlichen Kirchen der Backsteingotik die Silhouette Stralsunds.
 
 

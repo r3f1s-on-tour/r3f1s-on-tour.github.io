@@ -18,15 +18,15 @@ title: "Frog in Neubrandenburg"
 ---
 # Frog in Neubrandenburg
 
-*2024* • Deutschland
+*2024* • Neubrandenburg • Deutschland
 
 ![Frog in Neubrandenburg](https://api.bannergress.com/bnrs/pictures/9582c8830b4adf1afd3623aa41313d9a)
 
 ## Details
 - **Distanz (km):** 4,795
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 13.068
+- **Das ist mein Banner Nr.:** 590
 - **Beschreibung:** Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde die Sehenswürdigkeiten und Denkmäler der Stadt.
 
 

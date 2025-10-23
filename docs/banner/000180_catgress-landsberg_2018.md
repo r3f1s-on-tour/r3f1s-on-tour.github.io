@@ -18,15 +18,15 @@ title: "Catgress Landsberg"
 ---
 # Catgress Landsberg
 
-*2018* • Deutschland
+*2018* • Landsberg am Lech • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 8,12
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 4332
+- **Das ist mein Banner Nr.:** 180
 - **Beschreibung:** Es kann gar nicht zu viele Katzenfotos geben!
 Schleicht auf Katzenpfoten durch die Landsberger Altstadt. 
 Das Catgress Mosaik besteht aus 24 Einzelmissionen (Hack/Passphrase)

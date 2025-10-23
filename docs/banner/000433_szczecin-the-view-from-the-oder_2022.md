@@ -18,15 +18,15 @@ title: "Szczecin, the view from the Oder"
 ---
 # Szczecin, the view from the Oder
 
-*2022* • Polska
+*2022* • Szczecin • Polska
 
 
 
 ## Details
 - **Distanz (km):** 3,57
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 9.024
+- **Das ist mein Banner Nr.:** 433
 - **Beschreibung:** I invite you to take a walk around Szczecin. Collect all the badges, admire the beautiful view from the Oder river and discover the spirit of the port city ;-)
 
 

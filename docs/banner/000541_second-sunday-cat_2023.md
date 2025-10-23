@@ -18,15 +18,15 @@ title: "Second Sunday Cat"
 ---
 # Second Sunday Cat
 
-*2023* • Deutschland
+*2023* • Strasburg (Uckermark) • Deutschland
 
 ![Second Sunday Cat](https://api.bannergress.com/bnrs/pictures/0166c6cbf03cc2bb96914b8599396a95)
 
 ## Details
 - **Distanz (km):** 8,511
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 11.988
+- **Das ist mein Banner Nr.:** 541
 - **Beschreibung:** Beginne eine Runde durch Strasburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Strasburg. Starte in der Schulstraße
 
 

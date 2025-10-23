@@ -18,15 +18,15 @@ title: "HeartCore Beat FFB"
 ---
 # HeartCore Beat FFB
 
-*2018* • Deutschland
+*2018* • Fürstenfeldbruck • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 4,09
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 3582
+- **Das ist mein Banner Nr.:** 148
 
 
 

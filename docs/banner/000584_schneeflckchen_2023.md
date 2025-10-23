@@ -18,15 +18,15 @@ title: "Schneeflöckchen"
 ---
 # Schneeflöckchen
 
-*2023* • Deutschland
+*2023* • Dresden • Deutschland
 
 ![Schneeflöckchen](https://api.bannergress.com/bnrs/pictures/ea46b6fe5117e57e775d3d706faf2716)
 
 ## Details
 - **Distanz (km):** 1,693
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 13.002
+- **Das ist mein Banner Nr.:** 584
 - **Beschreibung:** "Schneeflöckchen, Weißröckchen
 Wann kommst du geschneit?
 Du kommst aus den Wolken

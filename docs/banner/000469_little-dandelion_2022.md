@@ -18,15 +18,15 @@ title: "Little Dandelion"
 ---
 # Little Dandelion
 
-*2022* • Deutschland
+*2022* • Berlin • Deutschland
 
 ![Little Dandelion](https://api.bannergress.com/bnrs/pictures/d863aafb6c4e075c8e3cddf3389d1e6f)
 
 ## Details
 - **Distanz (km):** 5,085
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 10.308
+- **Das ist mein Banner Nr.:** 469
 - **Beschreibung:** Start at Rotes Rathaus for a short tour through the center of Berlin & discover some of the popular places & squares on the way to Alexanderplatz and pass Hackescher Markt and Volksbühne on your way.
 
 

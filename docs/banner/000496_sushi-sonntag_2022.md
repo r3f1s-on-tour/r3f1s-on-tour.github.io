@@ -18,15 +18,15 @@ title: "Sushi Sonntag"
 ---
 # Sushi Sonntag
 
-*2022* • Deutschland
+*2022* • Köln • Deutschland
 
 ![Sushi Sonntag](https://api.bannergress.com/bnrs/pictures/39a9b3befeca7a4f970daa5a169df763)
 
 ## Details
 - **Distanz (km):** 3,283
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 10.602
+- **Das ist mein Banner Nr.:** 496
 - **Beschreibung:** Zu den neuen Second Sundays Mission Days passt dieses Sushi Sonntag Banner. Auf der Strecke liegen mehrere Sushi Restaurants, aber hier findet man für jeden Geschmack etwas.
 
 

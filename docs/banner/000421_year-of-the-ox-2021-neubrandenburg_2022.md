@@ -18,15 +18,15 @@ title: "Year of the Ox 2021 - Neubrandenburg"
 ---
 # Year of the Ox 2021 - Neubrandenburg
 
-*2022* • Deutschland
+*2022* • Neubrandenburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 5,27
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 8.778
+- **Das ist mein Banner Nr.:** 421
 - **Beschreibung:** Erkunde die Innenstadt von Neubrandenburg. Die Mission beginnt und endet auf dem Marktplatz.
 
 

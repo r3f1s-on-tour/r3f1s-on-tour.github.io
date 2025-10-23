@@ -18,15 +18,15 @@ title: "Wale auch in Altötting"
 ---
 # Wale auch in Altötting
 
-*2018* • Deutschland
+*2018* • Altötting • Deutschland
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 4578
+- **Das ist mein Banner Nr.:** 193
 
 
 

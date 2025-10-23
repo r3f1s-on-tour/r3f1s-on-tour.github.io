@@ -18,15 +18,15 @@ title: "Westpark München"
 ---
 # Westpark München
 
-*2018* • Deutschland
+*2018* • München • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 8,73
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 5136
+- **Das ist mein Banner Nr.:** 211
 - **Beschreibung:** Spaziergang durch den Westpark. Start ist an der U-Bahnstation Holzapfelkreuth, sie endet am Harras
 
 

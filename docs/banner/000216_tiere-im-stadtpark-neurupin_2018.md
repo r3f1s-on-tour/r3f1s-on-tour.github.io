@@ -18,15 +18,15 @@ title: "Tiere im Stadtpark Neurupin"
 ---
 # Tiere im Stadtpark Neurupin
 
-*2018* • Deutschland
+*2018* • Gildenhall • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 15,23
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 5244
+- **Das ist mein Banner Nr.:** 216
 - **Beschreibung:** Der Stadtpark entstand auf Initiative von Oberst A. von Wulffen aus einem Schießplatz im Jahre 1834. Sechsteilige Missionsreihe.
 
 

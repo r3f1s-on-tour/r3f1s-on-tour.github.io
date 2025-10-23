@@ -18,15 +18,15 @@ title: "A journey through the florakiez"
 ---
 # A journey through the florakiez
 
-*2019* • Deutschland
+*2019* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 8,84
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 6126
+- **Das ist mein Banner Nr.:** 254
 - **Beschreibung:** Discover the green lung of Pankow and get a nice mosaic as a reminder. All missions are hack only.
 
 

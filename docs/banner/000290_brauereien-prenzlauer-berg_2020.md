@@ -18,15 +18,15 @@ title: "Brauereien Prenzlauer Berg"
 ---
 # Brauereien Prenzlauer Berg
 
-*2020* • Deutschland
+*2020* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 7,29
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 6744
+- **Das ist mein Banner Nr.:** 290
 - **Beschreibung:** Auftakt des 12-teiligen Mosaiks
 Ein Spaziergang durch den Prenzlauer Berg an 12 ehemaligen Brauereien vorbei. In der Groterja(h)n Brauerei Milastraße 1-4 wurde von 1897 bis 1914 Bier gebraut.
 

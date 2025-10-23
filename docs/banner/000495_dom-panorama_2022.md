@@ -18,15 +18,15 @@ title: "Dom-Panorama"
 ---
 # Dom-Panorama
 
-*2022* • Deutschland
+*2022* • Köln • Deutschland
 
 ![Dom-Panorama](https://api.bannergress.com/bnrs/pictures/da5038c064c41416c54e3fde7d3042a6)
 
 ## Details
 - **Distanz (km):** 6,941
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 10.590
+- **Das ist mein Banner Nr.:** 495
 - **Beschreibung:** Diese Mission führt an der Nordseite des Doms vorbei. Alle 24 Missionen ergeben ein Panoramabild von Dom und Hohenzollernbrücke.
 
 

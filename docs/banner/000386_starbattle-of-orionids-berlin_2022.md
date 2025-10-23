@@ -18,15 +18,15 @@ title: "StarBattle of Orionids - Berlin"
 ---
 # StarBattle of Orionids - Berlin
 
-*2022* • Deutschland
+*2022* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 1,78
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 8.316
+- **Das ist mein Banner Nr.:** 386
 - **Beschreibung:** The Orionids meteor shower, is the most prolific meteor shower associated with Halley's Comet. During this time a global ENL starburst event occurred with hundreds of ENL agents participating.
 
 

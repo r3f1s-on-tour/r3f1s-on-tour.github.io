@@ -18,15 +18,15 @@ title: "Frankfurter Tor"
 ---
 # Frankfurter Tor
 
-*2019* • Deutschland
+*2019* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 4,15
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 5814
+- **Das ist mein Banner Nr.:** 243
 - **Beschreibung:** Das Frankfurter Tor ist heute ein Platz im Berliner Ortsteil Friedrichshain am östlichen Ende der Karl-Marx-Allee. Obwohl der Name es vermuten lässt.
 
 

@@ -18,15 +18,15 @@ title: "Honey Bees in Oranienburg"
 ---
 # Honey Bees in Oranienburg
 
-*2022* • Deutschland
+*2022* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 1,59
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 9.162
+- **Das ist mein Banner Nr.:** 441
 - **Beschreibung:** Mache eine kleine Honigbienen Runde durch Oranienburg und hole dir die Bienchen ins Profil
 
 

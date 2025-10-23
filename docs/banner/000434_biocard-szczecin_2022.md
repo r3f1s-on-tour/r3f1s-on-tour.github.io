@@ -18,15 +18,15 @@ title: "Biocard Szczecin"
 ---
 # Biocard Szczecin
 
-*2022* • Polska
+*2022* • Szczecin • Polska
 
 ![Biocard Szczecin](https://api.bannergress.com/bnrs/pictures/20a058074b53019498efad8705ff63fd)
 
 ## Details
 - **Distanz (km):** 18,62
-
-
-
+- **Missionen im Banner:** 48
+- **Insgesamt abgeschlossene Missionen:** 9.072
+- **Das ist mein Banner Nr.:** 434
 - **Beschreibung:** Welcome to Szczecin! This banner will lead you through the city's most famous highlights. Complete it to earn a biocard depicting the statue of the Seaman.
 
 

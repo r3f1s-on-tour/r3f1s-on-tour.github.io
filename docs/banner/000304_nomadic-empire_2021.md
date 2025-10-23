@@ -18,15 +18,15 @@ title: "Nomadic Empire"
 ---
 # Nomadic Empire
 
-*2021* • Deutschland
+*2021* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 9,70
-
-
-
+- **Missionen im Banner:** 30
+- **Insgesamt abgeschlossene Missionen:** 7104
+- **Das ist mein Banner Nr.:** 304
 - **Beschreibung:** A nice walk from Alexanderplatz along the Kollwitzkietz to Brunnenviertel with its famous railway-facilities.
 
 

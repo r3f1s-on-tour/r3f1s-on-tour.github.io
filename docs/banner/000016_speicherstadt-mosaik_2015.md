@@ -18,15 +18,15 @@ title: "Speicherstadt Mosaik"
 ---
 # Speicherstadt Mosaik
 
-*2015* • Deutschland
+*2015* • Hamburg • Deutschland
 
 ![Speicherstadt Mosaik](https://api.bannergress.com/bnrs/pictures/c06ec1426ed7220a73534afaa62b7fe9)
 
 ## Details
 - **Distanz (km):** 5,64
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 312
+- **Das ist mein Banner Nr.:** 16
 - **Beschreibung:** All missions are in sequence.
 Location- Hamburg Germany
 

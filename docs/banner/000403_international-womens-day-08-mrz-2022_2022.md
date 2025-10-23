@@ -18,15 +18,15 @@ title: "International Womens Day 08 März 2022"
 ---
 # International Womens Day 08 März 2022
 
-*2022* • Deutschland
+*2022* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 5,02
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 8.616
+- **Das ist mein Banner Nr.:** 403
 - **Beschreibung:** Erkunde und Entdecke Berlin am Frauentag
 
 

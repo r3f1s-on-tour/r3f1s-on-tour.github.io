@@ -18,15 +18,15 @@ title: "Vendetta in Oranienburg"
 ---
 # Vendetta in Oranienburg
 
-*2021* • Deutschland
+*2021* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 13,97
-
-
-
+- **Missionen im Banner:** 30
+- **Insgesamt abgeschlossene Missionen:** 7734
+- **Das ist mein Banner Nr.:** 341
 - **Beschreibung:** Starte eine Vendetta in Oranienburg und mache ein Tour durch die Stadt. Die Tour startet in der Bernauer Straße und führt dich am Lehnitz See und der Havel entlang und endet am Schloss
 
 

@@ -18,15 +18,15 @@ title: "Old Town Frankfurt"
 ---
 # Old Town Frankfurt
 
-*2018* • Deutschland
+*2018* • Frankfurt am Main • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 6,30
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 3174
+- **Das ist mein Banner Nr.:** 130
 - **Beschreibung:** This tour guides you through the Old Town of Frankfurt. We start on the Roemerberg, where the old city hall called Roemer is placed. This mission is hack-only.
 (Picture from an old postcard of 1915)
 

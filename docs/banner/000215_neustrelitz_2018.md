@@ -18,15 +18,15 @@ title: "Neustrelitz"
 ---
 # Neustrelitz
 
-*2018* • Deutschland
+*2018* • Neustrelitz • Deutschland
 
 
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 5220
+- **Das ist mein Banner Nr.:** 215
 
 
 

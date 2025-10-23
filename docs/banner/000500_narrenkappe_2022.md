@@ -18,15 +18,15 @@ title: "Narrenkappe"
 ---
 # Narrenkappe
 
-*2022* • Deutschland
+*2022* • Köln • Deutschland
 
 ![Narrenkappe](https://api.bannergress.com/bnrs/pictures/51f7fff99c8e256ec6b33897ecba2011)
 
 ## Details
 - **Distanz (km):** 9,984
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 10.704
+- **Das ist mein Banner Nr.:** 500
 - **Beschreibung:** Take a walk around Koeln-Ehrenfeld. This district is known for its variety of street art.
 
 

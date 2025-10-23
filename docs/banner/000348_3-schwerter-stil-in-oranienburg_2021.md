@@ -18,15 +18,15 @@ title: "3 Schwerter Stil in Oranienburg"
 ---
 # 3 Schwerter Stil in Oranienburg
 
-*2021* • Deutschland
+*2021* • Oranienburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 6,05
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 7824
+- **Das ist mein Banner Nr.:** 348
 - **Beschreibung:** Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße und am Ende erwartet dich der 3 Schwerter Stil
 
 

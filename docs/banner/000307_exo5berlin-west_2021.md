@@ -18,15 +18,15 @@ title: "EXO5BERLIN West"
 ---
 # EXO5BERLIN West
 
-*2021* • Deutschland
+*2021* • Berlin • Deutschland
 
 ![EXO5BERLIN West](https://api.bannergress.com/bnrs/pictures/cd0bd932f3624a817bdd17cfe08e6aa4)
 
 ## Details
 - **Distanz (km):** 14,77
-
-
-
+- **Missionen im Banner:** 48
+- **Insgesamt abgeschlossene Missionen:** 7206
+- **Das ist mein Banner Nr.:** 307
 - **Beschreibung:** This mission banner will show you famous places in Berlin city west. The first mission starts at Zoologischer Garten.
 
 

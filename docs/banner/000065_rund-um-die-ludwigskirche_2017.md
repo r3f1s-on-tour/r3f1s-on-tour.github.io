@@ -18,15 +18,15 @@ title: "Rund um die Ludwigskirche"
 ---
 # Rund um die Ludwigskirche
 
-*2017* • Deutschland
+*2017* • München • Deutschland
 
 ![Rund um die Ludwigskirche](https://api.bannergress.com/bnrs/pictures/41194c44e62f228147d66dbcb6a8e51b)
 
 ## Details
 
-
-
-
+- **Missionen im Banner:** 24
+- **Insgesamt abgeschlossene Missionen:** 1488
+- **Das ist mein Banner Nr.:** 65
 
 
 

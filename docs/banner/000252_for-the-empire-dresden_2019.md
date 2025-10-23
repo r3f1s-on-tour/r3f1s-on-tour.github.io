@@ -18,15 +18,15 @@ title: "For the Empire Dresden"
 ---
 # For the Empire Dresden
 
-*2019* • Deutschland
+*2019* • Dresden • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 1,63
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 6090
+- **Das ist mein Banner Nr.:** 252
 - **Beschreibung:** For the Empire Umbra Anomaly banner
 
 

@@ -18,15 +18,15 @@ title: "Mishima Zaibatsu - Tekken Characters"
 ---
 # Mishima Zaibatsu - Tekken Characters
 
-*2021* • Deutschland
+*2021* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 3,63
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 7254
+- **Das ist mein Banner Nr.:** 309
 - **Beschreibung:** A walk through  the neighborhood of the well known Samaviertel.
 
 

@@ -18,15 +18,15 @@ title: "Pankow Irony"
 ---
 # Pankow Irony
 
-*2020* • Deutschland
+*2020* • Berlin • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 9,21
-
-
-
+- **Missionen im Banner:** 12
+- **Insgesamt abgeschlossene Missionen:** 6834
+- **Das ist mein Banner Nr.:** 294
 - **Beschreibung:** Diese 12er Missionsreihe beginnt in Pankow und geleitet euch durch den Pankow Südkiez. Sie besteht aus 12 Missionen und bildet ein einmaliges Banner. Das Banner endet wo es beginnt.
 
 

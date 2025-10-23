@@ -18,15 +18,15 @@ title: "Luckenwalde"
 ---
 # Luckenwalde
 
-*2023* • Deutschland
+*2023* • Luckenwalde • Deutschland
 
 ![Luckenwalde](https://api.bannergress.com/bnrs/pictures/a14e9881fe75e72c4525b1cd6bed63a8)
 
 ## Details
 - **Distanz (km):** 1,622
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 12.528
+- **Das ist mein Banner Nr.:** 566
 - **Beschreibung:** Beginn am Markt über den Boulevard
 
 

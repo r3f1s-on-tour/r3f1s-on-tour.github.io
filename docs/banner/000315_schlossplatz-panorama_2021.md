@@ -18,15 +18,15 @@ title: "Schlossplatz Panorama"
 ---
 # Schlossplatz Panorama
 
-*2021* • Deutschland
+*2021* • Oldenburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 1,71
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 7338
+- **Das ist mein Banner Nr.:** 315
 - **Beschreibung:** 360° Panorama vom Oldenburger Schlossplatz. 
 Durch den 360° Blick könnt ihr bei jeder der 6 Missionen Starten.
 You can start at any Mission, after Mission 6 you can put Mission 1 and it will still fit

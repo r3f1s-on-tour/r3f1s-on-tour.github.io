@@ -18,15 +18,15 @@ title: "Residenz Würzburg"
 ---
 # Residenz Würzburg
 
-*2017* • Deutschland
+*2017* • Würzburg • Deutschland
 
 
 
 ## Details
 - **Distanz (km):** 5,92
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 2682
+- **Das ist mein Banner Nr.:** 105
 - **Beschreibung:** Besuche die ehemalige Residenz der Würzburger Fürstbischöfe. Mosaik Mission. Bitte vorher die Öffnungszeiten beachten.
 
 

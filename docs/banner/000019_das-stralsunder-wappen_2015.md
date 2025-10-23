@@ -18,15 +18,15 @@ title: "Das Stralsunder Wappen"
 ---
 # Das Stralsunder Wappen
 
-*2015* • Deutschland
+*2015* • Stralsund • Deutschland
 
 ![Das Stralsunder Wappen](https://api.bannergress.com/bnrs/pictures/ac273ab3137912d9cb9b92f74520cf2a)
 
 ## Details
 - **Distanz (km):** 5,64
-
-
-
+- **Missionen im Banner:** 18
+- **Insgesamt abgeschlossene Missionen:** 348
+- **Das ist mein Banner Nr.:** 19
 - **Beschreibung:** Dies ist die 1. Mission für das Stralsunder Wappen!
 
 

@@ -18,15 +18,15 @@ title: "Sound Vision"
 ---
 # Sound Vision
 
-*2016* • Deutschland
+*2016* • Unterföhring • Deutschland
 
 ![Sound Vision](https://api.bannergress.com/bnrs/pictures/8d9050ef8dec596e64b17a751c9ea9de)
 
 ## Details
 - **Distanz (km):** 40,14
-
-
-
+- **Missionen im Banner:** 54
+- **Insgesamt abgeschlossene Missionen:** 600
+- **Das ist mein Banner Nr.:** 30
 - **Beschreibung:** Your journey will take you through three beautiful towns of Bavaria. Please enjoy the views and our historical towns.
 
 

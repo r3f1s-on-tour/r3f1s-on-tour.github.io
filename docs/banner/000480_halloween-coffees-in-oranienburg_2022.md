@@ -18,15 +18,15 @@ title: "Halloween Coffees in Oranienburg"
 ---
 # Halloween Coffees in Oranienburg
 
-*2022* • Deutschland
+*2022* • Oranienburg • Deutschland
 
 ![Halloween Coffees in Oranienburg](https://api.bannergress.com/bnrs/pictures/34708bc649d2d45395637b3f5ec63164)
 
 ## Details
 - **Distanz (km):** 1,599
-
-
-
+- **Missionen im Banner:** 6
+- **Insgesamt abgeschlossene Missionen:** 10.416
+- **Das ist mein Banner Nr.:** 480
 - **Beschreibung:** Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
 
 
