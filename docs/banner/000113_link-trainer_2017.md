@@ -3,7 +3,7 @@ nummer: "113"
 startLatitude: "48.284507"
 startLongitude: "11.561197"
 titel: "Link Trainer"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/53b38fef563ac97445c6b6bf6ca27a99"
 region: "Unterschleißheim"
 country: "Deutschland"
 completed: "2790"
@@ -20,7 +20,7 @@ title: "Link Trainer"
 
 *2017* • Unterschleißheim • Deutschland
 
-
+![Link Trainer](https://api.bannergress.com/bnrs/pictures/53b38fef563ac97445c6b6bf6ca27a99)
 
 ## Details
 - **Distance (km):** 18.78

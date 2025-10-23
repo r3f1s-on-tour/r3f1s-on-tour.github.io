@@ -3,7 +3,7 @@ nummer: "100"
 startLatitude: "48.602198"
 startLongitude: "11.593304"
 titel: "Hopfenmuseum Wolnzach"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/380a803c7b40066370a20d88dcbee2ad"
 region: "Lohwinden"
 country: "Deutschland"
 completed: "2580"
@@ -20,7 +20,7 @@ title: "Hopfenmuseum Wolnzach"
 
 *2017* • Lohwinden • Deutschland
 
-
+![Hopfenmuseum Wolnzach](https://api.bannergress.com/bnrs/pictures/380a803c7b40066370a20d88dcbee2ad)
 
 ## Details
 - **Distance (km):** 10.21

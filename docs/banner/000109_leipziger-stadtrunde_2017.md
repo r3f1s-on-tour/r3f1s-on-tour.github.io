@@ -3,7 +3,7 @@ nummer: "109"
 startLatitude: "51.344563"
 startLongitude: "12.379711"
 titel: "Leipziger Stadtrunde"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/23c0dadd75534ac3ba400e4b74232da4"
 region: "Leipzig"
 country: "Deutschland"
 completed: "2718"
@@ -20,7 +20,7 @@ title: "Leipziger Stadtrunde"
 
 *2017* • Leipzig • Deutschland
 
-
+![Leipziger Stadtrunde](https://api.bannergress.com/bnrs/pictures/23c0dadd75534ac3ba400e4b74232da4)
 
 ## Details
 - **Distance (km):** 2.22

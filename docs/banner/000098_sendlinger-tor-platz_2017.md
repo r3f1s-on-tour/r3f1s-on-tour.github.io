@@ -3,7 +3,7 @@ nummer: "98"
 startLatitude: "48.133503"
 startLongitude: "11.565863"
 titel: "Sendlinger-Tor-Platz"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/57576cbb91daf59b5e6fe954135bc725"
 region: "München"
 country: "Deutschland"
 completed: "2520"
@@ -20,7 +20,7 @@ title: "Sendlinger-Tor-Platz"
 
 *2017* • München • Deutschland
 
-
+![Sendlinger-Tor-Platz](https://api.bannergress.com/bnrs/pictures/57576cbb91daf59b5e6fe954135bc725)
 
 ## Details
 - **Distance (km):** 8.60

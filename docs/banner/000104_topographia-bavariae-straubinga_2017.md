@@ -3,7 +3,7 @@ nummer: "104"
 startLatitude: "48.884298"
 startLongitude: "12.56265"
 titel: "Topographia Bavariae Straubinga"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/274a01d7420bcd11c1ed3e8f8713b236"
 region: "Straubing"
 country: "Deutschland"
 completed: "2664"
@@ -20,7 +20,7 @@ title: "Topographia Bavariae Straubinga"
 
 *2017* • Straubing • Deutschland
 
-
+![Topographia Bavariae Straubinga](https://api.bannergress.com/bnrs/pictures/274a01d7420bcd11c1ed3e8f8713b236)
 
 ## Details
 - **Distance (km):** 4.14

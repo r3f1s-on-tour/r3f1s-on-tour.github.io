@@ -3,7 +3,7 @@ nummer: "102"
 startLatitude: "49.020928"
 startLongitude: "12.097466"
 titel: "BC Regensburgp"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/a3f5023277f9d882dc5bb9c62d1f5f17"
 region: "Regensburg"
 country: "Deutschland"
 completed: "2628"
@@ -20,7 +20,7 @@ title: "BC Regensburgp"
 
 *2017* • Regensburg • Deutschland
 
-
+![BC Regensburgp](https://api.bannergress.com/bnrs/pictures/a3f5023277f9d882dc5bb9c62d1f5f17)
 
 ## Details
 - **Distance (km):** 6.41

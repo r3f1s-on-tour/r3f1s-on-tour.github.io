@@ -3,7 +3,7 @@ nummer: "111"
 startLatitude: "48.297429"
 startLongitude: "11.622524"
 titel: "Know Your Doctor"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/8b268421b1b460fa6bd0ec140cd29265"
 region: "Eching"
 country: "Deutschland"
 completed: "2754"
@@ -20,7 +20,7 @@ title: "Know Your Doctor"
 
 *2017* • Eching • Deutschland
 
-
+![Know Your Doctor](https://api.bannergress.com/bnrs/pictures/8b268421b1b460fa6bd0ec140cd29265)
 
 ## Details
 

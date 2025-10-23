@@ -3,7 +3,7 @@ nummer: "105"
 startLatitude: "49.79297"
 startLongitude: "9.937949"
 titel: "Residenz Würzburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/37e61a3e78a05831a720419a5e17d465"
 region: "Würzburg"
 country: "Deutschland"
 completed: "2682"
@@ -20,7 +20,7 @@ title: "Residenz Würzburg"
 
 *2017* • Würzburg • Deutschland
 
-
+![Residenz Würzburg](https://api.bannergress.com/bnrs/pictures/37e61a3e78a05831a720419a5e17d465)
 
 ## Details
 - **Distance (km):** 5.92

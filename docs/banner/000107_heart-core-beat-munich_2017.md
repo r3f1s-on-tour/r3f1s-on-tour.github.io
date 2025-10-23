@@ -3,7 +3,7 @@ nummer: "107"
 startLatitude: "48.149114"
 startLongitude: "11.580304"
 titel: "Heart Core Beat Munich"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/6b1fc0c0d18684b1ae6d1fcfe9dc37c7"
 region: "München"
 country: "Deutschland"
 completed: "2700"
@@ -20,7 +20,7 @@ title: "Heart Core Beat Munich"
 
 *2017* • München • Deutschland
 
-
+![Heart Core Beat Munich](https://api.bannergress.com/bnrs/pictures/6b1fc0c0d18684b1ae6d1fcfe9dc37c7)
 
 ## Details
 - **Distance (km):** 2.70

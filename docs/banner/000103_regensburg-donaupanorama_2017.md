@@ -3,7 +3,7 @@ nummer: "103"
 startLatitude: "49.019456"
 startLongitude: "12.097637"
 titel: "Regensburg Donaupanorama"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/9660e92b71a13bd0abb35c73ea9b93bd"
 region: "Regensburg"
 country: "Deutschland"
 completed: "2652"
@@ -20,7 +20,7 @@ title: "Regensburg Donaupanorama"
 
 *2017* • Regensburg • Deutschland
 
-
+![Regensburg Donaupanorama](https://api.bannergress.com/bnrs/pictures/9660e92b71a13bd0abb35c73ea9b93bd)
 
 ## Details
 - **Distance (km):** 8.61
