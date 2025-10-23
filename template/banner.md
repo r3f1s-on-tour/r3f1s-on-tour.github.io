@@ -8,7 +8,7 @@
 {{__IF:lengthKMeters__}}- **Distanz (km):** {{__VAL:lengthKMeters__}}{{__/IF__}}
 {{__IF:missions__}}- **Missionen im Banner:** {{__VAL:missions__}}{{__/IF__}}
 {{__IF:completed__}}- **Insgesamt abgeschlossene Missionen:** {{__VAL:completed__}}{{__/IF__}}
-{{__IF:bannerIndex__}}- **Das ist mein Banner Nr.:** {{__VAL:bannerIndex__}}{{__/IF__}}
+{{__IF:nummer__}}- **Das ist mein Banner Nr.:** {{__VAL:nummer__}}{{__/IF__}}
 {{__IF:description__}}- **Beschreibung:** {{__VAL:description__}}{{__/IF__}}
 
 {{__IFANY:bg-link,umap__}}
