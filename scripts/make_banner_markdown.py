@@ -1,33 +1,38 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Create Markdown files from a CSV, with rich placeholder templates and optional Jinja rendering.
-Adds:
-- --debug for verbose logs
-- IFANY blocks: {{__IFANY:key1,key2__}}...{{__/IFANY__}}
-
-Usage:
-  python make_banner_markdown.py --csv scripts/banner.csv --out docs/banner \
-    [--overwrite] [--pad-width 6] [--template template/banner.md] [--render-jinja] [--debug]
+CSV -> Markdown (Bannergress banners)
+- YAML front matter from CSV
+- Zero-padded number prefix (default 6, --pad-width)
+- Replace ":" with "-" in front matter except EXCLUDED_SANITIZE_KEYS
+- 'description' always quoted, with LF escaped to "\\n"
+- Optional template: --template template/banner.md
+  * Placeholder engine (no Jinja required)
+  * IF/IFNOT/IFANY/EACH blocks, VAL/LINK/IMG/VALBR/VAL2DP scalars
+- Optional full Jinja: --render-jinja (pip install jinja2)
+- Debug: --debug (prints context to STDERR)
 """
 import argparse, csv, json, os, re, sys
 from datetime import datetime
 from typing import List, Dict, Tuple, Any, Optional
 
+# ---------- optional Jinja ----------
 try:
-    import jinja2  # optional
+    import jinja2
     HAVE_JINJA = True
 except Exception:
     HAVE_JINJA = False
 
+# ---------- Config ----------
 PICTURE_KEYS = [
     "picture","pictures","image","images","img","pic","pic_url",
     "picture_url","image_url","bild","bilder","pictureurl","imageurl"
 ]
-EXCLUDED_SANITIZE_KEYS = {"bg-link","picture"}
-IDENTIFIER_RE = re.compile(r"[A-Za-z_][A-Za-z0-9_]*$")
+EXCLUDED_SANITIZE_KEYS = {"bg-link","picture"}  # do not replace ":" in these
 URL_PREFIXES = ("http://","https://")
+IDENTIFIER_RE = re.compile(r"[A-Za-z_][A-Za-z0-9_]*$")
 
+# ---------- Utils ----------
 def dprint(enabled: bool, *args):
     if enabled:
         print("[DEBUG]", *args, file=sys.stderr)
@@ -111,7 +116,7 @@ def jinja_meta(k: str) -> str:
     safe = k.replace("'","\\'")
     return f"page.meta['{safe}']"
 
-# ------- Default composed sections (fallback if no template) -------
+# ---------- Fallback body (no template) ----------
 def build_sections(frontmatter: Dict[str,str], ordered_fields: List[str]) -> Tuple[str,str,str,str,str]:
     if any(k in frontmatter and str(frontmatter[k]).strip() for k in ("title","name","titel")):
         title_line = f"# {{{{ {jinja_meta('title')} | default('Untitled') }}}}"
@@ -119,9 +124,9 @@ def build_sections(frontmatter: Dict[str,str], ordered_fields: List[str]) -> Tup
         title_line = "# {{ page.meta.title | default('Untitled') }}"
     meta_bits = []
     if frontmatter.get("date","").strip():
-        meta_bits.append("**Datum:** {{ page.meta.date }}")
+        meta_bits.append("**Date:** {{ page.meta.date }}")
     elif frontmatter.get("datum","").strip():
-        meta_bits.append("**Datum:** {{ page.meta.datum }}")
+        meta_bits.append("**Date:** {{ page.meta.datum }}")
     for loc_key in ("city","stadt","ort","location","place","country","land"):
         if frontmatter.get(loc_key,"").strip():
             meta_bits.append(f"**{loc_key.capitalize()}:** {{{{ {jinja_meta(loc_key)} }}}}")
@@ -129,8 +134,8 @@ def build_sections(frontmatter: Dict[str,str], ordered_fields: List[str]) -> Tup
     pic_keys_present = [k for k in ordered_fields if k.lower() in PICTURE_KEYS and str(frontmatter.get(k,"")).strip()]
     pictures_lines = []
     if pic_keys_present:
-        for k in pic_keys_present:
-            pictures_lines.append(f"![{{{{ {jinja_meta('title')} | default('Bild') }}}}]({{{{ {jinja_meta(k)} }}}})")
+        k = pic_keys_present[0]
+        pictures_lines.append(f"![{{{{ {jinja_meta('title')} | default('Image') }}}}]({{{{ {jinja_meta(k)} }}}})")
         pictures_lines.append("")
     pictures_block = "\n".join(pictures_lines).strip()
     link_lines, info_lines = [], []
@@ -151,7 +156,7 @@ def build_sections(frontmatter: Dict[str,str], ordered_fields: List[str]) -> Tup
     infos_block = "\n".join(info_lines).strip()
     return title_line, meta_block.strip(), pictures_block, links_block, infos_block
 
-# ------- Template IO -------
+# ---------- Template IO ----------
 def read_template(path: Optional[str]) -> Optional[str]:
     if not path: return None
     if not os.path.isfile(path):
@@ -159,13 +164,13 @@ def read_template(path: Optional[str]) -> Optional[str]:
     with open(path, "r", encoding="utf-8") as f:
         return f.read()
 
-# ------- Placeholder Engine (adds IFANY) -------
-_BLOCK_IF_RE     = re.compile(r"\{\{__IF:([^}]+)__\}\}(.*?)\{\{__/IF__\}\}", re.DOTALL)
-_BLOCK_IFNOT_RE  = re.compile(r"\{\{__IFNOT:([^}]+)__\}\}(.*?)\{\{__/IFNOT__\}\}", re.DOTALL)
-_BLOCK_IFANY_RE  = re.compile(r"\{\{__IFANY:([^}]+)__\}\}(.*?)\{\{__/IFANY__\}\}", re.DOTALL)
-_BLOCK_EACH_PIC  = re.compile(r"\{\{__EACH_PICTURE__\}\}(.*?)\{\{__/EACH_PICTURE__\}\}", re.DOTALL)
-_BLOCK_EACH_LINK = re.compile(r"\{\{__EACH_LINK__\}\}(.*?)\{\{__/EACH_LINK__\}\}", re.DOTALL)
-_BLOCK_EACH_INFO = re.compile(r"\{\{__EACH_INFO__\}\}(.*?)\{\{__/EACH_INFO__\}\}", re.DOTALL)
+# ---------- Placeholder engine ----------
+_BLOCK_IF      = re.compile(r"\{\{__IF:([^}]+)__\}\}(.*?)\{\{__/IF__\}\}", re.DOTALL)
+_BLOCK_IFNOT   = re.compile(r"\{\{__IFNOT:([^}]+)__\}\}(.*?)\{\{__/IFNOT__\}\}", re.DOTALL)
+_BLOCK_IFANY   = re.compile(r"\{\{__IFANY:([^}]+)__\}\}(.*?)\{\{__/IFANY__\}\}", re.DOTALL)
+_BLOCK_EACH_P  = re.compile(r"\{\{__EACH_PICTURE__\}\}(.*?)\{\{__/EACH_PICTURE__\}\}", re.DOTALL)
+_BLOCK_EACH_L  = re.compile(r"\{\{__EACH_LINK__\}\}(.*?)\{\{__/EACH_LINK__\}\}", re.DOTALL)
+_BLOCK_EACH_I  = re.compile(r"\{\{__EACH_INFO__\}\}(.*?)\{\{__/EACH_INFO__\}\}", re.DOTALL)
 
 def _truthy(meta: Dict[str,Any], key: str, pics: list, links: list, infos: list) -> bool:
     k = key.strip().lower()
@@ -175,29 +180,23 @@ def _truthy(meta: Dict[str,Any], key: str, pics: list, links: list, infos: list)
     return bool(str(meta.get(key, "")).strip())
 
 def _expand_if_blocks(tpl: str, meta: Dict[str,Any], pics, links, infos) -> str:
-    # IF
     while True:
-        m = _BLOCK_IF_RE.search(tpl)
+        m = _BLOCK_IF.search(tpl)
         if not m: break
         key, inner = m.group(1), m.group(2)
-        repl = inner if _truthy(meta, key, pics, links, infos) else ""
-        tpl = tpl[:m.start()] + repl + tpl[m.end():]
-    # IFNOT
+        tpl = tpl[:m.start()] + (inner if _truthy(meta, key, pics, links, infos) else "") + tpl[m.end():]
     while True:
-        m = _BLOCK_IFNOT_RE.search(tpl)
+        m = _BLOCK_IFNOT.search(tpl)
         if not m: break
         key, inner = m.group(1), m.group(2)
-        repl = "" if _truthy(meta, key, pics, links, infos) else inner
-        tpl = tpl[:m.start()] + repl + tpl[m.end():]
-    # IFANY
+        tpl = tpl[:m.start()] + ("" if _truthy(meta, key, pics, links, infos) else inner) + tpl[m.end():]
     while True:
-        m = _BLOCK_IFANY_RE.search(tpl)
+        m = _BLOCK_IFANY.search(tpl)
         if not m: break
         keys = [k.strip() for k in m.group(1).split(",") if k.strip()]
         inner = m.group(2)
         cond = any(_truthy(meta, k, pics, links, infos) for k in keys)
-        repl = inner if cond else ""
-        tpl = tpl[:m.start()] + repl + tpl[m.end():]
+        tpl = tpl[:m.start()] + (inner if cond else "") + tpl[m.end():]
     return tpl
 
 def _expand_each_block(tpl: str, regex, items, item_mapper) -> str:
@@ -233,18 +232,18 @@ def render_placeholders(template_text: str, ctx: Dict[str,Any], debug=False) -> 
         "pics": pics, "links": links, "infos": infos
     }, ensure_ascii=False))
 
-    # IF / IFNOT / IFANY blocks
+    # IF / IFNOT / IFANY
     tpl = _expand_if_blocks(tpl, meta, pics, links, infos)
 
-    # EACH blocks
+    # EACH (not required for Variant B, but supported)
     def pic_map(idx, it):  return {"{{__INDEX__}}": str(idx), "{{__KEY__}}": it["key"], "{{__URL__}}": it["url"]}
     def link_map(idx, it): return {"{{__INDEX__}}": str(idx), "{{__KEY__}}": it["key"], "{{__URL__}}": it["url"]}
     def info_map(idx, it): return {"{{__INDEX__}}": str(idx), "{{__KEY__}}": it["key"], "{{__VALUE__}}": it["value"]}
-    tpl = _expand_each_block(tpl, _BLOCK_EACH_PIC,  pics,  pic_map)
-    tpl = _expand_each_block(tpl, _BLOCK_EACH_LINK, links, link_map)
-    tpl = _expand_each_block(tpl, _BLOCK_EACH_INFO, infos, info_map)
+    tpl = _expand_each_block(tpl, _BLOCK_EACH_P, pics,  pic_map)
+    tpl = _expand_each_block(tpl, _BLOCK_EACH_L, links, link_map)
+    tpl = _expand_each_block(tpl, _BLOCK_EACH_I, infos, info_map)
 
-    # Scalar replacements
+    # Fixed scalars
     replacements = {
         "{{__TITLE__}}": str(meta.get("title") or meta.get("name") or meta.get("titel") or "Untitled"),
         "{{__DATE__}}":  str(meta.get("date") or meta.get("datum") or ""),
@@ -257,7 +256,7 @@ def render_placeholders(template_text: str, ctx: Dict[str,Any], debug=False) -> 
         "{{__NUMBER_RAW__}}": number_raw,
         "{{__SLUG__}}":     slug,
         "{{__FILENAME__}}": filename,
-        "{{__PICTURES__}}": "\n".join(f"![{meta.get('title','Bild')}]({p['url']})" for p in pics),
+        "{{__PICTURES__}}": "\n".join(f"![{meta.get('title','Image')}]({p['url']})" for p in pics),
         "{{__LINKS__}}":    "\n".join(f"- **{l['key']}**: [{l['url']}]({l['url']})" for l in links),
         "{{__INFOS__}}":    "\n".join(f"- **{i['key']}**: {i['value']}" for i in infos),
         "{{__FIRST_PICTURE__}}": (pics[0]["url"] if pics else ""),
@@ -265,22 +264,40 @@ def render_placeholders(template_text: str, ctx: Dict[str,Any], debug=False) -> 
     for k, v in replacements.items():
         tpl = tpl.replace(k, v)
 
-    # Parametrized access
+    # Parameterized scalars
     for m in re.findall(r"\{\{__VAL:([^}]+)__\}\}", tpl):
         v = str(meta.get(m, "")).strip()
         tpl = tpl.replace(f"{{{{__VAL:{m}__}}}}", v)
+
+    # __VALBR:key__  -> show with line breaks (\n encoded as "\\n")
+    for m in re.findall(r"\{\{__VALBR:([^}]+)__\}\}", tpl):
+        raw = str(meta.get(m, "")).strip()
+        val = raw.replace("\\n", "<br>")
+        tpl = tpl.replace(f"{{{{__VALBR:{m}__}}}}", val)
+
+    # __VAL2DP:key__ -> numeric with 2 decimals (accepts "10,38" or "10.38")
+    for m in re.findall(r"\{\{__VAL2DP:([^}]+)__\}\}", tpl):
+        raw = str(meta.get(m, "")).strip()
+        n = raw.replace(",", ".")
+        try:
+            val = f"{float(n):.2f}"
+        except Exception:
+            val = raw
+        tpl = tpl.replace(f"{{{{__VAL2DP:{m}__}}}}", val)
+
     for m in re.findall(r"\{\{__LINK:([^}]+)__\}\}", tpl):
         url = str(meta.get(m, "")).strip()
         repl = f"[{url}]({url})" if is_urlish(url) else ""
         tpl = tpl.replace(f"{{{{__LINK:{m}__}}}}", repl)
+
     for m in re.findall(r"\{\{__IMG:([^}]+)__\}\}", tpl):
         url = str(meta.get(m, "")).strip()
-        repl = f"![{meta.get('title','Bild')}]({url})" if url else ""
+        repl = f"![{meta.get('title','Image')}]({url})" if url else ""
         tpl = tpl.replace(f"{{{{__IMG:{m}__}}}}", repl)
 
     return tpl.strip() + "\n"
 
-# ------- Jinja (unchanged from before, omitted here if not needed) -------
+# ---------- Jinja (optional) ----------
 def jinja_env():
     env = jinja2.Environment(loader=jinja2.BaseLoader(), autoescape=False, undefined=jinja2.StrictUndefined)
     env.filters["slugify"] = slugify
@@ -307,6 +324,7 @@ def render_with_jinja(template_text: str, ctx: dict) -> str:
     tmpl = env.from_string(template_text)
     return tmpl.render(**ctx).strip() + "\n"
 
+# ---------- IO ----------
 def write_markdown(out_path: str, frontmatter: dict, ordered_fields: list[str], body: str):
     fm_lines = ["---"]
     for k in ordered_fields:
@@ -323,6 +341,7 @@ def write_markdown(out_path: str, frontmatter: dict, ordered_fields: list[str], 
     with open(out_path, "w", encoding="utf-8") as f:
         f.write("\n".join(fm_lines) + body)
 
+# ---------- Main ----------
 def main():
     p = argparse.ArgumentParser(description="CSV -> Markdown generator (Bannergress banners)")
     p.add_argument("--csv", required=True)
@@ -370,10 +389,12 @@ def main():
                 if "date" not in ordered_fields:
                     ordered_fields.append("date")
 
-            # Build lists for placeholders/Jinja
             pics = [{"key": k, "url": str(frontmatter.get(k)).strip()}
                     for k in ordered_fields
                     if k.lower() in PICTURE_KEYS and str(frontmatter.get(k,"")).strip()]
+            if pics:
+                pics = [pics[0]]  # only one banner image
+
             lnks = [{"key": k, "url": str(frontmatter.get(k)).strip()}
                     for k in ordered_fields
                     if k.lower() not in PICTURE_KEYS and is_urlish(frontmatter.get(k,""))]
@@ -387,7 +408,6 @@ def main():
             dprint(args.debug, "Row#", idx, "->", filename)
             dprint(args.debug, "Frontmatter keys:", ordered_fields)
 
-            # Render body
             if template_text:
                 ctx = {
                     "meta": frontmatter,
