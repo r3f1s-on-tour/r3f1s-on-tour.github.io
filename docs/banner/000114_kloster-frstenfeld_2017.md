@@ -23,18 +23,20 @@ title: "Kloster Fürstenfeld"
 
 
 ## Details
-- **Distanz (km):** 8,19
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 2814
-- **Das ist mein Banner Nr.:** 114
-- **Beschreibung:** Das Kloster Fürstenfeld ist eine ehemalige Zisterzienserabtei in Fürstenfeldbruck in der Erzdiözese München und Freising.
+- **Distance (km):** 8.19
+
+- **Total missions completed:** 
+- **This is my banner no.:** 114
+
+
+!!! note "Description"
+    Das Kloster Fürstenfeld ist eine ehemalige Zisterzienserabtei in Fürstenfeldbruck in der Erzdiözese München und Freising.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/kloster-f%C3%BCrstenfeld-cd21" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/kloster-f%C3%BCrstenfeld-cd21){ .md-button .md-button--primary }
 
 
-> Datei: `000114_kloster-frstenfeld_2017.md` • #000114 • Slug: `kloster-frstenfeld`
+
+> File: `000114_kloster-frstenfeld_2017.md` • #000114 • Slug: `kloster-frstenfeld`

@@ -23,12 +23,16 @@ title: "Brennende Julia"
 
 
 ## Details
-- **Distanz (km):** 19,4
-- **Missionen im Banner:** 72
-- **Insgesamt abgeschlossene Missionen:** 11.580
-- **Das ist mein Banner Nr.:** 532
-- **Beschreibung:** Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg. Starte in der Bernauer Straße
+- **Distance (km):** 19.40
+
+- **Total missions completed:** 
+- **This is my banner no.:** 532
+
+
+!!! note "Description"
+    Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg. Starte in der Bernauer Straße
 
 
 
-> Datei: `000532_brennende-julia_2023.md` • #000532 • Slug: `brennende-julia`
+
+> File: `000532_brennende-julia_2023.md` • #000532 • Slug: `brennende-julia`

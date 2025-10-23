@@ -23,11 +23,14 @@ title: "Schneeflöckchen"
 ![Schneeflöckchen](https://api.bannergress.com/bnrs/pictures/ea46b6fe5117e57e775d3d706faf2716)
 
 ## Details
-- **Distanz (km):** 1,693
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 13.002
-- **Das ist mein Banner Nr.:** 584
-- **Beschreibung:** "Schneeflöckchen, Weißröckchen
+- **Distance (km):** 1.69
+
+- **Total missions completed:** 
+- **This is my banner no.:** 584
+
+
+!!! note "Description"
+    "Schneeflöckchen, Weißröckchen
 Wann kommst du geschneit?
 Du kommst aus den Wolken
 Dein Weg ist so weit"
@@ -35,11 +38,10 @@ Dein Weg ist so weit"
 Ein Spaziergang durch Löbtau-Süd
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/schneefl%C3%B6ckchen-0616" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/schneefl%C3%B6ckchen-0616){ .md-button .md-button--primary }
 
 
-> Datei: `000584_schneeflckchen_2023.md` • #000584 • Slug: `schneeflckchen`
+
+> File: `000584_schneeflckchen_2023.md` • #000584 • Slug: `schneeflckchen`

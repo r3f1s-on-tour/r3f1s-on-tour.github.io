@@ -23,18 +23,20 @@ title: "Northern Legends"
 ![Northern Legends](https://api.bannergress.com/bnrs/pictures/bbf03454c1ee32bd101d8b31f92dd5cf)
 
 ## Details
-- **Distanz (km):** 1,259
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 10.488
-- **Das ist mein Banner Nr.:** 486
-- **Beschreibung:** Follow your path through the neighborhood of Friedrichshain.
+- **Distance (km):** 1.26
+
+- **Total missions completed:** 
+- **This is my banner no.:** 486
+
+
+!!! note "Description"
+    Follow your path through the neighborhood of Friedrichshain.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/northern-legends-5c88" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/northern-legends-5c88){ .md-button .md-button--primary }
 
 
-> Datei: `000486_northern-legends_2022.md` • #000486 • Slug: `northern-legends`
+
+> File: `000486_northern-legends_2022.md` • #000486 • Slug: `northern-legends`

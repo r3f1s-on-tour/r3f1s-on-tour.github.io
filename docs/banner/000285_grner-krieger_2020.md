@@ -23,18 +23,20 @@ title: "Grüner Krieger"
 
 
 ## Details
-- **Distanz (km):** 15,59
-- **Missionen im Banner:** 54
-- **Insgesamt abgeschlossene Missionen:** 6684
-- **Das ist mein Banner Nr.:** 285
-- **Beschreibung:** Erkunde die Stadt München ab dem Karlsplatz durch die Maxvorstadt bis zum Hauptbahnhof
+- **Distance (km):** 15.59
+
+- **Total missions completed:** 
+- **This is my banner no.:** 285
+
+
+!!! note "Description"
+    Erkunde die Stadt München ab dem Karlsplatz durch die Maxvorstadt bis zum Hauptbahnhof
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/gr%C3%BCner-krieger-5ab5" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/gr%C3%BCner-krieger-5ab5){ .md-button .md-button--primary }
 
 
-> Datei: `000285_grner-krieger_2020.md` • #000285 • Slug: `grner-krieger`
+
+> File: `000285_grner-krieger_2020.md` • #000285 • Slug: `grner-krieger`

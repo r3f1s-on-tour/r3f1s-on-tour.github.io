@@ -23,18 +23,20 @@ title: "Link Trainer"
 
 
 ## Details
-- **Distanz (km):** 18,78
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 2790
-- **Das ist mein Banner Nr.:** 113
-- **Beschreibung:** Diese Portalreihe führt euch durch Unterschleißheim. Start ist das Infinity Hotel im Gewerbegebiet.
+- **Distance (km):** 18.78
+
+- **Total missions completed:** 
+- **This is my banner no.:** 113
+
+
+!!! note "Description"
+    Diese Portalreihe führt euch durch Unterschleißheim. Start ist das Infinity Hotel im Gewerbegebiet.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/link-trainer-d948" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/link-trainer-d948){ .md-button .md-button--primary }
 
 
-> Datei: `000113_link-trainer_2017.md` • #000113 • Slug: `link-trainer`
+
+> File: `000113_link-trainer_2017.md` • #000113 • Slug: `link-trainer`

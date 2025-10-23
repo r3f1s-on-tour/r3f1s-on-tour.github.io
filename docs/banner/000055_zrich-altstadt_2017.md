@@ -23,18 +23,20 @@ title: "Zürich Altstadt"
 ![Zürich Altstadt](https://api.bannergress.com/bnrs/pictures/1d206fb325d07ff960cb466b2ca723e1)
 
 ## Details
-- **Distanz (km):** 11,49
-- **Missionen im Banner:** 36
-- **Insgesamt abgeschlossene Missionen:** 1272
-- **Das ist mein Banner Nr.:** 55
-- **Beschreibung:** Entdecke auf diesem grossen Rundgang die mindere und die mehrere Altstadt von Zürich.
+- **Distance (km):** 11.49
+
+- **Total missions completed:** 
+- **This is my banner no.:** 55
+
+
+!!! note "Description"
+    Entdecke auf diesem grossen Rundgang die mindere und die mehrere Altstadt von Zürich.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/z%C3%BCrich-altstadt-2215" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/z%C3%BCrich-altstadt-2215){ .md-button .md-button--primary }
 
 
-> Datei: `000055_zrich-altstadt_2017.md` • #000055 • Slug: `zrich-altstadt`
+
+> File: `000055_zrich-altstadt_2017.md` • #000055 • Slug: `zrich-altstadt`

@@ -23,12 +23,16 @@ title: "DB in Oranienburg"
 
 
 ## Details
-- **Distanz (km):** 6,05
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 7902
-- **Das ist mein Banner Nr.:** 353
-- **Beschreibung:** Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
+- **Distance (km):** 6.05
+
+- **Total missions completed:** 
+- **This is my banner no.:** 353
+
+
+!!! note "Description"
+    Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> Datei: `000353_db-in-oranienburg_2021.md` • #000353 • Slug: `db-in-oranienburg`
+
+> File: `000353_db-in-oranienburg_2021.md` • #000353 • Slug: `db-in-oranienburg`

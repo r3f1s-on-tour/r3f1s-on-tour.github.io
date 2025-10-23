@@ -23,18 +23,20 @@ title: "Vendetta in Oranienburg"
 
 
 ## Details
-- **Distanz (km):** 13,97
-- **Missionen im Banner:** 30
-- **Insgesamt abgeschlossene Missionen:** 7734
-- **Das ist mein Banner Nr.:** 341
-- **Beschreibung:** Starte eine Vendetta in Oranienburg und mache ein Tour durch die Stadt. Die Tour startet in der Bernauer Straße und führt dich am Lehnitz See und der Havel entlang und endet am Schloss
+- **Distance (km):** 13.97
+
+- **Total missions completed:** 
+- **This is my banner no.:** 341
+
+
+!!! note "Description"
+    Starte eine Vendetta in Oranienburg und mache ein Tour durch die Stadt. Die Tour startet in der Bernauer Straße und führt dich am Lehnitz See und der Havel entlang und endet am Schloss
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/vendetta-in-oranienburg-a9ef" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/vendetta-in-oranienburg-a9ef){ .md-button .md-button--primary }
 
 
-> Datei: `000341_vendetta-in-oranienburg_2021.md` • #000341 • Slug: `vendetta-in-oranienburg`
+
+> File: `000341_vendetta-in-oranienburg_2021.md` • #000341 • Slug: `vendetta-in-oranienburg`

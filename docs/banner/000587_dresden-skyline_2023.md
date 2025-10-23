@@ -23,19 +23,21 @@ title: "Dresden Skyline"
 ![Dresden Skyline](https://api.bannergress.com/bnrs/pictures/24dd2b71b50b077aa14b9c7ff4a7c449)
 
 ## Details
-- **Distanz (km):** 4,1
-- **Missionen im Banner:** 12
-- **Insgesamt abgeschlossene Missionen:** 13.026
-- **Das ist mein Banner Nr.:** 587
-- **Beschreibung:** Dresden - eine barocke Perle an der Elbe. Viele Maler haben diese Pracht schon auf Leinwand verewigt. Nun könnt ihr ein Mosaik aus 12 Teilen in eurem Agent-Profil ergänzen.
+- **Distance (km):** 4.10
+
+- **Total missions completed:** 
+- **This is my banner no.:** 587
+
+
+!!! note "Description"
+    Dresden - eine barocke Perle an der Elbe. Viele Maler haben diese Pracht schon auf Leinwand verewigt. Nun könnt ihr ein Mosaik aus 12 Teilen in eurem Agent-Profil ergänzen.
 Teil 1 von 12
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/dresden-skyline-06da" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/dresden-skyline-06da){ .md-button .md-button--primary }
 
 
-> Datei: `000587_dresden-skyline_2023.md` • #000587 • Slug: `dresden-skyline`
+
+> File: `000587_dresden-skyline_2023.md` • #000587 • Slug: `dresden-skyline`

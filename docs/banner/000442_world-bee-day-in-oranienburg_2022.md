@@ -23,12 +23,16 @@ title: "World Bee Day in Oranienburg"
 
 
 ## Details
-- **Distanz (km):** 1,59
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 9.168
-- **Das ist mein Banner Nr.:** 442
-- **Beschreibung:** Mache eine kleine Runde durch Oranienburg und feiere den Weltbienentag.
+- **Distance (km):** 1.59
+
+- **Total missions completed:** 
+- **This is my banner no.:** 442
+
+
+!!! note "Description"
+    Mache eine kleine Runde durch Oranienburg und feiere den Weltbienentag.
 
 
 
-> Datei: `000442_world-bee-day-in-oranienburg_2022.md` • #000442 • Slug: `world-bee-day-in-oranienburg`
+
+> File: `000442_world-bee-day-in-oranienburg_2022.md` • #000442 • Slug: `world-bee-day-in-oranienburg`

@@ -23,18 +23,20 @@ title: "Elberfeld im Schneckentempo"
 ![Elberfeld im Schneckentempo](https://api.bannergress.com/bnrs/pictures/59a729228b1cf48cf1b3990eedf280e7)
 
 ## Details
-- **Distanz (km):** 2,828
-- **Missionen im Banner:** 12
-- **Insgesamt abgeschlossene Missionen:** 10.836
-- **Das ist mein Banner Nr.:** 508
-- **Beschreibung:** Eine gemütliche Runde durch den Stadtbezirk Elberfeld der Stadt Wuppertal.
+- **Distance (km):** 2.83
+
+- **Total missions completed:** 
+- **This is my banner no.:** 508
+
+
+!!! note "Description"
+    Eine gemütliche Runde durch den Stadtbezirk Elberfeld der Stadt Wuppertal.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/elberfeld-im-schneckentempo-82c3" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/elberfeld-im-schneckentempo-82c3){ .md-button .md-button--primary }
 
 
-> Datei: `000508_elberfeld-im-schneckentempo_2022.md` • #000508 • Slug: `elberfeld-im-schneckentempo`
+
+> File: `000508_elberfeld-im-schneckentempo_2022.md` • #000508 • Slug: `elberfeld-im-schneckentempo`

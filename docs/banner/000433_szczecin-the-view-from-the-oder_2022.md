@@ -23,18 +23,20 @@ title: "Szczecin, the view from the Oder"
 
 
 ## Details
-- **Distanz (km):** 3,57
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 9.024
-- **Das ist mein Banner Nr.:** 433
-- **Beschreibung:** I invite you to take a walk around Szczecin. Collect all the badges, admire the beautiful view from the Oder river and discover the spirit of the port city ;-)
+- **Distance (km):** 3.57
+
+- **Total missions completed:** 
+- **This is my banner no.:** 433
+
+
+!!! note "Description"
+    I invite you to take a walk around Szczecin. Collect all the badges, admire the beautiful view from the Oder river and discover the spirit of the port city ;-)
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/szczecin-the-view-from-the-oder-ed1c" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/szczecin-the-view-from-the-oder-ed1c){ .md-button .md-button--primary }
 
 
-> Datei: `000433_szczecin-the-view-from-the-oder_2022.md` • #000433 • Slug: `szczecin-the-view-from-the-oder`
+
+> File: `000433_szczecin-the-view-from-the-oder_2022.md` • #000433 • Slug: `szczecin-the-view-from-the-oder`

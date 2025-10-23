@@ -23,18 +23,20 @@ title: "Deifel in Wuppertal"
 ![Deifel in Wuppertal](https://api.bannergress.com/bnrs/pictures/5043c3a180f5f2f1114de085f13cdf83)
 
 ## Details
-- **Distanz (km):** 1,323
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 10.824
-- **Das ist mein Banner Nr.:** 507
-- **Beschreibung:** Starte am Hauptbahnhof einen Rundgang und entdecke Wuppertal. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet wieder am Hauptbahnhof
+- **Distance (km):** 1.32
+
+- **Total missions completed:** 
+- **This is my banner no.:** 507
+
+
+!!! note "Description"
+    Starte am Hauptbahnhof einen Rundgang und entdecke Wuppertal. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet wieder am Hauptbahnhof
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/deifel-in-wuppertal-5ea7" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/deifel-in-wuppertal-5ea7){ .md-button .md-button--primary }
 
 
-> Datei: `000507_deifel-in-wuppertal_2022.md` • #000507 • Slug: `deifel-in-wuppertal`
+
+> File: `000507_deifel-in-wuppertal_2022.md` • #000507 • Slug: `deifel-in-wuppertal`

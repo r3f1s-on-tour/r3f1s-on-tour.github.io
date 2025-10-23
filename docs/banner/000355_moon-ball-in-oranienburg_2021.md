@@ -23,12 +23,16 @@ title: "Moon Ball in Oranienburg"
 
 
 ## Details
-- **Distanz (km):** 6,05
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 7938
-- **Das ist mein Banner Nr.:** 355
-- **Beschreibung:** Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
+- **Distance (km):** 6.05
+
+- **Total missions completed:** 
+- **This is my banner no.:** 355
+
+
+!!! note "Description"
+    Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> Datei: `000355_moon-ball-in-oranienburg_2021.md` • #000355 • Slug: `moon-ball-in-oranienburg`
+
+> File: `000355_moon-ball-in-oranienburg_2021.md` • #000355 • Slug: `moon-ball-in-oranienburg`

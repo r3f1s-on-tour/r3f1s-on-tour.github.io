@@ -23,18 +23,20 @@ title: "Sendlinger-Tor-Platz"
 
 
 ## Details
-- **Distanz (km):** 8,60
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 2520
-- **Das ist mein Banner Nr.:** 98
-- **Beschreibung:** Im Rahmen der großen Stadterweiterung durch Ludwig den Bayern entstand 1285 bis 1337 eine zweite Stadtbefestigung, in deren Rahmen das Sendlinger Tor errichtet wurde. 1319 wird es erstmals erwähnt.
+- **Distance (km):** 8.60
+
+- **Total missions completed:** 
+- **This is my banner no.:** 98
+
+
+!!! note "Description"
+    Im Rahmen der großen Stadterweiterung durch Ludwig den Bayern entstand 1285 bis 1337 eine zweite Stadtbefestigung, in deren Rahmen das Sendlinger Tor errichtet wurde. 1319 wird es erstmals erwähnt.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/sendlinger-tor-platz-ec38" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/sendlinger-tor-platz-ec38){ .md-button .md-button--primary }
 
 
-> Datei: `000098_sendlinger-tor-platz_2017.md` • #000098 • Slug: `sendlinger-tor-platz`
+
+> File: `000098_sendlinger-tor-platz_2017.md` • #000098 • Slug: `sendlinger-tor-platz`

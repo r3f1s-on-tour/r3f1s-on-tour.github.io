@@ -24,11 +24,12 @@ title: "Augsburg im April"
 
 ## Details
 
-- **Missionen im Banner:** 30
-- **Insgesamt abgeschlossene Missionen:** 3690
-- **Das ist mein Banner Nr.:** 151
+
+- **Total missions completed:** 
+- **This is my banner no.:** 151
 
 
 
 
-> Datei: `000151_augsburg-im-april_2018.md` • #000151 • Slug: `augsburg-im-april`
+
+> File: `000151_augsburg-im-april_2018.md` • #000151 • Slug: `augsburg-im-april`

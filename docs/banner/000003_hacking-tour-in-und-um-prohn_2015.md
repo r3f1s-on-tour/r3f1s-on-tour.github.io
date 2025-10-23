@@ -24,11 +24,12 @@ title: "Hacking Tour in und um Prohn"
 
 ## Details
 
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 108
-- **Das ist mein Banner Nr.:** 3
+
+- **Total missions completed:** 
+- **This is my banner no.:** 3
 
 
 
 
-> Datei: `000003_hacking-tour-in-und-um-prohn_2015.md` • #000003 • Slug: `hacking-tour-in-und-um-prohn`
+
+> File: `000003_hacking-tour-in-und-um-prohn_2015.md` • #000003 • Slug: `hacking-tour-in-und-um-prohn`

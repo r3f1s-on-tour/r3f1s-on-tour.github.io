@@ -23,19 +23,21 @@ title: "Friedrich-Ludwig-Jahn-Sportpark"
 
 
 ## Details
-- **Distanz (km):** 8,10
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 6210
-- **Das ist mein Banner Nr.:** 259
-- **Beschreibung:** Eine Runde um den Friedrich-Ludwig-Jahn-Sportpark.
+- **Distance (km):** 8.10
+
+- **Total missions completed:** 
+- **This is my banner no.:** 259
+
+
+!!! note "Description"
+    Eine Runde um den Friedrich-Ludwig-Jahn-Sportpark.
 1825 wurde das Areal von der Preußischen Armee als Exerzierplatz genutzt.
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/friedrich-ludwig-jahn-sportpark-739b" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/friedrich-ludwig-jahn-sportpark-739b){ .md-button .md-button--primary }
 
 
-> Datei: `000259_friedrich-ludwig-jahn-sportpark_2020.md` • #000259 • Slug: `friedrich-ludwig-jahn-sportpark`
+
+> File: `000259_friedrich-ludwig-jahn-sportpark_2020.md` • #000259 • Slug: `friedrich-ludwig-jahn-sportpark`

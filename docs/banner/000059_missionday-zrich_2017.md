@@ -23,18 +23,17 @@ title: "MissionDay Zürich"
 ![MissionDay Zürich](https://api.bannergress.com/bnrs/pictures/60989b4a7ea4e993c9d23756812cb691)
 
 ## Details
-- **Distanz (km):** 20,03
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 1344
-- **Das ist mein Banner Nr.:** 59
+- **Distance (km):** 20.03
+
+- **Total missions completed:** 
+- **This is my banner no.:** 59
+
 
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/md-z%C3%BCrich-32cc" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/md-z%C3%BCrich-32cc){ .md-button .md-button--primary }
 
 
-> Datei: `000059_missionday-zrich_2017.md` • #000059 • Slug: `missionday-zrich`
+
+> File: `000059_missionday-zrich_2017.md` • #000059 • Slug: `missionday-zrich`

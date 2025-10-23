@@ -24,17 +24,16 @@ title: "Rund um die Ludwigskirche"
 
 ## Details
 
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 1488
-- **Das ist mein Banner Nr.:** 65
+
+- **Total missions completed:** 
+- **This is my banner no.:** 65
+
 
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/rund-um-die-ludwigskirche-ac36" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/rund-um-die-ludwigskirche-ac36){ .md-button .md-button--primary }
 
 
-> Datei: `000065_rund-um-die-ludwigskirche_2017.md` • #000065 • Slug: `rund-um-die-ludwigskirche`
+
+> File: `000065_rund-um-die-ludwigskirche_2017.md` • #000065 • Slug: `rund-um-die-ludwigskirche`

@@ -23,20 +23,22 @@ title: "Enlightened Berlinomaly"
 
 
 ## Details
-- **Distanz (km):** 12,02
-- **Missionen im Banner:** 36
-- **Insgesamt abgeschlossene Missionen:** 7242
-- **Das ist mein Banner Nr.:** 308
-- **Beschreibung:** Welcome to Berlin, Enlightened Agents! This banner takes you along some of Berlins important sights and results in the offical Berlinomaly logo. 
+- **Distance (km):** 12.02
+
+- **Total missions completed:** 
+- **This is my banner no.:** 308
+
+
+!!! note "Description"
+    Welcome to Berlin, Enlightened Agents! This banner takes you along some of Berlins important sights and results in the offical Berlinomaly logo. 
 
 This mission starts at S Friedrichstrasse.
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/enlightened-berlinomaly-a9fd" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/enlightened-berlinomaly-a9fd){ .md-button .md-button--primary }
 
 
-> Datei: `000308_enlightened-berlinomaly_2021.md` • #000308 • Slug: `enlightened-berlinomaly`
+
+> File: `000308_enlightened-berlinomaly_2021.md` • #000308 • Slug: `enlightened-berlinomaly`

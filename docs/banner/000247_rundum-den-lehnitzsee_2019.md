@@ -23,19 +23,21 @@ title: "Rundum den Lehnitzsee"
 
 
 ## Details
-- **Distanz (km):** 8,75
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 6030
-- **Das ist mein Banner Nr.:** 247
-- **Beschreibung:** Abfolge 1 der Reihe um den Lehnitzsee entlang des Naturlehrpfades.
+- **Distance (km):** 8.75
+
+- **Total missions completed:** 
+- **This is my banner no.:** 247
+
+
+!!! note "Description"
+    Abfolge 1 der Reihe um den Lehnitzsee entlang des Naturlehrpfades.
 Zu Fuß wirst du etwa 4 std. benötigen und kannst dies nur mit dem Fahrrad verkürzen.
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/rundum-den-lehnitzsee-3930" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/rundum-den-lehnitzsee-3930){ .md-button .md-button--primary }
 
 
-> Datei: `000247_rundum-den-lehnitzsee_2019.md` • #000247 • Slug: `rundum-den-lehnitzsee`
+
+> File: `000247_rundum-den-lehnitzsee_2019.md` • #000247 • Slug: `rundum-den-lehnitzsee`

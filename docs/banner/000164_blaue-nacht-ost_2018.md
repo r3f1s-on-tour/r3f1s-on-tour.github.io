@@ -24,11 +24,12 @@ title: "Blaue Nacht Ost"
 
 ## Details
 
-- **Missionen im Banner:** 36
-- **Insgesamt abgeschlossene Missionen:** 3984
-- **Das ist mein Banner Nr.:** 164
+
+- **Total missions completed:** 
+- **This is my banner no.:** 164
 
 
 
 
-> Datei: `000164_blaue-nacht-ost_2018.md` • #000164 • Slug: `blaue-nacht-ost`
+
+> File: `000164_blaue-nacht-ost_2018.md` • #000164 • Slug: `blaue-nacht-ost`

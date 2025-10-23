@@ -23,19 +23,21 @@ title: "Bayern Flagge"
 
 
 ## Details
-- **Distanz (km):** 6,57
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 3762
-- **Das ist mein Banner Nr.:** 155
-- **Beschreibung:** Erkunde die bayerische Hauptstadt, beantworte Fragen zu Bayern und erhalte als Belohnung die bayerische Flagge mit Wappen.
+- **Distance (km):** 6.57
+
+- **Total missions completed:** 
+- **This is my banner no.:** 155
+
+
+!!! note "Description"
+    Erkunde die bayerische Hauptstadt, beantworte Fragen zu Bayern und erhalte als Belohnung die bayerische Flagge mit Wappen.
 Diese Mission startet am Marienplatz.
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/bayern-flagge-d575" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/bayern-flagge-d575){ .md-button .md-button--primary }
 
 
-> Datei: `000155_bayern-flagge_2018.md` • #000155 • Slug: `bayern-flagge`
+
+> File: `000155_bayern-flagge_2018.md` • #000155 • Slug: `bayern-flagge`

@@ -23,18 +23,20 @@ title: "MissionDay Hamburg"
 
 
 ## Details
-- **Distanz (km):** 71,95
-- **Missionen im Banner:** 12
-- **Insgesamt abgeschlossene Missionen:** 330
-- **Das ist mein Banner Nr.:** 18
-- **Beschreibung:** The Alsterarkaden is the smallest and oldest shopping arcade in Hamburg.
+- **Distance (km):** 71.95
+
+- **Total missions completed:** 
+- **This is my banner no.:** 18
+
+
+!!! note "Description"
+    The Alsterarkaden is the smallest and oldest shopping arcade in Hamburg.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/md-hamburg-0950" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/md-hamburg-0950){ .md-button .md-button--primary }
 
 
-> Datei: `000018_missionday-hamburg_2015.md` • #000018 • Slug: `missionday-hamburg`
+
+> File: `000018_missionday-hamburg_2015.md` • #000018 • Slug: `missionday-hamburg`

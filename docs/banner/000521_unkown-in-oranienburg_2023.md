@@ -23,12 +23,16 @@ title: "Unkown in Oranienburg"
 
 
 ## Details
-- **Distanz (km):** 1,29
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 11.004
-- **Das ist mein Banner Nr.:** 521
-- **Beschreibung:** Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
+- **Distance (km):** 1.29
+
+- **Total missions completed:** 
+- **This is my banner no.:** 521
+
+
+!!! note "Description"
+    Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> Datei: `000521_unkown-in-oranienburg_2023.md` • #000521 • Slug: `unkown-in-oranienburg`
+
+> File: `000521_unkown-in-oranienburg_2023.md` • #000521 • Slug: `unkown-in-oranienburg`

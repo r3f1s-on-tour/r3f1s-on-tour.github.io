@@ -23,18 +23,17 @@ title: "Hacktour DUS"
 ![Hacktour DUS](https://api.bannergress.com/bnrs/pictures/5c5e3a02e1ed671a95579d74899d76ff)
 
 ## Details
-- **Distanz (km):** 2,309
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 10.782
-- **Das ist mein Banner Nr.:** 505
+- **Distance (km):** 2.31
+
+- **Total missions completed:** 
+- **This is my banner no.:** 505
+
 
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/hacktour-dus-6e84" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/hacktour-dus-6e84){ .md-button .md-button--primary }
 
 
-> Datei: `000505_hacktour-dus_2022.md` • #000505 • Slug: `hacktour-dus`
+
+> File: `000505_hacktour-dus_2022.md` • #000505 • Slug: `hacktour-dus`

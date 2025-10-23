@@ -23,18 +23,20 @@ title: "Museumshafen Greifswald"
 ![Museumshafen Greifswald](https://api.bannergress.com/bnrs/pictures/01328fd0e24c9c0a82a36a93613be784)
 
 ## Details
-- **Distanz (km):** 5,93
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 216
-- **Das ist mein Banner Nr.:** 10
-- **Beschreibung:** Teil 1 der Tour "Museumshafen Greifswald"
+- **Distance (km):** 5.93
+
+- **Total missions completed:** 
+- **This is my banner no.:** 10
+
+
+!!! note "Description"
+    Teil 1 der Tour "Museumshafen Greifswald"
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/museumshafen-greifswald-66c3" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/museumshafen-greifswald-66c3){ .md-button .md-button--primary }
 
 
-> Datei: `000010_museumshafen-greifswald_2015.md` • #000010 • Slug: `museumshafen-greifswald`
+
+> File: `000010_museumshafen-greifswald_2015.md` • #000010 • Slug: `museumshafen-greifswald`

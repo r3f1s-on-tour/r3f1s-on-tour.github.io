@@ -23,12 +23,16 @@ title: "Mister-Universe in Oranienburg"
 
 
 ## Details
-- **Distanz (km):** 5,80
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 7758
-- **Das ist mein Banner Nr.:** 343
-- **Beschreibung:** Mache eine kleine Tour mit Bengalos durch Oranienburg und starte am Bahnhof
+- **Distance (km):** 5.80
+
+- **Total missions completed:** 
+- **This is my banner no.:** 343
+
+
+!!! note "Description"
+    Mache eine kleine Tour mit Bengalos durch Oranienburg und starte am Bahnhof
 
 
 
-> Datei: `000343_mister-universe-in-oranienburg_2021.md` • #000343 • Slug: `mister-universe-in-oranienburg`
+
+> File: `000343_mister-universe-in-oranienburg_2021.md` • #000343 • Slug: `mister-universe-in-oranienburg`

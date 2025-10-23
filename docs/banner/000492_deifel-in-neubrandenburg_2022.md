@@ -23,12 +23,16 @@ title: "Deifel in Neubrandenburg"
 
 
 ## Details
-- **Distanz (km):** 2
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 10.542
-- **Das ist mein Banner Nr.:** 492
-- **Beschreibung:** Starte am Rathaus einen Rundgang und entdecke Neubrandenburg. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet auf dem Marktplatz
+- **Distance (km):** 2.00
+
+- **Total missions completed:** 
+- **This is my banner no.:** 492
+
+
+!!! note "Description"
+    Starte am Rathaus einen Rundgang und entdecke Neubrandenburg. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet auf dem Marktplatz
 
 
 
-> Datei: `000492_deifel-in-neubrandenburg_2022.md` • #000492 • Slug: `deifel-in-neubrandenburg`
+
+> File: `000492_deifel-in-neubrandenburg_2022.md` • #000492 • Slug: `deifel-in-neubrandenburg`

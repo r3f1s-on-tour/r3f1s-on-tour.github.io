@@ -23,12 +23,16 @@ title: "Happy Toastern April 2022"
 
 
 ## Details
-- **Distanz (km):** 2,76
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 8.694
-- **Das ist mein Banner Nr.:** 410
-- **Beschreibung:** Starte am Markt eine Entdeckungsreise durch die Stadt Strasburg Uckermark und entdecke dabei historische Orte der Stadt
+- **Distance (km):** 2.76
+
+- **Total missions completed:** 
+- **This is my banner no.:** 410
+
+
+!!! note "Description"
+    Starte am Markt eine Entdeckungsreise durch die Stadt Strasburg Uckermark und entdecke dabei historische Orte der Stadt
 
 
 
-> Datei: `000410_happy-toastern-april-2022_2022.md` • #000410 • Slug: `happy-toastern-april-2022`
+
+> File: `000410_happy-toastern-april-2022_2022.md` • #000410 • Slug: `happy-toastern-april-2022`

@@ -23,18 +23,20 @@ title: "Year of the Ox 2021 - Neubrandenburg"
 
 
 ## Details
-- **Distanz (km):** 5,27
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 8.778
-- **Das ist mein Banner Nr.:** 421
-- **Beschreibung:** Erkunde die Innenstadt von Neubrandenburg. Die Mission beginnt und endet auf dem Marktplatz.
+- **Distance (km):** 5.27
+
+- **Total missions completed:** 
+- **This is my banner no.:** 421
+
+
+!!! note "Description"
+    Erkunde die Innenstadt von Neubrandenburg. Die Mission beginnt und endet auf dem Marktplatz.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/year-of-the-ox-2021-neubrandenburg-6042" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/year-of-the-ox-2021-neubrandenburg-6042){ .md-button .md-button--primary }
 
 
-> Datei: `000421_year-of-the-ox-2021-neubrandenburg_2022.md` • #000421 • Slug: `year-of-the-ox-2021-neubrandenburg`
+
+> File: `000421_year-of-the-ox-2021-neubrandenburg_2022.md` • #000421 • Slug: `year-of-the-ox-2021-neubrandenburg`

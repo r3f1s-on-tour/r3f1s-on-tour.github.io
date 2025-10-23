@@ -24,11 +24,12 @@ title: "Süße Verführung in Augsburg"
 
 ## Details
 
-- **Missionen im Banner:** 30
-- **Insgesamt abgeschlossene Missionen:** 3576
-- **Das ist mein Banner Nr.:** 147
+
+- **Total missions completed:** 
+- **This is my banner no.:** 147
 
 
 
 
-> Datei: `000147_se-verfhrung-in-augsburg_2018.md` • #000147 • Slug: `se-verfhrung-in-augsburg`
+
+> File: `000147_se-verfhrung-in-augsburg_2018.md` • #000147 • Slug: `se-verfhrung-in-augsburg`

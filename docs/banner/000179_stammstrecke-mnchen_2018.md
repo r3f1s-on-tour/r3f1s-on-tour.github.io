@@ -24,17 +24,16 @@ title: "Stammstrecke München"
 
 ## Details
 
-- **Missionen im Banner:** 54
-- **Insgesamt abgeschlossene Missionen:** 4308
-- **Das ist mein Banner Nr.:** 179
+
+- **Total missions completed:** 
+- **This is my banner no.:** 179
+
 
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/stammstrecke-m%C3%BCnchen-4ade" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/stammstrecke-m%C3%BCnchen-4ade){ .md-button .md-button--primary }
 
 
-> Datei: `000179_stammstrecke-mnchen_2018.md` • #000179 • Slug: `stammstrecke-mnchen`
+
+> File: `000179_stammstrecke-mnchen_2018.md` • #000179 • Slug: `stammstrecke-mnchen`

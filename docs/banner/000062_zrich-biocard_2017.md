@@ -23,18 +23,20 @@ title: "Zürich Biocard"
 ![Zürich Biocard](https://api.bannergress.com/bnrs/pictures/0f8d583886672ef36e28dd0a88fda13f)
 
 ## Details
-- **Distanz (km):** 7,97
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 1380
-- **Das ist mein Banner Nr.:** 62
-- **Beschreibung:** Zurich Main Station is the largest train station in Switzerland, it serves about 3000 connections a day. It's the main hub to connect to the rest of Switzerland.
+- **Distance (km):** 7.97
+
+- **Total missions completed:** 
+- **This is my banner no.:** 62
+
+
+!!! note "Description"
+    Zurich Main Station is the largest train station in Switzerland, it serves about 3000 connections a day. It's the main hub to connect to the rest of Switzerland.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/z%C3%BCrich-biocard-79bc" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/z%C3%BCrich-biocard-79bc){ .md-button .md-button--primary }
 
 
-> Datei: `000062_zrich-biocard_2017.md` • #000062 • Slug: `zrich-biocard`
+
+> File: `000062_zrich-biocard_2017.md` • #000062 • Slug: `zrich-biocard`

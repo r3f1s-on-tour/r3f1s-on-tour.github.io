@@ -23,19 +23,21 @@ title: "Speicherstadt Mosaik"
 ![Speicherstadt Mosaik](https://api.bannergress.com/bnrs/pictures/c06ec1426ed7220a73534afaa62b7fe9)
 
 ## Details
-- **Distanz (km):** 5,64
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 312
-- **Das ist mein Banner Nr.:** 16
-- **Beschreibung:** All missions are in sequence.
+- **Distance (km):** 5.64
+
+- **Total missions completed:** 
+- **This is my banner no.:** 16
+
+
+!!! note "Description"
+    All missions are in sequence.
 Location- Hamburg Germany
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/speicherstadt-mosaik-a9bd" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/speicherstadt-mosaik-a9bd){ .md-button .md-button--primary }
 
 
-> Datei: `000016_speicherstadt-mosaik_2015.md` • #000016 • Slug: `speicherstadt-mosaik`
+
+> File: `000016_speicherstadt-mosaik_2015.md` • #000016 • Slug: `speicherstadt-mosaik`

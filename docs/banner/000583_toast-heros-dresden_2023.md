@@ -23,18 +23,20 @@ title: "Toast Heros Dresden"
 ![Toast Heros Dresden](https://api.bannergress.com/bnrs/pictures/c670eebd6d3b0dfe1c5deeddc0ae1302)
 
 ## Details
-- **Distanz (km):** 1,313
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 12.996
-- **Das ist mein Banner Nr.:** 583
-- **Beschreibung:** Eine kleine Runde durch den schönen Stadtteil Dresden Löbtau.
+- **Distance (km):** 1.31
+
+- **Total missions completed:** 
+- **This is my banner no.:** 583
+
+
+!!! note "Description"
+    Eine kleine Runde durch den schönen Stadtteil Dresden Löbtau.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/toast-heros-dresden-54da" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/toast-heros-dresden-54da){ .md-button .md-button--primary }
 
 
-> Datei: `000583_toast-heros-dresden_2023.md` • #000583 • Slug: `toast-heros-dresden`
+
+> File: `000583_toast-heros-dresden_2023.md` • #000583 • Slug: `toast-heros-dresden`

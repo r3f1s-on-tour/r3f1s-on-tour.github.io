@@ -23,18 +23,20 @@ title: "Rengschburger Dom"
 ![Rengschburger Dom](https://api.bannergress.com/bnrs/pictures/01e618952f674835332465d76a5ce86c)
 
 ## Details
-- **Distanz (km):** 16,84
-- **Missionen im Banner:** 60
-- **Insgesamt abgeschlossene Missionen:** 4566
-- **Das ist mein Banner Nr.:** 191
-- **Beschreibung:** Servus, Griaß di und Habedere in Rengschburg! Dieses Mosaik hat insgesamt 60 Missionen und ist auf 3 Teile aufgeteilt. Parken und Start Unterer Wöhrd. Viel Spaß
+- **Distance (km):** 16.84
+
+- **Total missions completed:** 
+- **This is my banner no.:** 191
+
+
+!!! note "Description"
+    Servus, Griaß di und Habedere in Rengschburg! Dieses Mosaik hat insgesamt 60 Missionen und ist auf 3 Teile aufgeteilt. Parken und Start Unterer Wöhrd. Viel Spaß
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/rengschburger-dom-1d01" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/rengschburger-dom-1d01){ .md-button .md-button--primary }
 
 
-> Datei: `000191_rengschburger-dom_2018.md` • #000191 • Slug: `rengschburger-dom`
+
+> File: `000191_rengschburger-dom_2018.md` • #000191 • Slug: `rengschburger-dom`

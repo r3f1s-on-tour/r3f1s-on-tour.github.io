@@ -24,11 +24,12 @@ title: "Goldener Saal Augsburg"
 
 ## Details
 
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 3078
-- **Das ist mein Banner Nr.:** 125
+
+- **Total missions completed:** 
+- **This is my banner no.:** 125
 
 
 
 
-> Datei: `000125_goldener-saal-augsburg_2018.md` • #000125 • Slug: `goldener-saal-augsburg`
+
+> File: `000125_goldener-saal-augsburg_2018.md` • #000125 • Slug: `goldener-saal-augsburg`

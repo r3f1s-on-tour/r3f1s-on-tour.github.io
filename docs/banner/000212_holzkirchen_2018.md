@@ -23,18 +23,20 @@ title: "Holzkirchen"
 
 
 ## Details
-- **Distanz (km):** 10,84
-- **Missionen im Banner:** 36
-- **Insgesamt abgeschlossene Missionen:** 5172
-- **Das ist mein Banner Nr.:** 212
-- **Beschreibung:** Erfülle alle Missionen in der richtigen Reihenfolge um das Holzkirchner Wappen zu erhalten.
+- **Distance (km):** 10.84
+
+- **Total missions completed:** 
+- **This is my banner no.:** 212
+
+
+!!! note "Description"
+    Erfülle alle Missionen in der richtigen Reihenfolge um das Holzkirchner Wappen zu erhalten.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/holzkirchen-773c" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/holzkirchen-773c){ .md-button .md-button--primary }
 
 
-> Datei: `000212_holzkirchen_2018.md` • #000212 • Slug: `holzkirchen`
+
+> File: `000212_holzkirchen_2018.md` • #000212 • Slug: `holzkirchen`

@@ -23,20 +23,22 @@ title: "Item Cats Strasburg"
 
 
 ## Details
-- **Distanz (km):** 6,56
-- **Missionen im Banner:** 12
-- **Insgesamt abgeschlossene Missionen:** 8160
-- **Das ist mein Banner Nr.:** 372
-- **Beschreibung:** Starte am Marktplatz und entdecke Strasburg Uckermark bei einer weihnachtlichen Spaziergang.
+- **Distance (km):** 6.56
+
+- **Total missions completed:** 
+- **This is my banner no.:** 372
+
+
+!!! note "Description"
+    Starte am Marktplatz und entdecke Strasburg Uckermark bei einer weihnachtlichen Spaziergang.
 
 Banner geht am 26.12.2012 offline
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/item-cats-strasburg-69b2" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/item-cats-strasburg-69b2){ .md-button .md-button--primary }
 
 
-> Datei: `000372_item-cats-strasburg_2021.md` • #000372 • Slug: `item-cats-strasburg`
+
+> File: `000372_item-cats-strasburg_2021.md` • #000372 • Slug: `item-cats-strasburg`

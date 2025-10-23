@@ -23,18 +23,20 @@ title: "Rosenheimer Tiger"
 
 
 ## Details
-- **Distanz (km):** 4,79
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 4410
-- **Das ist mein Banner Nr.:** 185
-- **Beschreibung:** Erkunde Rosenheim!
+- **Distance (km):** 4.79
+
+- **Total missions completed:** 
+- **This is my banner no.:** 185
+
+
+!!! note "Description"
+    Erkunde Rosenheim!
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/rosenheimer-tiger-dd08" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/rosenheimer-tiger-dd08){ .md-button .md-button--primary }
 
 
-> Datei: `000185_rosenheimer-tiger_2018.md` • #000185 • Slug: `rosenheimer-tiger`
+
+> File: `000185_rosenheimer-tiger_2018.md` • #000185 • Slug: `rosenheimer-tiger`

@@ -23,18 +23,20 @@ title: "Green Unicorn"
 
 
 ## Details
-- **Distanz (km):** 24,03
-- **Missionen im Banner:** 36
-- **Insgesamt abgeschlossene Missionen:** 7548
-- **Das ist mein Banner Nr.:** 329
-- **Beschreibung:** Die Missionen führen durch die Grünanlagen von Neubrandenburg. Dabei sieht man unter anderem den Burgwall, Strandbad Broda, den Kulturbark, das Augustabad und die hinterste Mühle.
+- **Distance (km):** 24.03
+
+- **Total missions completed:** 
+- **This is my banner no.:** 329
+
+
+!!! note "Description"
+    Die Missionen führen durch die Grünanlagen von Neubrandenburg. Dabei sieht man unter anderem den Burgwall, Strandbad Broda, den Kulturbark, das Augustabad und die hinterste Mühle.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/green-unicorn-3bef" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/green-unicorn-3bef){ .md-button .md-button--primary }
 
 
-> Datei: `000329_green-unicorn_2021.md` • #000329 • Slug: `green-unicorn`
+
+> File: `000329_green-unicorn_2021.md` • #000329 • Slug: `green-unicorn`

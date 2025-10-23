@@ -23,12 +23,16 @@ title: "Echo Brighton"
 
 
 ## Details
-- **Distanz (km):** 3,514
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 12.264
-- **Das ist mein Banner Nr.:** 553
-- **Beschreibung:** Führen Sie anlässlich der Echo XM Anomaly in Brighton eine Event-Mission durch.
+- **Distance (km):** 3.51
+
+- **Total missions completed:** 
+- **This is my banner no.:** 553
+
+
+!!! note "Description"
+    Führen Sie anlässlich der Echo XM Anomaly in Brighton eine Event-Mission durch.
 
 
 
-> Datei: `000553_echo-brighton_2023.md` • #000553 • Slug: `echo-brighton`
+
+> File: `000553_echo-brighton_2023.md` • #000553 • Slug: `echo-brighton`

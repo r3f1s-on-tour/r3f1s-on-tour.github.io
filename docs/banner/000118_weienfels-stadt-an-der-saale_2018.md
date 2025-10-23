@@ -23,18 +23,20 @@ title: "Weißenfels Stadt an der Saale"
 
 
 ## Details
-- **Distanz (km):** 4,70
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 2880
-- **Das ist mein Banner Nr.:** 118
-- **Beschreibung:** Herzlich Willkommen zum 18zener Mosaik der Stadt Weißenfels. In jeder Mission erwartet euch am Ende eine Passphrase. Alle Fragen könnt ihr mit Wiki beantworten. Ich wünsche euch viel Spaß!
+- **Distance (km):** 4.70
+
+- **Total missions completed:** 
+- **This is my banner no.:** 118
+
+
+!!! note "Description"
+    Herzlich Willkommen zum 18zener Mosaik der Stadt Weißenfels. In jeder Mission erwartet euch am Ende eine Passphrase. Alle Fragen könnt ihr mit Wiki beantworten. Ich wünsche euch viel Spaß!
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/wei%C3%9Fenfels-stadt-an-der-saale-c456" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/wei%C3%9Fenfels-stadt-an-der-saale-c456){ .md-button .md-button--primary }
 
 
-> Datei: `000118_weienfels-stadt-an-der-saale_2018.md` • #000118 • Slug: `weienfels-stadt-an-der-saale`
+
+> File: `000118_weienfels-stadt-an-der-saale_2018.md` • #000118 • Slug: `weienfels-stadt-an-der-saale`

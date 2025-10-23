@@ -23,18 +23,20 @@ title: "I Love München"
 
 
 ## Details
-- **Distanz (km):** 2,32
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 426
-- **Das ist mein Banner Nr.:** 24
-- **Beschreibung:** I love München.
+- **Distance (km):** 2.32
+
+- **Total missions completed:** 
+- **This is my banner no.:** 24
+
+
+!!! note "Description"
+    I love München.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/m%C3%BCnchen-c9f9" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/m%C3%BCnchen-c9f9){ .md-button .md-button--primary }
 
 
-> Datei: `000024_i-love-mnchen_2016.md` • #000024 • Slug: `i-love-mnchen`
+
+> File: `000024_i-love-mnchen_2016.md` • #000024 • Slug: `i-love-mnchen`

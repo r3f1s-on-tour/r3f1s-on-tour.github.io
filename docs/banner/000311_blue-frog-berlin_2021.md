@@ -23,18 +23,20 @@ title: "blue Frog Berlin"
 
 
 ## Details
-- **Distanz (km):** 10,73
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 7284
-- **Das ist mein Banner Nr.:** 311
-- **Beschreibung:** Hack  all Portals
+- **Distance (km):** 10.73
+
+- **Total missions completed:** 
+- **This is my banner no.:** 311
+
+
+!!! note "Description"
+    Hack  all Portals
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/blue-frog-berlin-e865" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/blue-frog-berlin-e865){ .md-button .md-button--primary }
 
 
-> Datei: `000311_blue-frog-berlin_2021.md` • #000311 • Slug: `blue-frog-berlin`
+
+> File: `000311_blue-frog-berlin_2021.md` • #000311 • Slug: `blue-frog-berlin`

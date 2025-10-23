@@ -23,18 +23,20 @@ title: "Auf den Spuren des Wasabi"
 
 
 ## Details
-- **Distanz (km):** 1,59
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 7260
-- **Das ist mein Banner Nr.:** 310
-- **Beschreibung:** Hier im Kiez liegt die Historie des Wasabiphänomens. In verschiedenen Formen erhältlich, am bekömmlichsten als Milch. Verursacht auch in kleinsten Mengen Tränen.
+- **Distance (km):** 1.59
+
+- **Total missions completed:** 
+- **This is my banner no.:** 310
+
+
+!!! note "Description"
+    Hier im Kiez liegt die Historie des Wasabiphänomens. In verschiedenen Formen erhältlich, am bekömmlichsten als Milch. Verursacht auch in kleinsten Mengen Tränen.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/auf-den-spuren-des-wasabi-0bd1" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/auf-den-spuren-des-wasabi-0bd1){ .md-button .md-button--primary }
 
 
-> Datei: `000310_auf-den-spuren-des-wasabi_2021.md` • #000310 • Slug: `auf-den-spuren-des-wasabi`
+
+> File: `000310_auf-den-spuren-des-wasabi_2021.md` • #000310 • Slug: `auf-den-spuren-des-wasabi`

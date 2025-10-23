@@ -23,18 +23,20 @@ title: "ToastAmp Neubrandenburg"
 ![ToastAmp Neubrandenburg](https://api.bannergress.com/bnrs/pictures/c89ef58e3c7328c4ea37fff8be3a6af2)
 
 ## Details
-- **Distanz (km):** 5,944
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 12.384
-- **Das ist mein Banner Nr.:** 556
-- **Beschreibung:** Help the Toast fight the Illuminati Link-Amp!
+- **Distance (km):** 5.94
+
+- **Total missions completed:** 
+- **This is my banner no.:** 556
+
+
+!!! note "Description"
+    Help the Toast fight the Illuminati Link-Amp!
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/toastamp-neubrandenburg-812a" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/toastamp-neubrandenburg-812a){ .md-button .md-button--primary }
 
 
-> Datei: `000556_toastamp-neubrandenburg_2023.md` • #000556 • Slug: `toastamp-neubrandenburg`
+
+> File: `000556_toastamp-neubrandenburg_2023.md` • #000556 • Slug: `toastamp-neubrandenburg`

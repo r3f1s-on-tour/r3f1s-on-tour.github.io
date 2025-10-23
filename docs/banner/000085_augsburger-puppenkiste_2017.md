@@ -23,18 +23,20 @@ title: "Augsburger Puppenkiste"
 
 
 ## Details
-- **Distanz (km):** 4,39
-- **Missionen im Banner:** 12
-- **Insgesamt abgeschlossene Missionen:** 2208
-- **Das ist mein Banner Nr.:** 85
-- **Beschreibung:** This mosaic is devoted to Augsburger Puppenkiste. It is a well known marionette theater in Augsburg.  It is hack only mosaic without any questions, all missions are  accessible 24/7.
+- **Distance (km):** 4.39
+
+- **Total missions completed:** 
+- **This is my banner no.:** 85
+
+
+!!! note "Description"
+    This mosaic is devoted to Augsburger Puppenkiste. It is a well known marionette theater in Augsburg.  It is hack only mosaic without any questions, all missions are  accessible 24/7.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/augsburger-puppenkiste-1aab" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/augsburger-puppenkiste-1aab){ .md-button .md-button--primary }
 
 
-> Datei: `000085_augsburger-puppenkiste_2017.md` • #000085 • Slug: `augsburger-puppenkiste`
+
+> File: `000085_augsburger-puppenkiste_2017.md` • #000085 • Slug: `augsburger-puppenkiste`

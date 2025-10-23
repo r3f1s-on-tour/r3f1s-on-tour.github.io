@@ -23,18 +23,20 @@ title: "Ohara Koson Birds"
 ![Ohara Koson Birds](https://api.bannergress.com/bnrs/pictures/eefcf85b5670a1729b3d511685c6789e)
 
 ## Details
-- **Distanz (km):** 5,756
-- **Missionen im Banner:** 96
-- **Insgesamt abgeschlossene Missionen:** 12.360
-- **Das ist mein Banner Nr.:** 554
-- **Beschreibung:** Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Neubrandenburg. Starte am Bahnhof deine Runde
+- **Distance (km):** 5.76
+
+- **Total missions completed:** 
+- **This is my banner no.:** 554
+
+
+!!! note "Description"
+    Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Neubrandenburg. Starte am Bahnhof deine Runde
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/second-sunday-bird-in-neubrandenburg-fff5" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/second-sunday-bird-in-neubrandenburg-fff5){ .md-button .md-button--primary }
 
 
-> Datei: `000554_ohara-koson-birds_2023.md` • #000554 • Slug: `ohara-koson-birds`
+
+> File: `000554_ohara-koson-birds_2023.md` • #000554 • Slug: `ohara-koson-birds`

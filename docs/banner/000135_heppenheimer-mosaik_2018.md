@@ -23,19 +23,21 @@ title: "Heppenheimer Mosaik"
 
 
 ## Details
-- **Distanz (km):** 3,37
-- **Missionen im Banner:** 12
-- **Insgesamt abgeschlossene Missionen:** 3264
-- **Das ist mein Banner Nr.:** 135
-- **Beschreibung:** Gemütliche Hackerrunde durch Heppenheim. Startet am Graben (wo man auch parken kann). 
+- **Distance (km):** 3.37
+
+- **Total missions completed:** 
+- **This is my banner no.:** 135
+
+
+!!! note "Description"
+    Gemütliche Hackerrunde durch Heppenheim. Startet am Graben (wo man auch parken kann). 
 Wenn die Missionen in richtiger Reihenfolge durchgeführt werden fügt sich ein Bild von Heppenheim zusammen.
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/heppenheimer-mosaik-9793" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/heppenheimer-mosaik-9793){ .md-button .md-button--primary }
 
 
-> Datei: `000135_heppenheimer-mosaik_2018.md` • #000135 • Slug: `heppenheimer-mosaik`
+
+> File: `000135_heppenheimer-mosaik_2018.md` • #000135 • Slug: `heppenheimer-mosaik`

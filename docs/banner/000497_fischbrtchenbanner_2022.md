@@ -23,20 +23,22 @@ title: "Fischbrötchenbanner"
 ![Fischbrötchenbanner](https://api.bannergress.com/bnrs/pictures/7e92cd5ee56259c40f1cd19da7e0adb5)
 
 ## Details
-- **Distanz (km):** 3,235
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 10.608
-- **Das ist mein Banner Nr.:** 497
-- **Beschreibung:** Schnapp dir ein Fischbrötchen deiner Wahl.
+- **Distance (km):** 3.23
+
+- **Total missions completed:** 
+- **This is my banner no.:** 497
+
+
+!!! note "Description"
+    Schnapp dir ein Fischbrötchen deiner Wahl.
 Köln erstes Fischbrötchenbanner startet bei Fisch Hembsch, einem Familienbetrieb mit über 120 Jahren Tradition. Immer geradeaus gelangst du am Eigelstein zum Reefhouse. Ein sehr gutes Fischrestaurant welches auch Fischbrötchen und Backfisch anbietet.
 Am Ende des Banners liegt das Pescado. Hier gibt es die Luxusvariante des Fischbrötchen. Absolut empfehlenswert!
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/fischbr%C3%B6tchenbanner-09da" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/fischbr%C3%B6tchenbanner-09da){ .md-button .md-button--primary }
 
 
-> Datei: `000497_fischbrtchenbanner_2022.md` • #000497 • Slug: `fischbrtchenbanner`
+
+> File: `000497_fischbrtchenbanner_2022.md` • #000497 • Slug: `fischbrtchenbanner`

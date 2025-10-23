@@ -23,18 +23,20 @@ title: "Victory of Joker"
 ![Victory of Joker](https://api.bannergress.com/bnrs/pictures/944f3a74ebc07fb46703491c0a54556a)
 
 ## Details
-- **Distanz (km):** 6,081
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 10.860
-- **Das ist mein Banner Nr.:** 509
-- **Beschreibung:** Capture die Innenstadt von Wuppertal/Elberfeld. Am besten bringst du viele burster mit und ein wenig zeit. Die Mission wird dich durch Elberfeld zum Luisenviertel führen. viel Spaß -D
+- **Distance (km):** 6.08
+
+- **Total missions completed:** 
+- **This is my banner no.:** 509
+
+
+!!! note "Description"
+    Capture die Innenstadt von Wuppertal/Elberfeld. Am besten bringst du viele burster mit und ein wenig zeit. Die Mission wird dich durch Elberfeld zum Luisenviertel führen. viel Spaß -D
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/victory-of-joker-bbb4" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/victory-of-joker-bbb4){ .md-button .md-button--primary }
 
 
-> Datei: `000509_victory-of-joker_2022.md` • #000509 • Slug: `victory-of-joker`
+
+> File: `000509_victory-of-joker_2022.md` • #000509 • Slug: `victory-of-joker`

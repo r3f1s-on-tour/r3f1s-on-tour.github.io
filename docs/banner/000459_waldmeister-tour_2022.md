@@ -23,18 +23,20 @@ title: "Waldmeister Tour"
 ![Waldmeister Tour](https://api.bannergress.com/bnrs/pictures/8df256dc83d0bc302f8362fdb199de09)
 
 ## Details
-- **Distanz (km):** 10,25
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 9.510
-- **Das ist mein Banner Nr.:** 459
-- **Beschreibung:** Starte eine Waldmeister Tour im Mauerpark und mache eine Entdeckungsreise durch das Gleimviertel und PBerg entdecke auf deinen Weg u.a den Friedrich Jahn Sportpark.
+- **Distance (km):** 10.25
+
+- **Total missions completed:** 
+- **This is my banner no.:** 459
+
+
+!!! note "Description"
+    Starte eine Waldmeister Tour im Mauerpark und mache eine Entdeckungsreise durch das Gleimviertel und PBerg entdecke auf deinen Weg u.a den Friedrich Jahn Sportpark.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/waldmeister-tour-be43" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/waldmeister-tour-be43){ .md-button .md-button--primary }
 
 
-> Datei: `000459_waldmeister-tour_2022.md` • #000459 • Slug: `waldmeister-tour`
+
+> File: `000459_waldmeister-tour_2022.md` • #000459 • Slug: `waldmeister-tour`

@@ -23,18 +23,20 @@ title: "HP Banner Mission"
 
 
 ## Details
-- **Distanz (km):** 2,82
-- **Missionen im Banner:** 12
-- **Insgesamt abgeschlossene Missionen:** 3252
-- **Das ist mein Banner Nr.:** 134
-- **Beschreibung:** Schön gemütliche Tour durch die Heppenheimer Fußgängerzone und Altstadt. Bei richtiger Reihenfolge ergibt sich ein Bild von Marco Mayer. Start und Ende nah am Graben, wo auch geparkt werden kann.
+- **Distance (km):** 2.82
+
+- **Total missions completed:** 
+- **This is my banner no.:** 134
+
+
+!!! note "Description"
+    Schön gemütliche Tour durch die Heppenheimer Fußgängerzone und Altstadt. Bei richtiger Reihenfolge ergibt sich ein Bild von Marco Mayer. Start und Ende nah am Graben, wo auch geparkt werden kann.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/hp-banner-mission-0f33" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/hp-banner-mission-0f33){ .md-button .md-button--primary }
 
 
-> Datei: `000134_hp-banner-mission_2018.md` • #000134 • Slug: `hp-banner-mission`
+
+> File: `000134_hp-banner-mission_2018.md` • #000134 • Slug: `hp-banner-mission`

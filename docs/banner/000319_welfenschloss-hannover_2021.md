@@ -23,18 +23,20 @@ title: "Welfenschloss Hannover"
 
 
 ## Details
-- **Distanz (km):** 6,77
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 7410
-- **Das ist mein Banner Nr.:** 319
-- **Beschreibung:** Das Welfenschloss ist ein ehemaliges Schloss in Hannover im Stadtteil Nordstadt, das seit 1879 Sitz der Universität Hannover ist.
+- **Distance (km):** 6.77
+
+- **Total missions completed:** 
+- **This is my banner no.:** 319
+
+
+!!! note "Description"
+    Das Welfenschloss ist ein ehemaliges Schloss in Hannover im Stadtteil Nordstadt, das seit 1879 Sitz der Universität Hannover ist.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/welfenschloss-hannover-2957" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/welfenschloss-hannover-2957){ .md-button .md-button--primary }
 
 
-> Datei: `000319_welfenschloss-hannover_2021.md` • #000319 • Slug: `welfenschloss-hannover`
+
+> File: `000319_welfenschloss-hannover_2021.md` • #000319 • Slug: `welfenschloss-hannover`

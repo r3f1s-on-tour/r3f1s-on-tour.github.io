@@ -23,18 +23,20 @@ title: "Sonne und Mond Tour"
 
 
 ## Details
-- **Distanz (km):** 8,89
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 8298
-- **Das ist mein Banner Nr.:** 383
-- **Beschreibung:** Starte am Zeiss-Großplanetarium eine Entdeckungsrunde nach Weissensee
+- **Distance (km):** 8.89
+
+- **Total missions completed:** 
+- **This is my banner no.:** 383
+
+
+!!! note "Description"
+    Starte am Zeiss-Großplanetarium eine Entdeckungsrunde nach Weissensee
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/sonne-und-mond-tour-786b" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/sonne-und-mond-tour-786b){ .md-button .md-button--primary }
 
 
-> Datei: `000383_sonne-und-mond-tour_2022.md` • #000383 • Slug: `sonne-und-mond-tour`
+
+> File: `000383_sonne-und-mond-tour_2022.md` • #000383 • Slug: `sonne-und-mond-tour`

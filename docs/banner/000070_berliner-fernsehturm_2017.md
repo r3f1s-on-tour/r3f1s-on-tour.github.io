@@ -23,20 +23,22 @@ title: "Berliner Fernsehturm"
 ![Berliner Fernsehturm](https://api.bannergress.com/bnrs/pictures/31b08225ae72b1f2f2cc3a10d7491b92)
 
 ## Details
-- **Distanz (km):** 139,56
-- **Missionen im Banner:** 372
-- **Insgesamt abgeschlossene Missionen:** 1986
-- **Das ist mein Banner Nr.:** 70
-- **Beschreibung:** NUR NOCH BIS ZUM 31.12.2021 SPIELBAR!
+- **Distance (km):** 139.56
+
+- **Total missions completed:** 
+- **This is my banner no.:** 70
+
+
+!!! note "Description"
+    NUR NOCH BIS ZUM 31.12.2021 SPIELBAR!
 
 Zur Umgehung des nicht öffentlich begehbaren Charitè-Geländes sind die Missionen Berliner Fernsehturm (altern.) 035 bis Berliner Fernsehturm (altern.) 040 online. Die Änderung der Route beginnt bereits am Hauptbahnhof, um die benötigte Portalanzahl zu erreichen. Ab Mission 41 ist die Originalroute spielbar. https-//bannergress.com/banner/berliner-fernsehturm-altern-bee8
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/berliner-fernsehturm-d601" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/berliner-fernsehturm-d601){ .md-button .md-button--primary }
 
 
-> Datei: `000070_berliner-fernsehturm_2017.md` • #000070 • Slug: `berliner-fernsehturm`
+
+> File: `000070_berliner-fernsehturm_2017.md` • #000070 • Slug: `berliner-fernsehturm`

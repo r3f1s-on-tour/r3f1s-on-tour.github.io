@@ -24,11 +24,12 @@ title: "Augsburg im Februar"
 
 ## Details
 
-- **Missionen im Banner:** 30
-- **Insgesamt abgeschlossene Missionen:** 3054
-- **Das ist mein Banner Nr.:** 124
+
+- **Total missions completed:** 
+- **This is my banner no.:** 124
 
 
 
 
-> Datei: `000124_augsburg-im-februar_2018.md` • #000124 • Slug: `augsburg-im-februar`
+
+> File: `000124_augsburg-im-februar_2018.md` • #000124 • Slug: `augsburg-im-februar`

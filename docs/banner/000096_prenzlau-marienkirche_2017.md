@@ -23,18 +23,20 @@ title: "Prenzlau Marienkirche"
 
 
 ## Details
-- **Distanz (km):** 4,94
-- **Missionen im Banner:** 12
-- **Insgesamt abgeschlossene Missionen:** 2466
-- **Das ist mein Banner Nr.:** 96
-- **Beschreibung:** Eine kleine Stadterkundung durch das Zentrum von Prenzlau.
+- **Distance (km):** 4.94
+
+- **Total missions completed:** 
+- **This is my banner no.:** 96
+
+
+!!! note "Description"
+    Eine kleine Stadterkundung durch das Zentrum von Prenzlau.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/prenzlau-marienkirche-c1d5" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/prenzlau-marienkirche-c1d5){ .md-button .md-button--primary }
 
 
-> Datei: `000096_prenzlau-marienkirche_2017.md` • #000096 • Slug: `prenzlau-marienkirche`
+
+> File: `000096_prenzlau-marienkirche_2017.md` • #000096 • Slug: `prenzlau-marienkirche`

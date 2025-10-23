@@ -23,18 +23,20 @@ title: "Clear your mind -Valencia"
 ![Clear your mind -Valencia](https://api.bannergress.com/bnrs/pictures/60b33693a25a907d8635e803d0a96741)
 
 ## Details
-- **Distanz (km):** 1,319
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 13.122
-- **Das ist mein Banner Nr.:** 595
-- **Beschreibung:** Agradable paseo por las calles de Valencia
+- **Distance (km):** 1.32
+
+- **Total missions completed:** 
+- **This is my banner no.:** 595
+
+
+!!! note "Description"
+    Agradable paseo por las calles de Valencia
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/clear-your-mind-valencia-6de4" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/clear-your-mind-valencia-6de4){ .md-button .md-button--primary }
 
 
-> Datei: `000595_clear-your-mind-valencia_2024.md` • #000595 • Slug: `clear-your-mind-valencia`
+
+> File: `000595_clear-your-mind-valencia_2024.md` • #000595 • Slug: `clear-your-mind-valencia`

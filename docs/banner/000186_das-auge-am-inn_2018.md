@@ -23,18 +23,20 @@ title: "Das Auge am Inn"
 
 
 ## Details
-- **Distanz (km):** 4,83
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 4428
-- **Das ist mein Banner Nr.:** 186
-- **Beschreibung:** Erkunde die Rosenheimer Portale am Inn
+- **Distance (km):** 4.83
+
+- **Total missions completed:** 
+- **This is my banner no.:** 186
+
+
+!!! note "Description"
+    Erkunde die Rosenheimer Portale am Inn
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/das-auge-am-inn-a19d" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/das-auge-am-inn-a19d){ .md-button .md-button--primary }
 
 
-> Datei: `000186_das-auge-am-inn_2018.md` • #000186 • Slug: `das-auge-am-inn`
+
+> File: `000186_das-auge-am-inn_2018.md` • #000186 • Slug: `das-auge-am-inn`

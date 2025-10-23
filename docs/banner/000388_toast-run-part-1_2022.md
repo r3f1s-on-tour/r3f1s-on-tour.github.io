@@ -23,13 +23,17 @@ title: "Toast Run Part 1"
 
 
 ## Details
-- **Distanz (km):** 6,88
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 8.352
-- **Das ist mein Banner Nr.:** 388
-- **Beschreibung:** Gehe in Oranienburg auf eine Entdeckungsrunde und starte deine Runde in der Bernauer Straße.
+- **Distance (km):** 6.88
+
+- **Total missions completed:** 
+- **This is my banner no.:** 388
+
+
+!!! note "Description"
+    Gehe in Oranienburg auf eine Entdeckungsrunde und starte deine Runde in der Bernauer Straße.
 Die Runde führt dich unter anderem an der Havel und dem Schloss entlang.
 
 
 
-> Datei: `000388_toast-run-part-1_2022.md` • #000388 • Slug: `toast-run-part-1`
+
+> File: `000388_toast-run-part-1_2022.md` • #000388 • Slug: `toast-run-part-1`

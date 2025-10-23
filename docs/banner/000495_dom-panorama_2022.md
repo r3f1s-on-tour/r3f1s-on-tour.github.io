@@ -23,18 +23,20 @@ title: "Dom-Panorama"
 ![Dom-Panorama](https://api.bannergress.com/bnrs/pictures/da5038c064c41416c54e3fde7d3042a6)
 
 ## Details
-- **Distanz (km):** 6,941
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 10.590
-- **Das ist mein Banner Nr.:** 495
-- **Beschreibung:** Diese Mission führt an der Nordseite des Doms vorbei. Alle 24 Missionen ergeben ein Panoramabild von Dom und Hohenzollernbrücke.
+- **Distance (km):** 6.94
+
+- **Total missions completed:** 
+- **This is my banner no.:** 495
+
+
+!!! note "Description"
+    Diese Mission führt an der Nordseite des Doms vorbei. Alle 24 Missionen ergeben ein Panoramabild von Dom und Hohenzollernbrücke.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/dom-panorama-06e2" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/dom-panorama-06e2){ .md-button .md-button--primary }
 
 
-> Datei: `000495_dom-panorama_2022.md` • #000495 • Slug: `dom-panorama`
+
+> File: `000495_dom-panorama_2022.md` • #000495 • Slug: `dom-panorama`

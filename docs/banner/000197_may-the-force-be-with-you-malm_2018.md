@@ -23,20 +23,22 @@ title: "May the force be with you Malmö"
 
 
 ## Details
-- **Distanz (km):** 1,91
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 4650
-- **Das ist mein Banner Nr.:** 197
-- **Beschreibung:** Quick banner mission in order to bring out the force in central parts of Malmö.
+- **Distance (km):** 1.91
+
+- **Total missions completed:** 
+- **This is my banner no.:** 197
+
+
+!!! note "Description"
+    Quick banner mission in order to bring out the force in central parts of Malmö.
 
 All portals available 24/7.
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/may-the-force-be-with-you-malm%C3%B6-abe8" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/may-the-force-be-with-you-malm%C3%B6-abe8){ .md-button .md-button--primary }
 
 
-> Datei: `000197_may-the-force-be-with-you-malm_2018.md` • #000197 • Slug: `may-the-force-be-with-you-malm`
+
+> File: `000197_may-the-force-be-with-you-malm_2018.md` • #000197 • Slug: `may-the-force-be-with-you-malm`

@@ -23,18 +23,20 @@ title: "Göttingen Skyline"
 
 
 ## Details
-- **Distanz (km):** 2,59
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 7458
-- **Das ist mein Banner Nr.:** 322
-- **Beschreibung:** kleiner walk durch die Stadt vom Liesel bis zum Rathaus. Teil 1 führt dich zur Johanniskirche
+- **Distance (km):** 2.59
+
+- **Total missions completed:** 
+- **This is my banner no.:** 322
+
+
+!!! note "Description"
+    kleiner walk durch die Stadt vom Liesel bis zum Rathaus. Teil 1 führt dich zur Johanniskirche
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/g%C3%B6ttingen-skyline-72aa" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/g%C3%B6ttingen-skyline-72aa){ .md-button .md-button--primary }
 
 
-> Datei: `000322_gttingen-skyline_2021.md` • #000322 • Slug: `gttingen-skyline`
+
+> File: `000322_gttingen-skyline_2021.md` • #000322 • Slug: `gttingen-skyline`

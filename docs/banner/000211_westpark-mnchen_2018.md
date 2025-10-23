@@ -23,18 +23,20 @@ title: "Westpark München"
 
 
 ## Details
-- **Distanz (km):** 8,73
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 5136
-- **Das ist mein Banner Nr.:** 211
-- **Beschreibung:** Spaziergang durch den Westpark. Start ist an der U-Bahnstation Holzapfelkreuth, sie endet am Harras
+- **Distance (km):** 8.73
+
+- **Total missions completed:** 
+- **This is my banner no.:** 211
+
+
+!!! note "Description"
+    Spaziergang durch den Westpark. Start ist an der U-Bahnstation Holzapfelkreuth, sie endet am Harras
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/westpark-m%C3%BCnchen-bf4a" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/westpark-m%C3%BCnchen-bf4a){ .md-button .md-button--primary }
 
 
-> Datei: `000211_westpark-mnchen_2018.md` • #000211 • Slug: `westpark-mnchen`
+
+> File: `000211_westpark-mnchen_2018.md` • #000211 • Slug: `westpark-mnchen`

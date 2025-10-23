@@ -23,18 +23,20 @@ title: "Spooky Green Second Sunday in Oranienburg"
 ![Spooky Green Second Sunday in Oranienburg](https://api.bannergress.com/bnrs/pictures/c1ef445c8b0500080461fd3e9f2fa09d)
 
 ## Details
-- **Distanz (km):** 1,599
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 10.404
-- **Das ist mein Banner Nr.:** 478
-- **Beschreibung:** Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
+- **Distance (km):** 1.60
+
+- **Total missions completed:** 
+- **This is my banner no.:** 478
+
+
+!!! note "Description"
+    Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/spooky-green-second-sunday-in-oranienburg-9faa" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/spooky-green-second-sunday-in-oranienburg-9faa){ .md-button .md-button--primary }
 
 
-> Datei: `000478_spooky-green-second-sunday-in-oranienburg_2022.md` • #000478 • Slug: `spooky-green-second-sunday-in-oranienburg`
+
+> File: `000478_spooky-green-second-sunday-in-oranienburg_2022.md` • #000478 • Slug: `spooky-green-second-sunday-in-oranienburg`

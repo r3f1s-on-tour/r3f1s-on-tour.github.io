@@ -23,18 +23,20 @@ title: "Antiquarium München"
 ![Antiquarium München](https://api.bannergress.com/bnrs/pictures/84f766e615e30748b7ad56ec92a8e957)
 
 ## Details
-- **Distanz (km):** 8,23
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 930
-- **Das ist mein Banner Nr.:** 42
-- **Beschreibung:** Das Antiquarium wurde ab 1568 zur Aufnahme der herzoglichen Antikensammlung und Bibliothek als Erweiterung der Münchner Residenz errichtet und wenig später zu einem Festsaal umgestaltet.
+- **Distance (km):** 8.23
+
+- **Total missions completed:** 
+- **This is my banner no.:** 42
+
+
+!!! note "Description"
+    Das Antiquarium wurde ab 1568 zur Aufnahme der herzoglichen Antikensammlung und Bibliothek als Erweiterung der Münchner Residenz errichtet und wenig später zu einem Festsaal umgestaltet.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/antiquarium-m%C3%BCnchen-f327" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/antiquarium-m%C3%BCnchen-f327){ .md-button .md-button--primary }
 
 
-> Datei: `000042_antiquarium-mnchen_2016.md` • #000042 • Slug: `antiquarium-mnchen`
+
+> File: `000042_antiquarium-mnchen_2016.md` • #000042 • Slug: `antiquarium-mnchen`

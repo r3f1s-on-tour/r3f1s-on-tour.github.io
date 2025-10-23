@@ -23,18 +23,20 @@ title: "#FS Rubik Cube"
 ![#FS Rubik Cube](https://api.bannergress.com/bnrs/pictures/58e35104a29b981b51012f9c4d015604)
 
 ## Details
-- **Distanz (km):** 1,828
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 13.014
-- **Das ist mein Banner Nr.:** 586
-- **Beschreibung:** Can you solve this riddle at the FS in Dresden?
+- **Distance (km):** 1.83
+
+- **Total missions completed:** 
+- **This is my banner no.:** 586
+
+
+!!! note "Description"
+    Can you solve this riddle at the FS in Dresden?
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/fs-rubik-cube-5915" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/fs-rubik-cube-5915){ .md-button .md-button--primary }
 
 
-> Datei: `000586_fs-rubik-cube_2023.md` • #000586 • Slug: `fs-rubik-cube`
+
+> File: `000586_fs-rubik-cube_2023.md` • #000586 • Slug: `fs-rubik-cube`

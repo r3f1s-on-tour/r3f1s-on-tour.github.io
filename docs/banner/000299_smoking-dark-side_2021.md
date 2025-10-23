@@ -23,19 +23,21 @@ title: "Smoking Dark Side"
 
 
 ## Details
-- **Distanz (km):** 7,26
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 6978
-- **Das ist mein Banner Nr.:** 299
-- **Beschreibung:** Starte einen Spaziergang durch den Kollwitzkiez und dem Winsviertel
+- **Distance (km):** 7.26
+
+- **Total missions completed:** 
+- **This is my banner no.:** 299
+
+
+!!! note "Description"
+    Starte einen Spaziergang durch den Kollwitzkiez und dem Winsviertel
 Start ist U-Bahn Eberswalder Straße und endet bei der Tram Prenzlauer Allee / Ecke Knaackstraße
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/smoking-dark-side-28f4" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/smoking-dark-side-28f4){ .md-button .md-button--primary }
 
 
-> Datei: `000299_smoking-dark-side_2021.md` • #000299 • Slug: `smoking-dark-side`
+
+> File: `000299_smoking-dark-side_2021.md` • #000299 • Slug: `smoking-dark-side`

@@ -23,12 +23,16 @@ title: "3 Schwerter Stil in Oranienburg"
 
 
 ## Details
-- **Distanz (km):** 6,05
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 7824
-- **Das ist mein Banner Nr.:** 348
-- **Beschreibung:** Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße und am Ende erwartet dich der 3 Schwerter Stil
+- **Distance (km):** 6.05
+
+- **Total missions completed:** 
+- **This is my banner no.:** 348
+
+
+!!! note "Description"
+    Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße und am Ende erwartet dich der 3 Schwerter Stil
 
 
 
-> Datei: `000348_3-schwerter-stil-in-oranienburg_2021.md` • #000348 • Slug: `3-schwerter-stil-in-oranienburg`
+
+> File: `000348_3-schwerter-stil-in-oranienburg_2021.md` • #000348 • Slug: `3-schwerter-stil-in-oranienburg`

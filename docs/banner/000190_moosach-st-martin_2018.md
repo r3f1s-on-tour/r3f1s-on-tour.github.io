@@ -23,18 +23,20 @@ title: "Moosach St. Martin"
 
 
 ## Details
-- **Distanz (km):** 26,62
-- **Missionen im Banner:** 36
-- **Insgesamt abgeschlossene Missionen:** 4506
-- **Das ist mein Banner Nr.:** 190
-- **Beschreibung:** Die Alte Pfarrkirche St. Martin im Münchner Stadtteil Moosach
+- **Distance (km):** 26.62
+
+- **Total missions completed:** 
+- **This is my banner no.:** 190
+
+
+!!! note "Description"
+    Die Alte Pfarrkirche St. Martin im Münchner Stadtteil Moosach
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/moosach-st-martin-8710" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/moosach-st-martin-8710){ .md-button .md-button--primary }
 
 
-> Datei: `000190_moosach-st-martin_2018.md` • #000190 • Slug: `moosach-st-martin`
+
+> File: `000190_moosach-st-martin_2018.md` • #000190 • Slug: `moosach-st-martin`

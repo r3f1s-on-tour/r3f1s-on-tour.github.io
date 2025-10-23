@@ -23,18 +23,20 @@ title: "Sternbilder"
 
 
 ## Details
-- **Distanz (km):** 3,47
-- **Missionen im Banner:** 12
-- **Insgesamt abgeschlossene Missionen:** 8220
-- **Das ist mein Banner Nr.:** 377
-- **Beschreibung:** Besucht die Stadt am Strelasund. Als Belohnung erwarten euch die 12 Sternzeichen als Sternbild am Himmel.
+- **Distance (km):** 3.47
+
+- **Total missions completed:** 
+- **This is my banner no.:** 377
+
+
+!!! note "Description"
+    Besucht die Stadt am Strelasund. Als Belohnung erwarten euch die 12 Sternzeichen als Sternbild am Himmel.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/sternbilder-1139" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/sternbilder-1139){ .md-button .md-button--primary }
 
 
-> Datei: `000377_sternbilder_2021.md` • #000377 • Slug: `sternbilder`
+
+> File: `000377_sternbilder_2021.md` • #000377 • Slug: `sternbilder`

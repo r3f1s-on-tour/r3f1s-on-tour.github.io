@@ -24,11 +24,12 @@ title: "Whaleomaly is Coming [Berg am Laim]"
 
 ## Details
 
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 4188
-- **Das ist mein Banner Nr.:** 175
+
+- **Total missions completed:** 
+- **This is my banner no.:** 175
 
 
 
 
-> Datei: `000175_whaleomaly-is-coming-berg-am-laim_2018.md` • #000175 • Slug: `whaleomaly-is-coming-berg-am-laim`
+
+> File: `000175_whaleomaly-is-coming-berg-am-laim_2018.md` • #000175 • Slug: `whaleomaly-is-coming-berg-am-laim`

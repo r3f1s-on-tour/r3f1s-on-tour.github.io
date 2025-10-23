@@ -23,18 +23,20 @@ title: "Skyline Oranienburg"
 
 
 ## Details
-- **Distanz (km):** 2,88
-- **Missionen im Banner:** 12
-- **Insgesamt abgeschlossene Missionen:** 9.126
-- **Das ist mein Banner Nr.:** 438
-- **Beschreibung:** Nimm Dir Zeit auf Deiner Reise durch Oranienburg. Die Tour beginnt in der Bernauer Straße und dauert ca. 2 Stunden. Entdecke historische Sehenswürdigkeiten und tolle Monumente der Moderne.
+- **Distance (km):** 2.88
+
+- **Total missions completed:** 
+- **This is my banner no.:** 438
+
+
+!!! note "Description"
+    Nimm Dir Zeit auf Deiner Reise durch Oranienburg. Die Tour beginnt in der Bernauer Straße und dauert ca. 2 Stunden. Entdecke historische Sehenswürdigkeiten und tolle Monumente der Moderne.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/skyline-oranienburg-a993" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/skyline-oranienburg-a993){ .md-button .md-button--primary }
 
 
-> Datei: `000438_skyline-oranienburg_2022.md` • #000438 • Slug: `skyline-oranienburg`
+
+> File: `000438_skyline-oranienburg_2022.md` • #000438 • Slug: `skyline-oranienburg`

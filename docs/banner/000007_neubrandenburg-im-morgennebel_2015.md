@@ -23,19 +23,21 @@ title: "Neubrandenburg im Morgennebel"
 ![Neubrandenburg im Morgennebel](https://lh3.googleusercontent.com/pw/AP1GczPmbMPXUHyfnJM74wDoKNARFhcH8rcOCVLiwk10EYMnl6itxdJA1oIBNnGonL4H371Z-rKih91YQRpWP5wPazUuMhtvMwGHfezZNga2B-I9z_ss4vE3fS7RmUm73URrNaVfKuWtpL61vPrOwNRbdZQBbw)
 
 ## Details
-- **Distanz (km):** 35,29
-- **Missionen im Banner:** 30
-- **Insgesamt abgeschlossene Missionen:** 174
-- **Das ist mein Banner Nr.:** 7
-- **Beschreibung:** Neubrandenburg - die Stadt der 4 Tore in 36 Teilen.
+- **Distance (km):** 35.29
+
+- **Total missions completed:** 
+- **This is my banner no.:** 7
+
+
+!!! note "Description"
+    Neubrandenburg - die Stadt der 4 Tore in 36 Teilen.
 Schon Caspar David Friedrich erkannte 1816 die Schönheit der Stadt.
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/neubrandenburg-im-morgennebel-f2f5" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/neubrandenburg-im-morgennebel-f2f5){ .md-button .md-button--primary }
 
 
-> Datei: `000007_neubrandenburg-im-morgennebel_2015.md` • #000007 • Slug: `neubrandenburg-im-morgennebel`
+
+> File: `000007_neubrandenburg-im-morgennebel_2015.md` • #000007 • Slug: `neubrandenburg-im-morgennebel`

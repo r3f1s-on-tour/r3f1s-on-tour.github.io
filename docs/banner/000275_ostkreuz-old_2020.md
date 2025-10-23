@@ -23,18 +23,20 @@ title: "Ostkreuz Old"
 
 
 ## Details
-- **Distanz (km):** 6,47
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 6450
-- **Das ist mein Banner Nr.:** 275
-- **Beschreibung:** erkunde die Gegend um das Ostkreuz
+- **Distance (km):** 6.47
+
+- **Total missions completed:** 
+- **This is my banner no.:** 275
+
+
+!!! note "Description"
+    erkunde die Gegend um das Ostkreuz
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/ostkreuz-old-7b0b" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/ostkreuz-old-7b0b){ .md-button .md-button--primary }
 
 
-> Datei: `000275_ostkreuz-old_2020.md` • #000275 • Slug: `ostkreuz-old`
+
+> File: `000275_ostkreuz-old_2020.md` • #000275 • Slug: `ostkreuz-old`

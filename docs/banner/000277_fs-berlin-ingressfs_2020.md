@@ -23,18 +23,20 @@ title: "FS Berlin #IngressFS"
 
 
 ## Details
-- **Distanz (km):** 1,66
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 6462
-- **Das ist mein Banner Nr.:** 277
-- **Beschreibung:** Kurze Missionsreihe zum Berliner First Saturday. Bekannte Berliner Motive zusammengefasst zu einem schönen Kiezspaziergang.
+- **Distance (km):** 1.66
+
+- **Total missions completed:** 
+- **This is my banner no.:** 277
+
+
+!!! note "Description"
+    Kurze Missionsreihe zum Berliner First Saturday. Bekannte Berliner Motive zusammengefasst zu einem schönen Kiezspaziergang.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/fs-berlin-ingressfs-e919" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/fs-berlin-ingressfs-e919){ .md-button .md-button--primary }
 
 
-> Datei: `000277_fs-berlin-ingressfs_2020.md` • #000277 • Slug: `fs-berlin-ingressfs`
+
+> File: `000277_fs-berlin-ingressfs_2020.md` • #000277 • Slug: `fs-berlin-ingressfs`

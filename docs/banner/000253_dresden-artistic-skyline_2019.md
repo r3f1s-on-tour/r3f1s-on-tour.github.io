@@ -23,18 +23,20 @@ title: "Dresden Artistic Skyline"
 
 
 ## Details
-- **Distanz (km):** 4,86
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 6108
-- **Das ist mein Banner Nr.:** 253
-- **Beschreibung:** Visit the historic city center of Dresden and create a beautiful artistic Skyline Banner.
+- **Distance (km):** 4.86
+
+- **Total missions completed:** 
+- **This is my banner no.:** 253
+
+
+!!! note "Description"
+    Visit the historic city center of Dresden and create a beautiful artistic Skyline Banner.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/dresden-artistic-skyline-b160" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/dresden-artistic-skyline-b160){ .md-button .md-button--primary }
 
 
-> Datei: `000253_dresden-artistic-skyline_2019.md` • #000253 • Slug: `dresden-artistic-skyline`
+
+> File: `000253_dresden-artistic-skyline_2019.md` • #000253 • Slug: `dresden-artistic-skyline`

@@ -23,12 +23,16 @@ title: "Samurai Crest Adventure Tour"
 
 
 ## Details
-- **Distanz (km):** 277,36
-- **Missionen im Banner:** 642
-- **Insgesamt abgeschlossene Missionen:** 10.200
-- **Das ist mein Banner Nr.:** 463
-- **Beschreibung:** Starte deine Samurai Crests Adeventure Tour in der Stadt Strasburg Uckermark und entdecke auf deiner Runde historische Gebäude und Sehenswürdigkeiten. Die Runde endet am
+- **Distance (km):** 277.36
+
+- **Total missions completed:** 
+- **This is my banner no.:** 463
+
+
+!!! note "Description"
+    Starte deine Samurai Crests Adeventure Tour in der Stadt Strasburg Uckermark und entdecke auf deiner Runde historische Gebäude und Sehenswürdigkeiten. Die Runde endet am
 
 
 
-> Datei: `000463_samurai-crest-adventure-tour_2022.md` • #000463 • Slug: `samurai-crest-adventure-tour`
+
+> File: `000463_samurai-crest-adventure-tour_2022.md` • #000463 • Slug: `samurai-crest-adventure-tour`

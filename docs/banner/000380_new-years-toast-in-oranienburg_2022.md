@@ -23,12 +23,16 @@ title: "New Years Toast in Oranienburg"
 
 
 ## Details
-- **Distanz (km):** 1,68
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 8262
-- **Das ist mein Banner Nr.:** 380
-- **Beschreibung:** Mache eine kleine Tour durch Oranienburg und hole dir die Toasts ins Profil
+- **Distance (km):** 1.68
+
+- **Total missions completed:** 
+- **This is my banner no.:** 380
+
+
+!!! note "Description"
+    Mache eine kleine Tour durch Oranienburg und hole dir die Toasts ins Profil
 
 
 
-> Datei: `000380_new-years-toast-in-oranienburg_2022.md` • #000380 • Slug: `new-years-toast-in-oranienburg`
+
+> File: `000380_new-years-toast-in-oranienburg_2022.md` • #000380 • Slug: `new-years-toast-in-oranienburg`

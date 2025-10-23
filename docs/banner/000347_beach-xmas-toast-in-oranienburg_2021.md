@@ -23,12 +23,16 @@ title: "Beach XMas Toast in Oranienburg"
 
 
 ## Details
-- **Distanz (km):** 1,64
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 7806
-- **Das ist mein Banner Nr.:** 347
-- **Beschreibung:** Mache eine kleine Tour durch Oranienburg und hole dir die XMas Toast ins PRofil
+- **Distance (km):** 1.64
+
+- **Total missions completed:** 
+- **This is my banner no.:** 347
+
+
+!!! note "Description"
+    Mache eine kleine Tour durch Oranienburg und hole dir die XMas Toast ins PRofil
 
 
 
-> Datei: `000347_beach-xmas-toast-in-oranienburg_2021.md` • #000347 • Slug: `beach-xmas-toast-in-oranienburg`
+
+> File: `000347_beach-xmas-toast-in-oranienburg_2021.md` • #000347 • Slug: `beach-xmas-toast-in-oranienburg`

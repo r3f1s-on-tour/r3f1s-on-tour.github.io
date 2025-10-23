@@ -23,18 +23,20 @@ title: "Cassandra Mission Day Linz 2018"
 
 
 ## Details
-- **Distanz (km):** 21,33
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 4776
-- **Das ist mein Banner Nr.:** 204
-- **Beschreibung:** Discover Linz through missions!
+- **Distance (km):** 21.33
+
+- **Total missions completed:** 
+- **This is my banner no.:** 204
+
+
+!!! note "Description"
+    Discover Linz through missions!
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/cassandra-md-linz-5ee3" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/cassandra-md-linz-5ee3){ .md-button .md-button--primary }
 
 
-> Datei: `000204_cassandra-mission-day-linz-2018_2018.md` • #000204 • Slug: `cassandra-mission-day-linz-2018`
+
+> File: `000204_cassandra-mission-day-linz-2018_2018.md` • #000204 • Slug: `cassandra-mission-day-linz-2018`

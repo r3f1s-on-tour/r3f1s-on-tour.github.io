@@ -23,12 +23,16 @@ title: "XMas Otter in Strasburg"
 
 
 ## Details
-- **Distanz (km):** 2,73
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 8166
-- **Das ist mein Banner Nr.:** 373
-- **Beschreibung:** Mache eine Entdeckungsrunde durch Strasburg und hole dir paar XMas Otter ins Profil
+- **Distance (km):** 2.73
+
+- **Total missions completed:** 
+- **This is my banner no.:** 373
+
+
+!!! note "Description"
+    Mache eine Entdeckungsrunde durch Strasburg und hole dir paar XMas Otter ins Profil
 
 
 
-> Datei: `000373_xmas-otter-in-strasburg_2021.md` • #000373 • Slug: `xmas-otter-in-strasburg`
+
+> File: `000373_xmas-otter-in-strasburg_2021.md` • #000373 • Slug: `xmas-otter-in-strasburg`

@@ -23,18 +23,20 @@ title: "Weihnachten in Neubrandenburg - Second Sunday"
 
 
 ## Details
-- **Distanz (km):** 2,03
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 8070
-- **Das ist mein Banner Nr.:** 367
-- **Beschreibung:** Erkunde Neubrandenburg in der Weihnachtszeit. Die Mission beginnt und endet auf dem Marktplatz.
+- **Distance (km):** 2.03
+
+- **Total missions completed:** 
+- **This is my banner no.:** 367
+
+
+!!! note "Description"
+    Erkunde Neubrandenburg in der Weihnachtszeit. Die Mission beginnt und endet auf dem Marktplatz.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/weihnachten-in-neubrandenburg-second-sunday-fc21" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/weihnachten-in-neubrandenburg-second-sunday-fc21){ .md-button .md-button--primary }
 
 
-> Datei: `000367_weihnachten-in-neubrandenburg-second-sunday_2021.md` • #000367 • Slug: `weihnachten-in-neubrandenburg-second-sunday`
+
+> File: `000367_weihnachten-in-neubrandenburg-second-sunday_2021.md` • #000367 • Slug: `weihnachten-in-neubrandenburg-second-sunday`

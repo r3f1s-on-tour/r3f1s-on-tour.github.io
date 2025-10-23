@@ -23,18 +23,20 @@ title: "All Hallows Toast in Oranienburg"
 
 
 ## Details
-- **Distanz (km):** 1,63
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 7506
-- **Das ist mein Banner Nr.:** 327
-- **Beschreibung:** Mache eine kleine Tour durch Oranienburg und starte am Bahnhof
+- **Distance (km):** 1.63
+
+- **Total missions completed:** 
+- **This is my banner no.:** 327
+
+
+!!! note "Description"
+    Mache eine kleine Tour durch Oranienburg und starte am Bahnhof
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/all-hallows-toast-in-oranienburg-fb29" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/all-hallows-toast-in-oranienburg-fb29){ .md-button .md-button--primary }
 
 
-> Datei: `000327_all-hallows-toast-in-oranienburg_2021.md` • #000327 • Slug: `all-hallows-toast-in-oranienburg`
+
+> File: `000327_all-hallows-toast-in-oranienburg_2021.md` • #000327 • Slug: `all-hallows-toast-in-oranienburg`

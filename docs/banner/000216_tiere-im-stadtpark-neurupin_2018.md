@@ -23,18 +23,20 @@ title: "Tiere im Stadtpark Neurupin"
 
 
 ## Details
-- **Distanz (km):** 15,23
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 5244
-- **Das ist mein Banner Nr.:** 216
-- **Beschreibung:** Der Stadtpark entstand auf Initiative von Oberst A. von Wulffen aus einem Schießplatz im Jahre 1834. Sechsteilige Missionsreihe.
+- **Distance (km):** 15.23
+
+- **Total missions completed:** 
+- **This is my banner no.:** 216
+
+
+!!! note "Description"
+    Der Stadtpark entstand auf Initiative von Oberst A. von Wulffen aus einem Schießplatz im Jahre 1834. Sechsteilige Missionsreihe.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/tiere-im-stadtpark-neurupin-b4e1" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/tiere-im-stadtpark-neurupin-b4e1){ .md-button .md-button--primary }
 
 
-> Datei: `000216_tiere-im-stadtpark-neurupin_2018.md` • #000216 • Slug: `tiere-im-stadtpark-neurupin`
+
+> File: `000216_tiere-im-stadtpark-neurupin_2018.md` • #000216 • Slug: `tiere-im-stadtpark-neurupin`

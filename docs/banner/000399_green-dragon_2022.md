@@ -23,18 +23,20 @@ title: "Green Dragon"
 
 
 ## Details
-- **Distanz (km):** 12,00
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 8.556
-- **Das ist mein Banner Nr.:** 399
-- **Beschreibung:** Der kleine Drache schlüpft am S+U Bhf Lichtenberg. Begleite ihn Richtung Friedrichsfelde Ost, um von dort weiter den Weitling- & Nöldnerkiez zu durchstreifen. Seine Reise endet dort, wo alles begann.
+- **Distance (km):** 12.00
+
+- **Total missions completed:** 
+- **This is my banner no.:** 399
+
+
+!!! note "Description"
+    Der kleine Drache schlüpft am S+U Bhf Lichtenberg. Begleite ihn Richtung Friedrichsfelde Ost, um von dort weiter den Weitling- & Nöldnerkiez zu durchstreifen. Seine Reise endet dort, wo alles begann.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/green-dragon-70cf" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/green-dragon-70cf){ .md-button .md-button--primary }
 
 
-> Datei: `000399_green-dragon_2022.md` • #000399 • Slug: `green-dragon`
+
+> File: `000399_green-dragon_2022.md` • #000399 • Slug: `green-dragon`

@@ -23,18 +23,20 @@ title: "Clockwork Orange"
 
 
 ## Details
-- **Distanz (km):** 21,78
-- **Missionen im Banner:** 36
-- **Insgesamt abgeschlossene Missionen:** 8142
-- **Das ist mein Banner Nr.:** 370
-- **Beschreibung:** Geh auf Entdeckungstour durch Neubrandenburg. Es beginnt und endet bei Clockwork Orange.
+- **Distance (km):** 21.78
+
+- **Total missions completed:** 
+- **This is my banner no.:** 370
+
+
+!!! note "Description"
+    Geh auf Entdeckungstour durch Neubrandenburg. Es beginnt und endet bei Clockwork Orange.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/clockwork-orange-37c8" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/clockwork-orange-37c8){ .md-button .md-button--primary }
 
 
-> Datei: `000370_clockwork-orange_2021.md` • #000370 • Slug: `clockwork-orange`
+
+> File: `000370_clockwork-orange_2021.md` • #000370 • Slug: `clockwork-orange`

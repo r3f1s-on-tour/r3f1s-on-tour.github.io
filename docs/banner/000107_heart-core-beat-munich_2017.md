@@ -23,18 +23,20 @@ title: "Heart Core Beat Munich"
 
 
 ## Details
-- **Distanz (km):** 2,70
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 2700
-- **Das ist mein Banner Nr.:** 107
-- **Beschreibung:** This resistance heartbeat as a counterpart to the luminescent heart leads  you through one of the most beautiful quarters of Munich.
+- **Distance (km):** 2.70
+
+- **Total missions completed:** 
+- **This is my banner no.:** 107
+
+
+!!! note "Description"
+    This resistance heartbeat as a counterpart to the luminescent heart leads  you through one of the most beautiful quarters of Munich.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/heart-core-beat-munich-4fa6" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/heart-core-beat-munich-4fa6){ .md-button .md-button--primary }
 
 
-> Datei: `000107_heart-core-beat-munich_2017.md` • #000107 • Slug: `heart-core-beat-munich`
+
+> File: `000107_heart-core-beat-munich_2017.md` • #000107 • Slug: `heart-core-beat-munich`

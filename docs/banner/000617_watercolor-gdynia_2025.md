@@ -24,17 +24,16 @@ title: "Watercolor Gdynia"
 
 ## Details
 
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 13.488
-- **Das ist mein Banner Nr.:** 617
+
+- **Total missions completed:** 
+- **This is my banner no.:** 617
+
 
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/watercolor-gdynia-2799" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/watercolor-gdynia-2799){ .md-button .md-button--primary }
 
 
-> Datei: `000617_watercolor-gdynia_2025.md` • #000617 • Slug: `watercolor-gdynia`
+
+> File: `000617_watercolor-gdynia_2025.md` • #000617 • Slug: `watercolor-gdynia`

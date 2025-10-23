@@ -23,18 +23,20 @@ title: "Enlightened Mission"
 ![Enlightened Mission](https://api.bannergress.com/bnrs/pictures/fdc0a14c1205c69eb50b5f9b8bfa4371)
 
 ## Details
-- **Distanz (km):** 5,127
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 12.624
-- **Das ist mein Banner Nr.:** 572
-- **Beschreibung:** Ne Fixe Runde durch Hoyerswerda damit hier die Erleuchtung wieder einkehrt!
+- **Distance (km):** 5.13
+
+- **Total missions completed:** 
+- **This is my banner no.:** 572
+
+
+!!! note "Description"
+    Ne Fixe Runde durch Hoyerswerda damit hier die Erleuchtung wieder einkehrt!
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/enlightened-mission-6db8" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/enlightened-mission-6db8){ .md-button .md-button--primary }
 
 
-> Datei: `000572_enlightened-mission_2023.md` • #000572 • Slug: `enlightened-mission`
+
+> File: `000572_enlightened-mission_2023.md` • #000572 • Slug: `enlightened-mission`

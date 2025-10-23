@@ -24,11 +24,12 @@ title: "Frühlingsspaziergang"
 
 ## Details
 
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 3786
-- **Das ist mein Banner Nr.:** 156
+
+- **Total missions completed:** 
+- **This is my banner no.:** 156
 
 
 
 
-> Datei: `000156_frhlingsspaziergang_2018.md` • #000156 • Slug: `frhlingsspaziergang`
+
+> File: `000156_frhlingsspaziergang_2018.md` • #000156 • Slug: `frhlingsspaziergang`

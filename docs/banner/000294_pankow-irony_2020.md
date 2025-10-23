@@ -23,18 +23,20 @@ title: "Pankow Irony"
 
 
 ## Details
-- **Distanz (km):** 9,21
-- **Missionen im Banner:** 12
-- **Insgesamt abgeschlossene Missionen:** 6834
-- **Das ist mein Banner Nr.:** 294
-- **Beschreibung:** Diese 12er Missionsreihe beginnt in Pankow und geleitet euch durch den Pankow Südkiez. Sie besteht aus 12 Missionen und bildet ein einmaliges Banner. Das Banner endet wo es beginnt.
+- **Distance (km):** 9.21
+
+- **Total missions completed:** 
+- **This is my banner no.:** 294
+
+
+!!! note "Description"
+    Diese 12er Missionsreihe beginnt in Pankow und geleitet euch durch den Pankow Südkiez. Sie besteht aus 12 Missionen und bildet ein einmaliges Banner. Das Banner endet wo es beginnt.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/pankow-irony-cf7e" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/pankow-irony-cf7e){ .md-button .md-button--primary }
 
 
-> Datei: `000294_pankow-irony_2020.md` • #000294 • Slug: `pankow-irony`
+
+> File: `000294_pankow-irony_2020.md` • #000294 • Slug: `pankow-irony`

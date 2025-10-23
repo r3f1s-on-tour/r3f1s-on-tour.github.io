@@ -23,20 +23,22 @@ title: "Pinguine Tour in Oranienburg"
 
 
 ## Details
-- **Distanz (km):** 8,574
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 9.408
-- **Das ist mein Banner Nr.:** 454
-- **Beschreibung:** Starte in der Bernauer Straße eine Reise durch die Stadt Oranienburg. Deine Reise führt dich entlang des Schloss, Schlosspark und endet am Bahnhof.
+- **Distance (km):** 8.57
+
+- **Total missions completed:** 
+- **This is my banner no.:** 454
+
+
+!!! note "Description"
+    Starte in der Bernauer Straße eine Reise durch die Stadt Oranienburg. Deine Reise führt dich entlang des Schloss, Schlosspark und endet am Bahnhof.
 
 Banner ist bis 01.06.2022 online
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/pinguine-tour-in-oranienburg-3f42" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/pinguine-tour-in-oranienburg-3f42){ .md-button .md-button--primary }
 
 
-> Datei: `000454_pinguine-tour-in-oranienburg_2022.md` • #000454 • Slug: `pinguine-tour-in-oranienburg`
+
+> File: `000454_pinguine-tour-in-oranienburg_2022.md` • #000454 • Slug: `pinguine-tour-in-oranienburg`

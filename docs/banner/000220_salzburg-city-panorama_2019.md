@@ -23,18 +23,20 @@ title: "Salzburg City Panorama"
 
 
 ## Details
-- **Distanz (km):** 4,19
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 5322
-- **Das ist mein Banner Nr.:** 220
-- **Beschreibung:** Salzburg City Panorama
+- **Distance (km):** 4.19
+
+- **Total missions completed:** 
+- **This is my banner no.:** 220
+
+
+!!! note "Description"
+    Salzburg City Panorama
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/salzburg-city-panorama-a104" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/salzburg-city-panorama-a104){ .md-button .md-button--primary }
 
 
-> Datei: `000220_salzburg-city-panorama_2019.md` • #000220 • Slug: `salzburg-city-panorama`
+
+> File: `000220_salzburg-city-panorama_2019.md` • #000220 • Slug: `salzburg-city-panorama`

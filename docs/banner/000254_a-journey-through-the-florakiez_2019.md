@@ -23,18 +23,20 @@ title: "A journey through the florakiez"
 
 
 ## Details
-- **Distanz (km):** 8,84
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 6126
-- **Das ist mein Banner Nr.:** 254
-- **Beschreibung:** Discover the green lung of Pankow and get a nice mosaic as a reminder. All missions are hack only.
+- **Distance (km):** 8.84
+
+- **Total missions completed:** 
+- **This is my banner no.:** 254
+
+
+!!! note "Description"
+    Discover the green lung of Pankow and get a nice mosaic as a reminder. All missions are hack only.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/a-journey-through-the-florakiez-ac90" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/a-journey-through-the-florakiez-ac90){ .md-button .md-button--primary }
 
 
-> Datei: `000254_a-journey-through-the-florakiez_2019.md` • #000254 • Slug: `a-journey-through-the-florakiez`
+
+> File: `000254_a-journey-through-the-florakiez_2019.md` • #000254 • Slug: `a-journey-through-the-florakiez`

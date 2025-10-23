@@ -24,11 +24,12 @@ title: "Catpool (Rote Münchner Katze)"
 
 ## Details
 
-- **Missionen im Banner:** 36
-- **Insgesamt abgeschlossene Missionen:** 4812
-- **Das ist mein Banner Nr.:** 205
+
+- **Total missions completed:** 
+- **This is my banner no.:** 205
 
 
 
 
-> Datei: `000205_catpool-rote-mnchner-katze_2018.md` • #000205 • Slug: `catpool-rote-mnchner-katze`
+
+> File: `000205_catpool-rote-mnchner-katze_2018.md` • #000205 • Slug: `catpool-rote-mnchner-katze`

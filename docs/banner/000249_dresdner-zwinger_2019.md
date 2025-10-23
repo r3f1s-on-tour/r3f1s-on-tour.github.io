@@ -23,21 +23,23 @@ title: "Dresdner Zwinger"
 
 
 ## Details
-- **Distanz (km):** 2,89
-- **Missionen im Banner:** 12
-- **Insgesamt abgeschlossene Missionen:** 6048
-- **Das ist mein Banner Nr.:** 249
-- **Beschreibung:** Der Zwinger ist eines der bekanntesten barocken Bauwerke in Dresden.
+- **Distance (km):** 2.89
+
+- **Total missions completed:** 
+- **This is my banner no.:** 249
+
+
+!!! note "Description"
+    Der Zwinger ist eines der bekanntesten barocken Bauwerke in Dresden.
 Dieses Mosaik führt euch rund um und in den Zwinger.
 Bittet beachtet die Öffnungszeiten des Zwingers!
 Teil 1 von 12
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/dresdner-zwinger-eab9" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/dresdner-zwinger-eab9){ .md-button .md-button--primary }
 
 
-> Datei: `000249_dresdner-zwinger_2019.md` • #000249 • Slug: `dresdner-zwinger`
+
+> File: `000249_dresdner-zwinger_2019.md` • #000249 • Slug: `dresdner-zwinger`

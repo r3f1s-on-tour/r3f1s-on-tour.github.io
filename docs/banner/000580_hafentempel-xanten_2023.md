@@ -23,18 +23,20 @@ title: "Hafentempel Xanten"
 ![Hafentempel Xanten](https://api.bannergress.com/bnrs/pictures/31f13a6f1f7a3c3efa65aaf090a76874)
 
 ## Details
-- **Distanz (km):** 6,671
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 12.864
-- **Das ist mein Banner Nr.:** 580
-- **Beschreibung:** Dieses 18 Mosaik führt durch den APX.  Hier muss man Eintritt bezahlen. die Preise findet ihr auf folgender Internetseite www.apx.lvr.de. Für Kinder ist dort ein Kletterparadies und Hüpfkissen.
+- **Distance (km):** 6.67
+
+- **Total missions completed:** 
+- **This is my banner no.:** 580
+
+
+!!! note "Description"
+    Dieses 18 Mosaik führt durch den APX.  Hier muss man Eintritt bezahlen. die Preise findet ihr auf folgender Internetseite www.apx.lvr.de. Für Kinder ist dort ein Kletterparadies und Hüpfkissen.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/hafentempel-xanten-5274" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/hafentempel-xanten-5274){ .md-button .md-button--primary }
 
 
-> Datei: `000580_hafentempel-xanten_2023.md` • #000580 • Slug: `hafentempel-xanten`
+
+> File: `000580_hafentempel-xanten_2023.md` • #000580 • Slug: `hafentempel-xanten`

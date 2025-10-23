@@ -23,18 +23,20 @@ title: "The Show Must Go On in Strasburg"
 ![The Show Must Go On in Strasburg](https://api.bannergress.com/bnrs/pictures/dca5a0834fa517ddd0a5056ad3859e8c)
 
 ## Details
-- **Distanz (km):** 3,514
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 10.224
-- **Das ist mein Banner Nr.:** 465
-- **Beschreibung:** Starte am Marktplatz  einen Rundgang und entdecke Strasburg. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet auf dem Marktplatz
+- **Distance (km):** 3.51
+
+- **Total missions completed:** 
+- **This is my banner no.:** 465
+
+
+!!! note "Description"
+    Starte am Marktplatz  einen Rundgang und entdecke Strasburg. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet auf dem Marktplatz
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/the-show-must-go-on-in-strasburg-2d82" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/the-show-must-go-on-in-strasburg-2d82){ .md-button .md-button--primary }
 
 
-> Datei: `000465_the-show-must-go-on-in-strasburg_2022.md` • #000465 • Slug: `the-show-must-go-on-in-strasburg`
+
+> File: `000465_the-show-must-go-on-in-strasburg_2022.md` • #000465 • Slug: `the-show-must-go-on-in-strasburg`

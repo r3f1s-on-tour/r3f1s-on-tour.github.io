@@ -23,20 +23,22 @@ title: "Second Sunday in Oranienburg"
 
 
 ## Details
-- **Distanz (km):** 2,13
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 7704
-- **Das ist mein Banner Nr.:** 340
-- **Beschreibung:** Mache zum Second Sunday ein kleine Runde durch Oranienburg. Start ist in der Bernauer Straße
+- **Distance (km):** 2.13
+
+- **Total missions completed:** 
+- **This is my banner no.:** 340
+
+
+!!! note "Description"
+    Mache zum Second Sunday ein kleine Runde durch Oranienburg. Start ist in der Bernauer Straße
 
 Geht am 17.11.2021 offline
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/second-sunday-in-oranienburg-8c7a" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/second-sunday-in-oranienburg-8c7a){ .md-button .md-button--primary }
 
 
-> Datei: `000340_second-sunday-in-oranienburg_2021.md` • #000340 • Slug: `second-sunday-in-oranienburg`
+
+> File: `000340_second-sunday-in-oranienburg_2021.md` • #000340 • Slug: `second-sunday-in-oranienburg`

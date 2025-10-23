@@ -24,11 +24,12 @@ title: "An der Paulskirche"
 
 ## Details
 
-- **Missionen im Banner:** 36
-- **Insgesamt abgeschlossene Missionen:** 3216
-- **Das ist mein Banner Nr.:** 132
+
+- **Total missions completed:** 
+- **This is my banner no.:** 132
 
 
 
 
-> Datei: `000132_an-der-paulskirche_2018.md` • #000132 • Slug: `an-der-paulskirche`
+
+> File: `000132_an-der-paulskirche_2018.md` • #000132 • Slug: `an-der-paulskirche`

@@ -23,12 +23,16 @@ title: "Rainbow People in Oranienburg"
 
 
 ## Details
-- **Distanz (km):** 3,64
-- **Missionen im Banner:** 12
-- **Insgesamt abgeschlossene Missionen:** 7956
-- **Das ist mein Banner Nr.:** 357
-- **Beschreibung:** Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
+- **Distance (km):** 3.64
+
+- **Total missions completed:** 
+- **This is my banner no.:** 357
+
+
+!!! note "Description"
+    Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> Datei: `000357_rainbow-people-in-oranienburg_2021.md` • #000357 • Slug: `rainbow-people-in-oranienburg`
+
+> File: `000357_rainbow-people-in-oranienburg_2021.md` • #000357 • Slug: `rainbow-people-in-oranienburg`

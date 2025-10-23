@@ -23,18 +23,20 @@ title: "Tut-Tut Child"
 ![Tut-Tut Child](https://api.bannergress.com/bnrs/pictures/852e63da31fb6cbdd7e8b5307e4c49af)
 
 ## Details
-- **Distanz (km):** 23,182
-- **Missionen im Banner:** 90
-- **Insgesamt abgeschlossene Missionen:** 12.954
-- **Das ist mein Banner Nr.:** 581
-- **Beschreibung:** Erkunde das beschauliche Recklinghausen ganz genau, vielleicht findest du die Maske vom Kind.
+- **Distance (km):** 23.18
+
+- **Total missions completed:** 
+- **This is my banner no.:** 581
+
+
+!!! note "Description"
+    Erkunde das beschauliche Recklinghausen ganz genau, vielleicht findest du die Maske vom Kind.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/tut-tut-child-4d7a" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/tut-tut-child-4d7a){ .md-button .md-button--primary }
 
 
-> Datei: `000581_tut-tut-child_2023.md` • #000581 • Slug: `tut-tut-child`
+
+> File: `000581_tut-tut-child_2023.md` • #000581 • Slug: `tut-tut-child`

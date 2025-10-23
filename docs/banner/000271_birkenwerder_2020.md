@@ -23,18 +23,20 @@ title: "Birkenwerder"
 
 
 ## Details
-- **Distanz (km):** 2,33
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 6366
-- **Das ist mein Banner Nr.:** 271
-- **Beschreibung:** Eine kleine Runde durch Birkenwerder. Viel Spaß
+- **Distance (km):** 2.33
+
+- **Total missions completed:** 
+- **This is my banner no.:** 271
+
+
+!!! note "Description"
+    Eine kleine Runde durch Birkenwerder. Viel Spaß
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/birkenwerder-ac23" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/birkenwerder-ac23){ .md-button .md-button--primary }
 
 
-> Datei: `000271_birkenwerder_2020.md` • #000271 • Slug: `birkenwerder`
+
+> File: `000271_birkenwerder_2020.md` • #000271 • Slug: `birkenwerder`

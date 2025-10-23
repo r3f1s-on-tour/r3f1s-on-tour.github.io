@@ -23,18 +23,20 @@ title: "Dark Skyline"
 
 
 ## Details
-- **Distanz (km):** 1,81
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 7386
-- **Das ist mein Banner Nr.:** 318
-- **Beschreibung:** Six-mission-set in the city-centre that shows some of Hannovers popular sights.
+- **Distance (km):** 1.81
+
+- **Total missions completed:** 
+- **This is my banner no.:** 318
+
+
+!!! note "Description"
+    Six-mission-set in the city-centre that shows some of Hannovers popular sights.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/dark-skyline-135b" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/dark-skyline-135b){ .md-button .md-button--primary }
 
 
-> Datei: `000318_dark-skyline_2021.md` • #000318 • Slug: `dark-skyline`
+
+> File: `000318_dark-skyline_2021.md` • #000318 • Slug: `dark-skyline`

@@ -23,12 +23,16 @@ title: "Deifel in Strasburg"
 
 
 ## Details
-- **Distanz (km):** 2
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 10.536
-- **Das ist mein Banner Nr.:** 491
-- **Beschreibung:** Starte am Marktplatz  einen Rundgang und entdecke Strasburg. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet auf dem Marktplatz
+- **Distance (km):** 2.00
+
+- **Total missions completed:** 
+- **This is my banner no.:** 491
+
+
+!!! note "Description"
+    Starte am Marktplatz  einen Rundgang und entdecke Strasburg. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet auf dem Marktplatz
 
 
 
-> Datei: `000491_deifel-in-strasburg_2022.md` • #000491 • Slug: `deifel-in-strasburg`
+
+> File: `000491_deifel-in-strasburg_2022.md` • #000491 • Slug: `deifel-in-strasburg`

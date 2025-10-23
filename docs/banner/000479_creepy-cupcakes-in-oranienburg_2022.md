@@ -23,12 +23,16 @@ title: "Creepy Cupcakes in Oranienburg"
 
 
 ## Details
-- **Distanz (km):** 1,599
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 10.410
-- **Das ist mein Banner Nr.:** 479
-- **Beschreibung:** Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
+- **Distance (km):** 1.60
+
+- **Total missions completed:** 
+- **This is my banner no.:** 479
+
+
+!!! note "Description"
+    Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
 
 
 
-> Datei: `000479_creepy-cupcakes-in-oranienburg_2022.md` • #000479 • Slug: `creepy-cupcakes-in-oranienburg`
+
+> File: `000479_creepy-cupcakes-in-oranienburg_2022.md` • #000479 • Slug: `creepy-cupcakes-in-oranienburg`

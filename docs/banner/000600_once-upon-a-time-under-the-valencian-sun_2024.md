@@ -23,18 +23,20 @@ title: "Once Upon A Time Under The Valencian Sun"
 ![Once Upon A Time Under The Valencian Sun](https://api.bannergress.com/bnrs/pictures/ac7cc5b5c57769ac63ca1dee8f5d8afa)
 
 ## Details
-- **Distanz (km):** 4,879
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 13.236
-- **Das ist mein Banner Nr.:** 600
-- **Beschreibung:** Discover Valencia's Old Town, where historic charm meets vibrant culture. Wander through medieval streets, admire stunning architecture, and indulge in local cuisine at lively plazas.
+- **Distance (km):** 4.88
+
+- **Total missions completed:** 
+- **This is my banner no.:** 600
+
+
+!!! note "Description"
+    Discover Valencia's Old Town, where historic charm meets vibrant culture. Wander through medieval streets, admire stunning architecture, and indulge in local cuisine at lively plazas.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/once-upon-a-time-under-the-valencian-sun-f640" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/once-upon-a-time-under-the-valencian-sun-f640){ .md-button .md-button--primary }
 
 
-> Datei: `000600_once-upon-a-time-under-the-valencian-sun_2024.md` • #000600 • Slug: `once-upon-a-time-under-the-valencian-sun`
+
+> File: `000600_once-upon-a-time-under-the-valencian-sun_2024.md` • #000600 • Slug: `once-upon-a-time-under-the-valencian-sun`

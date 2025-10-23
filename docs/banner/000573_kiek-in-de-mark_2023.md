@@ -23,18 +23,20 @@ title: "Kiek in de Mark"
 ![Kiek in de Mark](https://api.bannergress.com/bnrs/pictures/e075ccd90e335eba835d0a349672f3d1)
 
 ## Details
-- **Distanz (km):** 3,24
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 12.630
-- **Das ist mein Banner Nr.:** 573
-- **Beschreibung:** Walk through the city and pick up a banner with the tower in rainbow colours.
+- **Distance (km):** 3.24
+
+- **Total missions completed:** 
+- **This is my banner no.:** 573
+
+
+!!! note "Description"
+    Walk through the city and pick up a banner with the tower in rainbow colours.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/kiek-in-de-mark-80d9" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/kiek-in-de-mark-80d9){ .md-button .md-button--primary }
 
 
-> Datei: `000573_kiek-in-de-mark_2023.md` • #000573 • Slug: `kiek-in-de-mark`
+
+> File: `000573_kiek-in-de-mark_2023.md` • #000573 • Slug: `kiek-in-de-mark`

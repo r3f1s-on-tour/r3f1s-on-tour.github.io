@@ -23,18 +23,20 @@ title: "Weihnachten am Chinesischen Turm"
 ![Weihnachten am Chinesischen Turm](https://api.bannergress.com/bnrs/pictures/4b5ea303a04b6c745ca69d622a2b195f)
 
 ## Details
-- **Distanz (km):** 5,54
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 1164
-- **Das ist mein Banner Nr.:** 50
-- **Beschreibung:** Der Chinesische Turm wurde in den Jahren 1789 bis 1790 erbaut und 1792 mit der Eröffnung des Englischen Gartens als Aussichtsplattform der Öffentlichkeit zugänglich gemacht.
+- **Distance (km):** 5.54
+
+- **Total missions completed:** 
+- **This is my banner no.:** 50
+
+
+!!! note "Description"
+    Der Chinesische Turm wurde in den Jahren 1789 bis 1790 erbaut und 1792 mit der Eröffnung des Englischen Gartens als Aussichtsplattform der Öffentlichkeit zugänglich gemacht.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/weihnachten-am-chinesischen-turm-46d7" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/weihnachten-am-chinesischen-turm-46d7){ .md-button .md-button--primary }
 
 
-> Datei: `000050_weihnachten-am-chinesischen-turm_2016.md` • #000050 • Slug: `weihnachten-am-chinesischen-turm`
+
+> File: `000050_weihnachten-am-chinesischen-turm_2016.md` • #000050 • Slug: `weihnachten-am-chinesischen-turm`

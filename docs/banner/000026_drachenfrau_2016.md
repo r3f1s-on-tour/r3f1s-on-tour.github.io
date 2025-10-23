@@ -23,18 +23,20 @@ title: "Drachenfrau"
 ![Drachenfrau](https://api.bannergress.com/bnrs/pictures/1b0601554cccf46bbf897c8a7d97d3b7)
 
 ## Details
-- **Distanz (km):** 7,44
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 468
-- **Das ist mein Banner Nr.:** 26
-- **Beschreibung:** In der fast fertig sanierten Innenstadt kann man gut shoppen, altes und neues entdecken oder einfach durch die Gassen wandeln. Viel Spaß dabei.
+- **Distance (km):** 7.44
+
+- **Total missions completed:** 
+- **This is my banner no.:** 26
+
+
+!!! note "Description"
+    In der fast fertig sanierten Innenstadt kann man gut shoppen, altes und neues entdecken oder einfach durch die Gassen wandeln. Viel Spaß dabei.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/drachenfrau-5063" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/drachenfrau-5063){ .md-button .md-button--primary }
 
 
-> Datei: `000026_drachenfrau_2016.md` • #000026 • Slug: `drachenfrau`
+
+> File: `000026_drachenfrau_2016.md` • #000026 • Slug: `drachenfrau`

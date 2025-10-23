@@ -23,18 +23,20 @@ title: "Wittenberg Art"
 
 
 ## Details
-- **Distanz (km):** 6,04
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 4182
-- **Das ist mein Banner Nr.:** 174
-- **Beschreibung:** eine lustige Runde
+- **Distance (km):** 6.04
+
+- **Total missions completed:** 
+- **This is my banner no.:** 174
+
+
+!!! note "Description"
+    eine lustige Runde
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/wittenberg-art-1499" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/wittenberg-art-1499){ .md-button .md-button--primary }
 
 
-> Datei: `000174_wittenberg-art_2018.md` • #000174 • Slug: `wittenberg-art`
+
+> File: `000174_wittenberg-art_2018.md` • #000174 • Slug: `wittenberg-art`

@@ -23,12 +23,16 @@ title: "Oranienburger Toast Rangers"
 
 
 ## Details
-- **Distanz (km):** 1,59
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 8310
-- **Das ist mein Banner Nr.:** 385
-- **Beschreibung:** Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
+- **Distance (km):** 1.59
+
+- **Total missions completed:** 
+- **This is my banner no.:** 385
+
+
+!!! note "Description"
+    Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
 
 
 
-> Datei: `000385_oranienburger-toast-rangers_2022.md` • #000385 • Slug: `oranienburger-toast-rangers`
+
+> File: `000385_oranienburger-toast-rangers_2022.md` • #000385 • Slug: `oranienburger-toast-rangers`

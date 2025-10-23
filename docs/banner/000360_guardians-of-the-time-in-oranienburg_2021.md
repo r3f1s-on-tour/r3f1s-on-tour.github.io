@@ -23,12 +23,16 @@ title: "Guardians of the Time in Oranienburg"
 
 
 ## Details
-- **Distanz (km):** 6,05
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 7986
-- **Das ist mein Banner Nr.:** 360
-- **Beschreibung:** Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße und finde die Guardians
+- **Distance (km):** 6.05
+
+- **Total missions completed:** 
+- **This is my banner no.:** 360
+
+
+!!! note "Description"
+    Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße und finde die Guardians
 
 
 
-> Datei: `000360_guardians-of-the-time-in-oranienburg_2021.md` • #000360 • Slug: `guardians-of-the-time-in-oranienburg`
+
+> File: `000360_guardians-of-the-time-in-oranienburg_2021.md` • #000360 • Slug: `guardians-of-the-time-in-oranienburg`

@@ -23,19 +23,21 @@ title: "Richter Fenster im Kölner Dom"
 ![Richter Fenster im Kölner Dom](https://api.bannergress.com/bnrs/pictures/6ec737c556775c4c488cff75ae1e450c)
 
 ## Details
-- **Distanz (km):** 4,3
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 10.746
-- **Das ist mein Banner Nr.:** 502
-- **Beschreibung:** Richter-Fenster ist das von Richter entworfene Südquerhausfenster des Kölner Doms.
+- **Distance (km):** 4.30
+
+- **Total missions completed:** 
+- **This is my banner no.:** 502
+
+
+!!! note "Description"
+    Richter-Fenster ist das von Richter entworfene Südquerhausfenster des Kölner Doms.
 Richter window is the southern transverse window of the Cologne Cathedral, designed by the artist named Richter.
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/richter-fenster-im-k%C3%B6lner-dom-7363" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/richter-fenster-im-k%C3%B6lner-dom-7363){ .md-button .md-button--primary }
 
 
-> Datei: `000502_richter-fenster-im-klner-dom_2022.md` • #000502 • Slug: `richter-fenster-im-klner-dom`
+
+> File: `000502_richter-fenster-im-klner-dom_2022.md` • #000502 • Slug: `richter-fenster-im-klner-dom`

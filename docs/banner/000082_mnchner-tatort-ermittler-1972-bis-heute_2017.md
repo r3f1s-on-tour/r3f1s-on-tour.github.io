@@ -23,18 +23,20 @@ title: "Münchner Tatort-Ermittler 1972 bis heute"
 ![Münchner Tatort-Ermittler 1972 bis heute](https://api.bannergress.com/bnrs/pictures/77711b4cacce06b18fab3b10425c745d)
 
 ## Details
-- **Distanz (km):** 2,11
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 2166
-- **Das ist mein Banner Nr.:** 82
-- **Beschreibung:** Ivo Batic und Franz Leitmayr, gespielt von Miroslav Nemec und Udo Wachtveitl, sind seit seit 1991 Münchner Tatort-Kommissare. In den ersten 25 Jahren bekamen sie es mit 152 Toten zu tun ...
+- **Distance (km):** 2.11
+
+- **Total missions completed:** 
+- **This is my banner no.:** 82
+
+
+!!! note "Description"
+    Ivo Batic und Franz Leitmayr, gespielt von Miroslav Nemec und Udo Wachtveitl, sind seit seit 1991 Münchner Tatort-Kommissare. In den ersten 25 Jahren bekamen sie es mit 152 Toten zu tun ...
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/m%C3%BCnchner-tatort-ermittler-1636" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/m%C3%BCnchner-tatort-ermittler-1636){ .md-button .md-button--primary }
 
 
-> Datei: `000082_mnchner-tatort-ermittler-1972-bis-heute_2017.md` • #000082 • Slug: `mnchner-tatort-ermittler-1972-bis-heute`
+
+> File: `000082_mnchner-tatort-ermittler-1972-bis-heute_2017.md` • #000082 • Slug: `mnchner-tatort-ermittler-1972-bis-heute`

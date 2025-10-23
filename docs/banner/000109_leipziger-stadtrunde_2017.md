@@ -23,19 +23,21 @@ title: "Leipziger Stadtrunde"
 
 
 ## Details
-- **Distanz (km):** 2,22
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 2718
-- **Das ist mein Banner Nr.:** 109
-- **Beschreibung:** Dies ist  eine kleine 6-teilige Missionsreihe durch das Herz der Messestadt und führt euch an dein Sehenswürdigkeiten des alten und neuen Leipzigs.
+- **Distance (km):** 2.22
+
+- **Total missions completed:** 
+- **This is my banner no.:** 109
+
+
+!!! note "Description"
+    Dies ist  eine kleine 6-teilige Missionsreihe durch das Herz der Messestadt und führt euch an dein Sehenswürdigkeiten des alten und neuen Leipzigs.
 Ihr startet am ehemals größten Sackbahnhof.
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/leipziger-stadtrunde-8503" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/leipziger-stadtrunde-8503){ .md-button .md-button--primary }
 
 
-> Datei: `000109_leipziger-stadtrunde_2017.md` • #000109 • Slug: `leipziger-stadtrunde`
+
+> File: `000109_leipziger-stadtrunde_2017.md` • #000109 • Slug: `leipziger-stadtrunde`

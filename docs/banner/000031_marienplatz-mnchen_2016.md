@@ -23,18 +23,20 @@ title: "Marienplatz München"
 
 
 ## Details
-- **Distanz (km):** 5,84
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 624
-- **Das ist mein Banner Nr.:** 31
-- **Beschreibung:** 1315 verlieh Kaiser Ludwig der Bayer München die Marktfreiheit mit der Auflage, dass der damals Marktplatz genannte Marienplatz „auf ewige Zeiten“ hin unbebaut bleibe.
+- **Distance (km):** 5.84
+
+- **Total missions completed:** 
+- **This is my banner no.:** 31
+
+
+!!! note "Description"
+    1315 verlieh Kaiser Ludwig der Bayer München die Marktfreiheit mit der Auflage, dass der damals Marktplatz genannte Marienplatz „auf ewige Zeiten“ hin unbebaut bleibe.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/marienplatz-m%C3%BCnchen-50a9" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/marienplatz-m%C3%BCnchen-50a9){ .md-button .md-button--primary }
 
 
-> Datei: `000031_marienplatz-mnchen_2016.md` • #000031 • Slug: `marienplatz-mnchen`
+
+> File: `000031_marienplatz-mnchen_2016.md` • #000031 • Slug: `marienplatz-mnchen`

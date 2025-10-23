@@ -23,20 +23,22 @@ title: "Aiblinger Wolf"
 
 
 ## Details
-- **Distanz (km):** 3,47
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 4446
-- **Das ist mein Banner Nr.:** 187
-- **Beschreibung:** Hackrunde durch den Kurpark zur Eisdiele.
+- **Distance (km):** 3.47
+
+- **Total missions completed:** 
+- **This is my banner no.:** 187
+
+
+!!! note "Description"
+    Hackrunde durch den Kurpark zur Eisdiele.
 Insgesamt 4 Runden. 
 Nur nach Aufforderung hacken.
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/aiblinger-wolf-be80" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/aiblinger-wolf-be80){ .md-button .md-button--primary }
 
 
-> Datei: `000187_aiblinger-wolf_2018.md` • #000187 • Slug: `aiblinger-wolf`
+
+> File: `000187_aiblinger-wolf_2018.md` • #000187 • Slug: `aiblinger-wolf`

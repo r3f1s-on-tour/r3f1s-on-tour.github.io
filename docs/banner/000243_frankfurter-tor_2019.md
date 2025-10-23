@@ -23,18 +23,20 @@ title: "Frankfurter Tor"
 
 
 ## Details
-- **Distanz (km):** 4,15
-- **Missionen im Banner:** 12
-- **Insgesamt abgeschlossene Missionen:** 5814
-- **Das ist mein Banner Nr.:** 243
-- **Beschreibung:** Das Frankfurter Tor ist heute ein Platz im Berliner Ortsteil Friedrichshain am östlichen Ende der Karl-Marx-Allee. Obwohl der Name es vermuten lässt.
+- **Distance (km):** 4.15
+
+- **Total missions completed:** 
+- **This is my banner no.:** 243
+
+
+!!! note "Description"
+    Das Frankfurter Tor ist heute ein Platz im Berliner Ortsteil Friedrichshain am östlichen Ende der Karl-Marx-Allee. Obwohl der Name es vermuten lässt.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/frankfurter-tor-940b" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/frankfurter-tor-940b){ .md-button .md-button--primary }
 
 
-> Datei: `000243_frankfurter-tor_2019.md` • #000243 • Slug: `frankfurter-tor`
+
+> File: `000243_frankfurter-tor_2019.md` • #000243 • Slug: `frankfurter-tor`

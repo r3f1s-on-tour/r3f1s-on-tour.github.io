@@ -24,11 +24,12 @@ title: "Zum Viktualienmarkt"
 
 ## Details
 
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 3324
-- **Das ist mein Banner Nr.:** 138
+
+- **Total missions completed:** 
+- **This is my banner no.:** 138
 
 
 
 
-> Datei: `000138_zum-viktualienmarkt_2018.md` • #000138 • Slug: `zum-viktualienmarkt`
+
+> File: `000138_zum-viktualienmarkt_2018.md` • #000138 • Slug: `zum-viktualienmarkt`

@@ -24,11 +24,12 @@ title: "Friedrichshain Nord"
 
 ## Details
 
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 4122
-- **Das ist mein Banner Nr.:** 170
+
+- **Total missions completed:** 
+- **This is my banner no.:** 170
 
 
 
 
-> Datei: `000170_friedrichshain-nord_2018.md` • #000170 • Slug: `friedrichshain-nord`
+
+> File: `000170_friedrichshain-nord_2018.md` • #000170 • Slug: `friedrichshain-nord`

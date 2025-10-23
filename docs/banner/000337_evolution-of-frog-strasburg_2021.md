@@ -23,20 +23,22 @@ title: "Evolution of Frog - Strasburg"
 
 
 ## Details
-- **Distanz (km):** 3,17
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 7662
-- **Das ist mein Banner Nr.:** 337
-- **Beschreibung:** Starte am Marktplatz und entdecke Strasburg Uckermark
+- **Distance (km):** 3.17
+
+- **Total missions completed:** 
+- **This is my banner no.:** 337
+
+
+!!! note "Description"
+    Starte am Marktplatz und entdecke Strasburg Uckermark
 
 Geht am 08.11.2021 offline
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/evolution-of-frog-strasburg-f93f" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/evolution-of-frog-strasburg-f93f){ .md-button .md-button--primary }
 
 
-> Datei: `000337_evolution-of-frog-strasburg_2021.md` • #000337 • Slug: `evolution-of-frog-strasburg`
+
+> File: `000337_evolution-of-frog-strasburg_2021.md` • #000337 • Slug: `evolution-of-frog-strasburg`

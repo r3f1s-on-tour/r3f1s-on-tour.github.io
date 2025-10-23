@@ -23,19 +23,21 @@ title: "Wasserburger Altstadt"
 
 
 ## Details
-- **Distanz (km):** 5,45
-- **Missionen im Banner:** 12
-- **Insgesamt abgeschlossene Missionen:** 3348
-- **Das ist mein Banner Nr.:** 140
-- **Beschreibung:** Part 01/12 of a mission-sequence that will guide you through the Historic Center of Wasserburg (inside Inn-ring)
+- **Distance (km):** 5.45
+
+- **Total missions completed:** 
+- **This is my banner no.:** 140
+
+
+!!! note "Description"
+    Part 01/12 of a mission-sequence that will guide you through the Historic Center of Wasserburg (inside Inn-ring)
 The missions (1-12) should be done in sequence (start @Busbahnhof) to get a nice reward
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/wasserburger-altstadt-2c0e" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/wasserburger-altstadt-2c0e){ .md-button .md-button--primary }
 
 
-> Datei: `000140_wasserburger-altstadt_2018.md` • #000140 • Slug: `wasserburger-altstadt`
+
+> File: `000140_wasserburger-altstadt_2018.md` • #000140 • Slug: `wasserburger-altstadt`

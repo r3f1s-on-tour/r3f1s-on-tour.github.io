@@ -24,11 +24,12 @@ title: "Catpool (Rote Augsburger Katze)"
 
 ## Details
 
-- **Missionen im Banner:** 36
-- **Insgesamt abgeschlossene Missionen:** 4368
-- **Das ist mein Banner Nr.:** 181
+
+- **Total missions completed:** 
+- **This is my banner no.:** 181
 
 
 
 
-> Datei: `000181_catpool-rote-augsburger-katze_2018.md` • #000181 • Slug: `catpool-rote-augsburger-katze`
+
+> File: `000181_catpool-rote-augsburger-katze_2018.md` • #000181 • Slug: `catpool-rote-augsburger-katze`

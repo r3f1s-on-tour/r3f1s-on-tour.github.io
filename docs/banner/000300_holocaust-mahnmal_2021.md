@@ -23,18 +23,20 @@ title: "Holocaust Mahnmal"
 
 
 ## Details
-- **Distanz (km):** 7,79
-- **Missionen im Banner:** 30
-- **Insgesamt abgeschlossene Missionen:** 7008
-- **Das ist mein Banner Nr.:** 300
-- **Beschreibung:** Dieser Spaziergang durch die Mitte Berlins führt dich an vielen interessanten und historischen Orten zur Geschichte des Judentums in Berlin vorbei.
+- **Distance (km):** 7.79
+
+- **Total missions completed:** 
+- **This is my banner no.:** 300
+
+
+!!! note "Description"
+    Dieser Spaziergang durch die Mitte Berlins führt dich an vielen interessanten und historischen Orten zur Geschichte des Judentums in Berlin vorbei.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/holocaust-mahnmal-3309" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/holocaust-mahnmal-3309){ .md-button .md-button--primary }
 
 
-> Datei: `000300_holocaust-mahnmal_2021.md` • #000300 • Slug: `holocaust-mahnmal`
+
+> File: `000300_holocaust-mahnmal_2021.md` • #000300 • Slug: `holocaust-mahnmal`

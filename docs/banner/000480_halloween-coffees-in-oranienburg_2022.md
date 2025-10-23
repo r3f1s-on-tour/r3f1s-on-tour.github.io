@@ -23,18 +23,20 @@ title: "Halloween Coffees in Oranienburg"
 ![Halloween Coffees in Oranienburg](https://api.bannergress.com/bnrs/pictures/34708bc649d2d45395637b3f5ec63164)
 
 ## Details
-- **Distanz (km):** 1,599
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 10.416
-- **Das ist mein Banner Nr.:** 480
-- **Beschreibung:** Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
+- **Distance (km):** 1.60
+
+- **Total missions completed:** 
+- **This is my banner no.:** 480
+
+
+!!! note "Description"
+    Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/halloween-coffees-in-oranienburg-c369" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/halloween-coffees-in-oranienburg-c369){ .md-button .md-button--primary }
 
 
-> Datei: `000480_halloween-coffees-in-oranienburg_2022.md` • #000480 • Slug: `halloween-coffees-in-oranienburg`
+
+> File: `000480_halloween-coffees-in-oranienburg_2022.md` • #000480 • Slug: `halloween-coffees-in-oranienburg`

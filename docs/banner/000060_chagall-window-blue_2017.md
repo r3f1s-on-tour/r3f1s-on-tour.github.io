@@ -23,20 +23,22 @@ title: "Chagall Window blue"
 ![Chagall Window blue](https://api.bannergress.com/bnrs/pictures/ea8abd6fbee2c76131fb4a97016de779)
 
 ## Details
-- **Distanz (km):** 1,74
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 1350
-- **Das ist mein Banner Nr.:** 60
-- **Beschreibung:** The beautiful windows made by Marc Chagall in 1970 belong to the modern, yet classic cultural heritage of Zurich and bring many tourists to Fraumünster.
+- **Distance (km):** 1.74
+
+- **Total missions completed:** 
+- **This is my banner no.:** 60
+
+
+!!! note "Description"
+    The beautiful windows made by Marc Chagall in 1970 belong to the modern, yet classic cultural heritage of Zurich and bring many tourists to Fraumünster.
 
 Optimal starting point for all three windows
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/chagall-window-blue-8212" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/chagall-window-blue-8212){ .md-button .md-button--primary }
 
 
-> Datei: `000060_chagall-window-blue_2017.md` • #000060 • Slug: `chagall-window-blue`
+
+> File: `000060_chagall-window-blue_2017.md` • #000060 • Slug: `chagall-window-blue`

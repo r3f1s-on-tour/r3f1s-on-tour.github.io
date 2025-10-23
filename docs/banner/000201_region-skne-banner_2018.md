@@ -24,11 +24,12 @@ title: "Region Skåne Banner"
 
 ## Details
 
-- **Missionen im Banner:** 42
-- **Insgesamt abgeschlossene Missionen:** 4716
-- **Das ist mein Banner Nr.:** 201
+
+- **Total missions completed:** 
+- **This is my banner no.:** 201
 
 
 
 
-> Datei: `000201_region-skne-banner_2018.md` • #000201 • Slug: `region-skne-banner`
+
+> File: `000201_region-skne-banner_2018.md` • #000201 • Slug: `region-skne-banner`

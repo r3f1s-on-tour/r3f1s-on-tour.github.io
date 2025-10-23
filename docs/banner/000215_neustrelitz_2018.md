@@ -24,11 +24,12 @@ title: "Neustrelitz"
 
 ## Details
 
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 5220
-- **Das ist mein Banner Nr.:** 215
+
+- **Total missions completed:** 
+- **This is my banner no.:** 215
 
 
 
 
-> Datei: `000215_neustrelitz_2018.md` • #000215 • Slug: `neustrelitz`
+
+> File: `000215_neustrelitz_2018.md` • #000215 • Slug: `neustrelitz`

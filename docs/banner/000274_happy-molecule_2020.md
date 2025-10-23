@@ -24,17 +24,16 @@ title: "Happy Molecule"
 
 ## Details
 
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 6432
-- **Das ist mein Banner Nr.:** 274
+
+- **Total missions completed:** 
+- **This is my banner no.:** 274
+
 
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/happy-molecule-f3bc" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/happy-molecule-f3bc){ .md-button .md-button--primary }
 
 
-> Datei: `000274_happy-molecule_2020.md` • #000274 • Slug: `happy-molecule`
+
+> File: `000274_happy-molecule_2020.md` • #000274 • Slug: `happy-molecule`

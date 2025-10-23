@@ -23,18 +23,20 @@ title: "Man s Greatness"
 
 
 ## Details
-- **Distanz (km):** 20,50
-- **Missionen im Banner:** 36
-- **Insgesamt abgeschlossene Missionen:** 2988
-- **Das ist mein Banner Nr.:** 122
-- **Beschreibung:** Inspired by the artwork of  Scott Manley, leading my dear fellows in a new area of Munich which they might not have visited before.
+- **Distance (km):** 20.50
+
+- **Total missions completed:** 
+- **This is my banner no.:** 122
+
+
+!!! note "Description"
+    Inspired by the artwork of  Scott Manley, leading my dear fellows in a new area of Munich which they might not have visited before.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/man-s-greatness-13d7" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/man-s-greatness-13d7){ .md-button .md-button--primary }
 
 
-> Datei: `000122_man-s-greatness_2018.md` • #000122 • Slug: `man-s-greatness`
+
+> File: `000122_man-s-greatness_2018.md` • #000122 • Slug: `man-s-greatness`

@@ -23,18 +23,20 @@ title: "Second Sunday - Oktober 2022"
 ![Second Sunday - Oktober 2022](https://api.bannergress.com/bnrs/pictures/00d66e6aeca687df4367e67fceabf1ed)
 
 ## Details
-- **Distanz (km):** 1,599
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 10.428
-- **Das ist mein Banner Nr.:** 482
-- **Beschreibung:** Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
+- **Distance (km):** 1.60
+
+- **Total missions completed:** 
+- **This is my banner no.:** 482
+
+
+!!! note "Description"
+    Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/second-sunday-oktober-2022-0afa" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/second-sunday-oktober-2022-0afa){ .md-button .md-button--primary }
 
 
-> Datei: `000482_second-sunday-oktober-2022_2022.md` • #000482 • Slug: `second-sunday-oktober-2022`
+
+> File: `000482_second-sunday-oktober-2022_2022.md` • #000482 • Slug: `second-sunday-oktober-2022`

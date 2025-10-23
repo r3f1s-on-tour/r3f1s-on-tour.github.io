@@ -23,18 +23,20 @@ title: "RetroGaming - Frog"
 
 
 ## Details
-- **Distanz (km):** 3,57
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 8.730
-- **Das ist mein Banner Nr.:** 416
-- **Beschreibung:** Starte auf dem Markt eine Entdeckungsreise durch die Stadt Pasewalk und entdecke dabei die Sehenswürdigkeiten der Stadt
+- **Distance (km):** 3.57
+
+- **Total missions completed:** 
+- **This is my banner no.:** 416
+
+
+!!! note "Description"
+    Starte auf dem Markt eine Entdeckungsreise durch die Stadt Pasewalk und entdecke dabei die Sehenswürdigkeiten der Stadt
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/retrogaming-frog-e9b4" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/retrogaming-frog-e9b4){ .md-button .md-button--primary }
 
 
-> Datei: `000416_retrogaming-frog_2022.md` • #000416 • Slug: `retrogaming-frog`
+
+> File: `000416_retrogaming-frog_2022.md` • #000416 • Slug: `retrogaming-frog`

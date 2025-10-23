@@ -23,18 +23,20 @@ title: "MD 2022- Stolpersteine, Berlin"
 
 
 ## Details
-- **Distanz (km):** 2,946
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 10.974
-- **Das ist mein Banner Nr.:** 516
-- **Beschreibung:** Part of MD 2022- Stolpersteine
+- **Distance (km):** 2.95
+
+- **Total missions completed:** 
+- **This is my banner no.:** 516
+
+
+!!! note "Description"
+    Part of MD 2022- Stolpersteine
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/md-2022-stolpersteine-berlin-0d29" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/md-2022-stolpersteine-berlin-0d29){ .md-button .md-button--primary }
 
 
-> Datei: `000516_md-2022-stolpersteine-berlin_2022.md` • #000516 • Slug: `md-2022-stolpersteine-berlin`
+
+> File: `000516_md-2022-stolpersteine-berlin_2022.md` • #000516 • Slug: `md-2022-stolpersteine-berlin`

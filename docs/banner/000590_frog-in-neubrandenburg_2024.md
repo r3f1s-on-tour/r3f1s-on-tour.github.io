@@ -23,18 +23,20 @@ title: "Frog in Neubrandenburg"
 ![Frog in Neubrandenburg](https://api.bannergress.com/bnrs/pictures/9582c8830b4adf1afd3623aa41313d9a)
 
 ## Details
-- **Distanz (km):** 4,795
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 13.068
-- **Das ist mein Banner Nr.:** 590
-- **Beschreibung:** Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde die Sehenswürdigkeiten und Denkmäler der Stadt.
+- **Distance (km):** 4.79
+
+- **Total missions completed:** 
+- **This is my banner no.:** 590
+
+
+!!! note "Description"
+    Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde die Sehenswürdigkeiten und Denkmäler der Stadt.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/frog-in-neubrandenburg-fbd3" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/frog-in-neubrandenburg-fbd3){ .md-button .md-button--primary }
 
 
-> Datei: `000590_frog-in-neubrandenburg_2024.md` • #000590 • Slug: `frog-in-neubrandenburg`
+
+> File: `000590_frog-in-neubrandenburg_2024.md` • #000590 • Slug: `frog-in-neubrandenburg`

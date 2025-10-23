@@ -23,18 +23,20 @@ title: "Thriller in Oranienburg"
 
 
 ## Details
-- **Distanz (km):** 5,81
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 7500
-- **Das ist mein Banner Nr.:** 326
-- **Beschreibung:** Mache eine kleine Tour durch Oranienburg und starte am Bahnhof
+- **Distance (km):** 5.81
+
+- **Total missions completed:** 
+- **This is my banner no.:** 326
+
+
+!!! note "Description"
+    Mache eine kleine Tour durch Oranienburg und starte am Bahnhof
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/thriller-in-oranienburg-97e9" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/thriller-in-oranienburg-97e9){ .md-button .md-button--primary }
 
 
-> Datei: `000326_thriller-in-oranienburg_2021.md` • #000326 • Slug: `thriller-in-oranienburg`
+
+> File: `000326_thriller-in-oranienburg_2021.md` • #000326 • Slug: `thriller-in-oranienburg`

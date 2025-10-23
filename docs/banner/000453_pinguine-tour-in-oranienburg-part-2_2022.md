@@ -23,12 +23,16 @@ title: "Pinguine Tour in Oranienburg Part 2"
 
 
 ## Details
-- **Distanz (km):** 6,05
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 9.384
-- **Das ist mein Banner Nr.:** 453
-- **Beschreibung:** Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
+- **Distance (km):** 6.05
+
+- **Total missions completed:** 
+- **This is my banner no.:** 453
+
+
+!!! note "Description"
+    Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> Datei: `000453_pinguine-tour-in-oranienburg-part-2_2022.md` • #000453 • Slug: `pinguine-tour-in-oranienburg-part-2`
+
+> File: `000453_pinguine-tour-in-oranienburg-part-2_2022.md` • #000453 • Slug: `pinguine-tour-in-oranienburg-part-2`

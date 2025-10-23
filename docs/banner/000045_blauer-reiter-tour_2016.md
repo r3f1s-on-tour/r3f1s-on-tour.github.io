@@ -23,20 +23,22 @@ title: "Blauer Reiter Tour"
 ![Blauer Reiter Tour](https://api.bannergress.com/bnrs/pictures/0d330415cd7568296591257b578f2bff)
 
 ## Details
-- **Distanz (km):** 17,08
-- **Missionen im Banner:** 48
-- **Insgesamt abgeschlossene Missionen:** 1026
-- **Das ist mein Banner Nr.:** 45
-- **Beschreibung:** Wünsche viel Spaß beim Spielen beim 48 Mosaik des Blauen Reiters. 
+- **Distance (km):** 17.08
+
+- **Total missions completed:** 
+- **This is my banner no.:** 45
+
+
+!!! note "Description"
+    Wünsche viel Spaß beim Spielen beim 48 Mosaik des Blauen Reiters. 
 
 Erschaffen hat den Blauen Reiter Franz Marc (1880 – 1916), wo man das Original im Lenbachhaus anschauen kann.
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/blauer-reiter-tour-9d18" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/blauer-reiter-tour-9d18){ .md-button .md-button--primary }
 
 
-> Datei: `000045_blauer-reiter-tour_2016.md` • #000045 • Slug: `blauer-reiter-tour`
+
+> File: `000045_blauer-reiter-tour_2016.md` • #000045 • Slug: `blauer-reiter-tour`

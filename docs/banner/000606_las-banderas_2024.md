@@ -23,18 +23,20 @@ title: "Las Banderas"
 ![Las Banderas](https://api.bannergress.com/bnrs/pictures/1b12a50c200b30ace4a20b0cd161dc02)
 
 ## Details
-- **Distanz (km):** 4,719
-- **Missionen im Banner:** 12
-- **Insgesamt abgeschlossene Missionen:** 13.302
-- **Das ist mein Banner Nr.:** 606
-- **Beschreibung:** Vamos a pasear desde un gran punto de reunión e interés (La Nau de l'aigua) hasta otro gran punto de referencia (Las Banderas) que hace de unión entre el paseo marítimo y "La Marina de València"
+- **Distance (km):** 4.72
+
+- **Total missions completed:** 
+- **This is my banner no.:** 606
+
+
+!!! note "Description"
+    Vamos a pasear desde un gran punto de reunión e interés (La Nau de l'aigua) hasta otro gran punto de referencia (Las Banderas) que hace de unión entre el paseo marítimo y "La Marina de València"
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/las-banderas-c32a" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/las-banderas-c32a){ .md-button .md-button--primary }
 
 
-> Datei: `000606_las-banderas_2024.md` • #000606 • Slug: `las-banderas`
+
+> File: `000606_las-banderas_2024.md` • #000606 • Slug: `las-banderas`

@@ -23,19 +23,21 @@ title: "Berlin musikalisch"
 
 
 ## Details
-- **Distanz (km):** 15,82
-- **Missionen im Banner:** 48
-- **Insgesamt abgeschlossene Missionen:** 7062
-- **Das ist mein Banner Nr.:** 302
-- **Beschreibung:** Auf dem Weg vom Postbahnhof zum Lido. 
+- **Distance (km):** 15.82
+
+- **Total missions completed:** 
+- **This is my banner no.:** 302
+
+
+!!! note "Description"
+    Auf dem Weg vom Postbahnhof zum Lido. 
 Zwei der besten Konzertlocations in Berlin.
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/berlin-musikalisch-5b7d" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/berlin-musikalisch-5b7d){ .md-button .md-button--primary }
 
 
-> Datei: `000302_berlin-musikalisch_2021.md` • #000302 • Slug: `berlin-musikalisch`
+
+> File: `000302_berlin-musikalisch_2021.md` • #000302 • Slug: `berlin-musikalisch`

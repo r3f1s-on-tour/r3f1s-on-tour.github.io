@@ -24,11 +24,12 @@ title: "Olydorf-Tour"
 
 ## Details
 
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 3306
-- **Das ist mein Banner Nr.:** 137
+
+- **Total missions completed:** 
+- **This is my banner no.:** 137
 
 
 
 
-> Datei: `000137_olydorf-tour_2018.md` • #000137 • Slug: `olydorf-tour`
+
+> File: `000137_olydorf-tour_2018.md` • #000137 • Slug: `olydorf-tour`

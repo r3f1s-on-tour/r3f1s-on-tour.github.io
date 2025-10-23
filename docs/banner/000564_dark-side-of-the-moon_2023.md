@@ -23,18 +23,20 @@ title: "Dark Side of the Moon"
 ![Dark Side of the Moon](https://api.bannergress.com/bnrs/pictures/8056b949b29c54063454af0daeea55b4)
 
 ## Details
-- **Distanz (km):** 5,476
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 12.498
-- **Das ist mein Banner Nr.:** 564
-- **Beschreibung:** Discover the dark side of the moon in Potsdam. Start at the Fachhochschule and move towards Nauener Tor.
+- **Distance (km):** 5.48
+
+- **Total missions completed:** 
+- **This is my banner no.:** 564
+
+
+!!! note "Description"
+    Discover the dark side of the moon in Potsdam. Start at the Fachhochschule and move towards Nauener Tor.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/dark-side-of-the-moon-b01f" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/dark-side-of-the-moon-b01f){ .md-button .md-button--primary }
 
 
-> Datei: `000564_dark-side-of-the-moon_2023.md` • #000564 • Slug: `dark-side-of-the-moon`
+
+> File: `000564_dark-side-of-the-moon_2023.md` • #000564 • Slug: `dark-side-of-the-moon`

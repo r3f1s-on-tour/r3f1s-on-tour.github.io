@@ -23,18 +23,20 @@ title: "Nomadic Empire"
 
 
 ## Details
-- **Distanz (km):** 9,70
-- **Missionen im Banner:** 30
-- **Insgesamt abgeschlossene Missionen:** 7104
-- **Das ist mein Banner Nr.:** 304
-- **Beschreibung:** A nice walk from Alexanderplatz along the Kollwitzkietz to Brunnenviertel with its famous railway-facilities.
+- **Distance (km):** 9.70
+
+- **Total missions completed:** 
+- **This is my banner no.:** 304
+
+
+!!! note "Description"
+    A nice walk from Alexanderplatz along the Kollwitzkietz to Brunnenviertel with its famous railway-facilities.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/mongol-nomadic-empire-75d0" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/mongol-nomadic-empire-75d0){ .md-button .md-button--primary }
 
 
-> Datei: `000304_nomadic-empire_2021.md` • #000304 • Slug: `nomadic-empire`
+
+> File: `000304_nomadic-empire_2021.md` • #000304 • Slug: `nomadic-empire`

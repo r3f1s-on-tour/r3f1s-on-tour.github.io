@@ -23,18 +23,20 @@ title: "MissionDay Kaiserburg"
 ![MissionDay Kaiserburg](https://api.bannergress.com/bnrs/pictures/2104e045dafdef8399f8f8b76ec19f50)
 
 ## Details
-- **Distanz (km):** 8,73
-- **Missionen im Banner:** 30
-- **Insgesamt abgeschlossene Missionen:** 1590
-- **Das ist mein Banner Nr.:** 68
-- **Beschreibung:** Welcome to Nürnberg! Starting at Handwerkerhof across the main station this mission will lead you all along the old city wall up to the imperial castle and back to the main station.
+- **Distance (km):** 8.73
+
+- **Total missions completed:** 
+- **This is my banner no.:** 68
+
+
+!!! note "Description"
+    Welcome to Nürnberg! Starting at Handwerkerhof across the main station this mission will lead you all along the old city wall up to the imperial castle and back to the main station.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/missionday-n%C3%BCrnberg-ec91" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/missionday-n%C3%BCrnberg-ec91){ .md-button .md-button--primary }
 
 
-> Datei: `000068_missionday-kaiserburg_2017.md` • #000068 • Slug: `missionday-kaiserburg`
+
+> File: `000068_missionday-kaiserburg_2017.md` • #000068 • Slug: `missionday-kaiserburg`

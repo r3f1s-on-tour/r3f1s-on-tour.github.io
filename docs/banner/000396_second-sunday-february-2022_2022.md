@@ -23,12 +23,16 @@ title: "Second Sunday - February 2022"
 
 
 ## Details
-- **Distanz (km):** 1,60
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 8.508
-- **Das ist mein Banner Nr.:** 396
-- **Beschreibung:** Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
+- **Distance (km):** 1.60
+
+- **Total missions completed:** 
+- **This is my banner no.:** 396
+
+
+!!! note "Description"
+    Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
 
 
 
-> Datei: `000396_second-sunday-february-2022_2022.md` • #000396 • Slug: `second-sunday-february-2022`
+
+> File: `000396_second-sunday-february-2022_2022.md` • #000396 • Slug: `second-sunday-february-2022`

@@ -23,18 +23,20 @@ title: "Slaget om Malmö"
 
 
 ## Details
-- **Distanz (km):** 2,56
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 4674
-- **Das ist mein Banner Nr.:** 200
-- **Beschreibung:** Sista kriget mellan Sverige och Danmark var i slutet av 1600-talet. Då hade det krigats  till och från i ett par hundra år om Skåne.  Bild av 1658 när Karl X Gustav besöker nya staden. Not 24/7!
+- **Distance (km):** 2.56
+
+- **Total missions completed:** 
+- **This is my banner no.:** 200
+
+
+!!! note "Description"
+    Sista kriget mellan Sverige och Danmark var i slutet av 1600-talet. Då hade det krigats  till och från i ett par hundra år om Skåne.  Bild av 1658 när Karl X Gustav besöker nya staden. Not 24/7!
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/slaget-om-malm%C3%B6-8c4a" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/slaget-om-malm%C3%B6-8c4a){ .md-button .md-button--primary }
 
 
-> Datei: `000200_slaget-om-malm_2018.md` • #000200 • Slug: `slaget-om-malm`
+
+> File: `000200_slaget-om-malm_2018.md` • #000200 • Slug: `slaget-om-malm`

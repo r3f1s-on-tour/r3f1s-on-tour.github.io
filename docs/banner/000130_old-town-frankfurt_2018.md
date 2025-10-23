@@ -23,19 +23,21 @@ title: "Old Town Frankfurt"
 
 
 ## Details
-- **Distanz (km):** 6,30
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 3174
-- **Das ist mein Banner Nr.:** 130
-- **Beschreibung:** This tour guides you through the Old Town of Frankfurt. We start on the Roemerberg, where the old city hall called Roemer is placed. This mission is hack-only.
+- **Distance (km):** 6.30
+
+- **Total missions completed:** 
+- **This is my banner no.:** 130
+
+
+!!! note "Description"
+    This tour guides you through the Old Town of Frankfurt. We start on the Roemerberg, where the old city hall called Roemer is placed. This mission is hack-only.
 (Picture from an old postcard of 1915)
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/old-town-frankfurt-e920" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/old-town-frankfurt-e920){ .md-button .md-button--primary }
 
 
-> Datei: `000130_old-town-frankfurt_2018.md` • #000130 • Slug: `old-town-frankfurt`
+
+> File: `000130_old-town-frankfurt_2018.md` • #000130 • Slug: `old-town-frankfurt`

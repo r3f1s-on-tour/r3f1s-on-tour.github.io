@@ -23,12 +23,16 @@ title: "Merry Christmas - Strasburg"
 
 
 ## Details
-- **Distanz (km):** 3,18
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 7998
-- **Das ist mein Banner Nr.:** 362
-- **Beschreibung:** Starte am Marktplatz und entdecke Strasburg Uckermark bei einer weihnachtlichen Spaziergang.
+- **Distance (km):** 3.18
+
+- **Total missions completed:** 
+- **This is my banner no.:** 362
+
+
+!!! note "Description"
+    Starte am Marktplatz und entdecke Strasburg Uckermark bei einer weihnachtlichen Spaziergang.
 
 
 
-> Datei: `000362_merry-christmas-strasburg_2021.md` • #000362 • Slug: `merry-christmas-strasburg`
+
+> File: `000362_merry-christmas-strasburg_2021.md` • #000362 • Slug: `merry-christmas-strasburg`

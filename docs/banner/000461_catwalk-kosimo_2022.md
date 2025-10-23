@@ -23,18 +23,20 @@ title: "Catwalk Kosimo"
 ![Catwalk Kosimo](https://api.bannergress.com/bnrs/pictures/60e253a7549362a18baee306acd4593f)
 
 ## Details
-- **Distanz (km):** 6,862
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 9.552
-- **Das ist mein Banner Nr.:** 461
-- **Beschreibung:** Join my cat Kosimo on a journey of discovery from S+U Lichtenberg to Friedrichsfelde and then in an arc through the Weitlingkiez back to his starting point.
+- **Distance (km):** 6.86
+
+- **Total missions completed:** 
+- **This is my banner no.:** 461
+
+
+!!! note "Description"
+    Join my cat Kosimo on a journey of discovery from S+U Lichtenberg to Friedrichsfelde and then in an arc through the Weitlingkiez back to his starting point.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/catwalk-kosimo-55e1" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/catwalk-kosimo-55e1){ .md-button .md-button--primary }
 
 
-> Datei: `000461_catwalk-kosimo_2022.md` • #000461 • Slug: `catwalk-kosimo`
+
+> File: `000461_catwalk-kosimo_2022.md` • #000461 • Slug: `catwalk-kosimo`

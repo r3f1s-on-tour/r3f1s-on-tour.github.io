@@ -23,18 +23,20 @@ title: "RetroGaming - Pacman"
 
 
 ## Details
-- **Distanz (km):** 3,57
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 8.718
-- **Das ist mein Banner Nr.:** 414
-- **Beschreibung:** Starte auf dem Markt eine Entdeckungsreise durch die Stadt Pasewalk und entdecke dabei die Sehenswürdigkeiten der Stadt
+- **Distance (km):** 3.57
+
+- **Total missions completed:** 
+- **This is my banner no.:** 414
+
+
+!!! note "Description"
+    Starte auf dem Markt eine Entdeckungsreise durch die Stadt Pasewalk und entdecke dabei die Sehenswürdigkeiten der Stadt
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/retrogaming-pacman-7932" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/retrogaming-pacman-7932){ .md-button .md-button--primary }
 
 
-> Datei: `000414_retrogaming-pacman_2022.md` • #000414 • Slug: `retrogaming-pacman`
+
+> File: `000414_retrogaming-pacman_2022.md` • #000414 • Slug: `retrogaming-pacman`

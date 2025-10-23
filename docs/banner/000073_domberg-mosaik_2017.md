@@ -23,19 +23,21 @@ title: "Domberg-Mosaik"
 ![Domberg-Mosaik](https://api.bannergress.com/bnrs/pictures/95d8726bc1d325192bbca93502f70816)
 
 ## Details
-- **Distanz (km):** 8,44
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 2040
-- **Das ist mein Banner Nr.:** 73
-- **Beschreibung:** 18-teilige Mosaik-Missionen rund um den Freisinger Domberg.
+- **Distance (km):** 8.44
+
+- **Total missions completed:** 
+- **This is my banner no.:** 73
+
+
+!!! note "Description"
+    18-teilige Mosaik-Missionen rund um den Freisinger Domberg.
 Erster Teil startet im Domhof, wo auch der letzte Teil beendet wird.
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/domberg-mosaik-67a6" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/domberg-mosaik-67a6){ .md-button .md-button--primary }
 
 
-> Datei: `000073_domberg-mosaik_2017.md` • #000073 • Slug: `domberg-mosaik`
+
+> File: `000073_domberg-mosaik_2017.md` • #000073 • Slug: `domberg-mosaik`

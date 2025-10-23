@@ -23,18 +23,20 @@ title: "Kirche in Birkenwerder"
 ![Kirche in Birkenwerder](https://api.bannergress.com/bnrs/pictures/816c29e707a3870739747459dff43ee6)
 
 ## Details
-- **Distanz (km):** 7,026
-- **Missionen im Banner:** 42
-- **Insgesamt abgeschlossene Missionen:** 12.174
-- **Das ist mein Banner Nr.:** 549
-- **Beschreibung:** Beginne eine Runde durch Birkenwerder und entdecke auf deiner Runde die Wassertretanlage in der Briese. Starte am Briesesteig deine Runde
+- **Distance (km):** 7.03
+
+- **Total missions completed:** 
+- **This is my banner no.:** 549
+
+
+!!! note "Description"
+    Beginne eine Runde durch Birkenwerder und entdecke auf deiner Runde die Wassertretanlage in der Briese. Starte am Briesesteig deine Runde
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/kirche-in-birkenwerder-c60b" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/kirche-in-birkenwerder-c60b){ .md-button .md-button--primary }
 
 
-> Datei: `000549_kirche-in-birkenwerder_2023.md` • #000549 • Slug: `kirche-in-birkenwerder`
+
+> File: `000549_kirche-in-birkenwerder_2023.md` • #000549 • Slug: `kirche-in-birkenwerder`

@@ -23,18 +23,20 @@ title: "Marx is calling you - Neubrandenburg"
 ![Marx is calling you - Neubrandenburg](https://api.bannergress.com/bnrs/pictures/6b0ad5ccfffd041be5a78ec6f05071c3)
 
 ## Details
-- **Distanz (km):** 1,366
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 13.338
-- **Das ist mein Banner Nr.:** 609
-- **Beschreibung:** "+Theta Chemnitz is coming! Explore a city in transformation from industrial heritage and stunning architecture to cultural diversity. As ECoC 2025, Chemnitz invites you to C the Unseen!"
+- **Distance (km):** 1.37
+
+- **Total missions completed:** 
+- **This is my banner no.:** 609
+
+
+!!! note "Description"
+    "+Theta Chemnitz is coming! Explore a city in transformation from industrial heritage and stunning architecture to cultural diversity. As ECoC 2025, Chemnitz invites you to C the Unseen!"
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/marx-is-calling-you-neubrandenburg-459a" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/marx-is-calling-you-neubrandenburg-459a){ .md-button .md-button--primary }
 
 
-> Datei: `000609_marx-is-calling-you-neubrandenburg_2025.md` • #000609 • Slug: `marx-is-calling-you-neubrandenburg`
+
+> File: `000609_marx-is-calling-you-neubrandenburg_2025.md` • #000609 • Slug: `marx-is-calling-you-neubrandenburg`

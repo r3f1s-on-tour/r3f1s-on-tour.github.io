@@ -23,12 +23,16 @@ title: "Snowflakes in Oranienburg"
 
 
 ## Details
-- **Distanz (km):** 17,7
-- **Missionen im Banner:** 66
-- **Insgesamt abgeschlossene Missionen:** 11.076
-- **Das ist mein Banner Nr.:** 523
-- **Beschreibung:** Starte eine Runde durch Oranienburg zum Second Sunday und denke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg
+- **Distance (km):** 17.70
+
+- **Total missions completed:** 
+- **This is my banner no.:** 523
+
+
+!!! note "Description"
+    Starte eine Runde durch Oranienburg zum Second Sunday und denke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg
 
 
 
-> Datei: `000523_snowflakes-in-oranienburg_2023.md` • #000523 • Slug: `snowflakes-in-oranienburg`
+
+> File: `000523_snowflakes-in-oranienburg_2023.md` • #000523 • Slug: `snowflakes-in-oranienburg`

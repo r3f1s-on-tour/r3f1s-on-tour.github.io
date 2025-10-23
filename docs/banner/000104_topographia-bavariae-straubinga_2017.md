@@ -23,18 +23,20 @@ title: "Topographia Bavariae Straubinga"
 
 
 ## Details
-- **Distanz (km):** 4,14
-- **Missionen im Banner:** 12
-- **Insgesamt abgeschlossene Missionen:** 2664
-- **Das ist mein Banner Nr.:** 104
-- **Beschreibung:** A Tour through the historical Straubing.
+- **Distance (km):** 4.14
+
+- **Total missions completed:** 
+- **This is my banner no.:** 104
+
+
+!!! note "Description"
+    A Tour through the historical Straubing.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/topographia-bavariae-straubinga-9e97" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/topographia-bavariae-straubinga-9e97){ .md-button .md-button--primary }
 
 
-> Datei: `000104_topographia-bavariae-straubinga_2017.md` • #000104 • Slug: `topographia-bavariae-straubinga`
+
+> File: `000104_topographia-bavariae-straubinga_2017.md` • #000104 • Slug: `topographia-bavariae-straubinga`

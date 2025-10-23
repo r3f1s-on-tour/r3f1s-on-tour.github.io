@@ -23,18 +23,20 @@ title: "Happy Penguins"
 ![Happy Penguins](https://api.bannergress.com/bnrs/pictures/d8b662243150fb4deb9d1b4b29fd8f61)
 
 ## Details
-- **Distanz (km):** 1,619
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 13.008
-- **Das ist mein Banner Nr.:** 585
-- **Beschreibung:** Weihnachtliche Pinguine verstecken sich am Dresdner Elbufer. Kannst du sie finden?
+- **Distance (km):** 1.62
+
+- **Total missions completed:** 
+- **This is my banner no.:** 585
+
+
+!!! note "Description"
+    Weihnachtliche Pinguine verstecken sich am Dresdner Elbufer. Kannst du sie finden?
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/happy-penguins-d971" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/happy-penguins-d971){ .md-button .md-button--primary }
 
 
-> Datei: `000585_happy-penguins_2023.md` • #000585 • Slug: `happy-penguins`
+
+> File: `000585_happy-penguins_2023.md` • #000585 • Slug: `happy-penguins`

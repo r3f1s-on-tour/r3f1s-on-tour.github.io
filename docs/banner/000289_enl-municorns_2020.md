@@ -23,18 +23,20 @@ title: "ENL Municorns"
 
 
 ## Details
-- **Distanz (km):** 5,87
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 6732
-- **Das ist mein Banner Nr.:** 289
-- **Beschreibung:** The most mystical anomaly ever would definitely be the Unicorn anomaly in Munich - pardon- the Municorn Anomaly.
+- **Distance (km):** 5.87
+
+- **Total missions completed:** 
+- **This is my banner no.:** 289
+
+
+!!! note "Description"
+    The most mystical anomaly ever would definitely be the Unicorn anomaly in Munich - pardon- the Municorn Anomaly.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/enl-municorns-e3a4" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/enl-municorns-e3a4){ .md-button .md-button--primary }
 
 
-> Datei: `000289_enl-municorns_2020.md` • #000289 • Slug: `enl-municorns`
+
+> File: `000289_enl-municorns_2020.md` • #000289 • Slug: `enl-municorns`

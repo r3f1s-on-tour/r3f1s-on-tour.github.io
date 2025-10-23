@@ -23,18 +23,20 @@ title: "FrogVersum in Oranienburg"
 ![FrogVersum in Oranienburg](https://api.bannergress.com/bnrs/pictures/bac9bbf077680843963f4fd3668e3508)
 
 ## Details
-- **Distanz (km):** 9,631
-- **Missionen im Banner:** 36
-- **Insgesamt abgeschlossene Missionen:** 12.072
-- **Das ist mein Banner Nr.:** 545
-- **Beschreibung:** Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg. Starte in der Bernauer Straße
+- **Distance (km):** 9.63
+
+- **Total missions completed:** 
+- **This is my banner no.:** 545
+
+
+!!! note "Description"
+    Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg. Starte in der Bernauer Straße
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/frogversum-in-oranienburg-c78b" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/frogversum-in-oranienburg-c78b){ .md-button .md-button--primary }
 
 
-> Datei: `000545_frogversum-in-oranienburg_2023.md` • #000545 • Slug: `frogversum-in-oranienburg`
+
+> File: `000545_frogversum-in-oranienburg_2023.md` • #000545 • Slug: `frogversum-in-oranienburg`

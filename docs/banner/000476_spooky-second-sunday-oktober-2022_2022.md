@@ -23,18 +23,20 @@ title: "Spooky Second Sunday - Oktober 2022"
 ![Spooky Second Sunday - Oktober 2022](https://api.bannergress.com/bnrs/pictures/acefba91bada626723bc788acb785537)
 
 ## Details
-- **Distanz (km):** 1,599
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 10.374
-- **Das ist mein Banner Nr.:** 476
-- **Beschreibung:** Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
+- **Distance (km):** 1.60
+
+- **Total missions completed:** 
+- **This is my banner no.:** 476
+
+
+!!! note "Description"
+    Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/spooky-second-sunday-oktober-2022-b212" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/spooky-second-sunday-oktober-2022-b212){ .md-button .md-button--primary }
 
 
-> Datei: `000476_spooky-second-sunday-oktober-2022_2022.md` • #000476 • Slug: `spooky-second-sunday-oktober-2022`
+
+> File: `000476_spooky-second-sunday-oktober-2022_2022.md` • #000476 • Slug: `spooky-second-sunday-oktober-2022`

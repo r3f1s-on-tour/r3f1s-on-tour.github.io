@@ -23,18 +23,20 @@ title: "BC Regensburgp"
 
 
 ## Details
-- **Distanz (km):** 6,41
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 2628
-- **Das ist mein Banner Nr.:** 102
-- **Beschreibung:** Visit the "Historische Wurstkuchl". This is notable as perhaps the oldest continuously open public diner in the world. It serves food to people since 1146. Enjoy the famous "Bratwurschtkipferl".
+- **Distance (km):** 6.41
+
+- **Total missions completed:** 
+- **This is my banner no.:** 102
+
+
+!!! note "Description"
+    Visit the "Historische Wurstkuchl". This is notable as perhaps the oldest continuously open public diner in the world. It serves food to people since 1146. Enjoy the famous "Bratwurschtkipferl".
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/bc-regensburg-4d46" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/bc-regensburg-4d46){ .md-button .md-button--primary }
 
 
-> Datei: `000102_bc-regensburgp_2017.md` • #000102 • Slug: `bc-regensburgp`
+
+> File: `000102_bc-regensburgp_2017.md` • #000102 • Slug: `bc-regensburgp`

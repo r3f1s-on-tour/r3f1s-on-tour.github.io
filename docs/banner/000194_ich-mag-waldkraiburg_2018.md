@@ -23,19 +23,21 @@ title: "Ich mag Waldkraiburg"
 
 
 ## Details
-- **Distanz (km):** 4,01
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 4584
-- **Das ist mein Banner Nr.:** 194
-- **Beschreibung:** Eine Tour durch Waldkraiburg. Wenn man die Missionen der Reihe nach macht erhält man den Schriftzug "Ich mag Waldkraiburg".
+- **Distance (km):** 4.01
+
+- **Total missions completed:** 
+- **This is my banner no.:** 194
+
+
+!!! note "Description"
+    Eine Tour durch Waldkraiburg. Wenn man die Missionen der Reihe nach macht erhält man den Schriftzug "Ich mag Waldkraiburg".
 Mission 1- Vom Rathaus Richtung Stadtpark
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/ich-mag-waldkraiburg-d034" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/ich-mag-waldkraiburg-d034){ .md-button .md-button--primary }
 
 
-> Datei: `000194_ich-mag-waldkraiburg_2018.md` • #000194 • Slug: `ich-mag-waldkraiburg`
+
+> File: `000194_ich-mag-waldkraiburg_2018.md` • #000194 • Slug: `ich-mag-waldkraiburg`

@@ -23,18 +23,20 @@ title: "Pankowsmasher"
 
 
 ## Details
-- **Distanz (km):** 8,97
-- **Missionen im Banner:** 12
-- **Insgesamt abgeschlossene Missionen:** 6480
-- **Das ist mein Banner Nr.:** 279
-- **Beschreibung:** Diese Mission beginnt in Pankow und geleitet euch vorbei an wunderschönen Wasserpumpen, Informationstafeln und historischen Bauwerken.  Sie besteht aus 12 Missionen  und bildet ein  einmaliges Banner.
+- **Distance (km):** 8.97
+
+- **Total missions completed:** 
+- **This is my banner no.:** 279
+
+
+!!! note "Description"
+    Diese Mission beginnt in Pankow und geleitet euch vorbei an wunderschönen Wasserpumpen, Informationstafeln und historischen Bauwerken.  Sie besteht aus 12 Missionen  und bildet ein  einmaliges Banner.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/pankowsmasher-b978" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/pankowsmasher-b978){ .md-button .md-button--primary }
 
 
-> Datei: `000279_pankowsmasher_2020.md` • #000279 • Slug: `pankowsmasher`
+
+> File: `000279_pankowsmasher_2020.md` • #000279 • Slug: `pankowsmasher`

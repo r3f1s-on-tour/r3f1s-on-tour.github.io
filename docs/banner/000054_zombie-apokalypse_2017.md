@@ -23,18 +23,20 @@ title: "Zombie Apokalypse"
 ![Zombie Apokalypse](https://api.bannergress.com/bnrs/pictures/5af621cc1fd0fe4e83ab4d00eea6c11a)
 
 ## Details
-- **Distanz (km):** 4,55
-- **Missionen im Banner:** 12
-- **Insgesamt abgeschlossene Missionen:** 1236
-- **Das ist mein Banner Nr.:** 54
-- **Beschreibung:** Zombies überrennen die Stadt. Versuche zu entkommen und durchquere die Altstadt.
+- **Distance (km):** 4.55
+
+- **Total missions completed:** 
+- **This is my banner no.:** 54
+
+
+!!! note "Description"
+    Zombies überrennen die Stadt. Versuche zu entkommen und durchquere die Altstadt.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/zombie-apokalypse-8e27" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/zombie-apokalypse-8e27){ .md-button .md-button--primary }
 
 
-> Datei: `000054_zombie-apokalypse_2017.md` • #000054 • Slug: `zombie-apokalypse`
+
+> File: `000054_zombie-apokalypse_2017.md` • #000054 • Slug: `zombie-apokalypse`

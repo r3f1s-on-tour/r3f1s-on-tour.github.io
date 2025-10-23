@@ -23,18 +23,20 @@ title: "Casco Histórico Plz. La Virgen"
 ![Casco Histórico Plz. La Virgen](https://api.bannergress.com/bnrs/pictures/342c7600849e873a4902bf8f0f8af4d0)
 
 ## Details
-- **Distanz (km):** 4,275
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 13.218
-- **Das ist mein Banner Nr.:** 599
-- **Beschreibung:** Uno de los lugares mas emblemáticos de la ciudad Valenciana, es sin duda la plaza de la Virgen en pleno centro del casco antiguo y rodeado de muchas calles con un ambiente muy muy agradable.
+- **Distance (km):** 4.28
+
+- **Total missions completed:** 
+- **This is my banner no.:** 599
+
+
+!!! note "Description"
+    Uno de los lugares mas emblemáticos de la ciudad Valenciana, es sin duda la plaza de la Virgen en pleno centro del casco antiguo y rodeado de muchas calles con un ambiente muy muy agradable.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/casco-hist%C3%B3rico-plz-la-virgen-4c18" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/casco-hist%C3%B3rico-plz-la-virgen-4c18){ .md-button .md-button--primary }
 
 
-> Datei: `000599_casco-histrico-plz-la-virgen_2024.md` • #000599 • Slug: `casco-histrico-plz-la-virgen`
+
+> File: `000599_casco-histrico-plz-la-virgen_2024.md` • #000599 • Slug: `casco-histrico-plz-la-virgen`

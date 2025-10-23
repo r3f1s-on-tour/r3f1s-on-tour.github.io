@@ -23,18 +23,20 @@ title: "Deathly Green Hallows"
 ![Deathly Green Hallows](https://api.bannergress.com/bnrs/pictures/8aa08bebec436b91fa019ecee5ac6957)
 
 ## Details
-- **Distanz (km):** 21,08
-- **Missionen im Banner:** 36
-- **Insgesamt abgeschlossene Missionen:** 8.952
-- **Das ist mein Banner Nr.:** 430
-- **Beschreibung:** Mach eine Entdeckungstour durch den Osten von Neubrandenburg.
+- **Distance (km):** 21.08
+
+- **Total missions completed:** 
+- **This is my banner no.:** 430
+
+
+!!! note "Description"
+    Mach eine Entdeckungstour durch den Osten von Neubrandenburg.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/deathly-green-hallows-8876" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/deathly-green-hallows-8876){ .md-button .md-button--primary }
 
 
-> Datei: `000430_deathly-green-hallows_2022.md` • #000430 • Slug: `deathly-green-hallows`
+
+> File: `000430_deathly-green-hallows_2022.md` • #000430 • Slug: `deathly-green-hallows`

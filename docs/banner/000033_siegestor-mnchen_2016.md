@@ -23,18 +23,20 @@ title: "Siegestor München"
 ![Siegestor München](https://api.bannergress.com/bnrs/pictures/235ff037bace8063259176a2f8e669d9)
 
 ## Details
-- **Distanz (km):** 7,66
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 672
-- **Das ist mein Banner Nr.:** 33
-- **Beschreibung:** Das Siegestor wurde 1843 bis 1850 aus Kelheimer Kalkstein errichtet. Am 15. Oktober 1850 übergab König Maximilian II. im Namen seines abgedankten Vaters das Siegestor an die Stadt München.
+- **Distance (km):** 7.66
+
+- **Total missions completed:** 
+- **This is my banner no.:** 33
+
+
+!!! note "Description"
+    Das Siegestor wurde 1843 bis 1850 aus Kelheimer Kalkstein errichtet. Am 15. Oktober 1850 übergab König Maximilian II. im Namen seines abgedankten Vaters das Siegestor an die Stadt München.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/siegestor-m%C3%BCnchen-4f77" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/siegestor-m%C3%BCnchen-4f77){ .md-button .md-button--primary }
 
 
-> Datei: `000033_siegestor-mnchen_2016.md` • #000033 • Slug: `siegestor-mnchen`
+
+> File: `000033_siegestor-mnchen_2016.md` • #000033 • Slug: `siegestor-mnchen`

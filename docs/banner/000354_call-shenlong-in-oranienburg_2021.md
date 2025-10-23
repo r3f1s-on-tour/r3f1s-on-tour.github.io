@@ -23,12 +23,16 @@ title: "Call Shenlong in Oranienburg"
 
 
 ## Details
-- **Distanz (km):** 6,05
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 7920
-- **Das ist mein Banner Nr.:** 354
-- **Beschreibung:** Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
+- **Distance (km):** 6.05
+
+- **Total missions completed:** 
+- **This is my banner no.:** 354
+
+
+!!! note "Description"
+    Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> Datei: `000354_call-shenlong-in-oranienburg_2021.md` • #000354 • Slug: `call-shenlong-in-oranienburg`
+
+> File: `000354_call-shenlong-in-oranienburg_2021.md` • #000354 • Slug: `call-shenlong-in-oranienburg`

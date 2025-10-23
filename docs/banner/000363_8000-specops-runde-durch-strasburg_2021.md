@@ -23,12 +23,16 @@ title: "8000 SpecOps Runde durch Strasburg"
 
 
 ## Details
-- **Distanz (km):** 2,79
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 8004
-- **Das ist mein Banner Nr.:** 363
-- **Beschreibung:** Mache eine Entdeckungsrunde durch Strasburg und hole die 8000 ins Profil
+- **Distance (km):** 2.79
+
+- **Total missions completed:** 
+- **This is my banner no.:** 363
+
+
+!!! note "Description"
+    Mache eine Entdeckungsrunde durch Strasburg und hole die 8000 ins Profil
 
 
 
-> Datei: `000363_8000-specops-runde-durch-strasburg_2021.md` • #000363 • Slug: `8000-specops-runde-durch-strasburg`
+
+> File: `000363_8000-specops-runde-durch-strasburg_2021.md` • #000363 • Slug: `8000-specops-runde-durch-strasburg`

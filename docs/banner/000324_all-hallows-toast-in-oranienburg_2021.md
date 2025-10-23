@@ -23,20 +23,22 @@ title: "All Hallows Toast in Oranienburg"
 
 
 ## Details
-- **Distanz (km):** 1,74
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 7470
-- **Das ist mein Banner Nr.:** 324
-- **Beschreibung:** Eine kleine Entdeckungsrunde durch Oranienburg. Die Reihe startet am Bahnhof und führt dich zum Schlosspark der Stadt
+- **Distance (km):** 1.74
+
+- **Total missions completed:** 
+- **This is my banner no.:** 324
+
+
+!!! note "Description"
+    Eine kleine Entdeckungsrunde durch Oranienburg. Die Reihe startet am Bahnhof und führt dich zum Schlosspark der Stadt
 
 Geht am 01.11.2021 offline
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/all-hallows-toast-in-oranienburg-1b78" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/all-hallows-toast-in-oranienburg-1b78){ .md-button .md-button--primary }
 
 
-> Datei: `000324_all-hallows-toast-in-oranienburg_2021.md` • #000324 • Slug: `all-hallows-toast-in-oranienburg`
+
+> File: `000324_all-hallows-toast-in-oranienburg_2021.md` • #000324 • Slug: `all-hallows-toast-in-oranienburg`

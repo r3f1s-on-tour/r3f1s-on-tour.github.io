@@ -23,19 +23,21 @@ title: "Berliner Alex in 24 Teilen"
 
 
 ## Details
-- **Distanz (km):** 7,37
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 6258
-- **Das ist mein Banner Nr.:** 261
-- **Beschreibung:** Eine Missionsreihe in 24 Teilen rund um den Berliner Alexanderplatz
+- **Distance (km):** 7.37
+
+- **Total missions completed:** 
+- **This is my banner no.:** 261
+
+
+!!! note "Description"
+    Eine Missionsreihe in 24 Teilen rund um den Berliner Alexanderplatz
 Start und Ende an der berühmten Weltzeituhr
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/berliner-alex-in-24-teilen-595a" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/berliner-alex-in-24-teilen-595a){ .md-button .md-button--primary }
 
 
-> Datei: `000261_berliner-alex-in-24-teilen_2020.md` • #000261 • Slug: `berliner-alex-in-24-teilen`
+
+> File: `000261_berliner-alex-in-24-teilen_2020.md` • #000261 • Slug: `berliner-alex-in-24-teilen`

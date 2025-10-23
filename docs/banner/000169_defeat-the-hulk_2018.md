@@ -23,18 +23,20 @@ title: "Defeat the Hulk"
 
 
 ## Details
-- **Distanz (km):** 1,62
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 4104
-- **Das ist mein Banner Nr.:** 169
-- **Beschreibung:** This tour guides you through the Friedrichshain Nordkiez which is also known as the Samariterkiez. You will find a lot of fascinating places here.
+- **Distance (km):** 1.62
+
+- **Total missions completed:** 
+- **This is my banner no.:** 169
+
+
+!!! note "Description"
+    This tour guides you through the Friedrichshain Nordkiez which is also known as the Samariterkiez. You will find a lot of fascinating places here.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/defeat-the-hulk-03ea" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/defeat-the-hulk-03ea){ .md-button .md-button--primary }
 
 
-> Datei: `000169_defeat-the-hulk_2018.md` • #000169 • Slug: `defeat-the-hulk`
+
+> File: `000169_defeat-the-hulk_2018.md` • #000169 • Slug: `defeat-the-hulk`

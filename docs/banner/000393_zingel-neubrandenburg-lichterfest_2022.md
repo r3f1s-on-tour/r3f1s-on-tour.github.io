@@ -23,18 +23,20 @@ title: "Zingel Neubrandenburg Lichterfest"
 
 
 ## Details
-- **Distanz (km):** 8,22
-- **Missionen im Banner:** 30
-- **Insgesamt abgeschlossene Missionen:** 8.490
-- **Das ist mein Banner Nr.:** 393
-- **Beschreibung:** Der Rundgang führt durch die Innenstadt von Neubrandenburg. Erlebe dabei die zahlreichen Gebäude aus dem Mittelalter und entdecke die Infotafeln, die die Geschichte der Stadt Neubrandenburg erzählen.
+- **Distance (km):** 8.22
+
+- **Total missions completed:** 
+- **This is my banner no.:** 393
+
+
+!!! note "Description"
+    Der Rundgang führt durch die Innenstadt von Neubrandenburg. Erlebe dabei die zahlreichen Gebäude aus dem Mittelalter und entdecke die Infotafeln, die die Geschichte der Stadt Neubrandenburg erzählen.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/zingel-neubrandenburg-lichterfest-b183" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/zingel-neubrandenburg-lichterfest-b183){ .md-button .md-button--primary }
 
 
-> Datei: `000393_zingel-neubrandenburg-lichterfest_2022.md` • #000393 • Slug: `zingel-neubrandenburg-lichterfest`
+
+> File: `000393_zingel-neubrandenburg-lichterfest_2022.md` • #000393 • Slug: `zingel-neubrandenburg-lichterfest`

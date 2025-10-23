@@ -24,11 +24,12 @@ title: "Ingress First Saturday FFB 03 09 2016"
 
 ## Details
 
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 690
-- **Das ist mein Banner Nr.:** 35
+
+- **Total missions completed:** 
+- **This is my banner no.:** 35
 
 
 
 
-> Datei: `000035_ingress-first-saturday-ffb-03-09-2016_2016.md` • #000035 • Slug: `ingress-first-saturday-ffb-03-09-2016`
+
+> File: `000035_ingress-first-saturday-ffb-03-09-2016_2016.md` • #000035 • Slug: `ingress-first-saturday-ffb-03-09-2016`

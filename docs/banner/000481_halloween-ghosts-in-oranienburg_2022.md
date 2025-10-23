@@ -23,18 +23,20 @@ title: "Halloween Ghosts in Oranienburg"
 ![Halloween Ghosts in Oranienburg](https://api.bannergress.com/bnrs/pictures/6f7936922144659006c5595beabc4602)
 
 ## Details
-- **Distanz (km):** 1,599
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 10.422
-- **Das ist mein Banner Nr.:** 481
-- **Beschreibung:** Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
+- **Distance (km):** 1.60
+
+- **Total missions completed:** 
+- **This is my banner no.:** 481
+
+
+!!! note "Description"
+    Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/halloween-ghosts-in-oranienburg-b9e6" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/halloween-ghosts-in-oranienburg-b9e6){ .md-button .md-button--primary }
 
 
-> Datei: `000481_halloween-ghosts-in-oranienburg_2022.md` • #000481 • Slug: `halloween-ghosts-in-oranienburg`
+
+> File: `000481_halloween-ghosts-in-oranienburg_2022.md` • #000481 • Slug: `halloween-ghosts-in-oranienburg`

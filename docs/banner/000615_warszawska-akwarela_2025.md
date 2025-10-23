@@ -24,17 +24,16 @@ title: "Warszawska akwarela"
 
 ## Details
 
-- **Missionen im Banner:** 12
-- **Insgesamt abgeschlossene Missionen:** 13.452
-- **Das ist mein Banner Nr.:** 615
+
+- **Total missions completed:** 
+- **This is my banner no.:** 615
+
 
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/warszawska-akwarela-f77f" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/warszawska-akwarela-f77f){ .md-button .md-button--primary }
 
 
-> Datei: `000615_warszawska-akwarela_2025.md` • #000615 • Slug: `warszawska-akwarela`
+
+> File: `000615_warszawska-akwarela_2025.md` • #000615 • Slug: `warszawska-akwarela`

@@ -23,18 +23,20 @@ title: "Tiger of the Year"
 
 
 ## Details
-- **Distanz (km):** 16,08
-- **Missionen im Banner:** 30
-- **Insgesamt abgeschlossene Missionen:** 8.808
-- **Das ist mein Banner Nr.:** 422
-- **Beschreibung:** Entdecke durch die Missionen Neubrandenburg. Die Mission beginnt  und endet im Vogelviertel.
+- **Distance (km):** 16.08
+
+- **Total missions completed:** 
+- **This is my banner no.:** 422
+
+
+!!! note "Description"
+    Entdecke durch die Missionen Neubrandenburg. Die Mission beginnt  und endet im Vogelviertel.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/tiger-of-the-year-15ba" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/tiger-of-the-year-15ba){ .md-button .md-button--primary }
 
 
-> Datei: `000422_tiger-of-the-year_2022.md` • #000422 • Slug: `tiger-of-the-year`
+
+> File: `000422_tiger-of-the-year_2022.md` • #000422 • Slug: `tiger-of-the-year`

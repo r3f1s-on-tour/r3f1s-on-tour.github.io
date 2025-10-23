@@ -23,21 +23,23 @@ title: "The Toasting"
 
 
 ## Details
-- **Distanz (km):** 1,60
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 8.496
-- **Das ist mein Banner Nr.:** 394
-- **Beschreibung:** Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
+- **Distance (km):** 1.60
+
+- **Total missions completed:** 
+- **This is my banner no.:** 394
+
+
+!!! note "Description"
+    Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
 
 -----------------------------------
 Online bis 14.02.2022
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/the-toasting-74be" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/the-toasting-74be){ .md-button .md-button--primary }
 
 
-> Datei: `000394_the-toasting_2022.md` • #000394 • Slug: `the-toasting`
+
+> File: `000394_the-toasting_2022.md` • #000394 • Slug: `the-toasting`

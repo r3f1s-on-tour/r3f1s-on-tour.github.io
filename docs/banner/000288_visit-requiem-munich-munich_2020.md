@@ -23,18 +23,20 @@ title: "Visit Requiem Munich - Munich"
 
 
 ## Details
-- **Distanz (km):** 1,09
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 6708
-- **Das ist mein Banner Nr.:** 288
-- **Beschreibung:** On the 9th May of 2020 an epic battle between Enlightened and Resistance will take place right here! Join our forces and spread the message by completing this banner.
+- **Distance (km):** 1.09
+
+- **Total missions completed:** 
+- **This is my banner no.:** 288
+
+
+!!! note "Description"
+    On the 9th May of 2020 an epic battle between Enlightened and Resistance will take place right here! Join our forces and spread the message by completing this banner.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/visit-requiem-munich-munich-6065" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/visit-requiem-munich-munich-6065){ .md-button .md-button--primary }
 
 
-> Datei: `000288_visit-requiem-munich-munich_2020.md` • #000288 • Slug: `visit-requiem-munich-munich`
+
+> File: `000288_visit-requiem-munich-munich_2020.md` • #000288 • Slug: `visit-requiem-munich-munich`

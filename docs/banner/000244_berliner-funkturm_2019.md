@@ -23,18 +23,20 @@ title: "Berliner Funkturm"
 ![Berliner Funkturm](https://api.bannergress.com/bnrs/pictures/e5bdca79ae49d548bcbd328e0c16509e)
 
 ## Details
-- **Distanz (km):** 86,77
-- **Missionen im Banner:** 150
-- **Insgesamt abgeschlossene Missionen:** 5964
-- **Das ist mein Banner Nr.:** 244
-- **Beschreibung:** Der Berliner Funkturm ist ein 146,7m hoher Stahlfachwerkturm in Berlin und  eines der Wahrzeichen der Stadt sowie Symbol des Widerstandes und Freiheitswillen der West-Berliner in der Nachkriegszeit.
+- **Distance (km):** 86.77
+
+- **Total missions completed:** 
+- **This is my banner no.:** 244
+
+
+!!! note "Description"
+    Der Berliner Funkturm ist ein 146,7m hoher Stahlfachwerkturm in Berlin und  eines der Wahrzeichen der Stadt sowie Symbol des Widerstandes und Freiheitswillen der West-Berliner in der Nachkriegszeit.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/berliner-funkturm-c3d7" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/berliner-funkturm-c3d7){ .md-button .md-button--primary }
 
 
-> Datei: `000244_berliner-funkturm_2019.md` • #000244 • Slug: `berliner-funkturm`
+
+> File: `000244_berliner-funkturm_2019.md` • #000244 • Slug: `berliner-funkturm`

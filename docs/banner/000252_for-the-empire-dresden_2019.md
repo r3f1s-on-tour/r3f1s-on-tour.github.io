@@ -23,18 +23,20 @@ title: "For the Empire Dresden"
 
 
 ## Details
-- **Distanz (km):** 1,63
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 6090
-- **Das ist mein Banner Nr.:** 252
-- **Beschreibung:** For the Empire Umbra Anomaly banner
+- **Distance (km):** 1.63
+
+- **Total missions completed:** 
+- **This is my banner no.:** 252
+
+
+!!! note "Description"
+    For the Empire Umbra Anomaly banner
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/for-the-empire-dresden-f22e" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/for-the-empire-dresden-f22e){ .md-button .md-button--primary }
 
 
-> Datei: `000252_for-the-empire-dresden_2019.md` • #000252 • Slug: `for-the-empire-dresden`
+
+> File: `000252_for-the-empire-dresden_2019.md` • #000252 • Slug: `for-the-empire-dresden`

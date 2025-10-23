@@ -23,18 +23,20 @@ title: "Neuhausen Wal"
 
 
 ## Details
-- **Distanz (km):** 9,80
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 3948
-- **Das ist mein Banner Nr.:** 163
-- **Beschreibung:** Lass dich verzaubern vom Einhornwal in Neuhausen
+- **Distance (km):** 9.80
+
+- **Total missions completed:** 
+- **This is my banner no.:** 163
+
+
+!!! note "Description"
+    Lass dich verzaubern vom Einhornwal in Neuhausen
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/neuhausen-wal-b74f" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/neuhausen-wal-b74f){ .md-button .md-button--primary }
 
 
-> Datei: `000163_neuhausen-wal_2018.md` • #000163 • Slug: `neuhausen-wal`
+
+> File: `000163_neuhausen-wal_2018.md` • #000163 • Slug: `neuhausen-wal`

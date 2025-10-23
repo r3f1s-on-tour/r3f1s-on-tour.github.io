@@ -23,18 +23,20 @@ title: "Mallorca Skyline"
 
 
 ## Details
-- **Distanz (km):** 1,75
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 4818
-- **Das ist mein Banner Nr.:** 206
-- **Beschreibung:** Mallorca is one of Spain's Balearic Islands in the Mediterranean. It's known for beach resorts, sheltered coves, limestone mountains and Roman and Moorish remains. Capital Palma has nightlife.
+- **Distance (km):** 1.75
+
+- **Total missions completed:** 
+- **This is my banner no.:** 206
+
+
+!!! note "Description"
+    Mallorca is one of Spain's Balearic Islands in the Mediterranean. It's known for beach resorts, sheltered coves, limestone mountains and Roman and Moorish remains. Capital Palma has nightlife.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/mallorca-skyline-4eb2" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/mallorca-skyline-4eb2){ .md-button .md-button--primary }
 
 
-> Datei: `000206_mallorca-skyline_2018.md` • #000206 • Slug: `mallorca-skyline`
+
+> File: `000206_mallorca-skyline_2018.md` • #000206 • Slug: `mallorca-skyline`

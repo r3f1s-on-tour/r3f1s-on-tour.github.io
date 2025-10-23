@@ -23,18 +23,20 @@ title: "Held der Kindheit"
 ![Held der Kindheit](https://api.bannergress.com/bnrs/pictures/90bb836182e01425f4d95e1cdba38b65)
 
 ## Details
-- **Distanz (km):** 4,887
-- **Missionen im Banner:** 12
-- **Insgesamt abgeschlossene Missionen:** 13.086
-- **Das ist mein Banner Nr.:** 592
-- **Beschreibung:** Eine Runde rund um und durch Ründeroth, entlang alter Handelswege und vieler historischer Denkmäler. Länge beträgt ca. 5 km und dauert ca. 2 Stunden. Viel Spaß.
+- **Distance (km):** 4.89
+
+- **Total missions completed:** 
+- **This is my banner no.:** 592
+
+
+!!! note "Description"
+    Eine Runde rund um und durch Ründeroth, entlang alter Handelswege und vieler historischer Denkmäler. Länge beträgt ca. 5 km und dauert ca. 2 Stunden. Viel Spaß.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/held-der-kindheit-975c" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/held-der-kindheit-975c){ .md-button .md-button--primary }
 
 
-> Datei: `000592_held-der-kindheit_2024.md` • #000592 • Slug: `held-der-kindheit`
+
+> File: `000592_held-der-kindheit_2024.md` • #000592 • Slug: `held-der-kindheit`

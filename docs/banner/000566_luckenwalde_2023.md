@@ -23,18 +23,20 @@ title: "Luckenwalde"
 ![Luckenwalde](https://api.bannergress.com/bnrs/pictures/a14e9881fe75e72c4525b1cd6bed63a8)
 
 ## Details
-- **Distanz (km):** 1,622
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 12.528
-- **Das ist mein Banner Nr.:** 566
-- **Beschreibung:** Beginn am Markt über den Boulevard
+- **Distance (km):** 1.62
+
+- **Total missions completed:** 
+- **This is my banner no.:** 566
+
+
+!!! note "Description"
+    Beginn am Markt über den Boulevard
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/luckenwalde-bd50" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/luckenwalde-bd50){ .md-button .md-button--primary }
 
 
-> Datei: `000566_luckenwalde_2023.md` • #000566 • Slug: `luckenwalde`
+
+> File: `000566_luckenwalde_2023.md` • #000566 • Slug: `luckenwalde`

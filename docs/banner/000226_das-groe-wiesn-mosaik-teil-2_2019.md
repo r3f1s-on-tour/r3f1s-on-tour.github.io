@@ -23,18 +23,20 @@ title: "Das Große Wiesn Mosaik Teil 2"
 
 
 ## Details
-- **Distanz (km):** 26,00
-- **Missionen im Banner:** 48
-- **Insgesamt abgeschlossene Missionen:** 5454
-- **Das ist mein Banner Nr.:** 226
-- **Beschreibung:** Teil 2 der großen Wiesnreihe. Start und Ende an der Theresienwiese. Hälfte ist am Tierpark Hellabrunn. Viel Spaß
+- **Distance (km):** 26.00
+
+- **Total missions completed:** 
+- **This is my banner no.:** 226
+
+
+!!! note "Description"
+    Teil 2 der großen Wiesnreihe. Start und Ende an der Theresienwiese. Hälfte ist am Tierpark Hellabrunn. Viel Spaß
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/wiesn-teil-2-166f" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/wiesn-teil-2-166f){ .md-button .md-button--primary }
 
 
-> Datei: `000226_das-groe-wiesn-mosaik-teil-2_2019.md` • #000226 • Slug: `das-groe-wiesn-mosaik-teil-2`
+
+> File: `000226_das-groe-wiesn-mosaik-teil-2_2019.md` • #000226 • Slug: `das-groe-wiesn-mosaik-teil-2`

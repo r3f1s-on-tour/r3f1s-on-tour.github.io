@@ -23,21 +23,23 @@ title: "Stadtwappen Dachau"
 ![Stadtwappen Dachau](https://api.bannergress.com/bnrs/pictures/b038833bc9235fa7d58e6918acb67bda)
 
 ## Details
-- **Distanz (km):** 11,39
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 2070
-- **Das ist mein Banner Nr.:** 76
-- **Beschreibung:** Zeig allen, dass du Dachau wirklich besucht hast! (Start- Bahnhof)
+- **Distance (km):** 11.39
+
+- **Total missions completed:** 
+- **This is my banner no.:** 76
+
+
+!!! note "Description"
+    Zeig allen, dass du Dachau wirklich besucht hast! (Start- Bahnhof)
 Show everyone that you've been to Dachau! (Start- Train Station)
 
 In rememberance of liberation Dachau's concentration camp.
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/stadtwappen-dachau-b0c1" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/stadtwappen-dachau-b0c1){ .md-button .md-button--primary }
 
 
-> Datei: `000076_stadtwappen-dachau_2017.md` • #000076 • Slug: `stadtwappen-dachau`
+
+> File: `000076_stadtwappen-dachau_2017.md` • #000076 • Slug: `stadtwappen-dachau`

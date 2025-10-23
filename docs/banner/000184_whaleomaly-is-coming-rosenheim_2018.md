@@ -23,19 +23,21 @@ title: "Whaleomaly is Coming / [Rosenheim]"
 
 
 ## Details
-- **Distanz (km):** 1,57
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 4392
-- **Das ist mein Banner Nr.:** 184
-- **Beschreibung:** Entdecke Rosenheims Wale! Bring sie mit, damit wir diese bei der Walomalie in Linz verbünden !
+- **Distance (km):** 1.57
+
+- **Total missions completed:** 
+- **This is my banner no.:** 184
+
+
+!!! note "Description"
+    Entdecke Rosenheims Wale! Bring sie mit, damit wir diese bei der Walomalie in Linz verbünden !
 Explore Rosenheims Whales! Take them with you to unite at the Whaleomaly Linz!
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/whaleomaly-is-coming-rosenheim-f13a" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/whaleomaly-is-coming-rosenheim-f13a){ .md-button .md-button--primary }
 
 
-> Datei: `000184_whaleomaly-is-coming-rosenheim_2018.md` • #000184 • Slug: `whaleomaly-is-coming-rosenheim`
+
+> File: `000184_whaleomaly-is-coming-rosenheim_2018.md` • #000184 • Slug: `whaleomaly-is-coming-rosenheim`

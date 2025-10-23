@@ -24,11 +24,12 @@ title: "Wale auch in Altötting"
 
 ## Details
 
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 4578
-- **Das ist mein Banner Nr.:** 193
+
+- **Total missions completed:** 
+- **This is my banner no.:** 193
 
 
 
 
-> Datei: `000193_wale-auch-in-alttting_2018.md` • #000193 • Slug: `wale-auch-in-alttting`
+
+> File: `000193_wale-auch-in-alttting_2018.md` • #000193 • Slug: `wale-auch-in-alttting`

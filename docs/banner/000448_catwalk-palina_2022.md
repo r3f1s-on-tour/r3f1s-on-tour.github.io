@@ -23,12 +23,16 @@ title: "Catwalk Palina"
 
 
 ## Details
-- **Distanz (km):** 8,00
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 9.282
-- **Das ist mein Banner Nr.:** 448
-- **Beschreibung:** Begleite Palina auf einen Entdeckungsstreifzug vom S+U Lichtenberg nach Friedrichsfelde und dort im Bogen durch den Weitlingkiez zurück zu seinem Ausgangspunkt.
+- **Distance (km):** 8.00
+
+- **Total missions completed:** 
+- **This is my banner no.:** 448
+
+
+!!! note "Description"
+    Begleite Palina auf einen Entdeckungsstreifzug vom S+U Lichtenberg nach Friedrichsfelde und dort im Bogen durch den Weitlingkiez zurück zu seinem Ausgangspunkt.
 
 
 
-> Datei: `000448_catwalk-palina_2022.md` • #000448 • Slug: `catwalk-palina`
+
+> File: `000448_catwalk-palina_2022.md` • #000448 • Slug: `catwalk-palina`

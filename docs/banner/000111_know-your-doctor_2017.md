@@ -24,17 +24,16 @@ title: "Know Your Doctor"
 
 ## Details
 
-- **Missionen im Banner:** 12
-- **Insgesamt abgeschlossene Missionen:** 2754
-- **Das ist mein Banner Nr.:** 111
+
+- **Total missions completed:** 
+- **This is my banner no.:** 111
+
 
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/know-your-doctor-10b3" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/know-your-doctor-10b3){ .md-button .md-button--primary }
 
 
-> Datei: `000111_know-your-doctor_2017.md` • #000111 • Slug: `know-your-doctor`
+
+> File: `000111_know-your-doctor_2017.md` • #000111 • Slug: `know-your-doctor`

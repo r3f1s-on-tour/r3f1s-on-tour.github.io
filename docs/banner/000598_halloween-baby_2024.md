@@ -23,18 +23,20 @@ title: "Halloween Baby"
 ![Halloween Baby](https://api.bannergress.com/bnrs/pictures/35460256ed4090d948b3b8e8eccccef7)
 
 ## Details
-- **Distanz (km):** 4,536
-- **Missionen im Banner:** 30
-- **Insgesamt abgeschlossene Missionen:** 13.200
-- **Das ist mein Banner Nr.:** 598
-- **Beschreibung:** Recorre nuestra capital y llévate pequeño recuerdo de Halloween 2019
+- **Distance (km):** 4.54
+
+- **Total missions completed:** 
+- **This is my banner no.:** 598
+
+
+!!! note "Description"
+    Recorre nuestra capital y llévate pequeño recuerdo de Halloween 2019
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/halloween-baby-d7fe" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/halloween-baby-d7fe){ .md-button .md-button--primary }
 
 
-> Datei: `000598_halloween-baby_2024.md` • #000598 • Slug: `halloween-baby`
+
+> File: `000598_halloween-baby_2024.md` • #000598 • Slug: `halloween-baby`

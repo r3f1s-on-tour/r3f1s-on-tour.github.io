@@ -23,18 +23,20 @@ title: "Münchner Maibaum"
 
 
 ## Details
-- **Distanz (km):** 91,63
-- **Missionen im Banner:** 216
-- **Insgesamt abgeschlossene Missionen:** 5112
-- **Das ist mein Banner Nr.:** 210
-- **Beschreibung:** Das große Maibaum Mosaik startet am Maibaum am Viktualienmarkt und führt uns in 4 Schleifen durch ganz München. Das Mosaik besteht aus 216 Missionen .
+- **Distance (km):** 91.63
+
+- **Total missions completed:** 
+- **This is my banner no.:** 210
+
+
+!!! note "Description"
+    Das große Maibaum Mosaik startet am Maibaum am Viktualienmarkt und führt uns in 4 Schleifen durch ganz München. Das Mosaik besteht aus 216 Missionen .
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/m%C3%BCnchner-maibaum-062e" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/m%C3%BCnchner-maibaum-062e){ .md-button .md-button--primary }
 
 
-> Datei: `000210_mnchner-maibaum_2018.md` • #000210 • Slug: `mnchner-maibaum`
+
+> File: `000210_mnchner-maibaum_2018.md` • #000210 • Slug: `mnchner-maibaum`

@@ -23,18 +23,20 @@ title: "Greifswalder Flagge"
 ![Greifswalder Flagge](https://api.bannergress.com/bnrs/pictures/98098407103277f8e6c82ac9c530ea09)
 
 ## Details
-- **Distanz (km):** 12,22
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 240
-- **Das ist mein Banner Nr.:** 12
-- **Beschreibung:** Zeige Flagge für die einzigartige Universitäts- und Hansestadt Greifswald! Dies ist die erste von achtzehn Missionen für das Mosaik der Greifswalder Flagge.
+- **Distance (km):** 12.22
+
+- **Total missions completed:** 
+- **This is my banner no.:** 12
+
+
+!!! note "Description"
+    Zeige Flagge für die einzigartige Universitäts- und Hansestadt Greifswald! Dies ist die erste von achtzehn Missionen für das Mosaik der Greifswalder Flagge.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/greifswalder-flagge-efe8" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/greifswalder-flagge-efe8){ .md-button .md-button--primary }
 
 
-> Datei: `000012_greifswalder-flagge_2015.md` • #000012 • Slug: `greifswalder-flagge`
+
+> File: `000012_greifswalder-flagge_2015.md` • #000012 • Slug: `greifswalder-flagge`

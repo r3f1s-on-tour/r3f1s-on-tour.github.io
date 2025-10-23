@@ -23,18 +23,20 @@ title: "Biocard Szczecin"
 ![Biocard Szczecin](https://api.bannergress.com/bnrs/pictures/20a058074b53019498efad8705ff63fd)
 
 ## Details
-- **Distanz (km):** 18,62
-- **Missionen im Banner:** 48
-- **Insgesamt abgeschlossene Missionen:** 9.072
-- **Das ist mein Banner Nr.:** 434
-- **Beschreibung:** Welcome to Szczecin! This banner will lead you through the city's most famous highlights. Complete it to earn a biocard depicting the statue of the Seaman.
+- **Distance (km):** 18.62
+
+- **Total missions completed:** 
+- **This is my banner no.:** 434
+
+
+!!! note "Description"
+    Welcome to Szczecin! This banner will lead you through the city's most famous highlights. Complete it to earn a biocard depicting the statue of the Seaman.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/biocard-szczecin-0805" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/biocard-szczecin-0805){ .md-button .md-button--primary }
 
 
-> Datei: `000434_biocard-szczecin_2022.md` • #000434 • Slug: `biocard-szczecin`
+
+> File: `000434_biocard-szczecin_2022.md` • #000434 • Slug: `biocard-szczecin`

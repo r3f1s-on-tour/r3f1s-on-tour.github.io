@@ -23,18 +23,20 @@ title: "Winter Friends"
 ![Winter Friends](https://api.bannergress.com/bnrs/pictures/0deac4815912469ec07e98a727543277)
 
 ## Details
-- **Distanz (km):** 1,889
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 13.050
-- **Das ist mein Banner Nr.:** 589
-- **Beschreibung:** Geh mit deinen Freunden durch Löbtau
+- **Distance (km):** 1.89
+
+- **Total missions completed:** 
+- **This is my banner no.:** 589
+
+
+!!! note "Description"
+    Geh mit deinen Freunden durch Löbtau
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/winter-friends-95cd" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/winter-friends-95cd){ .md-button .md-button--primary }
 
 
-> Datei: `000589_winter-friends_2023.md` • #000589 • Slug: `winter-friends`
+
+> File: `000589_winter-friends_2023.md` • #000589 • Slug: `winter-friends`

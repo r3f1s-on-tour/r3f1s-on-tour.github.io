@@ -23,12 +23,16 @@ title: "Apfelschnitt"
 
 
 ## Details
-- **Distanz (km):** 19,4
-- **Missionen im Banner:** 72
-- **Insgesamt abgeschlossene Missionen:** 11.220
-- **Das ist mein Banner Nr.:** 527
-- **Beschreibung:** Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg. Starte in der Bernauer Straße
+- **Distance (km):** 19.40
+
+- **Total missions completed:** 
+- **This is my banner no.:** 527
+
+
+!!! note "Description"
+    Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg. Starte in der Bernauer Straße
 
 
 
-> Datei: `000527_apfelschnitt_2023.md` • #000527 • Slug: `apfelschnitt`
+
+> File: `000527_apfelschnitt_2023.md` • #000527 • Slug: `apfelschnitt`

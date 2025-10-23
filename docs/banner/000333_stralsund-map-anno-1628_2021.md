@@ -23,18 +23,20 @@ title: "Stralsund Map Anno 1628"
 
 
 ## Details
-- **Distanz (km):** 8,46
-- **Missionen im Banner:** 30
-- **Insgesamt abgeschlossene Missionen:** 7626
-- **Das ist mein Banner Nr.:** 333
-- **Beschreibung:** Gehe auf Entdeckungstour durch die Hansestadt Stralsund. Diese Mission beginnt am Bahnhof und führt bis zum Tribseer Damm. Übrigens, der Bahnhof wurde am 01.01.1878 feierlich eröffnet.
+- **Distance (km):** 8.46
+
+- **Total missions completed:** 
+- **This is my banner no.:** 333
+
+
+!!! note "Description"
+    Gehe auf Entdeckungstour durch die Hansestadt Stralsund. Diese Mission beginnt am Bahnhof und führt bis zum Tribseer Damm. Übrigens, der Bahnhof wurde am 01.01.1878 feierlich eröffnet.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/stralsund-map-anno-1628-07c9" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/stralsund-map-anno-1628-07c9){ .md-button .md-button--primary }
 
 
-> Datei: `000333_stralsund-map-anno-1628_2021.md` • #000333 • Slug: `stralsund-map-anno-1628`
+
+> File: `000333_stralsund-map-anno-1628_2021.md` • #000333 • Slug: `stralsund-map-anno-1628`

@@ -24,11 +24,12 @@ title: "MD Cambridge"
 
 ## Details
 
-- **Missionen im Banner:** 12
-- **Insgesamt abgeschlossene Missionen:** 13.524
-- **Das ist mein Banner Nr.:** 621
+
+- **Total missions completed:** 
+- **This is my banner no.:** 621
 
 
 
 
-> Datei: `000621_md-cambridge_2025.md` • #000621 • Slug: `md-cambridge`
+
+> File: `000621_md-cambridge_2025.md` • #000621 • Slug: `md-cambridge`

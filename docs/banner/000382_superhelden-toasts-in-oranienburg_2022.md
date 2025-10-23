@@ -23,12 +23,16 @@ title: "Superhelden Toasts in Oranienburg"
 
 
 ## Details
-- **Distanz (km):** 2,20
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 8280
-- **Das ist mein Banner Nr.:** 382
-- **Beschreibung:** Starte einen kleinen Rundgang durch Oranienburg und hole die Superhelden Toats ins Profil.
+- **Distance (km):** 2.20
+
+- **Total missions completed:** 
+- **This is my banner no.:** 382
+
+
+!!! note "Description"
+    Starte einen kleinen Rundgang durch Oranienburg und hole die Superhelden Toats ins Profil.
 
 
 
-> Datei: `000382_superhelden-toasts-in-oranienburg_2022.md` • #000382 • Slug: `superhelden-toasts-in-oranienburg`
+
+> File: `000382_superhelden-toasts-in-oranienburg_2022.md` • #000382 • Slug: `superhelden-toasts-in-oranienburg`

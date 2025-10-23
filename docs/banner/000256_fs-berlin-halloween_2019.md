@@ -24,11 +24,12 @@ title: "FS Berlin Halloween"
 
 ## Details
 
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 6162
-- **Das ist mein Banner Nr.:** 256
+
+- **Total missions completed:** 
+- **This is my banner no.:** 256
 
 
 
 
-> Datei: `000256_fs-berlin-halloween_2019.md` • #000256 • Slug: `fs-berlin-halloween`
+
+> File: `000256_fs-berlin-halloween_2019.md` • #000256 • Slug: `fs-berlin-halloween`

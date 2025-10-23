@@ -23,18 +23,20 @@ title: "Brunnenviertel"
 
 
 ## Details
-- **Distanz (km):** 4,23
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 6282
-- **Das ist mein Banner Nr.:** 263
-- **Beschreibung:** Genieße die frische Luft
+- **Distance (km):** 4.23
+
+- **Total missions completed:** 
+- **This is my banner no.:** 263
+
+
+!!! note "Description"
+    Genieße die frische Luft
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/brunnenviertel-a147" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/brunnenviertel-a147){ .md-button .md-button--primary }
 
 
-> Datei: `000263_brunnenviertel_2020.md` • #000263 • Slug: `brunnenviertel`
+
+> File: `000263_brunnenviertel_2020.md` • #000263 • Slug: `brunnenviertel`

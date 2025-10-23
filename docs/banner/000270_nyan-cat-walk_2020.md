@@ -23,18 +23,20 @@ title: "Nyan Cat Walk"
 
 
 ## Details
-- **Distanz (km):** 3,69
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 6360
-- **Das ist mein Banner Nr.:** 270
-- **Beschreibung:** Follow the nyan cat through the Treptower park and gain it as companion on your future walks with the scanner.
+- **Distance (km):** 3.69
+
+- **Total missions completed:** 
+- **This is my banner no.:** 270
+
+
+!!! note "Description"
+    Follow the nyan cat through the Treptower park and gain it as companion on your future walks with the scanner.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/nyan-cat-walk-ad70" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/nyan-cat-walk-ad70){ .md-button .md-button--primary }
 
 
-> Datei: `000270_nyan-cat-walk_2020.md` • #000270 • Slug: `nyan-cat-walk`
+
+> File: `000270_nyan-cat-walk_2020.md` • #000270 • Slug: `nyan-cat-walk`

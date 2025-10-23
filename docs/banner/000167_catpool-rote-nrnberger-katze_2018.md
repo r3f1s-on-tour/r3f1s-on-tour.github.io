@@ -24,11 +24,12 @@ title: "Catpool (Rote Nürnberger Katze)"
 
 ## Details
 
-- **Missionen im Banner:** 36
-- **Insgesamt abgeschlossene Missionen:** 4092
-- **Das ist mein Banner Nr.:** 167
+
+- **Total missions completed:** 
+- **This is my banner no.:** 167
 
 
 
 
-> Datei: `000167_catpool-rote-nrnberger-katze_2018.md` • #000167 • Slug: `catpool-rote-nrnberger-katze`
+
+> File: `000167_catpool-rote-nrnberger-katze_2018.md` • #000167 • Slug: `catpool-rote-nrnberger-katze`

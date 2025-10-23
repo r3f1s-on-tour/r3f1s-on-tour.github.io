@@ -23,18 +23,20 @@ title: "StarBattle of Orionids - Berlin"
 
 
 ## Details
-- **Distanz (km):** 1,78
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 8.316
-- **Das ist mein Banner Nr.:** 386
-- **Beschreibung:** The Orionids meteor shower, is the most prolific meteor shower associated with Halley's Comet. During this time a global ENL starburst event occurred with hundreds of ENL agents participating.
+- **Distance (km):** 1.78
+
+- **Total missions completed:** 
+- **This is my banner no.:** 386
+
+
+!!! note "Description"
+    The Orionids meteor shower, is the most prolific meteor shower associated with Halley's Comet. During this time a global ENL starburst event occurred with hundreds of ENL agents participating.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/starbattle-of-orionids-berlin-a311" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/starbattle-of-orionids-berlin-a311){ .md-button .md-button--primary }
 
 
-> Datei: `000386_starbattle-of-orionids-berlin_2022.md` • #000386 • Slug: `starbattle-of-orionids-berlin`
+
+> File: `000386_starbattle-of-orionids-berlin_2022.md` • #000386 • Slug: `starbattle-of-orionids-berlin`

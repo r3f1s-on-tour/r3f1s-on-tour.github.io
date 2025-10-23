@@ -23,12 +23,16 @@ title: "Green Galaxy Men in Oranienburg"
 
 
 ## Details
-- **Distanz (km):** 8,57
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 9.192
-- **Das ist mein Banner Nr.:** 443
-- **Beschreibung:** Starte in der Bernauer Straße eine Reise durch Galaxie und entdecke den Ursprung. Deine Reise durch die Stadt Oranienburg führt dich entlang des Schloss, Schlosspark und endet am Bahnhof
+- **Distance (km):** 8.57
+
+- **Total missions completed:** 
+- **This is my banner no.:** 443
+
+
+!!! note "Description"
+    Starte in der Bernauer Straße eine Reise durch Galaxie und entdecke den Ursprung. Deine Reise durch die Stadt Oranienburg führt dich entlang des Schloss, Schlosspark und endet am Bahnhof
 
 
 
-> Datei: `000443_green-galaxy-men-in-oranienburg_2022.md` • #000443 • Slug: `green-galaxy-men-in-oranienburg`
+
+> File: `000443_green-galaxy-men-in-oranienburg_2022.md` • #000443 • Slug: `green-galaxy-men-in-oranienburg`

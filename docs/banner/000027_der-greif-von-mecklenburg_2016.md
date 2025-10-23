@@ -23,19 +23,21 @@ title: "Der Greif von Mecklenburg"
 ![Der Greif von Mecklenburg](https://api.bannergress.com/bnrs/pictures/4ee2a8167c2085a63047e7820de51ce3)
 
 ## Details
-- **Distanz (km):** 11,11
-- **Missionen im Banner:** 48
-- **Insgesamt abgeschlossene Missionen:** 516
-- **Das ist mein Banner Nr.:** 27
-- **Beschreibung:** Zu schnelles hacken wird bestraft mit 5min Wartezeit;) 
+- **Distance (km):** 11.11
+
+- **Total missions completed:** 
+- **This is my banner no.:** 27
+
+
+!!! note "Description"
+    Zu schnelles hacken wird bestraft mit 5min Wartezeit;) 
 solltet ihr zu schnell gehackt haben kann es zum Schluss des Mosaik knapp werden. Genügend Multihacks wären von Vorteil. Viel Spaß -o)
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/der-greif-von-mecklenburg-49aa" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/der-greif-von-mecklenburg-49aa){ .md-button .md-button--primary }
 
 
-> Datei: `000027_der-greif-von-mecklenburg_2016.md` • #000027 • Slug: `der-greif-von-mecklenburg`
+
+> File: `000027_der-greif-von-mecklenburg_2016.md` • #000027 • Slug: `der-greif-von-mecklenburg`

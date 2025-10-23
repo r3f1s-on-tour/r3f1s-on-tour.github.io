@@ -23,18 +23,20 @@ title: "Binz auf Rügen"
 
 
 ## Details
-- **Distanz (km):** 9,08
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 198
-- **Das ist mein Banner Nr.:** 9
-- **Beschreibung:** Besonderer Anziehungspunkt ist die 3,2 km lange Strandpromenade mit zahlreichen und liebevoll restaurierten Bädervillen, Hotels, Cafés und Restaurants sowie der Seebrücke.
+- **Distance (km):** 9.08
+
+- **Total missions completed:** 
+- **This is my banner no.:** 9
+
+
+!!! note "Description"
+    Besonderer Anziehungspunkt ist die 3,2 km lange Strandpromenade mit zahlreichen und liebevoll restaurierten Bädervillen, Hotels, Cafés und Restaurants sowie der Seebrücke.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/binz-auf-r%C3%BCgen-2ec3" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/binz-auf-r%C3%BCgen-2ec3){ .md-button .md-button--primary }
 
 
-> Datei: `000009_binz-auf-rgen_2015.md` • #000009 • Slug: `binz-auf-rgen`
+
+> File: `000009_binz-auf-rgen_2015.md` • #000009 • Slug: `binz-auf-rgen`

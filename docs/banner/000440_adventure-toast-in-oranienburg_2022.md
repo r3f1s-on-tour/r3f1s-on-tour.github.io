@@ -23,12 +23,16 @@ title: "Adventure Toast in Oranienburg"
 
 
 ## Details
-- **Distanz (km):** 8,57
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 9.156
-- **Das ist mein Banner Nr.:** 440
-- **Beschreibung:** Starte in der Bernauer Straße eine Reise durch die Stadt Oranienburg und hole Adventure Toasts ins Profil
+- **Distance (km):** 8.57
+
+- **Total missions completed:** 
+- **This is my banner no.:** 440
+
+
+!!! note "Description"
+    Starte in der Bernauer Straße eine Reise durch die Stadt Oranienburg und hole Adventure Toasts ins Profil
 
 
 
-> Datei: `000440_adventure-toast-in-oranienburg_2022.md` • #000440 • Slug: `adventure-toast-in-oranienburg`
+
+> File: `000440_adventure-toast-in-oranienburg_2022.md` • #000440 • Slug: `adventure-toast-in-oranienburg`

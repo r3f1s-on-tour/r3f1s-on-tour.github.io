@@ -24,11 +24,12 @@ title: "Vicke Schorler Rolle"
 
 ## Details
 
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 102
-- **Das ist mein Banner Nr.:** 2
+
+- **Total missions completed:** 
+- **This is my banner no.:** 2
 
 
 
 
-> Datei: `000002_vicke-schorler-rolle_2015.md` • #000002 • Slug: `vicke-schorler-rolle`
+
+> File: `000002_vicke-schorler-rolle_2015.md` • #000002 • Slug: `vicke-schorler-rolle`

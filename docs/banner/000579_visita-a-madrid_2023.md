@@ -23,18 +23,20 @@ title: "Visita a Madrid"
 ![Visita a Madrid](https://api.bannergress.com/bnrs/pictures/39251cd3df3e8cd862e8823254136dae)
 
 ## Details
-- **Distanz (km):** 949
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 12.846
-- **Das ist mein Banner Nr.:** 579
-- **Beschreibung:** Primera parte de la visita al la Puerta del Sol y sus alrededores, centro turístico y emblemático de la Capital de España, que no se puede dejar de visitar al ir a esta importante ciudad.
+- **Distance (km):** 949.00
+
+- **Total missions completed:** 
+- **This is my banner no.:** 579
+
+
+!!! note "Description"
+    Primera parte de la visita al la Puerta del Sol y sus alrededores, centro turístico y emblemático de la Capital de España, que no se puede dejar de visitar al ir a esta importante ciudad.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/visita-a-madrid-cbcd" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/visita-a-madrid-cbcd){ .md-button .md-button--primary }
 
 
-> Datei: `000579_visita-a-madrid_2023.md` • #000579 • Slug: `visita-a-madrid`
+
+> File: `000579_visita-a-madrid_2023.md` • #000579 • Slug: `visita-a-madrid`

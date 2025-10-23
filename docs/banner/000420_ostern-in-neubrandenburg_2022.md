@@ -23,18 +23,20 @@ title: "Ostern in Neubrandenburg"
 
 
 ## Details
-- **Distanz (km):** 3,57
-- **Missionen im Banner:** 12
-- **Insgesamt abgeschlossene Missionen:** 8.760
-- **Das ist mein Banner Nr.:** 420
-- **Beschreibung:** Mache einen Osterspaziergang in der Neubrandenburger Innenstadt.
+- **Distance (km):** 3.57
+
+- **Total missions completed:** 
+- **This is my banner no.:** 420
+
+
+!!! note "Description"
+    Mache einen Osterspaziergang in der Neubrandenburger Innenstadt.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/ostern-in-neubrandenburg-5951" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/ostern-in-neubrandenburg-5951){ .md-button .md-button--primary }
 
 
-> Datei: `000420_ostern-in-neubrandenburg_2022.md` • #000420 • Slug: `ostern-in-neubrandenburg`
+
+> File: `000420_ostern-in-neubrandenburg_2022.md` • #000420 • Slug: `ostern-in-neubrandenburg`

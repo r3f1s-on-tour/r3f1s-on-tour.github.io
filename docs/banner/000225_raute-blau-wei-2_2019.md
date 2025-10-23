@@ -24,17 +24,16 @@ title: "Raute Blau Weiß 2"
 
 ## Details
 
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 5406
-- **Das ist mein Banner Nr.:** 225
+
+- **Total missions completed:** 
+- **This is my banner no.:** 225
+
 
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/raute-blau-wei%C3%9F-teil-ii-63f0" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/raute-blau-wei%C3%9F-teil-ii-63f0){ .md-button .md-button--primary }
 
 
-> Datei: `000225_raute-blau-wei-2_2019.md` • #000225 • Slug: `raute-blau-wei-2`
+
+> File: `000225_raute-blau-wei-2_2019.md` • #000225 • Slug: `raute-blau-wei-2`

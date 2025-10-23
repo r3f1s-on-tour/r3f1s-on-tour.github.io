@@ -24,17 +24,16 @@ title: "Erobere Woldegk"
 
 ## Details
 
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 378
-- **Das ist mein Banner Nr.:** 22
+
+- **Total missions completed:** 
+- **This is my banner no.:** 22
+
 
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/erobere-woldegk-13fd" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/erobere-woldegk-13fd){ .md-button .md-button--primary }
 
 
-> Datei: `000022_erobere-woldegk_2016.md` • #000022 • Slug: `erobere-woldegk`
+
+> File: `000022_erobere-woldegk_2016.md` • #000022 • Slug: `erobere-woldegk`

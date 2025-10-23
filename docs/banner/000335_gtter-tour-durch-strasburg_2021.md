@@ -23,20 +23,22 @@ title: "Götter Tour durch Strasburg"
 
 
 ## Details
-- **Distanz (km):** 3,17
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 7650
-- **Das ist mein Banner Nr.:** 335
-- **Beschreibung:** Starte am Marktplatz und entdecke Strasburg Uckermark und hol dir die Götter ins Profil
+- **Distance (km):** 3.17
+
+- **Total missions completed:** 
+- **This is my banner no.:** 335
+
+
+!!! note "Description"
+    Starte am Marktplatz und entdecke Strasburg Uckermark und hol dir die Götter ins Profil
 
 Geht am 08.11.2021 offline
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/g%C3%B6tter-tour-durch-strasburg-8cf3" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/g%C3%B6tter-tour-durch-strasburg-8cf3){ .md-button .md-button--primary }
 
 
-> Datei: `000335_gtter-tour-durch-strasburg_2021.md` • #000335 • Slug: `gtter-tour-durch-strasburg`
+
+> File: `000335_gtter-tour-durch-strasburg_2021.md` • #000335 • Slug: `gtter-tour-durch-strasburg`

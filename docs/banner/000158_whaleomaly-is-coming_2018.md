@@ -23,20 +23,22 @@ title: "Whaleomaly is Coming"
 
 
 ## Details
-- **Distanz (km):** 3,06
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 3816
-- **Das ist mein Banner Nr.:** 158
-- **Beschreibung:** Entdecke Münchens Wale! Bring sie mit, damit wir diese bei der Whaleomaly in Linz verbünden !
+- **Distance (km):** 3.06
+
+- **Total missions completed:** 
+- **This is my banner no.:** 158
+
+
+!!! note "Description"
+    Entdecke Münchens Wale! Bring sie mit, damit wir diese bei der Whaleomaly in Linz verbünden !
 
 Explore Munichs Whales! Take them with you to unite at the Whaleomaly Linz!
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/whaleomaly-is-coming-4bda" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/whaleomaly-is-coming-4bda){ .md-button .md-button--primary }
 
 
-> Datei: `000158_whaleomaly-is-coming_2018.md` • #000158 • Slug: `whaleomaly-is-coming`
+
+> File: `000158_whaleomaly-is-coming_2018.md` • #000158 • Slug: `whaleomaly-is-coming`

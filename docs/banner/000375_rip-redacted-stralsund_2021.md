@@ -23,18 +23,20 @@ title: "rip redacted - stralsund"
 
 
 ## Details
-- **Distanz (km):** 5,66
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 8190
-- **Das ist mein Banner Nr.:** 375
-- **Beschreibung:** Begebe dich auf eine Entdeckungsreise durch die engen Gassen der Stralsunder Altstadt. Sie wurde 2002 in  die UNESCO-Welterbe­liste aufgenommen.
+- **Distance (km):** 5.66
+
+- **Total missions completed:** 
+- **This is my banner no.:** 375
+
+
+!!! note "Description"
+    Begebe dich auf eine Entdeckungsreise durch die engen Gassen der Stralsunder Altstadt. Sie wurde 2002 in  die UNESCO-Welterbe­liste aufgenommen.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/rip-redacted-stralsund-c40f" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/rip-redacted-stralsund-c40f){ .md-button .md-button--primary }
 
 
-> Datei: `000375_rip-redacted-stralsund_2021.md` • #000375 • Slug: `rip-redacted-stralsund`
+
+> File: `000375_rip-redacted-stralsund_2021.md` • #000375 • Slug: `rip-redacted-stralsund`

@@ -23,18 +23,20 @@ title: "Skulpturenpark Katzow"
 
 
 ## Details
-- **Distanz (km):** 6,38
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 2742
-- **Das ist mein Banner Nr.:** 110
-- **Beschreibung:** Der Park besteht seit 1991. Gründer des Skulpturenparks Katzow ist der Bildhauer Thomas Radeloff.
+- **Distance (km):** 6.38
+
+- **Total missions completed:** 
+- **This is my banner no.:** 110
+
+
+!!! note "Description"
+    Der Park besteht seit 1991. Gründer des Skulpturenparks Katzow ist der Bildhauer Thomas Radeloff.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/skulpturenpark-katzow-4359" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/skulpturenpark-katzow-4359){ .md-button .md-button--primary }
 
 
-> Datei: `000110_skulpturenpark-katzow_2017.md` • #000110 • Slug: `skulpturenpark-katzow`
+
+> File: `000110_skulpturenpark-katzow_2017.md` • #000110 • Slug: `skulpturenpark-katzow`

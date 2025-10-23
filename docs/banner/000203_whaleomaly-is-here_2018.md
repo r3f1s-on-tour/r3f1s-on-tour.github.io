@@ -23,18 +23,20 @@ title: "Whaleomaly Is Here"
 
 
 ## Details
-- **Distanz (km):** 7,16
-- **Missionen im Banner:** 30
-- **Insgesamt abgeschlossene Missionen:** 4770
-- **Das ist mein Banner Nr.:** 203
-- **Beschreibung:** 25 million years ago, Linz was populated by Whales. Discover and explore them at Linz's Central Station, learn some facts about Whales and unite them at Whaleomaly on August 25th, 2018!
+- **Distance (km):** 7.16
+
+- **Total missions completed:** 
+- **This is my banner no.:** 203
+
+
+!!! note "Description"
+    25 million years ago, Linz was populated by Whales. Discover and explore them at Linz's Central Station, learn some facts about Whales and unite them at Whaleomaly on August 25th, 2018!
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/whaleomaly-is-here-eee0" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/whaleomaly-is-here-eee0){ .md-button .md-button--primary }
 
 
-> Datei: `000203_whaleomaly-is-here_2018.md` • #000203 • Slug: `whaleomaly-is-here`
+
+> File: `000203_whaleomaly-is-here_2018.md` • #000203 • Slug: `whaleomaly-is-here`

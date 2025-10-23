@@ -23,18 +23,20 @@ title: "Regensburg Donaupanorama"
 
 
 ## Details
-- **Distanz (km):** 8,61
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 2652
-- **Das ist mein Banner Nr.:** 103
-- **Beschreibung:** Erlebe unsere wunderschöne Stadt an der Donau durch einen schönen Spaziergang! Ich wünsche euch viel Spaß!
+- **Distance (km):** 8.61
+
+- **Total missions completed:** 
+- **This is my banner no.:** 103
+
+
+!!! note "Description"
+    Erlebe unsere wunderschöne Stadt an der Donau durch einen schönen Spaziergang! Ich wünsche euch viel Spaß!
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/regensburg-donaupanorama-8a3d" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/regensburg-donaupanorama-8a3d){ .md-button .md-button--primary }
 
 
-> Datei: `000103_regensburg-donaupanorama_2017.md` • #000103 • Slug: `regensburg-donaupanorama`
+
+> File: `000103_regensburg-donaupanorama_2017.md` • #000103 • Slug: `regensburg-donaupanorama`

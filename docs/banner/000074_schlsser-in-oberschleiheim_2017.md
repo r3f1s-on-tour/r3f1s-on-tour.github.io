@@ -24,17 +24,16 @@ title: "Schlösser in Oberschleißheim"
 
 ## Details
 
-- **Missionen im Banner:** 3
-- **Insgesamt abgeschlossene Missionen:** 2043
-- **Das ist mein Banner Nr.:** 74
+
+- **Total missions completed:** 
+- **This is my banner no.:** 74
+
 
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/schl%C3%B6sser-in-oberschlei%C3%9Fheim-429e" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/schl%C3%B6sser-in-oberschlei%C3%9Fheim-429e){ .md-button .md-button--primary }
 
 
-> Datei: `000074_schlsser-in-oberschleiheim_2017.md` • #000074 • Slug: `schlsser-in-oberschleiheim`
+
+> File: `000074_schlsser-in-oberschleiheim_2017.md` • #000074 • Slug: `schlsser-in-oberschleiheim`

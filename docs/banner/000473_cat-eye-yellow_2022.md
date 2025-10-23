@@ -23,11 +23,14 @@ title: "Cat Eye Yellow"
 ![Cat Eye Yellow](https://api.bannergress.com/bnrs/pictures/97abd24e1d39bce894418ba9ee886bb8)
 
 ## Details
-- **Distanz (km):** 2,258
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 10.344
-- **Das ist mein Banner Nr.:** 473
-- **Beschreibung:** Dieses Banner ist die sechste Farbe von insgesamt 6. 
+- **Distance (km):** 2.26
+
+- **Total missions completed:** 
+- **This is my banner no.:** 473
+
+
+!!! note "Description"
+    Dieses Banner ist die sechste Farbe von insgesamt 6. 
 Sie startet und Endet am S+U Lichtenberg. 
 Als Passphrase wird jedweils die aktuelle Missionsnummer abgefragt
 
@@ -36,11 +39,10 @@ It starts and ends at S+U Lichtenberg.
 The passphrases are only asking for the current mission number.
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/cat-eye-yellow-9d73" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/cat-eye-yellow-9d73){ .md-button .md-button--primary }
 
 
-> Datei: `000473_cat-eye-yellow_2022.md` • #000473 • Slug: `cat-eye-yellow`
+
+> File: `000473_cat-eye-yellow_2022.md` • #000473 • Slug: `cat-eye-yellow`

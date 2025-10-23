@@ -23,20 +23,22 @@ title: "Catgress Landsberg"
 
 
 ## Details
-- **Distanz (km):** 8,12
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 4332
-- **Das ist mein Banner Nr.:** 180
-- **Beschreibung:** Es kann gar nicht zu viele Katzenfotos geben!
+- **Distance (km):** 8.12
+
+- **Total missions completed:** 
+- **This is my banner no.:** 180
+
+
+!!! note "Description"
+    Es kann gar nicht zu viele Katzenfotos geben!
 Schleicht auf Katzenpfoten durch die Landsberger Altstadt. 
 Das Catgress Mosaik besteht aus 24 Einzelmissionen (Hack/Passphrase)
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/catgress-landsberg-7ccd" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/catgress-landsberg-7ccd){ .md-button .md-button--primary }
 
 
-> Datei: `000180_catgress-landsberg_2018.md` • #000180 • Slug: `catgress-landsberg`
+
+> File: `000180_catgress-landsberg_2018.md` • #000180 • Slug: `catgress-landsberg`

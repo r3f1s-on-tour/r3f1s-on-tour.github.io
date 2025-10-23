@@ -23,12 +23,16 @@ title: "Furby Toast Wars in Oranienburg"
 
 
 ## Details
-- **Distanz (km):** 4
-- **Missionen im Banner:** 12
-- **Insgesamt abgeschlossene Missionen:** 9.318
-- **Das ist mein Banner Nr.:** 451
-- **Beschreibung:** Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
+- **Distance (km):** 4.00
+
+- **Total missions completed:** 
+- **This is my banner no.:** 451
+
+
+!!! note "Description"
+    Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> Datei: `000451_furby-toast-wars-in-oranienburg_2022.md` • #000451 • Slug: `furby-toast-wars-in-oranienburg`
+
+> File: `000451_furby-toast-wars-in-oranienburg_2022.md` • #000451 • Slug: `furby-toast-wars-in-oranienburg`

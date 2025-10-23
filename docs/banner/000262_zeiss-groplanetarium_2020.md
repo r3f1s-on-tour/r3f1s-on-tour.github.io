@@ -24,17 +24,16 @@ title: "Zeiss-Großplanetarium"
 
 ## Details
 
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 6276
-- **Das ist mein Banner Nr.:** 262
+
+- **Total missions completed:** 
+- **This is my banner no.:** 262
+
 
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/zeiss-gro%C3%9Fplanetarium-6b8c" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/zeiss-gro%C3%9Fplanetarium-6b8c){ .md-button .md-button--primary }
 
 
-> Datei: `000262_zeiss-groplanetarium_2020.md` • #000262 • Slug: `zeiss-groplanetarium`
+
+> File: `000262_zeiss-groplanetarium_2020.md` • #000262 • Slug: `zeiss-groplanetarium`

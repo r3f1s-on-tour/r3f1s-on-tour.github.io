@@ -24,17 +24,16 @@ title: "Wrocławska akwarela"
 
 ## Details
 
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 13.440
-- **Das ist mein Banner Nr.:** 614
+
+- **Total missions completed:** 
+- **This is my banner no.:** 614
+
 
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/wroc%C5%82awska-akwarela-6252" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/wroc%C5%82awska-akwarela-6252){ .md-button .md-button--primary }
 
 
-> Datei: `000614_wrocawska-akwarela_2025.md` • #000614 • Slug: `wrocawska-akwarela`
+
+> File: `000614_wrocawska-akwarela_2025.md` • #000614 • Slug: `wrocawska-akwarela`

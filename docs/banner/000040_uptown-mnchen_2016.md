@@ -23,18 +23,20 @@ title: "Uptown München"
 ![Uptown München](https://api.bannergress.com/bnrs/pictures/a295e76d39c5950cbc83463f55857a90)
 
 ## Details
-- **Distanz (km):** 18,71
-- **Missionen im Banner:** 60
-- **Insgesamt abgeschlossene Missionen:** 888
-- **Das ist mein Banner Nr.:** 40
-- **Beschreibung:** Die gläserne Fassade umhüllt das Tragwerk des nach dreijähriger Bauzeit im Jahre 2004 im Stadtteil Moosach fertiggestellten Büroturms. Das Hochhaus wird von vier siebengeschossigen Gebäuden flankiert
+- **Distance (km):** 18.71
+
+- **Total missions completed:** 
+- **This is my banner no.:** 40
+
+
+!!! note "Description"
+    Die gläserne Fassade umhüllt das Tragwerk des nach dreijähriger Bauzeit im Jahre 2004 im Stadtteil Moosach fertiggestellten Büroturms. Das Hochhaus wird von vier siebengeschossigen Gebäuden flankiert
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/uptown-m%C3%BCnchen-a93b" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/uptown-m%C3%BCnchen-a93b){ .md-button .md-button--primary }
 
 
-> Datei: `000040_uptown-mnchen_2016.md` • #000040 • Slug: `uptown-mnchen`
+
+> File: `000040_uptown-mnchen_2016.md` • #000040 • Slug: `uptown-mnchen`

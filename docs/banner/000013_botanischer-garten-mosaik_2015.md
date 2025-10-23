@@ -23,18 +23,20 @@ title: "Botanischer Garten Mosaik"
 
 
 ## Details
-- **Distanz (km):** 4,28
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 258
-- **Das ist mein Banner Nr.:** 13
-- **Beschreibung:** Ein wunderschönes Mosaik aus dem Botanischen Garten / Loki-Schmidt-Garten
+- **Distance (km):** 4.28
+
+- **Total missions completed:** 
+- **This is my banner no.:** 13
+
+
+!!! note "Description"
+    Ein wunderschönes Mosaik aus dem Botanischen Garten / Loki-Schmidt-Garten
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/botanischer-garten-mosaik-30ba" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/botanischer-garten-mosaik-30ba){ .md-button .md-button--primary }
 
 
-> Datei: `000013_botanischer-garten-mosaik_2015.md` • #000013 • Slug: `botanischer-garten-mosaik`
+
+> File: `000013_botanischer-garten-mosaik_2015.md` • #000013 • Slug: `botanischer-garten-mosaik`

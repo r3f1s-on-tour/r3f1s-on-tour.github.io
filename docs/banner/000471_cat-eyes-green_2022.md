@@ -23,11 +23,14 @@ title: "Cat Eyes Green"
 ![Cat Eyes Green](https://api.bannergress.com/bnrs/pictures/182670de155c6ecee8cbd731866220ff)
 
 ## Details
-- **Distanz (km):** 2,258
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 10.320
-- **Das ist mein Banner Nr.:** 471
-- **Beschreibung:** Dieses Banner ist die zweite Farbe von insgesamt 6. 
+- **Distance (km):** 2.26
+
+- **Total missions completed:** 
+- **This is my banner no.:** 471
+
+
+!!! note "Description"
+    Dieses Banner ist die zweite Farbe von insgesamt 6. 
 Sie startet und Endet am S+U Lichtenberg. 
 Als Passphrase wird jedweils die aktuelle Missionsnummer abgefragt
 
@@ -36,11 +39,10 @@ It starts and ends at S+U Lichtenberg.
 The passphrases are only asking for the current mission number.
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/cat-eyes-green-bd57" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/cat-eyes-green-bd57){ .md-button .md-button--primary }
 
 
-> Datei: `000471_cat-eyes-green_2022.md` • #000471 • Slug: `cat-eyes-green`
+
+> File: `000471_cat-eyes-green_2022.md` • #000471 • Slug: `cat-eyes-green`

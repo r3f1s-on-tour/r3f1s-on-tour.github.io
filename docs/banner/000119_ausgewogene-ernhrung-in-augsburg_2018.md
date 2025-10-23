@@ -24,17 +24,16 @@ title: "Ausgewogene Ernährung in Augsburg"
 
 ## Details
 
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 2904
-- **Das ist mein Banner Nr.:** 119
+
+- **Total missions completed:** 
+- **This is my banner no.:** 119
+
 
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/ausgewogene-ern%C3%A4hrung-in-augsburg-807f" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/ausgewogene-ern%C3%A4hrung-in-augsburg-807f){ .md-button .md-button--primary }
 
 
-> Datei: `000119_ausgewogene-ernhrung-in-augsburg_2018.md` • #000119 • Slug: `ausgewogene-ernhrung-in-augsburg`
+
+> File: `000119_ausgewogene-ernhrung-in-augsburg_2018.md` • #000119 • Slug: `ausgewogene-ernhrung-in-augsburg`

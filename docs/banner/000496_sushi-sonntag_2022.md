@@ -23,18 +23,20 @@ title: "Sushi Sonntag"
 ![Sushi Sonntag](https://api.bannergress.com/bnrs/pictures/39a9b3befeca7a4f970daa5a169df763)
 
 ## Details
-- **Distanz (km):** 3,283
-- **Missionen im Banner:** 12
-- **Insgesamt abgeschlossene Missionen:** 10.602
-- **Das ist mein Banner Nr.:** 496
-- **Beschreibung:** Zu den neuen Second Sundays Mission Days passt dieses Sushi Sonntag Banner. Auf der Strecke liegen mehrere Sushi Restaurants, aber hier findet man für jeden Geschmack etwas.
+- **Distance (km):** 3.28
+
+- **Total missions completed:** 
+- **This is my banner no.:** 496
+
+
+!!! note "Description"
+    Zu den neuen Second Sundays Mission Days passt dieses Sushi Sonntag Banner. Auf der Strecke liegen mehrere Sushi Restaurants, aber hier findet man für jeden Geschmack etwas.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/sushi-sonntag-781c" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/sushi-sonntag-781c){ .md-button .md-button--primary }
 
 
-> Datei: `000496_sushi-sonntag_2022.md` • #000496 • Slug: `sushi-sonntag`
+
+> File: `000496_sushi-sonntag_2022.md` • #000496 • Slug: `sushi-sonntag`

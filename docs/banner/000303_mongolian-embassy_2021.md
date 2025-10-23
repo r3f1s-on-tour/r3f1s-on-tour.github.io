@@ -23,18 +23,20 @@ title: "Mongolian Embassy"
 
 
 ## Details
-- **Distanz (km):** 3,58
-- **Missionen im Banner:** 12
-- **Insgesamt abgeschlossene Missionen:** 7074
-- **Das ist mein Banner Nr.:** 303
-- **Beschreibung:** This tour will guide you around the area of the mongolian embassy.  Located near Hausvogteiplatz and famous Gendarmenmarkt are only a few minutes away.
+- **Distance (km):** 3.58
+
+- **Total missions completed:** 
+- **This is my banner no.:** 303
+
+
+!!! note "Description"
+    This tour will guide you around the area of the mongolian embassy.  Located near Hausvogteiplatz and famous Gendarmenmarkt are only a few minutes away.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/mongolian-embassy-c022" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/mongolian-embassy-c022){ .md-button .md-button--primary }
 
 
-> Datei: `000303_mongolian-embassy_2021.md` • #000303 • Slug: `mongolian-embassy`
+
+> File: `000303_mongolian-embassy_2021.md` • #000303 • Slug: `mongolian-embassy`

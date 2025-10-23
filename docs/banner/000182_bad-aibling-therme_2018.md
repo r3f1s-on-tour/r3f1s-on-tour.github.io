@@ -23,18 +23,20 @@ title: "Bad Aibling - Therme"
 
 
 ## Details
-- **Distanz (km):** 4,40
-- **Missionen im Banner:** 12
-- **Insgesamt abgeschlossene Missionen:** 4380
-- **Das ist mein Banner Nr.:** 182
-- **Beschreibung:** Die Therme in Bad Aibling ist jedermann bekannt. Mit Abschluss dieser Missionsserie in der richtigen Reihenfolge erhältst du ein Bild der Therme.
+- **Distance (km):** 4.40
+
+- **Total missions completed:** 
+- **This is my banner no.:** 182
+
+
+!!! note "Description"
+    Die Therme in Bad Aibling ist jedermann bekannt. Mit Abschluss dieser Missionsserie in der richtigen Reihenfolge erhältst du ein Bild der Therme.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/bad-aibling-therme-51f4" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/bad-aibling-therme-51f4){ .md-button .md-button--primary }
 
 
-> Datei: `000182_bad-aibling-therme_2018.md` • #000182 • Slug: `bad-aibling-therme`
+
+> File: `000182_bad-aibling-therme_2018.md` • #000182 • Slug: `bad-aibling-therme`

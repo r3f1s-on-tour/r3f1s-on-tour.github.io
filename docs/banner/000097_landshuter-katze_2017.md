@@ -23,19 +23,21 @@ title: "Landshuter Katze"
 
 
 ## Details
-- **Distanz (km):** 7,93
-- **Missionen im Banner:** 30
-- **Insgesamt abgeschlossene Missionen:** 2496
-- **Das ist mein Banner Nr.:** 97
-- **Beschreibung:** Die Landshuter Katze führt euch durch unser schönes Landshut. 
+- **Distance (km):** 7.93
+
+- **Total missions completed:** 
+- **This is my banner no.:** 97
+
+
+!!! note "Description"
+    Die Landshuter Katze führt euch durch unser schönes Landshut. 
 Viel Spaß
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/landshuter-katze-d42b" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/landshuter-katze-d42b){ .md-button .md-button--primary }
 
 
-> Datei: `000097_landshuter-katze_2017.md` • #000097 • Slug: `landshuter-katze`
+
+> File: `000097_landshuter-katze_2017.md` • #000097 • Slug: `landshuter-katze`

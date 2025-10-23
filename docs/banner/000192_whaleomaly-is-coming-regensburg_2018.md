@@ -23,19 +23,21 @@ title: "Whaleomaly is Coming Regensburg"
 
 
 ## Details
-- **Distanz (km):** 1,62
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 4572
-- **Das ist mein Banner Nr.:** 192
-- **Beschreibung:** Entdecke Regensburgs Wale! Bring sie mit, damit wir diese bei der Whaleomaly in Linz verbünden !
+- **Distance (km):** 1.62
+
+- **Total missions completed:** 
+- **This is my banner no.:** 192
+
+
+!!! note "Description"
+    Entdecke Regensburgs Wale! Bring sie mit, damit wir diese bei der Whaleomaly in Linz verbünden !
 Explore Regensburgs Whales! Take them with you to unite at the Whaleomaly Linz!
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/whaleomaly-is-coming-regensburg-7a9c" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/whaleomaly-is-coming-regensburg-7a9c){ .md-button .md-button--primary }
 
 
-> Datei: `000192_whaleomaly-is-coming-regensburg_2018.md` • #000192 • Slug: `whaleomaly-is-coming-regensburg`
+
+> File: `000192_whaleomaly-is-coming-regensburg_2018.md` • #000192 • Slug: `whaleomaly-is-coming-regensburg`

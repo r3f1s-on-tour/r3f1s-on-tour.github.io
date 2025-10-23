@@ -23,18 +23,20 @@ title: "Districts of Munich"
 
 
 ## Details
-- **Distanz (km):** 83,57
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 3546
-- **Das ist mein Banner Nr.:** 146
-- **Beschreibung:** Mission-sequence through Munich's districts. DayTicket (Inneraum) helps ;)
+- **Distance (km):** 83.57
+
+- **Total missions completed:** 
+- **This is my banner no.:** 146
+
+
+!!! note "Description"
+    Mission-sequence through Munich's districts. DayTicket (Inneraum) helps ;)
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/districts-of-munich-83ab" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/districts-of-munich-83ab){ .md-button .md-button--primary }
 
 
-> Datei: `000146_districts-of-munich_2018.md` • #000146 • Slug: `districts-of-munich`
+
+> File: `000146_districts-of-munich_2018.md` • #000146 • Slug: `districts-of-munich`

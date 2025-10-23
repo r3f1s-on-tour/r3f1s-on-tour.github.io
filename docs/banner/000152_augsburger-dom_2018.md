@@ -24,11 +24,12 @@ title: "Augsburger Dom"
 
 ## Details
 
-- **Missionen im Banner:** 30
-- **Insgesamt abgeschlossene Missionen:** 3720
-- **Das ist mein Banner Nr.:** 152
+
+- **Total missions completed:** 
+- **This is my banner no.:** 152
 
 
 
 
-> Datei: `000152_augsburger-dom_2018.md` • #000152 • Slug: `augsburger-dom`
+
+> File: `000152_augsburger-dom_2018.md` • #000152 • Slug: `augsburger-dom`

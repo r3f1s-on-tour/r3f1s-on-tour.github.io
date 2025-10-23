@@ -24,17 +24,16 @@ title: "Augsburg im Januar"
 
 ## Details
 
-- **Missionen im Banner:** 30
-- **Insgesamt abgeschlossene Missionen:** 2934
-- **Das ist mein Banner Nr.:** 120
+
+- **Total missions completed:** 
+- **This is my banner no.:** 120
+
 
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/augsburg-im-januar-a82b" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/augsburg-im-januar-a82b){ .md-button .md-button--primary }
 
 
-> Datei: `000120_augsburg-im-januar_2018.md` • #000120 • Slug: `augsburg-im-januar`
+
+> File: `000120_augsburg-im-januar_2018.md` • #000120 • Slug: `augsburg-im-januar`

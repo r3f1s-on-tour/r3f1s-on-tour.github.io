@@ -23,18 +23,20 @@ title: "Rammbock in Oranienburg"
 ![Rammbock in Oranienburg](https://api.bannergress.com/bnrs/pictures/497d3477de6312acf9cc142d6fe09ff6)
 
 ## Details
-- **Distanz (km):** 1,599
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 10.434
-- **Das ist mein Banner Nr.:** 483
-- **Beschreibung:** Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
+- **Distance (km):** 1.60
+
+- **Total missions completed:** 
+- **This is my banner no.:** 483
+
+
+!!! note "Description"
+    Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/rammbock-in-oranienburg-1b23" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/rammbock-in-oranienburg-1b23){ .md-button .md-button--primary }
 
 
-> Datei: `000483_rammbock-in-oranienburg_2022.md` • #000483 • Slug: `rammbock-in-oranienburg`
+
+> File: `000483_rammbock-in-oranienburg_2022.md` • #000483 • Slug: `rammbock-in-oranienburg`

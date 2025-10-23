@@ -23,18 +23,20 @@ title: "SPAZIERGANG"
 
 
 ## Details
-- **Distanz (km):** 6,23
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 8.676
-- **Das ist mein Banner Nr.:** 407
-- **Beschreibung:** Eine kleine  Runde in Berlin Mitte
+- **Distance (km):** 6.23
+
+- **Total missions completed:** 
+- **This is my banner no.:** 407
+
+
+!!! note "Description"
+    Eine kleine  Runde in Berlin Mitte
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/spaziergang-88bd" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/spaziergang-88bd){ .md-button .md-button--primary }
 
 
-> Datei: `000407_spaziergang_2022.md` • #000407 • Slug: `spaziergang`
+
+> File: `000407_spaziergang_2022.md` • #000407 • Slug: `spaziergang`

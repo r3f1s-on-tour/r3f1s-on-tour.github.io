@@ -23,12 +23,16 @@ title: "Black Cats in Oranienburg"
 
 
 ## Details
-- **Distanz (km):** 1,259
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 10.506
-- **Das ist mein Banner Nr.:** 488
-- **Beschreibung:** Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
+- **Distance (km):** 1.26
+
+- **Total missions completed:** 
+- **This is my banner no.:** 488
+
+
+!!! note "Description"
+    Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
 
 
 
-> Datei: `000488_black-cats-in-oranienburg_2022.md` • #000488 • Slug: `black-cats-in-oranienburg`
+
+> File: `000488_black-cats-in-oranienburg_2022.md` • #000488 • Slug: `black-cats-in-oranienburg`

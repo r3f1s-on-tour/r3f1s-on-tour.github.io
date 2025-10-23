@@ -23,18 +23,20 @@ title: "Beautiful Frogs Berlin"
 ![Beautiful Frogs Berlin](https://api.bannergress.com/bnrs/pictures/cb773c8c9948b7bee5217d1db01cf7b7)
 
 ## Details
-- **Distanz (km):** 1,459
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 12.258
-- **Das ist mein Banner Nr.:** 552
-- **Beschreibung:** Have a walk around the Gethsemane church.
+- **Distance (km):** 1.46
+
+- **Total missions completed:** 
+- **This is my banner no.:** 552
+
+
+!!! note "Description"
+    Have a walk around the Gethsemane church.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/beautiful-frogs-berlin-35db" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/beautiful-frogs-berlin-35db){ .md-button .md-button--primary }
 
 
-> Datei: `000552_beautiful-frogs-berlin_2023.md` • #000552 • Slug: `beautiful-frogs-berlin`
+
+> File: `000552_beautiful-frogs-berlin_2023.md` • #000552 • Slug: `beautiful-frogs-berlin`

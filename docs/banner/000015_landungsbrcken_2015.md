@@ -23,18 +23,20 @@ title: "Landungsbrücken"
 ![Landungsbrücken](https://api.bannergress.com/bnrs/pictures/b5b4e97a8c42aca70facc47acb35a5ca)
 
 ## Details
-- **Distanz (km):** 5,87
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 294
-- **Das ist mein Banner Nr.:** 15
-- **Beschreibung:** Mosaic around the Landungsbrücken
+- **Distance (km):** 5.87
+
+- **Total missions completed:** 
+- **This is my banner no.:** 15
+
+
+!!! note "Description"
+    Mosaic around the Landungsbrücken
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/landungsbr%C3%BCcken-mosaik-5dad" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/landungsbr%C3%BCcken-mosaik-5dad){ .md-button .md-button--primary }
 
 
-> Datei: `000015_landungsbrcken_2015.md` • #000015 • Slug: `landungsbrcken`
+
+> File: `000015_landungsbrcken_2015.md` • #000015 • Slug: `landungsbrcken`

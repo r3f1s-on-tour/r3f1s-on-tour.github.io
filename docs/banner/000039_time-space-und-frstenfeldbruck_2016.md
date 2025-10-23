@@ -23,18 +23,20 @@ title: "Time Space und Fürstenfeldbruck"
 ![Time Space und Fürstenfeldbruck](https://api.bannergress.com/bnrs/pictures/0c9708630f31755d9cb89f468ad2e6ba)
 
 ## Details
-- **Distanz (km):** 98,19
-- **Missionen im Banner:** 48
-- **Insgesamt abgeschlossene Missionen:** 828
-- **Das ist mein Banner Nr.:** 39
-- **Beschreibung:** Eine Reise durch den schönen Landkreis Fürstenfeldbruck.
+- **Distance (km):** 98.19
+
+- **Total missions completed:** 
+- **This is my banner no.:** 39
+
+
+!!! note "Description"
+    Eine Reise durch den schönen Landkreis Fürstenfeldbruck.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/time-space-und-f%C3%BCrstenfeldbruck-7a7f" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/time-space-und-f%C3%BCrstenfeldbruck-7a7f){ .md-button .md-button--primary }
 
 
-> Datei: `000039_time-space-und-frstenfeldbruck_2016.md` • #000039 • Slug: `time-space-und-frstenfeldbruck`
+
+> File: `000039_time-space-und-frstenfeldbruck_2016.md` • #000039 • Slug: `time-space-und-frstenfeldbruck`

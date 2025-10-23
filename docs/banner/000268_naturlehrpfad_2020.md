@@ -23,19 +23,21 @@ title: "Naturlehrpfad"
 
 
 ## Details
-- **Distanz (km):** 5,28
-- **Missionen im Banner:** 12
-- **Insgesamt abgeschlossene Missionen:** 6342
-- **Das ist mein Banner Nr.:** 268
-- **Beschreibung:** Diese Missionsreihe führt euch über den Naturlehrpfad durch beschauliche Wälder und Wiesen zu Interessanten Versteckten Orten.
+- **Distance (km):** 5.28
+
+- **Total missions completed:** 
+- **This is my banner no.:** 268
+
+
+!!! note "Description"
+    Diese Missionsreihe führt euch über den Naturlehrpfad durch beschauliche Wälder und Wiesen zu Interessanten Versteckten Orten.
 Lernt etwas daraus und habt spaß beim Wandern.
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/naturlehrpfad-4161" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/naturlehrpfad-4161){ .md-button .md-button--primary }
 
 
-> Datei: `000268_naturlehrpfad_2020.md` • #000268 • Slug: `naturlehrpfad`
+
+> File: `000268_naturlehrpfad_2020.md` • #000268 • Slug: `naturlehrpfad`

@@ -23,12 +23,16 @@ title: "World Blood Donor Day 2022 - Blood Types Edition"
 
 
 ## Details
-- **Distanz (km):** 3,011
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 9.486
-- **Das ist mein Banner Nr.:** 458
-- **Beschreibung:** Am 14. Juni 2022 ist globaler Blutspendetag! Lasst euch mit diesem Banner durch Oranienburg zum Blutspendezentrum leiten. Beachtet, dass ihr euch für eine Blutspende vorher anmelden müsst!
+- **Distance (km):** 3.01
+
+- **Total missions completed:** 
+- **This is my banner no.:** 458
+
+
+!!! note "Description"
+    Am 14. Juni 2022 ist globaler Blutspendetag! Lasst euch mit diesem Banner durch Oranienburg zum Blutspendezentrum leiten. Beachtet, dass ihr euch für eine Blutspende vorher anmelden müsst!
 
 
 
-> Datei: `000458_world-blood-donor-day-2022-blood-types-edition_2022.md` • #000458 • Slug: `world-blood-donor-day-2022-blood-types-edition`
+
+> File: `000458_world-blood-donor-day-2022-blood-types-edition_2022.md` • #000458 • Slug: `world-blood-donor-day-2022-blood-types-edition`

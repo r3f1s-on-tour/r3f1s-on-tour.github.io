@@ -23,18 +23,20 @@ title: "BlueSunGarching"
 ![BlueSunGarching](https://api.bannergress.com/bnrs/pictures/534d4ea65f043ae17ab0adaae39ce044)
 
 ## Details
-- **Distanz (km):** 26,52
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 774
-- **Das ist mein Banner Nr.:** 37
-- **Beschreibung:** A Trip to (nearly) all portals in Garching Hochbrück (1-6), Garching (7-12) and Garching-Forschungszentrum (13-24). The first 3 missions have long Distances. Bycicle is adviced.
+- **Distance (km):** 26.52
+
+- **Total missions completed:** 
+- **This is my banner no.:** 37
+
+
+!!! note "Description"
+    A Trip to (nearly) all portals in Garching Hochbrück (1-6), Garching (7-12) and Garching-Forschungszentrum (13-24). The first 3 missions have long Distances. Bycicle is adviced.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/bluesungarching-f7ce" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/bluesungarching-f7ce){ .md-button .md-button--primary }
 
 
-> Datei: `000037_bluesungarching_2016.md` • #000037 • Slug: `bluesungarching`
+
+> File: `000037_bluesungarching_2016.md` • #000037 • Slug: `bluesungarching`

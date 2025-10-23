@@ -24,17 +24,16 @@ title: "Augsburg im August"
 
 ## Details
 
-- **Missionen im Banner:** 30
-- **Insgesamt abgeschlossene Missionen:** 4644
-- **Das ist mein Banner Nr.:** 196
+
+- **Total missions completed:** 
+- **This is my banner no.:** 196
+
 
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/augsburg-im-august-e95e" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/augsburg-im-august-e95e){ .md-button .md-button--primary }
 
 
-> Datei: `000196_augsburg-im-august_2018.md` • #000196 • Slug: `augsburg-im-august`
+
+> File: `000196_augsburg-im-august_2018.md` • #000196 • Slug: `augsburg-im-august`

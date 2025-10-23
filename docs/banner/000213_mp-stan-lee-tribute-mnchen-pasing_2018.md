@@ -24,11 +24,12 @@ title: "#MP Stan Lee Tribute [München-Pasing]"
 
 ## Details
 
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 5178
-- **Das ist mein Banner Nr.:** 213
+
+- **Total missions completed:** 
+- **This is my banner no.:** 213
 
 
 
 
-> Datei: `000213_mp-stan-lee-tribute-mnchen-pasing_2018.md` • #000213 • Slug: `mp-stan-lee-tribute-mnchen-pasing`
+
+> File: `000213_mp-stan-lee-tribute-mnchen-pasing_2018.md` • #000213 • Slug: `mp-stan-lee-tribute-mnchen-pasing`

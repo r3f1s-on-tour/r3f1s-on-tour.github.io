@@ -23,18 +23,20 @@ title: "Schauspielhaus"
 ![Schauspielhaus](https://api.bannergress.com/bnrs/pictures/1a84ff953b346ed980f83a30166ab1a2)
 
 ## Details
-- **Distanz (km):** 5,061
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 11.862
-- **Das ist mein Banner Nr.:** 538
-- **Beschreibung:** Das Schauspielhaus befindet sich im Zentrum von Neubrandenburg. Es ist das älteste erhaltene Theater von Mecklenburg Vorpommern.
+- **Distance (km):** 5.06
+
+- **Total missions completed:** 
+- **This is my banner no.:** 538
+
+
+!!! note "Description"
+    Das Schauspielhaus befindet sich im Zentrum von Neubrandenburg. Es ist das älteste erhaltene Theater von Mecklenburg Vorpommern.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/schauspielhaus-a53c" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/schauspielhaus-a53c){ .md-button .md-button--primary }
 
 
-> Datei: `000538_schauspielhaus_2023.md` • #000538 • Slug: `schauspielhaus`
+
+> File: `000538_schauspielhaus_2023.md` • #000538 • Slug: `schauspielhaus`

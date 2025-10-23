@@ -23,19 +23,21 @@ title: "Berchinger Stadtmauer"
 ![Berchinger Stadtmauer](https://api.bannergress.com/bnrs/pictures/109263d1997f0bef578efd3bf35cd29b)
 
 ## Details
-- **Distanz (km):** 7,46
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 1404
-- **Das ist mein Banner Nr.:** 63
-- **Beschreibung:** Die 1. von 24 Missionen, um ein Mosaik der Berchinger Stadtmauer in's Profil zu kriegen.
+- **Distance (km):** 7.46
+
+- **Total missions completed:** 
+- **This is my banner no.:** 63
+
+
+!!! note "Description"
+    Die 1. von 24 Missionen, um ein Mosaik der Berchinger Stadtmauer in's Profil zu kriegen.
 Hack only. Am besten zu Fuß machbar.
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/berchinger-stadtmauer-6ad3" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/berchinger-stadtmauer-6ad3){ .md-button .md-button--primary }
 
 
-> Datei: `000063_berchinger-stadtmauer_2017.md` • #000063 • Slug: `berchinger-stadtmauer`
+
+> File: `000063_berchinger-stadtmauer_2017.md` • #000063 • Slug: `berchinger-stadtmauer`

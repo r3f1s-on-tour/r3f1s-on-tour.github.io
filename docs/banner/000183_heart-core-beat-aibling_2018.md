@@ -23,18 +23,20 @@ title: "Heart Core Beat Aibling"
 
 
 ## Details
-- **Distanz (km):** 1,42
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 4386
-- **Das ist mein Banner Nr.:** 183
-- **Beschreibung:** Fühle den Herzschlag vom schönen Bad Aibling.
+- **Distance (km):** 1.42
+
+- **Total missions completed:** 
+- **This is my banner no.:** 183
+
+
+!!! note "Description"
+    Fühle den Herzschlag vom schönen Bad Aibling.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/heart-core-beat-aibling-1920" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/heart-core-beat-aibling-1920){ .md-button .md-button--primary }
 
 
-> Datei: `000183_heart-core-beat-aibling_2018.md` • #000183 • Slug: `heart-core-beat-aibling`
+
+> File: `000183_heart-core-beat-aibling_2018.md` • #000183 • Slug: `heart-core-beat-aibling`

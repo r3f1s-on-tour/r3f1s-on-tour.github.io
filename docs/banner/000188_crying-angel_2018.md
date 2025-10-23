@@ -23,18 +23,20 @@ title: "Crying Angel"
 
 
 ## Details
-- **Distanz (km):** 2,21
-- **Missionen im Banner:** 12
-- **Insgesamt abgeschlossene Missionen:** 4458
-- **Das ist mein Banner Nr.:** 188
-- **Beschreibung:** Kleine Tour über den alten Nordfriedhof. Vorsicht vor den weinenden Engel
+- **Distance (km):** 2.21
+
+- **Total missions completed:** 
+- **This is my banner no.:** 188
+
+
+!!! note "Description"
+    Kleine Tour über den alten Nordfriedhof. Vorsicht vor den weinenden Engel
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/crying-angel-59c9" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/crying-angel-59c9){ .md-button .md-button--primary }
 
 
-> Datei: `000188_crying-angel_2018.md` • #000188 • Slug: `crying-angel`
+
+> File: `000188_crying-angel_2018.md` • #000188 • Slug: `crying-angel`

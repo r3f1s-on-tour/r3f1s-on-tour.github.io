@@ -23,18 +23,20 @@ title: "Watercolor Munich"
 
 
 ## Details
-- **Distanz (km):** 2,10
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 5694
-- **Das ist mein Banner Nr.:** 238
-- **Beschreibung:** Quick walk through Munich city. Start/End Marienplatz.
+- **Distance (km):** 2.10
+
+- **Total missions completed:** 
+- **This is my banner no.:** 238
+
+
+!!! note "Description"
+    Quick walk through Munich city. Start/End Marienplatz.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/watercolor-munich-9d80" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/watercolor-munich-9d80){ .md-button .md-button--primary }
 
 
-> Datei: `000238_watercolor-munich_2019.md` • #000238 • Slug: `watercolor-munich`
+
+> File: `000238_watercolor-munich_2019.md` • #000238 • Slug: `watercolor-munich`

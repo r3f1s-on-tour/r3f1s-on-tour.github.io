@@ -23,18 +23,17 @@ title: "MD 2020- Berlin,  International Women's Day"
 
 
 ## Details
-- **Distanz (km):** 19,23
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 6330
-- **Das ist mein Banner Nr.:** 267
+- **Distance (km):** 19.23
+
+- **Total missions completed:** 
+- **This is my banner no.:** 267
+
 
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/md-2020-berlin-international-women-s-day-643b" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/md-2020-berlin-international-women-s-day-643b){ .md-button .md-button--primary }
 
 
-> Datei: `000267_md-2020-berlin-international-womens-day_2020.md` • #000267 • Slug: `md-2020-berlin-international-womens-day`
+
+> File: `000267_md-2020-berlin-international-womens-day_2020.md` • #000267 • Slug: `md-2020-berlin-international-womens-day`

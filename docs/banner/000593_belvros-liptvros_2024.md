@@ -23,18 +23,20 @@ title: "Belváros-Lipótváros"
 ![Belváros-Lipótváros](https://api.bannergress.com/bnrs/pictures/9b37d605591bc696e5dc8d4849919780)
 
 ## Details
-- **Distanz (km):** 4,671
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 13.110
-- **Das ist mein Banner Nr.:** 593
-- **Beschreibung:** Discover the central part of Budapest in District V, situated on the east bank of the river Danube.
+- **Distance (km):** 4.67
+
+- **Total missions completed:** 
+- **This is my banner no.:** 593
+
+
+!!! note "Description"
+    Discover the central part of Budapest in District V, situated on the east bank of the river Danube.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/belv%C3%A1ros-lip%C3%B3tv%C3%A1ros-57e4" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/belv%C3%A1ros-lip%C3%B3tv%C3%A1ros-57e4){ .md-button .md-button--primary }
 
 
-> Datei: `000593_belvros-liptvros_2024.md` • #000593 • Slug: `belvros-liptvros`
+
+> File: `000593_belvros-liptvros_2024.md` • #000593 • Slug: `belvros-liptvros`

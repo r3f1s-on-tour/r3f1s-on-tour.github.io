@@ -23,12 +23,16 @@ title: "XMas Panda in Strasburg"
 
 
 ## Details
-- **Distanz (km):** 2,73
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 8172
-- **Das ist mein Banner Nr.:** 374
-- **Beschreibung:** Mache eine Entdeckungsrunde durch Strasburg und hole dir paar XMas Panda ins Profil
+- **Distance (km):** 2.73
+
+- **Total missions completed:** 
+- **This is my banner no.:** 374
+
+
+!!! note "Description"
+    Mache eine Entdeckungsrunde durch Strasburg und hole dir paar XMas Panda ins Profil
 
 
 
-> Datei: `000374_xmas-panda-in-strasburg_2021.md` • #000374 • Slug: `xmas-panda-in-strasburg`
+
+> File: `000374_xmas-panda-in-strasburg_2021.md` • #000374 • Slug: `xmas-panda-in-strasburg`

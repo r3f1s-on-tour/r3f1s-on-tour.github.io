@@ -23,20 +23,22 @@ title: "Whaleomaly is Coming [Kirchheim b. München]"
 
 
 ## Details
-- **Distanz (km):** 4,55
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 3840
-- **Das ist mein Banner Nr.:** 160
-- **Beschreibung:** Explore Kirchheims Whales! Take them with you to unite at the Whaleomaly Linz!
+- **Distance (km):** 4.55
+
+- **Total missions completed:** 
+- **This is my banner no.:** 160
+
+
+!!! note "Description"
+    Explore Kirchheims Whales! Take them with you to unite at the Whaleomaly Linz!
 
 Entdecke Kirchheims Wale! Bring sie mit, damit wir diese bei der Walomalie in Linz verbünden!
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/whaleomaly-is-coming-kirchheim-b-m%C3%BCnchen-79bc" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/whaleomaly-is-coming-kirchheim-b-m%C3%BCnchen-79bc){ .md-button .md-button--primary }
 
 
-> Datei: `000160_whaleomaly-is-coming-kirchheim-b-mnchen_2018.md` • #000160 • Slug: `whaleomaly-is-coming-kirchheim-b-mnchen`
+
+> File: `000160_whaleomaly-is-coming-kirchheim-b-mnchen_2018.md` • #000160 • Slug: `whaleomaly-is-coming-kirchheim-b-mnchen`

@@ -24,17 +24,16 @@ title: "Whaleomaly is Coming [Eching]"
 
 ## Details
 
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 4098
-- **Das ist mein Banner Nr.:** 168
+
+- **Total missions completed:** 
+- **This is my banner no.:** 168
+
 
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/whaleomaly-is-coming-7628" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/whaleomaly-is-coming-7628){ .md-button .md-button--primary }
 
 
-> Datei: `000168_whaleomaly-is-coming-eching_2018.md` • #000168 • Slug: `whaleomaly-is-coming-eching`
+
+> File: `000168_whaleomaly-is-coming-eching_2018.md` • #000168 • Slug: `whaleomaly-is-coming-eching`

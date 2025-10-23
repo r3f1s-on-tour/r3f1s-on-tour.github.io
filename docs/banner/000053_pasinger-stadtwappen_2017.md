@@ -23,18 +23,20 @@ title: "Pasinger Stadtwappen"
 ![Pasinger Stadtwappen](https://api.bannergress.com/bnrs/pictures/fd818caf54ddf0a3b1cdbe1e34009f71)
 
 ## Details
-- **Distanz (km):** 13,85
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 1224
-- **Das ist mein Banner Nr.:** 53
-- **Beschreibung:** Die nächste Mission beginnt jeweils am letzten Portal der vorherigen Mission. Es kommen Hack- und Capture/Upgrade-Missionen vor. Fahrrad ist von Vorteil.
+- **Distance (km):** 13.85
+
+- **Total missions completed:** 
+- **This is my banner no.:** 53
+
+
+!!! note "Description"
+    Die nächste Mission beginnt jeweils am letzten Portal der vorherigen Mission. Es kommen Hack- und Capture/Upgrade-Missionen vor. Fahrrad ist von Vorteil.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/pasinger-stadtwappen-0d09" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/pasinger-stadtwappen-0d09){ .md-button .md-button--primary }
 
 
-> Datei: `000053_pasinger-stadtwappen_2017.md` • #000053 • Slug: `pasinger-stadtwappen`
+
+> File: `000053_pasinger-stadtwappen_2017.md` • #000053 • Slug: `pasinger-stadtwappen`

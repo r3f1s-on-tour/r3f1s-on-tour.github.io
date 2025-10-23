@@ -23,18 +23,20 @@ title: "Festung Hohensalzburg"
 
 
 ## Details
-- **Distanz (km):** 4,20
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 5340
-- **Das ist mein Banner Nr.:** 221
-- **Beschreibung:** Über der Stadt Salzburg ragt ihr Wahrzeichen, die Festung Hohensalzburg, die zu den größten Burgen Europas zählt.
+- **Distance (km):** 4.20
+
+- **Total missions completed:** 
+- **This is my banner no.:** 221
+
+
+!!! note "Description"
+    Über der Stadt Salzburg ragt ihr Wahrzeichen, die Festung Hohensalzburg, die zu den größten Burgen Europas zählt.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/festung-hohensalzburg-92bb" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/festung-hohensalzburg-92bb){ .md-button .md-button--primary }
 
 
-> Datei: `000221_festung-hohensalzburg_2019.md` • #000221 • Slug: `festung-hohensalzburg`
+
+> File: `000221_festung-hohensalzburg_2019.md` • #000221 • Slug: `festung-hohensalzburg`

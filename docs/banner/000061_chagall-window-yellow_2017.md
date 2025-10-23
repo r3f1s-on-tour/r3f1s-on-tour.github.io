@@ -23,18 +23,17 @@ title: "Chagall Window yellow"
 ![Chagall Window yellow](https://api.bannergress.com/bnrs/pictures/8611b3520266f1e355ead4be0fa96bec)
 
 ## Details
-- **Distanz (km):** 1,20
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 1356
-- **Das ist mein Banner Nr.:** 61
+- **Distance (km):** 1.20
+
+- **Total missions completed:** 
+- **This is my banner no.:** 61
+
 
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/chagall-window-yellow-b02b" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/chagall-window-yellow-b02b){ .md-button .md-button--primary }
 
 
-> Datei: `000061_chagall-window-yellow_2017.md` • #000061 • Slug: `chagall-window-yellow`
+
+> File: `000061_chagall-window-yellow_2017.md` • #000061 • Slug: `chagall-window-yellow`

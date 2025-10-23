@@ -23,18 +23,20 @@ title: "Mr Pumpkin Slasher in Oranienburg"
 
 
 ## Details
-- **Distanz (km):** 6,06
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 7776
-- **Das ist mein Banner Nr.:** 344
-- **Beschreibung:** Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
+- **Distance (km):** 6.06
+
+- **Total missions completed:** 
+- **This is my banner no.:** 344
+
+
+!!! note "Description"
+    Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/mr-pumpkin-slasher-in-oranienburg-13b7" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/mr-pumpkin-slasher-in-oranienburg-13b7){ .md-button .md-button--primary }
 
 
-> Datei: `000344_mr-pumpkin-slasher-in-oranienburg_2021.md` • #000344 • Slug: `mr-pumpkin-slasher-in-oranienburg`
+
+> File: `000344_mr-pumpkin-slasher-in-oranienburg_2021.md` • #000344 • Slug: `mr-pumpkin-slasher-in-oranienburg`

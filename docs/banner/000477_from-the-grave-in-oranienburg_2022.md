@@ -23,18 +23,20 @@ title: "From the Grave in Oranienburg"
 ![From the Grave in Oranienburg](https://api.bannergress.com/bnrs/pictures/023bb234581447c14213143dbc613c47)
 
 ## Details
-- **Distanz (km):** 8,961
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 10.398
-- **Das ist mein Banner Nr.:** 477
-- **Beschreibung:** Starte in der Bernauer Straße eine Entdeckungstour durch Oranienburg entdecke auf deiner Runde Sehenswürdigkeiten wie das Schloss und andere Denkmäler. Es geht entlang der Havel zurück zum Bahnhof.
+- **Distance (km):** 8.96
+
+- **Total missions completed:** 
+- **This is my banner no.:** 477
+
+
+!!! note "Description"
+    Starte in der Bernauer Straße eine Entdeckungstour durch Oranienburg entdecke auf deiner Runde Sehenswürdigkeiten wie das Schloss und andere Denkmäler. Es geht entlang der Havel zurück zum Bahnhof.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/from-the-grave-in-oranienburg-1694" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/from-the-grave-in-oranienburg-1694){ .md-button .md-button--primary }
 
 
-> Datei: `000477_from-the-grave-in-oranienburg_2022.md` • #000477 • Slug: `from-the-grave-in-oranienburg`
+
+> File: `000477_from-the-grave-in-oranienburg_2022.md` • #000477 • Slug: `from-the-grave-in-oranienburg`

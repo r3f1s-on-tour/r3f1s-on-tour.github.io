@@ -23,18 +23,20 @@ title: "Das Stralsunder Rathaus"
 
 
 ## Details
-- **Distanz (km):** 5,45
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 7596
-- **Das ist mein Banner Nr.:** 332
-- **Beschreibung:** Die Stadt gehörte nach dem Erlöschen des Fürstentums Rügen 1325 zu Pommern-Wolgast.
+- **Distance (km):** 5.45
+
+- **Total missions completed:** 
+- **This is my banner no.:** 332
+
+
+!!! note "Description"
+    Die Stadt gehörte nach dem Erlöschen des Fürstentums Rügen 1325 zu Pommern-Wolgast.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/das-stralsunder-rathaus-bf96" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/das-stralsunder-rathaus-bf96){ .md-button .md-button--primary }
 
 
-> Datei: `000332_das-stralsunder-rathaus_2021.md` • #000332 • Slug: `das-stralsunder-rathaus`
+
+> File: `000332_das-stralsunder-rathaus_2021.md` • #000332 • Slug: `das-stralsunder-rathaus`

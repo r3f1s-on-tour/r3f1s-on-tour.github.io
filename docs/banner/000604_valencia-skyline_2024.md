@@ -23,19 +23,21 @@ title: "Valencia Skyline"
 ![Valencia Skyline](https://api.bannergress.com/bnrs/pictures/b575cef9c16f79e0b3d1fcb32ac87cf0)
 
 ## Details
-- **Distanz (km):** 3,561
-- **Missionen im Banner:** 12
-- **Insgesamt abgeschlossene Missionen:** 13.284
-- **Das ist mein Banner Nr.:** 604
-- **Beschreibung:** Descubre los lugares más emblemáticos de la ciudad de Valencia y completa este bonito banner.
+- **Distance (km):** 3.56
+
+- **Total missions completed:** 
+- **This is my banner no.:** 604
+
+
+!!! note "Description"
+    Descubre los lugares más emblemáticos de la ciudad de Valencia y completa este bonito banner.
 Discover the most emblematic places in Valencia and complete this beautiful banner.
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/valencia-skyline-4d2a" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/valencia-skyline-4d2a){ .md-button .md-button--primary }
 
 
-> Datei: `000604_valencia-skyline_2024.md` • #000604 • Slug: `valencia-skyline`
+
+> File: `000604_valencia-skyline_2024.md` • #000604 • Slug: `valencia-skyline`

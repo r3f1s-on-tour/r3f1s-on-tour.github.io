@@ -23,12 +23,16 @@ title: "Feuerschwert Tour durch Strasburg"
 
 
 ## Details
-- **Distanz (km):** 2,79
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 8010
-- **Das ist mein Banner Nr.:** 364
-- **Beschreibung:** Mache eine Entdeckungsrunde durch Strasburg und hole dir ein Feuerschwert ins PRofil
+- **Distance (km):** 2.79
+
+- **Total missions completed:** 
+- **This is my banner no.:** 364
+
+
+!!! note "Description"
+    Mache eine Entdeckungsrunde durch Strasburg und hole dir ein Feuerschwert ins PRofil
 
 
 
-> Datei: `000364_feuerschwert-tour-durch-strasburg_2021.md` • #000364 • Slug: `feuerschwert-tour-durch-strasburg`
+
+> File: `000364_feuerschwert-tour-durch-strasburg_2021.md` • #000364 • Slug: `feuerschwert-tour-durch-strasburg`

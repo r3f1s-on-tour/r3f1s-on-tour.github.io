@@ -23,18 +23,20 @@ title: "Narrenkappe"
 ![Narrenkappe](https://api.bannergress.com/bnrs/pictures/51f7fff99c8e256ec6b33897ecba2011)
 
 ## Details
-- **Distanz (km):** 9,984
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 10.704
-- **Das ist mein Banner Nr.:** 500
-- **Beschreibung:** Take a walk around Koeln-Ehrenfeld. This district is known for its variety of street art.
+- **Distance (km):** 9.98
+
+- **Total missions completed:** 
+- **This is my banner no.:** 500
+
+
+!!! note "Description"
+    Take a walk around Koeln-Ehrenfeld. This district is known for its variety of street art.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/narrenkappe-f124" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/narrenkappe-f124){ .md-button .md-button--primary }
 
 
-> Datei: `000500_narrenkappe_2022.md` • #000500 • Slug: `narrenkappe`
+
+> File: `000500_narrenkappe_2022.md` • #000500 • Slug: `narrenkappe`

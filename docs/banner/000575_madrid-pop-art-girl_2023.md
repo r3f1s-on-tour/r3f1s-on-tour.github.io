@@ -23,18 +23,20 @@ title: "MADRID POP ART GIRL"
 ![MADRID POP ART GIRL](https://api.bannergress.com/bnrs/pictures/e02f9baada257bc24bc1e6614c1fb79f)
 
 ## Details
-- **Distanz (km):** 8,268
-- **Missionen im Banner:** 48
-- **Insgesamt abgeschlossene Missionen:** 12.750
-- **Das ist mein Banner Nr.:** 575
-- **Beschreibung:** Descubre los lugares más emblematicos y con encato de Madrid. Desde Sol a la Plaza de la Villa, pasando por la Plaza de Oriente.
+- **Distance (km):** 8.27
+
+- **Total missions completed:** 
+- **This is my banner no.:** 575
+
+
+!!! note "Description"
+    Descubre los lugares más emblematicos y con encato de Madrid. Desde Sol a la Plaza de la Villa, pasando por la Plaza de Oriente.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/madrid-pop-art-girl-fa2f" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/madrid-pop-art-girl-fa2f){ .md-button .md-button--primary }
 
 
-> Datei: `000575_madrid-pop-art-girl_2023.md` • #000575 • Slug: `madrid-pop-art-girl`
+
+> File: `000575_madrid-pop-art-girl_2023.md` • #000575 • Slug: `madrid-pop-art-girl`

@@ -23,20 +23,22 @@ title: "#MP Happy Halloween in Oranienburg"
 
 
 ## Details
-- **Distanz (km):** 3,64
-- **Missionen im Banner:** 12
-- **Insgesamt abgeschlossene Missionen:** 7482
-- **Das ist mein Banner Nr.:** 325
-- **Beschreibung:** Mache eine kleine Entdeckungstour durch Oranienburg. Start ist am Bahnhof und führt die zum Schloss wieder zurück zum Bahnhof
+- **Distance (km):** 3.64
+
+- **Total missions completed:** 
+- **This is my banner no.:** 325
+
+
+!!! note "Description"
+    Mache eine kleine Entdeckungstour durch Oranienburg. Start ist am Bahnhof und führt die zum Schloss wieder zurück zum Bahnhof
 
 Banner geht am 01.11.2021 offline
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/mp-happy-halloween-in-oranienburg-b2cc" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/mp-happy-halloween-in-oranienburg-b2cc){ .md-button .md-button--primary }
 
 
-> Datei: `000325_mp-happy-halloween-in-oranienburg_2021.md` • #000325 • Slug: `mp-happy-halloween-in-oranienburg`
+
+> File: `000325_mp-happy-halloween-in-oranienburg_2021.md` • #000325 • Slug: `mp-happy-halloween-in-oranienburg`

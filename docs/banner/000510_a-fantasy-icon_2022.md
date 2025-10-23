@@ -23,21 +23,23 @@ title: "A fantasy Icon"
 ![A fantasy Icon](https://api.bannergress.com/bnrs/pictures/66a9ba980385fbfd4bfb51078f4d280e)
 
 ## Details
-- **Distanz (km):** 3,869
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 10.878
-- **Das ist mein Banner Nr.:** 510
-- **Beschreibung:** At last, Sir Terry we must walk together
+- **Distance (km):** 3.87
+
+- **Total missions completed:** 
+- **This is my banner no.:** 510
+
+
+!!! note "Description"
+    At last, Sir Terry we must walk together
 A tribute mission through Wuppertal
 
 With pretty hard questions. If you need help contact @ElliOpp via telegram.
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/a-fantasy-icon-7e9d" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/a-fantasy-icon-7e9d){ .md-button .md-button--primary }
 
 
-> Datei: `000510_a-fantasy-icon_2022.md` • #000510 • Slug: `a-fantasy-icon`
+
+> File: `000510_a-fantasy-icon_2022.md` • #000510 • Slug: `a-fantasy-icon`

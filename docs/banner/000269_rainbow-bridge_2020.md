@@ -23,18 +23,20 @@ title: "Rainbow Bridge"
 
 
 ## Details
-- **Distanz (km):** 2,53
-- **Missionen im Banner:** 12
-- **Insgesamt abgeschlossene Missionen:** 6354
-- **Das ist mein Banner Nr.:** 269
-- **Beschreibung:** Make your rounds in the park around the Märkisches Museum and receive a colourful picture for your Scanner.
+- **Distance (km):** 2.53
+
+- **Total missions completed:** 
+- **This is my banner no.:** 269
+
+
+!!! note "Description"
+    Make your rounds in the park around the Märkisches Museum and receive a colourful picture for your Scanner.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/rainbow-bridge-f3e7" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/rainbow-bridge-f3e7){ .md-button .md-button--primary }
 
 
-> Datei: `000269_rainbow-bridge_2020.md` • #000269 • Slug: `rainbow-bridge`
+
+> File: `000269_rainbow-bridge_2020.md` • #000269 • Slug: `rainbow-bridge`

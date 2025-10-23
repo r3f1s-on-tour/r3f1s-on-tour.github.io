@@ -23,20 +23,22 @@ title: "Schleissheim Postcard"
 ![Schleissheim Postcard](https://api.bannergress.com/bnrs/pictures/f101a454c5de5bc34c2ec4aff03bfe73)
 
 ## Details
-- **Distanz (km):** 9,63
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 954
-- **Das ist mein Banner Nr.:** 43
-- **Beschreibung:** Schleissheim Postcard Mission Banner.
+- **Distance (km):** 9.63
+
+- **Total missions completed:** 
+- **This is my banner no.:** 43
+
+
+!!! note "Description"
+    Schleissheim Postcard Mission Banner.
 The Missions will lead you through most of Oberschleissheim.
 Possible on foot. Bike recommended.
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/schleissheim-postcard-953e" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/schleissheim-postcard-953e){ .md-button .md-button--primary }
 
 
-> Datei: `000043_schleissheim-postcard_2016.md` • #000043 • Slug: `schleissheim-postcard`
+
+> File: `000043_schleissheim-postcard_2016.md` • #000043 • Slug: `schleissheim-postcard`

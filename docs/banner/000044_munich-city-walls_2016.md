@@ -23,18 +23,20 @@ title: "Munich city walls"
 ![Munich city walls](https://api.bannergress.com/bnrs/pictures/32a35f14acc45a1c3470909a31431e93)
 
 ## Details
-- **Distanz (km):** 13,80
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 978
-- **Das ist mein Banner Nr.:** 44
-- **Beschreibung:** In former times Munich had two city walls. Later the town was transformed into a fortress. This mission series explores the remnants and traces of that time. Please read the portal texts.
+- **Distance (km):** 13.80
+
+- **Total missions completed:** 
+- **This is my banner no.:** 44
+
+
+!!! note "Description"
+    In former times Munich had two city walls. Later the town was transformed into a fortress. This mission series explores the remnants and traces of that time. Please read the portal texts.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/munich-city-walls-0113" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/munich-city-walls-0113){ .md-button .md-button--primary }
 
 
-> Datei: `000044_munich-city-walls_2016.md` • #000044 • Slug: `munich-city-walls`
+
+> File: `000044_munich-city-walls_2016.md` • #000044 • Slug: `munich-city-walls`

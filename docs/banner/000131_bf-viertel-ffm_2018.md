@@ -23,19 +23,21 @@ title: "Bf-Viertel FFM"
 
 
 ## Details
-- **Distanz (km):** 4,45
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 3180
-- **Das ist mein Banner Nr.:** 131
-- **Beschreibung:** Discover the fascinating facets of the cosmopolitan microcosm at Frankfurts central  station in six chapters. 
+- **Distance (km):** 4.45
+
+- **Total missions completed:** 
+- **This is my banner no.:** 131
+
+
+!!! note "Description"
+    Discover the fascinating facets of the cosmopolitan microcosm at Frankfurts central  station in six chapters. 
 Let's go and... discover a peacefull park.
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/bahnhofsviertel-ffm-4599" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/bahnhofsviertel-ffm-4599){ .md-button .md-button--primary }
 
 
-> Datei: `000131_bf-viertel-ffm_2018.md` • #000131 • Slug: `bf-viertel-ffm`
+
+> File: `000131_bf-viertel-ffm_2018.md` • #000131 • Slug: `bf-viertel-ffm`

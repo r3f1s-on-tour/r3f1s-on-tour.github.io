@@ -23,18 +23,20 @@ title: "Stadtwappen Ingolstadt"
 
 
 ## Details
-- **Distanz (km):** 20,49
-- **Missionen im Banner:** 42
-- **Insgesamt abgeschlossene Missionen:** 2562
-- **Das ist mein Banner Nr.:** 99
-- **Beschreibung:** Das 1200 Jahre alte Ingolstadt war jahrhundertelang Universitätsstadt, Zentrum politischer Macht und später Festungsstadt. Diese Mosaik führt durch eine hübsche, aber unterschätzte  Großstadt.
+- **Distance (km):** 20.49
+
+- **Total missions completed:** 
+- **This is my banner no.:** 99
+
+
+!!! note "Description"
+    Das 1200 Jahre alte Ingolstadt war jahrhundertelang Universitätsstadt, Zentrum politischer Macht und später Festungsstadt. Diese Mosaik führt durch eine hübsche, aber unterschätzte  Großstadt.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/stadtwappen-ingolstadt-73f7" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/stadtwappen-ingolstadt-73f7){ .md-button .md-button--primary }
 
 
-> Datei: `000099_stadtwappen-ingolstadt_2017.md` • #000099 • Slug: `stadtwappen-ingolstadt`
+
+> File: `000099_stadtwappen-ingolstadt_2017.md` • #000099 • Slug: `stadtwappen-ingolstadt`

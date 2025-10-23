@@ -23,18 +23,20 @@ title: "Spider Sunday in Oranienburg"
 
 
 ## Details
-- **Distanz (km):** 2,00
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 7464
-- **Das ist mein Banner Nr.:** 323
-- **Beschreibung:** Mache eine kleine Tour durch Oranienburg und starte am Bahnhof
+- **Distance (km):** 2.00
+
+- **Total missions completed:** 
+- **This is my banner no.:** 323
+
+
+!!! note "Description"
+    Mache eine kleine Tour durch Oranienburg und starte am Bahnhof
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/spider-sunday-in-oranienburg-67de" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/spider-sunday-in-oranienburg-67de){ .md-button .md-button--primary }
 
 
-> Datei: `000323_spider-sunday-in-oranienburg_2021.md` • #000323 • Slug: `spider-sunday-in-oranienburg`
+
+> File: `000323_spider-sunday-in-oranienburg_2021.md` • #000323 • Slug: `spider-sunday-in-oranienburg`

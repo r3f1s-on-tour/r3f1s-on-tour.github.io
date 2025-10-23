@@ -23,12 +23,16 @@ title: "Green Fireworks in Oranienburg"
 
 
 ## Details
-- **Distanz (km):** 5,7
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 11.100
-- **Das ist mein Banner Nr.:** 525
-- **Beschreibung:** Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
+- **Distance (km):** 5.70
+
+- **Total missions completed:** 
+- **This is my banner no.:** 525
+
+
+!!! note "Description"
+    Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> Datei: `000525_green-fireworks-in-oranienburg_2023.md` • #000525 • Slug: `green-fireworks-in-oranienburg`
+
+> File: `000525_green-fireworks-in-oranienburg_2023.md` • #000525 • Slug: `green-fireworks-in-oranienburg`

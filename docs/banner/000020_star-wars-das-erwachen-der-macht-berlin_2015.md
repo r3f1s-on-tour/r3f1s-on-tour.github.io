@@ -24,11 +24,12 @@ title: "STAR WARS - Das Erwachen der Macht (Berlin)"
 
 ## Details
 
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 354
-- **Das ist mein Banner Nr.:** 20
+
+- **Total missions completed:** 
+- **This is my banner no.:** 20
 
 
 
 
-> Datei: `000020_star-wars-das-erwachen-der-macht-berlin_2015.md` • #000020 • Slug: `star-wars-das-erwachen-der-macht-berlin`
+
+> File: `000020_star-wars-das-erwachen-der-macht-berlin_2015.md` • #000020 • Slug: `star-wars-das-erwachen-der-macht-berlin`

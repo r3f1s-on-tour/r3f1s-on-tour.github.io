@@ -23,18 +23,20 @@ title: "Little Dandelion"
 ![Little Dandelion](https://api.bannergress.com/bnrs/pictures/d863aafb6c4e075c8e3cddf3389d1e6f)
 
 ## Details
-- **Distanz (km):** 5,085
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 10.308
-- **Das ist mein Banner Nr.:** 469
-- **Beschreibung:** Start at Rotes Rathaus for a short tour through the center of Berlin & discover some of the popular places & squares on the way to Alexanderplatz and pass Hackescher Markt and Volksbühne on your way.
+- **Distance (km):** 5.08
+
+- **Total missions completed:** 
+- **This is my banner no.:** 469
+
+
+!!! note "Description"
+    Start at Rotes Rathaus for a short tour through the center of Berlin & discover some of the popular places & squares on the way to Alexanderplatz and pass Hackescher Markt and Volksbühne on your way.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/little-dandelion-5070" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/little-dandelion-5070){ .md-button .md-button--primary }
 
 
-> Datei: `000469_little-dandelion_2022.md` • #000469 • Slug: `little-dandelion`
+
+> File: `000469_little-dandelion_2022.md` • #000469 • Slug: `little-dandelion`

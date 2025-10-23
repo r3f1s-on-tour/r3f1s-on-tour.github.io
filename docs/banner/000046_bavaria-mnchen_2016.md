@@ -23,18 +23,20 @@ title: "Bavaria München"
 ![Bavaria München](https://api.bannergress.com/bnrs/pictures/f62fd3943e8a8f40cd07ff30a8d09d1a)
 
 ## Details
-- **Distanz (km):** 9,69
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 1050
-- **Das ist mein Banner Nr.:** 46
-- **Beschreibung:** Die kolossale und monumental anmutende Bronzestatue der Bavaria wurde im Auftrag von König Ludwig I. (1786–1868) in den Jahren 1843 bis 1850 errichtet. Sie bildet eine Einheit mit der Ruhmeshalle.
+- **Distance (km):** 9.69
+
+- **Total missions completed:** 
+- **This is my banner no.:** 46
+
+
+!!! note "Description"
+    Die kolossale und monumental anmutende Bronzestatue der Bavaria wurde im Auftrag von König Ludwig I. (1786–1868) in den Jahren 1843 bis 1850 errichtet. Sie bildet eine Einheit mit der Ruhmeshalle.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/bavaria-m%C3%BCnchen-78e7" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/bavaria-m%C3%BCnchen-78e7){ .md-button .md-button--primary }
 
 
-> Datei: `000046_bavaria-mnchen_2016.md` • #000046 • Slug: `bavaria-mnchen`
+
+> File: `000046_bavaria-mnchen_2016.md` • #000046 • Slug: `bavaria-mnchen`

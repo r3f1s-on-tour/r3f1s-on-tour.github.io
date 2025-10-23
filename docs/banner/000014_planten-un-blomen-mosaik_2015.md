@@ -23,11 +23,14 @@ title: "Planten un Blomen Mosaik"
 ![Planten un Blomen Mosaik](https://api.bannergress.com/bnrs/pictures/a844bc123043e26a652f2fef6fa42d3f)
 
 ## Details
-- **Distanz (km):** 7,38
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 276
-- **Das ist mein Banner Nr.:** 14
-- **Beschreibung:** All Missions are in sequence and hack only!
+- **Distance (km):** 7.38
+
+- **Total missions completed:** 
+- **This is my banner no.:** 14
+
+
+!!! note "Description"
+    All Missions are in sequence and hack only!
 Mission- 1 of 18
 Location- Hamburg Germany
 Opening Hours
@@ -37,11 +40,10 @@ May–Sep | 7-23 Uhr
 Oct–Dec | 7–20 Uhr
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/planten-un-blomen-mosaik-ee10" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/planten-un-blomen-mosaik-ee10){ .md-button .md-button--primary }
 
 
-> Datei: `000014_planten-un-blomen-mosaik_2015.md` • #000014 • Slug: `planten-un-blomen-mosaik`
+
+> File: `000014_planten-un-blomen-mosaik_2015.md` • #000014 • Slug: `planten-un-blomen-mosaik`

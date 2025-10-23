@@ -23,18 +23,20 @@ title: "Olympiaturm München"
 
 
 ## Details
-- **Distanz (km):** 21,90
-- **Missionen im Banner:** 60
-- **Insgesamt abgeschlossene Missionen:** 750
-- **Das ist mein Banner Nr.:** 36
-- **Beschreibung:** Diese Missionsreihe führt dich vom Hauptbahnhof quer durch München zum Olympiaturm in 60 kleinen Missionen.
+- **Distance (km):** 21.90
+
+- **Total missions completed:** 
+- **This is my banner no.:** 36
+
+
+!!! note "Description"
+    Diese Missionsreihe führt dich vom Hauptbahnhof quer durch München zum Olympiaturm in 60 kleinen Missionen.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/olympiaturm-m%C3%BCnchen-24a1" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/olympiaturm-m%C3%BCnchen-24a1){ .md-button .md-button--primary }
 
 
-> Datei: `000036_olympiaturm-mnchen_2016.md` • #000036 • Slug: `olympiaturm-mnchen`
+
+> File: `000036_olympiaturm-mnchen_2016.md` • #000036 • Slug: `olympiaturm-mnchen`

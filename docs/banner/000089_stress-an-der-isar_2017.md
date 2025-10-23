@@ -23,18 +23,20 @@ title: "Stress an der Isar"
 
 
 ## Details
-- **Distanz (km):** 15,65
-- **Missionen im Banner:** 36
-- **Insgesamt abgeschlossene Missionen:** 2298
-- **Das ist mein Banner Nr.:** 89
-- **Beschreibung:** "Minga, du machst mi fertig" möchte man laut ausschreien angesichts von all dem Stress, den man in unserem Millionendorf täglich erlebt. Dieses Missionsbanner soll als Mahnung dienen!
+- **Distance (km):** 15.65
+
+- **Total missions completed:** 
+- **This is my banner no.:** 89
+
+
+!!! note "Description"
+    "Minga, du machst mi fertig" möchte man laut ausschreien angesichts von all dem Stress, den man in unserem Millionendorf täglich erlebt. Dieses Missionsbanner soll als Mahnung dienen!
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/stress-an-der-isar-5cc7" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/stress-an-der-isar-5cc7){ .md-button .md-button--primary }
 
 
-> Datei: `000089_stress-an-der-isar_2017.md` • #000089 • Slug: `stress-an-der-isar`
+
+> File: `000089_stress-an-der-isar_2017.md` • #000089 • Slug: `stress-an-der-isar`

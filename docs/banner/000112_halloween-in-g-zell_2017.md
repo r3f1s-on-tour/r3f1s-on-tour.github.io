@@ -23,18 +23,20 @@ title: "Halloween in G zell"
 
 
 ## Details
-- **Distanz (km):** 3,38
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 2772
-- **Das ist mein Banner Nr.:** 112
-- **Beschreibung:** Ursprünglich aus Irland stammend fand der Brauch, in der Nacht vor Allerheiligen beleuchtete Kürbisse (als "Jack O’Lantern" bekannt) aufzustellen, in den 90ern seinen Weg über die USA auch zu uns.
+- **Distance (km):** 3.38
+
+- **Total missions completed:** 
+- **This is my banner no.:** 112
+
+
+!!! note "Description"
+    Ursprünglich aus Irland stammend fand der Brauch, in der Nacht vor Allerheiligen beleuchtete Kürbisse (als "Jack O’Lantern" bekannt) aufzustellen, in den 90ern seinen Weg über die USA auch zu uns.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/halloween-in-g-zell-1638" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/halloween-in-g-zell-1638){ .md-button .md-button--primary }
 
 
-> Datei: `000112_halloween-in-g-zell_2017.md` • #000112 • Slug: `halloween-in-g-zell`
+
+> File: `000112_halloween-in-g-zell_2017.md` • #000112 • Slug: `halloween-in-g-zell`

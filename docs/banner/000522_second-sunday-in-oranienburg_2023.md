@@ -23,12 +23,16 @@ title: "Second Sunday in Oranienburg"
 
 
 ## Details
-- **Distanz (km):** 1,29
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 11.010
-- **Das ist mein Banner Nr.:** 522
-- **Beschreibung:** Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
+- **Distance (km):** 1.29
+
+- **Total missions completed:** 
+- **This is my banner no.:** 522
+
+
+!!! note "Description"
+    Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> Datei: `000522_second-sunday-in-oranienburg_2023.md` • #000522 • Slug: `second-sunday-in-oranienburg`
+
+> File: `000522_second-sunday-in-oranienburg_2023.md` • #000522 • Slug: `second-sunday-in-oranienburg`

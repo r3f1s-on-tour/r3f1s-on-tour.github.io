@@ -23,12 +23,16 @@ title: "Skulls in Oranienburg"
 
 
 ## Details
-- **Distanz (km):** 1,64
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 7944
-- **Das ist mein Banner Nr.:** 356
-- **Beschreibung:** Mache eine kleine Tour durch Oranienburg und hole dir die Schädel ins Profil
+- **Distance (km):** 1.64
+
+- **Total missions completed:** 
+- **This is my banner no.:** 356
+
+
+!!! note "Description"
+    Mache eine kleine Tour durch Oranienburg und hole dir die Schädel ins Profil
 
 
 
-> Datei: `000356_skulls-in-oranienburg_2021.md` • #000356 • Slug: `skulls-in-oranienburg`
+
+> File: `000356_skulls-in-oranienburg_2021.md` • #000356 • Slug: `skulls-in-oranienburg`

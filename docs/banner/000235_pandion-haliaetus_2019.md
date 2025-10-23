@@ -23,18 +23,20 @@ title: "Pandion haliaetus"
 
 
 ## Details
-- **Distanz (km):** 8,90
-- **Missionen im Banner:** 12
-- **Insgesamt abgeschlossene Missionen:** 5568
-- **Das ist mein Banner Nr.:** 235
-- **Beschreibung:** Die Missionsreihe führt durch Röbel. Anfang und Ende befinden sich am Müritzufer. Die ersten Portale werden zum Schluss der Reihe nochmals besucht.
+- **Distance (km):** 8.90
+
+- **Total missions completed:** 
+- **This is my banner no.:** 235
+
+
+!!! note "Description"
+    Die Missionsreihe führt durch Röbel. Anfang und Ende befinden sich am Müritzufer. Die ersten Portale werden zum Schluss der Reihe nochmals besucht.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/pandion-haliaetus-98d7" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/pandion-haliaetus-98d7){ .md-button .md-button--primary }
 
 
-> Datei: `000235_pandion-haliaetus_2019.md` • #000235 • Slug: `pandion-haliaetus`
+
+> File: `000235_pandion-haliaetus_2019.md` • #000235 • Slug: `pandion-haliaetus`

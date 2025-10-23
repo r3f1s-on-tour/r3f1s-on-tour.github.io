@@ -23,18 +23,20 @@ title: "The evolution of frog"
 
 
 ## Details
-- **Distanz (km):** 2,37
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 8.910
-- **Das ist mein Banner Nr.:** 428
-- **Beschreibung:** Macht einen kleinen Spaziergang durch die Vorstadt und schaut Euch dabei die Entwicklung des Frosches genau an. Wenn ihr wollt, könnt Ihr vor dem Start und am Ende ein schönes Eis essen.
+- **Distance (km):** 2.37
+
+- **Total missions completed:** 
+- **This is my banner no.:** 428
+
+
+!!! note "Description"
+    Macht einen kleinen Spaziergang durch die Vorstadt und schaut Euch dabei die Entwicklung des Frosches genau an. Wenn ihr wollt, könnt Ihr vor dem Start und am Ende ein schönes Eis essen.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/the-evolution-of-frog-1d8f" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/the-evolution-of-frog-1d8f){ .md-button .md-button--primary }
 
 
-> Datei: `000428_the-evolution-of-frog_2022.md` • #000428 • Slug: `the-evolution-of-frog`
+
+> File: `000428_the-evolution-of-frog_2022.md` • #000428 • Slug: `the-evolution-of-frog`

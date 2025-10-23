@@ -23,18 +23,20 @@ title: "Cherry Blossom"
 ![Cherry Blossom](https://api.bannergress.com/bnrs/pictures/e9952cd06db29653926eedd0a0c39360)
 
 ## Details
-- **Distanz (km):** 5,954
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 10.944
-- **Das ist mein Banner Nr.:** 514
-- **Beschreibung:** Welcome to Bonn! Have a great time and enjoy the Cherry Blossom.
+- **Distance (km):** 5.95
+
+- **Total missions completed:** 
+- **This is my banner no.:** 514
+
+
+!!! note "Description"
+    Welcome to Bonn! Have a great time and enjoy the Cherry Blossom.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/cherry-blossom-7cc3" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/cherry-blossom-7cc3){ .md-button .md-button--primary }
 
 
-> Datei: `000514_cherry-blossom_2022.md` • #000514 • Slug: `cherry-blossom`
+
+> File: `000514_cherry-blossom_2022.md` • #000514 • Slug: `cherry-blossom`

@@ -23,12 +23,16 @@ title: "Valentintoast 1"
 
 
 ## Details
-- **Distanz (km):** 1,60
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 8.502
-- **Das ist mein Banner Nr.:** 395
-- **Beschreibung:** Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
+- **Distance (km):** 1.60
+
+- **Total missions completed:** 
+- **This is my banner no.:** 395
+
+
+!!! note "Description"
+    Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.
 
 
 
-> Datei: `000395_valentintoast-1_2022.md` • #000395 • Slug: `valentintoast-1`
+
+> File: `000395_valentintoast-1_2022.md` • #000395 • Slug: `valentintoast-1`

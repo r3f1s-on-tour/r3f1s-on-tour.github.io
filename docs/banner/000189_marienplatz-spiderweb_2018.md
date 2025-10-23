@@ -23,18 +23,20 @@ title: "Marienplatz SPIDERWEB"
 
 
 ## Details
-- **Distanz (km):** 2,55
-- **Missionen im Banner:** 12
-- **Insgesamt abgeschlossene Missionen:** 4470
-- **Das ist mein Banner Nr.:** 189
-- **Beschreibung:** Such link. Very hack. Wow.
+- **Distance (km):** 2.55
+
+- **Total missions completed:** 
+- **This is my banner no.:** 189
+
+
+!!! note "Description"
+    Such link. Very hack. Wow.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/marienplatz-spiderweb-6516" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/marienplatz-spiderweb-6516){ .md-button .md-button--primary }
 
 
-> Datei: `000189_marienplatz-spiderweb_2018.md` • #000189 • Slug: `marienplatz-spiderweb`
+
+> File: `000189_marienplatz-spiderweb_2018.md` • #000189 • Slug: `marienplatz-spiderweb`

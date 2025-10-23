@@ -23,18 +23,20 @@ title: "Halloween in Valencia"
 ![Halloween in Valencia](https://api.bannergress.com/bnrs/pictures/dde27ab1355659599191184a174d41f8)
 
 ## Details
-- **Distanz (km):** 1,623
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 13.170
-- **Das ist mein Banner Nr.:** 597
-- **Beschreibung:** Discover Valencia at Halloween and get this spooky banner!
+- **Distance (km):** 1.62
+
+- **Total missions completed:** 
+- **This is my banner no.:** 597
+
+
+!!! note "Description"
+    Discover Valencia at Halloween and get this spooky banner!
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/halloween-in-valencia-f0f4" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/halloween-in-valencia-f0f4){ .md-button .md-button--primary }
 
 
-> Datei: `000597_halloween-in-valencia_2024.md` • #000597 • Slug: `halloween-in-valencia`
+
+> File: `000597_halloween-in-valencia_2024.md` • #000597 • Slug: `halloween-in-valencia`

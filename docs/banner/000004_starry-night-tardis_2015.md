@@ -24,17 +24,16 @@ title: "Starry Night TARDIS"
 
 ## Details
 
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 132
-- **Das ist mein Banner Nr.:** 4
+
+- **Total missions completed:** 
+- **This is my banner no.:** 4
+
 
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/starry-night-tardis-1458" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/starry-night-tardis-1458){ .md-button .md-button--primary }
 
 
-> Datei: `000004_starry-night-tardis_2015.md` • #000004 • Slug: `starry-night-tardis`
+
+> File: `000004_starry-night-tardis_2015.md` • #000004 • Slug: `starry-night-tardis`

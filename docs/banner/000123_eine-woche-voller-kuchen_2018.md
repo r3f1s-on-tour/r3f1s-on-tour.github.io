@@ -24,11 +24,12 @@ title: "Eine Woche voller Kuchen"
 
 ## Details
 
-- **Missionen im Banner:** 36
-- **Insgesamt abgeschlossene Missionen:** 3024
-- **Das ist mein Banner Nr.:** 123
+
+- **Total missions completed:** 
+- **This is my banner no.:** 123
 
 
 
 
-> Datei: `000123_eine-woche-voller-kuchen_2018.md` • #000123 • Slug: `eine-woche-voller-kuchen`
+
+> File: `000123_eine-woche-voller-kuchen_2018.md` • #000123 • Slug: `eine-woche-voller-kuchen`

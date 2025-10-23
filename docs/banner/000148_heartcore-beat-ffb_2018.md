@@ -23,18 +23,17 @@ title: "HeartCore Beat FFB"
 
 
 ## Details
-- **Distanz (km):** 4,09
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 3582
-- **Das ist mein Banner Nr.:** 148
+- **Distance (km):** 4.09
+
+- **Total missions completed:** 
+- **This is my banner no.:** 148
+
 
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/heartcore-beat-ffb-ea0e" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/heartcore-beat-ffb-ea0e){ .md-button .md-button--primary }
 
 
-> Datei: `000148_heartcore-beat-ffb_2018.md` • #000148 • Slug: `heartcore-beat-ffb`
+
+> File: `000148_heartcore-beat-ffb_2018.md` • #000148 • Slug: `heartcore-beat-ffb`

@@ -24,11 +24,12 @@ title: "Augsburg im März"
 
 ## Details
 
-- **Missionen im Banner:** 30
-- **Insgesamt abgeschlossene Missionen:** 3396
-- **Das ist mein Banner Nr.:** 142
+
+- **Total missions completed:** 
+- **This is my banner no.:** 142
 
 
 
 
-> Datei: `000142_augsburg-im-mrz_2018.md` • #000142 • Slug: `augsburg-im-mrz`
+
+> File: `000142_augsburg-im-mrz_2018.md` • #000142 • Slug: `augsburg-im-mrz`

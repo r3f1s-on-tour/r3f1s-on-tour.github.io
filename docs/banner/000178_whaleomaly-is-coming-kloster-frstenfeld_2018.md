@@ -23,19 +23,21 @@ title: "Whaleomaly is Coming [Kloster Fürstenfeld]"
 
 
 ## Details
-- **Distanz (km):** 2,49
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 4254
-- **Das ist mein Banner Nr.:** 178
-- **Beschreibung:** Entdecke die Wale im Kloster Fürstenfeld! Bring sie mit zur Walomalie nach Linz, sie dort zu verbünden!
+- **Distance (km):** 2.49
+
+- **Total missions completed:** 
+- **This is my banner no.:** 178
+
+
+!!! note "Description"
+    Entdecke die Wale im Kloster Fürstenfeld! Bring sie mit zur Walomalie nach Linz, sie dort zu verbünden!
 Explore the Whales of Kloster Fürstenfeld! Take them with you to unite at the Whaleomaly Linz!
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/whaleomaly-is-coming-kloster-f%C3%BCrstenfeld-4826" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/whaleomaly-is-coming-kloster-f%C3%BCrstenfeld-4826){ .md-button .md-button--primary }
 
 
-> Datei: `000178_whaleomaly-is-coming-kloster-frstenfeld_2018.md` • #000178 • Slug: `whaleomaly-is-coming-kloster-frstenfeld`
+
+> File: `000178_whaleomaly-is-coming-kloster-frstenfeld_2018.md` • #000178 • Slug: `whaleomaly-is-coming-kloster-frstenfeld`

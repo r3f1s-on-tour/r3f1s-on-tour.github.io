@@ -23,18 +23,20 @@ title: "Gryf Szczeciński"
 ![Gryf Szczeciński](https://api.bannergress.com/bnrs/pictures/c06a4e6331dcb9dadd919ff242cc385f)
 
 ## Details
-- **Distanz (km):** 12,44
-- **Missionen im Banner:** 42
-- **Insgesamt abgeschlossene Missionen:** 420
-- **Das ist mein Banner Nr.:** 23
-- **Beschreibung:** Jeden z symboli miejskich Szczecina. Symbol książąt z dynastii Gryfitów.
+- **Distance (km):** 12.44
+
+- **Total missions completed:** 
+- **This is my banner no.:** 23
+
+
+!!! note "Description"
+    Jeden z symboli miejskich Szczecina. Symbol książąt z dynastii Gryfitów.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/gryf-szczeci%C5%84ski-6cc3" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/gryf-szczeci%C5%84ski-6cc3){ .md-button .md-button--primary }
 
 
-> Datei: `000023_gryf-szczeciski_2016.md` • #000023 • Slug: `gryf-szczeciski`
+
+> File: `000023_gryf-szczeciski_2016.md` • #000023 • Slug: `gryf-szczeciski`

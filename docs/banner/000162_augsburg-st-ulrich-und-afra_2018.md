@@ -24,17 +24,16 @@ title: "Augsburg St Ulrich und Afra"
 
 ## Details
 
-- **Missionen im Banner:** 60
-- **Insgesamt abgeschlossene Missionen:** 3924
-- **Das ist mein Banner Nr.:** 162
+
+- **Total missions completed:** 
+- **This is my banner no.:** 162
+
 
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/augsburg-st-ulrich-und-afra-7c19" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/augsburg-st-ulrich-und-afra-7c19){ .md-button .md-button--primary }
 
 
-> Datei: `000162_augsburg-st-ulrich-und-afra_2018.md` • #000162 • Slug: `augsburg-st-ulrich-und-afra`
+
+> File: `000162_augsburg-st-ulrich-und-afra_2018.md` • #000162 • Slug: `augsburg-st-ulrich-und-afra`

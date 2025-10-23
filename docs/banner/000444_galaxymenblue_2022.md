@@ -23,12 +23,16 @@ title: "GalaxyMenBlue"
 
 
 ## Details
-- **Distanz (km):** 11,09
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 9.216
-- **Das ist mein Banner Nr.:** 444
-- **Beschreibung:** Der Urknall fand am Bhf Lichtenberg statt.Nun breitet sich eine neue Galaxy Richtung Friedrichsfelde aus; dehnt sich über den Weitling- und Nöldnerkiez bis sie implodiert und dort endet wo sie begann.
+- **Distance (km):** 11.09
+
+- **Total missions completed:** 
+- **This is my banner no.:** 444
+
+
+!!! note "Description"
+    Der Urknall fand am Bhf Lichtenberg statt.Nun breitet sich eine neue Galaxy Richtung Friedrichsfelde aus; dehnt sich über den Weitling- und Nöldnerkiez bis sie implodiert und dort endet wo sie begann.
 
 
 
-> Datei: `000444_galaxymenblue_2022.md` • #000444 • Slug: `galaxymenblue`
+
+> File: `000444_galaxymenblue_2022.md` • #000444 • Slug: `galaxymenblue`

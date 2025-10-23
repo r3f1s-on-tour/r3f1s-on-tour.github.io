@@ -23,18 +23,20 @@ title: "SZCZECIN for TOURISTS"
 
 
 ## Details
-- **Distanz (km):** 1,63
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 2376
-- **Das ist mein Banner Nr.:** 92
-- **Beschreibung:** Welcome to Szczecin! Let's take a walk together and complete the banner! Hack-only #tourist-friendly missions!
+- **Distance (km):** 1.63
+
+- **Total missions completed:** 
+- **This is my banner no.:** 92
+
+
+!!! note "Description"
+    Welcome to Szczecin! Let's take a walk together and complete the banner! Hack-only #tourist-friendly missions!
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/szczecin-for-tourists-0201" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/szczecin-for-tourists-0201){ .md-button .md-button--primary }
 
 
-> Datei: `000092_szczecin-for-tourists_2017.md` • #000092 • Slug: `szczecin-for-tourists`
+
+> File: `000092_szczecin-for-tourists_2017.md` • #000092 • Slug: `szczecin-for-tourists`

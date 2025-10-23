@@ -23,18 +23,20 @@ title: "Skyline Munich"
 
 
 ## Details
-- **Distanz (km):** 1,45
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 6690
-- **Das ist mein Banner Nr.:** 286
-- **Beschreibung:** Part 1 of 6
+- **Distance (km):** 1.45
+
+- **Total missions completed:** 
+- **This is my banner no.:** 286
+
+
+!!! note "Description"
+    Part 1 of 6
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/skyline-munich-2886" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/skyline-munich-2886){ .md-button .md-button--primary }
 
 
-> Datei: `000286_skyline-munich_2020.md` • #000286 • Slug: `skyline-munich`
+
+> File: `000286_skyline-munich_2020.md` • #000286 • Slug: `skyline-munich`

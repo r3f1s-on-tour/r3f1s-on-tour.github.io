@@ -23,12 +23,16 @@ title: "Toast Anatomy"
 
 
 ## Details
-- **Distanz (km):** 2,76
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 8.688
-- **Das ist mein Banner Nr.:** 409
-- **Beschreibung:** Starte am Markt eine Entdeckungsreise durch die Stadt Strasburg Uckermark und entdecke dabei historische Orte der Stadt
+- **Distance (km):** 2.76
+
+- **Total missions completed:** 
+- **This is my banner no.:** 409
+
+
+!!! note "Description"
+    Starte am Markt eine Entdeckungsreise durch die Stadt Strasburg Uckermark und entdecke dabei historische Orte der Stadt
 
 
 
-> Datei: `000409_toast-anatomy_2022.md` • #000409 • Slug: `toast-anatomy`
+
+> File: `000409_toast-anatomy_2022.md` • #000409 • Slug: `toast-anatomy`

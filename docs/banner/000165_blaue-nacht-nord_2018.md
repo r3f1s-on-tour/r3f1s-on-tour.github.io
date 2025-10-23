@@ -24,11 +24,12 @@ title: "Blaue Nacht Nord"
 
 ## Details
 
-- **Missionen im Banner:** 36
-- **Insgesamt abgeschlossene Missionen:** 4020
-- **Das ist mein Banner Nr.:** 165
+
+- **Total missions completed:** 
+- **This is my banner no.:** 165
 
 
 
 
-> Datei: `000165_blaue-nacht-nord_2018.md` • #000165 • Slug: `blaue-nacht-nord`
+
+> File: `000165_blaue-nacht-nord_2018.md` • #000165 • Slug: `blaue-nacht-nord`

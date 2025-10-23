@@ -23,18 +23,20 @@ title: "NL - Berlin Event"
 
 
 ## Details
-- **Distanz (km):** 1,57
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 6468
-- **Das ist mein Banner Nr.:** 278
-- **Beschreibung:** A short banner around the berlin NL location. Enjoy.
+- **Distance (km):** 1.57
+
+- **Total missions completed:** 
+- **This is my banner no.:** 278
+
+
+!!! note "Description"
+    A short banner around the berlin NL location. Enjoy.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/nl-berlin-event-e295" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/nl-berlin-event-e295){ .md-button .md-button--primary }
 
 
-> Datei: `000278_nl-berlin-event_2020.md` • #000278 • Slug: `nl-berlin-event`
+
+> File: `000278_nl-berlin-event_2020.md` • #000278 • Slug: `nl-berlin-event`

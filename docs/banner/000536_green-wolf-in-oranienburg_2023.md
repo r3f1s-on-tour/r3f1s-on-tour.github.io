@@ -23,18 +23,20 @@ title: "Green Wolf in Oranienburg"
 ![Green Wolf in Oranienburg](https://api.bannergress.com/bnrs/pictures/44daebe0e1b46af8d54b87da655110dd)
 
 ## Details
-- **Distanz (km):** 17,927
-- **Missionen im Banner:** 78
-- **Insgesamt abgeschlossene Missionen:** 11.820
-- **Das ist mein Banner Nr.:** 536
-- **Beschreibung:** Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg. Starte in der Bernauer Straße
+- **Distance (km):** 17.93
+
+- **Total missions completed:** 
+- **This is my banner no.:** 536
+
+
+!!! note "Description"
+    Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg. Starte in der Bernauer Straße
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/green-wolf-in-oranienburg-d822" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/green-wolf-in-oranienburg-d822){ .md-button .md-button--primary }
 
 
-> Datei: `000536_green-wolf-in-oranienburg_2023.md` • #000536 • Slug: `green-wolf-in-oranienburg`
+
+> File: `000536_green-wolf-in-oranienburg_2023.md` • #000536 • Slug: `green-wolf-in-oranienburg`

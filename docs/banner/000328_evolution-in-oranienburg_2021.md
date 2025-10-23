@@ -23,18 +23,20 @@ title: "Evolution in Oranienburg"
 
 
 ## Details
-- **Distanz (km):** 1,74
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 7512
-- **Das ist mein Banner Nr.:** 328
-- **Beschreibung:** Eine kleine Entdeckungsrunde durch Oranienburg. Die Reihe startet am Bahnhof und führt dich zum Schlosspark der Stadt
+- **Distance (km):** 1.74
+
+- **Total missions completed:** 
+- **This is my banner no.:** 328
+
+
+!!! note "Description"
+    Eine kleine Entdeckungsrunde durch Oranienburg. Die Reihe startet am Bahnhof und führt dich zum Schlosspark der Stadt
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/evolution-in-oranienburg-a1bb" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/evolution-in-oranienburg-a1bb){ .md-button .md-button--primary }
 
 
-> Datei: `000328_evolution-in-oranienburg_2021.md` • #000328 • Slug: `evolution-in-oranienburg`
+
+> File: `000328_evolution-in-oranienburg_2021.md` • #000328 • Slug: `evolution-in-oranienburg`

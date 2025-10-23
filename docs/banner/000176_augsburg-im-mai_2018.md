@@ -24,11 +24,12 @@ title: "Augsburg im Mai"
 
 ## Details
 
-- **Missionen im Banner:** 30
-- **Insgesamt abgeschlossene Missionen:** 4218
-- **Das ist mein Banner Nr.:** 176
+
+- **Total missions completed:** 
+- **This is my banner no.:** 176
 
 
 
 
-> Datei: `000176_augsburg-im-mai_2018.md` • #000176 • Slug: `augsburg-im-mai`
+
+> File: `000176_augsburg-im-mai_2018.md` • #000176 • Slug: `augsburg-im-mai`

@@ -23,22 +23,24 @@ title: "Banksy - Stop and Search"
 ![Banksy - Stop and Search](https://api.bannergress.com/bnrs/pictures/9fa8dee798ddf525290fe2b7ab8b2e41)
 
 ## Details
-- **Distanz (km):** 6,987
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 10.968
-- **Das ist mein Banner Nr.:** 515
-- **Beschreibung:** Banksy, an English artist and sprayer, has advocated for peace as early as the 90s. His art has inspired many generations and hopefully will do so in the future. Over the course of these missions, you will be lead through one of the most capitalistic streets in Berlin, the Kurfürstendamm. Start and end is a mural at S Charlottenburg. Enjoy your trip!
+- **Distance (km):** 6.99
+
+- **Total missions completed:** 
+- **This is my banner no.:** 515
+
+
+!!! note "Description"
+    Banksy, an English artist and sprayer, has advocated for peace as early as the 90s. His art has inspired many generations and hopefully will do so in the future. Over the course of these missions, you will be lead through one of the most capitalistic streets in Berlin, the Kurfürstendamm. Start and end is a mural at S Charlottenburg. Enjoy your trip!
 
 --------------------------------------------------------------------------
 
 All credit goes to Banksy. ly <3
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/banksy-stop-and-search-a9d5" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/banksy-stop-and-search-a9d5){ .md-button .md-button--primary }
 
 
-> Datei: `000515_banksy-stop-and-search_2022.md` • #000515 • Slug: `banksy-stop-and-search`
+
+> File: `000515_banksy-stop-and-search_2022.md` • #000515 • Slug: `banksy-stop-and-search`

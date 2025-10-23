@@ -23,18 +23,20 @@ title: "Second Sunday Cat"
 ![Second Sunday Cat](https://api.bannergress.com/bnrs/pictures/0166c6cbf03cc2bb96914b8599396a95)
 
 ## Details
-- **Distanz (km):** 8,511
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 11.988
-- **Das ist mein Banner Nr.:** 541
-- **Beschreibung:** Beginne eine Runde durch Strasburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Strasburg. Starte in der Schulstraße
+- **Distance (km):** 8.51
+
+- **Total missions completed:** 
+- **This is my banner no.:** 541
+
+
+!!! note "Description"
+    Beginne eine Runde durch Strasburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Strasburg. Starte in der Schulstraße
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/second-sunday-cat-226f" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/second-sunday-cat-226f){ .md-button .md-button--primary }
 
 
-> Datei: `000541_second-sunday-cat_2023.md` • #000541 • Slug: `second-sunday-cat`
+
+> File: `000541_second-sunday-cat_2023.md` • #000541 • Slug: `second-sunday-cat`

@@ -23,20 +23,22 @@ title: "Art walk 1 - Until death do us part"
 
 
 ## Details
-- **Distanz (km):** 26,48
-- **Missionen im Banner:** 48
-- **Insgesamt abgeschlossene Missionen:** 9.366
-- **Das ist mein Banner Nr.:** 452
-- **Beschreibung:** Starte am Berliner Hauptbahnhof eine Entdeckungsrunde in den Norden von Berlin. Die Tour führt dich dann von Berlin Mitte durch den Bezirk Reinickendorf und endet am U-Bahnhof Rathaus Reinickendorf.
+- **Distance (km):** 26.48
+
+- **Total missions completed:** 
+- **This is my banner no.:** 452
+
+
+!!! note "Description"
+    Starte am Berliner Hauptbahnhof eine Entdeckungsrunde in den Norden von Berlin. Die Tour führt dich dann von Berlin Mitte durch den Bezirk Reinickendorf und endet am U-Bahnhof Rathaus Reinickendorf.
 
 Ein Tribute an den großartigen, polnischen Künstler Zdzisław Beksiński (24.02.1929 - 21.02.2005)
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/art-walk-1-until-death-do-us-part-2881" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/art-walk-1-until-death-do-us-part-2881){ .md-button .md-button--primary }
 
 
-> Datei: `000452_art-walk-1-until-death-do-us-part_2022.md` • #000452 • Slug: `art-walk-1-until-death-do-us-part`
+
+> File: `000452_art-walk-1-until-death-do-us-part_2022.md` • #000452 • Slug: `art-walk-1-until-death-do-us-part`

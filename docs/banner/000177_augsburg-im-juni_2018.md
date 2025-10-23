@@ -24,11 +24,12 @@ title: "Augsburg im Juni"
 
 ## Details
 
-- **Missionen im Banner:** 30
-- **Insgesamt abgeschlossene Missionen:** 4248
-- **Das ist mein Banner Nr.:** 177
+
+- **Total missions completed:** 
+- **This is my banner no.:** 177
 
 
 
 
-> Datei: `000177_augsburg-im-juni_2018.md` • #000177 • Slug: `augsburg-im-juni`
+
+> File: `000177_augsburg-im-juni_2018.md` • #000177 • Slug: `augsburg-im-juni`

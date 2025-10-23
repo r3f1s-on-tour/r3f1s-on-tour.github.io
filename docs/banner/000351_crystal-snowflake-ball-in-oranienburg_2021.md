@@ -23,12 +23,16 @@ title: "Crystal Snowflake Ball in Oranienburg"
 
 
 ## Details
-- **Distanz (km):** 6,05
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 7878
-- **Das ist mein Banner Nr.:** 351
-- **Beschreibung:** Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
+- **Distance (km):** 6.05
+
+- **Total missions completed:** 
+- **This is my banner no.:** 351
+
+
+!!! note "Description"
+    Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> Datei: `000351_crystal-snowflake-ball-in-oranienburg_2021.md` • #000351 • Slug: `crystal-snowflake-ball-in-oranienburg`
+
+> File: `000351_crystal-snowflake-ball-in-oranienburg_2021.md` • #000351 • Slug: `crystal-snowflake-ball-in-oranienburg`

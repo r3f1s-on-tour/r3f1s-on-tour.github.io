@@ -23,18 +23,20 @@ title: "2nd Sunday Mitte"
 
 
 ## Details
-- **Distanz (km):** 2,04
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 8.514
-- **Das ist mein Banner Nr.:** 397
-- **Beschreibung:** Spaziere zum Second Sunday 02/22 über den Boulevard Unter den Linden im Bezitk Mitte.
+- **Distance (km):** 2.04
+
+- **Total missions completed:** 
+- **This is my banner no.:** 397
+
+
+!!! note "Description"
+    Spaziere zum Second Sunday 02/22 über den Boulevard Unter den Linden im Bezitk Mitte.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/2nd-sunday-mitte-fe1f" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/2nd-sunday-mitte-fe1f){ .md-button .md-button--primary }
 
 
-> Datei: `000397_2nd-sunday-mitte_2022.md` • #000397 • Slug: `2nd-sunday-mitte`
+
+> File: `000397_2nd-sunday-mitte_2022.md` • #000397 • Slug: `2nd-sunday-mitte`

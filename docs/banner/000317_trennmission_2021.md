@@ -23,18 +23,20 @@ title: "Trennmission"
 
 
 ## Details
-- **Distanz (km):** 3,21
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 7380
-- **Das ist mein Banner Nr.:** 317
-- **Beschreibung:** Hannover bietet so viel! Nutze die Trennmissionen für Deinen Scanner.
+- **Distance (km):** 3.21
+
+- **Total missions completed:** 
+- **This is my banner no.:** 317
+
+
+!!! note "Description"
+    Hannover bietet so viel! Nutze die Trennmissionen für Deinen Scanner.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/trennmission-aba1" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/trennmission-aba1){ .md-button .md-button--primary }
 
 
-> Datei: `000317_trennmission_2021.md` • #000317 • Slug: `trennmission`
+
+> File: `000317_trennmission_2021.md` • #000317 • Slug: `trennmission`

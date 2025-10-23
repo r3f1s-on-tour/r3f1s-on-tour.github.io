@@ -23,19 +23,21 @@ title: "Mizaru, Kikazaru, Iwazaru"
 
 
 ## Details
-- **Distanz (km):** 6,02
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 7860
-- **Das ist mein Banner Nr.:** 350
-- **Beschreibung:** Starte eine Runde durch den Kollwitzkiez entlang des Teutoburger Platz und der Zionkirchsplatz.
+- **Distance (km):** 6.02
+
+- **Total missions completed:** 
+- **This is my banner no.:** 350
+
+
+!!! note "Description"
+    Starte eine Runde durch den Kollwitzkiez entlang des Teutoburger Platz und der Zionkirchsplatz.
 Start und Ende der Runde ist am Senefelderplatz
 
 
+
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/mizaru-kikazaru-iwazaru-dbe2" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/mizaru-kikazaru-iwazaru-dbe2){ .md-button .md-button--primary }
 
 
-> Datei: `000350_mizaru-kikazaru-iwazaru_2021.md` • #000350 • Slug: `mizaru-kikazaru-iwazaru`
+
+> File: `000350_mizaru-kikazaru-iwazaru_2021.md` • #000350 • Slug: `mizaru-kikazaru-iwazaru`

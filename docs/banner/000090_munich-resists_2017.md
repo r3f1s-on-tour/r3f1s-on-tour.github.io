@@ -23,18 +23,20 @@ title: "Munich resists!"
 ![Munich resists!](https://api.bannergress.com/bnrs/pictures/aa450cbf2fff346fcbba9f846ff0b53f)
 
 ## Details
-- **Distanz (km):** 25,94
-- **Missionen im Banner:** 66
-- **Insgesamt abgeschlossene Missionen:** 2364
-- **Das ist mein Banner Nr.:** 90
-- **Beschreibung:** Sei kein Frosch - und folge dem Weg des Widerstands durch die bayerische Landeshauptstadt!
+- **Distance (km):** 25.94
+
+- **Total missions completed:** 
+- **This is my banner no.:** 90
+
+
+!!! note "Description"
+    Sei kein Frosch - und folge dem Weg des Widerstands durch die bayerische Landeshauptstadt!
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/munich-resists-aa8d" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/munich-resists-aa8d){ .md-button .md-button--primary }
 
 
-> Datei: `000090_munich-resists_2017.md` • #000090 • Slug: `munich-resists`
+
+> File: `000090_munich-resists_2017.md` • #000090 • Slug: `munich-resists`

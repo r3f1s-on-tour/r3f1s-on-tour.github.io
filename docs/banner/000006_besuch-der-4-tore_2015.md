@@ -24,11 +24,12 @@ title: "Besuch der 4 Tore"
 
 ## Details
 
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 144
-- **Das ist mein Banner Nr.:** 6
+
+- **Total missions completed:** 
+- **This is my banner no.:** 6
 
 
 
 
-> Datei: `000006_besuch-der-4-tore_2015.md` • #000006 • Slug: `besuch-der-4-tore`
+
+> File: `000006_besuch-der-4-tore_2015.md` • #000006 • Slug: `besuch-der-4-tore`

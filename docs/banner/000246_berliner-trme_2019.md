@@ -23,18 +23,20 @@ title: "Berliner Türme"
 
 
 ## Details
-- **Distanz (km):** 12,05
-- **Missionen im Banner:** 24
-- **Insgesamt abgeschlossene Missionen:** 6012
-- **Das ist mein Banner Nr.:** 246
-- **Beschreibung:** Ein Gang von Turm zu Turm
+- **Distance (km):** 12.05
+
+- **Total missions completed:** 
+- **This is my banner no.:** 246
+
+
+!!! note "Description"
+    Ein Gang von Turm zu Turm
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/berliner-t%C3%BCrme-7cba" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/berliner-t%C3%BCrme-7cba){ .md-button .md-button--primary }
 
 
-> Datei: `000246_berliner-trme_2019.md` • #000246 • Slug: `berliner-trme`
+
+> File: `000246_berliner-trme_2019.md` • #000246 • Slug: `berliner-trme`

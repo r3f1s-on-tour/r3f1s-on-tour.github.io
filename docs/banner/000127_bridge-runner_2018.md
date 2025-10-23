@@ -23,18 +23,20 @@ title: "Bridge Runner"
 
 
 ## Details
-- **Distanz (km):** 1,59
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 3132
-- **Das ist mein Banner Nr.:** 127
-- **Beschreibung:** Hin und her auf der Brücke mit Fragen & Hacks. Als 5er- oder 6er-Mission spielbar. / Across the Old Bridge with hacks & questions. Can be played as 5- or 6-mission-set.
+- **Distance (km):** 1.59
+
+- **Total missions completed:** 
+- **This is my banner no.:** 127
+
+
+!!! note "Description"
+    Hin und her auf der Brücke mit Fragen & Hacks. Als 5er- oder 6er-Mission spielbar. / Across the Old Bridge with hacks & questions. Can be played as 5- or 6-mission-set.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/bridge-runner-a158" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/bridge-runner-a158){ .md-button .md-button--primary }
 
 
-> Datei: `000127_bridge-runner_2018.md` • #000127 • Slug: `bridge-runner`
+
+> File: `000127_bridge-runner_2018.md` • #000127 • Slug: `bridge-runner`

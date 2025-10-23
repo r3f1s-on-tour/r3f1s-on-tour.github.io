@@ -23,18 +23,20 @@ title: "Roter Krieger"
 
 
 ## Details
-- **Distanz (km):** 9,01
-- **Missionen im Banner:** 54
-- **Insgesamt abgeschlossene Missionen:** 6630
-- **Das ist mein Banner Nr.:** 284
-- **Beschreibung:** Erkunde die Stadt München ab dem Stachus über den Marienplatz, die Altstadt und wieder zurück.
+- **Distance (km):** 9.01
+
+- **Total missions completed:** 
+- **This is my banner no.:** 284
+
+
+!!! note "Description"
+    Erkunde die Stadt München ab dem Stachus über den Marienplatz, die Altstadt und wieder zurück.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/roter-krieger-7556" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/roter-krieger-7556){ .md-button .md-button--primary }
 
 
-> Datei: `000284_roter-krieger_2020.md` • #000284 • Slug: `roter-krieger`
+
+> File: `000284_roter-krieger_2020.md` • #000284 • Slug: `roter-krieger`

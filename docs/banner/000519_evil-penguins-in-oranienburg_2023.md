@@ -23,12 +23,16 @@ title: "Evil Penguins in Oranienburg"
 
 
 ## Details
-- **Distanz (km):** 1,29
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 10.992
-- **Das ist mein Banner Nr.:** 519
-- **Beschreibung:** Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
+- **Distance (km):** 1.29
+
+- **Total missions completed:** 
+- **This is my banner no.:** 519
+
+
+!!! note "Description"
+    Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> Datei: `000519_evil-penguins-in-oranienburg_2023.md` • #000519 • Slug: `evil-penguins-in-oranienburg`
+
+> File: `000519_evil-penguins-in-oranienburg_2023.md` • #000519 • Slug: `evil-penguins-in-oranienburg`

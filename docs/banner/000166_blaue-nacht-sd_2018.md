@@ -24,11 +24,12 @@ title: "Blaue Nacht Süd"
 
 ## Details
 
-- **Missionen im Banner:** 36
-- **Insgesamt abgeschlossene Missionen:** 4056
-- **Das ist mein Banner Nr.:** 166
+
+- **Total missions completed:** 
+- **This is my banner no.:** 166
 
 
 
 
-> Datei: `000166_blaue-nacht-sd_2018.md` • #000166 • Slug: `blaue-nacht-sd`
+
+> File: `000166_blaue-nacht-sd_2018.md` • #000166 • Slug: `blaue-nacht-sd`

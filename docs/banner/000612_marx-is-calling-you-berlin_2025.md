@@ -24,17 +24,16 @@ title: "Marx is calling you - Berlin"
 
 ## Details
 
-- **Missionen im Banner:** 6
-- **Insgesamt abgeschlossene Missionen:** 13.416
-- **Das ist mein Banner Nr.:** 612
+
+- **Total missions completed:** 
+- **This is my banner no.:** 612
+
 
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/marx-is-calling-you-berlin-6c02" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/marx-is-calling-you-berlin-6c02){ .md-button .md-button--primary }
 
 
-> Datei: `000612_marx-is-calling-you-berlin_2025.md` • #000612 • Slug: `marx-is-calling-you-berlin`
+
+> File: `000612_marx-is-calling-you-berlin_2025.md` • #000612 • Slug: `marx-is-calling-you-berlin`

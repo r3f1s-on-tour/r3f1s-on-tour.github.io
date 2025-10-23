@@ -23,18 +23,20 @@ title: "Schlosskirche Mosaik Teil"
 
 
 ## Details
-- **Distanz (km):** 10,45
-- **Missionen im Banner:** 18
-- **Insgesamt abgeschlossene Missionen:** 4164
-- **Das ist mein Banner Nr.:** 173
-- **Beschreibung:** In der ersten Mission beginnt ihr den Rundgang durch das historische Neustrelitz am Markt. Die Tour  führt euch durch die Innenstadt von Neustrelitz. Am besten, ihr macht die Missionen zu Fuß.
+- **Distance (km):** 10.45
+
+- **Total missions completed:** 
+- **This is my banner no.:** 173
+
+
+!!! note "Description"
+    In der ersten Mission beginnt ihr den Rundgang durch das historische Neustrelitz am Markt. Die Tour  führt euch durch die Innenstadt von Neustrelitz. Am besten, ihr macht die Missionen zu Fuß.
+
 
 
 ## Links
-<div style="margin-top: 0.5em;">
-<a href="https://bannergress.com/banner/schlosskirche-mosaik-teil-c34b" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background-color:#3c8b3c;color:white;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-
-</div>
+[🔗 Bannergress](https://bannergress.com/banner/schlosskirche-mosaik-teil-c34b){ .md-button .md-button--primary }
 
 
-> Datei: `000173_schlosskirche-mosaik-teil_2018.md` • #000173 • Slug: `schlosskirche-mosaik-teil`
+
+> File: `000173_schlosskirche-mosaik-teil_2018.md` • #000173 • Slug: `schlosskirche-mosaik-teil`
