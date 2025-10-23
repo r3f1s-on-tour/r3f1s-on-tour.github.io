@@ -15,7 +15,7 @@ description: ""
 lengthKMeters: "1,3"
 umap: ""
 missionDay: ""
-notice: ""
+notice: "Ende der Polen Rundreise"
 title: "Łowicz-Muster Tour in Szczecin"
 slug: "owicz-muster-tour-in-szczecin"
 href: "banner/000619_owicz-muster-tour-in-szczecin_2025.md"
@@ -27,6 +27,11 @@ name: "Łowicz-Muster Tour in Szczecin"
 
 ![Łowicz-Muster Tour in Szczecin](https://api.bannergress.com/bnrs/pictures/20d5ac49d45afb2407fdb2b5f81576b0)
 
+
+<div style="margin: 10px 0 18px; padding: 10px 12px; border-left: 6px solid #f0ad4e; background: #fff8e6; border-radius: 6px;">
+  <strong>Notice:</strong><br>
+  Ende der Polen Rundreise
+</div>
 
 
 ## Details
