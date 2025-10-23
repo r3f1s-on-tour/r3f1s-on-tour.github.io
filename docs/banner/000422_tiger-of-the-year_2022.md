@@ -3,7 +3,7 @@ nummer: "422"
 startLatitude: "53,565661"
 startLongitude: "13,260573"
 titel: "Tiger of the Year"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/9bd1375fe6da4e7f9eed0602da68c097"
 region: "Neubrandenburg"
 country: "Deutschland"
 completed: "8.808"
@@ -20,7 +20,7 @@ title: "Tiger of the Year"
 
 *2022* • Neubrandenburg • Deutschland
 
-
+![Tiger of the Year](https://api.bannergress.com/bnrs/pictures/9bd1375fe6da4e7f9eed0602da68c097)
 
 ## Details
 - **Distance (km):** 16.08

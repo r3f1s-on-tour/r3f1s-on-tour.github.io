@@ -3,7 +3,7 @@ nummer: "427"
 startLatitude: "53,625655"
 startLongitude: "11,417381"
 titel: "Schweriner Schloss"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/b3389e7f7fa1a7a2f80564f59b4641a0"
 region: "Schwerin"
 country: "Deutschland"
 completed: "8.904"
@@ -20,7 +20,7 @@ title: "Schweriner Schloss"
 
 *2022* • Schwerin • Deutschland
 
-
+![Schweriner Schloss](https://api.bannergress.com/bnrs/pictures/b3389e7f7fa1a7a2f80564f59b4641a0)
 
 ## Details
 - **Distance (km):** 18.13

@@ -3,7 +3,7 @@ nummer: "370"
 startLatitude: "53.582479"
 startLongitude: "13.284609"
 titel: "Clockwork Orange"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/ea21d8c73e12d4a9b3dd10bc41a77166"
 region: "Neubrandenburg"
 country: "Deutschland"
 completed: "8142"
@@ -20,7 +20,7 @@ title: "Clockwork Orange"
 
 *2021* • Neubrandenburg • Deutschland
 
-
+![Clockwork Orange](https://api.bannergress.com/bnrs/pictures/ea21d8c73e12d4a9b3dd10bc41a77166)
 
 ## Details
 - **Distance (km):** 21.78

@@ -3,7 +3,7 @@ nummer: "421"
 startLatitude: "53,557852"
 startLongitude: "13,26108"
 titel: "Year of the Ox 2021 - Neubrandenburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/3812df1c157057d07f439864da635a6e"
 region: "Neubrandenburg"
 country: "Deutschland"
 completed: "8.778"
@@ -20,7 +20,7 @@ title: "Year of the Ox 2021 - Neubrandenburg"
 
 *2022* • Neubrandenburg • Deutschland
 
-
+![Year of the Ox 2021 - Neubrandenburg](https://api.bannergress.com/bnrs/pictures/3812df1c157057d07f439864da635a6e)
 
 ## Details
 - **Distance (km):** 5.27

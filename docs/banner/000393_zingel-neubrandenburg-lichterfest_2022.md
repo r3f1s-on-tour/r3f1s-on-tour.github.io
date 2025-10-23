@@ -3,7 +3,7 @@ nummer: "393"
 startLatitude: "53,561402"
 startLongitude: "13,261756"
 titel: "Zingel Neubrandenburg Lichterfest"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/2462f17ba9f206507792bc718e8b4f47"
 region: "Neubrandenburg"
 country: "Deutschland"
 completed: "8.490"
@@ -20,7 +20,7 @@ title: "Zingel Neubrandenburg Lichterfest"
 
 *2022* • Neubrandenburg • Deutschland
 
-
+![Zingel Neubrandenburg Lichterfest](https://api.bannergress.com/bnrs/pictures/2462f17ba9f206507792bc718e8b4f47)
 
 ## Details
 - **Distance (km):** 8.22

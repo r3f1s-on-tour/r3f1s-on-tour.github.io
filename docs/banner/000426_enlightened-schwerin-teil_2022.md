@@ -3,7 +3,7 @@ nummer: "426"
 startLatitude: "53,626352"
 startLongitude: "11,416058"
 titel: "Enlightened Schwerin Teil"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/8c756836df25c1b15a2ddf43a83b3510"
 region: "Schwerin"
 country: "Deutschland"
 completed: "8.874"
@@ -20,7 +20,7 @@ title: "Enlightened Schwerin Teil"
 
 *2022* • Schwerin • Deutschland
 
-
+![Enlightened Schwerin Teil](https://api.bannergress.com/bnrs/pictures/8c756836df25c1b15a2ddf43a83b3510)
 
 ## Details
 - **Distance (km):** 2.72

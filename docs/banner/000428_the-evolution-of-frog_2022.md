@@ -3,7 +3,7 @@ nummer: "428"
 startLatitude: "53,565159"
 startLongitude: "13,273601"
 titel: "The evolution of frog"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/3ee06a9a61850f64bc9bca94fd10568d"
 region: "Neubrandenburg"
 country: "Deutschland"
 completed: "8.910"
@@ -20,7 +20,7 @@ title: "The evolution of frog"
 
 *2022* • Neubrandenburg • Deutschland
 
-
+![The evolution of frog](https://api.bannergress.com/bnrs/pictures/3ee06a9a61850f64bc9bca94fd10568d)
 
 ## Details
 - **Distance (km):** 2.37

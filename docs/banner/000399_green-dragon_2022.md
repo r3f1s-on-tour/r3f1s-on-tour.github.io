@@ -3,7 +3,7 @@ nummer: "399"
 startLatitude: "52,510658"
 startLongitude: "13,499647"
 titel: "Green Dragon"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/043a30133f2516c00fb1c1d2c9b7767c"
 region: "Berlin"
 country: "Deutschland"
 completed: "8.556"
@@ -20,7 +20,7 @@ title: "Green Dragon"
 
 *2022* • Berlin • Deutschland
 
-
+![Green Dragon](https://api.bannergress.com/bnrs/pictures/043a30133f2516c00fb1c1d2c9b7767c)
 
 ## Details
 - **Distance (km):** 12.00

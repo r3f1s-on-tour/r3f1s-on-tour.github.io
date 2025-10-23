@@ -3,7 +3,7 @@ nummer: "424"
 startLatitude: "53,50675"
 startLongitude: "13,745004"
 titel: "Second Sunday April 2022"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/54810f92b84347b2e09a8ab6c3016249"
 region: "Strasburg (Uckermark)"
 country: "Deutschland"
 completed: "8.820"
@@ -20,7 +20,7 @@ title: "Second Sunday April 2022"
 
 *2022* • Strasburg (Uckermark) • Deutschland
 
-
+![Second Sunday April 2022](https://api.bannergress.com/bnrs/pictures/54810f92b84347b2e09a8ab6c3016249)
 
 ## Details
 - **Distance (km):** 2.77
