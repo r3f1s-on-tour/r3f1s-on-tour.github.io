@@ -248,7 +248,6 @@ def main():
     ap.add_argument("--overwrite", action="store_true", help="Overwrite existing files")
     ap.add_argument("--pad-width", type=int, default=6, help="Zero-pad width for number prefix")
     ap.add_argument("--template", required=True, help="Markdown template path")
-    ap.add_argument("--debug", action="store_true")
     args = ap.parse_args()
 
     os.makedirs(args.out, exist_ok=True)
