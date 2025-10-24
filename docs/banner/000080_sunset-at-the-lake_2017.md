@@ -11,7 +11,7 @@ missions: "12"
 date: "2017"
 bg-link: "https://bannergress.com/banner/sunset-at-the-lake-8330"
 onyx: "0"
-description: "Erkunde den Wesslinger See und mache ein schönes Bild mit Sonnenuntergang am See. Die Missionsreihe besteht aus zwei Runden um den Wesslinger See- Hack&Capture und Link&Field. Endportal = Startportal."
+description: "Erkunde den Wesslinger See und mache ein schönes Bild mit Sonnenuntergang am See. Die Missionsreihe besteht aus zwei Runden um den Wesslinger See: Hack&Capture und Link&Field. Endportal = Startportal."
 lengthKMeters: "6,25"
 umap: ""
 missionDay: ""
@@ -38,7 +38,7 @@ name: "Sunset at the lake"
 
 
 ## Description
-Erkunde den Wesslinger See und mache ein schönes Bild mit Sonnenuntergang am See. Die Missionsreihe besteht aus zwei Runden um den Wesslinger See- Hack&Capture und Link&Field. Endportal = Startportal.
+Erkunde den Wesslinger See und mache ein schönes Bild mit Sonnenuntergang am See. Die Missionsreihe besteht aus zwei Runden um den Wesslinger See: Hack&Capture und Link&Field. Endportal = Startportal.
 
 
 

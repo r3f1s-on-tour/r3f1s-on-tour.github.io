@@ -11,9 +11,9 @@ missions: "24"
 date: "2015"
 bg-link: "https://bannergress.com/banner/rostocker-flagge-9920"
 onyx: "0"
-description: "Erkunde ab hier die wunderschöne Hansestadt Rostock mit Ihren Sehenswürdigkeiten.\nBeginne mit dem Bahnhof als zentralen Anlaufpunkt.\nPS- Es sollte das Fahrrad genutzt werden."
+description: "Erkunde ab hier die wunderschöne Hansestadt Rostock mit Ihren Sehenswürdigkeiten.\nBeginne mit dem Bahnhof als zentralen Anlaufpunkt.\nPS: Es sollte das Fahrrad genutzt werden."
 lengthKMeters: "12,84"
-umap: "https-//umap.openstreetmap.de/de/map/r3f1zul-on-tour_19893?feature=Rostocker-Flagge#18/54.077793/12.129966"
+umap: "https://umap.openstreetmap.de/de/map/r3f1zul-on-tour_19893?feature=Rostocker-Flagge#18/54.077793/12.129966"
 missionDay: ""
 notice: ""
 title: "Rostocker Flagge"
@@ -40,13 +40,13 @@ name: "Rostocker Flagge"
 ## Description
 Erkunde ab hier die wunderschöne Hansestadt Rostock mit Ihren Sehenswürdigkeiten.
 Beginne mit dem Bahnhof als zentralen Anlaufpunkt.
-PS- Es sollte das Fahrrad genutzt werden.
+PS: Es sollte das Fahrrad genutzt werden.
 
 
 
 ## Links
 <a href="https://bannergress.com/banner/rostocker-flagge-9920" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-<a href="https-//umap.openstreetmap.de/de/map/r3f1zul-on-tour_19893?feature=Rostocker-Flagge#18/54.077793/12.129966" target="_blank" style="display:inline-block;padding:6px 12px;background:#0066cc;color:#fff;text-decoration:none;border-radius:6px;">🗺️ uMap</a>
+<a href="https://umap.openstreetmap.de/de/map/r3f1zul-on-tour_19893?feature=Rostocker-Flagge#18/54.077793/12.129966" target="_blank" style="display:inline-block;padding:6px 12px;background:#0066cc;color:#fff;text-decoration:none;border-radius:6px;">🗺️ uMap</a>
 
 
 > File: `000001_rostocker-flagge_2015.md`

@@ -11,7 +11,7 @@ missions: "6"
 date: "2022"
 bg-link: "https://bannergress.com/banner/md-2022-stolpersteine-berlin-0d29"
 onyx: "0"
-description: "Part of MD 2022- Stolpersteine"
+description: "Part of MD 2022: Stolpersteine"
 lengthKMeters: "2,946"
 umap: ""
 missionDay: "1"
@@ -38,7 +38,7 @@ name: "MD 2022: Stolpersteine, Berlin"
 
 
 ## Description
-Part of MD 2022- Stolpersteine
+Part of MD 2022: Stolpersteine
 
 
 

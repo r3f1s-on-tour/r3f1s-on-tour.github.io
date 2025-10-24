@@ -11,7 +11,7 @@ missions: "24"
 date: "2022"
 bg-link: "https://bannergress.com/banner/victory-of-joker-bbb4"
 onyx: "0"
-description: "Capture die Innenstadt von Wuppertal/Elberfeld. Am besten bringst du viele burster mit und ein wenig zeit. Die Mission wird dich durch Elberfeld zum Luisenviertel führen. viel Spaß -D"
+description: "Capture die Innenstadt von Wuppertal/Elberfeld. Am besten bringst du viele burster mit und ein wenig zeit. Die Mission wird dich durch Elberfeld zum Luisenviertel führen. viel Spaß :D"
 lengthKMeters: "6,081"
 umap: ""
 missionDay: ""
@@ -38,7 +38,7 @@ name: "Victory of Joker"
 
 
 ## Description
-Capture die Innenstadt von Wuppertal/Elberfeld. Am besten bringst du viele burster mit und ein wenig zeit. Die Mission wird dich durch Elberfeld zum Luisenviertel führen. viel Spaß -D
+Capture die Innenstadt von Wuppertal/Elberfeld. Am besten bringst du viele burster mit und ein wenig zeit. Die Mission wird dich durch Elberfeld zum Luisenviertel führen. viel Spaß :D
 
 
 

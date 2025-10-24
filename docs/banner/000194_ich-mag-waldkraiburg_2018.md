@@ -11,7 +11,7 @@ missions: "6"
 date: "2018"
 bg-link: "https://bannergress.com/banner/ich-mag-waldkraiburg-d034"
 onyx: "0"
-description: "Eine Tour durch Waldkraiburg. Wenn man die Missionen der Reihe nach macht erhält man den Schriftzug \"Ich mag Waldkraiburg\".\nMission 1- Vom Rathaus Richtung Stadtpark"
+description: "Eine Tour durch Waldkraiburg. Wenn man die Missionen der Reihe nach macht erhält man den Schriftzug \"Ich mag Waldkraiburg\".\nMission 1: Vom Rathaus Richtung Stadtpark"
 lengthKMeters: "4,01"
 umap: ""
 missionDay: ""
@@ -39,7 +39,7 @@ name: "Ich mag Waldkraiburg"
 
 ## Description
 Eine Tour durch Waldkraiburg. Wenn man die Missionen der Reihe nach macht erhält man den Schriftzug "Ich mag Waldkraiburg".
-Mission 1- Vom Rathaus Richtung Stadtpark
+Mission 1: Vom Rathaus Richtung Stadtpark
 
 
 

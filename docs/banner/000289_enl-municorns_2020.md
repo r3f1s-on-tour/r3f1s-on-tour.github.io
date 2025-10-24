@@ -11,7 +11,7 @@ missions: "24"
 date: "2020"
 bg-link: "https://bannergress.com/banner/enl-municorns-e3a4"
 onyx: "0"
-description: "The most mystical anomaly ever would definitely be the Unicorn anomaly in Munich - pardon- the Municorn Anomaly."
+description: "The most mystical anomaly ever would definitely be the Unicorn anomaly in Munich - pardon: the Municorn Anomaly."
 lengthKMeters: "5,87"
 umap: ""
 missionDay: ""
@@ -38,7 +38,7 @@ name: "ENL Municorns"
 
 
 ## Description
-The most mystical anomaly ever would definitely be the Unicorn anomaly in Munich - pardon- the Municorn Anomaly.
+The most mystical anomaly ever would definitely be the Unicorn anomaly in Munich - pardon: the Municorn Anomaly.
 
 
 

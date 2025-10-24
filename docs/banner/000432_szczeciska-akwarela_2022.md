@@ -11,7 +11,7 @@ missions: "18"
 date: "2022"
 bg-link: "https://bannergress.com/banner/szczeci%C5%84ska-akwarela-19aa"
 onyx: "0"
-description: "Akwarela z charakterystycznymi miejscami Szczecina. Za bardzo się nie zmęczysz przy robieniu tej mozaiki -) \nStart - Brama Portowa!"
+description: "Akwarela z charakterystycznymi miejscami Szczecina. Za bardzo się nie zmęczysz przy robieniu tej mozaiki :) \nStart - Brama Portowa!"
 lengthKMeters: "8,59"
 umap: ""
 missionDay: ""
@@ -38,7 +38,7 @@ name: "Szczecińska akwarela"
 
 
 ## Description
-Akwarela z charakterystycznymi miejscami Szczecina. Za bardzo się nie zmęczysz przy robieniu tej mozaiki -) 
+Akwarela z charakterystycznymi miejscami Szczecina. Za bardzo się nie zmęczysz przy robieniu tej mozaiki :) 
 Start - Brama Portowa!
 
 
