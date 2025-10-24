@@ -3,7 +3,7 @@ nummer: "344"
 startLatitude: "52.756491"
 startLongitude: "13.245295"
 titel: "Mr Pumpkin Slasher in Oranienburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/e00047d7c1ea647dfd28ae321fecda2f"
 region: "Oranienburg"
 country: "Deutschland"
 completed: "7776"
@@ -25,7 +25,7 @@ name: "Mr Pumpkin Slasher in Oranienburg"
 
 *2021* • Oranienburg • Deutschland
 
-
+![Mr Pumpkin Slasher in Oranienburg](https://api.bannergress.com/bnrs/pictures/e00047d7c1ea647dfd28ae321fecda2f)
 
 
 

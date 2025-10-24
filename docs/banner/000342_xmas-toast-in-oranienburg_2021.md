@@ -3,7 +3,7 @@ nummer: "342"
 startLatitude: "52.756491"
 startLongitude: "13.245295"
 titel: "XMas Toast in Oranienburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/3c81c06941ce25ba0ce2f487242ed1d9"
 region: "Oranienburg"
 country: "Deutschland"
 completed: "7740"
@@ -25,7 +25,7 @@ name: "XMas Toast in Oranienburg"
 
 *2021* • Oranienburg • Deutschland
 
-
+![XMas Toast in Oranienburg](https://api.bannergress.com/bnrs/pictures/3c81c06941ce25ba0ce2f487242ed1d9)
 
 
 

@@ -3,7 +3,7 @@ nummer: "371"
 startLatitude: "53.505877"
 startLongitude: "13.745118"
 titel: "Cats in the box - Strasburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/763459812c4d07e89838c29cf1b2450a"
 region: "Strasburg (Uckermark)"
 country: "Deutschland"
 completed: "8148"
@@ -25,7 +25,7 @@ name: "Cats in the box - Strasburg"
 
 *2021* • Strasburg (Uckermark) • Deutschland
 
-
+![Cats in the box - Strasburg](https://api.bannergress.com/bnrs/pictures/763459812c4d07e89838c29cf1b2450a)
 
 
 

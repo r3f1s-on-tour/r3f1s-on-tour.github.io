@@ -3,7 +3,7 @@ nummer: "340"
 startLatitude: "52.754504"
 startLongitude: "13.248415"
 titel: "Second Sunday in Oranienburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/29ff62601c4ab433a787ca9887306763"
 region: "Oranienburg"
 country: "Deutschland"
 completed: "7704"
@@ -25,7 +25,7 @@ name: "Second Sunday in Oranienburg"
 
 *2021* • Oranienburg • Deutschland
 
-
+![Second Sunday in Oranienburg](https://api.bannergress.com/bnrs/pictures/29ff62601c4ab433a787ca9887306763)
 
 
 

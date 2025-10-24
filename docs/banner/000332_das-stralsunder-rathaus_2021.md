@@ -3,7 +3,7 @@ nummer: "332"
 startLatitude: "54.315786"
 startLongitude: "13.090288"
 titel: "Das Stralsunder Rathaus"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/222778b004ebd47c024eb093e78287b7"
 region: "Stralsund"
 country: "Deutschland"
 completed: "7596"
@@ -25,7 +25,7 @@ name: "Das Stralsunder Rathaus"
 
 *2021* • Stralsund • Deutschland
 
-
+![Das Stralsunder Rathaus](https://api.bannergress.com/bnrs/pictures/222778b004ebd47c024eb093e78287b7)
 
 
 

@@ -3,7 +3,7 @@ nummer: "335"
 startLatitude: "53.506348"
 startLongitude: "13.745009"
 titel: "Götter Tour durch Strasburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/7276c7d2841cf27ee82a1745bda51c27"
 region: "Strasburg (Uckermark)"
 country: "Deutschland"
 completed: "7650"
@@ -25,7 +25,7 @@ name: "Götter Tour durch Strasburg"
 
 *2021* • Strasburg (Uckermark) • Deutschland
 
-
+![Götter Tour durch Strasburg](https://api.bannergress.com/bnrs/pictures/7276c7d2841cf27ee82a1745bda51c27)
 
 
 

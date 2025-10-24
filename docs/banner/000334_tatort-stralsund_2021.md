@@ -3,7 +3,7 @@ nummer: "334"
 startLatitude: "54.322059"
 startLongitude: "13.082235"
 titel: "Tatort Stralsund"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/ea8851a5f7197b38fe443614aeb7a0c9"
 region: "Stralsund"
 country: "Deutschland"
 completed: "7644"
@@ -25,7 +25,7 @@ name: "Tatort Stralsund"
 
 *2021* • Stralsund • Deutschland
 
-
+![Tatort Stralsund](https://api.bannergress.com/bnrs/pictures/ea8851a5f7197b38fe443614aeb7a0c9)
 
 
 

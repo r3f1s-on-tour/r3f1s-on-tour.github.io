@@ -3,7 +3,7 @@ nummer: "337"
 startLatitude: "53.506348"
 startLongitude: "13.745009"
 titel: "Evolution of Frog - Strasburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/c74fc3ddddca750c4297a9ae12a1ecfe"
 region: "Strasburg (Uckermark)"
 country: "Deutschland"
 completed: "7662"
@@ -25,7 +25,7 @@ name: "Evolution of Frog - Strasburg"
 
 *2021* • Strasburg (Uckermark) • Deutschland
 
-
+![Evolution of Frog - Strasburg](https://api.bannergress.com/bnrs/pictures/c74fc3ddddca750c4297a9ae12a1ecfe)
 
 
 

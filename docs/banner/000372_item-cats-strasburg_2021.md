@@ -3,7 +3,7 @@ nummer: "372"
 startLatitude: "53.505877"
 startLongitude: "13.745118"
 titel: "Item Cats Strasburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/5c0d0e50f26de5663b27495bd33555a1"
 region: "Strasburg (Uckermark)"
 country: "Deutschland"
 completed: "8160"
@@ -25,7 +25,7 @@ name: "Item Cats Strasburg"
 
 *2021* • Strasburg (Uckermark) • Deutschland
 
-
+![Item Cats Strasburg](https://api.bannergress.com/bnrs/pictures/5c0d0e50f26de5663b27495bd33555a1)
 
 
 

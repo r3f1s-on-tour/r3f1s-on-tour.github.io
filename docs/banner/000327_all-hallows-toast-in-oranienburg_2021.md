@@ -3,7 +3,7 @@ nummer: "327"
 startLatitude: "52.754504"
 startLongitude: "13.248415"
 titel: "All Hallows Toast in Oranienburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/d68b4ec33c09bcccb018d7217cef7e0a"
 region: "Oranienburg"
 country: "Deutschland"
 completed: "7506"
@@ -25,7 +25,7 @@ name: "All Hallows Toast in Oranienburg"
 
 *2021* • Oranienburg • Deutschland
 
-
+![All Hallows Toast in Oranienburg](https://api.bannergress.com/bnrs/pictures/d68b4ec33c09bcccb018d7217cef7e0a)
 
 
 

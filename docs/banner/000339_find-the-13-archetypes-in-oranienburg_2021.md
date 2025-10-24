@@ -3,7 +3,7 @@ nummer: "339"
 startLatitude: "52.754504"
 startLongitude: "13.248415"
 titel: "Find the 13 Archetypes in Oranienburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/18efba853ee6a044f8a9f6dbfaef4503"
 region: "Oranienburg"
 country: "Deutschland"
 completed: "7698"
@@ -25,7 +25,7 @@ name: "Find the 13 Archetypes in Oranienburg"
 
 *2021* • Oranienburg • Deutschland
 
-
+![Find the 13 Archetypes in Oranienburg](https://api.bannergress.com/bnrs/pictures/18efba853ee6a044f8a9f6dbfaef4503)
 
 
 

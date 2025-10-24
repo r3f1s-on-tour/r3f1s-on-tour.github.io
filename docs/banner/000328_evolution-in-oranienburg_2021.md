@@ -3,7 +3,7 @@ nummer: "328"
 startLatitude: "52.754504"
 startLongitude: "13.248415"
 titel: "Evolution in Oranienburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/e341ae0602c1df83c95c409b4c47e6ed"
 region: "Oranienburg"
 country: "Deutschland"
 completed: "7512"
@@ -25,7 +25,7 @@ name: "Evolution in Oranienburg"
 
 *2021* • Oranienburg • Deutschland
 
-
+![Evolution in Oranienburg](https://api.bannergress.com/bnrs/pictures/e341ae0602c1df83c95c409b4c47e6ed)
 
 
 

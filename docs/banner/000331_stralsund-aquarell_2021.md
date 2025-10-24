@@ -3,7 +3,7 @@ nummer: "331"
 startLatitude: "54.309001"
 startLongitude: "13.077616"
 titel: "Stralsund Aquarell"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/346b3b5713f9f43b66c792f104fd0aa8"
 region: "Stralsund"
 country: "Deutschland"
 completed: "7578"
@@ -25,7 +25,7 @@ name: "Stralsund Aquarell"
 
 *2021* • Stralsund • Deutschland
 
-
+![Stralsund Aquarell](https://api.bannergress.com/bnrs/pictures/346b3b5713f9f43b66c792f104fd0aa8)
 
 
 

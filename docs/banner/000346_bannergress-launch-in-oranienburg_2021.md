@@ -3,7 +3,7 @@ nummer: "346"
 startLatitude: "52.756491"
 startLongitude: "13.245295"
 titel: "Bannergress Launch in Oranienburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/a9bbfad925290bc7998da0029518e425"
 region: "Oranienburg"
 country: "Deutschland"
 completed: "7800"
@@ -25,7 +25,7 @@ name: "Bannergress Launch in Oranienburg"
 
 *2021* • Oranienburg • Deutschland
 
-
+![Bannergress Launch in Oranienburg](https://api.bannergress.com/bnrs/pictures/a9bbfad925290bc7998da0029518e425)
 
 
 

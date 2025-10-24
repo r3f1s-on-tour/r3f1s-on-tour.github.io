@@ -3,7 +3,7 @@ nummer: "390"
 startLatitude: "52,516608"
 startLongitude: "13,388731"
 titel: "EXO5 Berlin Resistance Victory"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/4eaa941ae7644852afcdf621bf1ac219"
 region: "Berlin"
 country: "Deutschland"
 completed: "8.412"
@@ -25,7 +25,7 @@ name: "EXO5 Berlin Resistance Victory"
 
 *2022* • Berlin • Deutschland
 
-
+![EXO5 Berlin Resistance Victory](https://api.bannergress.com/bnrs/pictures/4eaa941ae7644852afcdf621bf1ac219)
 
 
 

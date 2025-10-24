@@ -3,7 +3,7 @@ nummer: "333"
 startLatitude: "54.308652"
 startLongitude: "13.078088"
 titel: "Stralsund Map Anno 1628"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/8dfaeb485ca15235717e837153485a3b"
 region: "Stralsund"
 country: "Deutschland"
 completed: "7626"
@@ -25,7 +25,7 @@ name: "Stralsund Map Anno 1628"
 
 *2021* • Stralsund • Deutschland
 
-
+![Stralsund Map Anno 1628](https://api.bannergress.com/bnrs/pictures/8dfaeb485ca15235717e837153485a3b)
 
 
 

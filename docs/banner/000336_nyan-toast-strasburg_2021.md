@@ -3,7 +3,7 @@ nummer: "336"
 startLatitude: "53.506348"
 startLongitude: "13.745009"
 titel: "Nyan Toast - Strasburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/f11088e936f172d5eee13b65cf3d7f6f"
 region: "Strasburg (Uckermark)"
 country: "Deutschland"
 completed: "7656"
@@ -25,7 +25,7 @@ name: "Nyan Toast - Strasburg"
 
 *2021* • Strasburg (Uckermark) • Deutschland
 
-
+![Nyan Toast - Strasburg](https://api.bannergress.com/bnrs/pictures/f11088e936f172d5eee13b65cf3d7f6f)
 
 
 

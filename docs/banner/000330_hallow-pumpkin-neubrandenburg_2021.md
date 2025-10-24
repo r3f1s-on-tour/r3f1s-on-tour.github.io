@@ -3,7 +3,7 @@ nummer: "330"
 startLatitude: "53.55756"
 startLongitude: "13.259873"
 titel: "Hallow Pumpkin Neubrandenburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/29d5f3672bdf31e196957da5de8a6722"
 region: "Neubrandenburg"
 country: "Deutschland"
 completed: "7566"
@@ -25,7 +25,7 @@ name: "Hallow Pumpkin Neubrandenburg"
 
 *2021* • Neubrandenburg • Deutschland
 
-
+![Hallow Pumpkin Neubrandenburg](https://api.bannergress.com/bnrs/pictures/29d5f3672bdf31e196957da5de8a6722)
 
 
 
