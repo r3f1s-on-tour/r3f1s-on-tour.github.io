@@ -5,8 +5,17 @@
 {{__IMG:picture__}}
 
 {{__IF:notice__}}
-<div style="margin: 10px 0 18px; padding: 10px 12px; border-left: 6px solid #f0ad4e; background: #fff8e6; border-radius: 6px;">
-  <strong>Notice:</strong><br>
+<div style="
+  margin: 10px 0 18px;
+  padding: 12px 14px;
+  border: 2px solid #FFD500;
+  background-color: #000;
+  color: #fff;
+  border-radius: 8px;
+  font-weight: 500;
+  line-height: 1.5;
+">
+  ⚠️ <strong>Notice:</strong><br>
   {{__VALBR:notice__}}
 </div>
 {{__/IF__}}
@@ -29,4 +38,6 @@
 {{__IF:umap__}}<a href="{{__VAL:umap__}}" target="_blank" style="display:inline-block;padding:6px 12px;background:#0066cc;color:#fff;text-decoration:none;border-radius:6px;">🗺️ uMap</a>{{__/IF__}}
 {{__/IFANY__}}
 
-> File: `{{__FILENAME__}}` • #{{__NUMBER__}} • Slug: `{{__SLUG__}}`
+> File: `{{__FILENAME__}}`
+> • #{{__NUMBER__}}
+> • Slug: `{{__SLUG__}}`
