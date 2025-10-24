@@ -3,29 +3,27 @@
 """
 CSV -> Markdown (Bannergress banners)
 
-- Reads a CSV and creates one Markdown page per row.
-- Writes all CSV columns into YAML front matter (sanitizing ":" except for some keys).
-- Special handling:
-  * 'description' and 'notice' are always quoted and store newlines as "\\n".
-  * One banner image (first matching picture-like column).
-  * Zero-padded numeric prefix in filename (default width 6; --pad-width).
-  * Title aliases ensured: title, name, titel.
-  * Always writes slug and href into front matter (useful for overview pages).
-  * Region/City: if 'region' is given and 'city' is empty, city is set to region.
-    Placeholders also prefer region where applicable.
+Features:
+- Reads a CSV and creates Markdown files with YAML frontmatter.
+- One file per banner (filename pattern: <padded-number>_<slug>_<date>.md)
+- Handles special fields:
+    * description + notice are quoted and store "\n" as "\\n"
+    * notice can include Markdown links or plain URLs (auto-link)
+- Adds zero-padded numbers (--pad-width)
+- Adds title aliases (title, name, titel)
+- Adds slug, href
+- Adds region->city alias if city is empty
+- Template placeholders:
+    {{__VAL:key__}}          → value
+    {{__VALBR:key__}}        → line breaks (<br>)
+    {{__VAL2DP:key__}}       → numeric 2 decimals
+    {{__VALYESNO:key__}}     → Yes/No
+    {{__VALBRLINKS:key__}}   → line breaks + auto-link + [text](url)
+    {{__IMG:key__}}          → Markdown image
+    {{__IF:key__}}...{{__/IF__}}
+    {{__IFANY:a,b__}}...{{__/IFANY__}}
 
-- Template system (no Jinja needed):
-  {{__VAL:key__}}        → value
-  {{__VALBR:key__}}      → value with "\\n" rendered as <br>
-  {{__VAL2DP:key__}}     → numeric value formatted with 2 decimals
-  {{__VALYESNO:key__}}   → "Yes"/"No" for truthy/falsy values (1/0, true/false, yes/no)
-  {{__IMG:key__}}        → Markdown image if url present
-  {{__IF:key__}} ... {{__/IF__}}            → conditional block if key has a value
-  {{__IFANY:a,b__}} ... {{__/IFANY__}}      → block if any of the given keys has a value
-
-- English UI text expected in the template file (see template/banner.md).
-
-Usage example:
+Usage:
   python scripts/make_banner_markdown.py \
     --csv scripts/banner.csv \
     --out docs/banner \
@@ -46,10 +44,6 @@ URL_PREFIXES = ("http://","https://")
 IDENTIFIER_RE = re.compile(r"[A-Za-z_][A-Za-z0-9_]*$")
 
 # -------- Utils ----------
-def dprint(enabled: bool, *args):
-    if enabled:
-        print("[DEBUG]", *args, file=sys.stderr)
-
 def slugify(value: str) -> str:
     value = (value or "").strip().lower()
     value = re.sub(r"[\s_]+","-", value)
@@ -154,23 +148,45 @@ def render_placeholders(template_text: str, ctx: Dict[str,Any]) -> str:
     tpl  = template_text
     meta = ctx["meta"]
 
-    # conditions
     tpl = _expand_if_blocks(tpl, meta)
 
-    # values
+    # Simple value
     for m in re.findall(r"\{\{__VAL:([^}]+)__\}\}", tpl):
         tpl = tpl.replace(f"{{{{__VAL:{m}__}}}}", str(meta.get(m, "")).strip())
 
+    # Line breaks
     for m in re.findall(r"\{\{__VALBR:([^}]+)__\}\}", tpl):
         val = str(meta.get(m, "")).strip().replace("\\n", "<br>")
         tpl = tpl.replace(f"{{{{__VALBR:{m}__}}}}", val)
 
+    # Line breaks + auto-link + Markdown links
+    for m in re.findall(r"\{\{__VALBRLINKS:([^}]+)__\}\}", tpl):
+        raw = str(meta.get(m, "")).strip()
+        html = raw.replace("\\n", "<br>")
+
+        # Markdown links [text](url)
+        def md_link_sub(match):
+            text = match.group(1)
+            url  = match.group(2)
+            return f'<a href="{url}" target="_blank" rel="noopener" style="color:#FFD500;text-decoration:underline;word-break:break-word;">{text}</a>'
+        html = re.sub(r"\[([^\]]+)\]\((https?://[^)]+)\)", md_link_sub, html)
+
+        # Autolink plain URLs
+        def auto_link_sub(match):
+            url = match.group(0)
+            return f'<a href="{url}" target="_blank" rel="noopener" style="color:#FFD500;text-decoration:underline;word-break:break-word;">{url}</a>'
+        html = re.sub(r"(?<!href=\")(?<!\])(?P<url>https?://[^\s<]+)", auto_link_sub, html)
+
+        tpl = tpl.replace(f"{{{{__VALBRLINKS:{m}__}}}}", html)
+
+    # 2 decimals
     for m in re.findall(r"\{\{__VAL2DP:([^}]+)__\}\}", tpl):
         raw = str(meta.get(m, "")).strip().replace(",", ".")
         try: val = f"{float(raw):.2f}"
         except Exception: val = raw
         tpl = tpl.replace(f"{{{{__VAL2DP:{m}__}}}}", val)
 
+    # Yes/No
     for m in re.findall(r"\{\{__VALYESNO:([^}]+)__\}\}", tpl):
         val = str(meta.get(m, "")).strip().lower()
         yes = val in ("1","true","yes","y")
@@ -178,6 +194,7 @@ def render_placeholders(template_text: str, ctx: Dict[str,Any]) -> str:
         out = "Yes" if yes else "No" if no or val else ""
         tpl = tpl.replace(f"{{{{__VALYESNO:{m}__}}}}", out)
 
+    # Links and image
     for m in re.findall(r"\{\{__LINK:([^}]+)__\}\}", tpl):
         url = str(meta.get(m, "")).strip()
         tpl = tpl.replace(f"{{{{__LINK:{m}__}}}}", f"[{url}]({url})" if is_urlish(url) else "")
@@ -186,7 +203,7 @@ def render_placeholders(template_text: str, ctx: Dict[str,Any]) -> str:
         url = str(meta.get(m, "")).strip()
         tpl = tpl.replace(f"{{{{__IMG:{m}__}}}}", f"![{meta.get('title','Image')}]({url})" if url else "")
 
-    # helpers (prefer region for CITY placeholder)
+    # Helpers (prefer region for CITY)
     tpl = tpl.replace("{{__TITLE__}}",   str(meta.get("title") or meta.get("name") or meta.get("titel") or "Untitled"))
     tpl = tpl.replace("{{__DATE_DE__}}", fmt_date_de(meta.get("date") or meta.get("datum") or ""))
     tpl = tpl.replace("{{__CITY__}}",    str(meta.get("region") or meta.get("city") or meta.get("stadt") or meta.get("ort") or ""))
@@ -213,7 +230,7 @@ def write_markdown(out_path: str, fm: dict, ordered: list[str], body: str):
             lines.append(f'{k}: "{esc}"')
         else:
             lines.append(f"{k}: {yaml_escape(v)}")
-    # also ensure these helper fields are present even if not in CSV header
+    # ensure helper fields
     if "slug" not in ordered:   lines.append(f"slug: {yaml_escape(fm.get('slug',''))}")
     if "href" not in ordered:   lines.append(f"href: {yaml_escape(fm.get('href',''))}")
     if "name" not in ordered:   lines.append(f"name: {yaml_escape(fm.get('name',''))}")
@@ -247,8 +264,6 @@ def main():
         for idx, row in enumerate(reader, start=1):
             num_raw = infer_field(row, ["nummer","number","no","id"]) or str(idx)
             number_padded = format_number_for_filename(num_raw, args.pad_width)
-
-            # core fields from CSV
             title_csv = infer_field(row, ["title","titel","name"]) or f"row-{idx}"
             date_raw  = infer_field(row, ["date","datum","created","when","planned_date"])
             date_norm = normalize_date(date_raw)
@@ -256,7 +271,6 @@ def main():
             filename  = f"{number_padded}_{slug_val}_{date_norm}.md"
             out_path  = os.path.join(args.out, filename)
 
-            # front matter straight from CSV (sanitized)
             ordered_fields = list(reader.fieldnames)
             fm = {k: sanitize_value(k, (row.get(k,"") or "").strip()) for k in ordered_fields}
 
@@ -274,7 +288,7 @@ def main():
             if not str(fm.get("name","")).strip():  fm["name"]  = t
             if not str(fm.get("titel","")).strip(): fm["titel"] = t
 
-            # region -> city alias if city empty
+            # region -> city alias
             if str(fm.get("region","")).strip() and not str(fm.get("city","")).strip():
                 fm["city"] = fm["region"]
 
@@ -282,7 +296,7 @@ def main():
             fm["slug"] = fm.get("slug") or slug_val
             fm["href"] = fm.get("href") or f"banner/{number_padded}_{slug_val}_{date_norm}.md"
 
-            # render body via simple placeholders
+            # render
             ctx = {
                 "meta": fm,
                 "number_padded": number_padded,
