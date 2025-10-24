@@ -3,7 +3,7 @@ nummer: "341"
 startLatitude: "52.756491"
 startLongitude: "13.245295"
 titel: "Vendetta in Oranienburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/6f1e553b231a1359d1c13fab72e84fe4"
 region: "Oranienburg"
 country: "Deutschland"
 completed: "7734"
@@ -25,7 +25,7 @@ name: "Vendetta in Oranienburg"
 
 *2021* • Oranienburg • Deutschland
 
-
+![Vendetta in Oranienburg](https://api.bannergress.com/bnrs/pictures/6f1e553b231a1359d1c13fab72e84fe4)
 
 
 

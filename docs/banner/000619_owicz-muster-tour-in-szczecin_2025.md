@@ -15,7 +15,7 @@ description: ""
 lengthKMeters: "1,3"
 umap: ""
 missionDay: ""
-notice: "Ende der Polen Rundreise"
+notice: "Ende der Polen Rundreise [Start der Reise](https-//r3f1s-on-tour.github.io/banner/000613_owicz-muster-tour-in-der-oranienburger-strae_2025/)"
 title: "Łowicz-Muster Tour in Szczecin"
 slug: "owicz-muster-tour-in-szczecin"
 href: "banner/000619_owicz-muster-tour-in-szczecin_2025.md"
@@ -39,7 +39,7 @@ name: "Łowicz-Muster Tour in Szczecin"
   line-height: 1.5;
 ">
   ⚠️ <strong>Notice:</strong><br>
-  Ende der Polen Rundreise
+  Ende der Polen Rundreise [Start der Reise](https-//r3f1s-on-tour.github.io/banner/000613_owicz-muster-tour-in-der-oranienburger-strae_2025/)
 </div>
 
 
