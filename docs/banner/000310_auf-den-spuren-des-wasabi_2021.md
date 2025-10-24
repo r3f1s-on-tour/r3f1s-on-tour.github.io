@@ -3,7 +3,7 @@ nummer: "310"
 startLatitude: "52.517147"
 startLongitude: "13.461454"
 titel: "Auf den Spuren des Wasabi"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/3c7f38ee4ab69d362d75aa30585f2758"
 region: "Berlin"
 country: "Deutschland"
 completed: "7260"
@@ -25,7 +25,7 @@ name: "Auf den Spuren des Wasabi"
 
 *2021* • Berlin • Deutschland
 
-
+![Auf den Spuren des Wasabi](https://api.bannergress.com/bnrs/pictures/3c7f38ee4ab69d362d75aa30585f2758)
 
 
 

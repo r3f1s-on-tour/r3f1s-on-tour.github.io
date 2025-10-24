@@ -3,7 +3,7 @@ nummer: "309"
 startLatitude: "52.514863"
 startLongitude: "13.473202"
 titel: "Mishima Zaibatsu - Tekken Characters"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/181a94002cf9edb3cdbc07ce0471921a"
 region: "Berlin"
 country: "Deutschland"
 completed: "7254"
@@ -25,7 +25,7 @@ name: "Mishima Zaibatsu - Tekken Characters"
 
 *2021* • Berlin • Deutschland
 
-
+![Mishima Zaibatsu - Tekken Characters](https://api.bannergress.com/bnrs/pictures/181a94002cf9edb3cdbc07ce0471921a)
 
 
 

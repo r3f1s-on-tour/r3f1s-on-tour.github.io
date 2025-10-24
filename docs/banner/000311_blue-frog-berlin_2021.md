@@ -3,7 +3,7 @@ nummer: "311"
 startLatitude: "52.553263"
 startLongitude: "13.378403"
 titel: "blue Frog Berlin"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/94d95d601c908cf69770975f6b71d193"
 region: "Berlin"
 country: "Deutschland"
 completed: "7284"
@@ -25,7 +25,7 @@ name: "blue Frog Berlin"
 
 *2021* • Berlin • Deutschland
 
-
+![blue Frog Berlin](https://api.bannergress.com/bnrs/pictures/94d95d601c908cf69770975f6b71d193)
 
 
 
