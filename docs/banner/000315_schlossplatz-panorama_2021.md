@@ -3,7 +3,7 @@ nummer: "315"
 startLatitude: "53.138129"
 startLongitude: "8.215659"
 titel: "Schlossplatz Panorama"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/a6cbc77275aecb122e23c1269fbaf785"
 region: "Oldenburg"
 country: "Deutschland"
 completed: "7338"
@@ -25,7 +25,7 @@ name: "Schlossplatz Panorama"
 
 *2021* • Oldenburg • Deutschland
 
-
+![Schlossplatz Panorama](https://api.bannergress.com/bnrs/pictures/a6cbc77275aecb122e23c1269fbaf785)
 
 
 

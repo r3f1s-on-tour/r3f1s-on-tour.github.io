@@ -3,7 +3,7 @@ nummer: "321"
 startLatitude: "51.537244"
 startLongitude: "9.924205"
 titel: "Göttingen auf dem 10DM Schein"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/bc9cb20330a9a183fcfa0adbd96b5d85"
 region: "Göttingen"
 country: "Deutschland"
 completed: "7452"
@@ -25,7 +25,7 @@ name: "Göttingen auf dem 10DM Schein"
 
 *2021* • Göttingen • Deutschland
 
-
+![Göttingen auf dem 10DM Schein](https://api.bannergress.com/bnrs/pictures/bc9cb20330a9a183fcfa0adbd96b5d85)
 
 
 

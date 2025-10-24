@@ -3,7 +3,7 @@ nummer: "322"
 startLatitude: "51.532711"
 startLongitude: "9.935155"
 titel: "Göttingen Skyline"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/90799817ee2e630bd66d69433213cb6f"
 region: "Göttingen"
 country: "Deutschland"
 completed: "7458"
@@ -25,7 +25,7 @@ name: "Göttingen Skyline"
 
 *2021* • Göttingen • Deutschland
 
-
+![Göttingen Skyline](https://api.bannergress.com/bnrs/pictures/90799817ee2e630bd66d69433213cb6f)
 
 
 

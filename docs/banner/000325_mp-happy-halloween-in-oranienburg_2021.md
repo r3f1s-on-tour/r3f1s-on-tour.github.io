@@ -3,7 +3,7 @@ nummer: "325"
 startLatitude: "52.754504"
 startLongitude: "13.248415"
 titel: "#MP Happy Halloween in Oranienburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/9efad4f591f665b52d713f5bf4f6be77"
 region: "Oranienburg"
 country: "Deutschland"
 completed: "7482"
@@ -25,7 +25,7 @@ name: "#MP Happy Halloween in Oranienburg"
 
 *2021* • Oranienburg • Deutschland
 
-
+![#MP Happy Halloween in Oranienburg](https://api.bannergress.com/bnrs/pictures/9efad4f591f665b52d713f5bf4f6be77)
 
 
 

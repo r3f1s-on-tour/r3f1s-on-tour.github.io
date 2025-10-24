@@ -3,7 +3,7 @@ nummer: "318"
 startLatitude: "52.375425"
 startLongitude: "9.741563"
 titel: "Dark Skyline"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/3ccf6794c856d6455266a5e4704db56f"
 region: "Hannover"
 country: "Deutschland"
 completed: "7386"
@@ -25,7 +25,7 @@ name: "Dark Skyline"
 
 *2021* • Hannover • Deutschland
 
-
+![Dark Skyline](https://api.bannergress.com/bnrs/pictures/3ccf6794c856d6455266a5e4704db56f)
 
 
 

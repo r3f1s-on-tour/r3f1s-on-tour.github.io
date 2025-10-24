@@ -3,7 +3,7 @@ nummer: "319"
 startLatitude: "52.381809"
 startLongitude: "9.717681"
 titel: "Welfenschloss Hannover"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/dfdc96139ed1a555c0a52028ff62b56e"
 region: "Hannover"
 country: "Deutschland"
 completed: "7410"
@@ -25,7 +25,7 @@ name: "Welfenschloss Hannover"
 
 *2021* • Hannover • Deutschland
 
-
+![Welfenschloss Hannover](https://api.bannergress.com/bnrs/pictures/dfdc96139ed1a555c0a52028ff62b56e)
 
 
 

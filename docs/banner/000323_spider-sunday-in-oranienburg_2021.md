@@ -3,7 +3,7 @@ nummer: "323"
 startLatitude: "52.754692"
 startLongitude: "13.236654"
 titel: "Spider Sunday in Oranienburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/1867b1a052509f9c236ed6457447ea51"
 region: "Oranienburg"
 country: "Deutschland"
 completed: "7464"
@@ -25,7 +25,7 @@ name: "Spider Sunday in Oranienburg"
 
 *2021* • Oranienburg • Deutschland
 
-
+![Spider Sunday in Oranienburg](https://api.bannergress.com/bnrs/pictures/1867b1a052509f9c236ed6457447ea51)
 
 
 

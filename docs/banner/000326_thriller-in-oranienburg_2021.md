@@ -3,7 +3,7 @@ nummer: "326"
 startLatitude: "52.754504"
 startLongitude: "13.248415"
 titel: "Thriller in Oranienburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/c91888fb9972fda24c379c9e0453cc3b"
 region: "Oranienburg"
 country: "Deutschland"
 completed: "7500"
@@ -25,7 +25,7 @@ name: "Thriller in Oranienburg"
 
 *2021* • Oranienburg • Deutschland
 
-
+![Thriller in Oranienburg](https://api.bannergress.com/bnrs/pictures/c91888fb9972fda24c379c9e0453cc3b)
 
 
 

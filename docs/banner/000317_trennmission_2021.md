@@ -3,7 +3,7 @@ nummer: "317"
 startLatitude: "52.376816"
 startLongitude: "9.740148"
 titel: "Trennmission"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/6bb2191c1aadeeac74b5f0b7cce734ae"
 region: "Hannover"
 country: "Deutschland"
 completed: "7380"
@@ -25,7 +25,7 @@ name: "Trennmission"
 
 *2021* • Hannover • Deutschland
 
-
+![Trennmission](https://api.bannergress.com/bnrs/pictures/6bb2191c1aadeeac74b5f0b7cce734ae)
 
 
 
