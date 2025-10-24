@@ -16,7 +16,7 @@
   line-height: 1.5;
 ">
   ⚠️ <strong>Notice:</strong><br>
-  {{__VALBR:notice__}}
+  {{__VALBRLINKS:notice__}}
 </div>
 {{__/IF__}}
 
