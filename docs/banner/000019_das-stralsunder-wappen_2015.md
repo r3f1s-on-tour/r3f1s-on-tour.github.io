@@ -47,4 +47,6 @@ Dies ist die 1. Mission für das Stralsunder Wappen!
 
 
 
-> File: `000019_das-stralsunder-wappen_2015.md` • #000019 • Slug: `das-stralsunder-wappen`
+> File: `000019_das-stralsunder-wappen_2015.md`
+> • #000019
+> • Slug: `das-stralsunder-wappen`

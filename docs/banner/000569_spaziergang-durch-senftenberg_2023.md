@@ -49,4 +49,6 @@ Die Festung ist ab ca.17 Uhr geschlossen dann nur noch  Zugang über Treppe am T
 
 
 
-> File: `000569_spaziergang-durch-senftenberg_2023.md` • #000569 • Slug: `spaziergang-durch-senftenberg`
+> File: `000569_spaziergang-durch-senftenberg_2023.md`
+> • #000569
+> • Slug: `spaziergang-durch-senftenberg`

@@ -47,4 +47,6 @@ The Volkspark Friedrichshain is the oldest public park in Berlin, opened 1846. T
 
 
 
-> File: `000280_volkspark-friedrichshain_2020.md` • #000280 • Slug: `volkspark-friedrichshain`
+> File: `000280_volkspark-friedrichshain_2020.md`
+> • #000280
+> • Slug: `volkspark-friedrichshain`

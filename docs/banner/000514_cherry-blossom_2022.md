@@ -47,4 +47,6 @@ Welcome to Bonn! Have a great time and enjoy the Cherry Blossom.
 
 
 
-> File: `000514_cherry-blossom_2022.md` • #000514 • Slug: `cherry-blossom`
+> File: `000514_cherry-blossom_2022.md`
+> • #000514
+> • Slug: `cherry-blossom`

@@ -47,4 +47,6 @@ Mallorca is one of Spain's Balearic Islands in the Mediterranean. It's known for
 
 
 
-> File: `000206_mallorca-skyline_2018.md` • #000206 • Slug: `mallorca-skyline`
+> File: `000206_mallorca-skyline_2018.md`
+> • #000206
+> • Slug: `mallorca-skyline`

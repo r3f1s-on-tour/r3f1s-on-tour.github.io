@@ -40,4 +40,6 @@ name: "Süße Verführung in Augsburg"
 
 
 
-> File: `000147_se-verfhrung-in-augsburg_2018.md` • #000147 • Slug: `se-verfhrung-in-augsburg`
+> File: `000147_se-verfhrung-in-augsburg_2018.md`
+> • #000147
+> • Slug: `se-verfhrung-in-augsburg`

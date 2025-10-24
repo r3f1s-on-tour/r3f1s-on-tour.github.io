@@ -43,4 +43,6 @@ Mache eine kleine Honigbienen Runde durch Oranienburg und hole dir die Bienchen 
 
 
 
-> File: `000441_honey-bees-in-oranienburg_2022.md` • #000441 • Slug: `honey-bees-in-oranienburg`
+> File: `000441_honey-bees-in-oranienburg_2022.md`
+> • #000441
+> • Slug: `honey-bees-in-oranienburg`

@@ -47,4 +47,6 @@ Beginne eine Runde durch Strasburg und entdecke auf deiner Runde Sehenswürdigke
 
 
 
-> File: `000543_a-second-sunday-cat-paws-in-strasburg_2023.md` • #000543 • Slug: `a-second-sunday-cat-paws-in-strasburg`
+> File: `000543_a-second-sunday-cat-paws-in-strasburg_2023.md`
+> • #000543
+> • Slug: `a-second-sunday-cat-paws-in-strasburg`

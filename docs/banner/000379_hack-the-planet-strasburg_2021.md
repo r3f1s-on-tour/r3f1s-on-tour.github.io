@@ -47,4 +47,6 @@ Erkunde die Stadt Strasburg.
 
 
 
-> File: `000379_hack-the-planet-strasburg_2021.md` • #000379 • Slug: `hack-the-planet-strasburg`
+> File: `000379_hack-the-planet-strasburg_2021.md`
+> • #000379
+> • Slug: `hack-the-planet-strasburg`

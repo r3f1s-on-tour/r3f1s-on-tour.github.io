@@ -47,4 +47,6 @@ Diese Missionen führen entlang des Strandbads Brodas und dem Kulturpark von Neu
 
 
 
-> File: `000610_playing-frogs-nb_2025.md` • #000610 • Slug: `playing-frogs-nb`
+> File: `000610_playing-frogs-nb_2025.md`
+> • #000610
+> • Slug: `playing-frogs-nb`

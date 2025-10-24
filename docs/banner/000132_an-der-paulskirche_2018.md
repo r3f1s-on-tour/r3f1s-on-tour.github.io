@@ -40,4 +40,6 @@ name: "An der Paulskirche"
 
 
 
-> File: `000132_an-der-paulskirche_2018.md` • #000132 • Slug: `an-der-paulskirche`
+> File: `000132_an-der-paulskirche_2018.md`
+> • #000132
+> • Slug: `an-der-paulskirche`

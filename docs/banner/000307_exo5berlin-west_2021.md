@@ -47,4 +47,6 @@ This mission banner will show you famous places in Berlin city west. The first m
 
 
 
-> File: `000307_exo5berlin-west_2021.md` • #000307 • Slug: `exo5berlin-west`
+> File: `000307_exo5berlin-west_2021.md`
+> • #000307
+> • Slug: `exo5berlin-west`

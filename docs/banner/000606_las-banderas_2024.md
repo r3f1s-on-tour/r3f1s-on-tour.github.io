@@ -47,4 +47,6 @@ Vamos a pasear desde un gran punto de reunión e interés (La Nau de l'aigua) ha
 
 
 
-> File: `000606_las-banderas_2024.md` • #000606 • Slug: `las-banderas`
+> File: `000606_las-banderas_2024.md`
+> • #000606
+> • Slug: `las-banderas`

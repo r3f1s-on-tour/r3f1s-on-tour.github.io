@@ -47,4 +47,6 @@ Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdig
 
 
 
-> File: `000536_green-wolf-in-oranienburg_2023.md` • #000536 • Slug: `green-wolf-in-oranienburg`
+> File: `000536_green-wolf-in-oranienburg_2023.md`
+> • #000536
+> • Slug: `green-wolf-in-oranienburg`

@@ -47,4 +47,6 @@ name: "Stress an der Isar"
 
 
 
-> File: `000089_stress-an-der-isar_2017.md` • #000089 • Slug: `stress-an-der-isar`
+> File: `000089_stress-an-der-isar_2017.md`
+> • #000089
+> • Slug: `stress-an-der-isar`

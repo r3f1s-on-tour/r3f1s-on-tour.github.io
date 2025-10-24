@@ -43,4 +43,6 @@ Mache eine Entdeckungsrunde durch Strasburg und hole die 8000 ins Profil
 
 
 
-> File: `000363_8000-specops-runde-durch-strasburg_2021.md` • #000363 • Slug: `8000-specops-runde-durch-strasburg`
+> File: `000363_8000-specops-runde-durch-strasburg_2021.md`
+> • #000363
+> • Slug: `8000-specops-runde-durch-strasburg`

@@ -47,4 +47,6 @@ Der Karlsplatz liegt an einer Stelle, über die im Mittelalter die Salzstraße f
 
 
 
-> File: `000032_karlsplatz-stachus_2016.md` • #000032 • Slug: `karlsplatz-stachus`
+> File: `000032_karlsplatz-stachus_2016.md`
+> • #000032
+> • Slug: `karlsplatz-stachus`

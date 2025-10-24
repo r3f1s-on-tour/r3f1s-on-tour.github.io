@@ -47,4 +47,6 @@ A walk through  the neighborhood of the well known Samaviertel.
 
 
 
-> File: `000309_mishima-zaibatsu-tekken-characters_2021.md` • #000309 • Slug: `mishima-zaibatsu-tekken-characters`
+> File: `000309_mishima-zaibatsu-tekken-characters_2021.md`
+> • #000309
+> • Slug: `mishima-zaibatsu-tekken-characters`

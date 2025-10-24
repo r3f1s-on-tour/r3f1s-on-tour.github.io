@@ -47,4 +47,6 @@ Erlebe unsere wunderschöne Stadt an der Donau durch einen schönen Spaziergang!
 
 
 
-> File: `000103_regensburg-donaupanorama_2017.md` • #000103 • Slug: `regensburg-donaupanorama`
+> File: `000103_regensburg-donaupanorama_2017.md`
+> • #000103
+> • Slug: `regensburg-donaupanorama`

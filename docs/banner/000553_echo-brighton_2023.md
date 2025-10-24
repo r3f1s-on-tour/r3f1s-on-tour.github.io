@@ -43,4 +43,6 @@ Führen Sie anlässlich der Echo XM Anomaly in Brighton eine Event-Mission durch
 
 
 
-> File: `000553_echo-brighton_2023.md` • #000553 • Slug: `echo-brighton`
+> File: `000553_echo-brighton_2023.md`
+> • #000553
+> • Slug: `echo-brighton`

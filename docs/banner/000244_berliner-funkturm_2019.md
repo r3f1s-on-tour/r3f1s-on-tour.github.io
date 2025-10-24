@@ -47,4 +47,6 @@ Der Berliner Funkturm ist ein 146,7m hoher Stahlfachwerkturm in Berlin und  eine
 
 
 
-> File: `000244_berliner-funkturm_2019.md` • #000244 • Slug: `berliner-funkturm`
+> File: `000244_berliner-funkturm_2019.md`
+> • #000244
+> • Slug: `berliner-funkturm`

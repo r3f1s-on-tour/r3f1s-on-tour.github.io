@@ -47,4 +47,6 @@ Take a walk around Koeln-Ehrenfeld. This district is known for its variety of st
 
 
 
-> File: `000500_narrenkappe_2022.md` • #000500 • Slug: `narrenkappe`
+> File: `000500_narrenkappe_2022.md`
+> • #000500
+> • Slug: `narrenkappe`

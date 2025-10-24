@@ -44,4 +44,6 @@ name: "Aquarelle Gdansk"
 
 
 
-> File: `000618_aquarelle-gdansk_2025.md` • #000618 • Slug: `aquarelle-gdansk`
+> File: `000618_aquarelle-gdansk_2025.md`
+> • #000618
+> • Slug: `aquarelle-gdansk`

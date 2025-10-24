@@ -47,4 +47,6 @@ Starte auf dem Markt eine Entdeckungsreise durch die Stadt Pasewalk und entdecke
 
 
 
-> File: `000415_retrogaming-ghost-n-goblins_2022.md` • #000415 • Slug: `retrogaming-ghost-n-goblins`
+> File: `000415_retrogaming-ghost-n-goblins_2022.md`
+> • #000415
+> • Slug: `retrogaming-ghost-n-goblins`

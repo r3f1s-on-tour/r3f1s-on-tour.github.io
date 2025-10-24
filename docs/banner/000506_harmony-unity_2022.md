@@ -47,4 +47,6 @@ Genieße diese kleine Runde durch die Düsseldorfer Altstadt und freu dich auf e
 
 
 
-> File: `000506_harmony-unity_2022.md` • #000506 • Slug: `harmony-unity`
+> File: `000506_harmony-unity_2022.md`
+> • #000506
+> • Slug: `harmony-unity`

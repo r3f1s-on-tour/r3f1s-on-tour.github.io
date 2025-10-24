@@ -47,4 +47,6 @@ Help the Toast fight the Illuminati Link-Amp!
 
 
 
-> File: `000556_toastamp-neubrandenburg_2023.md` • #000556 • Slug: `toastamp-neubrandenburg`
+> File: `000556_toastamp-neubrandenburg_2023.md`
+> • #000556
+> • Slug: `toastamp-neubrandenburg`

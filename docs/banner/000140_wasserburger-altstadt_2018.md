@@ -48,4 +48,6 @@ The missions (1-12) should be done in sequence (start @Busbahnhof) to get a nice
 
 
 
-> File: `000140_wasserburger-altstadt_2018.md` • #000140 • Slug: `wasserburger-altstadt`
+> File: `000140_wasserburger-altstadt_2018.md`
+> • #000140
+> • Slug: `wasserburger-altstadt`

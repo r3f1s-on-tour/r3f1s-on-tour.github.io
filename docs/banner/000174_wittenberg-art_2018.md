@@ -47,4 +47,6 @@ eine lustige Runde
 
 
 
-> File: `000174_wittenberg-art_2018.md` • #000174 • Slug: `wittenberg-art`
+> File: `000174_wittenberg-art_2018.md`
+> • #000174
+> • Slug: `wittenberg-art`

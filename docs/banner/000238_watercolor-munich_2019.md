@@ -47,4 +47,6 @@ Quick walk through Munich city. Start/End Marienplatz.
 
 
 
-> File: `000238_watercolor-munich_2019.md` • #000238 • Slug: `watercolor-munich`
+> File: `000238_watercolor-munich_2019.md`
+> • #000238
+> • Slug: `watercolor-munich`

@@ -44,4 +44,6 @@ name: "MD 2020: Berlin,  International Women's Day"
 
 
 
-> File: `000267_md-2020-berlin-international-womens-day_2020.md` • #000267 • Slug: `md-2020-berlin-international-womens-day`
+> File: `000267_md-2020-berlin-international-womens-day_2020.md`
+> • #000267
+> • Slug: `md-2020-berlin-international-womens-day`

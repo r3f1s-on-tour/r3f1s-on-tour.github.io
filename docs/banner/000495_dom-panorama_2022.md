@@ -47,4 +47,6 @@ Diese Mission führt an der Nordseite des Doms vorbei. Alle 24 Missionen ergeben
 
 
 
-> File: `000495_dom-panorama_2022.md` • #000495 • Slug: `dom-panorama`
+> File: `000495_dom-panorama_2022.md`
+> • #000495
+> • Slug: `dom-panorama`

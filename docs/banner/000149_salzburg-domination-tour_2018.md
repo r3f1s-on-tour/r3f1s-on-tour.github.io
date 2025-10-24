@@ -44,4 +44,6 @@ name: "Salzburg Domination Tour"
 
 
 
-> File: `000149_salzburg-domination-tour_2018.md` • #000149 • Slug: `salzburg-domination-tour`
+> File: `000149_salzburg-domination-tour_2018.md`
+> • #000149
+> • Slug: `salzburg-domination-tour`

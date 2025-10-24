@@ -47,4 +47,6 @@ Gehe auf Tour in Oranienburg und finde die 13 Archetypen in Oranienburg. Die Tou
 
 
 
-> File: `000339_find-the-13-archetypes-in-oranienburg_2021.md` • #000339 • Slug: `find-the-13-archetypes-in-oranienburg`
+> File: `000339_find-the-13-archetypes-in-oranienburg_2021.md`
+> • #000339
+> • Slug: `find-the-13-archetypes-in-oranienburg`

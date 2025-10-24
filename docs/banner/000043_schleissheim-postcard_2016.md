@@ -49,4 +49,6 @@ Possible on foot. Bike recommended.
 
 
 
-> File: `000043_schleissheim-postcard_2016.md` • #000043 • Slug: `schleissheim-postcard`
+> File: `000043_schleissheim-postcard_2016.md`
+> • #000043
+> • Slug: `schleissheim-postcard`

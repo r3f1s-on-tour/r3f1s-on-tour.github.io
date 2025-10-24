@@ -47,4 +47,6 @@ Agradable paseo por las calles de Valencia
 
 
 
-> File: `000595_clear-your-mind-valencia_2024.md` • #000595 • Slug: `clear-your-mind-valencia`
+> File: `000595_clear-your-mind-valencia_2024.md`
+> • #000595
+> • Slug: `clear-your-mind-valencia`

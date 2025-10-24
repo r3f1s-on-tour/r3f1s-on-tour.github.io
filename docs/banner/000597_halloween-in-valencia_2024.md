@@ -47,4 +47,6 @@ Discover Valencia at Halloween and get this spooky banner!
 
 
 
-> File: `000597_halloween-in-valencia_2024.md` • #000597 • Slug: `halloween-in-valencia`
+> File: `000597_halloween-in-valencia_2024.md`
+> • #000597
+> • Slug: `halloween-in-valencia`

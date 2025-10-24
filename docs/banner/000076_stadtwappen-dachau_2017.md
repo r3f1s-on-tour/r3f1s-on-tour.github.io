@@ -50,4 +50,6 @@ In rememberance of liberation Dachau's concentration camp.
 
 
 
-> File: `000076_stadtwappen-dachau_2017.md` • #000076 • Slug: `stadtwappen-dachau`
+> File: `000076_stadtwappen-dachau_2017.md`
+> • #000076
+> • Slug: `stadtwappen-dachau`

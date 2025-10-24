@@ -47,4 +47,6 @@ Lass dich verzaubern vom Einhornwal in Neuhausen
 
 
 
-> File: `000163_neuhausen-wal_2018.md` • #000163 • Slug: `neuhausen-wal`
+> File: `000163_neuhausen-wal_2018.md`
+> • #000163
+> • Slug: `neuhausen-wal`

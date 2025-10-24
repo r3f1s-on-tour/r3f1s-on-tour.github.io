@@ -44,4 +44,6 @@ name: "Schlösser in Oberschleißheim"
 
 
 
-> File: `000074_schlsser-in-oberschleiheim_2017.md` • #000074 • Slug: `schlsser-in-oberschleiheim`
+> File: `000074_schlsser-in-oberschleiheim_2017.md`
+> • #000074
+> • Slug: `schlsser-in-oberschleiheim`

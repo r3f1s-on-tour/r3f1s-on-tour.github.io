@@ -47,4 +47,6 @@ Das Bode-Museum ist Bestandteil des Bauensembles der Museumsinsel und Weltkultur
 
 
 
-> File: `000406_museumsinsel_2022.md` • #000406 • Slug: `museumsinsel`
+> File: `000406_museumsinsel_2022.md`
+> • #000406
+> • Slug: `museumsinsel`

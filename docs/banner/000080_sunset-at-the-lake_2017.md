@@ -47,4 +47,6 @@ Erkunde den Wesslinger See und mache ein schönes Bild mit Sonnenuntergang am Se
 
 
 
-> File: `000080_sunset-at-the-lake_2017.md` • #000080 • Slug: `sunset-at-the-lake`
+> File: `000080_sunset-at-the-lake_2017.md`
+> • #000080
+> • Slug: `sunset-at-the-lake`

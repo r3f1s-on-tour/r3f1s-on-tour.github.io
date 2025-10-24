@@ -51,4 +51,6 @@ All credit goes to Banksy. ly <3
 
 
 
-> File: `000515_banksy-stop-and-search_2022.md` • #000515 • Slug: `banksy-stop-and-search`
+> File: `000515_banksy-stop-and-search_2022.md`
+> • #000515
+> • Slug: `banksy-stop-and-search`

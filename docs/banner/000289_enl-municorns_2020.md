@@ -47,4 +47,6 @@ The most mystical anomaly ever would definitely be the Unicorn anomaly in Munich
 
 
 
-> File: `000289_enl-municorns_2020.md` • #000289 • Slug: `enl-municorns`
+> File: `000289_enl-municorns_2020.md`
+> • #000289
+> • Slug: `enl-municorns`

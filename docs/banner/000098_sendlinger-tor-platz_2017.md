@@ -47,4 +47,6 @@ Im Rahmen der großen Stadterweiterung durch Ludwig den Bayern entstand 1285 bis
 
 
 
-> File: `000098_sendlinger-tor-platz_2017.md` • #000098 • Slug: `sendlinger-tor-platz`
+> File: `000098_sendlinger-tor-platz_2017.md`
+> • #000098
+> • Slug: `sendlinger-tor-platz`

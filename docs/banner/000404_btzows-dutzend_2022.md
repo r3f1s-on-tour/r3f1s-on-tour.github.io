@@ -47,4 +47,6 @@ Als Bötzowviertel wird die Ortslage zwischen der Danziger Straße im Nordosten,
 
 
 
-> File: `000404_btzows-dutzend_2022.md` • #000404 • Slug: `btzows-dutzend`
+> File: `000404_btzows-dutzend_2022.md`
+> • #000404
+> • Slug: `btzows-dutzend`

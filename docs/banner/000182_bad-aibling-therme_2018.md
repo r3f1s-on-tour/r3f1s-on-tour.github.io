@@ -47,4 +47,6 @@ Die Therme in Bad Aibling ist jedermann bekannt. Mit Abschluss dieser Missionsse
 
 
 
-> File: `000182_bad-aibling-therme_2018.md` • #000182 • Slug: `bad-aibling-therme`
+> File: `000182_bad-aibling-therme_2018.md`
+> • #000182
+> • Slug: `bad-aibling-therme`

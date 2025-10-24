@@ -47,4 +47,6 @@ Join my cat Kosimo on a journey of discovery from S+U Lichtenberg to Friedrichsf
 
 
 
-> File: `000461_catwalk-kosimo_2022.md` • #000461 • Slug: `catwalk-kosimo`
+> File: `000461_catwalk-kosimo_2022.md`
+> • #000461
+> • Slug: `catwalk-kosimo`

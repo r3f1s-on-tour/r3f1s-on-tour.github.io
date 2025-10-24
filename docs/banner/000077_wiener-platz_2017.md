@@ -47,4 +47,6 @@ Am Wiener Platz befindet sich seit 1889 der kleinste der 4 ständigen Märkte M�
 
 
 
-> File: `000077_wiener-platz_2017.md` • #000077 • Slug: `wiener-platz`
+> File: `000077_wiener-platz_2017.md`
+> • #000077
+> • Slug: `wiener-platz`

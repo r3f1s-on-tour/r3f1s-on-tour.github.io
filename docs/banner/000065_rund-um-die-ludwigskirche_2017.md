@@ -44,4 +44,6 @@ name: "Rund um die Ludwigskirche"
 
 
 
-> File: `000065_rund-um-die-ludwigskirche_2017.md` • #000065 • Slug: `rund-um-die-ludwigskirche`
+> File: `000065_rund-um-die-ludwigskirche_2017.md`
+> • #000065
+> • Slug: `rund-um-die-ludwigskirche`

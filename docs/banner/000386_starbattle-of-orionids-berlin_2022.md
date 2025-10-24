@@ -47,4 +47,6 @@ The Orionids meteor shower, is the most prolific meteor shower associated with H
 
 
 
-> File: `000386_starbattle-of-orionids-berlin_2022.md` • #000386 • Slug: `starbattle-of-orionids-berlin`
+> File: `000386_starbattle-of-orionids-berlin_2022.md`
+> • #000386
+> • Slug: `starbattle-of-orionids-berlin`

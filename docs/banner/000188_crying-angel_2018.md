@@ -47,4 +47,6 @@ Kleine Tour über den alten Nordfriedhof. Vorsicht vor den weinenden Engel
 
 
 
-> File: `000188_crying-angel_2018.md` • #000188 • Slug: `crying-angel`
+> File: `000188_crying-angel_2018.md`
+> • #000188
+> • Slug: `crying-angel`

@@ -47,4 +47,6 @@ Follow the nyan cat through the Treptower park and gain it as companion on your 
 
 
 
-> File: `000270_nyan-cat-walk_2020.md` • #000270 • Slug: `nyan-cat-walk`
+> File: `000270_nyan-cat-walk_2020.md`
+> • #000270
+> • Slug: `nyan-cat-walk`

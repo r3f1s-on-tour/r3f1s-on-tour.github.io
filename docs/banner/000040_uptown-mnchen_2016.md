@@ -47,4 +47,6 @@ Die gläserne Fassade umhüllt das Tragwerk des nach dreijähriger Bauzeit im Ja
 
 
 
-> File: `000040_uptown-mnchen_2016.md` • #000040 • Slug: `uptown-mnchen`
+> File: `000040_uptown-mnchen_2016.md`
+> • #000040
+> • Slug: `uptown-mnchen`

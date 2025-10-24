@@ -48,4 +48,6 @@ Start und Ende der Runde ist am Senefelderplatz
 
 
 
-> File: `000350_mizaru-kikazaru-iwazaru_2021.md` • #000350 • Slug: `mizaru-kikazaru-iwazaru`
+> File: `000350_mizaru-kikazaru-iwazaru_2021.md`
+> • #000350
+> • Slug: `mizaru-kikazaru-iwazaru`

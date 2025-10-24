@@ -47,4 +47,6 @@ A nice walk from Alexanderplatz along the Kollwitzkietz to Brunnenviertel with i
 
 
 
-> File: `000304_nomadic-empire_2021.md` • #000304 • Slug: `nomadic-empire`
+> File: `000304_nomadic-empire_2021.md`
+> • #000304
+> • Slug: `nomadic-empire`

@@ -47,4 +47,6 @@ Sista kriget mellan Sverige och Danmark var i slutet av 1600-talet. Då hade det
 
 
 
-> File: `000200_slaget-om-malm_2018.md` • #000200 • Slug: `slaget-om-malm`
+> File: `000200_slaget-om-malm_2018.md`
+> • #000200
+> • Slug: `slaget-om-malm`

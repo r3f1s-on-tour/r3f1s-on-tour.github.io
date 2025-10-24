@@ -48,4 +48,6 @@ gibt es starke Anzeichen dass es hier auch Aliens gibt. Folge der Route in der r
 
 
 
-> File: `000504_find-the-alien_2022.md` • #000504 • Slug: `find-the-alien`
+> File: `000504_find-the-alien_2022.md`
+> • #000504
+> • Slug: `find-the-alien`

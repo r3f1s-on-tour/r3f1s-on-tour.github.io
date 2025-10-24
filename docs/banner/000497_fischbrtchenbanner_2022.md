@@ -49,4 +49,6 @@ Am Ende des Banners liegt das Pescado. Hier gibt es die Luxusvariante des Fischb
 
 
 
-> File: `000497_fischbrtchenbanner_2022.md` • #000497 • Slug: `fischbrtchenbanner`
+> File: `000497_fischbrtchenbanner_2022.md`
+> • #000497
+> • Slug: `fischbrtchenbanner`

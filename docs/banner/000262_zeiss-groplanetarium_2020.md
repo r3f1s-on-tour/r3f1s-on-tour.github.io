@@ -44,4 +44,6 @@ name: "Zeiss-Großplanetarium"
 
 
 
-> File: `000262_zeiss-groplanetarium_2020.md` • #000262 • Slug: `zeiss-groplanetarium`
+> File: `000262_zeiss-groplanetarium_2020.md`
+> • #000262
+> • Slug: `zeiss-groplanetarium`

@@ -47,4 +47,6 @@ Macht einen kleinen Spaziergang durch die Vorstadt und schaut Euch dabei die Ent
 
 
 
-> File: `000428_the-evolution-of-frog_2022.md` • #000428 • Slug: `the-evolution-of-frog`
+> File: `000428_the-evolution-of-frog_2022.md`
+> • #000428
+> • Slug: `the-evolution-of-frog`

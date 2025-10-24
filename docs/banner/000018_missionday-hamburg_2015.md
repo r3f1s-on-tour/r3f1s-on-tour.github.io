@@ -47,4 +47,6 @@ The Alsterarkaden is the smallest and oldest shopping arcade in Hamburg.
 
 
 
-> File: `000018_missionday-hamburg_2015.md` • #000018 • Slug: `missionday-hamburg`
+> File: `000018_missionday-hamburg_2015.md`
+> • #000018
+> • Slug: `missionday-hamburg`

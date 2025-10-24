@@ -49,4 +49,6 @@ Banner geht am 26.12.2012 offline
 
 
 
-> File: `000372_item-cats-strasburg_2021.md` • #000372 • Slug: `item-cats-strasburg`
+> File: `000372_item-cats-strasburg_2021.md`
+> • #000372
+> • Slug: `item-cats-strasburg`

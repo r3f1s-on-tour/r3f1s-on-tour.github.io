@@ -47,4 +47,6 @@ Eine kleine Runde durch den schönen Stadtteil Dresden Löbtau.
 
 
 
-> File: `000583_toast-heros-dresden_2023.md` • #000583 • Slug: `toast-heros-dresden`
+> File: `000583_toast-heros-dresden_2023.md`
+> • #000583
+> • Slug: `toast-heros-dresden`

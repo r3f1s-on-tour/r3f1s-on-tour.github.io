@@ -47,4 +47,6 @@ Die kolossale und monumental anmutende Bronzestatue der Bavaria wurde im Auftrag
 
 
 
-> File: `000046_bavaria-mnchen_2016.md` • #000046 • Slug: `bavaria-mnchen`
+> File: `000046_bavaria-mnchen_2016.md`
+> • #000046
+> • Slug: `bavaria-mnchen`

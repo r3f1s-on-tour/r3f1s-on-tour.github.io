@@ -43,4 +43,6 @@ Mache eine Entdeckungsrunde durch Strasburg und hole dir paar XMas Panda ins Pro
 
 
 
-> File: `000374_xmas-panda-in-strasburg_2021.md` • #000374 • Slug: `xmas-panda-in-strasburg`
+> File: `000374_xmas-panda-in-strasburg_2021.md`
+> • #000374
+> • Slug: `xmas-panda-in-strasburg`

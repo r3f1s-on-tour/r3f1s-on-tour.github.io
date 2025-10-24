@@ -47,4 +47,6 @@ Entdecke durch die Missionen Neubrandenburg. Die Mission beginnt  und endet im V
 
 
 
-> File: `000422_tiger-of-the-year_2022.md` • #000422 • Slug: `tiger-of-the-year`
+> File: `000422_tiger-of-the-year_2022.md`
+> • #000422
+> • Slug: `tiger-of-the-year`

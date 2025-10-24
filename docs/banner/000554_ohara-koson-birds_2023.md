@@ -47,4 +47,6 @@ Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde Sehenswür
 
 
 
-> File: `000554_ohara-koson-birds_2023.md` • #000554 • Slug: `ohara-koson-birds`
+> File: `000554_ohara-koson-birds_2023.md`
+> • #000554
+> • Slug: `ohara-koson-birds`

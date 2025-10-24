@@ -44,4 +44,6 @@ name: "Chagall Window yellow"
 
 
 
-> File: `000061_chagall-window-yellow_2017.md` • #000061 • Slug: `chagall-window-yellow`
+> File: `000061_chagall-window-yellow_2017.md`
+> • #000061
+> • Slug: `chagall-window-yellow`

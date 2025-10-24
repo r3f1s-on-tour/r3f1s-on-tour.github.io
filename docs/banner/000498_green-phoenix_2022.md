@@ -47,4 +47,6 @@ Willkommen im Wildpark Brück. Entdecke bei 60 Missionen die Vielfalt des Waldes
 
 
 
-> File: `000498_green-phoenix_2022.md` • #000498 • Slug: `green-phoenix`
+> File: `000498_green-phoenix_2022.md`
+> • #000498
+> • Slug: `green-phoenix`

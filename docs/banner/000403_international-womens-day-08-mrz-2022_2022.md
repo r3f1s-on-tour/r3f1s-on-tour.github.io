@@ -47,4 +47,6 @@ Erkunde und Entdecke Berlin am Frauentag
 
 
 
-> File: `000403_international-womens-day-08-mrz-2022_2022.md` • #000403 • Slug: `international-womens-day-08-mrz-2022`
+> File: `000403_international-womens-day-08-mrz-2022_2022.md`
+> • #000403
+> • Slug: `international-womens-day-08-mrz-2022`

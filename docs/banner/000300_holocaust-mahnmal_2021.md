@@ -47,4 +47,6 @@ Dieser Spaziergang durch die Mitte Berlins führt dich an vielen interessanten u
 
 
 
-> File: `000300_holocaust-mahnmal_2021.md` • #000300 • Slug: `holocaust-mahnmal`
+> File: `000300_holocaust-mahnmal_2021.md`
+> • #000300
+> • Slug: `holocaust-mahnmal`

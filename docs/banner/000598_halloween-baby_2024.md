@@ -47,4 +47,6 @@ Recorre nuestra capital y llévate pequeño recuerdo de Halloween 2019
 
 
 
-> File: `000598_halloween-baby_2024.md` • #000598 • Slug: `halloween-baby`
+> File: `000598_halloween-baby_2024.md`
+> • #000598
+> • Slug: `halloween-baby`

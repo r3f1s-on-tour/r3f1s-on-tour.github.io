@@ -49,4 +49,6 @@ Geht am 21.11.2021 offline
 
 
 
-> File: `000346_bannergress-launch-in-oranienburg_2021.md` • #000346 • Slug: `bannergress-launch-in-oranienburg`
+> File: `000346_bannergress-launch-in-oranienburg_2021.md`
+> • #000346
+> • Slug: `bannergress-launch-in-oranienburg`

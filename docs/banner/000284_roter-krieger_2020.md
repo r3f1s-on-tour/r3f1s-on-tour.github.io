@@ -47,4 +47,6 @@ Erkunde die Stadt München ab dem Stachus über den Marienplatz, die Altstadt un
 
 
 
-> File: `000284_roter-krieger_2020.md` • #000284 • Slug: `roter-krieger`
+> File: `000284_roter-krieger_2020.md`
+> • #000284
+> • Slug: `roter-krieger`

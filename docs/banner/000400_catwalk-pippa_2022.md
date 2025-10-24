@@ -47,4 +47,6 @@ Begleite Pippa auf einen Entdeckungsstreifzug vom S+U Lichtenberg nach Friedrich
 
 
 
-> File: `000400_catwalk-pippa_2022.md` • #000400 • Slug: `catwalk-pippa`
+> File: `000400_catwalk-pippa_2022.md`
+> • #000400
+> • Slug: `catwalk-pippa`

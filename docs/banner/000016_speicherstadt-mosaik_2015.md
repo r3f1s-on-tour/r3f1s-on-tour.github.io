@@ -48,4 +48,6 @@ Location- Hamburg Germany
 
 
 
-> File: `000016_speicherstadt-mosaik_2015.md` • #000016 • Slug: `speicherstadt-mosaik`
+> File: `000016_speicherstadt-mosaik_2015.md`
+> • #000016
+> • Slug: `speicherstadt-mosaik`

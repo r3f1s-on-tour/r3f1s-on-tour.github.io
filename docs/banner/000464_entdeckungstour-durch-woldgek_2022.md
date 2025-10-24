@@ -47,4 +47,6 @@ Starte am Marktplatz und entdecke die Windmühlenstadt Woldegek. Auf deinem Aben
 
 
 
-> File: `000464_entdeckungstour-durch-woldgek_2022.md` • #000464 • Slug: `entdeckungstour-durch-woldgek`
+> File: `000464_entdeckungstour-durch-woldgek_2022.md`
+> • #000464
+> • Slug: `entdeckungstour-durch-woldgek`

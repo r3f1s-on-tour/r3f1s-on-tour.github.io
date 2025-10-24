@@ -47,4 +47,6 @@ Schloss Nymphenburg und seine Parkanlage wurden Ende des 17. Jh. geplant und erb
 
 
 
-> File: `000075_nymphenburg_2017.md` • #000075 • Slug: `nymphenburg`
+> File: `000075_nymphenburg_2017.md`
+> • #000075
+> • Slug: `nymphenburg`

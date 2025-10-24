@@ -43,4 +43,6 @@ Mache eine kleine Tour durch Oranienburg und hole dir die XMas Toast ins PRofil
 
 
 
-> File: `000347_beach-xmas-toast-in-oranienburg_2021.md` • #000347 • Slug: `beach-xmas-toast-in-oranienburg`
+> File: `000347_beach-xmas-toast-in-oranienburg_2021.md`
+> • #000347
+> • Slug: `beach-xmas-toast-in-oranienburg`

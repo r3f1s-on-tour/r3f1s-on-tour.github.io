@@ -47,4 +47,6 @@ Der so genannte Friedensengel ist eigentlich der griechischen Siegesgöttin Nike
 
 
 
-> File: `000049_friedensengel_2016.md` • #000049 • Slug: `friedensengel`
+> File: `000049_friedensengel_2016.md`
+> • #000049
+> • Slug: `friedensengel`

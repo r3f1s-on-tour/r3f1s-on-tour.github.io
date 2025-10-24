@@ -47,4 +47,6 @@ On the 9th May of 2020 an epic battle between Enlightened and Resistance will ta
 
 
 
-> File: `000291_visit-requiem-munich-berlin_2020.md` • #000291 • Slug: `visit-requiem-munich-berlin`
+> File: `000291_visit-requiem-munich-berlin_2020.md`
+> • #000291
+> • Slug: `visit-requiem-munich-berlin`

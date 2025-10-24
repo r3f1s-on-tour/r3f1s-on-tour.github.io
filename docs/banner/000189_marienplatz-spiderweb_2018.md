@@ -47,4 +47,6 @@ Such link. Very hack. Wow.
 
 
 
-> File: `000189_marienplatz-spiderweb_2018.md` • #000189 • Slug: `marienplatz-spiderweb`
+> File: `000189_marienplatz-spiderweb_2018.md`
+> • #000189
+> • Slug: `marienplatz-spiderweb`

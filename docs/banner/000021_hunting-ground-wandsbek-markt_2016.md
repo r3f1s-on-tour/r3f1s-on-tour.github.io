@@ -47,4 +47,6 @@ Die sechs Vampir Clans der Camarilla begehren diese Domäne. Welcher Clan wird o
 
 
 
-> File: `000021_hunting-ground-wandsbek-markt_2016.md` • #000021 • Slug: `hunting-ground-wandsbek-markt`
+> File: `000021_hunting-ground-wandsbek-markt_2016.md`
+> • #000021
+> • Slug: `hunting-ground-wandsbek-markt`

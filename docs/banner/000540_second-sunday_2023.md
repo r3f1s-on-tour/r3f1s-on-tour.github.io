@@ -47,4 +47,6 @@ Second Sunday im Oktober 2022 in Neubrandenburg
 
 
 
-> File: `000540_second-sunday_2023.md` • #000540 • Slug: `second-sunday`
+> File: `000540_second-sunday_2023.md`
+> • #000540
+> • Slug: `second-sunday`

@@ -47,4 +47,6 @@ Diese 12er Missionsreihe beginnt in Pankow und geleitet euch durch den Pankow S�
 
 
 
-> File: `000294_pankow-irony_2020.md` • #000294 • Slug: `pankow-irony`
+> File: `000294_pankow-irony_2020.md`
+> • #000294
+> • Slug: `pankow-irony`

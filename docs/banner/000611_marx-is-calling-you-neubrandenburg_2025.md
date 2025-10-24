@@ -47,4 +47,6 @@ Theta Chemnitz is coming! Explore a city in transformation from industrial herit
 
 
 
-> File: `000611_marx-is-calling-you-neubrandenburg_2025.md` • #000611 • Slug: `marx-is-calling-you-neubrandenburg`
+> File: `000611_marx-is-calling-you-neubrandenburg_2025.md`
+> • #000611
+> • Slug: `marx-is-calling-you-neubrandenburg`

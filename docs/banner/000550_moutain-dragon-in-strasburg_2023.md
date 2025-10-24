@@ -47,4 +47,6 @@ Starte am Marktplatz  einen Rundgang und entdecke Strasburg. Auf deinem Abenteue
 
 
 
-> File: `000550_moutain-dragon-in-strasburg_2023.md` • #000550 • Slug: `moutain-dragon-in-strasburg`
+> File: `000550_moutain-dragon-in-strasburg_2023.md`
+> • #000550
+> • Slug: `moutain-dragon-in-strasburg`

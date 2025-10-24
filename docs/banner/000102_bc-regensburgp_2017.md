@@ -47,4 +47,6 @@ Visit the "Historische Wurstkuchl". This is notable as perhaps the oldest contin
 
 
 
-> File: `000102_bc-regensburgp_2017.md` • #000102 • Slug: `bc-regensburgp`
+> File: `000102_bc-regensburgp_2017.md`
+> • #000102
+> • Slug: `bc-regensburgp`

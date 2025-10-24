@@ -47,4 +47,6 @@ Weihnachtliche Pinguine verstecken sich am Dresdner Elbufer. Kannst du sie finde
 
 
 
-> File: `000585_happy-penguins_2023.md` • #000585 • Slug: `happy-penguins`
+> File: `000585_happy-penguins_2023.md`
+> • #000585
+> • Slug: `happy-penguins`

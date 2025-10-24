@@ -47,4 +47,6 @@ name: "MAGNUS Reawakens Szczecin"
 
 
 
-> File: `000093_magnus-reawakens-szczecin_2017.md` • #000093 • Slug: `magnus-reawakens-szczecin`
+> File: `000093_magnus-reawakens-szczecin_2017.md`
+> • #000093
+> • Slug: `magnus-reawakens-szczecin`

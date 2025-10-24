@@ -47,4 +47,6 @@ Teil 2 der großen Wiesnreihe. Start und Ende an der Theresienwiese. Hälfte ist
 
 
 
-> File: `000226_das-groe-wiesn-mosaik-teil-2_2019.md` • #000226 • Slug: `das-groe-wiesn-mosaik-teil-2`
+> File: `000226_das-groe-wiesn-mosaik-teil-2_2019.md`
+> • #000226
+> • Slug: `das-groe-wiesn-mosaik-teil-2`

@@ -44,4 +44,6 @@ name: "Happy Molecule"
 
 
 
-> File: `000274_happy-molecule_2020.md` • #000274 • Slug: `happy-molecule`
+> File: `000274_happy-molecule_2020.md`
+> • #000274
+> • Slug: `happy-molecule`

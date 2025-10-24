@@ -47,4 +47,6 @@ Erlebe mit ein paar Missionen die tolle Halloween Tour in Neubrandenburg.
 
 
 
-> File: `000330_hallow-pumpkin-neubrandenburg_2021.md` • #000330 • Slug: `hallow-pumpkin-neubrandenburg`
+> File: `000330_hallow-pumpkin-neubrandenburg_2021.md`
+> • #000330
+> • Slug: `hallow-pumpkin-neubrandenburg`

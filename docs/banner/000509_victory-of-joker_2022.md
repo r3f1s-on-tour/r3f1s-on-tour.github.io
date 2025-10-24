@@ -47,4 +47,6 @@ Capture die Innenstadt von Wuppertal/Elberfeld. Am besten bringst du viele burst
 
 
 
-> File: `000509_victory-of-joker_2022.md` • #000509 • Slug: `victory-of-joker`
+> File: `000509_victory-of-joker_2022.md`
+> • #000509
+> • Slug: `victory-of-joker`

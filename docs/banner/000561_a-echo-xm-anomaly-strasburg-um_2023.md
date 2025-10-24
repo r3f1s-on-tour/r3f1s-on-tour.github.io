@@ -47,4 +47,6 @@ Führen Sie anlässlich der Echo XM Anomaly in Athen eine Event-Mission durch.
 
 
 
-> File: `000561_a-echo-xm-anomaly-strasburg-um_2023.md` • #000561 • Slug: `a-echo-xm-anomaly-strasburg-um`
+> File: `000561_a-echo-xm-anomaly-strasburg-um_2023.md`
+> • #000561
+> • Slug: `a-echo-xm-anomaly-strasburg-um`

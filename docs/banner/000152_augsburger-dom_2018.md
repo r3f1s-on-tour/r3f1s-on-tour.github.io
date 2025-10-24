@@ -40,4 +40,6 @@ name: "Augsburger Dom"
 
 
 
-> File: `000152_augsburger-dom_2018.md` • #000152 • Slug: `augsburger-dom`
+> File: `000152_augsburger-dom_2018.md`
+> • #000152
+> • Slug: `augsburger-dom`

@@ -49,4 +49,6 @@ Erschaffen hat den Blauen Reiter Franz Marc (1880 – 1916), wo man das Original
 
 
 
-> File: `000045_blauer-reiter-tour_2016.md` • #000045 • Slug: `blauer-reiter-tour`
+> File: `000045_blauer-reiter-tour_2016.md`
+> • #000045
+> • Slug: `blauer-reiter-tour`

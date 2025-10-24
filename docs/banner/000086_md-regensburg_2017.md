@@ -44,4 +44,6 @@ name: "MD Regensburg"
 
 
 
-> File: `000086_md-regensburg_2017.md` • #000086 • Slug: `md-regensburg`
+> File: `000086_md-regensburg_2017.md`
+> • #000086
+> • Slug: `md-regensburg`

@@ -47,4 +47,6 @@ erkunde die Gegend um das Ostkreuz
 
 
 
-> File: `000275_ostkreuz-old_2020.md` • #000275 • Slug: `ostkreuz-old`
+> File: `000275_ostkreuz-old_2020.md`
+> • #000275
+> • Slug: `ostkreuz-old`

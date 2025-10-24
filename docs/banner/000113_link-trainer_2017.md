@@ -47,4 +47,6 @@ Diese Portalreihe führt euch durch Unterschleißheim. Start ist das Infinity Ho
 
 
 
-> File: `000113_link-trainer_2017.md` • #000113 • Slug: `link-trainer`
+> File: `000113_link-trainer_2017.md`
+> • #000113
+> • Slug: `link-trainer`

@@ -47,4 +47,6 @@ Das Treptower Tor ist eines von 4 Toren  in Neubrandenburg. Im Baustil  der nord
 
 
 
-> File: `000562_treptower-tor_2023.md` • #000562 • Slug: `treptower-tor`
+> File: `000562_treptower-tor_2023.md`
+> • #000562
+> • Slug: `treptower-tor`

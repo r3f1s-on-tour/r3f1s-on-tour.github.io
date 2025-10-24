@@ -47,4 +47,6 @@ Das Siegestor wurde 1843 bis 1850 aus Kelheimer Kalkstein errichtet. Am 15. Okto
 
 
 
-> File: `000033_siegestor-mnchen_2016.md` • #000033 • Slug: `siegestor-mnchen`
+> File: `000033_siegestor-mnchen_2016.md`
+> • #000033
+> • Slug: `siegestor-mnchen`

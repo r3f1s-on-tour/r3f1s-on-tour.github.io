@@ -48,4 +48,6 @@ Diese Mission startet am Marienplatz.
 
 
 
-> File: `000155_bayern-flagge_2018.md` • #000155 • Slug: `bayern-flagge`
+> File: `000155_bayern-flagge_2018.md`
+> • #000155
+> • Slug: `bayern-flagge`

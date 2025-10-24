@@ -47,4 +47,6 @@ A Tour through the historical Straubing.
 
 
 
-> File: `000104_topographia-bavariae-straubinga_2017.md` • #000104 • Slug: `topographia-bavariae-straubinga`
+> File: `000104_topographia-bavariae-straubinga_2017.md`
+> • #000104
+> • Slug: `topographia-bavariae-straubinga`

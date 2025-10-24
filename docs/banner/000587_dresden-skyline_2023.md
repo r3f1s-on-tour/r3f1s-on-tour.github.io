@@ -48,4 +48,6 @@ Teil 1 von 12
 
 
 
-> File: `000587_dresden-skyline_2023.md` • #000587 • Slug: `dresden-skyline`
+> File: `000587_dresden-skyline_2023.md`
+> • #000587
+> • Slug: `dresden-skyline`

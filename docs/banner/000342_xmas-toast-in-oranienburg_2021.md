@@ -49,4 +49,6 @@ Geht am 24.11.2021 offline
 
 
 
-> File: `000342_xmas-toast-in-oranienburg_2021.md` • #000342 • Slug: `xmas-toast-in-oranienburg`
+> File: `000342_xmas-toast-in-oranienburg_2021.md`
+> • #000342
+> • Slug: `xmas-toast-in-oranienburg`

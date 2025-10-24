@@ -44,4 +44,6 @@ name: "MissionDay Zürich"
 
 
 
-> File: `000059_missionday-zrich_2017.md` • #000059 • Slug: `missionday-zrich`
+> File: `000059_missionday-zrich_2017.md`
+> • #000059
+> • Slug: `missionday-zrich`

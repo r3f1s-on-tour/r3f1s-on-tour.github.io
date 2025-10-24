@@ -48,4 +48,6 @@ All portals available 24/7
 
 
 
-> File: `000199_i-want-to-be-a-pirate_2018.md` • #000199 • Slug: `i-want-to-be-a-pirate`
+> File: `000199_i-want-to-be-a-pirate_2018.md`
+> • #000199
+> • Slug: `i-want-to-be-a-pirate`

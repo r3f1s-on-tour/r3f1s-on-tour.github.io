@@ -47,4 +47,6 @@ Willkommen am Stralsunder Hauptbahnhof. Von hier aus führt die Missionsreihe in
 
 
 
-> File: `000331_stralsund-aquarell_2021.md` • #000331 • Slug: `stralsund-aquarell`
+> File: `000331_stralsund-aquarell_2021.md`
+> • #000331
+> • Slug: `stralsund-aquarell`

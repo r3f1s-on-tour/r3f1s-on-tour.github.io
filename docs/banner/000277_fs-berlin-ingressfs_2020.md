@@ -47,4 +47,6 @@ Kurze Missionsreihe zum Berliner First Saturday. Bekannte Berliner Motive zusamm
 
 
 
-> File: `000277_fs-berlin-ingressfs_2020.md` • #000277 • Slug: `fs-berlin-ingressfs`
+> File: `000277_fs-berlin-ingressfs_2020.md`
+> • #000277
+> • Slug: `fs-berlin-ingressfs`

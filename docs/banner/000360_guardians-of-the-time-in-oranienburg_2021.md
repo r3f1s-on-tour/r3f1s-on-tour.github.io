@@ -43,4 +43,6 @@ Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße un
 
 
 
-> File: `000360_guardians-of-the-time-in-oranienburg_2021.md` • #000360 • Slug: `guardians-of-the-time-in-oranienburg`
+> File: `000360_guardians-of-the-time-in-oranienburg_2021.md`
+> • #000360
+> • Slug: `guardians-of-the-time-in-oranienburg`

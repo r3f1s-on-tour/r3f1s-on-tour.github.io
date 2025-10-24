@@ -48,4 +48,6 @@ Discover the most emblematic places in Valencia and complete this beautiful bann
 
 
 
-> File: `000604_valencia-skyline_2024.md` • #000604 • Slug: `valencia-skyline`
+> File: `000604_valencia-skyline_2024.md`
+> • #000604
+> • Slug: `valencia-skyline`

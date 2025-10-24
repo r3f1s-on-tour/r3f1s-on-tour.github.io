@@ -48,4 +48,6 @@ Beginnend am Bahnhof, vorbei am Zoo und über Zentralpark kommt Ihr zum Schluss 
 
 
 
-> File: `000570_general-hulk-in-hoyerswerda_2023.md` • #000570 • Slug: `general-hulk-in-hoyerswerda`
+> File: `000570_general-hulk-in-hoyerswerda_2023.md`
+> • #000570
+> • Slug: `general-hulk-in-hoyerswerda`

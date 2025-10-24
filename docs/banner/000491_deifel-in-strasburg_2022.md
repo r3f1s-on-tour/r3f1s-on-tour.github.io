@@ -43,4 +43,6 @@ Starte am Marktplatz  einen Rundgang und entdecke Strasburg. Auf deinem Abenteue
 
 
 
-> File: `000491_deifel-in-strasburg_2022.md` • #000491 • Slug: `deifel-in-strasburg`
+> File: `000491_deifel-in-strasburg_2022.md`
+> • #000491
+> • Slug: `deifel-in-strasburg`

@@ -47,4 +47,6 @@ Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> File: `000535_green-surfer-in-oranienburg_2023.md` • #000535 • Slug: `green-surfer-in-oranienburg`
+> File: `000535_green-surfer-in-oranienburg_2023.md`
+> • #000535
+> • Slug: `green-surfer-in-oranienburg`

@@ -43,4 +43,6 @@ Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> File: `000345_mr-pumpkin-slasher-in-oranienburg-part-2_2021.md` • #000345 • Slug: `mr-pumpkin-slasher-in-oranienburg-part-2`
+> File: `000345_mr-pumpkin-slasher-in-oranienburg-part-2_2021.md`
+> • #000345
+> • Slug: `mr-pumpkin-slasher-in-oranienburg-part-2`

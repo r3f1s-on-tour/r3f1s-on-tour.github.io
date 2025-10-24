@@ -44,4 +44,6 @@ name: "Raute Blau Weiß 2"
 
 
 
-> File: `000225_raute-blau-wei-2_2019.md` • #000225 • Slug: `raute-blau-wei-2`
+> File: `000225_raute-blau-wei-2_2019.md`
+> • #000225
+> • Slug: `raute-blau-wei-2`

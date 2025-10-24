@@ -47,4 +47,6 @@ Das Frankfurter Tor ist heute ein Platz im Berliner Ortsteil Friedrichshain am �
 
 
 
-> File: `000243_frankfurter-tor_2019.md` • #000243 • Slug: `frankfurter-tor`
+> File: `000243_frankfurter-tor_2019.md`
+> • #000243
+> • Slug: `frankfurter-tor`

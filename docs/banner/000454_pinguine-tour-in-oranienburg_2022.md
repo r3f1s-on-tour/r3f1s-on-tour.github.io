@@ -49,4 +49,6 @@ Banner ist bis 01.06.2022 online
 
 
 
-> File: `000454_pinguine-tour-in-oranienburg_2022.md` • #000454 • Slug: `pinguine-tour-in-oranienburg`
+> File: `000454_pinguine-tour-in-oranienburg_2022.md`
+> • #000454
+> • Slug: `pinguine-tour-in-oranienburg`

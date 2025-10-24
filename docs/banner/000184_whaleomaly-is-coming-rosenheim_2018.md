@@ -48,4 +48,6 @@ Explore Rosenheims Whales! Take them with you to unite at the Whaleomaly Linz!
 
 
 
-> File: `000184_whaleomaly-is-coming-rosenheim_2018.md` • #000184 • Slug: `whaleomaly-is-coming-rosenheim`
+> File: `000184_whaleomaly-is-coming-rosenheim_2018.md`
+> • #000184
+> • Slug: `whaleomaly-is-coming-rosenheim`

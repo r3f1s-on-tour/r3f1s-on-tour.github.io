@@ -47,4 +47,6 @@ Welcome to Nürnberg! Starting at Handwerkerhof across the main station this mis
 
 
 
-> File: `000068_missionday-kaiserburg_2017.md` • #000068 • Slug: `missionday-kaiserburg`
+> File: `000068_missionday-kaiserburg_2017.md`
+> • #000068
+> • Slug: `missionday-kaiserburg`

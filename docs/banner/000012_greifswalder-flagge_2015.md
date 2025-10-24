@@ -47,4 +47,6 @@ Zeige Flagge für die einzigartige Universitäts- und Hansestadt Greifswald! Die
 
 
 
-> File: `000012_greifswalder-flagge_2015.md` • #000012 • Slug: `greifswalder-flagge`
+> File: `000012_greifswalder-flagge_2015.md`
+> • #000012
+> • Slug: `greifswalder-flagge`

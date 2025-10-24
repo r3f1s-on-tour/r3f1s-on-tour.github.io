@@ -47,4 +47,6 @@ Der Chinesische Turm wurde in den Jahren 1789 bis 1790 erbaut und 1792 mit der E
 
 
 
-> File: `000050_weihnachten-am-chinesischen-turm_2016.md` • #000050 • Slug: `weihnachten-am-chinesischen-turm`
+> File: `000050_weihnachten-am-chinesischen-turm_2016.md`
+> • #000050
+> • Slug: `weihnachten-am-chinesischen-turm`

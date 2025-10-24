@@ -47,4 +47,6 @@ In der fast fertig sanierten Innenstadt kann man gut shoppen, altes und neues en
 
 
 
-> File: `000026_drachenfrau_2016.md` • #000026 • Slug: `drachenfrau`
+> File: `000026_drachenfrau_2016.md`
+> • #000026
+> • Slug: `drachenfrau`

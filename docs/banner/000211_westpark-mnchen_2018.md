@@ -47,4 +47,6 @@ Spaziergang durch den Westpark. Start ist an der U-Bahnstation Holzapfelkreuth, 
 
 
 
-> File: `000211_westpark-mnchen_2018.md` • #000211 • Slug: `westpark-mnchen`
+> File: `000211_westpark-mnchen_2018.md`
+> • #000211
+> • Slug: `westpark-mnchen`

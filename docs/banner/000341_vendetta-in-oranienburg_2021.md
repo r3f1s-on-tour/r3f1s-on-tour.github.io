@@ -47,4 +47,6 @@ Starte eine Vendetta in Oranienburg und mache ein Tour durch die Stadt. Die Tour
 
 
 
-> File: `000341_vendetta-in-oranienburg_2021.md` • #000341 • Slug: `vendetta-in-oranienburg`
+> File: `000341_vendetta-in-oranienburg_2021.md`
+> • #000341
+> • Slug: `vendetta-in-oranienburg`

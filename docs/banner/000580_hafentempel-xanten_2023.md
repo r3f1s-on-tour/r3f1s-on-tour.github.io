@@ -47,4 +47,6 @@ Dieses 18 Mosaik führt durch den APX.  Hier muss man Eintritt bezahlen. die Pre
 
 
 
-> File: `000580_hafentempel-xanten_2023.md` • #000580 • Slug: `hafentempel-xanten`
+> File: `000580_hafentempel-xanten_2023.md`
+> • #000580
+> • Slug: `hafentempel-xanten`

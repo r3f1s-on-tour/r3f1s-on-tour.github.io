@@ -47,4 +47,6 @@ This is where we fought them! This is where we stood our ground! Remember this d
 
 
 
-> File: `000390_exo5-berlin-resistance-victory_2022.md` • #000390 • Slug: `exo5-berlin-resistance-victory`
+> File: `000390_exo5-berlin-resistance-victory_2022.md`
+> • #000390
+> • Slug: `exo5-berlin-resistance-victory`

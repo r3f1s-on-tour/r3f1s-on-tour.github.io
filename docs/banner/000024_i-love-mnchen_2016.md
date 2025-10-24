@@ -47,4 +47,6 @@ I love München.
 
 
 
-> File: `000024_i-love-mnchen_2016.md` • #000024 • Slug: `i-love-mnchen`
+> File: `000024_i-love-mnchen_2016.md`
+> • #000024
+> • Slug: `i-love-mnchen`

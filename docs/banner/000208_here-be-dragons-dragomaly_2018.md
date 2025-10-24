@@ -44,4 +44,6 @@ name: "Here Be Dragons - Dragomaly"
 
 
 
-> File: `000208_here-be-dragons-dragomaly_2018.md` • #000208 • Slug: `here-be-dragons-dragomaly`
+> File: `000208_here-be-dragons-dragomaly_2018.md`
+> • #000208
+> • Slug: `here-be-dragons-dragomaly`

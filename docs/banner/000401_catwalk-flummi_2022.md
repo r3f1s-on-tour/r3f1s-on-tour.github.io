@@ -47,4 +47,6 @@ Begleite Flummi auf einen Entdeckungsstreifzug vom S+U Lichtenberg nach Friedric
 
 
 
-> File: `000401_catwalk-flummi_2022.md` • #000401 • Slug: `catwalk-flummi`
+> File: `000401_catwalk-flummi_2022.md`
+> • #000401
+> • Slug: `catwalk-flummi`

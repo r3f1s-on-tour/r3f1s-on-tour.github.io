@@ -40,4 +40,6 @@ name: "Ingress First Saturday FFB 03 09 2016"
 
 
 
-> File: `000035_ingress-first-saturday-ffb-03-09-2016_2016.md` • #000035 • Slug: `ingress-first-saturday-ffb-03-09-2016`
+> File: `000035_ingress-first-saturday-ffb-03-09-2016_2016.md`
+> • #000035
+> • Slug: `ingress-first-saturday-ffb-03-09-2016`

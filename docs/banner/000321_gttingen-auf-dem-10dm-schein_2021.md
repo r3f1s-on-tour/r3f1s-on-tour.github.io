@@ -47,4 +47,6 @@ Auf dem letzten 10 Deutsche Mark Schein waren die Sternwarte, die Johanniskirche
 
 
 
-> File: `000321_gttingen-auf-dem-10dm-schein_2021.md` • #000321 • Slug: `gttingen-auf-dem-10dm-schein`
+> File: `000321_gttingen-auf-dem-10dm-schein_2021.md`
+> • #000321
+> • Slug: `gttingen-auf-dem-10dm-schein`

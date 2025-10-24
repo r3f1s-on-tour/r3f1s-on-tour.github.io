@@ -43,4 +43,6 @@ Mache eine kleine Tour mit Bengalos durch Oranienburg und starte am Bahnhof
 
 
 
-> File: `000343_mister-universe-in-oranienburg_2021.md` • #000343 • Slug: `mister-universe-in-oranienburg`
+> File: `000343_mister-universe-in-oranienburg_2021.md`
+> • #000343
+> • Slug: `mister-universe-in-oranienburg`

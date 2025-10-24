@@ -44,4 +44,6 @@ name: "Vier-Tore-Stadt"
 
 
 
-> File: `000116_vier-tore-stadt_2017.md` • #000116 • Slug: `vier-tore-stadt`
+> File: `000116_vier-tore-stadt_2017.md`
+> • #000116
+> • Slug: `vier-tore-stadt`

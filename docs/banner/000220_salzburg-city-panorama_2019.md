@@ -47,4 +47,6 @@ Salzburg City Panorama
 
 
 
-> File: `000220_salzburg-city-panorama_2019.md` • #000220 • Slug: `salzburg-city-panorama`
+> File: `000220_salzburg-city-panorama_2019.md`
+> • #000220
+> • Slug: `salzburg-city-panorama`

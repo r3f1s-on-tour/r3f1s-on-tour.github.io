@@ -48,4 +48,6 @@ Schon Caspar David Friedrich erkannte 1816 die Schönheit der Stadt.
 
 
 
-> File: `000007_neubrandenburg-im-morgennebel_2015.md` • #000007 • Slug: `neubrandenburg-im-morgennebel`
+> File: `000007_neubrandenburg-im-morgennebel_2015.md`
+> • #000007
+> • Slug: `neubrandenburg-im-morgennebel`

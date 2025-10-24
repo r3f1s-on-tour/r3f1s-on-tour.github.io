@@ -43,4 +43,6 @@ Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße un
 
 
 
-> File: `000348_3-schwerter-stil-in-oranienburg_2021.md` • #000348 • Slug: `3-schwerter-stil-in-oranienburg`
+> File: `000348_3-schwerter-stil-in-oranienburg_2021.md`
+> • #000348
+> • Slug: `3-schwerter-stil-in-oranienburg`

@@ -47,4 +47,6 @@ Genieße die frische Luft
 
 
 
-> File: `000263_brunnenviertel_2020.md` • #000263 • Slug: `brunnenviertel`
+> File: `000263_brunnenviertel_2020.md`
+> • #000263
+> • Slug: `brunnenviertel`

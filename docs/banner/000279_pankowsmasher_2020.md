@@ -47,4 +47,6 @@ Diese Mission beginnt in Pankow und geleitet euch vorbei an wunderschönen Wasse
 
 
 
-> File: `000279_pankowsmasher_2020.md` • #000279 • Slug: `pankowsmasher`
+> File: `000279_pankowsmasher_2020.md`
+> • #000279
+> • Slug: `pankowsmasher`

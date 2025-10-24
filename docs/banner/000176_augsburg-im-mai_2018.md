@@ -40,4 +40,6 @@ name: "Augsburg im Mai"
 
 
 
-> File: `000176_augsburg-im-mai_2018.md` • #000176 • Slug: `augsburg-im-mai`
+> File: `000176_augsburg-im-mai_2018.md`
+> • #000176
+> • Slug: `augsburg-im-mai`

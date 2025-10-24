@@ -47,4 +47,6 @@ Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und end
 
 
 
-> File: `000480_halloween-coffees-in-oranienburg_2022.md` • #000480 • Slug: `halloween-coffees-in-oranienburg`
+> File: `000480_halloween-coffees-in-oranienburg_2022.md`
+> • #000480
+> • Slug: `halloween-coffees-in-oranienburg`

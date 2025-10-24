@@ -44,4 +44,6 @@ name: "Sweet Unicorn"
 
 
 
-> File: `000255_sweet-unicorn_2019.md` • #000255 • Slug: `sweet-unicorn`
+> File: `000255_sweet-unicorn_2019.md`
+> • #000255
+> • Slug: `sweet-unicorn`

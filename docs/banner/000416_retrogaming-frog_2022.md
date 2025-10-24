@@ -47,4 +47,6 @@ Starte auf dem Markt eine Entdeckungsreise durch die Stadt Pasewalk und entdecke
 
 
 
-> File: `000416_retrogaming-frog_2022.md` • #000416 • Slug: `retrogaming-frog`
+> File: `000416_retrogaming-frog_2022.md`
+> • #000416
+> • Slug: `retrogaming-frog`

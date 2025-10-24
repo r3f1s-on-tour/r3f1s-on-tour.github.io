@@ -40,4 +40,6 @@ name: "Vicke Schorler Rolle"
 
 
 
-> File: `000002_vicke-schorler-rolle_2015.md` • #000002 • Slug: `vicke-schorler-rolle`
+> File: `000002_vicke-schorler-rolle_2015.md`
+> • #000002
+> • Slug: `vicke-schorler-rolle`

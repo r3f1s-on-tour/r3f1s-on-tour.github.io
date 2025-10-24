@@ -48,4 +48,6 @@ Zwei der besten Konzertlocations in Berlin.
 
 
 
-> File: `000302_berlin-musikalisch_2021.md` • #000302 • Slug: `berlin-musikalisch`
+> File: `000302_berlin-musikalisch_2021.md`
+> • #000302
+> • Slug: `berlin-musikalisch`

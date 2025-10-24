@@ -49,4 +49,6 @@ Nur nach Aufforderung hacken.
 
 
 
-> File: `000187_aiblinger-wolf_2018.md` • #000187 • Slug: `aiblinger-wolf`
+> File: `000187_aiblinger-wolf_2018.md`
+> • #000187
+> • Slug: `aiblinger-wolf`

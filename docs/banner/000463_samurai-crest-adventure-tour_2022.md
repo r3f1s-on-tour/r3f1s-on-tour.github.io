@@ -43,4 +43,6 @@ Starte deine Samurai Crests Adeventure Tour in der Stadt Strasburg Uckermark und
 
 
 
-> File: `000463_samurai-crest-adventure-tour_2022.md` • #000463 • Slug: `samurai-crest-adventure-tour`
+> File: `000463_samurai-crest-adventure-tour_2022.md`
+> • #000463
+> • Slug: `samurai-crest-adventure-tour`

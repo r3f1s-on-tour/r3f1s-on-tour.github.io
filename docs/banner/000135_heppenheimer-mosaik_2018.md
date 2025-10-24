@@ -48,4 +48,6 @@ Wenn die Missionen in richtiger Reihenfolge durchgeführt werden fügt sich ein 
 
 
 
-> File: `000135_heppenheimer-mosaik_2018.md` • #000135 • Slug: `heppenheimer-mosaik`
+> File: `000135_heppenheimer-mosaik_2018.md`
+> • #000135
+> • Slug: `heppenheimer-mosaik`

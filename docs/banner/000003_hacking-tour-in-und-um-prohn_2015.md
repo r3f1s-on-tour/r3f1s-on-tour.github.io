@@ -40,4 +40,6 @@ name: "Hacking Tour in und um Prohn"
 
 
 
-> File: `000003_hacking-tour-in-und-um-prohn_2015.md` • #000003 • Slug: `hacking-tour-in-und-um-prohn`
+> File: `000003_hacking-tour-in-und-um-prohn_2015.md`
+> • #000003
+> • Slug: `hacking-tour-in-und-um-prohn`

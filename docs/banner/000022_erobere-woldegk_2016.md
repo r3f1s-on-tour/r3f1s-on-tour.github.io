@@ -44,4 +44,6 @@ name: "Erobere Woldegk"
 
 
 
-> File: `000022_erobere-woldegk_2016.md` • #000022 • Slug: `erobere-woldegk`
+> File: `000022_erobere-woldegk_2016.md`
+> • #000022
+> • Slug: `erobere-woldegk`

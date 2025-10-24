@@ -47,4 +47,6 @@ See Berlin in the Green Sunrise
 
 
 
-> File: `000460_berlin-green-sunrise_2022.md` • #000460 • Slug: `berlin-green-sunrise`
+> File: `000460_berlin-green-sunrise_2022.md`
+> • #000460
+> • Slug: `berlin-green-sunrise`

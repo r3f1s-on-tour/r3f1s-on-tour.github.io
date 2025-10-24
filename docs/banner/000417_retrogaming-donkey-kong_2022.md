@@ -47,4 +47,6 @@ Starte auf dem Markt eine Entdeckungsreise durch die Stadt Pasewalk und entdecke
 
 
 
-> File: `000417_retrogaming-donkey-kong_2022.md` • #000417 • Slug: `retrogaming-donkey-kong`
+> File: `000417_retrogaming-donkey-kong_2022.md`
+> • #000417
+> • Slug: `retrogaming-donkey-kong`

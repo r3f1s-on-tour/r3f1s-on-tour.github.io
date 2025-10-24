@@ -47,4 +47,6 @@ Der kleine Drache schlüpft am S+U Bhf Lichtenberg. Begleite ihn Richtung Friedr
 
 
 
-> File: `000399_green-dragon_2022.md` • #000399 • Slug: `green-dragon`
+> File: `000399_green-dragon_2022.md`
+> • #000399
+> • Slug: `green-dragon`

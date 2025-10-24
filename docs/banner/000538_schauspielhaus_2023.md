@@ -47,4 +47,6 @@ Das Schauspielhaus befindet sich im Zentrum von Neubrandenburg. Es ist das älte
 
 
 
-> File: `000538_schauspielhaus_2023.md` • #000538 • Slug: `schauspielhaus`
+> File: `000538_schauspielhaus_2023.md`
+> • #000538
+> • Slug: `schauspielhaus`

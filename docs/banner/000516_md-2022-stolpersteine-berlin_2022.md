@@ -47,4 +47,6 @@ Part of MD 2022- Stolpersteine
 
 
 
-> File: `000516_md-2022-stolpersteine-berlin_2022.md` • #000516 • Slug: `md-2022-stolpersteine-berlin`
+> File: `000516_md-2022-stolpersteine-berlin_2022.md`
+> • #000516
+> • Slug: `md-2022-stolpersteine-berlin`

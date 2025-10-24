@@ -47,4 +47,6 @@ Explore the famous Bötzowviertel in Prenzlauer Berg and get a banner that shows
 
 
 
-> File: `000405_missionproject-make-love-not-war-berlin_2022.md` • #000405 • Slug: `missionproject-make-love-not-war-berlin`
+> File: `000405_missionproject-make-love-not-war-berlin_2022.md`
+> • #000405
+> • Slug: `missionproject-make-love-not-war-berlin`

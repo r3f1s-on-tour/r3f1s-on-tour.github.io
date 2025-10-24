@@ -47,4 +47,6 @@ Eine Reise durch den schönen Landkreis Fürstenfeldbruck.
 
 
 
-> File: `000039_time-space-und-frstenfeldbruck_2016.md` • #000039 • Slug: `time-space-und-frstenfeldbruck`
+> File: `000039_time-space-und-frstenfeldbruck_2016.md`
+> • #000039
+> • Slug: `time-space-und-frstenfeldbruck`

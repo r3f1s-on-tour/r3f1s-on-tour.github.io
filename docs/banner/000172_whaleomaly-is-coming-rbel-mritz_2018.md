@@ -44,4 +44,6 @@ name: "Whaleomaly is Coming [Röbel Müritz]"
 
 
 
-> File: `000172_whaleomaly-is-coming-rbel-mritz_2018.md` • #000172 • Slug: `whaleomaly-is-coming-rbel-mritz`
+> File: `000172_whaleomaly-is-coming-rbel-mritz_2018.md`
+> • #000172
+> • Slug: `whaleomaly-is-coming-rbel-mritz`

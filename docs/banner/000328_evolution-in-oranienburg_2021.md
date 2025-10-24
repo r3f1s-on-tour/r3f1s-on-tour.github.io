@@ -47,4 +47,6 @@ Eine kleine Entdeckungsrunde durch Oranienburg. Die Reihe startet am Bahnhof und
 
 
 
-> File: `000328_evolution-in-oranienburg_2021.md` • #000328 • Slug: `evolution-in-oranienburg`
+> File: `000328_evolution-in-oranienburg_2021.md`
+> • #000328
+> • Slug: `evolution-in-oranienburg`

@@ -47,4 +47,6 @@ name: "Festung Hohensalzburg"
 
 
 
-> File: `000221_festung-hohensalzburg_2019.md` • #000221 • Slug: `festung-hohensalzburg`
+> File: `000221_festung-hohensalzburg_2019.md`
+> • #000221
+> • Slug: `festung-hohensalzburg`

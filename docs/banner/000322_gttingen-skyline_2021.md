@@ -47,4 +47,6 @@ kleiner walk durch die Stadt vom Liesel bis zum Rathaus. Teil 1 führt dich zur 
 
 
 
-> File: `000322_gttingen-skyline_2021.md` • #000322 • Slug: `gttingen-skyline`
+> File: `000322_gttingen-skyline_2021.md`
+> • #000322
+> • Slug: `gttingen-skyline`

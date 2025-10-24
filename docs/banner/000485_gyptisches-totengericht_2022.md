@@ -47,4 +47,6 @@ Betritt die Halle der vollständigen Wahrheit und lasse dein Herz wiegen.
 
 
 
-> File: `000485_gyptisches-totengericht_2022.md` • #000485 • Slug: `gyptisches-totengericht`
+> File: `000485_gyptisches-totengericht_2022.md`
+> • #000485
+> • Slug: `gyptisches-totengericht`

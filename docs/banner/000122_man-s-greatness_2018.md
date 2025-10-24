@@ -47,4 +47,6 @@ Inspired by the artwork of  Scott Manley, leading my dear fellows in a new area 
 
 
 
-> File: `000122_man-s-greatness_2018.md` • #000122 • Slug: `man-s-greatness`
+> File: `000122_man-s-greatness_2018.md`
+> • #000122
+> • Slug: `man-s-greatness`

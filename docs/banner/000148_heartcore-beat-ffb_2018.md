@@ -44,4 +44,6 @@ name: "HeartCore Beat FFB"
 
 
 
-> File: `000148_heartcore-beat-ffb_2018.md` • #000148 • Slug: `heartcore-beat-ffb`
+> File: `000148_heartcore-beat-ffb_2018.md`
+> • #000148
+> • Slug: `heartcore-beat-ffb`

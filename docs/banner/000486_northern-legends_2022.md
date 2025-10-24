@@ -47,4 +47,6 @@ Follow your path through the neighborhood of Friedrichshain.
 
 
 
-> File: `000486_northern-legends_2022.md` • #000486 • Slug: `northern-legends`
+> File: `000486_northern-legends_2022.md`
+> • #000486
+> • Slug: `northern-legends`

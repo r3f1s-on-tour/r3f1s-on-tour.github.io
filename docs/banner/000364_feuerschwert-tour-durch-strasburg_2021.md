@@ -43,4 +43,6 @@ Mache eine Entdeckungsrunde durch Strasburg und hole dir ein Feuerschwert ins PR
 
 
 
-> File: `000364_feuerschwert-tour-durch-strasburg_2021.md` • #000364 • Slug: `feuerschwert-tour-durch-strasburg`
+> File: `000364_feuerschwert-tour-durch-strasburg_2021.md`
+> • #000364
+> • Slug: `feuerschwert-tour-durch-strasburg`

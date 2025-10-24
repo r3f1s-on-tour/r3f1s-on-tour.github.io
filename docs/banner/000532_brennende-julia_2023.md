@@ -43,4 +43,6 @@ Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdig
 
 
 
-> File: `000532_brennende-julia_2023.md` • #000532 • Slug: `brennende-julia`
+> File: `000532_brennende-julia_2023.md`
+> • #000532
+> • Slug: `brennende-julia`

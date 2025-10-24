@@ -47,4 +47,6 @@ name: "Whaleomaly Is Here"
 
 
 
-> File: `000203_whaleomaly-is-here_2018.md` • #000203 • Slug: `whaleomaly-is-here`
+> File: `000203_whaleomaly-is-here_2018.md`
+> • #000203
+> • Slug: `whaleomaly-is-here`

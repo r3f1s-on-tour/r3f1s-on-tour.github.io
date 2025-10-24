@@ -47,4 +47,6 @@ Vom Dänholm entlang des Strelasunds in Richtung  Parow charakterisiert die neue
 
 
 
-> File: `000005_silhouette-von-stralsund_2015.md` • #000005 • Slug: `silhouette-von-stralsund`
+> File: `000005_silhouette-von-stralsund_2015.md`
+> • #000005
+> • Slug: `silhouette-von-stralsund`

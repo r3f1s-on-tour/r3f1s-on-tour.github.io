@@ -47,4 +47,6 @@ Erkunde die Stadt München ab dem Karlsplatz durch die Maxvorstadt bis zum Haupt
 
 
 
-> File: `000285_grner-krieger_2020.md` • #000285 • Slug: `grner-krieger`
+> File: `000285_grner-krieger_2020.md`
+> • #000285
+> • Slug: `grner-krieger`

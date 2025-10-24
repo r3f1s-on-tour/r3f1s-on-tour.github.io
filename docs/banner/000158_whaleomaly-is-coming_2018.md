@@ -49,4 +49,6 @@ Explore Munichs Whales! Take them with you to unite at the Whaleomaly Linz!
 
 
 
-> File: `000158_whaleomaly-is-coming_2018.md` • #000158 • Slug: `whaleomaly-is-coming`
+> File: `000158_whaleomaly-is-coming_2018.md`
+> • #000158
+> • Slug: `whaleomaly-is-coming`

@@ -40,4 +40,6 @@ name: "Goldener Saal Augsburg"
 
 
 
-> File: `000125_goldener-saal-augsburg_2018.md` • #000125 • Slug: `goldener-saal-augsburg`
+> File: `000125_goldener-saal-augsburg_2018.md`
+> • #000125
+> • Slug: `goldener-saal-augsburg`

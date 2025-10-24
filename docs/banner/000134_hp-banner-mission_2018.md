@@ -47,4 +47,6 @@ Schön gemütliche Tour durch die Heppenheimer Fußgängerzone und Altstadt. Bei
 
 
 
-> File: `000134_hp-banner-mission_2018.md` • #000134 • Slug: `hp-banner-mission`
+> File: `000134_hp-banner-mission_2018.md`
+> • #000134
+> • Slug: `hp-banner-mission`

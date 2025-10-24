@@ -47,4 +47,6 @@ Ein wunderschönes Mosaik aus dem Botanischen Garten / Loki-Schmidt-Garten
 
 
 
-> File: `000013_botanischer-garten-mosaik_2015.md` • #000013 • Slug: `botanischer-garten-mosaik`
+> File: `000013_botanischer-garten-mosaik_2015.md`
+> • #000013
+> • Slug: `botanischer-garten-mosaik`

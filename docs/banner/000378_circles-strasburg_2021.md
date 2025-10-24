@@ -47,4 +47,6 @@ Geh auf Entdeckungstour durch Strasburg.
 
 
 
-> File: `000378_circles-strasburg_2021.md` • #000378 • Slug: `circles-strasburg`
+> File: `000378_circles-strasburg_2021.md`
+> • #000378
+> • Slug: `circles-strasburg`

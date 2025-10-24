@@ -47,4 +47,6 @@ name: "Marienplatz München"
 
 
 
-> File: `000031_marienplatz-mnchen_2016.md` • #000031 • Slug: `marienplatz-mnchen`
+> File: `000031_marienplatz-mnchen_2016.md`
+> • #000031
+> • Slug: `marienplatz-mnchen`

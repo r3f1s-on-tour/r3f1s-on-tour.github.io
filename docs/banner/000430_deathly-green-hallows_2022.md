@@ -47,4 +47,6 @@ Mach eine Entdeckungstour durch den Osten von Neubrandenburg.
 
 
 
-> File: `000430_deathly-green-hallows_2022.md` • #000430 • Slug: `deathly-green-hallows`
+> File: `000430_deathly-green-hallows_2022.md`
+> • #000430
+> • Slug: `deathly-green-hallows`

@@ -47,4 +47,6 @@ This tour guides you through the Friedrichshain Nordkiez which is also known as 
 
 
 
-> File: `000169_defeat-the-hulk_2018.md` • #000169 • Slug: `defeat-the-hulk`
+> File: `000169_defeat-the-hulk_2018.md`
+> • #000169
+> • Slug: `defeat-the-hulk`

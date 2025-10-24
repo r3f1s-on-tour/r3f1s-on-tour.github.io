@@ -47,4 +47,6 @@ Ivo Batic und Franz Leitmayr, gespielt von Miroslav Nemec und Udo Wachtveitl, si
 
 
 
-> File: `000082_mnchner-tatort-ermittler-1972-bis-heute_2017.md` • #000082 • Slug: `mnchner-tatort-ermittler-1972-bis-heute`
+> File: `000082_mnchner-tatort-ermittler-1972-bis-heute_2017.md`
+> • #000082
+> • Slug: `mnchner-tatort-ermittler-1972-bis-heute`

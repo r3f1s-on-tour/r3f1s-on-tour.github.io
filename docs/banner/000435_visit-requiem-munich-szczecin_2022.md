@@ -47,4 +47,6 @@ On the 9th May of 2020 an epic battle between Enlightened and Resistance will ta
 
 
 
-> File: `000435_visit-requiem-munich-szczecin_2022.md` • #000435 • Slug: `visit-requiem-munich-szczecin`
+> File: `000435_visit-requiem-munich-szczecin_2022.md`
+> • #000435
+> • Slug: `visit-requiem-munich-szczecin`

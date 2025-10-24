@@ -47,4 +47,6 @@ This is a 18 missions walk through the Fennpfuhl park. At the end you will have 
 
 
 
-> File: `000171_the-eye-of-the-eagle_2018.md` • #000171 • Slug: `the-eye-of-the-eagle`
+> File: `000171_the-eye-of-the-eagle_2018.md`
+> • #000171
+> • Slug: `the-eye-of-the-eagle`

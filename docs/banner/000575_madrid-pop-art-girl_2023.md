@@ -47,4 +47,6 @@ Descubre los lugares más emblematicos y con encato de Madrid. Desde Sol a la Pl
 
 
 
-> File: `000575_madrid-pop-art-girl_2023.md` • #000575 • Slug: `madrid-pop-art-girl`
+> File: `000575_madrid-pop-art-girl_2023.md`
+> • #000575
+> • Slug: `madrid-pop-art-girl`

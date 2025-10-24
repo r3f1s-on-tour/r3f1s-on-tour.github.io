@@ -48,4 +48,6 @@ solltet ihr zu schnell gehackt haben kann es zum Schluss des Mosaik knapp werden
 
 
 
-> File: `000027_der-greif-von-mecklenburg_2016.md` • #000027 • Slug: `der-greif-von-mecklenburg`
+> File: `000027_der-greif-von-mecklenburg_2016.md`
+> • #000027
+> • Slug: `der-greif-von-mecklenburg`

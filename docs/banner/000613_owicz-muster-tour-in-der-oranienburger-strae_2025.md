@@ -28,8 +28,17 @@ name: "Łowicz-Muster Tour in der Oranienburger Straße"
 ![Łowicz-Muster Tour in der Oranienburger Straße](https://api.bannergress.com/bnrs/pictures/4eb320933eceae6520fde68d35d23d05)
 
 
-<div style="margin: 10px 0 18px; padding: 10px 12px; border-left: 6px solid #f0ad4e; background: #fff8e6; border-radius: 6px;">
-  <strong>Notice:</strong><br>
+<div style="
+  margin: 10px 0 18px;
+  padding: 12px 14px;
+  border: 2px solid #FFD500;
+  background-color: #000;
+  color: #fff;
+  border-radius: 8px;
+  font-weight: 500;
+  line-height: 1.5;
+">
+  ⚠️ <strong>Notice:</strong><br>
   Start der Polen Rundreise mit Watercolor Banner in jeder polnischen Stadt
 </div>
 
@@ -49,4 +58,6 @@ name: "Łowicz-Muster Tour in der Oranienburger Straße"
 
 
 
-> File: `000613_owicz-muster-tour-in-der-oranienburger-strae_2025.md` • #000613 • Slug: `owicz-muster-tour-in-der-oranienburger-strae`
+> File: `000613_owicz-muster-tour-in-der-oranienburger-strae_2025.md`
+> • #000613
+> • Slug: `owicz-muster-tour-in-der-oranienburger-strae`

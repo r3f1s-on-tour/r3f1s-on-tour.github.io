@@ -47,4 +47,6 @@ Discover the green lung of Pankow and get a nice mosaic as a reminder. All missi
 
 
 
-> File: `000254_a-journey-through-the-florakiez_2019.md` • #000254 • Slug: `a-journey-through-the-florakiez`
+> File: `000254_a-journey-through-the-florakiez_2019.md`
+> • #000254
+> • Slug: `a-journey-through-the-florakiez`

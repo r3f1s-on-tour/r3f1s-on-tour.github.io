@@ -47,4 +47,6 @@ Eine kleine Runde durch Birkenwerder. Viel Spaß
 
 
 
-> File: `000271_birkenwerder_2020.md` • #000271 • Slug: `birkenwerder`
+> File: `000271_birkenwerder_2020.md`
+> • #000271
+> • Slug: `birkenwerder`

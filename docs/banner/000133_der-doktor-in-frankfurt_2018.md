@@ -47,4 +47,6 @@ Es ist 2017 und Der Doktor ist dabei die Welt in Frankfurt zu retten. Hilf Ihm s
 
 
 
-> File: `000133_der-doktor-in-frankfurt_2018.md` • #000133 • Slug: `der-doktor-in-frankfurt`
+> File: `000133_der-doktor-in-frankfurt_2018.md`
+> • #000133
+> • Slug: `der-doktor-in-frankfurt`

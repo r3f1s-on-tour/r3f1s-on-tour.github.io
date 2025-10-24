@@ -43,4 +43,6 @@ Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> File: `000450_toast-wars-in-oranienburg_2022.md` • #000450 • Slug: `toast-wars-in-oranienburg`
+> File: `000450_toast-wars-in-oranienburg_2022.md`
+> • #000450
+> • Slug: `toast-wars-in-oranienburg`

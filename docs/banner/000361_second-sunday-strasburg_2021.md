@@ -47,4 +47,6 @@ Starte am Marktplatz und entdecke zum Second Sunday die Stadt Strasburg Uckermar
 
 
 
-> File: `000361_second-sunday-strasburg_2021.md` • #000361 • Slug: `second-sunday-strasburg`
+> File: `000361_second-sunday-strasburg_2021.md`
+> • #000361
+> • Slug: `second-sunday-strasburg`

@@ -47,4 +47,6 @@ Diese Missionsreihe führt durch Bonn. Vom Hauptbahnhof über den alten Friedhof
 
 
 
-> File: `000512_feldzug-durch-bonn_2022.md` • #000512 • Slug: `feldzug-durch-bonn`
+> File: `000512_feldzug-durch-bonn_2022.md`
+> • #000512
+> • Slug: `feldzug-durch-bonn`

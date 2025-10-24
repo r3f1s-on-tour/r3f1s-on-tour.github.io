@@ -43,4 +43,6 @@ Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdig
 
 
 
-> File: `000527_apfelschnitt_2023.md` • #000527 • Slug: `apfelschnitt`
+> File: `000527_apfelschnitt_2023.md`
+> • #000527
+> • Slug: `apfelschnitt`

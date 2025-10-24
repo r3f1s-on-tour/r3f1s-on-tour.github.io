@@ -44,4 +44,6 @@ name: "Wrocławska akwarela"
 
 
 
-> File: `000614_wrocawska-akwarela_2025.md` • #000614 • Slug: `wrocawska-akwarela`
+> File: `000614_wrocawska-akwarela_2025.md`
+> • #000614
+> • Slug: `wrocawska-akwarela`

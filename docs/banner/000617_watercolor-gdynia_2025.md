@@ -44,4 +44,6 @@ name: "Watercolor Gdynia"
 
 
 
-> File: `000617_watercolor-gdynia_2025.md` • #000617 • Slug: `watercolor-gdynia`
+> File: `000617_watercolor-gdynia_2025.md`
+> • #000617
+> • Slug: `watercolor-gdynia`

@@ -47,4 +47,6 @@ Tagesausflug im Tierpark
 
 
 
-> File: `000298_tier-freizeit-und-saurierpark-germendorf_2021.md` • #000298 • Slug: `tier-freizeit-und-saurierpark-germendorf`
+> File: `000298_tier-freizeit-und-saurierpark-germendorf_2021.md`
+> • #000298
+> • Slug: `tier-freizeit-und-saurierpark-germendorf`

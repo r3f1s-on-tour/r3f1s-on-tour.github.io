@@ -47,4 +47,6 @@ Part 1 of 6
 
 
 
-> File: `000286_skyline-munich_2020.md` • #000286 • Slug: `skyline-munich`
+> File: `000286_skyline-munich_2020.md`
+> • #000286
+> • Slug: `skyline-munich`

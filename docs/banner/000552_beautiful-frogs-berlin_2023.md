@@ -47,4 +47,6 @@ Have a walk around the Gethsemane church.
 
 
 
-> File: `000552_beautiful-frogs-berlin_2023.md` • #000552 • Slug: `beautiful-frogs-berlin`
+> File: `000552_beautiful-frogs-berlin_2023.md`
+> • #000552
+> • Slug: `beautiful-frogs-berlin`

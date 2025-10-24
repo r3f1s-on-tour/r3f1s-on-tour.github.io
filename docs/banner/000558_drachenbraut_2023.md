@@ -47,4 +47,6 @@ Willkommen zu meinen ersten Mossaik in Rotenburg an der Fulda.
 
 
 
-> File: `000558_drachenbraut_2023.md` • #000558 • Slug: `drachenbraut`
+> File: `000558_drachenbraut_2023.md`
+> • #000558
+> • Slug: `drachenbraut`

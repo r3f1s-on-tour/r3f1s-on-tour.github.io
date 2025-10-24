@@ -40,4 +40,6 @@ name: "Neustrelitz"
 
 
 
-> File: `000215_neustrelitz_2018.md` • #000215 • Slug: `neustrelitz`
+> File: `000215_neustrelitz_2018.md`
+> • #000215
+> • Slug: `neustrelitz`

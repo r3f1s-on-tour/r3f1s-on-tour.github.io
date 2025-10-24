@@ -40,4 +40,6 @@ name: "Zum Viktualienmarkt"
 
 
 
-> File: `000138_zum-viktualienmarkt_2018.md` • #000138 • Slug: `zum-viktualienmarkt`
+> File: `000138_zum-viktualienmarkt_2018.md`
+> • #000138
+> • Slug: `zum-viktualienmarkt`

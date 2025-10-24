@@ -47,4 +47,6 @@ This mission will guide you from Schoenhauser Allee to Humannplatz
 
 
 
-> File: `000439_second-sunday-april-humann-kiez_2022.md` • #000439 • Slug: `second-sunday-april-humann-kiez`
+> File: `000439_second-sunday-april-humann-kiez_2022.md`
+> • #000439
+> • Slug: `second-sunday-april-humann-kiez`

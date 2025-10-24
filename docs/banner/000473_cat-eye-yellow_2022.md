@@ -53,4 +53,6 @@ The passphrases are only asking for the current mission number.
 
 
 
-> File: `000473_cat-eye-yellow_2022.md` • #000473 • Slug: `cat-eye-yellow`
+> File: `000473_cat-eye-yellow_2022.md`
+> • #000473
+> • Slug: `cat-eye-yellow`

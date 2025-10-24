@@ -47,4 +47,6 @@ Starte am Marktplatz  einen Rundgang und entdecke Strasburg. Auf deinem Abenteue
 
 
 
-> File: `000465_the-show-must-go-on-in-strasburg_2022.md` • #000465 • Slug: `the-show-must-go-on-in-strasburg`
+> File: `000465_the-show-must-go-on-in-strasburg_2022.md`
+> • #000465
+> • Slug: `the-show-must-go-on-in-strasburg`

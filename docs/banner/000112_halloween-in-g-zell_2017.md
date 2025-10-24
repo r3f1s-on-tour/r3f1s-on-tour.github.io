@@ -47,4 +47,6 @@ Ursprünglich aus Irland stammend fand der Brauch, in der Nacht vor Allerheilige
 
 
 
-> File: `000112_halloween-in-g-zell_2017.md` • #000112 • Slug: `halloween-in-g-zell`
+> File: `000112_halloween-in-g-zell_2017.md`
+> • #000112
+> • Slug: `halloween-in-g-zell`

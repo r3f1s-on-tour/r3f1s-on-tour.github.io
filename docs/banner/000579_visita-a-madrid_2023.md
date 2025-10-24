@@ -47,4 +47,6 @@ Primera parte de la visita al la Puerta del Sol y sus alrededores, centro turís
 
 
 
-> File: `000579_visita-a-madrid_2023.md` • #000579 • Slug: `visita-a-madrid`
+> File: `000579_visita-a-madrid_2023.md`
+> • #000579
+> • Slug: `visita-a-madrid`

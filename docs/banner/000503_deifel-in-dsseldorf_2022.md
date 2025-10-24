@@ -47,4 +47,6 @@ Starte am Hauptbahnhof einen Rundgang und entdecke Düsseldorf. Auf deinem Abent
 
 
 
-> File: `000503_deifel-in-dsseldorf_2022.md` • #000503 • Slug: `deifel-in-dsseldorf`
+> File: `000503_deifel-in-dsseldorf_2022.md`
+> • #000503
+> • Slug: `deifel-in-dsseldorf`

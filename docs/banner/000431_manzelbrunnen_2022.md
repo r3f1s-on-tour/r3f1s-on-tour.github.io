@@ -47,4 +47,6 @@ Historyczna rzeźba symbolizująca Szczecin, zaginiona w czasie 2 Wojny Światow
 
 
 
-> File: `000431_manzelbrunnen_2022.md` • #000431 • Slug: `manzelbrunnen`
+> File: `000431_manzelbrunnen_2022.md`
+> • #000431
+> • Slug: `manzelbrunnen`

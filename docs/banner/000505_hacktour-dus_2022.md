@@ -44,4 +44,6 @@ name: "Hacktour DUS"
 
 
 
-> File: `000505_hacktour-dus_2022.md` • #000505 • Slug: `hacktour-dus`
+> File: `000505_hacktour-dus_2022.md`
+> • #000505
+> • Slug: `hacktour-dus`

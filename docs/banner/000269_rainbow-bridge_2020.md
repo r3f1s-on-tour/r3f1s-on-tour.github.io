@@ -47,4 +47,6 @@ Make your rounds in the park around the Märkisches Museum and receive a colourf
 
 
 
-> File: `000269_rainbow-bridge_2020.md` • #000269 • Slug: `rainbow-bridge`
+> File: `000269_rainbow-bridge_2020.md`
+> • #000269
+> • Slug: `rainbow-bridge`

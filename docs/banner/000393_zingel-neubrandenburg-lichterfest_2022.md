@@ -47,4 +47,6 @@ Der Rundgang führt durch die Innenstadt von Neubrandenburg. Erlebe dabei die za
 
 
 
-> File: `000393_zingel-neubrandenburg-lichterfest_2022.md` • #000393 • Slug: `zingel-neubrandenburg-lichterfest`
+> File: `000393_zingel-neubrandenburg-lichterfest_2022.md`
+> • #000393
+> • Slug: `zingel-neubrandenburg-lichterfest`

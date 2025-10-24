@@ -47,4 +47,6 @@ Welcome to Szczecin! This banner will lead you through the city's most famous hi
 
 
 
-> File: `000434_biocard-szczecin_2022.md` • #000434 • Slug: `biocard-szczecin`
+> File: `000434_biocard-szczecin_2022.md`
+> • #000434
+> • Slug: `biocard-szczecin`

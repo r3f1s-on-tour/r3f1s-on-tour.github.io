@@ -47,4 +47,6 @@ Beginne eine Runde durch Birkenwerder und entdecke auf deiner Runde die Wassertr
 
 
 
-> File: `000549_kirche-in-birkenwerder_2023.md` • #000549 • Slug: `kirche-in-birkenwerder`
+> File: `000549_kirche-in-birkenwerder_2023.md`
+> • #000549
+> • Slug: `kirche-in-birkenwerder`

@@ -47,4 +47,6 @@ This walk guides you at the end to the small but famous Museum of the Hoff. Its 
 
 
 
-> File: `000265_the-berlin-hoff-museum_2020.md` • #000265 • Slug: `the-berlin-hoff-museum`
+> File: `000265_the-berlin-hoff-museum_2020.md`
+> • #000265
+> • Slug: `the-berlin-hoff-museum`

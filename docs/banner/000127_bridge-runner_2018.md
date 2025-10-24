@@ -47,4 +47,6 @@ Hin und her auf der Brücke mit Fragen & Hacks. Als 5er- oder 6er-Mission spielb
 
 
 
-> File: `000127_bridge-runner_2018.md` • #000127 • Slug: `bridge-runner`
+> File: `000127_bridge-runner_2018.md`
+> • #000127
+> • Slug: `bridge-runner`

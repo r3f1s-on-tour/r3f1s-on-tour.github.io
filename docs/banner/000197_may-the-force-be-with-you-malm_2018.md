@@ -49,4 +49,6 @@ All portals available 24/7.
 
 
 
-> File: `000197_may-the-force-be-with-you-malm_2018.md` • #000197 • Slug: `may-the-force-be-with-you-malm`
+> File: `000197_may-the-force-be-with-you-malm_2018.md`
+> • #000197
+> • Slug: `may-the-force-be-with-you-malm`

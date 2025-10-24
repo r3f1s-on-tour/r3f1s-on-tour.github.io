@@ -47,4 +47,6 @@ Uno de los lugares mas emblemáticos de la ciudad Valenciana, es sin duda la pla
 
 
 
-> File: `000599_casco-histrico-plz-la-virgen_2024.md` • #000599 • Slug: `casco-histrico-plz-la-virgen`
+> File: `000599_casco-histrico-plz-la-virgen_2024.md`
+> • #000599
+> • Slug: `casco-histrico-plz-la-virgen`

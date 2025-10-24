@@ -49,4 +49,6 @@ Banner geht am 01.11.2021 offline
 
 
 
-> File: `000325_mp-happy-halloween-in-oranienburg_2021.md` • #000325 • Slug: `mp-happy-halloween-in-oranienburg`
+> File: `000325_mp-happy-halloween-in-oranienburg_2021.md`
+> • #000325
+> • Slug: `mp-happy-halloween-in-oranienburg`

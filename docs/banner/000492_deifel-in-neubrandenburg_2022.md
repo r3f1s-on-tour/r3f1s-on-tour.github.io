@@ -43,4 +43,6 @@ Starte am Rathaus einen Rundgang und entdecke Neubrandenburg. Auf deinem Abenteu
 
 
 
-> File: `000492_deifel-in-neubrandenburg_2022.md` • #000492 • Slug: `deifel-in-neubrandenburg`
+> File: `000492_deifel-in-neubrandenburg_2022.md`
+> • #000492
+> • Slug: `deifel-in-neubrandenburg`

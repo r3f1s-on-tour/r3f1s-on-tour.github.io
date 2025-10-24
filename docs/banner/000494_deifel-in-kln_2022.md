@@ -47,4 +47,6 @@ Starte am Hauptbahnhof einen Rundgang und entdecke Köln. Auf deinem Abenteuer e
 
 
 
-> File: `000494_deifel-in-kln_2022.md` • #000494 • Slug: `deifel-in-kln`
+> File: `000494_deifel-in-kln_2022.md`
+> • #000494
+> • Slug: `deifel-in-kln`

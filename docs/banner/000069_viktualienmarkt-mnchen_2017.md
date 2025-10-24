@@ -47,4 +47,6 @@ Der Viktualienmarkt am heutigen Ort entstand aus der Verlegung des alten Münchn
 
 
 
-> File: `000069_viktualienmarkt-mnchen_2017.md` • #000069 • Slug: `viktualienmarkt-mnchen`
+> File: `000069_viktualienmarkt-mnchen_2017.md`
+> • #000069
+> • Slug: `viktualienmarkt-mnchen`

@@ -47,4 +47,6 @@ Hier im Kiez liegt die Historie des Wasabiphänomens. In verschiedenen Formen er
 
 
 
-> File: `000310_auf-den-spuren-des-wasabi_2021.md` • #000310 • Slug: `auf-den-spuren-des-wasabi`
+> File: `000310_auf-den-spuren-des-wasabi_2021.md`
+> • #000310
+> • Slug: `auf-den-spuren-des-wasabi`

@@ -43,4 +43,6 @@ Starte einen kleinen Rundgang durch Oranienburg und hole die Superhelden Toats i
 
 
 
-> File: `000382_superhelden-toasts-in-oranienburg_2022.md` • #000382 • Slug: `superhelden-toasts-in-oranienburg`
+> File: `000382_superhelden-toasts-in-oranienburg_2022.md`
+> • #000382
+> • Slug: `superhelden-toasts-in-oranienburg`

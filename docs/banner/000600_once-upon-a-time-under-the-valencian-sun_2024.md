@@ -47,4 +47,6 @@ Discover Valencia's Old Town, where historic charm meets vibrant culture. Wander
 
 
 
-> File: `000600_once-upon-a-time-under-the-valencian-sun_2024.md` • #000600 • Slug: `once-upon-a-time-under-the-valencian-sun`
+> File: `000600_once-upon-a-time-under-the-valencian-sun_2024.md`
+> • #000600
+> • Slug: `once-upon-a-time-under-the-valencian-sun`

@@ -43,4 +43,6 @@ Starte auf dem Markt eine Entdeckungsreise durch die Stadt Pasewalk und entdecke
 
 
 
-> File: `000411_retrogaming-space-invaders_2022.md` • #000411 • Slug: `retrogaming-space-invaders`
+> File: `000411_retrogaming-space-invaders_2022.md`
+> • #000411
+> • Slug: `retrogaming-space-invaders`

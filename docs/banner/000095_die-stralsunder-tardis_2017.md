@@ -44,4 +44,6 @@ name: "Die Stralsunder Tardis"
 
 
 
-> File: `000095_die-stralsunder-tardis_2017.md` • #000095 • Slug: `die-stralsunder-tardis`
+> File: `000095_die-stralsunder-tardis_2017.md`
+> • #000095
+> • Slug: `die-stralsunder-tardis`

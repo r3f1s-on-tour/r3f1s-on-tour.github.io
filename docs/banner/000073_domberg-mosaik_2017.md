@@ -48,4 +48,6 @@ Erster Teil startet im Domhof, wo auch der letzte Teil beendet wird.
 
 
 
-> File: `000073_domberg-mosaik_2017.md` • #000073 • Slug: `domberg-mosaik`
+> File: `000073_domberg-mosaik_2017.md`
+> • #000073
+> • Slug: `domberg-mosaik`

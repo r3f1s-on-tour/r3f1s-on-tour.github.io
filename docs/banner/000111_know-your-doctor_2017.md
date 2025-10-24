@@ -44,4 +44,6 @@ name: "Know Your Doctor"
 
 
 
-> File: `000111_know-your-doctor_2017.md` • #000111 • Slug: `know-your-doctor`
+> File: `000111_know-your-doctor_2017.md`
+> • #000111
+> • Slug: `know-your-doctor`

@@ -47,4 +47,6 @@ A short walk in the inner city. Start east of Marienplatz.
 
 
 
-> File: `000287_munich-city-walk_2020.md` • #000287 • Slug: `munich-city-walk`
+> File: `000287_munich-city-walk_2020.md`
+> • #000287
+> • Slug: `munich-city-walk`

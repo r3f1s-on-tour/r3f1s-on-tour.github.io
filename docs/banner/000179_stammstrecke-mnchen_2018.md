@@ -44,4 +44,6 @@ name: "Stammstrecke München"
 
 
 
-> File: `000179_stammstrecke-mnchen_2018.md` • #000179 • Slug: `stammstrecke-mnchen`
+> File: `000179_stammstrecke-mnchen_2018.md`
+> • #000179
+> • Slug: `stammstrecke-mnchen`

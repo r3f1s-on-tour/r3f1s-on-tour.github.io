@@ -47,4 +47,6 @@ Herzlich Willkommen zum 18zener Mosaik der Stadt Weißenfels. In jeder Mission e
 
 
 
-> File: `000118_weienfels-stadt-an-der-saale_2018.md` • #000118 • Slug: `weienfels-stadt-an-der-saale`
+> File: `000118_weienfels-stadt-an-der-saale_2018.md`
+> • #000118
+> • Slug: `weienfels-stadt-an-der-saale`

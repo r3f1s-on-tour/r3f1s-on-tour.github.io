@@ -47,4 +47,6 @@ Six-mission-set in the city-centre that shows some of Hannovers popular sights.
 
 
 
-> File: `000318_dark-skyline_2021.md` • #000318 • Slug: `dark-skyline`
+> File: `000318_dark-skyline_2021.md`
+> • #000318
+> • Slug: `dark-skyline`

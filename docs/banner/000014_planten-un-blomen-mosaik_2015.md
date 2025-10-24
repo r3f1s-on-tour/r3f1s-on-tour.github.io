@@ -54,4 +54,6 @@ Oct–Dec | 7–20 Uhr
 
 
 
-> File: `000014_planten-un-blomen-mosaik_2015.md` • #000014 • Slug: `planten-un-blomen-mosaik`
+> File: `000014_planten-un-blomen-mosaik_2015.md`
+> • #000014
+> • Slug: `planten-un-blomen-mosaik`

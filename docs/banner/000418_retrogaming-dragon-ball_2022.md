@@ -47,4 +47,6 @@ Starte auf dem Markt eine Entdeckungsreise durch die Stadt Pasewalk und entdecke
 
 
 
-> File: `000418_retrogaming-dragon-ball_2022.md` • #000418 • Slug: `retrogaming-dragon-ball`
+> File: `000418_retrogaming-dragon-ball_2022.md`
+> • #000418
+> • Slug: `retrogaming-dragon-ball`

@@ -47,4 +47,6 @@ Mache eine kleine Tour durch Oranienburg und starte am Bahnhof
 
 
 
-> File: `000327_all-hallows-toast-in-oranienburg_2021.md` • #000327 • Slug: `all-hallows-toast-in-oranienburg`
+> File: `000327_all-hallows-toast-in-oranienburg_2021.md`
+> • #000327
+> • Slug: `all-hallows-toast-in-oranienburg`

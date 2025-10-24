@@ -43,4 +43,6 @@ Starte in der Bernauer Straße eine Reise durch die Stadt Oranienburg und hole A
 
 
 
-> File: `000440_adventure-toast-in-oranienburg_2022.md` • #000440 • Slug: `adventure-toast-in-oranienburg`
+> File: `000440_adventure-toast-in-oranienburg_2022.md`
+> • #000440
+> • Slug: `adventure-toast-in-oranienburg`

@@ -47,4 +47,6 @@ Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde die Sehens
 
 
 
-> File: `000551_neubr-stadtmusikanten_2023.md` • #000551 • Slug: `neubr-stadtmusikanten`
+> File: `000551_neubr-stadtmusikanten_2023.md`
+> • #000551
+> • Slug: `neubr-stadtmusikanten`

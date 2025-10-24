@@ -47,4 +47,6 @@ Der Saint Patrick’s Day ist der Gedenktag des irischen Bischofs Patrick, der i
 
 
 
-> File: `000555_st-patricks-day_2023.md` • #000555 • Slug: `st-patricks-day`
+> File: `000555_st-patricks-day_2023.md`
+> • #000555
+> • Slug: `st-patricks-day`

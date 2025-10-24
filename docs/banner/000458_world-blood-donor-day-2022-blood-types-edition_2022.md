@@ -43,4 +43,6 @@ Am 14. Juni 2022 ist globaler Blutspendetag! Lasst euch mit diesem Banner durch 
 
 
 
-> File: `000458_world-blood-donor-day-2022-blood-types-edition_2022.md` • #000458 • Slug: `world-blood-donor-day-2022-blood-types-edition`
+> File: `000458_world-blood-donor-day-2022-blood-types-edition_2022.md`
+> • #000458
+> • Slug: `world-blood-donor-day-2022-blood-types-edition`

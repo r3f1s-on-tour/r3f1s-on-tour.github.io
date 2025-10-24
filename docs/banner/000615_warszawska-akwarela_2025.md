@@ -44,4 +44,6 @@ name: "Warszawska akwarela"
 
 
 
-> File: `000615_warszawska-akwarela_2025.md` • #000615 • Slug: `warszawska-akwarela`
+> File: `000615_warszawska-akwarela_2025.md`
+> • #000615
+> • Slug: `warszawska-akwarela`

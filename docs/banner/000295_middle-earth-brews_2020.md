@@ -47,4 +47,6 @@ Entdeckungsrunde vom Schäfersee zum Volkspark Rehberge
 
 
 
-> File: `000295_middle-earth-brews_2020.md` • #000295 • Slug: `middle-earth-brews`
+> File: `000295_middle-earth-brews_2020.md`
+> • #000295
+> • Slug: `middle-earth-brews`

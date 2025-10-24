@@ -47,4 +47,6 @@ Diese Mission beginnt am Bahnhof und geht über die Bahnhofstraße in Richtung T
 
 
 
-> File: `000568_visit-cottbus_2023.md` • #000568 • Slug: `visit-cottbus`
+> File: `000568_visit-cottbus_2023.md`
+> • #000568
+> • Slug: `visit-cottbus`

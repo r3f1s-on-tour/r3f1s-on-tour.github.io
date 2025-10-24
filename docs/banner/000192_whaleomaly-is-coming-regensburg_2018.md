@@ -48,4 +48,6 @@ Explore Regensburgs Whales! Take them with you to unite at the Whaleomaly Linz!
 
 
 
-> File: `000192_whaleomaly-is-coming-regensburg_2018.md` • #000192 • Slug: `whaleomaly-is-coming-regensburg`
+> File: `000192_whaleomaly-is-coming-regensburg_2018.md`
+> • #000192
+> • Slug: `whaleomaly-is-coming-regensburg`

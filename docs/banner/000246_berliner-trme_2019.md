@@ -47,4 +47,6 @@ Ein Gang von Turm zu Turm
 
 
 
-> File: `000246_berliner-trme_2019.md` • #000246 • Slug: `berliner-trme`
+> File: `000246_berliner-trme_2019.md`
+> • #000246
+> • Slug: `berliner-trme`

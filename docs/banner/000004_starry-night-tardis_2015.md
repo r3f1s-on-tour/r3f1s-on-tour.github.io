@@ -44,4 +44,6 @@ name: "Starry Night TARDIS"
 
 
 
-> File: `000004_starry-night-tardis_2015.md` • #000004 • Slug: `starry-night-tardis`
+> File: `000004_starry-night-tardis_2015.md`
+> • #000004
+> • Slug: `starry-night-tardis`

@@ -40,4 +40,6 @@ name: "FS Berlin Halloween"
 
 
 
-> File: `000256_fs-berlin-halloween_2019.md` • #000256 • Slug: `fs-berlin-halloween`
+> File: `000256_fs-berlin-halloween_2019.md`
+> • #000256
+> • Slug: `fs-berlin-halloween`

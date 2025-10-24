@@ -47,4 +47,6 @@ Das große Maibaum Mosaik startet am Maibaum am Viktualienmarkt und führt uns i
 
 
 
-> File: `000210_mnchner-maibaum_2018.md` • #000210 • Slug: `mnchner-maibaum`
+> File: `000210_mnchner-maibaum_2018.md`
+> • #000210
+> • Slug: `mnchner-maibaum`

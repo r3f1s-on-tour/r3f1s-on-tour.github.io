@@ -40,4 +40,6 @@ name: "STAR WARS - Das Erwachen der Macht (Berlin)"
 
 
 
-> File: `000020_star-wars-das-erwachen-der-macht-berlin_2015.md` • #000020 • Slug: `star-wars-das-erwachen-der-macht-berlin`
+> File: `000020_star-wars-das-erwachen-der-macht-berlin_2015.md`
+> • #000020
+> • Slug: `star-wars-das-erwachen-der-macht-berlin`

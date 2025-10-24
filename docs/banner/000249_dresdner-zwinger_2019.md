@@ -50,4 +50,6 @@ Teil 1 von 12
 
 
 
-> File: `000249_dresdner-zwinger_2019.md` • #000249 • Slug: `dresdner-zwinger`
+> File: `000249_dresdner-zwinger_2019.md`
+> • #000249
+> • Slug: `dresdner-zwinger`

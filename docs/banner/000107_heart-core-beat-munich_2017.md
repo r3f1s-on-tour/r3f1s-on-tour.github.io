@@ -47,4 +47,6 @@ This resistance heartbeat as a counterpart to the luminescent heart leads  you t
 
 
 
-> File: `000107_heart-core-beat-munich_2017.md` • #000107 • Slug: `heart-core-beat-munich`
+> File: `000107_heart-core-beat-munich_2017.md`
+> • #000107
+> • Slug: `heart-core-beat-munich`

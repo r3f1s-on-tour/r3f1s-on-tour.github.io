@@ -47,4 +47,6 @@ Das Deutsche Hopfenmuseum in Wolnzach in der Hallertau in Bayern wurde 2002 vom 
 
 
 
-> File: `000100_hopfenmuseum-wolnzach_2017.md` • #000100 • Slug: `hopfenmuseum-wolnzach`
+> File: `000100_hopfenmuseum-wolnzach_2017.md`
+> • #000100
+> • Slug: `hopfenmuseum-wolnzach`

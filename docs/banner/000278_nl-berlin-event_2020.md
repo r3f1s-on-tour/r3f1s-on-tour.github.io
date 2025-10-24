@@ -47,4 +47,6 @@ A short banner around the berlin NL location. Enjoy.
 
 
 
-> File: `000278_nl-berlin-event_2020.md` • #000278 • Slug: `nl-berlin-event`
+> File: `000278_nl-berlin-event_2020.md`
+> • #000278
+> • Slug: `nl-berlin-event`

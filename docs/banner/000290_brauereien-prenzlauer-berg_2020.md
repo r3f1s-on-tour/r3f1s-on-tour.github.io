@@ -48,4 +48,6 @@ Ein Spaziergang durch den Prenzlauer Berg an 12 ehemaligen Brauereien vorbei. In
 
 
 
-> File: `000290_brauereien-prenzlauer-berg_2020.md` • #000290 • Slug: `brauereien-prenzlauer-berg`
+> File: `000290_brauereien-prenzlauer-berg_2020.md`
+> • #000290
+> • Slug: `brauereien-prenzlauer-berg`

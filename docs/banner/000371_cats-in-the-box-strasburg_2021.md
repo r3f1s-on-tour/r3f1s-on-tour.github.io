@@ -49,4 +49,6 @@ Banner geht am 26.12.2021 offline
 
 
 
-> File: `000371_cats-in-the-box-strasburg_2021.md` • #000371 • Slug: `cats-in-the-box-strasburg`
+> File: `000371_cats-in-the-box-strasburg_2021.md`
+> • #000371
+> • Slug: `cats-in-the-box-strasburg`

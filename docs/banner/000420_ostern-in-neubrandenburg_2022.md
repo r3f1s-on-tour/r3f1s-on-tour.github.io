@@ -47,4 +47,6 @@ Mache einen Osterspaziergang in der Neubrandenburger Innenstadt.
 
 
 
-> File: `000420_ostern-in-neubrandenburg_2022.md` • #000420 • Slug: `ostern-in-neubrandenburg`
+> File: `000420_ostern-in-neubrandenburg_2022.md`
+> • #000420
+> • Slug: `ostern-in-neubrandenburg`

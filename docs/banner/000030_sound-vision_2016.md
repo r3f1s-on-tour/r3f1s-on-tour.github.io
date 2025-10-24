@@ -47,4 +47,6 @@ Your journey will take you through three beautiful towns of Bavaria. Please enjo
 
 
 
-> File: `000030_sound-vision_2016.md` • #000030 • Slug: `sound-vision`
+> File: `000030_sound-vision_2016.md`
+> • #000030
+> • Slug: `sound-vision`

@@ -47,4 +47,6 @@ A special mission for one of the chosen Kaltenberg PLP teams.
 
 
 
-> File: `000301_imperfect-humanist_2021.md` • #000301 • Slug: `imperfect-humanist`
+> File: `000301_imperfect-humanist_2021.md`
+> • #000301
+> • Slug: `imperfect-humanist`

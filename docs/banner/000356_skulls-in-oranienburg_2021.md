@@ -43,4 +43,6 @@ Mache eine kleine Tour durch Oranienburg und hole dir die Schädel ins Profil
 
 
 
-> File: `000356_skulls-in-oranienburg_2021.md` • #000356 • Slug: `skulls-in-oranienburg`
+> File: `000356_skulls-in-oranienburg_2021.md`
+> • #000356
+> • Slug: `skulls-in-oranienburg`

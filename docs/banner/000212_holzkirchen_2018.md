@@ -47,4 +47,6 @@ Erfülle alle Missionen in der richtigen Reihenfolge um das Holzkirchner Wappen 
 
 
 
-> File: `000212_holzkirchen_2018.md` • #000212 • Slug: `holzkirchen`
+> File: `000212_holzkirchen_2018.md`
+> • #000212
+> • Slug: `holzkirchen`

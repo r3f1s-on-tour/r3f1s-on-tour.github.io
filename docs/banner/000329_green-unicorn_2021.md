@@ -47,4 +47,6 @@ Die Missionen führen durch die Grünanlagen von Neubrandenburg. Dabei sieht man
 
 
 
-> File: `000329_green-unicorn_2021.md` • #000329 • Slug: `green-unicorn`
+> File: `000329_green-unicorn_2021.md`
+> • #000329
+> • Slug: `green-unicorn`

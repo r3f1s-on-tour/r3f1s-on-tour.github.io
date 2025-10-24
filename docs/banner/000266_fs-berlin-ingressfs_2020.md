@@ -47,4 +47,6 @@ Missionset for the First Saturday in Berlin. This mission is dedicated to all be
 
 
 
-> File: `000266_fs-berlin-ingressfs_2020.md` • #000266 • Slug: `fs-berlin-ingressfs`
+> File: `000266_fs-berlin-ingressfs_2020.md`
+> • #000266
+> • Slug: `fs-berlin-ingressfs`

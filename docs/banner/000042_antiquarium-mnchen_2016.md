@@ -47,4 +47,6 @@ Das Antiquarium wurde ab 1568 zur Aufnahme der herzoglichen Antikensammlung und 
 
 
 
-> File: `000042_antiquarium-mnchen_2016.md` • #000042 • Slug: `antiquarium-mnchen`
+> File: `000042_antiquarium-mnchen_2016.md`
+> • #000042
+> • Slug: `antiquarium-mnchen`

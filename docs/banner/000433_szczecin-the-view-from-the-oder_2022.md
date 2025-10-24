@@ -47,4 +47,6 @@ I invite you to take a walk around Szczecin. Collect all the badges, admire the 
 
 
 
-> File: `000433_szczecin-the-view-from-the-oder_2022.md` • #000433 • Slug: `szczecin-the-view-from-the-oder`
+> File: `000433_szczecin-the-view-from-the-oder_2022.md`
+> • #000433
+> • Slug: `szczecin-the-view-from-the-oder`

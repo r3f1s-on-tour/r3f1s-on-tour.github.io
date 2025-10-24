@@ -49,4 +49,6 @@ You will get some further information about Berghain during your trip.
 
 
 
-> File: `000484_berghain-mosaik_2022.md` • #000484 • Slug: `berghain-mosaik`
+> File: `000484_berghain-mosaik_2022.md`
+> • #000484
+> • Slug: `berghain-mosaik`

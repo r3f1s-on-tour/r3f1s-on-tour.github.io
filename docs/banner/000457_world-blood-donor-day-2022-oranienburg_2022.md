@@ -47,4 +47,6 @@ Am 14. Juni 2022 ist globaler Blutspendetag! Lasst euch mit diesem Banner durch 
 
 
 
-> File: `000457_world-blood-donor-day-2022-oranienburg_2022.md` • #000457 • Slug: `world-blood-donor-day-2022-oranienburg`
+> File: `000457_world-blood-donor-day-2022-oranienburg_2022.md`
+> • #000457
+> • Slug: `world-blood-donor-day-2022-oranienburg`

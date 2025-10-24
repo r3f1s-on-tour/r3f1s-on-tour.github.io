@@ -47,4 +47,6 @@ Teil 3 der großen Wiesnreihe. Start und Ende an der Theresienwiese. Hälfte ist
 
 
 
-> File: `000227_das-groe-wiesn-mosaik-teil-3_2019.md` • #000227 • Slug: `das-groe-wiesn-mosaik-teil-3`
+> File: `000227_das-groe-wiesn-mosaik-teil-3_2019.md`
+> • #000227
+> • Slug: `das-groe-wiesn-mosaik-teil-3`

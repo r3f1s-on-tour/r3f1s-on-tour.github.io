@@ -47,4 +47,6 @@ Erkunde die Rosenheimer Portale am Inn
 
 
 
-> File: `000186_das-auge-am-inn_2018.md` • #000186 • Slug: `das-auge-am-inn`
+> File: `000186_das-auge-am-inn_2018.md`
+> • #000186
+> • Slug: `das-auge-am-inn`

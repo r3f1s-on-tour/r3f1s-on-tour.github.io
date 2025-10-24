@@ -47,4 +47,6 @@ Nur noch bis 31.10.2021 spielbar.
 
 
 
-> File: `000273_btzows-caticorn_2020.md` • #000273 • Slug: `btzows-caticorn`
+> File: `000273_btzows-caticorn_2020.md`
+> • #000273
+> • Slug: `btzows-caticorn`

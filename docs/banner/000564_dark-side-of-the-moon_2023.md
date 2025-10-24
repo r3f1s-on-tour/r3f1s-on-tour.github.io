@@ -47,4 +47,6 @@ Discover the dark side of the moon in Potsdam. Start at the Fachhochschule and m
 
 
 
-> File: `000564_dark-side-of-the-moon_2023.md` • #000564 • Slug: `dark-side-of-the-moon`
+> File: `000564_dark-side-of-the-moon_2023.md`
+> • #000564
+> • Slug: `dark-side-of-the-moon`

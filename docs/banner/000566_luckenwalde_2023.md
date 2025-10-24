@@ -47,4 +47,6 @@ Beginn am Markt über den Boulevard
 
 
 
-> File: `000566_luckenwalde_2023.md` • #000566 • Slug: `luckenwalde`
+> File: `000566_luckenwalde_2023.md`
+> • #000566
+> • Slug: `luckenwalde`

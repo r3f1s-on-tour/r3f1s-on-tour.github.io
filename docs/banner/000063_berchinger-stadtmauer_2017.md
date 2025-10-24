@@ -48,4 +48,6 @@ Hack only. Am besten zu Fuß machbar.
 
 
 
-> File: `000063_berchinger-stadtmauer_2017.md` • #000063 • Slug: `berchinger-stadtmauer`
+> File: `000063_berchinger-stadtmauer_2017.md`
+> • #000063
+> • Slug: `berchinger-stadtmauer`

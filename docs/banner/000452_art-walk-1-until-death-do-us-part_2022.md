@@ -49,4 +49,6 @@ Ein Tribute an den großartigen, polnischen Künstler Zdzisław Beksiński (24.0
 
 
 
-> File: `000452_art-walk-1-until-death-do-us-part_2022.md` • #000452 • Slug: `art-walk-1-until-death-do-us-part`
+> File: `000452_art-walk-1-until-death-do-us-part_2022.md`
+> • #000452
+> • Slug: `art-walk-1-until-death-do-us-part`

@@ -47,4 +47,6 @@ Diese Missionsreihe führt dich vom Hauptbahnhof quer durch München zum Olympia
 
 
 
-> File: `000036_olympiaturm-mnchen_2016.md` • #000036 • Slug: `olympiaturm-mnchen`
+> File: `000036_olympiaturm-mnchen_2016.md`
+> • #000036
+> • Slug: `olympiaturm-mnchen`

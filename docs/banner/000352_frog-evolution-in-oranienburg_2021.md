@@ -43,4 +43,6 @@ Mache eine kleine Tour durch Oranienburg und hole dir die Frog Evolution ins Pro
 
 
 
-> File: `000352_frog-evolution-in-oranienburg_2021.md` • #000352 • Slug: `frog-evolution-in-oranienburg`
+> File: `000352_frog-evolution-in-oranienburg_2021.md`
+> • #000352
+> • Slug: `frog-evolution-in-oranienburg`

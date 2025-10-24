@@ -47,4 +47,6 @@ Das 1200 Jahre alte Ingolstadt war jahrhundertelang Universitätsstadt, Zentrum 
 
 
 
-> File: `000099_stadtwappen-ingolstadt_2017.md` • #000099 • Slug: `stadtwappen-ingolstadt`
+> File: `000099_stadtwappen-ingolstadt_2017.md`
+> • #000099
+> • Slug: `stadtwappen-ingolstadt`

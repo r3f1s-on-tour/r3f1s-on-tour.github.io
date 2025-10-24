@@ -47,4 +47,6 @@ Hack  all Portals
 
 
 
-> File: `000311_blue-frog-berlin_2021.md` • #000311 • Slug: `blue-frog-berlin`
+> File: `000311_blue-frog-berlin_2021.md`
+> • #000311
+> • Slug: `blue-frog-berlin`

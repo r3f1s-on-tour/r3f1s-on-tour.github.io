@@ -48,4 +48,6 @@ Let's go and... discover a peacefull park.
 
 
 
-> File: `000131_bf-viertel-ffm_2018.md` • #000131 • Slug: `bf-viertel-ffm`
+> File: `000131_bf-viertel-ffm_2018.md`
+> • #000131
+> • Slug: `bf-viertel-ffm`

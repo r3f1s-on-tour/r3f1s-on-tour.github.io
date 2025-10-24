@@ -47,4 +47,6 @@ Besuche Münchens große Biergärten
 
 
 
-> File: `000091_mnchens-biergrten_2017.md` • #000091 • Slug: `mnchens-biergrten`
+> File: `000091_mnchens-biergrten_2017.md`
+> • #000091
+> • Slug: `mnchens-biergrten`

@@ -47,4 +47,6 @@ Starte auf dem Markt eine Entdeckungsreise durch die Stadt Pasewalk und entdecke
 
 
 
-> File: `000413_retrogaming-galaxian_2022.md` • #000413 • Slug: `retrogaming-galaxian`
+> File: `000413_retrogaming-galaxian_2022.md`
+> • #000413
+> • Slug: `retrogaming-galaxian`

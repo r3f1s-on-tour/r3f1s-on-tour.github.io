@@ -47,4 +47,6 @@ Die nächste Mission beginnt jeweils am letzten Portal der vorherigen Mission. E
 
 
 
-> File: `000053_pasinger-stadtwappen_2017.md` • #000053 • Slug: `pasinger-stadtwappen`
+> File: `000053_pasinger-stadtwappen_2017.md`
+> • #000053
+> • Slug: `pasinger-stadtwappen`

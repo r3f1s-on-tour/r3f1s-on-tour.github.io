@@ -48,4 +48,6 @@ Richter window is the southern transverse window of the Cologne Cathedral, desig
 
 
 
-> File: `000502_richter-fenster-im-klner-dom_2022.md` • #000502 • Slug: `richter-fenster-im-klner-dom`
+> File: `000502_richter-fenster-im-klner-dom_2022.md`
+> • #000502
+> • Slug: `richter-fenster-im-klner-dom`

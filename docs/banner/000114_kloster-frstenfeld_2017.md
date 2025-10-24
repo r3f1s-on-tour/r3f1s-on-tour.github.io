@@ -47,4 +47,6 @@ Das Kloster Fürstenfeld ist eine ehemalige Zisterzienserabtei in Fürstenfeldbr
 
 
 
-> File: `000114_kloster-frstenfeld_2017.md` • #000114 • Slug: `kloster-frstenfeld`
+> File: `000114_kloster-frstenfeld_2017.md`
+> • #000114
+> • Slug: `kloster-frstenfeld`

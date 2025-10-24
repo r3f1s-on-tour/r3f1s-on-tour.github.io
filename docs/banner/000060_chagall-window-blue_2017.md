@@ -49,4 +49,6 @@ Optimal starting point for all three windows
 
 
 
-> File: `000060_chagall-window-blue_2017.md` • #000060 • Slug: `chagall-window-blue`
+> File: `000060_chagall-window-blue_2017.md`
+> • #000060
+> • Slug: `chagall-window-blue`

@@ -47,4 +47,6 @@ Starte am Marktplatz und entdecke Strasburg Uckermark und hole dir Toasts ins Pr
 
 
 
-> File: `000336_nyan-toast-strasburg_2021.md` • #000336 • Slug: `nyan-toast-strasburg`
+> File: `000336_nyan-toast-strasburg_2021.md`
+> • #000336
+> • Slug: `nyan-toast-strasburg`

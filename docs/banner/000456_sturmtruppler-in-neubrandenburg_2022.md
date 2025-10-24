@@ -47,4 +47,6 @@ Erkunde Neubrandenburg. Die Mission beginnt am Bahnhof, führt durch den Kulturp
 
 
 
-> File: `000456_sturmtruppler-in-neubrandenburg_2022.md` • #000456 • Slug: `sturmtruppler-in-neubrandenburg`
+> File: `000456_sturmtruppler-in-neubrandenburg_2022.md`
+> • #000456
+> • Slug: `sturmtruppler-in-neubrandenburg`

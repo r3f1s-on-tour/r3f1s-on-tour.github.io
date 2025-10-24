@@ -47,4 +47,6 @@ Nimm Dir Zeit auf Deiner Reise durch Oranienburg. Die Tour beginnt in der Bernau
 
 
 
-> File: `000438_skyline-oranienburg_2022.md` • #000438 • Slug: `skyline-oranienburg`
+> File: `000438_skyline-oranienburg_2022.md`
+> • #000438
+> • Slug: `skyline-oranienburg`

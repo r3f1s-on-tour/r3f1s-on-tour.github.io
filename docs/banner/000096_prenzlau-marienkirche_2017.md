@@ -47,4 +47,6 @@ Eine kleine Stadterkundung durch das Zentrum von Prenzlau.
 
 
 
-> File: `000096_prenzlau-marienkirche_2017.md` • #000096 • Slug: `prenzlau-marienkirche`
+> File: `000096_prenzlau-marienkirche_2017.md`
+> • #000096
+> • Slug: `prenzlau-marienkirche`

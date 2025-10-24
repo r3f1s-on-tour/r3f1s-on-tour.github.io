@@ -47,4 +47,6 @@ These 18 (or if you choose so 12) missions will take you straight to the place o
 
 
 
-> File: `000251_umbra-dresden-batbanner_2019.md` • #000251 • Slug: `umbra-dresden-batbanner`
+> File: `000251_umbra-dresden-batbanner_2019.md`
+> • #000251
+> • Slug: `umbra-dresden-batbanner`

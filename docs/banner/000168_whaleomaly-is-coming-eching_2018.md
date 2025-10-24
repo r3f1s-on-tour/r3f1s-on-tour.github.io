@@ -44,4 +44,6 @@ name: "Whaleomaly is Coming [Eching]"
 
 
 
-> File: `000168_whaleomaly-is-coming-eching_2018.md` • #000168 • Slug: `whaleomaly-is-coming-eching`
+> File: `000168_whaleomaly-is-coming-eching_2018.md`
+> • #000168
+> • Slug: `whaleomaly-is-coming-eching`

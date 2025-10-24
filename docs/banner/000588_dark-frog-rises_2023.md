@@ -48,4 +48,6 @@ Batfrog is calling!
 
 
 
-> File: `000588_dark-frog-rises_2023.md` • #000588 • Slug: `dark-frog-rises`
+> File: `000588_dark-frog-rises_2023.md`
+> • #000588
+> • Slug: `dark-frog-rises`

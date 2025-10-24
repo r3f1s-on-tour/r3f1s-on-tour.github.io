@@ -40,4 +40,6 @@ name: "Wale auch in Altötting"
 
 
 
-> File: `000193_wale-auch-in-alttting_2018.md` • #000193 • Slug: `wale-auch-in-alttting`
+> File: `000193_wale-auch-in-alttting_2018.md`
+> • #000193
+> • Slug: `wale-auch-in-alttting`

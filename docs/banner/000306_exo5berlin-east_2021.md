@@ -47,4 +47,6 @@ This mission leads you to famous places in Berlin.  See places of Resistance his
 
 
 
-> File: `000306_exo5berlin-east_2021.md` • #000306 • Slug: `exo5berlin-east`
+> File: `000306_exo5berlin-east_2021.md`
+> • #000306
+> • Slug: `exo5berlin-east`

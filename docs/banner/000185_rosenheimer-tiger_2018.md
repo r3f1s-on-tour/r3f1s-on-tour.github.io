@@ -47,4 +47,6 @@ Erkunde Rosenheim!
 
 
 
-> File: `000185_rosenheimer-tiger_2018.md` • #000185 • Slug: `rosenheimer-tiger`
+> File: `000185_rosenheimer-tiger_2018.md`
+> • #000185
+> • Slug: `rosenheimer-tiger`

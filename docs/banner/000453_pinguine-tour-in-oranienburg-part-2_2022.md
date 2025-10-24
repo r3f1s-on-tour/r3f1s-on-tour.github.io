@@ -43,4 +43,6 @@ Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> File: `000453_pinguine-tour-in-oranienburg-part-2_2022.md` • #000453 • Slug: `pinguine-tour-in-oranienburg-part-2`
+> File: `000453_pinguine-tour-in-oranienburg-part-2_2022.md`
+> • #000453
+> • Slug: `pinguine-tour-in-oranienburg-part-2`

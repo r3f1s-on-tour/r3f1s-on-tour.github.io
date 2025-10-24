@@ -43,4 +43,6 @@ Starte am Marktplatz und entdecke Strasburg Uckermark bei einer weihnachtlichen 
 
 
 
-> File: `000362_merry-christmas-strasburg_2021.md` • #000362 • Slug: `merry-christmas-strasburg`
+> File: `000362_merry-christmas-strasburg_2021.md`
+> • #000362
+> • Slug: `merry-christmas-strasburg`

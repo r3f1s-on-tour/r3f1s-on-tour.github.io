@@ -47,4 +47,6 @@ This tour will guide you around the area of the mongolian embassy.  Located near
 
 
 
-> File: `000303_mongolian-embassy_2021.md` • #000303 • Slug: `mongolian-embassy`
+> File: `000303_mongolian-embassy_2021.md`
+> • #000303
+> • Slug: `mongolian-embassy`

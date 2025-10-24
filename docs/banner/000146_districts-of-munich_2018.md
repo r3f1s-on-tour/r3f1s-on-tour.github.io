@@ -47,4 +47,6 @@ Mission-sequence through Munich's districts. DayTicket (Inneraum) helps ;)
 
 
 
-> File: `000146_districts-of-munich_2018.md` • #000146 • Slug: `districts-of-munich`
+> File: `000146_districts-of-munich_2018.md`
+> • #000146
+> • Slug: `districts-of-munich`

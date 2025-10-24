@@ -48,4 +48,6 @@ Builder.Enginer-Hacker-Purifier-Translator-Trekker
 
 
 
-> File: `000548_mzfpk-birkenwerder_2023.md` • #000548 • Slug: `mzfpk-birkenwerder`
+> File: `000548_mzfpk-birkenwerder_2023.md`
+> • #000548
+> • Slug: `mzfpk-birkenwerder`

@@ -47,4 +47,6 @@ Eine gemütliche Runde durch den Stadtbezirk Elberfeld der Stadt Wuppertal.
 
 
 
-> File: `000508_elberfeld-im-schneckentempo_2022.md` • #000508 • Slug: `elberfeld-im-schneckentempo`
+> File: `000508_elberfeld-im-schneckentempo_2022.md`
+> • #000508
+> • Slug: `elberfeld-im-schneckentempo`

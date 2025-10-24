@@ -47,4 +47,6 @@ Teil 1 der großen Wiesnreihe. Start und Ende an der Theresienwiese. Hälfte der
 
 
 
-> File: `000224_das-groe-wiesn-mosaik-teil-1_2019.md` • #000224 • Slug: `das-groe-wiesn-mosaik-teil-1`
+> File: `000224_das-groe-wiesn-mosaik-teil-1_2019.md`
+> • #000224
+> • Slug: `das-groe-wiesn-mosaik-teil-1`

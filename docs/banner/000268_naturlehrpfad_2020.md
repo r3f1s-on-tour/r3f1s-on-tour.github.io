@@ -48,4 +48,6 @@ Lernt etwas daraus und habt spaß beim Wandern.
 
 
 
-> File: `000268_naturlehrpfad_2020.md` • #000268 • Slug: `naturlehrpfad`
+> File: `000268_naturlehrpfad_2020.md`
+> • #000268
+> • Slug: `naturlehrpfad`

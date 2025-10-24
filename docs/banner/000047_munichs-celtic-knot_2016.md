@@ -47,4 +47,6 @@ name: "MUNICHS CELTIC KNOT"
 
 
 
-> File: `000047_munichs-celtic-knot_2016.md` • #000047 • Slug: `munichs-celtic-knot`
+> File: `000047_munichs-celtic-knot_2016.md`
+> • #000047
+> • Slug: `munichs-celtic-knot`

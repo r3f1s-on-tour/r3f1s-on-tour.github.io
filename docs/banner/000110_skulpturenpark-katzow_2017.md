@@ -47,4 +47,6 @@ Der Park besteht seit 1991. Gründer des Skulpturenparks Katzow ist der Bildhaue
 
 
 
-> File: `000110_skulpturenpark-katzow_2017.md` • #000110 • Slug: `skulpturenpark-katzow`
+> File: `000110_skulpturenpark-katzow_2017.md`
+> • #000110
+> • Slug: `skulpturenpark-katzow`

@@ -48,4 +48,6 @@ Mission 1- Vom Rathaus Richtung Stadtpark
 
 
 
-> File: `000194_ich-mag-waldkraiburg_2018.md` • #000194 • Slug: `ich-mag-waldkraiburg`
+> File: `000194_ich-mag-waldkraiburg_2018.md`
+> • #000194
+> • Slug: `ich-mag-waldkraiburg`

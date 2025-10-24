@@ -47,4 +47,6 @@ Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> File: `000493_mein-grner-kaktus-in-oranienburg_2022.md` • #000493 • Slug: `mein-grner-kaktus-in-oranienburg`
+> File: `000493_mein-grner-kaktus-in-oranienburg_2022.md`
+> • #000493
+> • Slug: `mein-grner-kaktus-in-oranienburg`

@@ -47,4 +47,6 @@ Starte am Hauptbahnhof einen Rundgang und entdecke Wuppertal. Auf deinem Abenteu
 
 
 
-> File: `000507_deifel-in-wuppertal_2022.md` • #000507 • Slug: `deifel-in-wuppertal`
+> File: `000507_deifel-in-wuppertal_2022.md`
+> • #000507
+> • Slug: `deifel-in-wuppertal`

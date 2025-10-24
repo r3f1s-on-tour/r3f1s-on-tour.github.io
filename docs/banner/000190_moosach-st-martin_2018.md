@@ -47,4 +47,6 @@ Die Alte Pfarrkirche St. Martin im Münchner Stadtteil Moosach
 
 
 
-> File: `000190_moosach-st-martin_2018.md` • #000190 • Slug: `moosach-st-martin`
+> File: `000190_moosach-st-martin_2018.md`
+> • #000190
+> • Slug: `moosach-st-martin`

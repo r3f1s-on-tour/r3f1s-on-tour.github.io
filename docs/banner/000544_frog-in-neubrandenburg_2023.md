@@ -47,4 +47,6 @@ Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde die Sehens
 
 
 
-> File: `000544_frog-in-neubrandenburg_2023.md` • #000544 • Slug: `frog-in-neubrandenburg`
+> File: `000544_frog-in-neubrandenburg_2023.md`
+> • #000544
+> • Slug: `frog-in-neubrandenburg`

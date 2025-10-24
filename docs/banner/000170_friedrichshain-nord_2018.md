@@ -40,4 +40,6 @@ name: "Friedrichshain Nord"
 
 
 
-> File: `000170_friedrichshain-nord_2018.md` • #000170 • Slug: `friedrichshain-nord`
+> File: `000170_friedrichshain-nord_2018.md`
+> • #000170
+> • Slug: `friedrichshain-nord`

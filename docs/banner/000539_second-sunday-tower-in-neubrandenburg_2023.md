@@ -47,4 +47,6 @@ Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde Sehenswür
 
 
 
-> File: `000539_second-sunday-tower-in-neubrandenburg_2023.md` • #000539 • Slug: `second-sunday-tower-in-neubrandenburg`
+> File: `000539_second-sunday-tower-in-neubrandenburg_2023.md`
+> • #000539
+> • Slug: `second-sunday-tower-in-neubrandenburg`

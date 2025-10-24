@@ -40,4 +40,6 @@ name: "Catpool (Rote Münchner Katze)"
 
 
 
-> File: `000205_catpool-rote-mnchner-katze_2018.md` • #000205 • Slug: `catpool-rote-mnchner-katze`
+> File: `000205_catpool-rote-mnchner-katze_2018.md`
+> • #000205
+> • Slug: `catpool-rote-mnchner-katze`

@@ -47,4 +47,6 @@ Nach Absolvieren der Missionsreihe erhalten Sie ein schönes Bild des Schweriner
 
 
 
-> File: `000427_schweriner-schloss_2022.md` • #000427 • Slug: `schweriner-schloss`
+> File: `000427_schweriner-schloss_2022.md`
+> • #000427
+> • Slug: `schweriner-schloss`

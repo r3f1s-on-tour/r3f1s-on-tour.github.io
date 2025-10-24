@@ -47,4 +47,6 @@ In der ersten Mission beginnt ihr den Rundgang durch das historische Neustrelitz
 
 
 
-> File: `000173_schlosskirche-mosaik-teil_2018.md` • #000173 • Slug: `schlosskirche-mosaik-teil`
+> File: `000173_schlosskirche-mosaik-teil_2018.md`
+> • #000173
+> • Slug: `schlosskirche-mosaik-teil`

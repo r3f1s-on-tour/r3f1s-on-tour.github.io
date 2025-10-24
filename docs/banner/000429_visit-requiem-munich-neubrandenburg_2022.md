@@ -47,4 +47,6 @@ In 2020 there will be an epic fight between the enlightened and resistance in Mu
 
 
 
-> File: `000429_visit-requiem-munich-neubrandenburg_2022.md` • #000429 • Slug: `visit-requiem-munich-neubrandenburg`
+> File: `000429_visit-requiem-munich-neubrandenburg_2022.md`
+> • #000429
+> • Slug: `visit-requiem-munich-neubrandenburg`

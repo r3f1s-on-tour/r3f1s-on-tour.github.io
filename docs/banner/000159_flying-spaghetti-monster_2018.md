@@ -47,4 +47,6 @@ Diese Mosaik führt vom Bahnhof Unterschleißheim zum Bahnhof Lohhof mit vielen 
 
 
 
-> File: `000159_flying-spaghetti-monster_2018.md` • #000159 • Slug: `flying-spaghetti-monster`
+> File: `000159_flying-spaghetti-monster_2018.md`
+> • #000159
+> • Slug: `flying-spaghetti-monster`

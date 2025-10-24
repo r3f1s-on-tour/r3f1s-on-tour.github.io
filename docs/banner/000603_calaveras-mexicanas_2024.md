@@ -47,4 +47,6 @@ La Plaza de Toros de Valencia fue inaugurada en 1851. Su estilo neoclásico fue 
 
 
 
-> File: `000603_calaveras-mexicanas_2024.md` • #000603 • Slug: `calaveras-mexicanas`
+> File: `000603_calaveras-mexicanas_2024.md`
+> • #000603
+> • Slug: `calaveras-mexicanas`

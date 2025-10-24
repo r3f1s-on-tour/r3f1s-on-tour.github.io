@@ -47,4 +47,6 @@ Vom Max-Weber-Platz mit der Tram 25 nach Grünwald. Am Ende kann in Grünwald no
 
 
 
-> File: `000081_mit-der-25-nach-grnwald_2017.md` • #000081 • Slug: `mit-der-25-nach-grnwald`
+> File: `000081_mit-der-25-nach-grnwald_2017.md`
+> • #000081
+> • Slug: `mit-der-25-nach-grnwald`

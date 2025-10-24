@@ -47,4 +47,6 @@ Erkunde die Innenstadt von Neubrandenburg mit all ihren mittelalterlichen Gebäu
 
 
 
-> File: `000368_green-wolfgreen_2021.md` • #000368 • Slug: `green-wolfgreen`
+> File: `000368_green-wolfgreen_2021.md`
+> • #000368
+> • Slug: `green-wolfgreen`

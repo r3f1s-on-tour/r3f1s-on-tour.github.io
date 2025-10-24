@@ -47,4 +47,6 @@ Erkunde Neubrandenburg in der Weihnachtszeit. Die Mission beginnt und endet auf 
 
 
 
-> File: `000367_weihnachten-in-neubrandenburg-second-sunday_2021.md` • #000367 • Slug: `weihnachten-in-neubrandenburg-second-sunday`
+> File: `000367_weihnachten-in-neubrandenburg-second-sunday_2021.md`
+> • #000367
+> • Slug: `weihnachten-in-neubrandenburg-second-sunday`

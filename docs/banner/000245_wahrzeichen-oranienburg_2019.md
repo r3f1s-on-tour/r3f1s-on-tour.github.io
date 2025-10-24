@@ -49,4 +49,6 @@ Viel Spaß
 
 
 
-> File: `000245_wahrzeichen-oranienburg_2019.md` • #000245 • Slug: `wahrzeichen-oranienburg`
+> File: `000245_wahrzeichen-oranienburg_2019.md`
+> • #000245
+> • Slug: `wahrzeichen-oranienburg`

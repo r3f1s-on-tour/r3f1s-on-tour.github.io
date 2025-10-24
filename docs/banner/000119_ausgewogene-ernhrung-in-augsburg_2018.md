@@ -44,4 +44,6 @@ name: "Ausgewogene Ernährung in Augsburg"
 
 
 
-> File: `000119_ausgewogene-ernhrung-in-augsburg_2018.md` • #000119 • Slug: `ausgewogene-ernhrung-in-augsburg`
+> File: `000119_ausgewogene-ernhrung-in-augsburg_2018.md`
+> • #000119
+> • Slug: `ausgewogene-ernhrung-in-augsburg`

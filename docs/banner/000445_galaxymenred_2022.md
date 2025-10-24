@@ -43,4 +43,6 @@ Der Urknall fand am Bhf Lichtenberg statt.Nun breitet sich eine neue Galaxy Rich
 
 
 
-> File: `000445_galaxymenred_2022.md` • #000445 • Slug: `galaxymenred`
+> File: `000445_galaxymenred_2022.md`
+> • #000445
+> • Slug: `galaxymenred`

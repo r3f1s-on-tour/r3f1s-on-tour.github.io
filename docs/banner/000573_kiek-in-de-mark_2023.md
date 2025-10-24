@@ -47,4 +47,6 @@ Walk through the city and pick up a banner with the tower in rainbow colours.
 
 
 
-> File: `000573_kiek-in-de-mark_2023.md` • #000573 • Slug: `kiek-in-de-mark`
+> File: `000573_kiek-in-de-mark_2023.md`
+> • #000573
+> • Slug: `kiek-in-de-mark`

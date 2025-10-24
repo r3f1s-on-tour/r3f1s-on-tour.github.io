@@ -47,4 +47,6 @@ Visit the historic city center of Dresden and create a beautiful artistic Skylin
 
 
 
-> File: `000253_dresden-artistic-skyline_2019.md` • #000253 • Slug: `dresden-artistic-skyline`
+> File: `000253_dresden-artistic-skyline_2019.md`
+> • #000253
+> • Slug: `dresden-artistic-skyline`

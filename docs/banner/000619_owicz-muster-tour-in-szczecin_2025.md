@@ -28,8 +28,17 @@ name: "Łowicz-Muster Tour in Szczecin"
 ![Łowicz-Muster Tour in Szczecin](https://api.bannergress.com/bnrs/pictures/20d5ac49d45afb2407fdb2b5f81576b0)
 
 
-<div style="margin: 10px 0 18px; padding: 10px 12px; border-left: 6px solid #f0ad4e; background: #fff8e6; border-radius: 6px;">
-  <strong>Notice:</strong><br>
+<div style="
+  margin: 10px 0 18px;
+  padding: 12px 14px;
+  border: 2px solid #FFD500;
+  background-color: #000;
+  color: #fff;
+  border-radius: 8px;
+  font-weight: 500;
+  line-height: 1.5;
+">
+  ⚠️ <strong>Notice:</strong><br>
   Ende der Polen Rundreise
 </div>
 
@@ -49,4 +58,6 @@ name: "Łowicz-Muster Tour in Szczecin"
 
 
 
-> File: `000619_owicz-muster-tour-in-szczecin_2025.md` • #000619 • Slug: `owicz-muster-tour-in-szczecin`
+> File: `000619_owicz-muster-tour-in-szczecin_2025.md`
+> • #000619
+> • Slug: `owicz-muster-tour-in-szczecin`

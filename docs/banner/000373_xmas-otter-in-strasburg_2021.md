@@ -43,4 +43,6 @@ Mache eine Entdeckungsrunde durch Strasburg und hole dir paar XMas Otter ins Pro
 
 
 
-> File: `000373_xmas-otter-in-strasburg_2021.md` • #000373 • Slug: `xmas-otter-in-strasburg`
+> File: `000373_xmas-otter-in-strasburg_2021.md`
+> • #000373
+> • Slug: `xmas-otter-in-strasburg`

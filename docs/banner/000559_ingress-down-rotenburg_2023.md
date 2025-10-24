@@ -47,4 +47,6 @@ Entdecke spannende Orte und historische Ecken bei einem kleinen Rundgang durch R
 
 
 
-> File: `000559_ingress-down-rotenburg_2023.md` • #000559 • Slug: `ingress-down-rotenburg`
+> File: `000559_ingress-down-rotenburg_2023.md`
+> • #000559
+> • Slug: `ingress-down-rotenburg`

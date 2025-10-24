@@ -40,4 +40,6 @@ name: "Whaleomaly is Coming [Berg am Laim]"
 
 
 
-> File: `000175_whaleomaly-is-coming-berg-am-laim_2018.md` • #000175 • Slug: `whaleomaly-is-coming-berg-am-laim`
+> File: `000175_whaleomaly-is-coming-berg-am-laim_2018.md`
+> • #000175
+> • Slug: `whaleomaly-is-coming-berg-am-laim`

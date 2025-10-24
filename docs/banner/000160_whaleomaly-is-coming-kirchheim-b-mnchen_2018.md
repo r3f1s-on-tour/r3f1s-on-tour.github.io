@@ -49,4 +49,6 @@ Entdecke Kirchheims Wale! Bring sie mit, damit wir diese bei der Walomalie in Li
 
 
 
-> File: `000160_whaleomaly-is-coming-kirchheim-b-mnchen_2018.md` • #000160 • Slug: `whaleomaly-is-coming-kirchheim-b-mnchen`
+> File: `000160_whaleomaly-is-coming-kirchheim-b-mnchen_2018.md`
+> • #000160
+> • Slug: `whaleomaly-is-coming-kirchheim-b-mnchen`

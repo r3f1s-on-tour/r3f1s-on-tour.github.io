@@ -47,4 +47,6 @@ Jeden z symboli miejskich Szczecina. Symbol książąt z dynastii Gryfitów.
 
 
 
-> File: `000023_gryf-szczeciski_2016.md` • #000023 • Slug: `gryf-szczeciski`
+> File: `000023_gryf-szczeciski_2016.md`
+> • #000023
+> • Slug: `gryf-szczeciski`

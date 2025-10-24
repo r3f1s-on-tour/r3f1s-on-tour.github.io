@@ -47,4 +47,6 @@ Gehe auf Entdeckungstour durch die Hansestadt Stralsund. Diese Mission beginnt a
 
 
 
-> File: `000333_stralsund-map-anno-1628_2021.md` • #000333 • Slug: `stralsund-map-anno-1628`
+> File: `000333_stralsund-map-anno-1628_2021.md`
+> • #000333
+> • Slug: `stralsund-map-anno-1628`

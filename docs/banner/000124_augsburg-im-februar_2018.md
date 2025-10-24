@@ -40,4 +40,6 @@ name: "Augsburg im Februar"
 
 
 
-> File: `000124_augsburg-im-februar_2018.md` • #000124 • Slug: `augsburg-im-februar`
+> File: `000124_augsburg-im-februar_2018.md`
+> • #000124
+> • Slug: `augsburg-im-februar`

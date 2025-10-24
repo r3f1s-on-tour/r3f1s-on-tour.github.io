@@ -47,4 +47,6 @@ Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und end
 
 
 
-> File: `000481_halloween-ghosts-in-oranienburg_2022.md` • #000481 • Slug: `halloween-ghosts-in-oranienburg`
+> File: `000481_halloween-ghosts-in-oranienburg_2022.md`
+> • #000481
+> • Slug: `halloween-ghosts-in-oranienburg`

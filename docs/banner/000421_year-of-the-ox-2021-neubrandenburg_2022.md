@@ -47,4 +47,6 @@ Erkunde die Innenstadt von Neubrandenburg. Die Mission beginnt und endet auf dem
 
 
 
-> File: `000421_year-of-the-ox-2021-neubrandenburg_2022.md` • #000421 • Slug: `year-of-the-ox-2021-neubrandenburg`
+> File: `000421_year-of-the-ox-2021-neubrandenburg_2022.md`
+> • #000421
+> • Slug: `year-of-the-ox-2021-neubrandenburg`

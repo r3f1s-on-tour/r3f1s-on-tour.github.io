@@ -47,4 +47,6 @@ Eine Tour vom Schloss Nymphenburg über den Hubertusbrunnen zum Löwenbräukelle
 
 
 
-> File: `000144_nymphenburg_2018.md` • #000144 • Slug: `nymphenburg`
+> File: `000144_nymphenburg_2018.md`
+> • #000144
+> • Slug: `nymphenburg`

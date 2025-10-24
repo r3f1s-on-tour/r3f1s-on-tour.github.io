@@ -47,4 +47,6 @@ Entdecke auf diesem grossen Rundgang die mindere und die mehrere Altstadt von Z�
 
 
 
-> File: `000055_zrich-altstadt_2017.md` • #000055 • Slug: `zrich-altstadt`
+> File: `000055_zrich-altstadt_2017.md`
+> • #000055
+> • Slug: `zrich-altstadt`

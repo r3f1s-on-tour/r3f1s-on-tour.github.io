@@ -48,4 +48,6 @@ Start - Brama Portowa!
 
 
 
-> File: `000432_szczeciska-akwarela_2022.md` • #000432 • Slug: `szczeciska-akwarela`
+> File: `000432_szczeciska-akwarela_2022.md`
+> • #000432
+> • Slug: `szczeciska-akwarela`

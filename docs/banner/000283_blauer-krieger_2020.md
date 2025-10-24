@@ -47,4 +47,6 @@ Erkunde die Stadt München ab dem Hauptbahnhof über Schwanthalerhöhe bis zum S
 
 
 
-> File: `000283_blauer-krieger_2020.md` • #000283 • Slug: `blauer-krieger`
+> File: `000283_blauer-krieger_2020.md`
+> • #000283
+> • Slug: `blauer-krieger`

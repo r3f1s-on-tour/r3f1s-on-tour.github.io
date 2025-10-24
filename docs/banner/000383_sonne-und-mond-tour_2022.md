@@ -47,4 +47,6 @@ Starte am Zeiss-Großplanetarium eine Entdeckungsrunde nach Weissensee
 
 
 
-> File: `000383_sonne-und-mond-tour_2022.md` • #000383 • Slug: `sonne-und-mond-tour`
+> File: `000383_sonne-und-mond-tour_2022.md`
+> • #000383
+> • Slug: `sonne-und-mond-tour`

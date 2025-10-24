@@ -47,4 +47,6 @@ Starte auf dem Markt eine Entdeckungsreise durch die Stadt Pasewalk und entdecke
 
 
 
-> File: `000412_retrogaming-pengo_2022.md` • #000412 • Slug: `retrogaming-pengo`
+> File: `000412_retrogaming-pengo_2022.md`
+> • #000412
+> • Slug: `retrogaming-pengo`

@@ -40,4 +40,6 @@ name: "Eine Woche voller Kuchen"
 
 
 
-> File: `000123_eine-woche-voller-kuchen_2018.md` • #000123 • Slug: `eine-woche-voller-kuchen`
+> File: `000123_eine-woche-voller-kuchen_2018.md`
+> • #000123
+> • Slug: `eine-woche-voller-kuchen`

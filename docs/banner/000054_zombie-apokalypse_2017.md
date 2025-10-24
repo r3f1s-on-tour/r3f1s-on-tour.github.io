@@ -47,4 +47,6 @@ Zombies überrennen die Stadt. Versuche zu entkommen und durchquere die Altstadt
 
 
 
-> File: `000054_zombie-apokalypse_2017.md` • #000054 • Slug: `zombie-apokalypse`
+> File: `000054_zombie-apokalypse_2017.md`
+> • #000054
+> • Slug: `zombie-apokalypse`

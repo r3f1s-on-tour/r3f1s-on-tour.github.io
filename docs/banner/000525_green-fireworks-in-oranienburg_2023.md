@@ -43,4 +43,6 @@ Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> File: `000525_green-fireworks-in-oranienburg_2023.md` • #000525 • Slug: `green-fireworks-in-oranienburg`
+> File: `000525_green-fireworks-in-oranienburg_2023.md`
+> • #000525
+> • Slug: `green-fireworks-in-oranienburg`

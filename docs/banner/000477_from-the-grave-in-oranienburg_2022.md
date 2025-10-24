@@ -47,4 +47,6 @@ Starte in der Bernauer Straße eine Entdeckungstour durch Oranienburg entdecke a
 
 
 
-> File: `000477_from-the-grave-in-oranienburg_2022.md` • #000477 • Slug: `from-the-grave-in-oranienburg`
+> File: `000477_from-the-grave-in-oranienburg_2022.md`
+> • #000477
+> • Slug: `from-the-grave-in-oranienburg`

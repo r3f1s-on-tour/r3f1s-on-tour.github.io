@@ -47,4 +47,6 @@ Szczecin Dźwigozaury
 
 
 
-> File: `000437_szczecin-dwigozaury_2022.md` • #000437 • Slug: `szczecin-dwigozaury`
+> File: `000437_szczecin-dwigozaury_2022.md`
+> • #000437
+> • Slug: `szczecin-dwigozaury`

@@ -47,4 +47,6 @@ In former times Munich had two city walls. Later the town was transformed into a
 
 
 
-> File: `000044_munich-city-walls_2016.md` • #000044 • Slug: `munich-city-walls`
+> File: `000044_munich-city-walls_2016.md`
+> • #000044
+> • Slug: `munich-city-walls`

@@ -47,4 +47,6 @@ Der Ameisennebel ist ein junger planetarischer Nebel. Der Name Ameisennebel komm
 
 
 
-> File: `000129_ameisennebel-rdelheim_2018.md` • #000129 • Slug: `ameisennebel-rdelheim`
+> File: `000129_ameisennebel-rdelheim_2018.md`
+> • #000129
+> • Slug: `ameisennebel-rdelheim`

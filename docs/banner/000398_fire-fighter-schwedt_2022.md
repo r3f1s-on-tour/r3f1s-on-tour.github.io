@@ -47,4 +47,6 @@ Eine Runde durch Schwedt wird belohnt mit diesem tollen Banner.
 
 
 
-> File: `000398_fire-fighter-schwedt_2022.md` • #000398 • Slug: `fire-fighter-schwedt`
+> File: `000398_fire-fighter-schwedt_2022.md`
+> • #000398
+> • Slug: `fire-fighter-schwedt`

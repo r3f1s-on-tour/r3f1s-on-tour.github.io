@@ -43,4 +43,6 @@ Mache eine kleine Tour durch Oranienburg und hole dir die Toasts ins Profil
 
 
 
-> File: `000380_new-years-toast-in-oranienburg_2022.md` • #000380 • Slug: `new-years-toast-in-oranienburg`
+> File: `000380_new-years-toast-in-oranienburg_2022.md`
+> • #000380
+> • Slug: `new-years-toast-in-oranienburg`

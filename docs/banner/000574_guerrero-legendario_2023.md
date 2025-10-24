@@ -47,4 +47,6 @@ Paseo por el centro de Madrid
 
 
 
-> File: `000574_guerrero-legendario_2023.md` • #000574 • Slug: `guerrero-legendario`
+> File: `000574_guerrero-legendario_2023.md`
+> • #000574
+> • Slug: `guerrero-legendario`

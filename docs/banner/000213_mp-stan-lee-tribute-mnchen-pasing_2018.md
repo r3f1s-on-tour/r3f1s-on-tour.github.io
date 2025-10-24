@@ -40,4 +40,6 @@ name: "#MP Stan Lee Tribute [München-Pasing]"
 
 
 
-> File: `000213_mp-stan-lee-tribute-mnchen-pasing_2018.md` • #000213 • Slug: `mp-stan-lee-tribute-mnchen-pasing`
+> File: `000213_mp-stan-lee-tribute-mnchen-pasing_2018.md`
+> • #000213
+> • Slug: `mp-stan-lee-tribute-mnchen-pasing`

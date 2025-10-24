@@ -40,4 +40,6 @@ name: "Region Skåne Banner"
 
 
 
-> File: `000201_region-skne-banner_2018.md` • #000201 • Slug: `region-skne-banner`
+> File: `000201_region-skne-banner_2018.md`
+> • #000201
+> • Slug: `region-skne-banner`

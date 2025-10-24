@@ -47,4 +47,6 @@ Ne Fixe Runde durch Hoyerswerda damit hier die Erleuchtung wieder einkehrt!
 
 
 
-> File: `000572_enlightened-mission_2023.md` • #000572 • Slug: `enlightened-mission`
+> File: `000572_enlightened-mission_2023.md`
+> • #000572
+> • Slug: `enlightened-mission`

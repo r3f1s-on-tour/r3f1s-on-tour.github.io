@@ -47,4 +47,6 @@ Besucht die Stadt am Strelasund. Als Belohnung erwarten euch die 12 Sternzeichen
 
 
 
-> File: `000377_sternbilder_2021.md` • #000377 • Slug: `sternbilder`
+> File: `000377_sternbilder_2021.md`
+> • #000377
+> • Slug: `sternbilder`

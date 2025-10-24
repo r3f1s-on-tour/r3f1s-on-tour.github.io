@@ -47,4 +47,6 @@ Mosaic around the Landungsbrücken
 
 
 
-> File: `000015_landungsbrcken_2015.md` • #000015 • Slug: `landungsbrcken`
+> File: `000015_landungsbrcken_2015.md`
+> • #000015
+> • Slug: `landungsbrcken`

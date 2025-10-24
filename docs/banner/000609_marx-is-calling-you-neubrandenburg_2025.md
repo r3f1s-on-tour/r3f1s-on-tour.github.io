@@ -47,4 +47,6 @@ name: "Marx is calling you - Neubrandenburg"
 
 
 
-> File: `000609_marx-is-calling-you-neubrandenburg_2025.md` • #000609 • Slug: `marx-is-calling-you-neubrandenburg`
+> File: `000609_marx-is-calling-you-neubrandenburg_2025.md`
+> • #000609
+> • Slug: `marx-is-calling-you-neubrandenburg`

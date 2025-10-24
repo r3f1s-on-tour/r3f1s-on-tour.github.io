@@ -47,4 +47,6 @@ Can you solve this riddle at the FS in Dresden?
 
 
 
-> File: `000586_fs-rubik-cube_2023.md` • #000586 • Slug: `fs-rubik-cube`
+> File: `000586_fs-rubik-cube_2023.md`
+> • #000586
+> • Slug: `fs-rubik-cube`

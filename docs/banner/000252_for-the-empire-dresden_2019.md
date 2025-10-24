@@ -47,4 +47,6 @@ For the Empire Umbra Anomaly banner
 
 
 
-> File: `000252_for-the-empire-dresden_2019.md` • #000252 • Slug: `for-the-empire-dresden`
+> File: `000252_for-the-empire-dresden_2019.md`
+> • #000252
+> • Slug: `for-the-empire-dresden`

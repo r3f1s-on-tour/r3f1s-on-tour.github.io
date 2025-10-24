@@ -47,4 +47,6 @@ Beginne eine Runde durch Strasburg und entdecke auf deiner Runde Sehenswürdigke
 
 
 
-> File: `000542_space-cats-in-strasburg_2023.md` • #000542 • Slug: `space-cats-in-strasburg`
+> File: `000542_space-cats-in-strasburg_2023.md`
+> • #000542
+> • Slug: `space-cats-in-strasburg`

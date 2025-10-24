@@ -47,4 +47,6 @@ Teil 1 der Tour "Museumshafen Greifswald"
 
 
 
-> File: `000010_museumshafen-greifswald_2015.md` • #000010 • Slug: `museumshafen-greifswald`
+> File: `000010_museumshafen-greifswald_2015.md`
+> • #000010
+> • Slug: `museumshafen-greifswald`

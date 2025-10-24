@@ -47,4 +47,6 @@ Entdecke bei diesen Missionen insbesondere auch die Stadtmauer von Neubrandenbur
 
 
 
-> File: `000622_stadtmauer-in-neubrandenburg_2025.md` • #000622 • Slug: `stadtmauer-in-neubrandenburg`
+> File: `000622_stadtmauer-in-neubrandenburg_2025.md`
+> • #000622
+> • Slug: `stadtmauer-in-neubrandenburg`

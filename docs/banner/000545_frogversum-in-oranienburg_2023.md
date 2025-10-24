@@ -47,4 +47,6 @@ Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdig
 
 
 
-> File: `000545_frogversum-in-oranienburg_2023.md` • #000545 • Slug: `frogversum-in-oranienburg`
+> File: `000545_frogversum-in-oranienburg_2023.md`
+> • #000545
+> • Slug: `frogversum-in-oranienburg`

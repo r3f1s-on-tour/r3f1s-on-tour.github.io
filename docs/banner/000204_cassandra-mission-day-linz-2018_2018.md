@@ -47,4 +47,6 @@ Discover Linz through missions!
 
 
 
-> File: `000204_cassandra-mission-day-linz-2018_2018.md` • #000204 • Slug: `cassandra-mission-day-linz-2018`
+> File: `000204_cassandra-mission-day-linz-2018_2018.md`
+> • #000204
+> • Slug: `cassandra-mission-day-linz-2018`

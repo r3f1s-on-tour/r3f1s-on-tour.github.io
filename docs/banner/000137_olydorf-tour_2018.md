@@ -40,4 +40,6 @@ name: "Olydorf-Tour"
 
 
 
-> File: `000137_olydorf-tour_2018.md` • #000137 • Slug: `olydorf-tour`
+> File: `000137_olydorf-tour_2018.md`
+> • #000137
+> • Slug: `olydorf-tour`

@@ -47,4 +47,6 @@ Besuche die ehemalige Residenz der Würzburger Fürstbischöfe. Mosaik Mission. 
 
 
 
-> File: `000105_residenz-wrzburg_2017.md` • #000105 • Slug: `residenz-wrzburg`
+> File: `000105_residenz-wrzburg_2017.md`
+> • #000105
+> • Slug: `residenz-wrzburg`

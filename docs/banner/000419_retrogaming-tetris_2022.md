@@ -43,4 +43,6 @@ Starte am Markt eine Entdeckungsreise durch die Stadt Strasburg Uckermark und en
 
 
 
-> File: `000419_retrogaming-tetris_2022.md` • #000419 • Slug: `retrogaming-tetris`
+> File: `000419_retrogaming-tetris_2022.md`
+> • #000419
+> • Slug: `retrogaming-tetris`

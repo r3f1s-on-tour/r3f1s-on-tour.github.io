@@ -47,4 +47,6 @@ Celebra Halloween haciendo este bonito mural por las calles de Valencia.
 
 
 
-> File: `000596_lovers-in-halloween_2024.md` • #000596 • Slug: `lovers-in-halloween`
+> File: `000596_lovers-in-halloween_2024.md`
+> • #000596
+> • Slug: `lovers-in-halloween`

@@ -47,4 +47,6 @@ Geh mit deinen Freunden durch Löbtau
 
 
 
-> File: `000589_winter-friends_2023.md` • #000589 • Slug: `winter-friends`
+> File: `000589_winter-friends_2023.md`
+> • #000589
+> • Slug: `winter-friends`

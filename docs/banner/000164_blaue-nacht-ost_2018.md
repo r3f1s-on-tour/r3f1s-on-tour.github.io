@@ -40,4 +40,6 @@ name: "Blaue Nacht Ost"
 
 
 
-> File: `000164_blaue-nacht-ost_2018.md` • #000164 • Slug: `blaue-nacht-ost`
+> File: `000164_blaue-nacht-ost_2018.md`
+> • #000164
+> • Slug: `blaue-nacht-ost`

@@ -47,4 +47,6 @@ Der Stadtpark entstand auf Initiative von Oberst A. von Wulffen aus einem Schi
 
 
 
-> File: `000216_tiere-im-stadtpark-neurupin_2018.md` • #000216 • Slug: `tiere-im-stadtpark-neurupin`
+> File: `000216_tiere-im-stadtpark-neurupin_2018.md`
+> • #000216
+> • Slug: `tiere-im-stadtpark-neurupin`

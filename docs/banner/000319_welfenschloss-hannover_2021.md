@@ -47,4 +47,6 @@ Das Welfenschloss ist ein ehemaliges Schloss in Hannover im Stadtteil Nordstadt,
 
 
 
-> File: `000319_welfenschloss-hannover_2021.md` • #000319 • Slug: `welfenschloss-hannover`
+> File: `000319_welfenschloss-hannover_2021.md`
+> • #000319
+> • Slug: `welfenschloss-hannover`

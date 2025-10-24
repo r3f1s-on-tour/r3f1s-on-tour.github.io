@@ -48,4 +48,6 @@ Start ist U-Bahn Eberswalder Straße und endet bei der Tram Prenzlauer Allee / E
 
 
 
-> File: `000299_smoking-dark-side_2021.md` • #000299 • Slug: `smoking-dark-side`
+> File: `000299_smoking-dark-side_2021.md`
+> • #000299
+> • Slug: `smoking-dark-side`

@@ -47,4 +47,6 @@ Fühle den Herzschlag vom schönen Bad Aibling.
 
 
 
-> File: `000183_heart-core-beat-aibling_2018.md` • #000183 • Slug: `heart-core-beat-aibling`
+> File: `000183_heart-core-beat-aibling_2018.md`
+> • #000183
+> • Slug: `heart-core-beat-aibling`

@@ -47,4 +47,6 @@ Sei kein Frosch - und folge dem Weg des Widerstands durch die bayerische Landesh
 
 
 
-> File: `000090_munich-resists_2017.md` • #000090 • Slug: `munich-resists`
+> File: `000090_munich-resists_2017.md`
+> • #000090
+> • Slug: `munich-resists`

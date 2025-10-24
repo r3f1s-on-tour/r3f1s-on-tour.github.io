@@ -47,4 +47,6 @@ Besonderer Anziehungspunkt ist die 3,2 km lange Strandpromenade mit zahlreichen 
 
 
 
-> File: `000009_binz-auf-rgen_2015.md` • #000009 • Slug: `binz-auf-rgen`
+> File: `000009_binz-auf-rgen_2015.md`
+> • #000009
+> • Slug: `binz-auf-rgen`

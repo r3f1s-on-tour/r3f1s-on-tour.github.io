@@ -47,4 +47,6 @@ Zu den neuen Second Sundays Mission Days passt dieses Sushi Sonntag Banner. Auf 
 
 
 
-> File: `000496_sushi-sonntag_2022.md` • #000496 • Slug: `sushi-sonntag`
+> File: `000496_sushi-sonntag_2022.md`
+> • #000496
+> • Slug: `sushi-sonntag`

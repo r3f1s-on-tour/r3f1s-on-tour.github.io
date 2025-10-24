@@ -49,4 +49,6 @@ Das Catgress Mosaik besteht aus 24 Einzelmissionen (Hack/Passphrase)
 
 
 
-> File: `000180_catgress-landsberg_2018.md` • #000180 • Slug: `catgress-landsberg`
+> File: `000180_catgress-landsberg_2018.md`
+> • #000180
+> • Slug: `catgress-landsberg`

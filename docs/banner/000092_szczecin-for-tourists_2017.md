@@ -47,4 +47,6 @@ Welcome to Szczecin! Let's take a walk together and complete the banner! Hack-on
 
 
 
-> File: `000092_szczecin-for-tourists_2017.md` • #000092 • Slug: `szczecin-for-tourists`
+> File: `000092_szczecin-for-tourists_2017.md`
+> • #000092
+> • Slug: `szczecin-for-tourists`

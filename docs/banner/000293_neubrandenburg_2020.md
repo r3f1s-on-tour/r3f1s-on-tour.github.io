@@ -48,4 +48,6 @@ Fürst Kasimir von Pommern schenkt dem Havelberger Domstift einen Landstrich am 
 
 
 
-> File: `000293_neubrandenburg_2020.md` • #000293 • Slug: `neubrandenburg`
+> File: `000293_neubrandenburg_2020.md`
+> • #000293
+> • Slug: `neubrandenburg`

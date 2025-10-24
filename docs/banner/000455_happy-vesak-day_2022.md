@@ -47,4 +47,6 @@ Buddhists celebrate Vesak as their most important festival. This day, they remem
 
 
 
-> File: `000455_happy-vesak-day_2022.md` • #000455 • Slug: `happy-vesak-day`
+> File: `000455_happy-vesak-day_2022.md`
+> • #000455
+> • Slug: `happy-vesak-day`

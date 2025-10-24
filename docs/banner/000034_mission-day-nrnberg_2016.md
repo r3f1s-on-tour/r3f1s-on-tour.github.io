@@ -47,4 +47,6 @@ The former AEG factory premises have been become a lively urban site with IT off
 
 
 
-> File: `000034_mission-day-nrnberg_2016.md` • #000034 • Slug: `mission-day-nrnberg`
+> File: `000034_mission-day-nrnberg_2016.md`
+> • #000034
+> • Slug: `mission-day-nrnberg`

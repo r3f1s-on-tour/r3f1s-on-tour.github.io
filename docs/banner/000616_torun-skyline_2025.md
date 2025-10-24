@@ -44,4 +44,6 @@ name: "Torun skyline"
 
 
 
-> File: `000616_torun-skyline_2025.md` • #000616 • Slug: `torun-skyline`
+> File: `000616_torun-skyline_2025.md`
+> • #000616
+> • Slug: `torun-skyline`

@@ -50,4 +50,6 @@ With pretty hard questions. If you need help contact @ElliOpp via telegram.
 
 
 
-> File: `000510_a-fantasy-icon_2022.md` • #000510 • Slug: `a-fantasy-icon`
+> File: `000510_a-fantasy-icon_2022.md`
+> • #000510
+> • Slug: `a-fantasy-icon`

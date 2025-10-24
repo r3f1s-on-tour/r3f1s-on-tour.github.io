@@ -48,4 +48,6 @@ This tour guides you through the Old Town of Frankfurt. We start on the Roemerbe
 
 
 
-> File: `000130_old-town-frankfurt_2018.md` • #000130 • Slug: `old-town-frankfurt`
+> File: `000130_old-town-frankfurt_2018.md`
+> • #000130
+> • Slug: `old-town-frankfurt`

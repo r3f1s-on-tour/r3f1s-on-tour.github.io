@@ -47,4 +47,6 @@ Servus, Griaß di und Habedere in Rengschburg! Dieses Mosaik hat insgesamt 60 Mi
 
 
 
-> File: `000191_rengschburger-dom_2018.md` • #000191 • Slug: `rengschburger-dom`
+> File: `000191_rengschburger-dom_2018.md`
+> • #000191
+> • Slug: `rengschburger-dom`

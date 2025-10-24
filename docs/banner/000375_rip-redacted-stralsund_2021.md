@@ -47,4 +47,6 @@ Begebe dich auf eine Entdeckungsreise durch die engen Gassen der Stralsunder Alt
 
 
 
-> File: `000375_rip-redacted-stralsund_2021.md` • #000375 • Slug: `rip-redacted-stralsund`
+> File: `000375_rip-redacted-stralsund_2021.md`
+> • #000375
+> • Slug: `rip-redacted-stralsund`

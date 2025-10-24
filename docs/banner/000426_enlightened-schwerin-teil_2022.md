@@ -47,4 +47,6 @@ Der Alte Garten wartet ;)
 
 
 
-> File: `000426_enlightened-schwerin-teil_2022.md` • #000426 • Slug: `enlightened-schwerin-teil`
+> File: `000426_enlightened-schwerin-teil_2022.md`
+> • #000426
+> • Slug: `enlightened-schwerin-teil`

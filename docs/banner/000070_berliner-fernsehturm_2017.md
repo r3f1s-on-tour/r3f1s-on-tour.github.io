@@ -49,4 +49,6 @@ Zur Umgehung des nicht öffentlich begehbaren Charitè-Geländes sind die Missio
 
 
 
-> File: `000070_berliner-fernsehturm_2017.md` • #000070 • Slug: `berliner-fernsehturm`
+> File: `000070_berliner-fernsehturm_2017.md`
+> • #000070
+> • Slug: `berliner-fernsehturm`

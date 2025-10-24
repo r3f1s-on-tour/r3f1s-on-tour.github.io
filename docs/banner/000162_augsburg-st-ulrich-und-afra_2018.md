@@ -44,4 +44,6 @@ name: "Augsburg St Ulrich und Afra"
 
 
 
-> File: `000162_augsburg-st-ulrich-und-afra_2018.md` • #000162 • Slug: `augsburg-st-ulrich-und-afra`
+> File: `000162_augsburg-st-ulrich-und-afra_2018.md`
+> • #000162
+> • Slug: `augsburg-st-ulrich-und-afra`

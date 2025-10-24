@@ -47,4 +47,6 @@ Die Stadt gehörte nach dem Erlöschen des Fürstentums Rügen 1325 zu Pommern-W
 
 
 
-> File: `000332_das-stralsunder-rathaus_2021.md` • #000332 • Slug: `das-stralsunder-rathaus`
+> File: `000332_das-stralsunder-rathaus_2021.md`
+> • #000332
+> • Slug: `das-stralsunder-rathaus`

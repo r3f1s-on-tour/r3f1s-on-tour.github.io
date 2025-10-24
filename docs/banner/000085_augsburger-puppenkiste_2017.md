@@ -47,4 +47,6 @@ This mosaic is devoted to Augsburger Puppenkiste. It is a well known marionette 
 
 
 
-> File: `000085_augsburger-puppenkiste_2017.md` • #000085 • Slug: `augsburger-puppenkiste`
+> File: `000085_augsburger-puppenkiste_2017.md`
+> • #000085
+> • Slug: `augsburger-puppenkiste`

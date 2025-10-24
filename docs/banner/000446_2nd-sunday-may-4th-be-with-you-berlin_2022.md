@@ -44,4 +44,6 @@ This graphic is submitted / accepted around the Globe in different cities
 
 
 
-> File: `000446_2nd-sunday-may-4th-be-with-you-berlin_2022.md` • #000446 • Slug: `2nd-sunday-may-4th-be-with-you-berlin`
+> File: `000446_2nd-sunday-may-4th-be-with-you-berlin_2022.md`
+> • #000446
+> • Slug: `2nd-sunday-may-4th-be-with-you-berlin`
