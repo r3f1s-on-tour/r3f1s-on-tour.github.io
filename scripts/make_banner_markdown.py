@@ -39,7 +39,7 @@ PICTURE_KEYS = [
     "picture","pictures","image","images","img","pic","pic_url",
     "picture_url","image_url","bild","bilder","pictureurl","imageurl"
 ]
-EXCLUDED_SANITIZE_KEYS = {"bg-link","picture"}  # do not replace ":" in these
+EXCLUDED_SANITIZE_KEYS = {"bg-link", "picture", "notice", "description"}  # never sanitize
 URL_PREFIXES = ("http://","https://")
 IDENTIFIER_RE = re.compile(r"[A-Za-z_][A-Za-z0-9_]*$")
 
@@ -110,8 +110,15 @@ def is_urlish(value: Any) -> bool:
     return isinstance(value, str) and value.strip().startswith(URL_PREFIXES)
 
 def sanitize_value(key: str, val: Any) -> str:
+    """
+    Replace ':' with '-' to avoid YAML issues, except:
+    - for keys in EXCLUDED_SANITIZE_KEYS
+    - for any value that looks like a URL (starts with http:// or https://)
+    """
     s = "" if val is None else str(val)
     if key.lower() in EXCLUDED_SANITIZE_KEYS:
+        return s.strip()
+    if is_urlish(s):
         return s.strip()
     return s.replace(":", "-").strip()
 
