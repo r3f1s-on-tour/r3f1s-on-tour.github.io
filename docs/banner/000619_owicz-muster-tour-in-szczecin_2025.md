@@ -36,7 +36,7 @@ name: "Łowicz-Muster Tour in Szczecin"
   color: #fff;
   border-radius: 8px;
   font-weight: 500;
-  line-height: 1.5;
+  line-height: 1.6;
 ">
   ⚠️ <strong>Notice:</strong><br>
   Ende der Polen Rundreise [Start der Reise](https-//r3f1s-on-tour.github.io/banner/000613_owicz-muster-tour-in-der-oranienburger-strae_2025/)

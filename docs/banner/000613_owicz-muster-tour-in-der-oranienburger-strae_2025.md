@@ -36,7 +36,7 @@ name: "Łowicz-Muster Tour in der Oranienburger Straße"
   color: #fff;
   border-radius: 8px;
   font-weight: 500;
-  line-height: 1.5;
+  line-height: 1.6;
 ">
   ⚠️ <strong>Notice:</strong><br>
   Start der Polen Rundreise mit Watercolor Banner in jeder polnischen Stadt
