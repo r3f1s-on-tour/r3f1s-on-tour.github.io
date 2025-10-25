@@ -3,7 +3,7 @@ nummer: "9"
 startLatitude: "54.398545"
 startLongitude: "13.625131"
 titel: "Binz auf Rügen"
-picture: ""
+picture: "https://lh3.googleusercontent.com/pw/AP1GczPcGtvQa3c9I7oQLtj2qd4JeeyhoaPDNV9KfK6IBeybZhJ8krPS32GUo7LtBb0NGJR7Pv-bYybUWIJYRAxSzUTU2xIQcqtrl9ci0bP-LDsGxx-vcfPcUiMX6c6OMO1ronk4R3npc157SRGgv6uBjUxXPA=w1060-h472-s-no?authuser=0"
 region: "Binz"
 country: "Deutschland"
 completed: "198"
@@ -25,7 +25,7 @@ name: "Binz auf Rügen"
 
 *2015* • Binz • Deutschland
 
-
+![Binz auf Rügen](https://lh3.googleusercontent.com/pw/AP1GczPcGtvQa3c9I7oQLtj2qd4JeeyhoaPDNV9KfK6IBeybZhJ8krPS32GUo7LtBb0NGJR7Pv-bYybUWIJYRAxSzUTU2xIQcqtrl9ci0bP-LDsGxx-vcfPcUiMX6c6OMO1ronk4R3npc157SRGgv6uBjUxXPA=w1060-h472-s-no?authuser=0)
 
 
 

@@ -3,7 +3,7 @@ nummer: "97"
 startLatitude: "48.53133"
 startLongitude: "12.147025"
 titel: "Landshuter Katze"
-picture: ""
+picture: "https://lh3.googleusercontent.com/pw/AP1GczMBlJARdYaMwoNsbuhDzISpXLr64OyPHL-Q3xHpFjs3ay-Qn_uJfo1bLayPQjZNRAgte_oAZkabGRcpf0oP3NVD4idfFWcermZbsh-sWogYRV-uWRvj63e5siYRn66OiO3nXfa1dBEThlF9MZJ0tUJN6Q=w882-h653-s-no?authuser=0"
 region: "Landshut"
 country: "Deutschland"
 completed: "2496"
@@ -25,7 +25,7 @@ name: "Landshuter Katze"
 
 *2017* • Landshut • Deutschland
 
-
+![Landshuter Katze](https://lh3.googleusercontent.com/pw/AP1GczMBlJARdYaMwoNsbuhDzISpXLr64OyPHL-Q3xHpFjs3ay-Qn_uJfo1bLayPQjZNRAgte_oAZkabGRcpf0oP3NVD4idfFWcermZbsh-sWogYRV-uWRvj63e5siYRn66OiO3nXfa1dBEThlF9MZJ0tUJN6Q=w882-h653-s-no?authuser=0)
 
 
 

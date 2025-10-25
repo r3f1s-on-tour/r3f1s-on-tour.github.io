@@ -3,7 +3,7 @@ nummer: "18"
 startLatitude: "53.552386"
 startLongitude: "9.993663"
 titel: "MissionDay Hamburg"
-picture: ""
+picture: "https://lh3.googleusercontent.com/pw/AP1GczNHyu-DUYhrQcOq88R4OnwkA-ukGiHNxVQ-hPFBbduoAM-T8fubiFNSiAn-t9cfrlS1us6ZYD6wDnYInpwyg6ror94qTPMUw5Uw9xIWQCzGZ46oe4mQzS2_B8d93IiTCDAdPim38_8GMIqCfOIY86TfaQ=w1060-h314-s-no?authuser=0"
 region: "Hamburg"
 country: "Deutschland"
 completed: "330"
@@ -25,7 +25,7 @@ name: "MissionDay Hamburg"
 
 *2015* • Hamburg • Deutschland
 
-
+![MissionDay Hamburg](https://lh3.googleusercontent.com/pw/AP1GczNHyu-DUYhrQcOq88R4OnwkA-ukGiHNxVQ-hPFBbduoAM-T8fubiFNSiAn-t9cfrlS1us6ZYD6wDnYInpwyg6ror94qTPMUw5Uw9xIWQCzGZ46oe4mQzS2_B8d93IiTCDAdPim38_8GMIqCfOIY86TfaQ=w1060-h314-s-no?authuser=0)
 
 
 

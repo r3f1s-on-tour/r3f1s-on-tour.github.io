@@ -3,7 +3,7 @@ nummer: "31"
 startLatitude: "48.137437"
 startLongitude: "11.575546"
 titel: "Marienplatz München"
-picture: ""
+picture: "https://lh3.googleusercontent.com/pw/AP1GczPhSb1_s-yf1QgAb2LmB8FuC5CbCHeBs3chbNKV1OR78hiURbbVvdS7S5PGEzCJjcQiUtYrT7U4L5HP791O_F09ZLK4BrOcLtSfJVHCGCw4dyUHVoLiDhqE1-mcfBopdVQ4U3ydj5RbBjMBC6GNo2pkzA"
 region: "München"
 country: "Deutschland"
 completed: "624"
@@ -25,7 +25,7 @@ name: "Marienplatz München"
 
 *2016* • München • Deutschland
 
-
+![Marienplatz München](https://lh3.googleusercontent.com/pw/AP1GczPhSb1_s-yf1QgAb2LmB8FuC5CbCHeBs3chbNKV1OR78hiURbbVvdS7S5PGEzCJjcQiUtYrT7U4L5HP791O_F09ZLK4BrOcLtSfJVHCGCw4dyUHVoLiDhqE1-mcfBopdVQ4U3ydj5RbBjMBC6GNo2pkzA)
 
 
 

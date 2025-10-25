@@ -3,7 +3,7 @@ nummer: "13"
 startLatitude: "53.558877"
 startLongitude: "9.862231"
 titel: "Botanischer Garten Mosaik"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/ff018ecab6d73e84d47e43550a4069eb"
 region: "Hamburg"
 country: "Deutschland"
 completed: "258"
@@ -25,7 +25,7 @@ name: "Botanischer Garten Mosaik"
 
 *2015* • Hamburg • Deutschland
 
-
+![Botanischer Garten Mosaik](https://api.bannergress.com/bnrs/pictures/ff018ecab6d73e84d47e43550a4069eb)
 
 
 

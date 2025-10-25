@@ -3,7 +3,7 @@ nummer: "204"
 startLatitude: "48.312464"
 startLongitude: "14.298115"
 titel: "Cassandra Mission Day Linz 2018"
-picture: ""
+picture: "https://lh3.googleusercontent.com/pw/AP1GczO9ms988y32F9ez9HSLUh162ODBmjiTJhxBkYo1WaezubHRx0yXyrDCeFPTKUP1abRxeJ2DVAYOUlVWjCaUsLbADFMZ6mKS7Y43i7J8rKOQkt9kDoj9pTl4LNaq805NyBASKVzFkKETL4DRLONCetosYw=w1080-h153-s-no?authuser=0"
 region: "Oberösterreich"
 country: "Österreich"
 completed: "4776"
@@ -25,7 +25,7 @@ name: "Cassandra Mission Day Linz 2018"
 
 *2018* • Oberösterreich • Österreich
 
-
+![Cassandra Mission Day Linz 2018](https://lh3.googleusercontent.com/pw/AP1GczO9ms988y32F9ez9HSLUh162ODBmjiTJhxBkYo1WaezubHRx0yXyrDCeFPTKUP1abRxeJ2DVAYOUlVWjCaUsLbADFMZ6mKS7Y43i7J8rKOQkt9kDoj9pTl4LNaq805NyBASKVzFkKETL4DRLONCetosYw=w1080-h153-s-no?authuser=0)
 
 
 

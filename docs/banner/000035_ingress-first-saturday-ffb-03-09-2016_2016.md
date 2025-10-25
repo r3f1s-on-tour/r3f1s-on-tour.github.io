@@ -3,7 +3,7 @@ nummer: "35"
 startLatitude: "48.176883"
 startLongitude: "11.255605"
 titel: "Ingress First Saturday FFB 03 09 2016"
-picture: ""
+picture: "https://lh3.googleusercontent.com/pw/AP1GczPt3cODB1qp4VA_ga0CtQ1I0kxzvCK6Xs27BXlTSF17av9KDaMnAZItMH1AdrEhbGOHroUjS-W97Vh68m4KWYh2f0f2VHNosl8pfHaSYsUVh2nuiKnz9zc3EnssDw1RyWq3k6VRzXcIM-csOZhD0AE9cg=w1060-h156-s-no?authuser=0"
 region: "Fürstenfeldbruck"
 country: "Deutschland"
 completed: "690"
@@ -25,7 +25,7 @@ name: "Ingress First Saturday FFB 03 09 2016"
 
 *2016* • Fürstenfeldbruck • Deutschland
 
-
+![Ingress First Saturday FFB 03 09 2016](https://lh3.googleusercontent.com/pw/AP1GczPt3cODB1qp4VA_ga0CtQ1I0kxzvCK6Xs27BXlTSF17av9KDaMnAZItMH1AdrEhbGOHroUjS-W97Vh68m4KWYh2f0f2VHNosl8pfHaSYsUVh2nuiKnz9zc3EnssDw1RyWq3k6VRzXcIM-csOZhD0AE9cg=w1060-h156-s-no?authuser=0)
 
 
 

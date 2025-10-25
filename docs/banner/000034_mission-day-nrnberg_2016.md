@@ -3,7 +3,7 @@ nummer: "34"
 startLatitude: "49.461617"
 startLongitude: "11.025122"
 titel: "Mission Day Nürnberg"
-picture: ""
+picture: "https://lh3.googleusercontent.com/pw/AP1GczOdIYgs4M5gML-qE6ACUAVB-azU0OrsAkN25k3B9raO3YkdiubmpjRGi3L0WQ5nExJJ_rVlhpRj00ff2i_XwZ_n4lFzmi4vswtEEfjQcS10L_3-d9cvDiqEoP7IEefv6aKpTJJRJFvfZQaXjd0tw8D_pw=w1060-h316-s-no?authuser=0"
 region: "Nürnberg"
 country: "Deutschland"
 completed: "684"
@@ -25,7 +25,7 @@ name: "Mission Day Nürnberg"
 
 *2016* • Nürnberg • Deutschland
 
-
+![Mission Day Nürnberg](https://lh3.googleusercontent.com/pw/AP1GczOdIYgs4M5gML-qE6ACUAVB-azU0OrsAkN25k3B9raO3YkdiubmpjRGi3L0WQ5nExJJ_rVlhpRj00ff2i_XwZ_n4lFzmi4vswtEEfjQcS10L_3-d9cvDiqEoP7IEefv6aKpTJJRJFvfZQaXjd0tw8D_pw=w1060-h316-s-no?authuser=0)
 
 
 

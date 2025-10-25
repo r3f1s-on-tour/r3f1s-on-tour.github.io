@@ -3,7 +3,7 @@ nummer: "20"
 startLatitude: "52.50931"
 startLongitude: "13.371313"
 titel: "STAR WARS - Das Erwachen der Macht (Berlin)"
-picture: ""
+picture: "https://lh3.googleusercontent.com/pw/AP1GczMkG7EWg_ijv6PFTaN-gH1hWyWwQA6v5Sf2hWBOe5HvXJwtsIMcv2TPziYInFiGNQ6I2nZ6hyi70C7BSksYIWShE_v28B_Gi9P7GsoMKoQ0pvDaMC3iJdihquWg1tYOtKo6yCNc0nt9bt-lg6eWEGKFQw=w1060-h158-s-no?authuser=0"
 region: "Berlin"
 country: "Deutschland"
 completed: "354"
@@ -25,7 +25,7 @@ name: "STAR WARS - Das Erwachen der Macht (Berlin)"
 
 *2015* • Berlin • Deutschland
 
-
+![STAR WARS - Das Erwachen der Macht (Berlin)](https://lh3.googleusercontent.com/pw/AP1GczMkG7EWg_ijv6PFTaN-gH1hWyWwQA6v5Sf2hWBOe5HvXJwtsIMcv2TPziYInFiGNQ6I2nZ6hyi70C7BSksYIWShE_v28B_Gi9P7GsoMKoQ0pvDaMC3iJdihquWg1tYOtKo6yCNc0nt9bt-lg6eWEGKFQw=w1060-h158-s-no?authuser=0)
 
 
 

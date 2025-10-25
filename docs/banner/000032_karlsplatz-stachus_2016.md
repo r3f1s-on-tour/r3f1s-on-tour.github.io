@@ -3,7 +3,7 @@ nummer: "32"
 startLatitude: "48.139141"
 startLongitude: "11.565815"
 titel: "Karlsplatz Stachus"
-picture: ""
+picture: "https://lh3.googleusercontent.com/pw/AP1GczPWIJvf3yNQ7YGtbkYHwuMKKWNZ6R6mbm0z_VdMfgE9_SNbXsYFicZX6uUKK2kgGpN-IgRKsL1pv-_aoP3-WAAOqb1DMcHNOw62LS2_2P1i8FBkNx35gKMvAcxSQAyylY0DFZa9db2cgxdUj_QXIyZoLA"
 region: "München"
 country: "Deutschland"
 completed: "648"
@@ -25,7 +25,7 @@ name: "Karlsplatz Stachus"
 
 *2016* • München • Deutschland
 
-
+![Karlsplatz Stachus](https://lh3.googleusercontent.com/pw/AP1GczPWIJvf3yNQ7YGtbkYHwuMKKWNZ6R6mbm0z_VdMfgE9_SNbXsYFicZX6uUKK2kgGpN-IgRKsL1pv-_aoP3-WAAOqb1DMcHNOw62LS2_2P1i8FBkNx35gKMvAcxSQAyylY0DFZa9db2cgxdUj_QXIyZoLA)
 
 
 
