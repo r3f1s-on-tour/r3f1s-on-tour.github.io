@@ -9,6 +9,7 @@ make_banner_stats.py
 - Zählt nur Dateien unter --banner-dir mit Frontmatter-Feld `nummer`.
 - Distanzfelder werden als km interpretiert (lengthKMeters/lengthKm/...).
 - Länder/Städte: komplette Tabellen (Anzahl + Anteil).
+- Gesamtstatistik enthält zusätzlich: **Anzahl Länder (unique)** und **Anzahl Städte (unique)**.
 - Überschreibt stats.md standardmäßig (Option --no-overwrite verhindert das).
 Benötigt: pyyaml
 """
@@ -231,6 +232,7 @@ def main():
 
     # Gesamt-Missionen aus 'completed' der letzten Datei (Fallback: Summe missions)
     last_completed = next((b["completed"] for b in reversed(banners) if b["completed"] is not None), None)
+
     # 500er-Meilensteine NUR aus kumulierten 'missions'
     milestones_per_year = Counter()
     cum_missions = 0
@@ -262,6 +264,12 @@ def main():
     total_mdays = sum(b["mday"] for b in banners)
     total_missions = last_completed if last_completed is not None else sum(b["missions"] for b in banners)
 
+    # Unique Länder/Städte
+    unique_countries = sorted({b["country"].strip() for b in banners if isinstance(b["country"], str) and b["country"].strip()})
+    unique_cities    = sorted({b["city"].strip()    for b in banners if isinstance(b["city"], str)    and b["city"].strip()})
+    total_unique_countries = len(unique_countries)
+    total_unique_cities    = len(unique_cities)
+
     # Jahreswerte
     year_rows = []
     for y in sorted(per_year):
@@ -282,7 +290,7 @@ def main():
     avg_km_year  = total_km / span_years if span_years else 0.0
     avg_km_month = total_km / months if months else 0.0
 
-    # Länder / Städte
+    # Länder / Städte (für Tabellen)
     countries = Counter(b["country"] for b in banners if isinstance(b["country"], str) and b["country"].strip())
     cities    = Counter(b["city"]    for b in banners if isinstance(b["city"], str)    and b["city"].strip())
 
@@ -297,6 +305,8 @@ def main():
         f"- **Missionen gesamt:** {total_missions}",
         f"- **Gesamt km:** {total_km:.2f}",
         f"- **MissionDays gesamt:** {total_mdays}",
+        f"- **Anzahl Länder (unique):** {total_unique_countries}",
+        f"- **Anzahl Städte (unique):** {total_unique_cities}",
         f"- **Zeitraum:** {first_year} – {today.year} ({span_years} Jahre)",
         ""
     ]
