@@ -3,7 +3,7 @@ nummer: "364"
 startLatitude: "53.506348"
 startLongitude: "13.745009"
 titel: "Feuerschwert Tour durch Strasburg"
-picture: ""
+picture: "https://lh3.googleusercontent.com/pw/AP1GczNx1KlRaEjN5C4a2jJkN0dOypD57pdP71VZihj--5KQTmA-3C3lUW6iYhNM1HDyrrC_4S-LsLWnr7TZuUJStTZuf_rzUFSIYUtcd22QJhANsgXOYOj2t5EelrY51BxPUv6AA9ureSxNorqR8mYp8Ah6pw"
 region: "Strasburg (Uckermark)"
 country: "Deutschland"
 completed: "8010"
@@ -26,7 +26,7 @@ name: "Feuerschwert Tour durch Strasburg"
 
 *2021* • Strasburg (Uckermark) • Deutschland
 
-
+![Feuerschwert Tour durch Strasburg](https://lh3.googleusercontent.com/pw/AP1GczNx1KlRaEjN5C4a2jJkN0dOypD57pdP71VZihj--5KQTmA-3C3lUW6iYhNM1HDyrrC_4S-LsLWnr7TZuUJStTZuf_rzUFSIYUtcd22QJhANsgXOYOj2t5EelrY51BxPUv6AA9ureSxNorqR8mYp8Ah6pw)
 
 
 
