@@ -3,7 +3,7 @@
 ## Gesamtstatistik
 
 - **Gesamtbanner:** 625
-- **Missionen gesamt:** 13524
+- **Missionen gesamt:** 13596
 - **Gesamt km:** 6811.92
 - **MissionDays gesamt:** 20
 - **Zeitraum:** 2015 – 2025 (11 Jahre)
@@ -12,8 +12,8 @@
 
 - **Ø Banner/Jahr:** 56.82
 - **Ø Banner/Monat:** 4.73
-- **Ø Missionen/Jahr:** 1229.45
-- **Ø Missionen/Monat:** 102.45
+- **Ø Missionen/Jahr:** 1236.00
+- **Ø Missionen/Monat:** 103.00
 - **Ø km/Jahr:** 619.27
 - **Ø km/Monat:** 51.61
 
@@ -29,9 +29,9 @@
 | 2020 | 40 | 768 | 1 | 1116.00 | 1 |
 | 2021 | 82 | 1314 | 1 | 507.10 | 3 |
 | 2022 | 138 | 2724 | 1 | 1029.94 | 5 |
-| 2023 | 72 | 2070 | 3 | 1506.02 | 4 |
-| 2024 | 18 | 258 | 2 | 60.23 | 1 |
-| 2025 | 18 | 288 | 2 | 50.73 | 1 |
+| 2023 | 72 | 2070 | 3 | 1506.02 | 5 |
+| 2024 | 18 | 258 | 2 | 60.23 | 0 |
+| 2025 | 18 | 288 | 2 | 50.73 | 2 |
 
 ## Länder (nach Anzahl Banner)
 
