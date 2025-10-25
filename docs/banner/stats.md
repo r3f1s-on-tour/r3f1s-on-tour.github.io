@@ -2,20 +2,20 @@
 
 ## Gesamtstatistik
 
-- **Gesamtbanner:** 624
-- **Missionen gesamt:** 13518
-- **Gesamt km:** 6809.83
+- **Gesamtbanner:** 626
+- **Missionen gesamt:** 13536
+- **Gesamt km:** 6816.83
 - **MissionDays gesamt:** 20
 - **Zeitraum:** 2015 – 2025 (11 Jahre)
 
 ## Durchschnittsstatistik
 
-- **Ø Banner/Jahr:** 56.73
-- **Ø Banner/Monat:** 4.73
-- **Ø Missionen/Jahr:** 1228.91
-- **Ø Missionen/Monat:** 102.41
-- **Ø km/Jahr:** 619.08
-- **Ø km/Monat:** 51.59
+- **Ø Banner/Jahr:** 56.91
+- **Ø Banner/Monat:** 4.74
+- **Ø Missionen/Jahr:** 1230.55
+- **Ø Missionen/Monat:** 102.55
+- **Ø km/Jahr:** 619.71
+- **Ø km/Monat:** 51.64
 
 ## Jahresstatistik
 
@@ -31,13 +31,13 @@
 | 2022 | 138 | 2724 | 1 | 1029.94 | 5 |
 | 2023 | 72 | 2070 | 3 | 1506.02 | 4 |
 | 2024 | 18 | 258 | 2 | 60.23 | 1 |
-| 2025 | 17 | 282 | 2 | 48.64 | 1 |
+| 2025 | 19 | 300 | 2 | 55.64 | 1 |
 
 ## Länder (nach Anzahl Banner)
 
 | Land | Banner | Anteil |
 |:-----|------:|------:|
-| Deutschland | 559 | 89.6% |
+| Deutschland | 561 | 89.6% |
 | España | 23 | 3.7% |
 | Polska | 17 | 2.7% |
 | Schweiz/Suisse/Svizzera/Svizra | 8 | 1.3% |
@@ -51,7 +51,7 @@
 
 | Stadt | Banner | Anteil |
 |:------|------:|------:|
-| Berlin | 114 | 18.3% |
+| Berlin | 114 | 18.2% |
 | Oranienburg | 85 | 13.6% |
 | München | 75 | 12.0% |
 | Neubrandenburg | 39 | 6.2% |
@@ -103,6 +103,7 @@
 | Röbel/Müritz | 2 | 0.3% |
 | Vaterstetten | 2 | 0.3% |
 | Woldegk | 2 | 0.3% |
+| Zinnowitz | 2 | 0.3% |
 | Altötting | 1 | 0.2% |
 | Bergisch Gladbach | 1 | 0.2% |
 | Binz | 1 | 0.2% |
@@ -154,6 +155,6 @@
 | Wendlingen am Neckar | 1 | 0.2% |
 | Willing | 1 | 0.2% |
 | Wittenberg | 1 | 0.2% |
+| Wolgast | 1 | 0.2% |
 | Wroclaw | 1 | 0.2% |
 | Würzburg | 1 | 0.2% |
-| Zinnowitz | 1 | 0.2% |
