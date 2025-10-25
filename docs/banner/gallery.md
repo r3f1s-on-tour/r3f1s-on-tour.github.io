@@ -35,6 +35,7 @@
 <div class="gallery-grid" id="gallery-root">
 
 <div style="margin:0;padding:0;line-height:0"><a href="../000623_shibainu_2025/"><img src="https://lh3.googleusercontent.com/pw/AP1GczOowgutNnLj6jCuIzIUV1UDldcbPlNZ_S-BOct0AtoHJz29uvMCprzDnzQShZILOSdac21mF1bg2DnnRSTgj7JMKLvxRiCx5OKqL2WdSDcYtpGBGteeT1oIfaznmpHYu249NGYgeise1vnczp8HJqeCRw" alt="ShibaInu"></a></div>
+<div style="margin:0;padding:0;line-height:0"><a href="../000623_tauchgondel-zinnowitz_2025/"><img src="Bitte Url nachtragen" alt="Tauchgondel Zinnowitz"></a></div>
 <div style="margin:0;padding:0;line-height:0"><a href="../000622_stadtmauer-in-neubrandenburg_2025/"><img src="https://api.bannergress.com/bnrs/pictures/a3e4a93dea7c3b00d11dfa7c64c2d3d2" alt="Stadtmauer in Neubrandenburg"></a></div>
 <div style="margin:0;padding:0;line-height:0"><a href="../000619_owicz-muster-tour-in-szczecin_2025/"><img src="https://api.bannergress.com/bnrs/pictures/20d5ac49d45afb2407fdb2b5f81576b0" alt="Łowicz-Muster Tour in Szczecin"></a></div>
 <div style="margin:0;padding:0;line-height:0"><a href="../000618_aquarelle-gdansk_2025/"><img src="https://api.bannergress.com/bnrs/pictures/ec7c1f87079942aabcfc16d660f09708" alt="Aquarelle Gdansk"></a></div>
