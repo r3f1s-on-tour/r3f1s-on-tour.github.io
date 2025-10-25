@@ -2,18 +2,14 @@
 # -*- coding: utf-8 -*-
 """
 make_banner_stats.py
-- "Missionen gesamt" = der Frontmatter-Wert `completed` der *letzten* Banner-Datei (chronologisch) mit `nummer`.
-  * Fallback: Wenn kein Banner `completed` hat, wird die kumulierte Summe aus `missions` verwendet.
-- 500er-Meilensteine/Jahr:
-  * Chronologischer Lauf über alle Banner:
-    - Wenn `completed` vorhanden: aktueller kumulativer Stand = `completed`
-    - Sonst: kumulativer Stand = vorheriger Stand + `missions`
-    - Schwellenüberschreitungen (500, 1000, ...) zählen und dem Jahr des Banners zuordnen
-- Jahresstatistik: Missionen = Summe der `missions` je Jahr
-- Länder/Städte: vollständige Tabellen (Anzahl + Anteil)
-- Durchschnitt: pro Jahr/Monat (Banner, Missionen (aus Gesamt), km)
-- Distanzen: lengthKMeters/lengthKm/... als km interpretiert
-- Nur Banner mit `nummer` werden berücksichtigt
+- "Missionen gesamt" = `completed` der letzten Banner-Datei (chronologisch) mit `nummer`.
+  Fallback: Summe der `missions`.
+- 500er-Meilensteine/Jahr = aus rein kumulierten `missions` (chronologischer Lauf).
+- Jahresstatistik: Missionen = Summe `missions` je Jahr.
+- Zählt nur Dateien unter --banner-dir mit Frontmatter-Feld `nummer`.
+- Distanzfelder werden als km interpretiert (lengthKMeters/lengthKm/...).
+- Länder/Städte: komplette Tabellen (Anzahl + Anteil).
+- Überschreibt stats.md standardmäßig (Option --no-overwrite verhindert das).
 Benötigt: pyyaml
 """
 import argparse
@@ -29,8 +25,8 @@ except ImportError:
     print("Dieses Skript benötigt PyYAML. Installiere mit: pip install pyyaml", file=sys.stderr)
     sys.exit(1)
 
-# Frontmatter
-FM_START = re.compile(r'^\ufeff?---\s*$', re.MULTILINE)
+# --- Frontmatter robust parsen ---
+FM_START = re.compile(r'^\ufeff?---\s*$', re.MULTILINE)  # erlaubt BOM
 FM_END   = re.compile(r'^\s*(---|\.\.\.)\s*$', re.MULTILINE)
 
 def parse_frontmatter(md_text: str) -> dict:
@@ -49,17 +45,20 @@ def parse_frontmatter(md_text: str) -> dict:
 
 def coalesce(*values):
     for v in values:
-        if v is None: continue
-        if isinstance(v, str) and v.strip() == "": continue
+        if v is None: 
+            continue
+        if isinstance(v, str) and v.strip() == "":
+            continue
         return v
     return None
 
-def parse_int_relaxed(v):
+def parse_int(v):
     if v is None: return None
     if isinstance(v, (int, float)):
         try: return int(v)
         except Exception: return None
     s = str(v).strip()
+    # tolerant: 1.234, 2 000, +12
     s = re.sub(r'[^0-9+-]', '', s)
     if not s or s in ('+','-'): return None
     try: return int(s)
@@ -69,8 +68,10 @@ def parse_float_km(v):
     if v is None: return 0.0
     if isinstance(v, (int, float)): return float(v)
     s = str(v).lower().replace("km","").replace("\u00a0"," ").replace(" ", "").replace(",", ".").strip()
-    try: return float(s)
-    except Exception: return 0.0
+    try:
+        return float(s)
+    except Exception:
+        return 0.0
 
 DATE_FMTS = (
     "%Y-%m-%d","%Y/%m/%d","%d.%m.%Y",
@@ -88,7 +89,7 @@ def parse_date_any(v):
     if isinstance(v, str):
         s = v.strip()
         if s.isdigit() and len(s)==4:
-            y = int(s);  return date(y,1,1)
+            return date(int(s),1,1)
         if s.endswith("Z"):
             s = s[:-1] + "+00:00"
         for fmt in DATE_FMTS:
@@ -106,18 +107,17 @@ def parse_mission_day(v):
     if isinstance(v, (int, float)): return 1 if int(v)!=0 else 0
     s = str(v).strip().lower()
     if s in ("1","true","yes","ja","y","t"): return 1
-    try:
-        s = re.sub(r'[^0-9+-]', '', s) or '0'
-        return 1 if int(s)!=0 else 0
+    s = re.sub(r'[^0-9+-]', '', s) or '0'
+    try: return 1 if int(s)!=0 else 0
     except Exception: return 0
 
-# Felder / Varianten
-NUMMER_KEYS = ("nummer","number","Nr","nr","id","ID")
-DATE_KEYS   = ("date","completed_date","completed_at","done_date","finished_date")
-YEAR_KEYS   = ("year","jahr")
-CITY_KEYS   = ("region","city","ort","stadt")
-COUNTRY_KEYS= ("country","land","nation","countryCode","country_code")
-DIST_KEYS   = ("lengthKMeters","lengthKm","distance_km","km","distance","kilometer")
+# Felder
+NUMMER_KEYS  = ("nummer","number","Nr","nr","id","ID")
+DATE_KEYS    = ("date","completed_date","completed_at","done_date","finished_date")
+YEAR_KEYS    = ("year","jahr")
+CITY_KEYS    = ("region","city","ort","stadt")
+COUNTRY_KEYS = ("country","land","nation","countryCode","country_code")
+DIST_KEYS    = ("lengthKMeters","lengthKm","distance_km","km","distance","kilometer")
 
 def find_first_key(d: dict, keys):
     for k in keys:
@@ -192,15 +192,11 @@ def main():
             reasons_ignored["no_nummer"] += 1
             continue
 
-        # Datum/Jahr
         dt = parse_date_any(find_first_key(fm, DATE_KEYS))
         year = detect_year(fm, path)
 
-        missions_val = fm.get("missions")
-        missions = parse_int_relaxed(missions_val) or 0
-        completed_val = fm.get("completed")
-        completed = parse_int_relaxed(completed_val)  # kann None sein
-
+        missions = parse_int(fm.get("missions")) or 0
+        completed = parse_int(fm.get("completed"))  # kann None sein
         km = banner_distance_km(fm)
         mday = parse_mission_day(fm.get("missionDay"))
         city = coalesce(*[fm.get(k) for k in CITY_KEYS])
@@ -233,23 +229,15 @@ def main():
         return (k, b["path"].name.lower())
     banners.sort(key=s_key)
 
-    # Gesamt-Missionen: aus dem 'completed' der letzten Banner-Datei (Fallback: rekonstruierter kum. Stand)
-    last_completed_from_frontmatter = None
-    for b in reversed(banners):
-        if b["completed"] is not None:
-            last_completed_from_frontmatter = b["completed"]
-            break
-
-    # 500er-Meilensteine (kumulativer Stand: prefer 'completed', sonst +missions)
+    # Gesamt-Missionen aus 'completed' der letzten Datei (Fallback: Summe missions)
+    last_completed = next((b["completed"] for b in reversed(banners) if b["completed"] is not None), None)
+    # 500er-Meilensteine NUR aus kumulierten 'missions'
     milestones_per_year = Counter()
-    cum = 0
+    cum_missions = 0
     prev_bucket = 0
     for b in banners:
-        if b["completed"] is not None:
-            cum = b["completed"]
-        else:
-            cum += b["missions"]
-        bucket = cum // 500
+        cum_missions += b["missions"]
+        bucket = cum_missions // 500
         crossed = max(0, bucket - prev_bucket)
         if crossed and b["year"] is not None:
             milestones_per_year[b["year"]] += crossed
@@ -262,35 +250,29 @@ def main():
     span_years = (today.year - first_year) + 1
     months = span_years * 12 if span_years else 1
 
-    # Jahreswerte + Totale
+    # Gruppieren pro Jahr
     per_year = defaultdict(list)
     for b in banners:
         if isinstance(b["year"], int):
             per_year[b["year"]].append(b)
 
-    year_rows = []
+    # Summen
     total_banners = len(banners)
     total_km = sum(b["km"] for b in banners)
     total_mdays = sum(b["mday"] for b in banners)
-    missions_sum_by_year = 0  # zur Kontrolle
+    total_missions = last_completed if last_completed is not None else sum(b["missions"] for b in banners)
 
+    # Jahreswerte
+    year_rows = []
     for y in sorted(per_year):
         lst = per_year[y]
         km_sum = sum(b["km"] for b in lst)
         ms_sum = sum(b["missions"] for b in lst)     # Jahres-Missionen = Summe missions
         md_sum = sum(b["mday"] for b in lst)
-        missions_sum_by_year += ms_sum
         year_rows.append({
             "year": y, "banners": len(lst), "missions": ms_sum, "md": md_sum,
             "km": km_sum, "milestones": milestones_per_year.get(y, 0)
         })
-
-    # Gesamt-Missionen (wie gefordert)
-    if last_completed_from_frontmatter is not None:
-        total_missions = last_completed_from_frontmatter
-    else:
-        # Fallback: rekonstruiere kumulative Missionen aus 'missions'
-        total_missions = sum(b["missions"] for b in banners)
 
     # Durchschnittswerte auf Basis total_missions
     avg_banners_year  = total_banners / span_years if span_years else 0.0
@@ -308,6 +290,7 @@ def main():
     md = []
     md += ["# Banner-Statistik", ""]
 
+    # Gesamt
     md += ["## Gesamtstatistik", ""]
     md += [
         f"- **Gesamtbanner:** {total_banners}",
@@ -318,6 +301,7 @@ def main():
         ""
     ]
 
+    # Durchschnitt
     md += ["## Durchschnittsstatistik", ""]
     md += [
         f"- **Ø Banner/Jahr:** {avg_banners_year:.2f}",
@@ -329,6 +313,7 @@ def main():
         ""
     ]
 
+    # Jahresstatistik
     md += ["## Jahresstatistik", ""]
     if year_rows:
         md += ["| Jahr | Banner | Missionen | MissionDays | km | 500er-Meilensteine |",
@@ -339,6 +324,7 @@ def main():
         md += ["_Keine Jahresdaten gefunden._"]
     md += [""]
 
+    # Länder
     md += ["## Länder (nach Anzahl Banner)", ""]
     if countries:
         total = total_banners if total_banners else 1
@@ -350,6 +336,7 @@ def main():
         md += ["_Keine Länder gefunden._"]
     md += [""]
 
+    # Städte
     md += ["## Städte (nach Anzahl Banner)", ""]
     if cities:
         total = total_banners if total_banners else 1
