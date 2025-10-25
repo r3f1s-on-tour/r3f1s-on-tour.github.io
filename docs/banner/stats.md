@@ -6,6 +6,8 @@
 - **Missionen gesamt:** 13596
 - **Gesamt km:** 6811.92
 - **MissionDays gesamt:** 20
+- **Anzahl Länder (unique):** 9
+- **Anzahl Städte (unique):** 107
 - **Zeitraum:** 2015 – 2025 (11 Jahre)
 
 ## Durchschnittsstatistik
