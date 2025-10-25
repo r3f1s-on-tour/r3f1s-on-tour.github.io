@@ -16,7 +16,7 @@ jobs:
   post-to-telegram:
     runs-on: ubuntu-latest
     env:
-      MAX_POSTS: "5"
+      MAX_POSTS: "700"
       BASE_SITE_URL: "https://r3f1s-on-tour.github.io/banner/"
     steps:
       - name: Checkout
