@@ -2,20 +2,20 @@
 
 ## Gesamtstatistik
 
-- **Gesamtbanner:** 626
-- **Missionen gesamt:** 13536
-- **Gesamt km:** 6816.83
+- **Gesamtbanner:** 625
+- **Missionen gesamt:** 13524
+- **Gesamt km:** 6811.92
 - **MissionDays gesamt:** 20
 - **Zeitraum:** 2015 – 2025 (11 Jahre)
 
 ## Durchschnittsstatistik
 
-- **Ø Banner/Jahr:** 56.91
-- **Ø Banner/Monat:** 4.74
-- **Ø Missionen/Jahr:** 1230.55
-- **Ø Missionen/Monat:** 102.55
-- **Ø km/Jahr:** 619.71
-- **Ø km/Monat:** 51.64
+- **Ø Banner/Jahr:** 56.82
+- **Ø Banner/Monat:** 4.73
+- **Ø Missionen/Jahr:** 1229.45
+- **Ø Missionen/Monat:** 102.45
+- **Ø km/Jahr:** 619.27
+- **Ø km/Monat:** 51.61
 
 ## Jahresstatistik
 
@@ -31,13 +31,13 @@
 | 2022 | 138 | 2724 | 1 | 1029.94 | 5 |
 | 2023 | 72 | 2070 | 3 | 1506.02 | 4 |
 | 2024 | 18 | 258 | 2 | 60.23 | 1 |
-| 2025 | 19 | 300 | 2 | 55.64 | 1 |
+| 2025 | 18 | 288 | 2 | 50.73 | 1 |
 
 ## Länder (nach Anzahl Banner)
 
 | Land | Banner | Anteil |
 |:-----|------:|------:|
-| Deutschland | 561 | 89.6% |
+| Deutschland | 560 | 89.6% |
 | España | 23 | 3.7% |
 | Polska | 17 | 2.7% |
 | Schweiz/Suisse/Svizzera/Svizra | 8 | 1.3% |
@@ -103,7 +103,6 @@
 | Röbel/Müritz | 2 | 0.3% |
 | Vaterstetten | 2 | 0.3% |
 | Woldegk | 2 | 0.3% |
-| Zinnowitz | 2 | 0.3% |
 | Altötting | 1 | 0.2% |
 | Bergisch Gladbach | 1 | 0.2% |
 | Binz | 1 | 0.2% |
@@ -158,3 +157,4 @@
 | Wolgast | 1 | 0.2% |
 | Wroclaw | 1 | 0.2% |
 | Würzburg | 1 | 0.2% |
+| Zinnowitz | 1 | 0.2% |
