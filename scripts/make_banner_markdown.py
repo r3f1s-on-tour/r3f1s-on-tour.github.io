@@ -12,7 +12,8 @@ Features:
 - Adds zero-padded numbers (--pad-width)
 - Adds title aliases (title, name, titel)
 - Adds slug, href
-- Adds region->city alias if city is empty
+- region->city alias if city is empty
+- Normalizes common link keys to lowercase (e.g., "Trips" -> "trips")
 - Template placeholders:
     {{__VAL:key__}}          → value
     {{__VALBR:key__}}        → line breaks (<br>)
@@ -39,7 +40,8 @@ PICTURE_KEYS = [
     "picture","pictures","image","images","img","pic","pic_url",
     "picture_url","image_url","bild","bilder","pictureurl","imageurl"
 ]
-EXCLUDED_SANITIZE_KEYS = {"bg-link", "picture", "notice", "description"}  # never sanitize
+# never sanitize values for these keys (keep ':' etc.)
+EXCLUDED_SANITIZE_KEYS = {"bg-link", "picture", "notice", "description", "trips"}
 URL_PREFIXES = ("http://","https://")
 IDENTIFIER_RE = re.compile(r"[A-Za-z_][A-Za-z0-9_]*$")
 
@@ -151,7 +153,7 @@ def _expand_if_blocks(tpl: str, meta: Dict[str,Any]) -> str:
         tpl = tpl[:m.start()] + (inner if cond else "") + tpl[m.end():]
     return tpl
 
-def render_placeholders(template_text: str, ctx: Dict[str,Any]) -> str:
+def render_placeholders(template_text: str, ctx: Dict[str,Any], open_new_tab: bool = False) -> str:
     tpl  = template_text
     meta = ctx["meta"]
 
@@ -171,17 +173,19 @@ def render_placeholders(template_text: str, ctx: Dict[str,Any]) -> str:
         raw = str(meta.get(m, "")).strip()
         html = raw.replace("\\n", "<br>")
 
+        link_attr = ' target="_blank" rel="noopener"' if open_new_tab else ""
+
         # Markdown links [text](url)
         def md_link_sub(match):
             text = match.group(1)
             url  = match.group(2)
-            return f'<a href="{url}" target="_blank" rel="noopener" style="color:#FFD500;text-decoration:underline;word-break:break-word;">{text}</a>'
+            return f'<a href="{url}"{link_attr} style="color:#FFD500;text-decoration:underline;word-break:break-word;">{text}</a>'
         html = re.sub(r"\[([^\]]+)\]\((https?://[^)]+)\)", md_link_sub, html)
 
         # Autolink plain URLs
         def auto_link_sub(match):
             url = match.group(0)
-            return f'<a href="{url}" target="_blank" rel="noopener" style="color:#FFD500;text-decoration:underline;word-break:break-word;">{url}</a>'
+            return f'<a href="{url}"{link_attr} style="color:#FFD500;text-decoration:underline;word-break:break-word;">{url}</a>'
         html = re.sub(r"(?<!href=\")(?<!\])(?P<url>https?://[^\s<]+)", auto_link_sub, html)
 
         tpl = tpl.replace(f"{{{{__VALBRLINKS:{m}__}}}}", html)
@@ -247,6 +251,14 @@ def write_markdown(out_path: str, fm: dict, ordered: list[str], body: str):
     with open(out_path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + body)
 
+def yaml_escape(value: Any) -> str:
+    s = str(value)
+    if s == "": return '""'
+    if any(x in s for x in [":","[","]","{","}","\\","\n","'","\""]):
+        s = s.replace("\\","\\\\").replace('"','\\"')
+        return f'"{s}"'
+    return s
+
 # -------- Main ----------
 def main():
     ap = argparse.ArgumentParser(description="CSV -> Markdown generator (Banner)")
@@ -255,6 +267,8 @@ def main():
     ap.add_argument("--overwrite", action="store_true", help="Overwrite existing files")
     ap.add_argument("--pad-width", type=int, default=6, help="Zero-pad width for number prefix")
     ap.add_argument("--template", required=True, help="Markdown template path")
+    ap.add_argument("--notice-links-new-tab", action="store_true",
+                    help="Open links inside notice in a new tab (default: same tab)")
     args = ap.parse_args()
 
     os.makedirs(args.out, exist_ok=True)
@@ -298,6 +312,14 @@ def main():
             if str(fm.get("region","")).strip() and not str(fm.get("city","")).strip():
                 fm["city"] = fm["region"]
 
+            # ---- normalize common link keys to lowercase ----
+            # Support 'Trips' (capitalized) by mirroring to 'trips' for template use
+            if "Trips" in fm and "trips" not in fm and str(fm["Trips"]).strip():
+                fm["trips"] = fm["Trips"]
+            # Also accept 'Umap' -> 'umap' if ever used
+            if "Umap" in fm and "umap" not in fm and str(fm["Umap"]).strip():
+                fm["umap"] = fm["Umap"]
+
             # helpers
             fm["slug"] = fm.get("slug") or slug_val
             fm["href"] = fm.get("href") or f"banner/{number_padded}_{slug_val}_{date_norm}.md"
@@ -309,7 +331,7 @@ def main():
                 "slug": slug_val,
                 "filename": filename,
             }
-            body = render_placeholders(tpl, ctx)
+            body = render_placeholders(tpl, ctx, open_new_tab=args.notice_links_new_tab)
 
             if os.path.exists(out_path):
                 if args.overwrite:
