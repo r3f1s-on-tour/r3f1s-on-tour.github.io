@@ -16,7 +16,7 @@ lengthKMeters: "8,73"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "MissionDay Kaiserburg"
 slug: "missionday-kaiserburg"
 href: "banner/000068_missionday-kaiserburg_2017.md"
@@ -32,9 +32,9 @@ name: "MissionDay Kaiserburg"
 
 ## Details
 - **Distance (km):** 8.73
-- **Missions in banner:** 30
-- **Total missions completed:** 1590
-- **This is my banner no.:** 68
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Welcome to Nürnberg! Starting at Handwerkerhof across the main station this mis
 
 
 ## Links
-<a href="https://bannergress.com/banner/missionday-n%C3%BCrnberg-ec91" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/missionday-n%C3%BCrnberg-ec91" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000068_missionday-kaiserburg_2017.md`
-> • #000068
-> • Slug: `missionday-kaiserburg`
+
+> File: `000068_missionday-kaiserburg_2017.md` • #000068 • Slug: `missionday-kaiserburg`

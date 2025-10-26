@@ -16,7 +16,7 @@ lengthKMeters: "13,08"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Manzelbrunnen"
 slug: "manzelbrunnen"
 href: "banner/000431_manzelbrunnen_2022.md"
@@ -32,9 +32,9 @@ name: "Manzelbrunnen"
 
 ## Details
 - **Distance (km):** 13.08
-- **Missions in banner:** 48
-- **Total missions completed:** 9.000
-- **This is my banner no.:** 431
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Historyczna rzeźba symbolizująca Szczecin, zaginiona w czasie 2 Wojny Światow
 
 
 ## Links
-<a href="https://bannergress.com/banner/manzelbrunnen-4729" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/manzelbrunnen-4729" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000431_manzelbrunnen_2022.md`
-> • #000431
-> • Slug: `manzelbrunnen`
+
+> File: `000431_manzelbrunnen_2022.md` • #000431 • Slug: `manzelbrunnen`

@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Catpool (Rote Nürnberger Katze)"
 slug: "catpool-rote-nrnberger-katze"
 href: "banner/000167_catpool-rote-nrnberger-katze_2018.md"
@@ -32,15 +32,13 @@ name: "Catpool (Rote Nürnberger Katze)"
 
 ## Details
 
-- **Missions in banner:** 36
-- **Total missions completed:** 4092
-- **This is my banner no.:** 167
 
 
 
 
 
 
-> File: `000167_catpool-rote-nrnberger-katze_2018.md`
-> • #000167
-> • Slug: `catpool-rote-nrnberger-katze`
+
+
+
+> File: `000167_catpool-rote-nrnberger-katze_2018.md` • #000167 • Slug: `catpool-rote-nrnberger-katze`

@@ -16,7 +16,7 @@ lengthKMeters: "6,30"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Old Town Frankfurt"
 slug: "old-town-frankfurt"
 href: "banner/000130_old-town-frankfurt_2018.md"
@@ -32,9 +32,9 @@ name: "Old Town Frankfurt"
 
 ## Details
 - **Distance (km):** 6.30
-- **Missions in banner:** 18
-- **Total missions completed:** 3174
-- **This is my banner no.:** 130
+
+
+
 
 
 
@@ -45,10 +45,9 @@ This tour guides you through the Old Town of Frankfurt. We start on the Roemerbe
 
 
 ## Links
-<a href="https://bannergress.com/banner/old-town-frankfurt-e920" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/old-town-frankfurt-e920" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000130_old-town-frankfurt_2018.md`
-> • #000130
-> • Slug: `old-town-frankfurt`
+
+> File: `000130_old-town-frankfurt_2018.md` • #000130 • Slug: `old-town-frankfurt`

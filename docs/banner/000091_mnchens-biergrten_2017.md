@@ -16,7 +16,7 @@ lengthKMeters: "13,99"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Münchens Biergärten"
 slug: "mnchens-biergrten"
 href: "banner/000091_mnchens-biergrten_2017.md"
@@ -32,9 +32,9 @@ name: "Münchens Biergärten"
 
 ## Details
 - **Distance (km):** 13.99
-- **Missions in banner:** 6
-- **Total missions completed:** 2370
-- **This is my banner no.:** 91
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Besuche Münchens große Biergärten
 
 
 ## Links
-<a href="https://bannergress.com/banner/m%C3%BCnchens-bierg%C3%A4rten-ce86" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/m%C3%BCnchens-bierg%C3%A4rten-ce86" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000091_mnchens-biergrten_2017.md`
-> • #000091
-> • Slug: `mnchens-biergrten`
+
+> File: `000091_mnchens-biergrten_2017.md` • #000091 • Slug: `mnchens-biergrten`

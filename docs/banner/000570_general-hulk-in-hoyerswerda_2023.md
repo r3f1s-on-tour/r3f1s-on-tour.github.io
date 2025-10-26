@@ -16,7 +16,7 @@ lengthKMeters: "15,405"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "General Hulk in Hoyerswerda"
 slug: "general-hulk-in-hoyerswerda"
 href: "banner/000570_general-hulk-in-hoyerswerda_2023.md"
@@ -32,9 +32,9 @@ name: "General Hulk in Hoyerswerda"
 
 ## Details
 - **Distance (km):** 15.40
-- **Missions in banner:** 36
-- **Total missions completed:** 12.600
-- **This is my banner no.:** 570
+
+
+
 
 
 
@@ -45,10 +45,9 @@ Beginnend am Bahnhof, vorbei am Zoo und über Zentralpark kommt Ihr zum Schluss 
 
 
 ## Links
-<a href="https://bannergress.com/banner/general-hulk-in-hoyerswerda-2ddd" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/general-hulk-in-hoyerswerda-2ddd" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000570_general-hulk-in-hoyerswerda_2023.md`
-> • #000570
-> • Slug: `general-hulk-in-hoyerswerda`
+
+> File: `000570_general-hulk-in-hoyerswerda_2023.md` • #000570 • Slug: `general-hulk-in-hoyerswerda`

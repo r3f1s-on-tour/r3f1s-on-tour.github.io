@@ -16,7 +16,7 @@ lengthKMeters: "13,85"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Pasinger Stadtwappen"
 slug: "pasinger-stadtwappen"
 href: "banner/000053_pasinger-stadtwappen_2017.md"
@@ -32,9 +32,9 @@ name: "Pasinger Stadtwappen"
 
 ## Details
 - **Distance (km):** 13.85
-- **Missions in banner:** 24
-- **Total missions completed:** 1224
-- **This is my banner no.:** 53
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Die nächste Mission beginnt jeweils am letzten Portal der vorherigen Mission. E
 
 
 ## Links
-<a href="https://bannergress.com/banner/pasinger-stadtwappen-0d09" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/pasinger-stadtwappen-0d09" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000053_pasinger-stadtwappen_2017.md`
-> • #000053
-> • Slug: `pasinger-stadtwappen`
+
+> File: `000053_pasinger-stadtwappen_2017.md` • #000053 • Slug: `pasinger-stadtwappen`

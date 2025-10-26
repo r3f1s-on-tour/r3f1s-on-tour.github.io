@@ -16,7 +16,7 @@ lengthKMeters: "4,121"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Spaziergang durch Senftenberg"
 slug: "spaziergang-durch-senftenberg"
 href: "banner/000569_spaziergang-durch-senftenberg_2023.md"
@@ -32,9 +32,9 @@ name: "Spaziergang durch Senftenberg"
 
 ## Details
 - **Distance (km):** 4.12
-- **Missions in banner:** 6
-- **Total missions completed:** 12.564
-- **This is my banner no.:** 569
+
+
+
 
 
 
@@ -46,10 +46,9 @@ Die Festung ist ab ca.17 Uhr geschlossen dann nur noch  Zugang über Treppe am T
 
 
 ## Links
-<a href="https://bannergress.com/banner/spaziergang-durch-senftenberg-02a3" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/spaziergang-durch-senftenberg-02a3" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000569_spaziergang-durch-senftenberg_2023.md`
-> • #000569
-> • Slug: `spaziergang-durch-senftenberg`
+
+> File: `000569_spaziergang-durch-senftenberg_2023.md` • #000569 • Slug: `spaziergang-durch-senftenberg`

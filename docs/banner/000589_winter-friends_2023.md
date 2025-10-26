@@ -16,7 +16,7 @@ lengthKMeters: "1,889"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Winter Friends"
 slug: "winter-friends"
 href: "banner/000589_winter-friends_2023.md"
@@ -32,9 +32,9 @@ name: "Winter Friends"
 
 ## Details
 - **Distance (km):** 1.89
-- **Missions in banner:** 6
-- **Total missions completed:** 13.050
-- **This is my banner no.:** 589
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Geh mit deinen Freunden durch Löbtau
 
 
 ## Links
-<a href="https://bannergress.com/banner/winter-friends-95cd" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/winter-friends-95cd" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000589_winter-friends_2023.md`
-> • #000589
-> • Slug: `winter-friends`
+
+> File: `000589_winter-friends_2023.md` • #000589 • Slug: `winter-friends`

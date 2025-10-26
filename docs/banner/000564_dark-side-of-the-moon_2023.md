@@ -16,7 +16,7 @@ lengthKMeters: "5,476"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Dark Side of the Moon"
 slug: "dark-side-of-the-moon"
 href: "banner/000564_dark-side-of-the-moon_2023.md"
@@ -32,9 +32,9 @@ name: "Dark Side of the Moon"
 
 ## Details
 - **Distance (km):** 5.48
-- **Missions in banner:** 18
-- **Total missions completed:** 12.498
-- **This is my banner no.:** 564
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Discover the dark side of the moon in Potsdam. Start at the Fachhochschule and m
 
 
 ## Links
-<a href="https://bannergress.com/banner/dark-side-of-the-moon-b01f" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/dark-side-of-the-moon-b01f" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000564_dark-side-of-the-moon_2023.md`
-> • #000564
-> • Slug: `dark-side-of-the-moon`
+
+> File: `000564_dark-side-of-the-moon_2023.md` • #000564 • Slug: `dark-side-of-the-moon`

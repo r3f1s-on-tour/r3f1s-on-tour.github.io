@@ -16,7 +16,7 @@ lengthKMeters: "5,541"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Find the Alien"
 slug: "find-the-alien"
 href: "banner/000504_find-the-alien_2022.md"
@@ -32,9 +32,9 @@ name: "Find the Alien"
 
 ## Details
 - **Distance (km):** 5.54
-- **Missions in banner:** 24
-- **Total missions completed:** 10.776
-- **This is my banner no.:** 504
+
+
+
 
 
 
@@ -45,10 +45,9 @@ gibt es starke Anzeichen dass es hier auch Aliens gibt. Folge der Route in der r
 
 
 ## Links
-<a href="https://bannergress.com/banner/find-the-alien-90f6" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/find-the-alien-90f6" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000504_find-the-alien_2022.md`
-> • #000504
-> • Slug: `find-the-alien`
+
+> File: `000504_find-the-alien_2022.md` • #000504 • Slug: `find-the-alien`

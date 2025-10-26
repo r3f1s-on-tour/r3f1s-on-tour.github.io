@@ -16,7 +16,7 @@ lengthKMeters: "3,18"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Cats in the box - Strasburg"
 slug: "cats-in-the-box-strasburg"
 href: "banner/000371_cats-in-the-box-strasburg_2021.md"
@@ -32,9 +32,9 @@ name: "Cats in the box - Strasburg"
 
 ## Details
 - **Distance (km):** 3.18
-- **Missions in banner:** 6
-- **Total missions completed:** 8148
-- **This is my banner no.:** 371
+
+
+
 
 
 
@@ -46,10 +46,9 @@ Banner geht am 26.12.2021 offline
 
 
 ## Links
-<a href="https://bannergress.com/banner/cats-in-the-box-strasburg-baf2" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/cats-in-the-box-strasburg-baf2" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000371_cats-in-the-box-strasburg_2021.md`
-> • #000371
-> • Slug: `cats-in-the-box-strasburg`
+
+> File: `000371_cats-in-the-box-strasburg_2021.md` • #000371 • Slug: `cats-in-the-box-strasburg`

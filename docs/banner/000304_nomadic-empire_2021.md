@@ -16,7 +16,7 @@ lengthKMeters: "9,70"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Nomadic Empire"
 slug: "nomadic-empire"
 href: "banner/000304_nomadic-empire_2021.md"
@@ -32,9 +32,9 @@ name: "Nomadic Empire"
 
 ## Details
 - **Distance (km):** 9.70
-- **Missions in banner:** 30
-- **Total missions completed:** 7104
-- **This is my banner no.:** 304
+
+
+
 
 
 
@@ -44,10 +44,9 @@ A nice walk from Alexanderplatz along the Kollwitzkietz to Brunnenviertel with i
 
 
 ## Links
-<a href="https://bannergress.com/banner/mongol-nomadic-empire-75d0" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/mongol-nomadic-empire-75d0" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000304_nomadic-empire_2021.md`
-> • #000304
-> • Slug: `nomadic-empire`
+
+> File: `000304_nomadic-empire_2021.md` • #000304 • Slug: `nomadic-empire`

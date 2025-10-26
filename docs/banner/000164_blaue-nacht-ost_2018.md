@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Blaue Nacht Ost"
 slug: "blaue-nacht-ost"
 href: "banner/000164_blaue-nacht-ost_2018.md"
@@ -32,15 +32,13 @@ name: "Blaue Nacht Ost"
 
 ## Details
 
-- **Missions in banner:** 36
-- **Total missions completed:** 3984
-- **This is my banner no.:** 164
 
 
 
 
 
 
-> File: `000164_blaue-nacht-ost_2018.md`
-> • #000164
-> • Slug: `blaue-nacht-ost`
+
+
+
+> File: `000164_blaue-nacht-ost_2018.md` • #000164 • Slug: `blaue-nacht-ost`

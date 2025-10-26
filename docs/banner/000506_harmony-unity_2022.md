@@ -16,7 +16,7 @@ lengthKMeters: "8,405"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Harmony & Unity"
 slug: "harmony-unity"
 href: "banner/000506_harmony-unity_2022.md"
@@ -32,9 +32,9 @@ name: "Harmony & Unity"
 
 ## Details
 - **Distance (km):** 8.40
-- **Missions in banner:** 36
-- **Total missions completed:** 10.818
-- **This is my banner no.:** 506
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Genieße diese kleine Runde durch die Düsseldorfer Altstadt und freu dich auf e
 
 
 ## Links
-<a href="https://bannergress.com/banner/harmony-unity-9905" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/harmony-unity-9905" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000506_harmony-unity_2022.md`
-> • #000506
-> • Slug: `harmony-unity`
+
+> File: `000506_harmony-unity_2022.md` • #000506 • Slug: `harmony-unity`

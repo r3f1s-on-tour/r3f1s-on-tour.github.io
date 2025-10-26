@@ -16,7 +16,7 @@ lengthKMeters: "9,984"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Narrenkappe"
 slug: "narrenkappe"
 href: "banner/000500_narrenkappe_2022.md"
@@ -32,9 +32,9 @@ name: "Narrenkappe"
 
 ## Details
 - **Distance (km):** 9.98
-- **Missions in banner:** 24
-- **Total missions completed:** 10.704
-- **This is my banner no.:** 500
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Take a walk around Koeln-Ehrenfeld. This district is known for its variety of st
 
 
 ## Links
-<a href="https://bannergress.com/banner/narrenkappe-f124" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/narrenkappe-f124" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000500_narrenkappe_2022.md`
-> • #000500
-> • Slug: `narrenkappe`
+
+> File: `000500_narrenkappe_2022.md` • #000500 • Slug: `narrenkappe`

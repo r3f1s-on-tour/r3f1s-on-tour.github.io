@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Augsburg im August"
 slug: "augsburg-im-august"
 href: "banner/000196_augsburg-im-august_2018.md"
@@ -32,19 +32,18 @@ name: "Augsburg im August"
 
 ## Details
 
-- **Missions in banner:** 30
-- **Total missions completed:** 4644
-- **This is my banner no.:** 196
+
+
+
 
 
 
 
 
 ## Links
-<a href="https://bannergress.com/banner/augsburg-im-august-e95e" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/augsburg-im-august-e95e" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000196_augsburg-im-august_2018.md`
-> • #000196
-> • Slug: `augsburg-im-august`
+
+> File: `000196_augsburg-im-august_2018.md` • #000196 • Slug: `augsburg-im-august`

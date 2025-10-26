@@ -16,7 +16,7 @@ lengthKMeters: "1,20"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Chagall Window yellow"
 slug: "chagall-window-yellow"
 href: "banner/000061_chagall-window-yellow_2017.md"
@@ -32,19 +32,18 @@ name: "Chagall Window yellow"
 
 ## Details
 - **Distance (km):** 1.20
-- **Missions in banner:** 6
-- **Total missions completed:** 1356
-- **This is my banner no.:** 61
+
+
+
 
 
 
 
 
 ## Links
-<a href="https://bannergress.com/banner/chagall-window-yellow-b02b" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/chagall-window-yellow-b02b" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000061_chagall-window-yellow_2017.md`
-> • #000061
-> • Slug: `chagall-window-yellow`
+
+> File: `000061_chagall-window-yellow_2017.md` • #000061 • Slug: `chagall-window-yellow`

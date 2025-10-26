@@ -16,7 +16,7 @@ lengthKMeters: "1,74"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Evolution in Oranienburg"
 slug: "evolution-in-oranienburg"
 href: "banner/000328_evolution-in-oranienburg_2021.md"
@@ -32,9 +32,9 @@ name: "Evolution in Oranienburg"
 
 ## Details
 - **Distance (km):** 1.74
-- **Missions in banner:** 6
-- **Total missions completed:** 7512
-- **This is my banner no.:** 328
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Eine kleine Entdeckungsrunde durch Oranienburg. Die Reihe startet am Bahnhof und
 
 
 ## Links
-<a href="https://bannergress.com/banner/evolution-in-oranienburg-a1bb" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/evolution-in-oranienburg-a1bb" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000328_evolution-in-oranienburg_2021.md`
-> • #000328
-> • Slug: `evolution-in-oranienburg`
+
+> File: `000328_evolution-in-oranienburg_2021.md` • #000328 • Slug: `evolution-in-oranienburg`

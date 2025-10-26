@@ -16,7 +16,7 @@ lengthKMeters: "6,05"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Call Shenlong in Oranienburg"
 slug: "call-shenlong-in-oranienburg"
 href: "banner/000354_call-shenlong-in-oranienburg_2021.md"
@@ -32,9 +32,9 @@ name: "Call Shenlong in Oranienburg"
 
 ## Details
 - **Distance (km):** 6.05
-- **Missions in banner:** 18
-- **Total missions completed:** 7920
-- **This is my banner no.:** 354
+
+
+
 
 
 
@@ -44,6 +44,4 @@ Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> File: `000354_call-shenlong-in-oranienburg_2021.md`
-> • #000354
-> • Slug: `call-shenlong-in-oranienburg`
+> File: `000354_call-shenlong-in-oranienburg_2021.md` • #000354 • Slug: `call-shenlong-in-oranienburg`

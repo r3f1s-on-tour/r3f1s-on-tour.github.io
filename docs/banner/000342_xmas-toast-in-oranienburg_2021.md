@@ -16,7 +16,7 @@ lengthKMeters: "1,64"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "XMas Toast in Oranienburg"
 slug: "xmas-toast-in-oranienburg"
 href: "banner/000342_xmas-toast-in-oranienburg_2021.md"
@@ -32,9 +32,9 @@ name: "XMas Toast in Oranienburg"
 
 ## Details
 - **Distance (km):** 1.64
-- **Missions in banner:** 6
-- **Total missions completed:** 7740
-- **This is my banner no.:** 342
+
+
+
 
 
 
@@ -46,10 +46,9 @@ Geht am 24.11.2021 offline
 
 
 ## Links
-<a href="https://bannergress.com/banner/xmas-toast-in-oranienburg-7417" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/xmas-toast-in-oranienburg-7417" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000342_xmas-toast-in-oranienburg_2021.md`
-> • #000342
-> • Slug: `xmas-toast-in-oranienburg`
+
+> File: `000342_xmas-toast-in-oranienburg_2021.md` • #000342 • Slug: `xmas-toast-in-oranienburg`

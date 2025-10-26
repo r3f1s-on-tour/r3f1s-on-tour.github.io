@@ -16,7 +16,7 @@ lengthKMeters: "4,2"
 umap: ""
 missionDay: "1"
 notice: ""
-trip: ""
+Trips: ""
 title: "MD Cambridge"
 slug: "md-cambridge"
 href: "banner/000621_md-cambridge_2025.md"
@@ -32,19 +32,18 @@ name: "MD Cambridge"
 
 ## Details
 - **Distance (km):** 4.20
-- **Missions in banner:** 12
-- **Total missions completed:** 13.524
-- **This is my banner no.:** 621
+
+
+
 - **Mission Day:** Yes
 
 
 
 
 ## Links
-<a href="https://bannergress.com/banner/md-2025-cambridge-ebd5" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/md-2025-cambridge-ebd5" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000621_md-cambridge_2025.md`
-> • #000621
-> • Slug: `md-cambridge`
+
+> File: `000621_md-cambridge_2025.md` • #000621 • Slug: `md-cambridge`

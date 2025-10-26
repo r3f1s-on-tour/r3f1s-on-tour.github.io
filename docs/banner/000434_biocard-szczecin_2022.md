@@ -16,7 +16,7 @@ lengthKMeters: "18,62"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Biocard Szczecin"
 slug: "biocard-szczecin"
 href: "banner/000434_biocard-szczecin_2022.md"
@@ -32,9 +32,9 @@ name: "Biocard Szczecin"
 
 ## Details
 - **Distance (km):** 18.62
-- **Missions in banner:** 48
-- **Total missions completed:** 9.072
-- **This is my banner no.:** 434
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Welcome to Szczecin! This banner will lead you through the city's most famous hi
 
 
 ## Links
-<a href="https://bannergress.com/banner/biocard-szczecin-0805" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/biocard-szczecin-0805" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000434_biocard-szczecin_2022.md`
-> • #000434
-> • Slug: `biocard-szczecin`
+
+> File: `000434_biocard-szczecin_2022.md` • #000434 • Slug: `biocard-szczecin`

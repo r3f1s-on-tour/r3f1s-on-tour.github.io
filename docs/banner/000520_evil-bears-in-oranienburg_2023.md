@@ -16,7 +16,7 @@ lengthKMeters: "1,29"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Evil Bears in Oranienburg"
 slug: "evil-bears-in-oranienburg"
 href: "banner/000520_evil-bears-in-oranienburg_2023.md"
@@ -32,9 +32,9 @@ name: "Evil Bears in Oranienburg"
 
 ## Details
 - **Distance (km):** 1.29
-- **Missions in banner:** 6
-- **Total missions completed:** 10.998
-- **This is my banner no.:** 520
+
+
+
 
 
 
@@ -44,6 +44,4 @@ Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> File: `000520_evil-bears-in-oranienburg_2023.md`
-> • #000520
-> • Slug: `evil-bears-in-oranienburg`
+> File: `000520_evil-bears-in-oranienburg_2023.md` • #000520 • Slug: `evil-bears-in-oranienburg`

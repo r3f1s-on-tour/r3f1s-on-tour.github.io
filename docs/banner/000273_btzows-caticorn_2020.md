@@ -16,7 +16,7 @@ lengthKMeters: "7,65"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Bötzows Caticorn"
 slug: "btzows-caticorn"
 href: "banner/000273_btzows-caticorn_2020.md"
@@ -32,9 +32,9 @@ name: "Bötzows Caticorn"
 
 ## Details
 - **Distance (km):** 7.65
-- **Missions in banner:** 42
-- **Total missions completed:** 6426
-- **This is my banner no.:** 273
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Nur noch bis 31.10.2021 spielbar.
 
 
 ## Links
-<a href="https://bannergress.com/banner/b%C3%B6tzows-caticorn-e6b1" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/b%C3%B6tzows-caticorn-e6b1" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000273_btzows-caticorn_2020.md`
-> • #000273
-> • Slug: `btzows-caticorn`
+
+> File: `000273_btzows-caticorn_2020.md` • #000273 • Slug: `btzows-caticorn`

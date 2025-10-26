@@ -16,7 +16,7 @@ lengthKMeters: "2,55"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Marienplatz SPIDERWEB"
 slug: "marienplatz-spiderweb"
 href: "banner/000189_marienplatz-spiderweb_2018.md"
@@ -32,9 +32,9 @@ name: "Marienplatz SPIDERWEB"
 
 ## Details
 - **Distance (km):** 2.55
-- **Missions in banner:** 12
-- **Total missions completed:** 4470
-- **This is my banner no.:** 189
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Such link. Very hack. Wow.
 
 
 ## Links
-<a href="https://bannergress.com/banner/marienplatz-spiderweb-6516" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/marienplatz-spiderweb-6516" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000189_marienplatz-spiderweb_2018.md`
-> • #000189
-> • Slug: `marienplatz-spiderweb`
+
+> File: `000189_marienplatz-spiderweb_2018.md` • #000189 • Slug: `marienplatz-spiderweb`

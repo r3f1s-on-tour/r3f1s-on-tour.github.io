@@ -16,7 +16,7 @@ lengthKMeters: "17,08"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Blauer Reiter Tour"
 slug: "blauer-reiter-tour"
 href: "banner/000045_blauer-reiter-tour_2016.md"
@@ -32,9 +32,9 @@ name: "Blauer Reiter Tour"
 
 ## Details
 - **Distance (km):** 17.08
-- **Missions in banner:** 48
-- **Total missions completed:** 1026
-- **This is my banner no.:** 45
+
+
+
 
 
 
@@ -46,10 +46,9 @@ Erschaffen hat den Blauen Reiter Franz Marc (1880 – 1916), wo man das Original
 
 
 ## Links
-<a href="https://bannergress.com/banner/blauer-reiter-tour-9d18" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/blauer-reiter-tour-9d18" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000045_blauer-reiter-tour_2016.md`
-> • #000045
-> • Slug: `blauer-reiter-tour`
+
+> File: `000045_blauer-reiter-tour_2016.md` • #000045 • Slug: `blauer-reiter-tour`

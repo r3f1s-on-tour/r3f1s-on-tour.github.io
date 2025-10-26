@@ -16,7 +16,7 @@ lengthKMeters: "18,13"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Schweriner Schloss"
 slug: "schweriner-schloss"
 href: "banner/000427_schweriner-schloss_2022.md"
@@ -32,9 +32,9 @@ name: "Schweriner Schloss"
 
 ## Details
 - **Distance (km):** 18.13
-- **Missions in banner:** 30
-- **Total missions completed:** 8.904
-- **This is my banner no.:** 427
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Nach Absolvieren der Missionsreihe erhalten Sie ein schönes Bild des Schweriner
 
 
 ## Links
-<a href="https://bannergress.com/banner/schweriner-schloss-8ca1" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/schweriner-schloss-8ca1" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000427_schweriner-schloss_2022.md`
-> • #000427
-> • Slug: `schweriner-schloss`
+
+> File: `000427_schweriner-schloss_2022.md` • #000427 • Slug: `schweriner-schloss`

@@ -16,7 +16,7 @@ lengthKMeters: "1,3"
 umap: ""
 missionDay: ""
 notice: "Ende der Polen Rundreise\\n[Start der Reise](https://r3f1s-on-tour.github.io/banner/000613_owicz-muster-tour-in-der-oranienburger-strae_2025/)"
-trip: ""
+Trips: ""
 title: "Łowicz-Muster Tour in Szczecin"
 slug: "owicz-muster-tour-in-szczecin"
 href: "banner/000619_owicz-muster-tour-in-szczecin_2025.md"
@@ -40,25 +40,24 @@ name: "Łowicz-Muster Tour in Szczecin"
   line-height: 1.6;
 ">
   ⚠️ <strong>Notice:</strong><br>
-  Ende der Polen Rundreise<br><a href="https://r3f1s-on-tour.github.io/banner/000613_owicz-muster-tour-in-der-oranienburger-strae_2025/" target="_blank" rel="noopener" style="color:#FFD500;text-decoration:underline;word-break:break-word;">Start der Reise</a>
+  Ende der Polen Rundreise<br><a href="https://r3f1s-on-tour.github.io/banner/000613_owicz-muster-tour-in-der-oranienburger-strae_2025/" style="color:#FFD500;text-decoration:underline;word-break:break-word;">Start der Reise</a>
 </div>
 
 
 ## Details
 - **Distance (km):** 1.30
-- **Missions in banner:** 6
-- **Total missions completed:** 13.506
-- **This is my banner no.:** 619
+
+
+
 
 
 
 
 
 ## Links
-<a href="https://bannergress.com/banner/%C5%82owicz-muster-tour-in-der-oranienburger-stra%C3%9Fe-75f1" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/%C5%82owicz-muster-tour-in-der-oranienburger-stra%C3%9Fe-75f1" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000619_owicz-muster-tour-in-szczecin_2025.md`
-> • #000619
-> • Slug: `owicz-muster-tour-in-szczecin`
+
+> File: `000619_owicz-muster-tour-in-szczecin_2025.md` • #000619 • Slug: `owicz-muster-tour-in-szczecin`

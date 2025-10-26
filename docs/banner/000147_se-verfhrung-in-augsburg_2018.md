@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Süße Verführung in Augsburg"
 slug: "se-verfhrung-in-augsburg"
 href: "banner/000147_se-verfhrung-in-augsburg_2018.md"
@@ -32,15 +32,13 @@ name: "Süße Verführung in Augsburg"
 
 ## Details
 
-- **Missions in banner:** 30
-- **Total missions completed:** 3576
-- **This is my banner no.:** 147
 
 
 
 
 
 
-> File: `000147_se-verfhrung-in-augsburg_2018.md`
-> • #000147
-> • Slug: `se-verfhrung-in-augsburg`
+
+
+
+> File: `000147_se-verfhrung-in-augsburg_2018.md` • #000147 • Slug: `se-verfhrung-in-augsburg`

@@ -16,7 +16,7 @@ lengthKMeters: "8,46"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Stralsund Map Anno 1628"
 slug: "stralsund-map-anno-1628"
 href: "banner/000333_stralsund-map-anno-1628_2021.md"
@@ -32,9 +32,9 @@ name: "Stralsund Map Anno 1628"
 
 ## Details
 - **Distance (km):** 8.46
-- **Missions in banner:** 30
-- **Total missions completed:** 7626
-- **This is my banner no.:** 333
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Gehe auf Entdeckungstour durch die Hansestadt Stralsund. Diese Mission beginnt a
 
 
 ## Links
-<a href="https://bannergress.com/banner/stralsund-map-anno-1628-07c9" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/stralsund-map-anno-1628-07c9" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000333_stralsund-map-anno-1628_2021.md`
-> • #000333
-> • Slug: `stralsund-map-anno-1628`
+
+> File: `000333_stralsund-map-anno-1628_2021.md` • #000333 • Slug: `stralsund-map-anno-1628`

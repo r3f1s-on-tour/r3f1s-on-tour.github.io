@@ -16,7 +16,7 @@ lengthKMeters: "8,97"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Pankowsmasher"
 slug: "pankowsmasher"
 href: "banner/000279_pankowsmasher_2020.md"
@@ -32,9 +32,9 @@ name: "Pankowsmasher"
 
 ## Details
 - **Distance (km):** 8.97
-- **Missions in banner:** 12
-- **Total missions completed:** 6480
-- **This is my banner no.:** 279
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Diese Mission beginnt in Pankow und geleitet euch vorbei an wunderschönen Wasse
 
 
 ## Links
-<a href="https://bannergress.com/banner/pankowsmasher-b978" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/pankowsmasher-b978" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000279_pankowsmasher_2020.md`
-> • #000279
-> • Slug: `pankowsmasher`
+
+> File: `000279_pankowsmasher_2020.md` • #000279 • Slug: `pankowsmasher`

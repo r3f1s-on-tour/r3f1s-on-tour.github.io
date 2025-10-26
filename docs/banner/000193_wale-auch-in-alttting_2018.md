@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Wale auch in Altötting"
 slug: "wale-auch-in-alttting"
 href: "banner/000193_wale-auch-in-alttting_2018.md"
@@ -32,15 +32,13 @@ name: "Wale auch in Altötting"
 
 ## Details
 
-- **Missions in banner:** 6
-- **Total missions completed:** 4578
-- **This is my banner no.:** 193
 
 
 
 
 
 
-> File: `000193_wale-auch-in-alttting_2018.md`
-> • #000193
-> • Slug: `wale-auch-in-alttting`
+
+
+
+> File: `000193_wale-auch-in-alttting_2018.md` • #000193 • Slug: `wale-auch-in-alttting`

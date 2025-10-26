@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Erobere Woldegk"
 slug: "erobere-woldegk"
 href: "banner/000022_erobere-woldegk_2016.md"
@@ -32,19 +32,18 @@ name: "Erobere Woldegk"
 
 ## Details
 
-- **Missions in banner:** 18
-- **Total missions completed:** 378
-- **This is my banner no.:** 22
+
+
+
 
 
 
 
 
 ## Links
-<a href="https://bannergress.com/banner/erobere-woldegk-13fd" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/erobere-woldegk-13fd" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000022_erobere-woldegk_2016.md`
-> • #000022
-> • Slug: `erobere-woldegk`
+
+> File: `000022_erobere-woldegk_2016.md` • #000022 • Slug: `erobere-woldegk`

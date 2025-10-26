@@ -16,7 +16,7 @@ lengthKMeters: "5,954"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Cherry Blossom"
 slug: "cherry-blossom"
 href: "banner/000514_cherry-blossom_2022.md"
@@ -32,9 +32,9 @@ name: "Cherry Blossom"
 
 ## Details
 - **Distance (km):** 5.95
-- **Missions in banner:** 24
-- **Total missions completed:** 10.944
-- **This is my banner no.:** 514
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Welcome to Bonn! Have a great time and enjoy the Cherry Blossom.
 
 
 ## Links
-<a href="https://bannergress.com/banner/cherry-blossom-7cc3" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/cherry-blossom-7cc3" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000514_cherry-blossom_2022.md`
-> • #000514
-> • Slug: `cherry-blossom`
+
+> File: `000514_cherry-blossom_2022.md` • #000514 • Slug: `cherry-blossom`

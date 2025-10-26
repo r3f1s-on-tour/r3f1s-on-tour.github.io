@@ -16,7 +16,7 @@ lengthKMeters: "3,58"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Mongolian Embassy"
 slug: "mongolian-embassy"
 href: "banner/000303_mongolian-embassy_2021.md"
@@ -32,9 +32,9 @@ name: "Mongolian Embassy"
 
 ## Details
 - **Distance (km):** 3.58
-- **Missions in banner:** 12
-- **Total missions completed:** 7074
-- **This is my banner no.:** 303
+
+
+
 
 
 
@@ -44,10 +44,9 @@ This tour will guide you around the area of the mongolian embassy.  Located near
 
 
 ## Links
-<a href="https://bannergress.com/banner/mongolian-embassy-c022" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/mongolian-embassy-c022" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000303_mongolian-embassy_2021.md`
-> • #000303
-> • Slug: `mongolian-embassy`
+
+> File: `000303_mongolian-embassy_2021.md` • #000303 • Slug: `mongolian-embassy`

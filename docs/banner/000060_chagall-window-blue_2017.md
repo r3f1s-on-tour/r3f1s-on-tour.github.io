@@ -16,7 +16,7 @@ lengthKMeters: "1,74"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Chagall Window blue"
 slug: "chagall-window-blue"
 href: "banner/000060_chagall-window-blue_2017.md"
@@ -32,9 +32,9 @@ name: "Chagall Window blue"
 
 ## Details
 - **Distance (km):** 1.74
-- **Missions in banner:** 6
-- **Total missions completed:** 1350
-- **This is my banner no.:** 60
+
+
+
 
 
 
@@ -46,10 +46,9 @@ Optimal starting point for all three windows
 
 
 ## Links
-<a href="https://bannergress.com/banner/chagall-window-blue-8212" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/chagall-window-blue-8212" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000060_chagall-window-blue_2017.md`
-> • #000060
-> • Slug: `chagall-window-blue`
+
+> File: `000060_chagall-window-blue_2017.md` • #000060 • Slug: `chagall-window-blue`

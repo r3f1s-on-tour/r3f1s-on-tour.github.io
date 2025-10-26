@@ -16,7 +16,7 @@ lengthKMeters: "6,25"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Sunset at the lake"
 slug: "sunset-at-the-lake"
 href: "banner/000080_sunset-at-the-lake_2017.md"
@@ -32,9 +32,9 @@ name: "Sunset at the lake"
 
 ## Details
 - **Distance (km):** 6.25
-- **Missions in banner:** 12
-- **Total missions completed:** 2142
-- **This is my banner no.:** 80
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Erkunde den Wesslinger See und mache ein schönes Bild mit Sonnenuntergang am Se
 
 
 ## Links
-<a href="https://bannergress.com/banner/sunset-at-the-lake-8330" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/sunset-at-the-lake-8330" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000080_sunset-at-the-lake_2017.md`
-> • #000080
-> • Slug: `sunset-at-the-lake`
+
+> File: `000080_sunset-at-the-lake_2017.md` • #000080 • Slug: `sunset-at-the-lake`

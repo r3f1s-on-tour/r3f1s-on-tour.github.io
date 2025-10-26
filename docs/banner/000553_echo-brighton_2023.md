@@ -16,7 +16,7 @@ lengthKMeters: "3,514"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Echo Brighton"
 slug: "echo-brighton"
 href: "banner/000553_echo-brighton_2023.md"
@@ -32,9 +32,9 @@ name: "Echo Brighton"
 
 ## Details
 - **Distance (km):** 3.51
-- **Missions in banner:** 6
-- **Total missions completed:** 12.264
-- **This is my banner no.:** 553
+
+
+
 
 
 
@@ -44,6 +44,4 @@ Führen Sie anlässlich der Echo XM Anomaly in Brighton eine Event-Mission durch
 
 
 
-> File: `000553_echo-brighton_2023.md`
-> • #000553
-> • Slug: `echo-brighton`
+> File: `000553_echo-brighton_2023.md` • #000553 • Slug: `echo-brighton`

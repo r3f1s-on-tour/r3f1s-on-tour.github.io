@@ -16,7 +16,7 @@ lengthKMeters: "1,64"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Kiss Toast in Oranienburg"
 slug: "kiss-toast-in-oranienburg"
 href: "banner/000359_kiss-toast-in-oranienburg_2021.md"
@@ -32,9 +32,9 @@ name: "Kiss Toast in Oranienburg"
 
 ## Details
 - **Distance (km):** 1.64
-- **Missions in banner:** 6
-- **Total missions completed:** 7968
-- **This is my banner no.:** 359
+
+
+
 
 
 
@@ -44,6 +44,4 @@ Mache eine kleine Tour durch Oranienburg und hole dir die Kiss Toast ins Profil
 
 
 
-> File: `000359_kiss-toast-in-oranienburg_2021.md`
-> • #000359
-> • Slug: `kiss-toast-in-oranienburg`
+> File: `000359_kiss-toast-in-oranienburg_2021.md` • #000359 • Slug: `kiss-toast-in-oranienburg`

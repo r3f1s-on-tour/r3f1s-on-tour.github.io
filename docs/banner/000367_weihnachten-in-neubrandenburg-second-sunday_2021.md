@@ -16,7 +16,7 @@ lengthKMeters: "2,03"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Weihnachten in Neubrandenburg - Second Sunday"
 slug: "weihnachten-in-neubrandenburg-second-sunday"
 href: "banner/000367_weihnachten-in-neubrandenburg-second-sunday_2021.md"
@@ -32,9 +32,9 @@ name: "Weihnachten in Neubrandenburg - Second Sunday"
 
 ## Details
 - **Distance (km):** 2.03
-- **Missions in banner:** 6
-- **Total missions completed:** 8070
-- **This is my banner no.:** 367
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Erkunde Neubrandenburg in der Weihnachtszeit. Die Mission beginnt und endet auf 
 
 
 ## Links
-<a href="https://bannergress.com/banner/weihnachten-in-neubrandenburg-second-sunday-fc21" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/weihnachten-in-neubrandenburg-second-sunday-fc21" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000367_weihnachten-in-neubrandenburg-second-sunday_2021.md`
-> • #000367
-> • Slug: `weihnachten-in-neubrandenburg-second-sunday`
+
+> File: `000367_weihnachten-in-neubrandenburg-second-sunday_2021.md` • #000367 • Slug: `weihnachten-in-neubrandenburg-second-sunday`

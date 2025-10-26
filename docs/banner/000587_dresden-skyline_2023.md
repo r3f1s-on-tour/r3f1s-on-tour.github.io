@@ -16,7 +16,7 @@ lengthKMeters: "4,1"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Dresden Skyline"
 slug: "dresden-skyline"
 href: "banner/000587_dresden-skyline_2023.md"
@@ -32,9 +32,9 @@ name: "Dresden Skyline"
 
 ## Details
 - **Distance (km):** 4.10
-- **Missions in banner:** 12
-- **Total missions completed:** 13.026
-- **This is my banner no.:** 587
+
+
+
 
 
 
@@ -45,10 +45,9 @@ Teil 1 von 12
 
 
 ## Links
-<a href="https://bannergress.com/banner/dresden-skyline-06da" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/dresden-skyline-06da" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000587_dresden-skyline_2023.md`
-> • #000587
-> • Slug: `dresden-skyline`
+
+> File: `000587_dresden-skyline_2023.md` • #000587 • Slug: `dresden-skyline`

@@ -16,7 +16,7 @@ lengthKMeters: "4,879"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Once Upon A Time Under The Valencian Sun"
 slug: "once-upon-a-time-under-the-valencian-sun"
 href: "banner/000600_once-upon-a-time-under-the-valencian-sun_2024.md"
@@ -32,9 +32,9 @@ name: "Once Upon A Time Under The Valencian Sun"
 
 ## Details
 - **Distance (km):** 4.88
-- **Missions in banner:** 18
-- **Total missions completed:** 13.236
-- **This is my banner no.:** 600
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Discover Valencia's Old Town, where historic charm meets vibrant culture. Wander
 
 
 ## Links
-<a href="https://bannergress.com/banner/once-upon-a-time-under-the-valencian-sun-f640" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/once-upon-a-time-under-the-valencian-sun-f640" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000600_once-upon-a-time-under-the-valencian-sun_2024.md`
-> • #000600
-> • Slug: `once-upon-a-time-under-the-valencian-sun`
+
+> File: `000600_once-upon-a-time-under-the-valencian-sun_2024.md` • #000600 • Slug: `once-upon-a-time-under-the-valencian-sun`

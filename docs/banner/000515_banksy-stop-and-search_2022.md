@@ -16,7 +16,7 @@ lengthKMeters: "6,987"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Banksy - Stop and Search"
 slug: "banksy-stop-and-search"
 href: "banner/000515_banksy-stop-and-search_2022.md"
@@ -32,9 +32,9 @@ name: "Banksy - Stop and Search"
 
 ## Details
 - **Distance (km):** 6.99
-- **Missions in banner:** 24
-- **Total missions completed:** 10.968
-- **This is my banner no.:** 515
+
+
+
 
 
 
@@ -48,10 +48,9 @@ All credit goes to Banksy. ly <3
 
 
 ## Links
-<a href="https://bannergress.com/banner/banksy-stop-and-search-a9d5" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/banksy-stop-and-search-a9d5" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000515_banksy-stop-and-search_2022.md`
-> • #000515
-> • Slug: `banksy-stop-and-search`
+
+> File: `000515_banksy-stop-and-search_2022.md` • #000515 • Slug: `banksy-stop-and-search`

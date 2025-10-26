@@ -16,7 +16,7 @@ lengthKMeters: "7,79"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Holocaust Mahnmal"
 slug: "holocaust-mahnmal"
 href: "banner/000300_holocaust-mahnmal_2021.md"
@@ -32,9 +32,9 @@ name: "Holocaust Mahnmal"
 
 ## Details
 - **Distance (km):** 7.79
-- **Missions in banner:** 30
-- **Total missions completed:** 7008
-- **This is my banner no.:** 300
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Dieser Spaziergang durch die Mitte Berlins führt dich an vielen interessanten u
 
 
 ## Links
-<a href="https://bannergress.com/banner/holocaust-mahnmal-3309" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/holocaust-mahnmal-3309" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000300_holocaust-mahnmal_2021.md`
-> • #000300
-> • Slug: `holocaust-mahnmal`
+
+> File: `000300_holocaust-mahnmal_2021.md` • #000300 • Slug: `holocaust-mahnmal`

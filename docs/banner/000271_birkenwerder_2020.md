@@ -16,7 +16,7 @@ lengthKMeters: "2,33"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Birkenwerder"
 slug: "birkenwerder"
 href: "banner/000271_birkenwerder_2020.md"
@@ -32,9 +32,9 @@ name: "Birkenwerder"
 
 ## Details
 - **Distance (km):** 2.33
-- **Missions in banner:** 6
-- **Total missions completed:** 6366
-- **This is my banner no.:** 271
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Eine kleine Runde durch Birkenwerder. Viel Spaß
 
 
 ## Links
-<a href="https://bannergress.com/banner/birkenwerder-ac23" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/birkenwerder-ac23" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000271_birkenwerder_2020.md`
-> • #000271
-> • Slug: `birkenwerder`
+
+> File: `000271_birkenwerder_2020.md` • #000271 • Slug: `birkenwerder`

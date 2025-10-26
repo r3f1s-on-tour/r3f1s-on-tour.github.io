@@ -16,7 +16,7 @@ lengthKMeters: "4,86"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Dresden Artistic Skyline"
 slug: "dresden-artistic-skyline"
 href: "banner/000253_dresden-artistic-skyline_2019.md"
@@ -32,9 +32,9 @@ name: "Dresden Artistic Skyline"
 
 ## Details
 - **Distance (km):** 4.86
-- **Missions in banner:** 18
-- **Total missions completed:** 6108
-- **This is my banner no.:** 253
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Visit the historic city center of Dresden and create a beautiful artistic Skylin
 
 
 ## Links
-<a href="https://bannergress.com/banner/dresden-artistic-skyline-b160" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/dresden-artistic-skyline-b160" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000253_dresden-artistic-skyline_2019.md`
-> • #000253
-> • Slug: `dresden-artistic-skyline`
+
+> File: `000253_dresden-artistic-skyline_2019.md` • #000253 • Slug: `dresden-artistic-skyline`

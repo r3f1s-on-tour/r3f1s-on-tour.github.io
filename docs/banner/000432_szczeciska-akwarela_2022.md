@@ -16,7 +16,7 @@ lengthKMeters: "8,59"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Szczecińska akwarela"
 slug: "szczeciska-akwarela"
 href: "banner/000432_szczeciska-akwarela_2022.md"
@@ -32,9 +32,9 @@ name: "Szczecińska akwarela"
 
 ## Details
 - **Distance (km):** 8.59
-- **Missions in banner:** 18
-- **Total missions completed:** 9.018
-- **This is my banner no.:** 432
+
+
+
 
 
 
@@ -45,10 +45,9 @@ Start - Brama Portowa!
 
 
 ## Links
-<a href="https://bannergress.com/banner/szczeci%C5%84ska-akwarela-19aa" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/szczeci%C5%84ska-akwarela-19aa" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000432_szczeciska-akwarela_2022.md`
-> • #000432
-> • Slug: `szczeciska-akwarela`
+
+> File: `000432_szczeciska-akwarela_2022.md` • #000432 • Slug: `szczeciska-akwarela`

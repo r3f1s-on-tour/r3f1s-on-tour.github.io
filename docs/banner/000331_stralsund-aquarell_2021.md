@@ -16,7 +16,7 @@ lengthKMeters: "3,85"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Stralsund Aquarell"
 slug: "stralsund-aquarell"
 href: "banner/000331_stralsund-aquarell_2021.md"
@@ -32,9 +32,9 @@ name: "Stralsund Aquarell"
 
 ## Details
 - **Distance (km):** 3.85
-- **Missions in banner:** 12
-- **Total missions completed:** 7578
-- **This is my banner no.:** 331
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Willkommen am Stralsunder Hauptbahnhof. Von hier aus führt die Missionsreihe in
 
 
 ## Links
-<a href="https://bannergress.com/banner/stralsund-aquarell-a181" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/stralsund-aquarell-a181" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000331_stralsund-aquarell_2021.md`
-> • #000331
-> • Slug: `stralsund-aquarell`
+
+> File: `000331_stralsund-aquarell_2021.md` • #000331 • Slug: `stralsund-aquarell`

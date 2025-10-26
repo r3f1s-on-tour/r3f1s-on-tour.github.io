@@ -16,7 +16,7 @@ lengthKMeters: "1,64"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Bannergress Launch in Oranienburg"
 slug: "bannergress-launch-in-oranienburg"
 href: "banner/000346_bannergress-launch-in-oranienburg_2021.md"
@@ -32,9 +32,9 @@ name: "Bannergress Launch in Oranienburg"
 
 ## Details
 - **Distance (km):** 1.64
-- **Missions in banner:** 6
-- **Total missions completed:** 7800
-- **This is my banner no.:** 346
+
+
+
 
 
 
@@ -46,10 +46,9 @@ Geht am 21.11.2021 offline
 
 
 ## Links
-<a href="https://bannergress.com/banner/bannergress-launch-in-oranienburg-0e5f" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/bannergress-launch-in-oranienburg-0e5f" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000346_bannergress-launch-in-oranienburg_2021.md`
-> • #000346
-> • Slug: `bannergress-launch-in-oranienburg`
+
+> File: `000346_bannergress-launch-in-oranienburg_2021.md` • #000346 • Slug: `bannergress-launch-in-oranienburg`

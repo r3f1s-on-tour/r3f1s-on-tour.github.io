@@ -16,7 +16,7 @@ lengthKMeters: "1,622"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Luckenwalde"
 slug: "luckenwalde"
 href: "banner/000566_luckenwalde_2023.md"
@@ -32,9 +32,9 @@ name: "Luckenwalde"
 
 ## Details
 - **Distance (km):** 1.62
-- **Missions in banner:** 6
-- **Total missions completed:** 12.528
-- **This is my banner no.:** 566
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Beginn am Markt über den Boulevard
 
 
 ## Links
-<a href="https://bannergress.com/banner/luckenwalde-bd50" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/luckenwalde-bd50" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000566_luckenwalde_2023.md`
-> • #000566
-> • Slug: `luckenwalde`
+
+> File: `000566_luckenwalde_2023.md` • #000566 • Slug: `luckenwalde`

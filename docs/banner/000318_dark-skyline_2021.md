@@ -16,7 +16,7 @@ lengthKMeters: "1,81"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Dark Skyline"
 slug: "dark-skyline"
 href: "banner/000318_dark-skyline_2021.md"
@@ -32,9 +32,9 @@ name: "Dark Skyline"
 
 ## Details
 - **Distance (km):** 1.81
-- **Missions in banner:** 6
-- **Total missions completed:** 7386
-- **This is my banner no.:** 318
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Six-mission-set in the city-centre that shows some of Hannovers popular sights.
 
 
 ## Links
-<a href="https://bannergress.com/banner/dark-skyline-135b" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/dark-skyline-135b" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000318_dark-skyline_2021.md`
-> • #000318
-> • Slug: `dark-skyline`
+
+> File: `000318_dark-skyline_2021.md` • #000318 • Slug: `dark-skyline`

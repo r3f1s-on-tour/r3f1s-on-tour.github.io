@@ -16,7 +16,7 @@ lengthKMeters: "11,49"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Zürich Altstadt"
 slug: "zrich-altstadt"
 href: "banner/000055_zrich-altstadt_2017.md"
@@ -32,9 +32,9 @@ name: "Zürich Altstadt"
 
 ## Details
 - **Distance (km):** 11.49
-- **Missions in banner:** 36
-- **Total missions completed:** 1272
-- **This is my banner no.:** 55
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Entdecke auf diesem grossen Rundgang die mindere und die mehrere Altstadt von Z�
 
 
 ## Links
-<a href="https://bannergress.com/banner/z%C3%BCrich-altstadt-2215" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/z%C3%BCrich-altstadt-2215" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000055_zrich-altstadt_2017.md`
-> • #000055
-> • Slug: `zrich-altstadt`
+
+> File: `000055_zrich-altstadt_2017.md` • #000055 • Slug: `zrich-altstadt`

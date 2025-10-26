@@ -16,7 +16,7 @@ lengthKMeters: "6,77"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Welfenschloss Hannover"
 slug: "welfenschloss-hannover"
 href: "banner/000319_welfenschloss-hannover_2021.md"
@@ -32,9 +32,9 @@ name: "Welfenschloss Hannover"
 
 ## Details
 - **Distance (km):** 6.77
-- **Missions in banner:** 24
-- **Total missions completed:** 7410
-- **This is my banner no.:** 319
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Das Welfenschloss ist ein ehemaliges Schloss in Hannover im Stadtteil Nordstadt,
 
 
 ## Links
-<a href="https://bannergress.com/banner/welfenschloss-hannover-2957" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/welfenschloss-hannover-2957" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000319_welfenschloss-hannover_2021.md`
-> • #000319
-> • Slug: `welfenschloss-hannover`
+
+> File: `000319_welfenschloss-hannover_2021.md` • #000319 • Slug: `welfenschloss-hannover`

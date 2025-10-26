@@ -16,7 +16,7 @@ lengthKMeters: "23,182"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Tut-Tut Child"
 slug: "tut-tut-child"
 href: "banner/000581_tut-tut-child_2023.md"
@@ -32,9 +32,9 @@ name: "Tut-Tut Child"
 
 ## Details
 - **Distance (km):** 23.18
-- **Missions in banner:** 90
-- **Total missions completed:** 12.954
-- **This is my banner no.:** 581
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Erkunde das beschauliche Recklinghausen ganz genau, vielleicht findest du die Ma
 
 
 ## Links
-<a href="https://bannergress.com/banner/tut-tut-child-4d7a" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/tut-tut-child-4d7a" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000581_tut-tut-child_2023.md`
-> • #000581
-> • Slug: `tut-tut-child`
+
+> File: `000581_tut-tut-child_2023.md` • #000581 • Slug: `tut-tut-child`

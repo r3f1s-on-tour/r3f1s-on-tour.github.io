@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Ausgewogene Ernährung in Augsburg"
 slug: "ausgewogene-ernhrung-in-augsburg"
 href: "banner/000119_ausgewogene-ernhrung-in-augsburg_2018.md"
@@ -32,19 +32,18 @@ name: "Ausgewogene Ernährung in Augsburg"
 
 ## Details
 
-- **Missions in banner:** 24
-- **Total missions completed:** 2904
-- **This is my banner no.:** 119
+
+
+
 
 
 
 
 
 ## Links
-<a href="https://bannergress.com/banner/ausgewogene-ern%C3%A4hrung-in-augsburg-807f" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/ausgewogene-ern%C3%A4hrung-in-augsburg-807f" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000119_ausgewogene-ernhrung-in-augsburg_2018.md`
-> • #000119
-> • Slug: `ausgewogene-ernhrung-in-augsburg`
+
+> File: `000119_ausgewogene-ernhrung-in-augsburg_2018.md` • #000119 • Slug: `ausgewogene-ernhrung-in-augsburg`

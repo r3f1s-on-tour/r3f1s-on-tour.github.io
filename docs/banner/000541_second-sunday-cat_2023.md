@@ -16,7 +16,7 @@ lengthKMeters: "8,511"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Second Sunday Cat"
 slug: "second-sunday-cat"
 href: "banner/000541_second-sunday-cat_2023.md"
@@ -32,9 +32,9 @@ name: "Second Sunday Cat"
 
 ## Details
 - **Distance (km):** 8.51
-- **Missions in banner:** 24
-- **Total missions completed:** 11.988
-- **This is my banner no.:** 541
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Beginne eine Runde durch Strasburg und entdecke auf deiner Runde Sehenswürdigke
 
 
 ## Links
-<a href="https://bannergress.com/banner/second-sunday-cat-226f" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/second-sunday-cat-226f" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000541_second-sunday-cat_2023.md`
-> • #000541
-> • Slug: `second-sunday-cat`
+
+> File: `000541_second-sunday-cat_2023.md` • #000541 • Slug: `second-sunday-cat`

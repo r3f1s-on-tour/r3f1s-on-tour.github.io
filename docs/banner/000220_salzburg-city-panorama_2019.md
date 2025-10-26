@@ -16,7 +16,7 @@ lengthKMeters: "4,19"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Salzburg City Panorama"
 slug: "salzburg-city-panorama"
 href: "banner/000220_salzburg-city-panorama_2019.md"
@@ -32,9 +32,9 @@ name: "Salzburg City Panorama"
 
 ## Details
 - **Distance (km):** 4.19
-- **Missions in banner:** 18
-- **Total missions completed:** 5322
-- **This is my banner no.:** 220
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Salzburg City Panorama
 
 
 ## Links
-<a href="https://bannergress.com/banner/salzburg-city-panorama-a104" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/salzburg-city-panorama-a104" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000220_salzburg-city-panorama_2019.md`
-> • #000220
-> • Slug: `salzburg-city-panorama`
+
+> File: `000220_salzburg-city-panorama_2019.md` • #000220 • Slug: `salzburg-city-panorama`

@@ -16,7 +16,7 @@ lengthKMeters: "2,946"
 umap: ""
 missionDay: "1"
 notice: ""
-trip: ""
+Trips: ""
 title: "MD 2022- Stolpersteine, Berlin"
 slug: "md-2022-stolpersteine-berlin"
 href: "banner/000516_md-2022-stolpersteine-berlin_2022.md"
@@ -32,9 +32,9 @@ name: "MD 2022: Stolpersteine, Berlin"
 
 ## Details
 - **Distance (km):** 2.95
-- **Missions in banner:** 6
-- **Total missions completed:** 10.974
-- **This is my banner no.:** 516
+
+
+
 - **Mission Day:** Yes
 
 
@@ -44,10 +44,9 @@ Part of MD 2022: Stolpersteine
 
 
 ## Links
-<a href="https://bannergress.com/banner/md-2022-stolpersteine-berlin-0d29" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/md-2022-stolpersteine-berlin-0d29" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000516_md-2022-stolpersteine-berlin_2022.md`
-> • #000516
-> • Slug: `md-2022-stolpersteine-berlin`
+
+> File: `000516_md-2022-stolpersteine-berlin_2022.md` • #000516 • Slug: `md-2022-stolpersteine-berlin`

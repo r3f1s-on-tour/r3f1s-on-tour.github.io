@@ -16,7 +16,7 @@ lengthKMeters: "3,235"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Fischbrötchenbanner"
 slug: "fischbrtchenbanner"
 href: "banner/000497_fischbrtchenbanner_2022.md"
@@ -32,9 +32,9 @@ name: "Fischbrötchenbanner"
 
 ## Details
 - **Distance (km):** 3.23
-- **Missions in banner:** 6
-- **Total missions completed:** 10.608
-- **This is my banner no.:** 497
+
+
+
 
 
 
@@ -46,10 +46,9 @@ Am Ende des Banners liegt das Pescado. Hier gibt es die Luxusvariante des Fischb
 
 
 ## Links
-<a href="https://bannergress.com/banner/fischbr%C3%B6tchenbanner-09da" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/fischbr%C3%B6tchenbanner-09da" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000497_fischbrtchenbanner_2022.md`
-> • #000497
-> • Slug: `fischbrtchenbanner`
+
+> File: `000497_fischbrtchenbanner_2022.md` • #000497 • Slug: `fischbrtchenbanner`

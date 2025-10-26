@@ -16,7 +16,7 @@ lengthKMeters: "6,60"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "I want to be a pirate!"
 slug: "i-want-to-be-a-pirate"
 href: "banner/000199_i-want-to-be-a-pirate_2018.md"
@@ -32,9 +32,9 @@ name: "I want to be a pirate!"
 
 ## Details
 - **Distance (km):** 6.60
-- **Missions in banner:** 12
-- **Total missions completed:** 4668
-- **This is my banner no.:** 199
+
+
+
 
 
 
@@ -45,10 +45,9 @@ All portals available 24/7
 
 
 ## Links
-<a href="https://bannergress.com/banner/i-want-to-be-a-pirate-a503" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/i-want-to-be-a-pirate-a503" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000199_i-want-to-be-a-pirate_2018.md`
-> • #000199
-> • Slug: `i-want-to-be-a-pirate`
+
+> File: `000199_i-want-to-be-a-pirate_2018.md` • #000199 • Slug: `i-want-to-be-a-pirate`

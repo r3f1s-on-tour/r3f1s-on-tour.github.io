@@ -16,7 +16,7 @@ lengthKMeters: "4,13"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "#MissionProject Make Love Not War Berlin"
 slug: "missionproject-make-love-not-war-berlin"
 href: "banner/000405_missionproject-make-love-not-war-berlin_2022.md"
@@ -32,9 +32,9 @@ name: "#MissionProject Make Love Not War Berlin"
 
 ## Details
 - **Distance (km):** 4.13
-- **Missions in banner:** 18
-- **Total missions completed:** 8.646
-- **This is my banner no.:** 405
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Explore the famous Bötzowviertel in Prenzlauer Berg and get a banner that shows
 
 
 ## Links
-<a href="https://bannergress.com/banner/missionproject-make-love-not-war-berlin-d5d5" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/missionproject-make-love-not-war-berlin-d5d5" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000405_missionproject-make-love-not-war-berlin_2022.md`
-> • #000405
-> • Slug: `missionproject-make-love-not-war-berlin`
+
+> File: `000405_missionproject-make-love-not-war-berlin_2022.md` • #000405 • Slug: `missionproject-make-love-not-war-berlin`

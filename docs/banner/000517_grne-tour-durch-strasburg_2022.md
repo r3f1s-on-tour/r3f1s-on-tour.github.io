@@ -16,7 +16,7 @@ lengthKMeters: "3,514"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Grüne Tour durch Strasburg"
 slug: "grne-tour-durch-strasburg"
 href: "banner/000517_grne-tour-durch-strasburg_2022.md"
@@ -32,9 +32,9 @@ name: "Grüne Tour durch Strasburg"
 
 ## Details
 - **Distance (km):** 3.51
-- **Missions in banner:** 6
-- **Total missions completed:** 10.980
-- **This is my banner no.:** 517
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Starte am Marktplatz  einen Rundgang und entdecke Strasburg. Auf deinem Abenteue
 
 
 ## Links
-<a href="https://bannergress.com/banner/gr%C3%BCne-tour-durch-strasburg-5081" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/gr%C3%BCne-tour-durch-strasburg-5081" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000517_grne-tour-durch-strasburg_2022.md`
-> • #000517
-> • Slug: `grne-tour-durch-strasburg`
+
+> File: `000517_grne-tour-durch-strasburg_2022.md` • #000517 • Slug: `grne-tour-durch-strasburg`

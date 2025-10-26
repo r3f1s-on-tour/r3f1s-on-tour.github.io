@@ -16,7 +16,7 @@ lengthKMeters: "1,91"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "May the force be with you Malmö"
 slug: "may-the-force-be-with-you-malm"
 href: "banner/000197_may-the-force-be-with-you-malm_2018.md"
@@ -32,9 +32,9 @@ name: "May the force be with you Malmö"
 
 ## Details
 - **Distance (km):** 1.91
-- **Missions in banner:** 6
-- **Total missions completed:** 4650
-- **This is my banner no.:** 197
+
+
+
 
 
 
@@ -46,10 +46,9 @@ All portals available 24/7.
 
 
 ## Links
-<a href="https://bannergress.com/banner/may-the-force-be-with-you-malm%C3%B6-abe8" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/may-the-force-be-with-you-malm%C3%B6-abe8" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000197_may-the-force-be-with-you-malm_2018.md`
-> • #000197
-> • Slug: `may-the-force-be-with-you-malm`
+
+> File: `000197_may-the-force-be-with-you-malm_2018.md` • #000197 • Slug: `may-the-force-be-with-you-malm`

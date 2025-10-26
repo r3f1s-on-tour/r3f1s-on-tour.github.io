@@ -16,7 +16,7 @@ lengthKMeters: "3,92"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Xenomorph Walk"
 slug: "xenomorph-walk"
 href: "banner/000387_xenomorph-walk_2022.md"
@@ -32,9 +32,9 @@ name: "Xenomorph Walk"
 
 ## Details
 - **Distance (km):** 3.92
-- **Missions in banner:** 12
-- **Total missions completed:** 8.328
-- **This is my banner no.:** 387
+
+
+
 
 
 
@@ -46,10 +46,9 @@ Online bis 01.05.2022
 
 
 ## Links
-<a href="https://bannergress.com/banner/xenomorph-walk-afac" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/xenomorph-walk-afac" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000387_xenomorph-walk_2022.md`
-> • #000387
-> • Slug: `xenomorph-walk`
+
+> File: `000387_xenomorph-walk_2022.md` • #000387 • Slug: `xenomorph-walk`

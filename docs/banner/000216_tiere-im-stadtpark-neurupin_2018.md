@@ -16,7 +16,7 @@ lengthKMeters: "15,23"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Tiere im Stadtpark Neurupin"
 slug: "tiere-im-stadtpark-neurupin"
 href: "banner/000216_tiere-im-stadtpark-neurupin_2018.md"
@@ -32,9 +32,9 @@ name: "Tiere im Stadtpark Neurupin"
 
 ## Details
 - **Distance (km):** 15.23
-- **Missions in banner:** 24
-- **Total missions completed:** 5244
-- **This is my banner no.:** 216
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Der Stadtpark entstand auf Initiative von Oberst A. von Wulffen aus einem Schi
 
 
 ## Links
-<a href="https://bannergress.com/banner/tiere-im-stadtpark-neurupin-b4e1" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/tiere-im-stadtpark-neurupin-b4e1" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000216_tiere-im-stadtpark-neurupin_2018.md`
-> • #000216
-> • Slug: `tiere-im-stadtpark-neurupin`
+
+> File: `000216_tiere-im-stadtpark-neurupin_2018.md` • #000216 • Slug: `tiere-im-stadtpark-neurupin`

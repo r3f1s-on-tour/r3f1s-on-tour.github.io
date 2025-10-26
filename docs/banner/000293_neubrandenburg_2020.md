@@ -16,7 +16,7 @@ lengthKMeters: "7,10"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Neubrandenburg"
 slug: "neubrandenburg"
 href: "banner/000293_neubrandenburg_2020.md"
@@ -32,9 +32,9 @@ name: "Neubrandenburg"
 
 ## Details
 - **Distance (km):** 7.10
-- **Missions in banner:** 24
-- **Total missions completed:** 6822
-- **This is my banner no.:** 293
+
+
+
 
 
 
@@ -45,10 +45,9 @@ Fürst Kasimir von Pommern schenkt dem Havelberger Domstift einen Landstrich am 
 
 
 ## Links
-<a href="https://bannergress.com/banner/neubrandenburg-284f" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/neubrandenburg-284f" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000293_neubrandenburg_2020.md`
-> • #000293
-> • Slug: `neubrandenburg`
+
+> File: `000293_neubrandenburg_2020.md` • #000293 • Slug: `neubrandenburg`

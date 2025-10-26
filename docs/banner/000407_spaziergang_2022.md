@@ -16,7 +16,7 @@ lengthKMeters: "6,23"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "SPAZIERGANG"
 slug: "spaziergang"
 href: "banner/000407_spaziergang_2022.md"
@@ -32,9 +32,9 @@ name: "SPAZIERGANG"
 
 ## Details
 - **Distance (km):** 6.23
-- **Missions in banner:** 6
-- **Total missions completed:** 8.676
-- **This is my banner no.:** 407
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Eine kleine  Runde in Berlin Mitte
 
 
 ## Links
-<a href="https://bannergress.com/banner/spaziergang-88bd" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/spaziergang-88bd" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000407_spaziergang_2022.md`
-> • #000407
-> • Slug: `spaziergang`
+
+> File: `000407_spaziergang_2022.md` • #000407 • Slug: `spaziergang`

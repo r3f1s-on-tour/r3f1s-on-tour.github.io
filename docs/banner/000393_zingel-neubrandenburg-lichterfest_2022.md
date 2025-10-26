@@ -16,7 +16,7 @@ lengthKMeters: "8,22"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Zingel Neubrandenburg Lichterfest"
 slug: "zingel-neubrandenburg-lichterfest"
 href: "banner/000393_zingel-neubrandenburg-lichterfest_2022.md"
@@ -32,9 +32,9 @@ name: "Zingel Neubrandenburg Lichterfest"
 
 ## Details
 - **Distance (km):** 8.22
-- **Missions in banner:** 30
-- **Total missions completed:** 8.490
-- **This is my banner no.:** 393
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Der Rundgang führt durch die Innenstadt von Neubrandenburg. Erlebe dabei die za
 
 
 ## Links
-<a href="https://bannergress.com/banner/zingel-neubrandenburg-lichterfest-b183" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/zingel-neubrandenburg-lichterfest-b183" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000393_zingel-neubrandenburg-lichterfest_2022.md`
-> • #000393
-> • Slug: `zingel-neubrandenburg-lichterfest`
+
+> File: `000393_zingel-neubrandenburg-lichterfest_2022.md` • #000393 • Slug: `zingel-neubrandenburg-lichterfest`

@@ -16,7 +16,7 @@ lengthKMeters: "6,05"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "DB in Oranienburg"
 slug: "db-in-oranienburg"
 href: "banner/000353_db-in-oranienburg_2021.md"
@@ -32,9 +32,9 @@ name: "DB in Oranienburg"
 
 ## Details
 - **Distance (km):** 6.05
-- **Missions in banner:** 18
-- **Total missions completed:** 7902
-- **This is my banner no.:** 353
+
+
+
 
 
 
@@ -44,6 +44,4 @@ Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> File: `000353_db-in-oranienburg_2021.md`
-> • #000353
-> • Slug: `db-in-oranienburg`
+> File: `000353_db-in-oranienburg_2021.md` • #000353 • Slug: `db-in-oranienburg`

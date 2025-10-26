@@ -16,7 +16,7 @@ lengthKMeters: "3,38"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Halloween in G zell"
 slug: "halloween-in-g-zell"
 href: "banner/000112_halloween-in-g-zell_2017.md"
@@ -32,9 +32,9 @@ name: "Halloween in G zell"
 
 ## Details
 - **Distance (km):** 3.38
-- **Missions in banner:** 18
-- **Total missions completed:** 2772
-- **This is my banner no.:** 112
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Ursprünglich aus Irland stammend fand der Brauch, in der Nacht vor Allerheilige
 
 
 ## Links
-<a href="https://bannergress.com/banner/halloween-in-g-zell-1638" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/halloween-in-g-zell-1638" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000112_halloween-in-g-zell_2017.md`
-> • #000112
-> • Slug: `halloween-in-g-zell`
+
+> File: `000112_halloween-in-g-zell_2017.md` • #000112 • Slug: `halloween-in-g-zell`

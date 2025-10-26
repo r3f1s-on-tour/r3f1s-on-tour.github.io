@@ -16,7 +16,7 @@ lengthKMeters: "7,44"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Drachenfrau"
 slug: "drachenfrau"
 href: "banner/000026_drachenfrau_2016.md"
@@ -32,9 +32,9 @@ name: "Drachenfrau"
 
 ## Details
 - **Distance (km):** 7.44
-- **Missions in banner:** 24
-- **Total missions completed:** 468
-- **This is my banner no.:** 26
+
+
+
 
 
 
@@ -44,10 +44,9 @@ In der fast fertig sanierten Innenstadt kann man gut shoppen, altes und neues en
 
 
 ## Links
-<a href="https://bannergress.com/banner/drachenfrau-5063" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/drachenfrau-5063" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000026_drachenfrau_2016.md`
-> • #000026
-> • Slug: `drachenfrau`
+
+> File: `000026_drachenfrau_2016.md` • #000026 • Slug: `drachenfrau`

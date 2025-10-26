@@ -16,7 +16,7 @@ lengthKMeters: "7,16"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Whaleomaly Is Here"
 slug: "whaleomaly-is-here"
 href: "banner/000203_whaleomaly-is-here_2018.md"
@@ -32,9 +32,9 @@ name: "Whaleomaly Is Here"
 
 ## Details
 - **Distance (km):** 7.16
-- **Missions in banner:** 30
-- **Total missions completed:** 4770
-- **This is my banner no.:** 203
+
+
+
 
 
 
@@ -44,10 +44,9 @@ name: "Whaleomaly Is Here"
 
 
 ## Links
-<a href="https://bannergress.com/banner/whaleomaly-is-here-eee0" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/whaleomaly-is-here-eee0" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000203_whaleomaly-is-here_2018.md`
-> • #000203
-> • Slug: `whaleomaly-is-here`
+
+> File: `000203_whaleomaly-is-here_2018.md` • #000203 • Slug: `whaleomaly-is-here`

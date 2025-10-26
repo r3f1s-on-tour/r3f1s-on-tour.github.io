@@ -16,7 +16,7 @@ lengthKMeters: "11,42"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Der Doktor in Frankfurt"
 slug: "der-doktor-in-frankfurt"
 href: "banner/000133_der-doktor-in-frankfurt_2018.md"
@@ -32,9 +32,9 @@ name: "Der Doktor in Frankfurt"
 
 ## Details
 - **Distance (km):** 11.42
-- **Missions in banner:** 24
-- **Total missions completed:** 3240
-- **This is my banner no.:** 133
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Es ist 2017 und Der Doktor ist dabei die Welt in Frankfurt zu retten. Hilf Ihm s
 
 
 ## Links
-<a href="https://bannergress.com/banner/der-doktor-in-frankfurt-34ee" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/der-doktor-in-frankfurt-34ee" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000133_der-doktor-in-frankfurt_2018.md`
-> • #000133
-> • Slug: `der-doktor-in-frankfurt`
+
+> File: `000133_der-doktor-in-frankfurt_2018.md` • #000133 • Slug: `der-doktor-in-frankfurt`

@@ -16,7 +16,7 @@ lengthKMeters: "1,313"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Toast Heros Dresden"
 slug: "toast-heros-dresden"
 href: "banner/000583_toast-heros-dresden_2023.md"
@@ -32,9 +32,9 @@ name: "Toast Heros Dresden"
 
 ## Details
 - **Distance (km):** 1.31
-- **Missions in banner:** 6
-- **Total missions completed:** 12.996
-- **This is my banner no.:** 583
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Eine kleine Runde durch den schönen Stadtteil Dresden Löbtau.
 
 
 ## Links
-<a href="https://bannergress.com/banner/toast-heros-dresden-54da" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/toast-heros-dresden-54da" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000583_toast-heros-dresden_2023.md`
-> • #000583
-> • Slug: `toast-heros-dresden`
+
+> File: `000583_toast-heros-dresden_2023.md` • #000583 • Slug: `toast-heros-dresden`

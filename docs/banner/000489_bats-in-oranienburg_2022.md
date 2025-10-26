@@ -16,7 +16,7 @@ lengthKMeters: "1,259"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Bats in Oranienburg"
 slug: "bats-in-oranienburg"
 href: "banner/000489_bats-in-oranienburg_2022.md"
@@ -32,9 +32,9 @@ name: "Bats in Oranienburg"
 
 ## Details
 - **Distance (km):** 1.26
-- **Missions in banner:** 6
-- **Total missions completed:** 10.512
-- **This is my banner no.:** 489
+
+
+
 
 
 
@@ -44,6 +44,4 @@ Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> File: `000489_bats-in-oranienburg_2022.md`
-> • #000489
-> • Slug: `bats-in-oranienburg`
+> File: `000489_bats-in-oranienburg_2022.md` • #000489 • Slug: `bats-in-oranienburg`

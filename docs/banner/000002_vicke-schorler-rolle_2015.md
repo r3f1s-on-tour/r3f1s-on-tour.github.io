@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Vicke Schorler Rolle"
 slug: "vicke-schorler-rolle"
 href: "banner/000002_vicke-schorler-rolle_2015.md"
@@ -32,15 +32,13 @@ name: "Vicke Schorler Rolle"
 
 ## Details
 
-- **Missions in banner:** 6
-- **Total missions completed:** 102
-- **This is my banner no.:** 2
 
 
 
 
 
 
-> File: `000002_vicke-schorler-rolle_2015.md`
-> • #000002
-> • Slug: `vicke-schorler-rolle`
+
+
+
+> File: `000002_vicke-schorler-rolle_2015.md` • #000002 • Slug: `vicke-schorler-rolle`

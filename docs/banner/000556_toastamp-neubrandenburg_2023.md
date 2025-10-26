@@ -16,7 +16,7 @@ lengthKMeters: "5,944"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "ToastAmp Neubrandenburg"
 slug: "toastamp-neubrandenburg"
 href: "banner/000556_toastamp-neubrandenburg_2023.md"
@@ -32,9 +32,9 @@ name: "ToastAmp Neubrandenburg"
 
 ## Details
 - **Distance (km):** 5.94
-- **Missions in banner:** 18
-- **Total missions completed:** 12.384
-- **This is my banner no.:** 556
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Help the Toast fight the Illuminati Link-Amp!
 
 
 ## Links
-<a href="https://bannergress.com/banner/toastamp-neubrandenburg-812a" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/toastamp-neubrandenburg-812a" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000556_toastamp-neubrandenburg_2023.md`
-> • #000556
-> • Slug: `toastamp-neubrandenburg`
+
+> File: `000556_toastamp-neubrandenburg_2023.md` • #000556 • Slug: `toastamp-neubrandenburg`

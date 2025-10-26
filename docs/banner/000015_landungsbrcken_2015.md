@@ -16,7 +16,7 @@ lengthKMeters: "5,87"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Landungsbrücken"
 slug: "landungsbrcken"
 href: "banner/000015_landungsbrcken_2015.md"
@@ -32,9 +32,9 @@ name: "Landungsbrücken"
 
 ## Details
 - **Distance (km):** 5.87
-- **Missions in banner:** 18
-- **Total missions completed:** 294
-- **This is my banner no.:** 15
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Mosaic around the Landungsbrücken
 
 
 ## Links
-<a href="https://bannergress.com/banner/landungsbr%C3%BCcken-mosaik-5dad" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/landungsbr%C3%BCcken-mosaik-5dad" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000015_landungsbrcken_2015.md`
-> • #000015
-> • Slug: `landungsbrcken`
+
+> File: `000015_landungsbrcken_2015.md` • #000015 • Slug: `landungsbrcken`

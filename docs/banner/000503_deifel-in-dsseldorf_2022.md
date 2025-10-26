@@ -16,7 +16,7 @@ lengthKMeters: "4"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Deifel in Düsseldorf"
 slug: "deifel-in-dsseldorf"
 href: "banner/000503_deifel-in-dsseldorf_2022.md"
@@ -32,9 +32,9 @@ name: "Deifel in Düsseldorf"
 
 ## Details
 - **Distance (km):** 4.00
-- **Missions in banner:** 6
-- **Total missions completed:** 10.752
-- **This is my banner no.:** 503
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Starte am Hauptbahnhof einen Rundgang und entdecke Düsseldorf. Auf deinem Abent
 
 
 ## Links
-<a href="https://bannergress.com/banner/deifel-in-d%C3%BCsseldorf-0642" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/deifel-in-d%C3%BCsseldorf-0642" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000503_deifel-in-dsseldorf_2022.md`
-> • #000503
-> • Slug: `deifel-in-dsseldorf`
+
+> File: `000503_deifel-in-dsseldorf_2022.md` • #000503 • Slug: `deifel-in-dsseldorf`

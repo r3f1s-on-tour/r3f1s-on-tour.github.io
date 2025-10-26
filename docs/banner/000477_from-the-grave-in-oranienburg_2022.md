@@ -16,7 +16,7 @@ lengthKMeters: "8,961"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "From the Grave in Oranienburg"
 slug: "from-the-grave-in-oranienburg"
 href: "banner/000477_from-the-grave-in-oranienburg_2022.md"
@@ -32,9 +32,9 @@ name: "From the Grave in Oranienburg"
 
 ## Details
 - **Distance (km):** 8.96
-- **Missions in banner:** 24
-- **Total missions completed:** 10.398
-- **This is my banner no.:** 477
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Starte in der Bernauer Straße eine Entdeckungstour durch Oranienburg entdecke a
 
 
 ## Links
-<a href="https://bannergress.com/banner/from-the-grave-in-oranienburg-1694" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/from-the-grave-in-oranienburg-1694" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000477_from-the-grave-in-oranienburg_2022.md`
-> • #000477
-> • Slug: `from-the-grave-in-oranienburg`
+
+> File: `000477_from-the-grave-in-oranienburg_2022.md` • #000477 • Slug: `from-the-grave-in-oranienburg`

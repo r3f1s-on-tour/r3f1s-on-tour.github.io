@@ -16,7 +16,7 @@ lengthKMeters: "5,169"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Visit Cottbus"
 slug: "visit-cottbus"
 href: "banner/000568_visit-cottbus_2023.md"
@@ -32,9 +32,9 @@ name: "Visit Cottbus"
 
 ## Details
 - **Distance (km):** 5.17
-- **Missions in banner:** 6
-- **Total missions completed:** 12.558
-- **This is my banner no.:** 568
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Diese Mission beginnt am Bahnhof und geht über die Bahnhofstraße in Richtung T
 
 
 ## Links
-<a href="https://bannergress.com/banner/visit-cottbus-70f4" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/visit-cottbus-70f4" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000568_visit-cottbus_2023.md`
-> • #000568
-> • Slug: `visit-cottbus`
+
+> File: `000568_visit-cottbus_2023.md` • #000568 • Slug: `visit-cottbus`

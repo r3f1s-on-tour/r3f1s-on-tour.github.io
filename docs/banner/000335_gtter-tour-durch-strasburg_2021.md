@@ -16,7 +16,7 @@ lengthKMeters: "3,17"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Götter Tour durch Strasburg"
 slug: "gtter-tour-durch-strasburg"
 href: "banner/000335_gtter-tour-durch-strasburg_2021.md"
@@ -32,9 +32,9 @@ name: "Götter Tour durch Strasburg"
 
 ## Details
 - **Distance (km):** 3.17
-- **Missions in banner:** 6
-- **Total missions completed:** 7650
-- **This is my banner no.:** 335
+
+
+
 
 
 
@@ -46,10 +46,9 @@ Geht am 08.11.2021 offline
 
 
 ## Links
-<a href="https://bannergress.com/banner/g%C3%B6tter-tour-durch-strasburg-8cf3" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/g%C3%B6tter-tour-durch-strasburg-8cf3" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000335_gtter-tour-durch-strasburg_2021.md`
-> • #000335
-> • Slug: `gtter-tour-durch-strasburg`
+
+> File: `000335_gtter-tour-durch-strasburg_2021.md` • #000335 • Slug: `gtter-tour-durch-strasburg`

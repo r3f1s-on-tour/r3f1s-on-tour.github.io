@@ -16,7 +16,7 @@ lengthKMeters: "4,40"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Bad Aibling - Therme"
 slug: "bad-aibling-therme"
 href: "banner/000182_bad-aibling-therme_2018.md"
@@ -32,9 +32,9 @@ name: "Bad Aibling - Therme"
 
 ## Details
 - **Distance (km):** 4.40
-- **Missions in banner:** 12
-- **Total missions completed:** 4380
-- **This is my banner no.:** 182
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Die Therme in Bad Aibling ist jedermann bekannt. Mit Abschluss dieser Missionsse
 
 
 ## Links
-<a href="https://bannergress.com/banner/bad-aibling-therme-51f4" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/bad-aibling-therme-51f4" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000182_bad-aibling-therme_2018.md`
-> • #000182
-> • Slug: `bad-aibling-therme`
+
+> File: `000182_bad-aibling-therme_2018.md` • #000182 • Slug: `bad-aibling-therme`

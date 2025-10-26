@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Eine Woche voller Kuchen"
 slug: "eine-woche-voller-kuchen"
 href: "banner/000123_eine-woche-voller-kuchen_2018.md"
@@ -32,15 +32,13 @@ name: "Eine Woche voller Kuchen"
 
 ## Details
 
-- **Missions in banner:** 36
-- **Total missions completed:** 3024
-- **This is my banner no.:** 123
 
 
 
 
 
 
-> File: `000123_eine-woche-voller-kuchen_2018.md`
-> • #000123
-> • Slug: `eine-woche-voller-kuchen`
+
+
+
+> File: `000123_eine-woche-voller-kuchen_2018.md` • #000123 • Slug: `eine-woche-voller-kuchen`

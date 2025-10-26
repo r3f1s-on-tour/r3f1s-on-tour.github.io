@@ -16,7 +16,7 @@ lengthKMeters: "1,60"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Valentintoast 1"
 slug: "valentintoast-1"
 href: "banner/000395_valentintoast-1_2022.md"
@@ -32,9 +32,9 @@ name: "Valentintoast 1"
 
 ## Details
 - **Distance (km):** 1.60
-- **Missions in banner:** 6
-- **Total missions completed:** 8.502
-- **This is my banner no.:** 395
+
+
+
 
 
 
@@ -44,6 +44,4 @@ Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und end
 
 
 
-> File: `000395_valentintoast-1_2022.md`
-> • #000395
-> • Slug: `valentintoast-1`
+> File: `000395_valentintoast-1_2022.md` • #000395 • Slug: `valentintoast-1`

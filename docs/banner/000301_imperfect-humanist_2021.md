@@ -16,7 +16,7 @@ lengthKMeters: "1,25"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Imperfect Humanist"
 slug: "imperfect-humanist"
 href: "banner/000301_imperfect-humanist_2021.md"
@@ -32,9 +32,9 @@ name: "Imperfect Humanist"
 
 ## Details
 - **Distance (km):** 1.25
-- **Missions in banner:** 6
-- **Total missions completed:** 7014
-- **This is my banner no.:** 301
+
+
+
 
 
 
@@ -44,10 +44,9 @@ A special mission for one of the chosen Kaltenberg PLP teams.
 
 
 ## Links
-<a href="https://bannergress.com/banner/imperfect-humanist-b884" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/imperfect-humanist-b884" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000301_imperfect-humanist_2021.md`
-> • #000301
-> • Slug: `imperfect-humanist`
+
+> File: `000301_imperfect-humanist_2021.md` • #000301 • Slug: `imperfect-humanist`

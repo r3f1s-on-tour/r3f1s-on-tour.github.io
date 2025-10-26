@@ -16,7 +16,7 @@ lengthKMeters: "11"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Marx is calling you - Neubrandenburg"
 slug: "marx-is-calling-you-neubrandenburg"
 href: "banner/000611_marx-is-calling-you-neubrandenburg_2025.md"
@@ -32,9 +32,9 @@ name: "Marx is calling you - Neubrandenburg"
 
 ## Details
 - **Distance (km):** 11.00
-- **Missions in banner:** 48
-- **Total missions completed:** 13.410
-- **This is my banner no.:** 611
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Theta Chemnitz is coming! Explore a city in transformation from industrial herit
 
 
 ## Links
-<a href="https://bannergress.com/banner/marx-is-calling-you-neubrandenburg-2205" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/marx-is-calling-you-neubrandenburg-2205" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000611_marx-is-calling-you-neubrandenburg_2025.md`
-> • #000611
-> • Slug: `marx-is-calling-you-neubrandenburg`
+
+> File: `000611_marx-is-calling-you-neubrandenburg_2025.md` • #000611 • Slug: `marx-is-calling-you-neubrandenburg`

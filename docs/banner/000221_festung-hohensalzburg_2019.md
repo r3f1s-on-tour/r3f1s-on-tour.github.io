@@ -16,7 +16,7 @@ lengthKMeters: "4,20"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Festung Hohensalzburg"
 slug: "festung-hohensalzburg"
 href: "banner/000221_festung-hohensalzburg_2019.md"
@@ -32,9 +32,9 @@ name: "Festung Hohensalzburg"
 
 ## Details
 - **Distance (km):** 4.20
-- **Missions in banner:** 18
-- **Total missions completed:** 5340
-- **This is my banner no.:** 221
+
+
+
 
 
 
@@ -44,10 +44,9 @@ name: "Festung Hohensalzburg"
 
 
 ## Links
-<a href="https://bannergress.com/banner/festung-hohensalzburg-92bb" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/festung-hohensalzburg-92bb" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000221_festung-hohensalzburg_2019.md`
-> • #000221
-> • Slug: `festung-hohensalzburg`
+
+> File: `000221_festung-hohensalzburg_2019.md` • #000221 • Slug: `festung-hohensalzburg`

@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Friedrichshain Nord"
 slug: "friedrichshain-nord"
 href: "banner/000170_friedrichshain-nord_2018.md"
@@ -32,15 +32,13 @@ name: "Friedrichshain Nord"
 
 ## Details
 
-- **Missions in banner:** 18
-- **Total missions completed:** 4122
-- **This is my banner no.:** 170
 
 
 
 
 
 
-> File: `000170_friedrichshain-nord_2018.md`
-> • #000170
-> • Slug: `friedrichshain-nord`
+
+
+
+> File: `000170_friedrichshain-nord_2018.md` • #000170 • Slug: `friedrichshain-nord`

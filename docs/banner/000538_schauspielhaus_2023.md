@@ -16,7 +16,7 @@ lengthKMeters: "5,061"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Schauspielhaus"
 slug: "schauspielhaus"
 href: "banner/000538_schauspielhaus_2023.md"
@@ -32,9 +32,9 @@ name: "Schauspielhaus"
 
 ## Details
 - **Distance (km):** 5.06
-- **Missions in banner:** 24
-- **Total missions completed:** 11.862
-- **This is my banner no.:** 538
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Das Schauspielhaus befindet sich im Zentrum von Neubrandenburg. Es ist das älte
 
 
 ## Links
-<a href="https://bannergress.com/banner/schauspielhaus-a53c" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/schauspielhaus-a53c" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000538_schauspielhaus_2023.md`
-> • #000538
-> • Slug: `schauspielhaus`
+
+> File: `000538_schauspielhaus_2023.md` • #000538 • Slug: `schauspielhaus`

@@ -16,7 +16,7 @@ lengthKMeters: "1,75"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Mallorca Skyline"
 slug: "mallorca-skyline"
 href: "banner/000206_mallorca-skyline_2018.md"
@@ -32,9 +32,9 @@ name: "Mallorca Skyline"
 
 ## Details
 - **Distance (km):** 1.75
-- **Missions in banner:** 6
-- **Total missions completed:** 4818
-- **This is my banner no.:** 206
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Mallorca is one of Spain's Balearic Islands in the Mediterranean. It's known for
 
 
 ## Links
-<a href="https://bannergress.com/banner/mallorca-skyline-4eb2" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/mallorca-skyline-4eb2" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000206_mallorca-skyline_2018.md`
-> • #000206
-> • Slug: `mallorca-skyline`
+
+> File: `000206_mallorca-skyline_2018.md` • #000206 • Slug: `mallorca-skyline`

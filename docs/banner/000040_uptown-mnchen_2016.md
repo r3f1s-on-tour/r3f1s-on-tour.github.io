@@ -16,7 +16,7 @@ lengthKMeters: "18,71"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Uptown München"
 slug: "uptown-mnchen"
 href: "banner/000040_uptown-mnchen_2016.md"
@@ -32,9 +32,9 @@ name: "Uptown München"
 
 ## Details
 - **Distance (km):** 18.71
-- **Missions in banner:** 60
-- **Total missions completed:** 888
-- **This is my banner no.:** 40
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Die gläserne Fassade umhüllt das Tragwerk des nach dreijähriger Bauzeit im Ja
 
 
 ## Links
-<a href="https://bannergress.com/banner/uptown-m%C3%BCnchen-a93b" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/uptown-m%C3%BCnchen-a93b" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000040_uptown-mnchen_2016.md`
-> • #000040
-> • Slug: `uptown-mnchen`
+
+> File: `000040_uptown-mnchen_2016.md` • #000040 • Slug: `uptown-mnchen`

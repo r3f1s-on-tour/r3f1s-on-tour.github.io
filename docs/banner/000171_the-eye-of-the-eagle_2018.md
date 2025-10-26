@@ -16,7 +16,7 @@ lengthKMeters: "5,81"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "The Eye of the Eagle"
 slug: "the-eye-of-the-eagle"
 href: "banner/000171_the-eye-of-the-eagle_2018.md"
@@ -32,9 +32,9 @@ name: "The Eye of the Eagle"
 
 ## Details
 - **Distance (km):** 5.81
-- **Missions in banner:** 18
-- **Total missions completed:** 4140
-- **This is my banner no.:** 171
+
+
+
 
 
 
@@ -44,10 +44,9 @@ This is a 18 missions walk through the Fennpfuhl park. At the end you will have 
 
 
 ## Links
-<a href="https://bannergress.com/banner/the-eye-of-the-eagle-066e" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/the-eye-of-the-eagle-066e" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000171_the-eye-of-the-eagle_2018.md`
-> • #000171
-> • Slug: `the-eye-of-the-eagle`
+
+> File: `000171_the-eye-of-the-eagle_2018.md` • #000171 • Slug: `the-eye-of-the-eagle`

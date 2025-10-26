@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "STAR WARS - Das Erwachen der Macht (Berlin)"
 slug: "star-wars-das-erwachen-der-macht-berlin"
 href: "banner/000020_star-wars-das-erwachen-der-macht-berlin_2015.md"
@@ -32,15 +32,13 @@ name: "STAR WARS - Das Erwachen der Macht (Berlin)"
 
 ## Details
 
-- **Missions in banner:** 6
-- **Total missions completed:** 354
-- **This is my banner no.:** 20
 
 
 
 
 
 
-> File: `000020_star-wars-das-erwachen-der-macht-berlin_2015.md`
-> • #000020
-> • Slug: `star-wars-das-erwachen-der-macht-berlin`
+
+
+
+> File: `000020_star-wars-das-erwachen-der-macht-berlin_2015.md` • #000020 • Slug: `star-wars-das-erwachen-der-macht-berlin`

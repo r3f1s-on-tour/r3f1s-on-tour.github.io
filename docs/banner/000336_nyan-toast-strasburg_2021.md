@@ -16,7 +16,7 @@ lengthKMeters: "3,17"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Nyan Toast - Strasburg"
 slug: "nyan-toast-strasburg"
 href: "banner/000336_nyan-toast-strasburg_2021.md"
@@ -32,9 +32,9 @@ name: "Nyan Toast - Strasburg"
 
 ## Details
 - **Distance (km):** 3.17
-- **Missions in banner:** 6
-- **Total missions completed:** 7656
-- **This is my banner no.:** 336
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Starte am Marktplatz und entdecke Strasburg Uckermark und hole dir Toasts ins Pr
 
 
 ## Links
-<a href="https://bannergress.com/banner/nyan-toast-strasburg-cbac" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/nyan-toast-strasburg-cbac" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000336_nyan-toast-strasburg_2021.md`
-> • #000336
-> • Slug: `nyan-toast-strasburg`
+
+> File: `000336_nyan-toast-strasburg_2021.md` • #000336 • Slug: `nyan-toast-strasburg`

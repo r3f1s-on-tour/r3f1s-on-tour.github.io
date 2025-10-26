@@ -16,7 +16,7 @@ lengthKMeters: "1,66"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Second Sunday April Humann-Kiez"
 slug: "second-sunday-april-humann-kiez"
 href: "banner/000439_second-sunday-april-humann-kiez_2022.md"
@@ -32,9 +32,9 @@ name: "Second Sunday April Humann-Kiez"
 
 ## Details
 - **Distance (km):** 1.66
-- **Missions in banner:** 6
-- **Total missions completed:** 9.132
-- **This is my banner no.:** 439
+
+
+
 
 
 
@@ -44,10 +44,9 @@ This mission will guide you from Schoenhauser Allee to Humannplatz
 
 
 ## Links
-<a href="https://bannergress.com/banner/second-sunday-april-humann-kiez-f876" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/second-sunday-april-humann-kiez-f876" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000439_second-sunday-april-humann-kiez_2022.md`
-> • #000439
-> • Slug: `second-sunday-april-humann-kiez`
+
+> File: `000439_second-sunday-april-humann-kiez_2022.md` • #000439 • Slug: `second-sunday-april-humann-kiez`

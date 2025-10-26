@@ -16,7 +16,7 @@ lengthKMeters: "6,47"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Ostkreuz Old"
 slug: "ostkreuz-old"
 href: "banner/000275_ostkreuz-old_2020.md"
@@ -32,9 +32,9 @@ name: "Ostkreuz Old"
 
 ## Details
 - **Distance (km):** 6.47
-- **Missions in banner:** 18
-- **Total missions completed:** 6450
-- **This is my banner no.:** 275
+
+
+
 
 
 
@@ -44,10 +44,9 @@ erkunde die Gegend um das Ostkreuz
 
 
 ## Links
-<a href="https://bannergress.com/banner/ostkreuz-old-7b0b" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/ostkreuz-old-7b0b" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000275_ostkreuz-old_2020.md`
-> • #000275
-> • Slug: `ostkreuz-old`
+
+> File: `000275_ostkreuz-old_2020.md` • #000275 • Slug: `ostkreuz-old`

@@ -16,7 +16,7 @@ lengthKMeters: "1,047"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "A Second Sunday Cat Paws in Strasburg"
 slug: "a-second-sunday-cat-paws-in-strasburg"
 href: "banner/000543_a-second-sunday-cat-paws-in-strasburg_2023.md"
@@ -32,9 +32,9 @@ name: "A Second Sunday Cat Paws in Strasburg"
 
 ## Details
 - **Distance (km):** 1.05
-- **Missions in banner:** 6
-- **Total missions completed:** 12.000
-- **This is my banner no.:** 543
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Beginne eine Runde durch Strasburg und entdecke auf deiner Runde Sehenswürdigke
 
 
 ## Links
-<a href="https://bannergress.com/banner/a-second-sunday-cat-paws-in-strasburg-9199" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/a-second-sunday-cat-paws-in-strasburg-9199" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000543_a-second-sunday-cat-paws-in-strasburg_2023.md`
-> • #000543
-> • Slug: `a-second-sunday-cat-paws-in-strasburg`
+
+> File: `000543_a-second-sunday-cat-paws-in-strasburg_2023.md` • #000543 • Slug: `a-second-sunday-cat-paws-in-strasburg`

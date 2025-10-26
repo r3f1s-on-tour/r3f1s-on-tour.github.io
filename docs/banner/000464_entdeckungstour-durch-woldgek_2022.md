@@ -16,7 +16,7 @@ lengthKMeters: "8,602"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Entdeckungstour durch Woldgek"
 slug: "entdeckungstour-durch-woldgek"
 href: "banner/000464_entdeckungstour-durch-woldgek_2022.md"
@@ -32,9 +32,9 @@ name: "Entdeckungstour durch Woldgek"
 
 ## Details
 - **Distance (km):** 8.60
-- **Missions in banner:** 18
-- **Total missions completed:** 10.218
-- **This is my banner no.:** 464
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Starte am Marktplatz und entdecke die Windmühlenstadt Woldegek. Auf deinem Aben
 
 
 ## Links
-<a href="https://bannergress.com/banner/entdeckungstour-durch-woldgek-10c0" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/entdeckungstour-durch-woldgek-10c0" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000464_entdeckungstour-durch-woldgek_2022.md`
-> • #000464
-> • Slug: `entdeckungstour-durch-woldgek`
+
+> File: `000464_entdeckungstour-durch-woldgek_2022.md` • #000464 • Slug: `entdeckungstour-durch-woldgek`

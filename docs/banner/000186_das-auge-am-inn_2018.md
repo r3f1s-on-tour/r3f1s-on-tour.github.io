@@ -16,7 +16,7 @@ lengthKMeters: "4,83"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Das Auge am Inn"
 slug: "das-auge-am-inn"
 href: "banner/000186_das-auge-am-inn_2018.md"
@@ -32,9 +32,9 @@ name: "Das Auge am Inn"
 
 ## Details
 - **Distance (km):** 4.83
-- **Missions in banner:** 18
-- **Total missions completed:** 4428
-- **This is my banner no.:** 186
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Erkunde die Rosenheimer Portale am Inn
 
 
 ## Links
-<a href="https://bannergress.com/banner/das-auge-am-inn-a19d" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/das-auge-am-inn-a19d" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000186_das-auge-am-inn_2018.md`
-> • #000186
-> • Slug: `das-auge-am-inn`
+
+> File: `000186_das-auge-am-inn_2018.md` • #000186 • Slug: `das-auge-am-inn`

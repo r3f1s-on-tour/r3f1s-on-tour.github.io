@@ -16,7 +16,7 @@ lengthKMeters: "8,19"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Kloster Fürstenfeld"
 slug: "kloster-frstenfeld"
 href: "banner/000114_kloster-frstenfeld_2017.md"
@@ -32,9 +32,9 @@ name: "Kloster Fürstenfeld"
 
 ## Details
 - **Distance (km):** 8.19
-- **Missions in banner:** 24
-- **Total missions completed:** 2814
-- **This is my banner no.:** 114
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Das Kloster Fürstenfeld ist eine ehemalige Zisterzienserabtei in Fürstenfeldbr
 
 
 ## Links
-<a href="https://bannergress.com/banner/kloster-f%C3%BCrstenfeld-cd21" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/kloster-f%C3%BCrstenfeld-cd21" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000114_kloster-frstenfeld_2017.md`
-> • #000114
-> • Slug: `kloster-frstenfeld`
+
+> File: `000114_kloster-frstenfeld_2017.md` • #000114 • Slug: `kloster-frstenfeld`

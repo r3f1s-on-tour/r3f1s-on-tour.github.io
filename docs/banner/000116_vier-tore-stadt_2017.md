@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Vier-Tore-Stadt"
 slug: "vier-tore-stadt"
 href: "banner/000116_vier-tore-stadt_2017.md"
@@ -32,19 +32,18 @@ name: "Vier-Tore-Stadt"
 
 ## Details
 
-- **Missions in banner:** 18
-- **Total missions completed:** 2844
-- **This is my banner no.:** 116
+
+
+
 
 
 
 
 
 ## Links
-<a href="https://bannergress.com/banner/vier-tore-stadt-5193" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/vier-tore-stadt-5193" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000116_vier-tore-stadt_2017.md`
-> • #000116
-> • Slug: `vier-tore-stadt`
+
+> File: `000116_vier-tore-stadt_2017.md` • #000116 • Slug: `vier-tore-stadt`

@@ -16,7 +16,7 @@ lengthKMeters: "10,574"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Lovers in Halloween"
 slug: "lovers-in-halloween"
 href: "banner/000596_lovers-in-halloween_2024.md"
@@ -32,9 +32,9 @@ name: "Lovers in Halloween"
 
 ## Details
 - **Distance (km):** 10.57
-- **Missions in banner:** 42
-- **Total missions completed:** 13.164
-- **This is my banner no.:** 596
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Celebra Halloween haciendo este bonito mural por las calles de Valencia.
 
 
 ## Links
-<a href="https://bannergress.com/banner/lovers-in-halloween-bd93" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/lovers-in-halloween-bd93" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000596_lovers-in-halloween_2024.md`
-> • #000596
-> • Slug: `lovers-in-halloween`
+
+> File: `000596_lovers-in-halloween_2024.md` • #000596 • Slug: `lovers-in-halloween`

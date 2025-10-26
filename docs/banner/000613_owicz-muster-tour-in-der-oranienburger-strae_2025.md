@@ -16,7 +16,7 @@ lengthKMeters: "1,6"
 umap: ""
 missionDay: ""
 notice: "Start der Polen Rundreise mit Watercolor Banner in jeder polnischen Stadt"
-trip: ""
+Trips: ""
 title: "Łowicz-Muster Tour in der Oranienburger Straße"
 slug: "owicz-muster-tour-in-der-oranienburger-strae"
 href: "banner/000613_owicz-muster-tour-in-der-oranienburger-strae_2025.md"
@@ -46,19 +46,18 @@ name: "Łowicz-Muster Tour in der Oranienburger Straße"
 
 ## Details
 - **Distance (km):** 1.60
-- **Missions in banner:** 6
-- **Total missions completed:** 13.422
-- **This is my banner no.:** 613
+
+
+
 
 
 
 
 
 ## Links
-<a href="https://bannergress.com/banner/%C5%82owicz-muster-tour-in-der-oranienburger-stra%C3%9Fe-75f1" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/%C5%82owicz-muster-tour-in-der-oranienburger-stra%C3%9Fe-75f1" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000613_owicz-muster-tour-in-der-oranienburger-strae_2025.md`
-> • #000613
-> • Slug: `owicz-muster-tour-in-der-oranienburger-strae`
+
+> File: `000613_owicz-muster-tour-in-der-oranienburger-strae_2025.md` • #000613 • Slug: `owicz-muster-tour-in-der-oranienburger-strae`

@@ -16,7 +16,7 @@ lengthKMeters: "11,78"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Blauer Krieger"
 slug: "blauer-krieger"
 href: "banner/000283_blauer-krieger_2020.md"
@@ -32,9 +32,9 @@ name: "Blauer Krieger"
 
 ## Details
 - **Distance (km):** 11.78
-- **Missions in banner:** 48
-- **Total missions completed:** 6576
-- **This is my banner no.:** 283
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Erkunde die Stadt München ab dem Hauptbahnhof über Schwanthalerhöhe bis zum S
 
 
 ## Links
-<a href="https://bannergress.com/banner/blauer-krieger-9159" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/blauer-krieger-9159" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000283_blauer-krieger_2020.md`
-> • #000283
-> • Slug: `blauer-krieger`
+
+> File: `000283_blauer-krieger_2020.md` • #000283 • Slug: `blauer-krieger`

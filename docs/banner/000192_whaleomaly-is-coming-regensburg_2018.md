@@ -16,7 +16,7 @@ lengthKMeters: "1,62"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Whaleomaly is Coming Regensburg"
 slug: "whaleomaly-is-coming-regensburg"
 href: "banner/000192_whaleomaly-is-coming-regensburg_2018.md"
@@ -32,9 +32,9 @@ name: "Whaleomaly is Coming Regensburg"
 
 ## Details
 - **Distance (km):** 1.62
-- **Missions in banner:** 6
-- **Total missions completed:** 4572
-- **This is my banner no.:** 192
+
+
+
 
 
 
@@ -45,10 +45,9 @@ Explore Regensburgs Whales! Take them with you to unite at the Whaleomaly Linz!
 
 
 ## Links
-<a href="https://bannergress.com/banner/whaleomaly-is-coming-regensburg-7a9c" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/whaleomaly-is-coming-regensburg-7a9c" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000192_whaleomaly-is-coming-regensburg_2018.md`
-> • #000192
-> • Slug: `whaleomaly-is-coming-regensburg`
+
+> File: `000192_whaleomaly-is-coming-regensburg_2018.md` • #000192 • Slug: `whaleomaly-is-coming-regensburg`

@@ -16,7 +16,7 @@ lengthKMeters: "6,941"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Dom-Panorama"
 slug: "dom-panorama"
 href: "banner/000495_dom-panorama_2022.md"
@@ -32,9 +32,9 @@ name: "Dom-Panorama"
 
 ## Details
 - **Distance (km):** 6.94
-- **Missions in banner:** 24
-- **Total missions completed:** 10.590
-- **This is my banner no.:** 495
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Diese Mission führt an der Nordseite des Doms vorbei. Alle 24 Missionen ergeben
 
 
 ## Links
-<a href="https://bannergress.com/banner/dom-panorama-06e2" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/dom-panorama-06e2" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000495_dom-panorama_2022.md`
-> • #000495
-> • Slug: `dom-panorama`
+
+> File: `000495_dom-panorama_2022.md` • #000495 • Slug: `dom-panorama`

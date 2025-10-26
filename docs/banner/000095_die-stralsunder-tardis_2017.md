@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Die Stralsunder Tardis"
 slug: "die-stralsunder-tardis"
 href: "banner/000095_die-stralsunder-tardis_2017.md"
@@ -32,19 +32,18 @@ name: "Die Stralsunder Tardis"
 
 ## Details
 
-- **Missions in banner:** 24
-- **Total missions completed:** 2454
-- **This is my banner no.:** 95
+
+
+
 
 
 
 
 
 ## Links
-<a href="https://bannergress.com/banner/die-stralsunder-tardis-e5ff" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/die-stralsunder-tardis-e5ff" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000095_die-stralsunder-tardis_2017.md`
-> • #000095
-> • Slug: `die-stralsunder-tardis`
+
+> File: `000095_die-stralsunder-tardis_2017.md` • #000095 • Slug: `die-stralsunder-tardis`

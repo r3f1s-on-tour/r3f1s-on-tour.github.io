@@ -16,7 +16,7 @@ lengthKMeters: "3,57"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "RetroGaming - Dragon Ball"
 slug: "retrogaming-dragon-ball"
 href: "banner/000418_retrogaming-dragon-ball_2022.md"
@@ -32,9 +32,9 @@ name: "RetroGaming - Dragon Ball"
 
 ## Details
 - **Distance (km):** 3.57
-- **Missions in banner:** 6
-- **Total missions completed:** 8.742
-- **This is my banner no.:** 418
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Starte auf dem Markt eine Entdeckungsreise durch die Stadt Pasewalk und entdecke
 
 
 ## Links
-<a href="https://bannergress.com/banner/retrogaming-dragon-ball-4bcb" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/retrogaming-dragon-ball-4bcb" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000418_retrogaming-dragon-ball_2022.md`
-> • #000418
-> • Slug: `retrogaming-dragon-ball`
+
+> File: `000418_retrogaming-dragon-ball_2022.md` • #000418 • Slug: `retrogaming-dragon-ball`

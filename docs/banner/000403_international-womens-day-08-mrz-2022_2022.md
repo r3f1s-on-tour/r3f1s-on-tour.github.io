@@ -16,7 +16,7 @@ lengthKMeters: "5,02"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "International Womens Day 08 März 2022"
 slug: "international-womens-day-08-mrz-2022"
 href: "banner/000403_international-womens-day-08-mrz-2022_2022.md"
@@ -32,9 +32,9 @@ name: "International Womens Day 08 März 2022"
 
 ## Details
 - **Distance (km):** 5.02
-- **Missions in banner:** 18
-- **Total missions completed:** 8.616
-- **This is my banner no.:** 403
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Erkunde und Entdecke Berlin am Frauentag
 
 
 ## Links
-<a href="https://bannergress.com/banner/international-womens-day-08-m%C3%A4rz-2022-cd3c" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/international-womens-day-08-m%C3%A4rz-2022-cd3c" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000403_international-womens-day-08-mrz-2022_2022.md`
-> • #000403
-> • Slug: `international-womens-day-08-mrz-2022`
+
+> File: `000403_international-womens-day-08-mrz-2022_2022.md` • #000403 • Slug: `international-womens-day-08-mrz-2022`

@@ -16,7 +16,7 @@ lengthKMeters: "1,59"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Bridge Runner"
 slug: "bridge-runner"
 href: "banner/000127_bridge-runner_2018.md"
@@ -32,9 +32,9 @@ name: "Bridge Runner"
 
 ## Details
 - **Distance (km):** 1.59
-- **Missions in banner:** 6
-- **Total missions completed:** 3132
-- **This is my banner no.:** 127
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Hin und her auf der Brücke mit Fragen & Hacks. Als 5er- oder 6er-Mission spielb
 
 
 ## Links
-<a href="https://bannergress.com/banner/bridge-runner-a158" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/bridge-runner-a158" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000127_bridge-runner_2018.md`
-> • #000127
-> • Slug: `bridge-runner`
+
+> File: `000127_bridge-runner_2018.md` • #000127 • Slug: `bridge-runner`

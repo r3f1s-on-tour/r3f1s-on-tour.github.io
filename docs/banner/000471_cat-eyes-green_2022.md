@@ -16,7 +16,7 @@ lengthKMeters: "2,258"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Cat Eyes Green"
 slug: "cat-eyes-green"
 href: "banner/000471_cat-eyes-green_2022.md"
@@ -32,9 +32,9 @@ name: "Cat Eyes Green"
 
 ## Details
 - **Distance (km):** 2.26
-- **Missions in banner:** 6
-- **Total missions completed:** 10.320
-- **This is my banner no.:** 471
+
+
+
 
 
 
@@ -50,10 +50,9 @@ The passphrases are only asking for the current mission number.
 
 
 ## Links
-<a href="https://bannergress.com/banner/cat-eyes-green-bd57" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/cat-eyes-green-bd57" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000471_cat-eyes-green_2022.md`
-> • #000471
-> • Slug: `cat-eyes-green`
+
+> File: `000471_cat-eyes-green_2022.md` • #000471 • Slug: `cat-eyes-green`

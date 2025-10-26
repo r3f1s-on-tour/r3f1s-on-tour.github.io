@@ -16,7 +16,7 @@ lengthKMeters: "4,94"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Prenzlau Marienkirche"
 slug: "prenzlau-marienkirche"
 href: "banner/000096_prenzlau-marienkirche_2017.md"
@@ -32,9 +32,9 @@ name: "Prenzlau Marienkirche"
 
 ## Details
 - **Distance (km):** 4.94
-- **Missions in banner:** 12
-- **Total missions completed:** 2466
-- **This is my banner no.:** 96
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Eine kleine Stadterkundung durch das Zentrum von Prenzlau.
 
 
 ## Links
-<a href="https://bannergress.com/banner/prenzlau-marienkirche-c1d5" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/prenzlau-marienkirche-c1d5" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000096_prenzlau-marienkirche_2017.md`
-> • #000096
-> • Slug: `prenzlau-marienkirche`
+
+> File: `000096_prenzlau-marienkirche_2017.md` • #000096 • Slug: `prenzlau-marienkirche`

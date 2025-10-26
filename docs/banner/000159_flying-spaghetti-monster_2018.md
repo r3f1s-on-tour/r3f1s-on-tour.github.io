@@ -16,7 +16,7 @@ lengthKMeters: "18,35"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Flying Spaghetti Monster"
 slug: "flying-spaghetti-monster"
 href: "banner/000159_flying-spaghetti-monster_2018.md"
@@ -32,9 +32,9 @@ name: "Flying Spaghetti Monster"
 
 ## Details
 - **Distance (km):** 18.35
-- **Missions in banner:** 18
-- **Total missions completed:** 3834
-- **This is my banner no.:** 159
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Diese Mosaik führt vom Bahnhof Unterschleißheim zum Bahnhof Lohhof mit vielen 
 
 
 ## Links
-<a href="https://bannergress.com/banner/flying-spaghetti-monster-3382" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/flying-spaghetti-monster-3382" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000159_flying-spaghetti-monster_2018.md`
-> • #000159
-> • Slug: `flying-spaghetti-monster`
+
+> File: `000159_flying-spaghetti-monster_2018.md` • #000159 • Slug: `flying-spaghetti-monster`

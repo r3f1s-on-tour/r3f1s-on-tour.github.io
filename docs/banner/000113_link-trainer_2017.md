@@ -16,7 +16,7 @@ lengthKMeters: "18,78"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Link Trainer"
 slug: "link-trainer"
 href: "banner/000113_link-trainer_2017.md"
@@ -32,9 +32,9 @@ name: "Link Trainer"
 
 ## Details
 - **Distance (km):** 18.78
-- **Missions in banner:** 18
-- **Total missions completed:** 2790
-- **This is my banner no.:** 113
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Diese Portalreihe führt euch durch Unterschleißheim. Start ist das Infinity Ho
 
 
 ## Links
-<a href="https://bannergress.com/banner/link-trainer-d948" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/link-trainer-d948" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000113_link-trainer_2017.md`
-> • #000113
-> • Slug: `link-trainer`
+
+> File: `000113_link-trainer_2017.md` • #000113 • Slug: `link-trainer`

@@ -16,7 +16,7 @@ lengthKMeters: "7,90"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Wiener Platz"
 slug: "wiener-platz"
 href: "banner/000077_wiener-platz_2017.md"
@@ -32,9 +32,9 @@ name: "Wiener Platz"
 
 ## Details
 - **Distance (km):** 7.90
-- **Missions in banner:** 18
-- **Total missions completed:** 2088
-- **This is my banner no.:** 77
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Am Wiener Platz befindet sich seit 1889 der kleinste der 4 ständigen Märkte M�
 
 
 ## Links
-<a href="https://bannergress.com/banner/wiener-platz-d456" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/wiener-platz-d456" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000077_wiener-platz_2017.md`
-> • #000077
-> • Slug: `wiener-platz`
+
+> File: `000077_wiener-platz_2017.md` • #000077 • Slug: `wiener-platz`

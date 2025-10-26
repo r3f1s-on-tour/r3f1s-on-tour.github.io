@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "An der Paulskirche"
 slug: "an-der-paulskirche"
 href: "banner/000132_an-der-paulskirche_2018.md"
@@ -32,15 +32,13 @@ name: "An der Paulskirche"
 
 ## Details
 
-- **Missions in banner:** 36
-- **Total missions completed:** 3216
-- **This is my banner no.:** 132
 
 
 
 
 
 
-> File: `000132_an-der-paulskirche_2018.md`
-> • #000132
-> • Slug: `an-der-paulskirche`
+
+
+
+> File: `000132_an-der-paulskirche_2018.md` • #000132 • Slug: `an-der-paulskirche`

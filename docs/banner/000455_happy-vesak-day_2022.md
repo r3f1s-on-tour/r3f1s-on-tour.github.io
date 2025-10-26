@@ -16,7 +16,7 @@ lengthKMeters: "5,587"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Happy Vesak Day"
 slug: "happy-vesak-day"
 href: "banner/000455_happy-vesak-day_2022.md"
@@ -32,9 +32,9 @@ name: "Happy Vesak Day"
 
 ## Details
 - **Distance (km):** 5.59
-- **Missions in banner:** 18
-- **Total missions completed:** 9.426
-- **This is my banner no.:** 455
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Buddhists celebrate Vesak as their most important festival. This day, they remem
 
 
 ## Links
-<a href="https://bannergress.com/banner/happy-vesak-day-abc8" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/happy-vesak-day-abc8" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000455_happy-vesak-day_2022.md`
-> • #000455
-> • Slug: `happy-vesak-day`
+
+> File: `000455_happy-vesak-day_2022.md` • #000455 • Slug: `happy-vesak-day`

@@ -16,7 +16,7 @@ lengthKMeters: "3,57"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "RetroGaming - Galaxian"
 slug: "retrogaming-galaxian"
 href: "banner/000413_retrogaming-galaxian_2022.md"
@@ -32,9 +32,9 @@ name: "RetroGaming - Galaxian"
 
 ## Details
 - **Distance (km):** 3.57
-- **Missions in banner:** 6
-- **Total missions completed:** 8.712
-- **This is my banner no.:** 413
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Starte auf dem Markt eine Entdeckungsreise durch die Stadt Pasewalk und entdecke
 
 
 ## Links
-<a href="https://bannergress.com/banner/retrogaming-galaxian-b4a0" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/retrogaming-galaxian-b4a0" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000413_retrogaming-galaxian_2022.md`
-> • #000413
-> • Slug: `retrogaming-galaxian`
+
+> File: `000413_retrogaming-galaxian_2022.md` • #000413 • Slug: `retrogaming-galaxian`

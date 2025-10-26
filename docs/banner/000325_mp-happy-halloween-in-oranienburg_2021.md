@@ -16,7 +16,7 @@ lengthKMeters: "3,64"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "#MP Happy Halloween in Oranienburg"
 slug: "mp-happy-halloween-in-oranienburg"
 href: "banner/000325_mp-happy-halloween-in-oranienburg_2021.md"
@@ -32,9 +32,9 @@ name: "#MP Happy Halloween in Oranienburg"
 
 ## Details
 - **Distance (km):** 3.64
-- **Missions in banner:** 12
-- **Total missions completed:** 7482
-- **This is my banner no.:** 325
+
+
+
 
 
 
@@ -46,10 +46,9 @@ Banner geht am 01.11.2021 offline
 
 
 ## Links
-<a href="https://bannergress.com/banner/mp-happy-halloween-in-oranienburg-b2cc" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/mp-happy-halloween-in-oranienburg-b2cc" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000325_mp-happy-halloween-in-oranienburg_2021.md`
-> • #000325
-> • Slug: `mp-happy-halloween-in-oranienburg`
+
+> File: `000325_mp-happy-halloween-in-oranienburg_2021.md` • #000325 • Slug: `mp-happy-halloween-in-oranienburg`

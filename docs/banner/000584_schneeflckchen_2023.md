@@ -16,7 +16,7 @@ lengthKMeters: "1,693"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Schneeflöckchen"
 slug: "schneeflckchen"
 href: "banner/000584_schneeflckchen_2023.md"
@@ -32,9 +32,9 @@ name: "Schneeflöckchen"
 
 ## Details
 - **Distance (km):** 1.69
-- **Missions in banner:** 6
-- **Total missions completed:** 13.002
-- **This is my banner no.:** 584
+
+
+
 
 
 
@@ -49,10 +49,9 @@ Ein Spaziergang durch Löbtau-Süd
 
 
 ## Links
-<a href="https://bannergress.com/banner/schneefl%C3%B6ckchen-0616" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/schneefl%C3%B6ckchen-0616" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000584_schneeflckchen_2023.md`
-> • #000584
-> • Slug: `schneeflckchen`
+
+> File: `000584_schneeflckchen_2023.md` • #000584 • Slug: `schneeflckchen`

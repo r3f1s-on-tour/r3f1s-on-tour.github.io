@@ -16,7 +16,7 @@ lengthKMeters: "26,52"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "BlueSunGarching"
 slug: "bluesungarching"
 href: "banner/000037_bluesungarching_2016.md"
@@ -32,9 +32,9 @@ name: "BlueSunGarching"
 
 ## Details
 - **Distance (km):** 26.52
-- **Missions in banner:** 24
-- **Total missions completed:** 774
-- **This is my banner no.:** 37
+
+
+
 
 
 
@@ -44,10 +44,9 @@ A Trip to (nearly) all portals in Garching Hochbrück (1-6), Garching (7-12) and
 
 
 ## Links
-<a href="https://bannergress.com/banner/bluesungarching-f7ce" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/bluesungarching-f7ce" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000037_bluesungarching_2016.md`
-> • #000037
-> • Slug: `bluesungarching`
+
+> File: `000037_bluesungarching_2016.md` • #000037 • Slug: `bluesungarching`

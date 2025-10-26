@@ -16,7 +16,7 @@ lengthKMeters: "1,87"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "FS Berlin - #IngressFS"
 slug: "fs-berlin-ingressfs"
 href: "banner/000266_fs-berlin-ingressfs_2020.md"
@@ -32,9 +32,9 @@ name: "FS Berlin - #IngressFS"
 
 ## Details
 - **Distance (km):** 1.87
-- **Missions in banner:** 6
-- **Total missions completed:** 6312
-- **This is my banner no.:** 266
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Missionset for the First Saturday in Berlin. This mission is dedicated to all be
 
 
 ## Links
-<a href="https://bannergress.com/banner/fs-berlin-ingressfs-fe36" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/fs-berlin-ingressfs-fe36" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000266_fs-berlin-ingressfs_2020.md`
-> • #000266
-> • Slug: `fs-berlin-ingressfs`
+
+> File: `000266_fs-berlin-ingressfs_2020.md` • #000266 • Slug: `fs-berlin-ingressfs`

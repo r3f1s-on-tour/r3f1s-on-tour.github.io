@@ -16,7 +16,7 @@ lengthKMeters: "2,72"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Enlightened Schwerin Teil"
 slug: "enlightened-schwerin-teil"
 href: "banner/000426_enlightened-schwerin-teil_2022.md"
@@ -32,9 +32,9 @@ name: "Enlightened Schwerin Teil"
 
 ## Details
 - **Distance (km):** 2.72
-- **Missions in banner:** 6
-- **Total missions completed:** 8.874
-- **This is my banner no.:** 426
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Der Alte Garten wartet ;)
 
 
 ## Links
-<a href="https://bannergress.com/banner/enlightened-schwerin-teil-f758" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/enlightened-schwerin-teil-f758" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000426_enlightened-schwerin-teil_2022.md`
-> • #000426
-> • Slug: `enlightened-schwerin-teil`
+
+> File: `000426_enlightened-schwerin-teil_2022.md` • #000426 • Slug: `enlightened-schwerin-teil`

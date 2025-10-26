@@ -16,7 +16,7 @@ lengthKMeters: "35,29"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Neubrandenburg im Morgennebel"
 slug: "neubrandenburg-im-morgennebel"
 href: "banner/000007_neubrandenburg-im-morgennebel_2015.md"
@@ -32,9 +32,9 @@ name: "Neubrandenburg im Morgennebel"
 
 ## Details
 - **Distance (km):** 35.29
-- **Missions in banner:** 30
-- **Total missions completed:** 174
-- **This is my banner no.:** 7
+
+
+
 
 
 
@@ -45,10 +45,9 @@ Schon Caspar David Friedrich erkannte 1816 die Schönheit der Stadt.
 
 
 ## Links
-<a href="https://bannergress.com/banner/neubrandenburg-im-morgennebel-f2f5" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/neubrandenburg-im-morgennebel-f2f5" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000007_neubrandenburg-im-morgennebel_2015.md`
-> • #000007
-> • Slug: `neubrandenburg-im-morgennebel`
+
+> File: `000007_neubrandenburg-im-morgennebel_2015.md` • #000007 • Slug: `neubrandenburg-im-morgennebel`

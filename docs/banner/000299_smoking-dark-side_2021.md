@@ -16,7 +16,7 @@ lengthKMeters: "7,26"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Smoking Dark Side"
 slug: "smoking-dark-side"
 href: "banner/000299_smoking-dark-side_2021.md"
@@ -32,9 +32,9 @@ name: "Smoking Dark Side"
 
 ## Details
 - **Distance (km):** 7.26
-- **Missions in banner:** 18
-- **Total missions completed:** 6978
-- **This is my banner no.:** 299
+
+
+
 
 
 
@@ -45,10 +45,9 @@ Start ist U-Bahn Eberswalder Straße und endet bei der Tram Prenzlauer Allee / E
 
 
 ## Links
-<a href="https://bannergress.com/banner/smoking-dark-side-28f4" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/smoking-dark-side-28f4" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000299_smoking-dark-side_2021.md`
-> • #000299
-> • Slug: `smoking-dark-side`
+
+> File: `000299_smoking-dark-side_2021.md` • #000299 • Slug: `smoking-dark-side`

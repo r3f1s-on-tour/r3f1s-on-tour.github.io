@@ -16,7 +16,7 @@ lengthKMeters: "9,69"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Bavaria München"
 slug: "bavaria-mnchen"
 href: "banner/000046_bavaria-mnchen_2016.md"
@@ -32,9 +32,9 @@ name: "Bavaria München"
 
 ## Details
 - **Distance (km):** 9.69
-- **Missions in banner:** 24
-- **Total missions completed:** 1050
-- **This is my banner no.:** 46
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Die kolossale und monumental anmutende Bronzestatue der Bavaria wurde im Auftrag
 
 
 ## Links
-<a href="https://bannergress.com/banner/bavaria-m%C3%BCnchen-78e7" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/bavaria-m%C3%BCnchen-78e7" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000046_bavaria-mnchen_2016.md`
-> • #000046
-> • Slug: `bavaria-mnchen`
+
+> File: `000046_bavaria-mnchen_2016.md` • #000046 • Slug: `bavaria-mnchen`

@@ -16,7 +16,7 @@ lengthKMeters: "1,70"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Entdeckungsrunde OBurg"
 slug: "entdeckungsrunde-oburg"
 href: "banner/000305_entdeckungsrunde-oburg_2021.md"
@@ -32,9 +32,9 @@ name: "Entdeckungsrunde OBurg"
 
 ## Details
 - **Distance (km):** 1.70
-- **Missions in banner:** 6
-- **Total missions completed:** 7110
-- **This is my banner no.:** 305
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Kleine Runde durch Oranienburg. Start ist am Bahnhof
 
 
 ## Links
-<a href="https://bannergress.com/banner/entdeckungsrunde-oburg-62cd" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/entdeckungsrunde-oburg-62cd" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000305_entdeckungsrunde-oburg_2021.md`
-> • #000305
-> • Slug: `entdeckungsrunde-oburg`
+
+> File: `000305_entdeckungsrunde-oburg_2021.md` • #000305 • Slug: `entdeckungsrunde-oburg`

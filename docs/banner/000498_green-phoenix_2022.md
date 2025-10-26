@@ -16,7 +16,7 @@ lengthKMeters: "3,096"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Green Phoenix"
 slug: "green-phoenix"
 href: "banner/000498_green-phoenix_2022.md"
@@ -32,9 +32,9 @@ name: "Green Phoenix"
 
 ## Details
 - **Distance (km):** 3.10
-- **Missions in banner:** 60
-- **Total missions completed:** 10.668
-- **This is my banner no.:** 498
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Willkommen im Wildpark Brück. Entdecke bei 60 Missionen die Vielfalt des Waldes
 
 
 ## Links
-<a href="https://bannergress.com/banner/green-phoenix-736c" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/green-phoenix-736c" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000498_green-phoenix_2022.md`
-> • #000498
-> • Slug: `green-phoenix`
+
+> File: `000498_green-phoenix_2022.md` • #000498 • Slug: `green-phoenix`

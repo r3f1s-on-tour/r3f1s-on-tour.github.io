@@ -16,7 +16,7 @@ lengthKMeters: "86,77"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Berliner Funkturm"
 slug: "berliner-funkturm"
 href: "banner/000244_berliner-funkturm_2019.md"
@@ -32,9 +32,9 @@ name: "Berliner Funkturm"
 
 ## Details
 - **Distance (km):** 86.77
-- **Missions in banner:** 150
-- **Total missions completed:** 5964
-- **This is my banner no.:** 244
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Der Berliner Funkturm ist ein 146,7m hoher Stahlfachwerkturm in Berlin und  eine
 
 
 ## Links
-<a href="https://bannergress.com/banner/berliner-funkturm-c3d7" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/berliner-funkturm-c3d7" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000244_berliner-funkturm_2019.md`
-> • #000244
-> • Slug: `berliner-funkturm`
+
+> File: `000244_berliner-funkturm_2019.md` • #000244 • Slug: `berliner-funkturm`

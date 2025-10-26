@@ -16,7 +16,7 @@ lengthKMeters: "10,45"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Schlosskirche Mosaik Teil"
 slug: "schlosskirche-mosaik-teil"
 href: "banner/000173_schlosskirche-mosaik-teil_2018.md"
@@ -32,9 +32,9 @@ name: "Schlosskirche Mosaik Teil"
 
 ## Details
 - **Distance (km):** 10.45
-- **Missions in banner:** 18
-- **Total missions completed:** 4164
-- **This is my banner no.:** 173
+
+
+
 
 
 
@@ -44,10 +44,9 @@ In der ersten Mission beginnt ihr den Rundgang durch das historische Neustrelitz
 
 
 ## Links
-<a href="https://bannergress.com/banner/schlosskirche-mosaik-teil-c34b" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/schlosskirche-mosaik-teil-c34b" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000173_schlosskirche-mosaik-teil_2018.md`
-> • #000173
-> • Slug: `schlosskirche-mosaik-teil`
+
+> File: `000173_schlosskirche-mosaik-teil_2018.md` • #000173 • Slug: `schlosskirche-mosaik-teil`

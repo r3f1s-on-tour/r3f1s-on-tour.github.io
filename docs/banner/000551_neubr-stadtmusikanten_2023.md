@@ -16,7 +16,7 @@ lengthKMeters: "12,503"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Neubr. Stadtmusikanten"
 slug: "neubr-stadtmusikanten"
 href: "banner/000551_neubr-stadtmusikanten_2023.md"
@@ -32,9 +32,9 @@ name: "Neubr. Stadtmusikanten"
 
 ## Details
 - **Distance (km):** 12.50
-- **Missions in banner:** 72
-- **Total missions completed:** 12.252
-- **This is my banner no.:** 551
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde die Sehens
 
 
 ## Links
-<a href="https://bannergress.com/banner/neubr-stadtmusikanten-8d23" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/neubr-stadtmusikanten-8d23" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000551_neubr-stadtmusikanten_2023.md`
-> • #000551
-> • Slug: `neubr-stadtmusikanten`
+
+> File: `000551_neubr-stadtmusikanten_2023.md` • #000551 • Slug: `neubr-stadtmusikanten`

@@ -16,7 +16,7 @@ lengthKMeters: "2,59"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Göttingen Skyline"
 slug: "gttingen-skyline"
 href: "banner/000322_gttingen-skyline_2021.md"
@@ -32,9 +32,9 @@ name: "Göttingen Skyline"
 
 ## Details
 - **Distance (km):** 2.59
-- **Missions in banner:** 6
-- **Total missions completed:** 7458
-- **This is my banner no.:** 322
+
+
+
 
 
 
@@ -44,10 +44,9 @@ kleiner walk durch die Stadt vom Liesel bis zum Rathaus. Teil 1 führt dich zur 
 
 
 ## Links
-<a href="https://bannergress.com/banner/g%C3%B6ttingen-skyline-72aa" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/g%C3%B6ttingen-skyline-72aa" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000322_gttingen-skyline_2021.md`
-> • #000322
-> • Slug: `gttingen-skyline`
+
+> File: `000322_gttingen-skyline_2021.md` • #000322 • Slug: `gttingen-skyline`

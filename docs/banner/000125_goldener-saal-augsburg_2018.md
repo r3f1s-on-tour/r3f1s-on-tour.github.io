@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Goldener Saal Augsburg"
 slug: "goldener-saal-augsburg"
 href: "banner/000125_goldener-saal-augsburg_2018.md"
@@ -32,15 +32,13 @@ name: "Goldener Saal Augsburg"
 
 ## Details
 
-- **Missions in banner:** 24
-- **Total missions completed:** 3078
-- **This is my banner no.:** 125
 
 
 
 
 
 
-> File: `000125_goldener-saal-augsburg_2018.md`
-> • #000125
-> • Slug: `goldener-saal-augsburg`
+
+
+
+> File: `000125_goldener-saal-augsburg_2018.md` • #000125 • Slug: `goldener-saal-augsburg`

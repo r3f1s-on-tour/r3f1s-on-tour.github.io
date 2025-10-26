@@ -16,7 +16,7 @@ lengthKMeters: "5,085"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Little Dandelion"
 slug: "little-dandelion"
 href: "banner/000469_little-dandelion_2022.md"
@@ -32,9 +32,9 @@ name: "Little Dandelion"
 
 ## Details
 - **Distance (km):** 5.08
-- **Missions in banner:** 18
-- **Total missions completed:** 10.308
-- **This is my banner no.:** 469
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Start at Rotes Rathaus for a short tour through the center of Berlin & discover 
 
 
 ## Links
-<a href="https://bannergress.com/banner/little-dandelion-5070" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/little-dandelion-5070" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000469_little-dandelion_2022.md`
-> • #000469
-> • Slug: `little-dandelion`
+
+> File: `000469_little-dandelion_2022.md` • #000469 • Slug: `little-dandelion`

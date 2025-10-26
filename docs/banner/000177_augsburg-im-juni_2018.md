@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Augsburg im Juni"
 slug: "augsburg-im-juni"
 href: "banner/000177_augsburg-im-juni_2018.md"
@@ -32,15 +32,13 @@ name: "Augsburg im Juni"
 
 ## Details
 
-- **Missions in banner:** 30
-- **Total missions completed:** 4248
-- **This is my banner no.:** 177
 
 
 
 
 
 
-> File: `000177_augsburg-im-juni_2018.md`
-> • #000177
-> • Slug: `augsburg-im-juni`
+
+
+
+> File: `000177_augsburg-im-juni_2018.md` • #000177 • Slug: `augsburg-im-juni`

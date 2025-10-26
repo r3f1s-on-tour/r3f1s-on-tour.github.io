@@ -16,7 +16,7 @@ lengthKMeters: "3,869"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "A fantasy Icon"
 slug: "a-fantasy-icon"
 href: "banner/000510_a-fantasy-icon_2022.md"
@@ -32,9 +32,9 @@ name: "A fantasy Icon"
 
 ## Details
 - **Distance (km):** 3.87
-- **Missions in banner:** 18
-- **Total missions completed:** 10.878
-- **This is my banner no.:** 510
+
+
+
 
 
 
@@ -47,10 +47,9 @@ With pretty hard questions. If you need help contact @ElliOpp via telegram.
 
 
 ## Links
-<a href="https://bannergress.com/banner/a-fantasy-icon-7e9d" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/a-fantasy-icon-7e9d" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000510_a-fantasy-icon_2022.md`
-> • #000510
-> • Slug: `a-fantasy-icon`
+
+> File: `000510_a-fantasy-icon_2022.md` • #000510 • Slug: `a-fantasy-icon`

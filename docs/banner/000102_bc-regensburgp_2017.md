@@ -16,7 +16,7 @@ lengthKMeters: "6,41"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "BC Regensburgp"
 slug: "bc-regensburgp"
 href: "banner/000102_bc-regensburgp_2017.md"
@@ -32,9 +32,9 @@ name: "BC Regensburgp"
 
 ## Details
 - **Distance (km):** 6.41
-- **Missions in banner:** 24
-- **Total missions completed:** 2628
-- **This is my banner no.:** 102
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Visit the "Historische Wurstkuchl". This is notable as perhaps the oldest contin
 
 
 ## Links
-<a href="https://bannergress.com/banner/bc-regensburg-4d46" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/bc-regensburg-4d46" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000102_bc-regensburgp_2017.md`
-> • #000102
-> • Slug: `bc-regensburgp`
+
+> File: `000102_bc-regensburgp_2017.md` • #000102 • Slug: `bc-regensburgp`

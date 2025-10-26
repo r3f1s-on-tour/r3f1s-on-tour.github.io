@@ -16,7 +16,7 @@ lengthKMeters: "18,342"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Guerrero Legendario"
 slug: "guerrero-legendario"
 href: "banner/000574_guerrero-legendario_2023.md"
@@ -32,9 +32,9 @@ name: "Guerrero Legendario"
 
 ## Details
 - **Distance (km):** 18.34
-- **Missions in banner:** 72
-- **Total missions completed:** 12.702
-- **This is my banner no.:** 574
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Paseo por el centro de Madrid
 
 
 ## Links
-<a href="https://bannergress.com/banner/guerrero-legendario-62df" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/guerrero-legendario-62df" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000574_guerrero-legendario_2023.md`
-> • #000574
-> • Slug: `guerrero-legendario`
+
+> File: `000574_guerrero-legendario_2023.md` • #000574 • Slug: `guerrero-legendario`

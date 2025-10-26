@@ -16,7 +16,7 @@ lengthKMeters: "5,51"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Silhouette von Stralsund"
 slug: "silhouette-von-stralsund"
 href: "banner/000005_silhouette-von-stralsund_2015.md"
@@ -32,9 +32,9 @@ name: "Silhouette von Stralsund"
 
 ## Details
 - **Distance (km):** 5.51
-- **Missions in banner:** 6
-- **Total missions completed:** 138
-- **This is my banner no.:** 5
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Vom Dänholm entlang des Strelasunds in Richtung  Parow charakterisiert die neue
 
 
 ## Links
-<a href="https://bannergress.com/banner/silhouette-von-stralsund-a792" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/silhouette-von-stralsund-a792" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000005_silhouette-von-stralsund_2015.md`
-> • #000005
-> • Slug: `silhouette-von-stralsund`
+
+> File: `000005_silhouette-von-stralsund_2015.md` • #000005 • Slug: `silhouette-von-stralsund`

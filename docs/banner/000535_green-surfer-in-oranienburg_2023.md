@@ -16,7 +16,7 @@ lengthKMeters: "5,54"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Green Surfer  in Oranienburg"
 slug: "green-surfer-in-oranienburg"
 href: "banner/000535_green-surfer-in-oranienburg_2023.md"
@@ -32,9 +32,9 @@ name: "Green Surfer  in Oranienburg"
 
 ## Details
 - **Distance (km):** 5.54
-- **Missions in banner:** 18
-- **Total missions completed:** 11.742
-- **This is my banner no.:** 535
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 ## Links
-<a href="https://bannergress.com/banner/green-surfer-in-oranienburg-edb1" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/green-surfer-in-oranienburg-edb1" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000535_green-surfer-in-oranienburg_2023.md`
-> • #000535
-> • Slug: `green-surfer-in-oranienburg`
+
+> File: `000535_green-surfer-in-oranienburg_2023.md` • #000535 • Slug: `green-surfer-in-oranienburg`

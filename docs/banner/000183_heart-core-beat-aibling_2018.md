@@ -16,7 +16,7 @@ lengthKMeters: "1,42"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Heart Core Beat Aibling"
 slug: "heart-core-beat-aibling"
 href: "banner/000183_heart-core-beat-aibling_2018.md"
@@ -32,9 +32,9 @@ name: "Heart Core Beat Aibling"
 
 ## Details
 - **Distance (km):** 1.42
-- **Missions in banner:** 6
-- **Total missions completed:** 4386
-- **This is my banner no.:** 183
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Fühle den Herzschlag vom schönen Bad Aibling.
 
 
 ## Links
-<a href="https://bannergress.com/banner/heart-core-beat-aibling-1920" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/heart-core-beat-aibling-1920" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000183_heart-core-beat-aibling_2018.md`
-> • #000183
-> • Slug: `heart-core-beat-aibling`
+
+> File: `000183_heart-core-beat-aibling_2018.md` • #000183 • Slug: `heart-core-beat-aibling`

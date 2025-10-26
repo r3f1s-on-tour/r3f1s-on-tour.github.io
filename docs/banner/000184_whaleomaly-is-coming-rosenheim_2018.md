@@ -16,7 +16,7 @@ lengthKMeters: "1,57"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Whaleomaly is Coming / [Rosenheim]"
 slug: "whaleomaly-is-coming-rosenheim"
 href: "banner/000184_whaleomaly-is-coming-rosenheim_2018.md"
@@ -32,9 +32,9 @@ name: "Whaleomaly is Coming / [Rosenheim]"
 
 ## Details
 - **Distance (km):** 1.57
-- **Missions in banner:** 6
-- **Total missions completed:** 4392
-- **This is my banner no.:** 184
+
+
+
 
 
 
@@ -45,10 +45,9 @@ Explore Rosenheims Whales! Take them with you to unite at the Whaleomaly Linz!
 
 
 ## Links
-<a href="https://bannergress.com/banner/whaleomaly-is-coming-rosenheim-f13a" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/whaleomaly-is-coming-rosenheim-f13a" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000184_whaleomaly-is-coming-rosenheim_2018.md`
-> • #000184
-> • Slug: `whaleomaly-is-coming-rosenheim`
+
+> File: `000184_whaleomaly-is-coming-rosenheim_2018.md` • #000184 • Slug: `whaleomaly-is-coming-rosenheim`

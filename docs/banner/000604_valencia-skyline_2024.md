@@ -16,7 +16,7 @@ lengthKMeters: "3,561"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Valencia Skyline"
 slug: "valencia-skyline"
 href: "banner/000604_valencia-skyline_2024.md"
@@ -32,9 +32,9 @@ name: "Valencia Skyline"
 
 ## Details
 - **Distance (km):** 3.56
-- **Missions in banner:** 12
-- **Total missions completed:** 13.284
-- **This is my banner no.:** 604
+
+
+
 
 
 
@@ -45,10 +45,9 @@ Discover the most emblematic places in Valencia and complete this beautiful bann
 
 
 ## Links
-<a href="https://bannergress.com/banner/valencia-skyline-4d2a" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/valencia-skyline-4d2a" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000604_valencia-skyline_2024.md`
-> • #000604
-> • Slug: `valencia-skyline`
+
+> File: `000604_valencia-skyline_2024.md` • #000604 • Slug: `valencia-skyline`

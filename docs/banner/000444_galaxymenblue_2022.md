@@ -16,7 +16,7 @@ lengthKMeters: "11,09"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "GalaxyMenBlue"
 slug: "galaxymenblue"
 href: "banner/000444_galaxymenblue_2022.md"
@@ -32,9 +32,9 @@ name: "GalaxyMenBlue"
 
 ## Details
 - **Distance (km):** 11.09
-- **Missions in banner:** 24
-- **Total missions completed:** 9.216
-- **This is my banner no.:** 444
+
+
+
 
 
 
@@ -44,6 +44,4 @@ Der Urknall fand am Bhf Lichtenberg statt.Nun breitet sich eine neue Galaxy Rich
 
 
 
-> File: `000444_galaxymenblue_2022.md`
-> • #000444
-> • Slug: `galaxymenblue`
+> File: `000444_galaxymenblue_2022.md` • #000444 • Slug: `galaxymenblue`

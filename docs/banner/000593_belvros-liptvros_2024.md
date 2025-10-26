@@ -16,7 +16,7 @@ lengthKMeters: "4,671"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Belváros-Lipótváros"
 slug: "belvros-liptvros"
 href: "banner/000593_belvros-liptvros_2024.md"
@@ -32,9 +32,9 @@ name: "Belváros-Lipótváros"
 
 ## Details
 - **Distance (km):** 4.67
-- **Missions in banner:** 24
-- **Total missions completed:** 13.110
-- **This is my banner no.:** 593
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Discover the central part of Budapest in District V, situated on the east bank o
 
 
 ## Links
-<a href="https://bannergress.com/banner/belv%C3%A1ros-lip%C3%B3tv%C3%A1ros-57e4" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/belv%C3%A1ros-lip%C3%B3tv%C3%A1ros-57e4" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000593_belvros-liptvros_2024.md`
-> • #000593
-> • Slug: `belvros-liptvros`
+
+> File: `000593_belvros-liptvros_2024.md` • #000593 • Slug: `belvros-liptvros`

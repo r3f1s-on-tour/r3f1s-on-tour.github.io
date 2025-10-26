@@ -16,7 +16,7 @@ lengthKMeters: "6,671"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Hafentempel Xanten"
 slug: "hafentempel-xanten"
 href: "banner/000580_hafentempel-xanten_2023.md"
@@ -32,9 +32,9 @@ name: "Hafentempel Xanten"
 
 ## Details
 - **Distance (km):** 6.67
-- **Missions in banner:** 18
-- **Total missions completed:** 12.864
-- **This is my banner no.:** 580
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Dieses 18 Mosaik führt durch den APX.  Hier muss man Eintritt bezahlen. die Pre
 
 
 ## Links
-<a href="https://bannergress.com/banner/hafentempel-xanten-5274" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/hafentempel-xanten-5274" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000580_hafentempel-xanten_2023.md`
-> • #000580
-> • Slug: `hafentempel-xanten`
+
+> File: `000580_hafentempel-xanten_2023.md` • #000580 • Slug: `hafentempel-xanten`

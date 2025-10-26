@@ -16,7 +16,7 @@ lengthKMeters: "949"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Visita a Madrid"
 slug: "visita-a-madrid"
 href: "banner/000579_visita-a-madrid_2023.md"
@@ -32,9 +32,9 @@ name: "Visita a Madrid"
 
 ## Details
 - **Distance (km):** 949.00
-- **Missions in banner:** 6
-- **Total missions completed:** 12.846
-- **This is my banner no.:** 579
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Primera parte de la visita al la Puerta del Sol y sus alrededores, centro turís
 
 
 ## Links
-<a href="https://bannergress.com/banner/visita-a-madrid-cbcd" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/visita-a-madrid-cbcd" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000579_visita-a-madrid_2023.md`
-> • #000579
-> • Slug: `visita-a-madrid`
+
+> File: `000579_visita-a-madrid_2023.md` • #000579 • Slug: `visita-a-madrid`

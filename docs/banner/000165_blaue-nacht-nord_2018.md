@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Blaue Nacht Nord"
 slug: "blaue-nacht-nord"
 href: "banner/000165_blaue-nacht-nord_2018.md"
@@ -32,15 +32,13 @@ name: "Blaue Nacht Nord"
 
 ## Details
 
-- **Missions in banner:** 36
-- **Total missions completed:** 4020
-- **This is my banner no.:** 165
 
 
 
 
 
 
-> File: `000165_blaue-nacht-nord_2018.md`
-> • #000165
-> • Slug: `blaue-nacht-nord`
+
+
+
+> File: `000165_blaue-nacht-nord_2018.md` • #000165 • Slug: `blaue-nacht-nord`

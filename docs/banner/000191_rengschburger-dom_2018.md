@@ -16,7 +16,7 @@ lengthKMeters: "16,84"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Rengschburger Dom"
 slug: "rengschburger-dom"
 href: "banner/000191_rengschburger-dom_2018.md"
@@ -32,9 +32,9 @@ name: "Rengschburger Dom"
 
 ## Details
 - **Distance (km):** 16.84
-- **Missions in banner:** 60
-- **Total missions completed:** 4566
-- **This is my banner no.:** 191
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Servus, Griaß di und Habedere in Rengschburg! Dieses Mosaik hat insgesamt 60 Mi
 
 
 ## Links
-<a href="https://bannergress.com/banner/rengschburger-dom-1d01" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/rengschburger-dom-1d01" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000191_rengschburger-dom_2018.md`
-> • #000191
-> • Slug: `rengschburger-dom`
+
+> File: `000191_rengschburger-dom_2018.md` • #000191 • Slug: `rengschburger-dom`

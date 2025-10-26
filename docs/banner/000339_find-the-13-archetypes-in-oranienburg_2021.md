@@ -16,7 +16,7 @@ lengthKMeters: "6,56"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Find the 13 Archetypes in Oranienburg"
 slug: "find-the-13-archetypes-in-oranienburg"
 href: "banner/000339_find-the-13-archetypes-in-oranienburg_2021.md"
@@ -32,9 +32,9 @@ name: "Find the 13 Archetypes in Oranienburg"
 
 ## Details
 - **Distance (km):** 6.56
-- **Missions in banner:** 18
-- **Total missions completed:** 7698
-- **This is my banner no.:** 339
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Gehe auf Tour in Oranienburg und finde die 13 Archetypen in Oranienburg. Die Tou
 
 
 ## Links
-<a href="https://bannergress.com/banner/find-the-13-archetypes-in-oranienburg-49c9" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/find-the-13-archetypes-in-oranienburg-49c9" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000339_find-the-13-archetypes-in-oranienburg_2021.md`
-> • #000339
-> • Slug: `find-the-13-archetypes-in-oranienburg`
+
+> File: `000339_find-the-13-archetypes-in-oranienburg_2021.md` • #000339 • Slug: `find-the-13-archetypes-in-oranienburg`

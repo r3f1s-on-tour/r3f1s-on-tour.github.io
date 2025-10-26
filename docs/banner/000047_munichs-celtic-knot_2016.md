@@ -16,7 +16,7 @@ lengthKMeters: "10,38"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "MUNICHS CELTIC KNOT"
 slug: "munichs-celtic-knot"
 href: "banner/000047_munichs-celtic-knot_2016.md"
@@ -32,9 +32,9 @@ name: "MUNICHS CELTIC KNOT"
 
 ## Details
 - **Distance (km):** 10.38
-- **Missions in banner:** 36
-- **Total missions completed:** 1086
-- **This is my banner no.:** 47
+
+
+
 
 
 
@@ -44,10 +44,9 @@ name: "MUNICHS CELTIC KNOT"
 
 
 ## Links
-<a href="https://bannergress.com/banner/munich-s-celtic-knot-a147" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/munich-s-celtic-knot-a147" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000047_munichs-celtic-knot_2016.md`
-> • #000047
-> • Slug: `munichs-celtic-knot`
+
+> File: `000047_munichs-celtic-knot_2016.md` • #000047 • Slug: `munichs-celtic-knot`

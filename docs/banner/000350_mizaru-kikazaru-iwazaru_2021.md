@@ -16,7 +16,7 @@ lengthKMeters: "6,02"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Mizaru, Kikazaru, Iwazaru"
 slug: "mizaru-kikazaru-iwazaru"
 href: "banner/000350_mizaru-kikazaru-iwazaru_2021.md"
@@ -32,9 +32,9 @@ name: "Mizaru, Kikazaru, Iwazaru"
 
 ## Details
 - **Distance (km):** 6.02
-- **Missions in banner:** 18
-- **Total missions completed:** 7860
-- **This is my banner no.:** 350
+
+
+
 
 
 
@@ -45,10 +45,9 @@ Start und Ende der Runde ist am Senefelderplatz
 
 
 ## Links
-<a href="https://bannergress.com/banner/mizaru-kikazaru-iwazaru-dbe2" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/mizaru-kikazaru-iwazaru-dbe2" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000350_mizaru-kikazaru-iwazaru_2021.md`
-> • #000350
-> • Slug: `mizaru-kikazaru-iwazaru`
+
+> File: `000350_mizaru-kikazaru-iwazaru_2021.md` • #000350 • Slug: `mizaru-kikazaru-iwazaru`

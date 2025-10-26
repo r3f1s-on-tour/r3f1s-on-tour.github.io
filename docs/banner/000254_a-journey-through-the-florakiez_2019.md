@@ -16,7 +16,7 @@ lengthKMeters: "8,84"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "A journey through the florakiez"
 slug: "a-journey-through-the-florakiez"
 href: "banner/000254_a-journey-through-the-florakiez_2019.md"
@@ -32,9 +32,9 @@ name: "A journey through the florakiez"
 
 ## Details
 - **Distance (km):** 8.84
-- **Missions in banner:** 18
-- **Total missions completed:** 6126
-- **This is my banner no.:** 254
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Discover the green lung of Pankow and get a nice mosaic as a reminder. All missi
 
 
 ## Links
-<a href="https://bannergress.com/banner/a-journey-through-the-florakiez-ac90" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/a-journey-through-the-florakiez-ac90" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000254_a-journey-through-the-florakiez_2019.md`
-> • #000254
-> • Slug: `a-journey-through-the-florakiez`
+
+> File: `000254_a-journey-through-the-florakiez_2019.md` • #000254 • Slug: `a-journey-through-the-florakiez`

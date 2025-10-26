@@ -16,7 +16,7 @@ lengthKMeters: "5,64"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Das Stralsunder Wappen"
 slug: "das-stralsunder-wappen"
 href: "banner/000019_das-stralsunder-wappen_2015.md"
@@ -32,9 +32,9 @@ name: "Das Stralsunder Wappen"
 
 ## Details
 - **Distance (km):** 5.64
-- **Missions in banner:** 18
-- **Total missions completed:** 348
-- **This is my banner no.:** 19
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Dies ist die 1. Mission für das Stralsunder Wappen!
 
 
 ## Links
-<a href="https://bannergress.com/banner/das-stralsunder-wappen-9a4d" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/das-stralsunder-wappen-9a4d" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000019_das-stralsunder-wappen_2015.md`
-> • #000019
-> • Slug: `das-stralsunder-wappen`
+
+> File: `000019_das-stralsunder-wappen_2015.md` • #000019 • Slug: `das-stralsunder-wappen`

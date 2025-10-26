@@ -16,7 +16,7 @@ lengthKMeters: "1,323"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Deifel in Wuppertal"
 slug: "deifel-in-wuppertal"
 href: "banner/000507_deifel-in-wuppertal_2022.md"
@@ -32,9 +32,9 @@ name: "Deifel in Wuppertal"
 
 ## Details
 - **Distance (km):** 1.32
-- **Missions in banner:** 6
-- **Total missions completed:** 10.824
-- **This is my banner no.:** 507
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Starte am Hauptbahnhof einen Rundgang und entdecke Wuppertal. Auf deinem Abenteu
 
 
 ## Links
-<a href="https://bannergress.com/banner/deifel-in-wuppertal-5ea7" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/deifel-in-wuppertal-5ea7" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000507_deifel-in-wuppertal_2022.md`
-> • #000507
-> • Slug: `deifel-in-wuppertal`
+
+> File: `000507_deifel-in-wuppertal_2022.md` • #000507 • Slug: `deifel-in-wuppertal`

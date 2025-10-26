@@ -16,7 +16,7 @@ lengthKMeters: "3,57"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "RetroGaming - Space Invaders"
 slug: "retrogaming-space-invaders"
 href: "banner/000411_retrogaming-space-invaders_2022.md"
@@ -32,9 +32,9 @@ name: "RetroGaming - Space Invaders"
 
 ## Details
 - **Distance (km):** 3.57
-- **Missions in banner:** 6
-- **Total missions completed:** 8.700
-- **This is my banner no.:** 411
+
+
+
 
 
 
@@ -44,6 +44,4 @@ Starte auf dem Markt eine Entdeckungsreise durch die Stadt Pasewalk und entdecke
 
 
 
-> File: `000411_retrogaming-space-invaders_2022.md`
-> • #000411
-> • Slug: `retrogaming-space-invaders`
+> File: `000411_retrogaming-space-invaders_2022.md` • #000411 • Slug: `retrogaming-space-invaders`

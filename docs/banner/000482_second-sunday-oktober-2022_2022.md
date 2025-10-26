@@ -16,7 +16,7 @@ lengthKMeters: "1,599"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Second Sunday - Oktober 2022"
 slug: "second-sunday-oktober-2022"
 href: "banner/000482_second-sunday-oktober-2022_2022.md"
@@ -32,9 +32,9 @@ name: "Second Sunday - Oktober 2022"
 
 ## Details
 - **Distance (km):** 1.60
-- **Missions in banner:** 6
-- **Total missions completed:** 10.428
-- **This is my banner no.:** 482
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und end
 
 
 ## Links
-<a href="https://bannergress.com/banner/second-sunday-oktober-2022-0afa" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/second-sunday-oktober-2022-0afa" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000482_second-sunday-oktober-2022_2022.md`
-> • #000482
-> • Slug: `second-sunday-oktober-2022`
+
+> File: `000482_second-sunday-oktober-2022_2022.md` • #000482 • Slug: `second-sunday-oktober-2022`

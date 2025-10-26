@@ -16,7 +16,7 @@ lengthKMeters: "6,57"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Bayern Flagge"
 slug: "bayern-flagge"
 href: "banner/000155_bayern-flagge_2018.md"
@@ -32,9 +32,9 @@ name: "Bayern Flagge"
 
 ## Details
 - **Distance (km):** 6.57
-- **Missions in banner:** 24
-- **Total missions completed:** 3762
-- **This is my banner no.:** 155
+
+
+
 
 
 
@@ -45,10 +45,9 @@ Diese Mission startet am Marienplatz.
 
 
 ## Links
-<a href="https://bannergress.com/banner/bayern-flagge-d575" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/bayern-flagge-d575" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000155_bayern-flagge_2018.md`
-> • #000155
-> • Slug: `bayern-flagge`
+
+> File: `000155_bayern-flagge_2018.md` • #000155 • Slug: `bayern-flagge`

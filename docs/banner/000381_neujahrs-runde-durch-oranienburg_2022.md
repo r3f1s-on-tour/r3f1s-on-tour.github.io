@@ -16,7 +16,7 @@ lengthKMeters: "3,64"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Neujahrs Runde durch Oranienburg"
 slug: "neujahrs-runde-durch-oranienburg"
 href: "banner/000381_neujahrs-runde-durch-oranienburg_2022.md"
@@ -32,9 +32,9 @@ name: "Neujahrs Runde durch Oranienburg"
 
 ## Details
 - **Distance (km):** 3.64
-- **Missions in banner:** 12
-- **Total missions completed:** 8274
-- **This is my banner no.:** 381
+
+
+
 
 
 
@@ -44,6 +44,4 @@ Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> File: `000381_neujahrs-runde-durch-oranienburg_2022.md`
-> • #000381
-> • Slug: `neujahrs-runde-durch-oranienburg`
+> File: `000381_neujahrs-runde-durch-oranienburg_2022.md` • #000381 • Slug: `neujahrs-runde-durch-oranienburg`

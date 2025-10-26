@@ -16,7 +16,7 @@ lengthKMeters: "3,24"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Kiek in de Mark"
 slug: "kiek-in-de-mark"
 href: "banner/000573_kiek-in-de-mark_2023.md"
@@ -32,9 +32,9 @@ name: "Kiek in de Mark"
 
 ## Details
 - **Distance (km):** 3.24
-- **Missions in banner:** 6
-- **Total missions completed:** 12.630
-- **This is my banner no.:** 573
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Walk through the city and pick up a banner with the tower in rainbow colours.
 
 
 ## Links
-<a href="https://bannergress.com/banner/kiek-in-de-mark-80d9" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/kiek-in-de-mark-80d9" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000573_kiek-in-de-mark_2023.md`
-> • #000573
-> • Slug: `kiek-in-de-mark`
+
+> File: `000573_kiek-in-de-mark_2023.md` • #000573 • Slug: `kiek-in-de-mark`

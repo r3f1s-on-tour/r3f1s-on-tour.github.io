@@ -16,7 +16,7 @@ lengthKMeters: "2,37"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "The evolution of frog"
 slug: "the-evolution-of-frog"
 href: "banner/000428_the-evolution-of-frog_2022.md"
@@ -32,9 +32,9 @@ name: "The evolution of frog"
 
 ## Details
 - **Distance (km):** 2.37
-- **Missions in banner:** 6
-- **Total missions completed:** 8.910
-- **This is my banner no.:** 428
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Macht einen kleinen Spaziergang durch die Vorstadt und schaut Euch dabei die Ent
 
 
 ## Links
-<a href="https://bannergress.com/banner/the-evolution-of-frog-1d8f" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/the-evolution-of-frog-1d8f" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000428_the-evolution-of-frog_2022.md`
-> • #000428
-> • Slug: `the-evolution-of-frog`
+
+> File: `000428_the-evolution-of-frog_2022.md` • #000428 • Slug: `the-evolution-of-frog`

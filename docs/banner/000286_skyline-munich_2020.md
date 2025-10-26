@@ -16,7 +16,7 @@ lengthKMeters: "1,45"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Skyline Munich"
 slug: "skyline-munich"
 href: "banner/000286_skyline-munich_2020.md"
@@ -32,9 +32,9 @@ name: "Skyline Munich"
 
 ## Details
 - **Distance (km):** 1.45
-- **Missions in banner:** 6
-- **Total missions completed:** 6690
-- **This is my banner no.:** 286
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Part 1 of 6
 
 
 ## Links
-<a href="https://bannergress.com/banner/skyline-munich-2886" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/skyline-munich-2886" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000286_skyline-munich_2020.md`
-> • #000286
-> • Slug: `skyline-munich`
+
+> File: `000286_skyline-munich_2020.md` • #000286 • Slug: `skyline-munich`

@@ -16,7 +16,7 @@ lengthKMeters: "10,25"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Waldmeister Tour"
 slug: "waldmeister-tour"
 href: "banner/000459_waldmeister-tour_2022.md"
@@ -32,9 +32,9 @@ name: "Waldmeister Tour"
 
 ## Details
 - **Distance (km):** 10.25
-- **Missions in banner:** 24
-- **Total missions completed:** 9.510
-- **This is my banner no.:** 459
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Starte eine Waldmeister Tour im Mauerpark und mache eine Entdeckungsreise durch 
 
 
 ## Links
-<a href="https://bannergress.com/banner/waldmeister-tour-be43" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/waldmeister-tour-be43" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000459_waldmeister-tour_2022.md`
-> • #000459
-> • Slug: `waldmeister-tour`
+
+> File: `000459_waldmeister-tour_2022.md` • #000459 • Slug: `waldmeister-tour`

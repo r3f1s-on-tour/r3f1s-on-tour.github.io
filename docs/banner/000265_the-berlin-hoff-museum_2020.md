@@ -16,7 +16,7 @@ lengthKMeters: "1,51"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "The Berlin Hoff Museum"
 slug: "the-berlin-hoff-museum"
 href: "banner/000265_the-berlin-hoff-museum_2020.md"
@@ -32,9 +32,9 @@ name: "The Berlin Hoff Museum"
 
 ## Details
 - **Distance (km):** 1.51
-- **Missions in banner:** 6
-- **Total missions completed:** 6306
-- **This is my banner no.:** 265
+
+
+
 
 
 
@@ -44,10 +44,9 @@ This walk guides you at the end to the small but famous Museum of the Hoff. Its 
 
 
 ## Links
-<a href="https://bannergress.com/banner/the-berlin-hoff-museum-c15c" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/the-berlin-hoff-museum-c15c" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000265_the-berlin-hoff-museum_2020.md`
-> • #000265
-> • Slug: `the-berlin-hoff-museum`
+
+> File: `000265_the-berlin-hoff-museum_2020.md` • #000265 • Slug: `the-berlin-hoff-museum`

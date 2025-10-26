@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Besuch der 4 Tore"
 slug: "besuch-der-4-tore"
 href: "banner/000006_besuch-der-4-tore_2015.md"
@@ -32,15 +32,13 @@ name: "Besuch der 4 Tore"
 
 ## Details
 
-- **Missions in banner:** 6
-- **Total missions completed:** 144
-- **This is my banner no.:** 6
 
 
 
 
 
 
-> File: `000006_besuch-der-4-tore_2015.md`
-> • #000006
-> • Slug: `besuch-der-4-tore`
+
+
+
+> File: `000006_besuch-der-4-tore_2015.md` • #000006 • Slug: `besuch-der-4-tore`

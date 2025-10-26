@@ -16,7 +16,7 @@ lengthKMeters: "7,66"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Siegestor München"
 slug: "siegestor-mnchen"
 href: "banner/000033_siegestor-mnchen_2016.md"
@@ -32,9 +32,9 @@ name: "Siegestor München"
 
 ## Details
 - **Distance (km):** 7.66
-- **Missions in banner:** 24
-- **Total missions completed:** 672
-- **This is my banner no.:** 33
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Das Siegestor wurde 1843 bis 1850 aus Kelheimer Kalkstein errichtet. Am 15. Okto
 
 
 ## Links
-<a href="https://bannergress.com/banner/siegestor-m%C3%BCnchen-4f77" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/siegestor-m%C3%BCnchen-4f77" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000033_siegestor-mnchen_2016.md`
-> • #000033
-> • Slug: `siegestor-mnchen`
+
+> File: `000033_siegestor-mnchen_2016.md` • #000033 • Slug: `siegestor-mnchen`

@@ -16,7 +16,7 @@ lengthKMeters: "1,047"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Space Cats in Strasburg"
 slug: "space-cats-in-strasburg"
 href: "banner/000542_space-cats-in-strasburg_2023.md"
@@ -32,9 +32,9 @@ name: "Space Cats in Strasburg"
 
 ## Details
 - **Distance (km):** 1.05
-- **Missions in banner:** 6
-- **Total missions completed:** 11.994
-- **This is my banner no.:** 542
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Beginne eine Runde durch Strasburg und entdecke auf deiner Runde Sehenswürdigke
 
 
 ## Links
-<a href="https://bannergress.com/banner/space-cats-in-strasburg-bacf" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/space-cats-in-strasburg-bacf" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000542_space-cats-in-strasburg_2023.md`
-> • #000542
-> • Slug: `space-cats-in-strasburg`
+
+> File: `000542_space-cats-in-strasburg_2023.md` • #000542 • Slug: `space-cats-in-strasburg`

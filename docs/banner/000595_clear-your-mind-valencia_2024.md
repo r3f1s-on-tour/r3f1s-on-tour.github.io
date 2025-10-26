@@ -16,7 +16,7 @@ lengthKMeters: "1,319"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Clear your mind -Valencia"
 slug: "clear-your-mind-valencia"
 href: "banner/000595_clear-your-mind-valencia_2024.md"
@@ -32,9 +32,9 @@ name: "Clear your mind -Valencia"
 
 ## Details
 - **Distance (km):** 1.32
-- **Missions in banner:** 6
-- **Total missions completed:** 13.122
-- **This is my banner no.:** 595
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Agradable paseo por las calles de Valencia
 
 
 ## Links
-<a href="https://bannergress.com/banner/clear-your-mind-valencia-6de4" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/clear-your-mind-valencia-6de4" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000595_clear-your-mind-valencia_2024.md`
-> • #000595
-> • Slug: `clear-your-mind-valencia`
+
+> File: `000595_clear-your-mind-valencia_2024.md` • #000595 • Slug: `clear-your-mind-valencia`

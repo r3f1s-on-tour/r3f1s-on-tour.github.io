@@ -16,7 +16,7 @@ lengthKMeters: "1,51"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Hunting ground Wandsbek Markt"
 slug: "hunting-ground-wandsbek-markt"
 href: "banner/000021_hunting-ground-wandsbek-markt_2016.md"
@@ -32,9 +32,9 @@ name: "Hunting ground Wandsbek Markt"
 
 ## Details
 - **Distance (km):** 1.51
-- **Missions in banner:** 6
-- **Total missions completed:** 360
-- **This is my banner no.:** 21
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Die sechs Vampir Clans der Camarilla begehren diese Domäne. Welcher Clan wird o
 
 
 ## Links
-<a href="https://bannergress.com/banner/hunting-ground-wandsbek-markt-ventrue-3567" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/hunting-ground-wandsbek-markt-ventrue-3567" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000021_hunting-ground-wandsbek-markt_2016.md`
-> • #000021
-> • Slug: `hunting-ground-wandsbek-markt`
+
+> File: `000021_hunting-ground-wandsbek-markt_2016.md` • #000021 • Slug: `hunting-ground-wandsbek-markt`

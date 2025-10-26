@@ -16,7 +16,7 @@ lengthKMeters: "8,10"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Friedrich-Ludwig-Jahn-Sportpark"
 slug: "friedrich-ludwig-jahn-sportpark"
 href: "banner/000259_friedrich-ludwig-jahn-sportpark_2020.md"
@@ -32,9 +32,9 @@ name: "Friedrich-Ludwig-Jahn-Sportpark"
 
 ## Details
 - **Distance (km):** 8.10
-- **Missions in banner:** 18
-- **Total missions completed:** 6210
-- **This is my banner no.:** 259
+
+
+
 
 
 
@@ -45,10 +45,9 @@ Eine Runde um den Friedrich-Ludwig-Jahn-Sportpark.
 
 
 ## Links
-<a href="https://bannergress.com/banner/friedrich-ludwig-jahn-sportpark-739b" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/friedrich-ludwig-jahn-sportpark-739b" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000259_friedrich-ludwig-jahn-sportpark_2020.md`
-> • #000259
-> • Slug: `friedrich-ludwig-jahn-sportpark`
+
+> File: `000259_friedrich-ludwig-jahn-sportpark_2020.md` • #000259 • Slug: `friedrich-ludwig-jahn-sportpark`

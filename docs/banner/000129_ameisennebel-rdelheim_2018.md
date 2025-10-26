@@ -16,7 +16,7 @@ lengthKMeters: "7,88"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Ameisennebel Rödelheim"
 slug: "ameisennebel-rdelheim"
 href: "banner/000129_ameisennebel-rdelheim_2018.md"
@@ -32,9 +32,9 @@ name: "Ameisennebel Rödelheim"
 
 ## Details
 - **Distance (km):** 7.88
-- **Missions in banner:** 18
-- **Total missions completed:** 3156
-- **This is my banner no.:** 129
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Der Ameisennebel ist ein junger planetarischer Nebel. Der Name Ameisennebel komm
 
 
 ## Links
-<a href="https://bannergress.com/banner/ameisennebel-r%C3%B6delheim-4f83" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/ameisennebel-r%C3%B6delheim-4f83" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000129_ameisennebel-rdelheim_2018.md`
-> • #000129
-> • Slug: `ameisennebel-rdelheim`
+
+> File: `000129_ameisennebel-rdelheim_2018.md` • #000129 • Slug: `ameisennebel-rdelheim`

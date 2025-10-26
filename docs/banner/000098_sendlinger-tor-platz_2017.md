@@ -16,7 +16,7 @@ lengthKMeters: "8,60"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Sendlinger-Tor-Platz"
 slug: "sendlinger-tor-platz"
 href: "banner/000098_sendlinger-tor-platz_2017.md"
@@ -32,9 +32,9 @@ name: "Sendlinger-Tor-Platz"
 
 ## Details
 - **Distance (km):** 8.60
-- **Missions in banner:** 24
-- **Total missions completed:** 2520
-- **This is my banner no.:** 98
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Im Rahmen der großen Stadterweiterung durch Ludwig den Bayern entstand 1285 bis
 
 
 ## Links
-<a href="https://bannergress.com/banner/sendlinger-tor-platz-ec38" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/sendlinger-tor-platz-ec38" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000098_sendlinger-tor-platz_2017.md`
-> • #000098
-> • Slug: `sendlinger-tor-platz`
+
+> File: `000098_sendlinger-tor-platz_2017.md` • #000098 • Slug: `sendlinger-tor-platz`

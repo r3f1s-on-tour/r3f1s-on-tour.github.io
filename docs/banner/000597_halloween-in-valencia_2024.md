@@ -16,7 +16,7 @@ lengthKMeters: "1,623"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Halloween in Valencia"
 slug: "halloween-in-valencia"
 href: "banner/000597_halloween-in-valencia_2024.md"
@@ -32,9 +32,9 @@ name: "Halloween in Valencia"
 
 ## Details
 - **Distance (km):** 1.62
-- **Missions in banner:** 6
-- **Total missions completed:** 13.170
-- **This is my banner no.:** 597
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Discover Valencia at Halloween and get this spooky banner!
 
 
 ## Links
-<a href="https://bannergress.com/banner/halloween-in-valencia-f0f4" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/halloween-in-valencia-f0f4" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000597_halloween-in-valencia_2024.md`
-> • #000597
-> • Slug: `halloween-in-valencia`
+
+> File: `000597_halloween-in-valencia_2024.md` • #000597 • Slug: `halloween-in-valencia`

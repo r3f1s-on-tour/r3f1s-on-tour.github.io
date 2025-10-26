@@ -16,7 +16,7 @@ lengthKMeters: "17,927"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Green Wolf in Oranienburg"
 slug: "green-wolf-in-oranienburg"
 href: "banner/000536_green-wolf-in-oranienburg_2023.md"
@@ -32,9 +32,9 @@ name: "Green Wolf in Oranienburg"
 
 ## Details
 - **Distance (km):** 17.93
-- **Missions in banner:** 78
-- **Total missions completed:** 11.820
-- **This is my banner no.:** 536
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdig
 
 
 ## Links
-<a href="https://bannergress.com/banner/green-wolf-in-oranienburg-d822" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/green-wolf-in-oranienburg-d822" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000536_green-wolf-in-oranienburg_2023.md`
-> • #000536
-> • Slug: `green-wolf-in-oranienburg`
+
+> File: `000536_green-wolf-in-oranienburg_2023.md` • #000536 • Slug: `green-wolf-in-oranienburg`

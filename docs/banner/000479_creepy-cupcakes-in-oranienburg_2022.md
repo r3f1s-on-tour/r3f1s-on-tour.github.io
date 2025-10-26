@@ -16,7 +16,7 @@ lengthKMeters: "1,599"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Creepy Cupcakes in Oranienburg"
 slug: "creepy-cupcakes-in-oranienburg"
 href: "banner/000479_creepy-cupcakes-in-oranienburg_2022.md"
@@ -32,9 +32,9 @@ name: "Creepy Cupcakes in Oranienburg"
 
 ## Details
 - **Distance (km):** 1.60
-- **Missions in banner:** 6
-- **Total missions completed:** 10.410
-- **This is my banner no.:** 479
+
+
+
 
 
 
@@ -44,6 +44,4 @@ Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und end
 
 
 
-> File: `000479_creepy-cupcakes-in-oranienburg_2022.md`
-> • #000479
-> • Slug: `creepy-cupcakes-in-oranienburg`
+> File: `000479_creepy-cupcakes-in-oranienburg_2022.md` • #000479 • Slug: `creepy-cupcakes-in-oranienburg`

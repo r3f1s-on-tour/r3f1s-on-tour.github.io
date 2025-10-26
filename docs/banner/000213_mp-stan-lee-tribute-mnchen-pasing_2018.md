@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "#MP Stan Lee Tribute [München-Pasing]"
 slug: "mp-stan-lee-tribute-mnchen-pasing"
 href: "banner/000213_mp-stan-lee-tribute-mnchen-pasing_2018.md"
@@ -32,15 +32,13 @@ name: "#MP Stan Lee Tribute [München-Pasing]"
 
 ## Details
 
-- **Missions in banner:** 6
-- **Total missions completed:** 5178
-- **This is my banner no.:** 213
 
 
 
 
 
 
-> File: `000213_mp-stan-lee-tribute-mnchen-pasing_2018.md`
-> • #000213
-> • Slug: `mp-stan-lee-tribute-mnchen-pasing`
+
+
+
+> File: `000213_mp-stan-lee-tribute-mnchen-pasing_2018.md` • #000213 • Slug: `mp-stan-lee-tribute-mnchen-pasing`

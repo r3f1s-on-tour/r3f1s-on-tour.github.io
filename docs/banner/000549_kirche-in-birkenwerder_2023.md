@@ -16,7 +16,7 @@ lengthKMeters: "7,026"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Kirche in Birkenwerder"
 slug: "kirche-in-birkenwerder"
 href: "banner/000549_kirche-in-birkenwerder_2023.md"
@@ -32,9 +32,9 @@ name: "Kirche in Birkenwerder"
 
 ## Details
 - **Distance (km):** 7.03
-- **Missions in banner:** 42
-- **Total missions completed:** 12.174
-- **This is my banner no.:** 549
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Beginne eine Runde durch Birkenwerder und entdecke auf deiner Runde die Wassertr
 
 
 ## Links
-<a href="https://bannergress.com/banner/kirche-in-birkenwerder-c60b" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/kirche-in-birkenwerder-c60b" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000549_kirche-in-birkenwerder_2023.md`
-> • #000549
-> • Slug: `kirche-in-birkenwerder`
+
+> File: `000549_kirche-in-birkenwerder_2023.md` • #000549 • Slug: `kirche-in-birkenwerder`

@@ -16,7 +16,7 @@ lengthKMeters: "9,21"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Pankow Irony"
 slug: "pankow-irony"
 href: "banner/000294_pankow-irony_2020.md"
@@ -32,9 +32,9 @@ name: "Pankow Irony"
 
 ## Details
 - **Distance (km):** 9.21
-- **Missions in banner:** 12
-- **Total missions completed:** 6834
-- **This is my banner no.:** 294
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Diese 12er Missionsreihe beginnt in Pankow und geleitet euch durch den Pankow S�
 
 
 ## Links
-<a href="https://bannergress.com/banner/pankow-irony-cf7e" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/pankow-irony-cf7e" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000294_pankow-irony_2020.md`
-> • #000294
-> • Slug: `pankow-irony`
+
+> File: `000294_pankow-irony_2020.md` • #000294 • Slug: `pankow-irony`

@@ -16,7 +16,7 @@ lengthKMeters: "1,59"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Auf den Spuren des Wasabi"
 slug: "auf-den-spuren-des-wasabi"
 href: "banner/000310_auf-den-spuren-des-wasabi_2021.md"
@@ -32,9 +32,9 @@ name: "Auf den Spuren des Wasabi"
 
 ## Details
 - **Distance (km):** 1.59
-- **Missions in banner:** 6
-- **Total missions completed:** 7260
-- **This is my banner no.:** 310
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Hier im Kiez liegt die Historie des Wasabiphänomens. In verschiedenen Formen er
 
 
 ## Links
-<a href="https://bannergress.com/banner/auf-den-spuren-des-wasabi-0bd1" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/auf-den-spuren-des-wasabi-0bd1" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000310_auf-den-spuren-des-wasabi_2021.md`
-> • #000310
-> • Slug: `auf-den-spuren-des-wasabi`
+
+> File: `000310_auf-den-spuren-des-wasabi_2021.md` • #000310 • Slug: `auf-den-spuren-des-wasabi`

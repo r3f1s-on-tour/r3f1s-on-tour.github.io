@@ -16,7 +16,7 @@ lengthKMeters: "1,67"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "NERV - EVA Units"
 slug: "nerv-eva-units"
 href: "banner/000276_nerv-eva-units_2020.md"
@@ -32,9 +32,9 @@ name: "NERV - EVA Units"
 
 ## Details
 - **Distance (km):** 1.67
-- **Missions in banner:** 6
-- **Total missions completed:** 6456
-- **This is my banner no.:** 276
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Small walk through the neighborhood of famous Berlin Friedrichshain.
 
 
 ## Links
-<a href="https://bannergress.com/banner/nerv-eva-units-4cc8" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/nerv-eva-units-4cc8" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000276_nerv-eva-units_2020.md`
-> • #000276
-> • Slug: `nerv-eva-units`
+
+> File: `000276_nerv-eva-units_2020.md` • #000276 • Slug: `nerv-eva-units`

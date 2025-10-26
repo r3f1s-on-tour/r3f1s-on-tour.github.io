@@ -16,7 +16,7 @@ lengthKMeters: "21,00"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Das Große Wiesn Mosaik Teil 1"
 slug: "das-groe-wiesn-mosaik-teil-1"
 href: "banner/000224_das-groe-wiesn-mosaik-teil-1_2019.md"
@@ -32,9 +32,9 @@ name: "Das Große Wiesn Mosaik Teil 1"
 
 ## Details
 - **Distance (km):** 21.00
-- **Missions in banner:** 48
-- **Total missions completed:** 5400
-- **This is my banner no.:** 224
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Teil 1 der großen Wiesnreihe. Start und Ende an der Theresienwiese. Hälfte der
 
 
 ## Links
-<a href="https://bannergress.com/banner/wiesn-teil-1-d1d4" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/wiesn-teil-1-d1d4" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000224_das-groe-wiesn-mosaik-teil-1_2019.md`
-> • #000224
-> • Slug: `das-groe-wiesn-mosaik-teil-1`
+
+> File: `000224_das-groe-wiesn-mosaik-teil-1_2019.md` • #000224 • Slug: `das-groe-wiesn-mosaik-teil-1`

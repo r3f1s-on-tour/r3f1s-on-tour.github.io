@@ -16,7 +16,7 @@ lengthKMeters: "6,88"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Toast Run Part 2"
 slug: "toast-run-part-2"
 href: "banner/000391_toast-run-part-2_2022.md"
@@ -32,9 +32,9 @@ name: "Toast Run Part 2"
 
 ## Details
 - **Distance (km):** 6.88
-- **Missions in banner:** 24
-- **Total missions completed:** 8.436
-- **This is my banner no.:** 391
+
+
+
 
 
 
@@ -45,6 +45,4 @@ Die Runde führt dich unter anderem an der Havel und dem Schloss entlang.
 
 
 
-> File: `000391_toast-run-part-2_2022.md`
-> • #000391
-> • Slug: `toast-run-part-2`
+> File: `000391_toast-run-part-2_2022.md` • #000391 • Slug: `toast-run-part-2`

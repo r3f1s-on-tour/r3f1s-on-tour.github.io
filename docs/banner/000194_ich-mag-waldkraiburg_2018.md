@@ -16,7 +16,7 @@ lengthKMeters: "4,01"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Ich mag Waldkraiburg"
 slug: "ich-mag-waldkraiburg"
 href: "banner/000194_ich-mag-waldkraiburg_2018.md"
@@ -32,9 +32,9 @@ name: "Ich mag Waldkraiburg"
 
 ## Details
 - **Distance (km):** 4.01
-- **Missions in banner:** 6
-- **Total missions completed:** 4584
-- **This is my banner no.:** 194
+
+
+
 
 
 
@@ -45,10 +45,9 @@ Mission 1: Vom Rathaus Richtung Stadtpark
 
 
 ## Links
-<a href="https://bannergress.com/banner/ich-mag-waldkraiburg-d034" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/ich-mag-waldkraiburg-d034" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000194_ich-mag-waldkraiburg_2018.md`
-> • #000194
-> • Slug: `ich-mag-waldkraiburg`
+
+> File: `000194_ich-mag-waldkraiburg_2018.md` • #000194 • Slug: `ich-mag-waldkraiburg`

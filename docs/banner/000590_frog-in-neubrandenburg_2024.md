@@ -16,7 +16,7 @@ lengthKMeters: "4,795"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Frog in Neubrandenburg"
 slug: "frog-in-neubrandenburg"
 href: "banner/000590_frog-in-neubrandenburg_2024.md"
@@ -32,9 +32,9 @@ name: "Frog in Neubrandenburg"
 
 ## Details
 - **Distance (km):** 4.79
-- **Missions in banner:** 18
-- **Total missions completed:** 13.068
-- **This is my banner no.:** 590
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde die Sehens
 
 
 ## Links
-<a href="https://bannergress.com/banner/frog-in-neubrandenburg-fbd3" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/frog-in-neubrandenburg-fbd3" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000590_frog-in-neubrandenburg_2024.md`
-> • #000590
-> • Slug: `frog-in-neubrandenburg`
+
+> File: `000590_frog-in-neubrandenburg_2024.md` • #000590 • Slug: `frog-in-neubrandenburg`

@@ -16,7 +16,7 @@ lengthKMeters: "1,74"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "All Hallows Toast in Oranienburg"
 slug: "all-hallows-toast-in-oranienburg"
 href: "banner/000324_all-hallows-toast-in-oranienburg_2021.md"
@@ -32,9 +32,9 @@ name: "All Hallows Toast in Oranienburg"
 
 ## Details
 - **Distance (km):** 1.74
-- **Missions in banner:** 6
-- **Total missions completed:** 7470
-- **This is my banner no.:** 324
+
+
+
 
 
 
@@ -46,10 +46,9 @@ Geht am 01.11.2021 offline
 
 
 ## Links
-<a href="https://bannergress.com/banner/all-hallows-toast-in-oranienburg-1b78" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/all-hallows-toast-in-oranienburg-1b78" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000324_all-hallows-toast-in-oranienburg_2021.md`
-> • #000324
-> • Slug: `all-hallows-toast-in-oranienburg`
+
+> File: `000324_all-hallows-toast-in-oranienburg_2021.md` • #000324 • Slug: `all-hallows-toast-in-oranienburg`

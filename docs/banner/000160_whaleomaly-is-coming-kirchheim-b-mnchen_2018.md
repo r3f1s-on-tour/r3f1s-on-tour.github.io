@@ -16,7 +16,7 @@ lengthKMeters: "4,55"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Whaleomaly is Coming [Kirchheim b. München]"
 slug: "whaleomaly-is-coming-kirchheim-b-mnchen"
 href: "banner/000160_whaleomaly-is-coming-kirchheim-b-mnchen_2018.md"
@@ -32,9 +32,9 @@ name: "Whaleomaly is Coming [Kirchheim b. München]"
 
 ## Details
 - **Distance (km):** 4.55
-- **Missions in banner:** 6
-- **Total missions completed:** 3840
-- **This is my banner no.:** 160
+
+
+
 
 
 
@@ -46,10 +46,9 @@ Entdecke Kirchheims Wale! Bring sie mit, damit wir diese bei der Walomalie in Li
 
 
 ## Links
-<a href="https://bannergress.com/banner/whaleomaly-is-coming-kirchheim-b-m%C3%BCnchen-79bc" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/whaleomaly-is-coming-kirchheim-b-m%C3%BCnchen-79bc" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000160_whaleomaly-is-coming-kirchheim-b-mnchen_2018.md`
-> • #000160
-> • Slug: `whaleomaly-is-coming-kirchheim-b-mnchen`
+
+> File: `000160_whaleomaly-is-coming-kirchheim-b-mnchen_2018.md` • #000160 • Slug: `whaleomaly-is-coming-kirchheim-b-mnchen`

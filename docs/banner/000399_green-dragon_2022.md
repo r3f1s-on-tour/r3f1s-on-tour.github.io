@@ -16,7 +16,7 @@ lengthKMeters: "12,00"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Green Dragon"
 slug: "green-dragon"
 href: "banner/000399_green-dragon_2022.md"
@@ -32,9 +32,9 @@ name: "Green Dragon"
 
 ## Details
 - **Distance (km):** 12.00
-- **Missions in banner:** 24
-- **Total missions completed:** 8.556
-- **This is my banner no.:** 399
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Der kleine Drache schlüpft am S+U Bhf Lichtenberg. Begleite ihn Richtung Friedr
 
 
 ## Links
-<a href="https://bannergress.com/banner/green-dragon-70cf" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/green-dragon-70cf" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000399_green-dragon_2022.md`
-> • #000399
-> • Slug: `green-dragon`
+
+> File: `000399_green-dragon_2022.md` • #000399 • Slug: `green-dragon`

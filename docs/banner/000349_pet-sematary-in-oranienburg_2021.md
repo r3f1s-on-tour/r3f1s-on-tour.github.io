@@ -16,7 +16,7 @@ lengthKMeters: "6,05"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Pet Sematary in Oranienburg"
 slug: "pet-sematary-in-oranienburg"
 href: "banner/000349_pet-sematary-in-oranienburg_2021.md"
@@ -32,9 +32,9 @@ name: "Pet Sematary in Oranienburg"
 
 ## Details
 - **Distance (km):** 6.05
-- **Missions in banner:** 18
-- **Total missions completed:** 7842
-- **This is my banner no.:** 349
+
+
+
 
 
 
@@ -44,6 +44,4 @@ Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> File: `000349_pet-sematary-in-oranienburg_2021.md`
-> • #000349
-> • Slug: `pet-sematary-in-oranienburg`
+> File: `000349_pet-sematary-in-oranienburg_2021.md` • #000349 • Slug: `pet-sematary-in-oranienburg`

@@ -16,7 +16,7 @@ lengthKMeters: "3,3"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "St-Patricks-Day"
 slug: "st-patricks-day"
 href: "banner/000555_st-patricks-day_2023.md"
@@ -32,9 +32,9 @@ name: "St-Patricks-Day"
 
 ## Details
 - **Distance (km):** 3.30
-- **Missions in banner:** 6
-- **Total missions completed:** 12.366
-- **This is my banner no.:** 555
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Der Saint Patrick’s Day ist der Gedenktag des irischen Bischofs Patrick, der i
 
 
 ## Links
-<a href="https://bannergress.com/banner/st-patricks-day-9a7a" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/st-patricks-day-9a7a" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000555_st-patricks-day_2023.md`
-> • #000555
-> • Slug: `st-patricks-day`
+
+> File: `000555_st-patricks-day_2023.md` • #000555 • Slug: `st-patricks-day`

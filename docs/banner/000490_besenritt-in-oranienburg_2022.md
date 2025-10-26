@@ -16,7 +16,7 @@ lengthKMeters: "6"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Besenritt in Oranienburg"
 slug: "besenritt-in-oranienburg"
 href: "banner/000490_besenritt-in-oranienburg_2022.md"
@@ -32,9 +32,9 @@ name: "Besenritt in Oranienburg"
 
 ## Details
 - **Distance (km):** 6.00
-- **Missions in banner:** 18
-- **Total missions completed:** 10.530
-- **This is my banner no.:** 490
+
+
+
 
 
 
@@ -44,6 +44,4 @@ Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> File: `000490_besenritt-in-oranienburg_2022.md`
-> • #000490
-> • Slug: `besenritt-in-oranienburg`
+> File: `000490_besenritt-in-oranienburg_2022.md` • #000490 • Slug: `besenritt-in-oranienburg`

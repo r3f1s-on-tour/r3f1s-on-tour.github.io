@@ -16,7 +16,7 @@ lengthKMeters: "9,63"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Schleissheim Postcard"
 slug: "schleissheim-postcard"
 href: "banner/000043_schleissheim-postcard_2016.md"
@@ -32,9 +32,9 @@ name: "Schleissheim Postcard"
 
 ## Details
 - **Distance (km):** 9.63
-- **Missions in banner:** 24
-- **Total missions completed:** 954
-- **This is my banner no.:** 43
+
+
+
 
 
 
@@ -46,10 +46,9 @@ Possible on foot. Bike recommended.
 
 
 ## Links
-<a href="https://bannergress.com/banner/schleissheim-postcard-953e" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/schleissheim-postcard-953e" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000043_schleissheim-postcard_2016.md`
-> • #000043
-> • Slug: `schleissheim-postcard`
+
+> File: `000043_schleissheim-postcard_2016.md` • #000043 • Slug: `schleissheim-postcard`

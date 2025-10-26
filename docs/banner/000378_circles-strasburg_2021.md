@@ -16,7 +16,7 @@ lengthKMeters: "14,99"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Circles Strasburg"
 slug: "circles-strasburg"
 href: "banner/000378_circles-strasburg_2021.md"
@@ -32,9 +32,9 @@ name: "Circles Strasburg"
 
 ## Details
 - **Distance (km):** 14.99
-- **Missions in banner:** 18
-- **Total missions completed:** 8238
-- **This is my banner no.:** 378
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Geh auf Entdeckungstour durch Strasburg.
 
 
 ## Links
-<a href="https://bannergress.com/banner/circles-strasburg-6c75" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/circles-strasburg-6c75" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000378_circles-strasburg_2021.md`
-> • #000378
-> • Slug: `circles-strasburg`
+
+> File: `000378_circles-strasburg_2021.md` • #000378 • Slug: `circles-strasburg`

@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Salzburg Domination Tour"
 slug: "salzburg-domination-tour"
 href: "banner/000149_salzburg-domination-tour_2018.md"
@@ -32,19 +32,18 @@ name: "Salzburg Domination Tour"
 
 ## Details
 
-- **Missions in banner:** 60
-- **Total missions completed:** 3642
-- **This is my banner no.:** 149
+
+
+
 
 
 
 
 
 ## Links
-<a href="https://bannergress.com/banner/salzburg-domination-tour-9711" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/salzburg-domination-tour-9711" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000149_salzburg-domination-tour_2018.md`
-> • #000149
-> • Slug: `salzburg-domination-tour`
+
+> File: `000149_salzburg-domination-tour_2018.md` • #000149 • Slug: `salzburg-domination-tour`

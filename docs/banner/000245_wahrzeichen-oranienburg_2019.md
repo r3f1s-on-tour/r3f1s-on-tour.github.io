@@ -16,7 +16,7 @@ lengthKMeters: "8,98"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Wahrzeichen Oranienburg"
 slug: "wahrzeichen-oranienburg"
 href: "banner/000245_wahrzeichen-oranienburg_2019.md"
@@ -32,9 +32,9 @@ name: "Wahrzeichen Oranienburg"
 
 ## Details
 - **Distance (km):** 8.98
-- **Missions in banner:** 24
-- **Total missions completed:** 5988
-- **This is my banner no.:** 245
+
+
+
 
 
 
@@ -46,10 +46,9 @@ Viel Spaß
 
 
 ## Links
-<a href="https://bannergress.com/banner/wahrzeichen-oranienburg-2a95" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/wahrzeichen-oranienburg-2a95" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000245_wahrzeichen-oranienburg_2019.md`
-> • #000245
-> • Slug: `wahrzeichen-oranienburg`
+
+> File: `000245_wahrzeichen-oranienburg_2019.md` • #000245 • Slug: `wahrzeichen-oranienburg`

@@ -16,7 +16,7 @@ lengthKMeters: "3,06"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Whaleomaly is Coming"
 slug: "whaleomaly-is-coming"
 href: "banner/000158_whaleomaly-is-coming_2018.md"
@@ -32,9 +32,9 @@ name: "Whaleomaly is Coming"
 
 ## Details
 - **Distance (km):** 3.06
-- **Missions in banner:** 6
-- **Total missions completed:** 3816
-- **This is my banner no.:** 158
+
+
+
 
 
 
@@ -46,10 +46,9 @@ Explore Munichs Whales! Take them with you to unite at the Whaleomaly Linz!
 
 
 ## Links
-<a href="https://bannergress.com/banner/whaleomaly-is-coming-4bda" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/whaleomaly-is-coming-4bda" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000158_whaleomaly-is-coming_2018.md`
-> • #000158
-> • Slug: `whaleomaly-is-coming`
+
+> File: `000158_whaleomaly-is-coming_2018.md` • #000158 • Slug: `whaleomaly-is-coming`

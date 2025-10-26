@@ -16,7 +16,7 @@ lengthKMeters: "5,54"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Weihnachten am Chinesischen Turm"
 slug: "weihnachten-am-chinesischen-turm"
 href: "banner/000050_weihnachten-am-chinesischen-turm_2016.md"
@@ -32,9 +32,9 @@ name: "Weihnachten am Chinesischen Turm"
 
 ## Details
 - **Distance (km):** 5.54
-- **Missions in banner:** 24
-- **Total missions completed:** 1164
-- **This is my banner no.:** 50
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Der Chinesische Turm wurde in den Jahren 1789 bis 1790 erbaut und 1792 mit der E
 
 
 ## Links
-<a href="https://bannergress.com/banner/weihnachten-am-chinesischen-turm-46d7" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/weihnachten-am-chinesischen-turm-46d7" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000050_weihnachten-am-chinesischen-turm_2016.md`
-> • #000050
-> • Slug: `weihnachten-am-chinesischen-turm`
+
+> File: `000050_weihnachten-am-chinesischen-turm_2016.md` • #000050 • Slug: `weihnachten-am-chinesischen-turm`

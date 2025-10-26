@@ -16,7 +16,7 @@ lengthKMeters: "5,66"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "rip redacted - stralsund"
 slug: "rip-redacted-stralsund"
 href: "banner/000375_rip-redacted-stralsund_2021.md"
@@ -32,9 +32,9 @@ name: "rip redacted - stralsund"
 
 ## Details
 - **Distance (km):** 5.66
-- **Missions in banner:** 18
-- **Total missions completed:** 8190
-- **This is my banner no.:** 375
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Begebe dich auf eine Entdeckungsreise durch die engen Gassen der Stralsunder Alt
 
 
 ## Links
-<a href="https://bannergress.com/banner/rip-redacted-stralsund-c40f" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/rip-redacted-stralsund-c40f" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000375_rip-redacted-stralsund_2021.md`
-> • #000375
-> • Slug: `rip-redacted-stralsund`
+
+> File: `000375_rip-redacted-stralsund_2021.md` • #000375 • Slug: `rip-redacted-stralsund`

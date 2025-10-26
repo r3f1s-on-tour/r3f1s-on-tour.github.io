@@ -16,7 +16,7 @@ lengthKMeters: "1,259"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Northern Legends"
 slug: "northern-legends"
 href: "banner/000486_northern-legends_2022.md"
@@ -32,9 +32,9 @@ name: "Northern Legends"
 
 ## Details
 - **Distance (km):** 1.26
-- **Missions in banner:** 6
-- **Total missions completed:** 10.488
-- **This is my banner no.:** 486
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Follow your path through the neighborhood of Friedrichshain.
 
 
 ## Links
-<a href="https://bannergress.com/banner/northern-legends-5c88" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/northern-legends-5c88" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000486_northern-legends_2022.md`
-> • #000486
-> • Slug: `northern-legends`
+
+> File: `000486_northern-legends_2022.md` • #000486 • Slug: `northern-legends`

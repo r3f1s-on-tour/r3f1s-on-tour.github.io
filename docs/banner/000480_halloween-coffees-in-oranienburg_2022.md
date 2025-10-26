@@ -16,7 +16,7 @@ lengthKMeters: "1,599"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Halloween Coffees in Oranienburg"
 slug: "halloween-coffees-in-oranienburg"
 href: "banner/000480_halloween-coffees-in-oranienburg_2022.md"
@@ -32,9 +32,9 @@ name: "Halloween Coffees in Oranienburg"
 
 ## Details
 - **Distance (km):** 1.60
-- **Missions in banner:** 6
-- **Total missions completed:** 10.416
-- **This is my banner no.:** 480
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und end
 
 
 ## Links
-<a href="https://bannergress.com/banner/halloween-coffees-in-oranienburg-c369" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/halloween-coffees-in-oranienburg-c369" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000480_halloween-coffees-in-oranienburg_2022.md`
-> • #000480
-> • Slug: `halloween-coffees-in-oranienburg`
+
+> File: `000480_halloween-coffees-in-oranienburg_2022.md` • #000480 • Slug: `halloween-coffees-in-oranienburg`

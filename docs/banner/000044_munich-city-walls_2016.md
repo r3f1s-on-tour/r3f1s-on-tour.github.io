@@ -16,7 +16,7 @@ lengthKMeters: "13,80"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Munich city walls"
 slug: "munich-city-walls"
 href: "banner/000044_munich-city-walls_2016.md"
@@ -32,9 +32,9 @@ name: "Munich city walls"
 
 ## Details
 - **Distance (km):** 13.80
-- **Missions in banner:** 24
-- **Total missions completed:** 978
-- **This is my banner no.:** 44
+
+
+
 
 
 
@@ -44,10 +44,9 @@ In former times Munich had two city walls. Later the town was transformed into a
 
 
 ## Links
-<a href="https://bannergress.com/banner/munich-city-walls-0113" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/munich-city-walls-0113" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000044_munich-city-walls_2016.md`
-> • #000044
-> • Slug: `munich-city-walls`
+
+> File: `000044_munich-city-walls_2016.md` • #000044 • Slug: `munich-city-walls`

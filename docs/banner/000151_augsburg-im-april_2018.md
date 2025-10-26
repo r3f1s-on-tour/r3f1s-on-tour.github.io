@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Augsburg im April"
 slug: "augsburg-im-april"
 href: "banner/000151_augsburg-im-april_2018.md"
@@ -32,15 +32,13 @@ name: "Augsburg im April"
 
 ## Details
 
-- **Missions in banner:** 30
-- **Total missions completed:** 3690
-- **This is my banner no.:** 151
 
 
 
 
 
 
-> File: `000151_augsburg-im-april_2018.md`
-> • #000151
-> • Slug: `augsburg-im-april`
+
+
+
+> File: `000151_augsburg-im-april_2018.md` • #000151 • Slug: `augsburg-im-april`

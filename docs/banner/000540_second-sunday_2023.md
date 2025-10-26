@@ -16,7 +16,7 @@ lengthKMeters: "2,132"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Second Sunday"
 slug: "second-sunday"
 href: "banner/000540_second-sunday_2023.md"
@@ -32,9 +32,9 @@ name: "Second Sunday"
 
 ## Details
 - **Distance (km):** 2.13
-- **Missions in banner:** 6
-- **Total missions completed:** 11.964
-- **This is my banner no.:** 540
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Second Sunday im Oktober 2022 in Neubrandenburg
 
 
 ## Links
-<a href="https://bannergress.com/banner/second-sunday-2075" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/second-sunday-2075" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000540_second-sunday_2023.md`
-> • #000540
-> • Slug: `second-sunday`
+
+> File: `000540_second-sunday_2023.md` • #000540 • Slug: `second-sunday`

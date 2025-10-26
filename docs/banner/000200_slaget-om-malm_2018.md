@@ -16,7 +16,7 @@ lengthKMeters: "2,56"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Slaget om Malmö"
 slug: "slaget-om-malm"
 href: "banner/000200_slaget-om-malm_2018.md"
@@ -32,9 +32,9 @@ name: "Slaget om Malmö"
 
 ## Details
 - **Distance (km):** 2.56
-- **Missions in banner:** 6
-- **Total missions completed:** 4674
-- **This is my banner no.:** 200
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Sista kriget mellan Sverige och Danmark var i slutet av 1600-talet. Då hade det
 
 
 ## Links
-<a href="https://bannergress.com/banner/slaget-om-malm%C3%B6-8c4a" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/slaget-om-malm%C3%B6-8c4a" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000200_slaget-om-malm_2018.md`
-> • #000200
-> • Slug: `slaget-om-malm`
+
+> File: `000200_slaget-om-malm_2018.md` • #000200 • Slug: `slaget-om-malm`

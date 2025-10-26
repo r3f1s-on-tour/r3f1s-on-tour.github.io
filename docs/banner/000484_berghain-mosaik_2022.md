@@ -16,7 +16,7 @@ lengthKMeters: "6,629"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Berghain Mosaik"
 slug: "berghain-mosaik"
 href: "banner/000484_berghain-mosaik_2022.md"
@@ -32,9 +32,9 @@ name: "Berghain Mosaik"
 
 ## Details
 - **Distance (km):** 6.63
-- **Missions in banner:** 18
-- **Total missions completed:** 10.452
-- **This is my banner no.:** 484
+
+
+
 
 
 
@@ -46,10 +46,9 @@ You will get some further information about Berghain during your trip.
 
 
 ## Links
-<a href="https://bannergress.com/banner/berghain-mosaik-2102" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/berghain-mosaik-2102" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000484_berghain-mosaik_2022.md`
-> • #000484
-> • Slug: `berghain-mosaik`
+
+> File: `000484_berghain-mosaik_2022.md` • #000484 • Slug: `berghain-mosaik`

@@ -16,7 +16,7 @@ lengthKMeters: "91,63"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Münchner Maibaum"
 slug: "mnchner-maibaum"
 href: "banner/000210_mnchner-maibaum_2018.md"
@@ -32,9 +32,9 @@ name: "Münchner Maibaum"
 
 ## Details
 - **Distance (km):** 91.63
-- **Missions in banner:** 216
-- **Total missions completed:** 5112
-- **This is my banner no.:** 210
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Das große Maibaum Mosaik startet am Maibaum am Viktualienmarkt und führt uns i
 
 
 ## Links
-<a href="https://bannergress.com/banner/m%C3%BCnchner-maibaum-062e" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/m%C3%BCnchner-maibaum-062e" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000210_mnchner-maibaum_2018.md`
-> • #000210
-> • Slug: `mnchner-maibaum`
+
+> File: `000210_mnchner-maibaum_2018.md` • #000210 • Slug: `mnchner-maibaum`

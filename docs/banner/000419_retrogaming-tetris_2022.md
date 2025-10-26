@@ -16,7 +16,7 @@ lengthKMeters: "3,57"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "RetroGaming - Tetris"
 slug: "retrogaming-tetris"
 href: "banner/000419_retrogaming-tetris_2022.md"
@@ -32,9 +32,9 @@ name: "RetroGaming - Tetris"
 
 ## Details
 - **Distance (km):** 3.57
-- **Missions in banner:** 6
-- **Total missions completed:** 8.748
-- **This is my banner no.:** 419
+
+
+
 
 
 
@@ -44,6 +44,4 @@ Starte am Markt eine Entdeckungsreise durch die Stadt Strasburg Uckermark und en
 
 
 
-> File: `000419_retrogaming-tetris_2022.md`
-> • #000419
-> • Slug: `retrogaming-tetris`
+> File: `000419_retrogaming-tetris_2022.md` • #000419 • Slug: `retrogaming-tetris`

@@ -16,7 +16,7 @@ lengthKMeters: "13,97"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Vendetta in Oranienburg"
 slug: "vendetta-in-oranienburg"
 href: "banner/000341_vendetta-in-oranienburg_2021.md"
@@ -32,9 +32,9 @@ name: "Vendetta in Oranienburg"
 
 ## Details
 - **Distance (km):** 13.97
-- **Missions in banner:** 30
-- **Total missions completed:** 7734
-- **This is my banner no.:** 341
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Starte eine Vendetta in Oranienburg und mache ein Tour durch die Stadt. Die Tour
 
 
 ## Links
-<a href="https://bannergress.com/banner/vendetta-in-oranienburg-a9ef" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/vendetta-in-oranienburg-a9ef" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000341_vendetta-in-oranienburg_2021.md`
-> • #000341
-> • Slug: `vendetta-in-oranienburg`
+
+> File: `000341_vendetta-in-oranienburg_2021.md` • #000341 • Slug: `vendetta-in-oranienburg`

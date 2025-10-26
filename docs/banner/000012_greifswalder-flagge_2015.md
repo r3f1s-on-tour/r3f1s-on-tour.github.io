@@ -16,7 +16,7 @@ lengthKMeters: "12,22"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Greifswalder Flagge"
 slug: "greifswalder-flagge"
 href: "banner/000012_greifswalder-flagge_2015.md"
@@ -32,9 +32,9 @@ name: "Greifswalder Flagge"
 
 ## Details
 - **Distance (km):** 12.22
-- **Missions in banner:** 18
-- **Total missions completed:** 240
-- **This is my banner no.:** 12
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Zeige Flagge für die einzigartige Universitäts- und Hansestadt Greifswald! Die
 
 
 ## Links
-<a href="https://bannergress.com/banner/greifswalder-flagge-efe8" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/greifswalder-flagge-efe8" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000012_greifswalder-flagge_2015.md`
-> • #000012
-> • Slug: `greifswalder-flagge`
+
+> File: `000012_greifswalder-flagge_2015.md` • #000012 • Slug: `greifswalder-flagge`

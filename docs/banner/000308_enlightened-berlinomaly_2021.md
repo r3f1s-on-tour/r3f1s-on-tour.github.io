@@ -16,7 +16,7 @@ lengthKMeters: "12,02"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Enlightened Berlinomaly"
 slug: "enlightened-berlinomaly"
 href: "banner/000308_enlightened-berlinomaly_2021.md"
@@ -32,9 +32,9 @@ name: "Enlightened Berlinomaly"
 
 ## Details
 - **Distance (km):** 12.02
-- **Missions in banner:** 36
-- **Total missions completed:** 7242
-- **This is my banner no.:** 308
+
+
+
 
 
 
@@ -46,10 +46,9 @@ This mission starts at S Friedrichstrasse.
 
 
 ## Links
-<a href="https://bannergress.com/banner/enlightened-berlinomaly-a9fd" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/enlightened-berlinomaly-a9fd" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000308_enlightened-berlinomaly_2021.md`
-> • #000308
-> • Slug: `enlightened-berlinomaly`
+
+> File: `000308_enlightened-berlinomaly_2021.md` • #000308 • Slug: `enlightened-berlinomaly`

@@ -16,7 +16,7 @@ lengthKMeters: "5,64"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Speicherstadt Mosaik"
 slug: "speicherstadt-mosaik"
 href: "banner/000016_speicherstadt-mosaik_2015.md"
@@ -32,9 +32,9 @@ name: "Speicherstadt Mosaik"
 
 ## Details
 - **Distance (km):** 5.64
-- **Missions in banner:** 18
-- **Total missions completed:** 312
-- **This is my banner no.:** 16
+
+
+
 
 
 
@@ -45,10 +45,9 @@ Location: Hamburg Germany
 
 
 ## Links
-<a href="https://bannergress.com/banner/speicherstadt-mosaik-a9bd" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/speicherstadt-mosaik-a9bd" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000016_speicherstadt-mosaik_2015.md`
-> • #000016
-> • Slug: `speicherstadt-mosaik`
+
+> File: `000016_speicherstadt-mosaik_2015.md` • #000016 • Slug: `speicherstadt-mosaik`

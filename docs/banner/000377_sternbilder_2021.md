@@ -16,7 +16,7 @@ lengthKMeters: "3,47"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Sternbilder"
 slug: "sternbilder"
 href: "banner/000377_sternbilder_2021.md"
@@ -32,9 +32,9 @@ name: "Sternbilder"
 
 ## Details
 - **Distance (km):** 3.47
-- **Missions in banner:** 12
-- **Total missions completed:** 8220
-- **This is my banner no.:** 377
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Besucht die Stadt am Strelasund. Als Belohnung erwarten euch die 12 Sternzeichen
 
 
 ## Links
-<a href="https://bannergress.com/banner/sternbilder-1139" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/sternbilder-1139" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000377_sternbilder_2021.md`
-> • #000377
-> • Slug: `sternbilder`
+
+> File: `000377_sternbilder_2021.md` • #000377 • Slug: `sternbilder`

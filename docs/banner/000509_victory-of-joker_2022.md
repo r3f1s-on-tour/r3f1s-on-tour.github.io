@@ -16,7 +16,7 @@ lengthKMeters: "6,081"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Victory of Joker"
 slug: "victory-of-joker"
 href: "banner/000509_victory-of-joker_2022.md"
@@ -32,9 +32,9 @@ name: "Victory of Joker"
 
 ## Details
 - **Distance (km):** 6.08
-- **Missions in banner:** 24
-- **Total missions completed:** 10.860
-- **This is my banner no.:** 509
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Capture die Innenstadt von Wuppertal/Elberfeld. Am besten bringst du viele burst
 
 
 ## Links
-<a href="https://bannergress.com/banner/victory-of-joker-bbb4" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/victory-of-joker-bbb4" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000509_victory-of-joker_2022.md`
-> • #000509
-> • Slug: `victory-of-joker`
+
+> File: `000509_victory-of-joker_2022.md` • #000509 • Slug: `victory-of-joker`

@@ -16,7 +16,7 @@ lengthKMeters: "2,13"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Second Sunday in Oranienburg"
 slug: "second-sunday-in-oranienburg"
 href: "banner/000340_second-sunday-in-oranienburg_2021.md"
@@ -32,9 +32,9 @@ name: "Second Sunday in Oranienburg"
 
 ## Details
 - **Distance (km):** 2.13
-- **Missions in banner:** 6
-- **Total missions completed:** 7704
-- **This is my banner no.:** 340
+
+
+
 
 
 
@@ -46,10 +46,9 @@ Geht am 17.11.2021 offline
 
 
 ## Links
-<a href="https://bannergress.com/banner/second-sunday-in-oranienburg-8c7a" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/second-sunday-in-oranienburg-8c7a" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000340_second-sunday-in-oranienburg_2021.md`
-> • #000340
-> • Slug: `second-sunday-in-oranienburg`
+
+> File: `000340_second-sunday-in-oranienburg_2021.md` • #000340 • Slug: `second-sunday-in-oranienburg`

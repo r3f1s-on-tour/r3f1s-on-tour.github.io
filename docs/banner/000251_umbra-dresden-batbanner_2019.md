@@ -16,7 +16,7 @@ lengthKMeters: "6,13"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Umbra Dresden Batbanner"
 slug: "umbra-dresden-batbanner"
 href: "banner/000251_umbra-dresden-batbanner_2019.md"
@@ -32,9 +32,9 @@ name: "Umbra Dresden Batbanner"
 
 ## Details
 - **Distance (km):** 6.13
-- **Missions in banner:** 18
-- **Total missions completed:** 6084
-- **This is my banner no.:** 251
+
+
+
 
 
 
@@ -44,10 +44,9 @@ These 18 (or if you choose so 12) missions will take you straight to the place o
 
 
 ## Links
-<a href="https://bannergress.com/banner/umbra-dresden-batbanner-579e" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/umbra-dresden-batbanner-579e" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000251_umbra-dresden-batbanner_2019.md`
-> • #000251
-> • Slug: `umbra-dresden-batbanner`
+
+> File: `000251_umbra-dresden-batbanner_2019.md` • #000251 • Slug: `umbra-dresden-batbanner`

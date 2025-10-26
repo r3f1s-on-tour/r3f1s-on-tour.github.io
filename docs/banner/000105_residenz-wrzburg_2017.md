@@ -16,7 +16,7 @@ lengthKMeters: "5,92"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Residenz Würzburg"
 slug: "residenz-wrzburg"
 href: "banner/000105_residenz-wrzburg_2017.md"
@@ -32,9 +32,9 @@ name: "Residenz Würzburg"
 
 ## Details
 - **Distance (km):** 5.92
-- **Missions in banner:** 18
-- **Total missions completed:** 2682
-- **This is my banner no.:** 105
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Besuche die ehemalige Residenz der Würzburger Fürstbischöfe. Mosaik Mission. 
 
 
 ## Links
-<a href="https://bannergress.com/banner/residenz-w%C3%BCrzburg-7c43" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/residenz-w%C3%BCrzburg-7c43" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000105_residenz-wrzburg_2017.md`
-> • #000105
-> • Slug: `residenz-wrzburg`
+
+> File: `000105_residenz-wrzburg_2017.md` • #000105 • Slug: `residenz-wrzburg`

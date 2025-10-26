@@ -16,7 +16,7 @@ lengthKMeters: "3,806"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Feldzug durch Bonn"
 slug: "feldzug-durch-bonn"
 href: "banner/000512_feldzug-durch-bonn_2022.md"
@@ -32,9 +32,9 @@ name: "Feldzug durch Bonn"
 
 ## Details
 - **Distance (km):** 3.81
-- **Missions in banner:** 18
-- **Total missions completed:** 10.902
-- **This is my banner no.:** 512
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Diese Missionsreihe führt durch Bonn. Vom Hauptbahnhof über den alten Friedhof
 
 
 ## Links
-<a href="https://bannergress.com/banner/feldzug-durch-bonn-8bf0" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/feldzug-durch-bonn-8bf0" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000512_feldzug-durch-bonn_2022.md`
-> • #000512
-> • Slug: `feldzug-durch-bonn`
+
+> File: `000512_feldzug-durch-bonn_2022.md` • #000512 • Slug: `feldzug-durch-bonn`

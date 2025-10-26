@@ -16,7 +16,7 @@ lengthKMeters: "5,14"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Middle Earth Brews"
 slug: "middle-earth-brews"
 href: "banner/000295_middle-earth-brews_2020.md"
@@ -32,9 +32,9 @@ name: "Middle Earth Brews"
 
 ## Details
 - **Distance (km):** 5.14
-- **Missions in banner:** 12
-- **Total missions completed:** 6846
-- **This is my banner no.:** 295
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Entdeckungsrunde vom Schäfersee zum Volkspark Rehberge
 
 
 ## Links
-<a href="https://bannergress.com/banner/middle-earth-brews-f9b6" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/middle-earth-brews-f9b6" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000295_middle-earth-brews_2020.md`
-> • #000295
-> • Slug: `middle-earth-brews`
+
+> File: `000295_middle-earth-brews_2020.md` • #000295 • Slug: `middle-earth-brews`

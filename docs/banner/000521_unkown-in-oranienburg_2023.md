@@ -16,7 +16,7 @@ lengthKMeters: "1,29"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Unkown in Oranienburg"
 slug: "unkown-in-oranienburg"
 href: "banner/000521_unkown-in-oranienburg_2023.md"
@@ -32,9 +32,9 @@ name: "Unkown in Oranienburg"
 
 ## Details
 - **Distance (km):** 1.29
-- **Missions in banner:** 6
-- **Total missions completed:** 11.004
-- **This is my banner no.:** 521
+
+
+
 
 
 
@@ -44,6 +44,4 @@ Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> File: `000521_unkown-in-oranienburg_2023.md`
-> • #000521
-> • Slug: `unkown-in-oranienburg`
+> File: `000521_unkown-in-oranienburg_2023.md` • #000521 • Slug: `unkown-in-oranienburg`

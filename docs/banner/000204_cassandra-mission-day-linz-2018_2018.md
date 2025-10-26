@@ -16,7 +16,7 @@ lengthKMeters: "21,33"
 umap: ""
 missionDay: "1"
 notice: ""
-trip: ""
+Trips: ""
 title: "Cassandra Mission Day Linz 2018"
 slug: "cassandra-mission-day-linz-2018"
 href: "banner/000204_cassandra-mission-day-linz-2018_2018.md"
@@ -32,9 +32,9 @@ name: "Cassandra Mission Day Linz 2018"
 
 ## Details
 - **Distance (km):** 21.33
-- **Missions in banner:** 6
-- **Total missions completed:** 4776
-- **This is my banner no.:** 204
+
+
+
 - **Mission Day:** Yes
 
 
@@ -44,10 +44,9 @@ Discover Linz through missions!
 
 
 ## Links
-<a href="https://bannergress.com/banner/cassandra-md-linz-5ee3" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/cassandra-md-linz-5ee3" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000204_cassandra-mission-day-linz-2018_2018.md`
-> • #000204
-> • Slug: `cassandra-mission-day-linz-2018`
+
+> File: `000204_cassandra-mission-day-linz-2018_2018.md` • #000204 • Slug: `cassandra-mission-day-linz-2018`

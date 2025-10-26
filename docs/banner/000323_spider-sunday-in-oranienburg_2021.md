@@ -16,7 +16,7 @@ lengthKMeters: "2,00"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Spider Sunday in Oranienburg"
 slug: "spider-sunday-in-oranienburg"
 href: "banner/000323_spider-sunday-in-oranienburg_2021.md"
@@ -32,9 +32,9 @@ name: "Spider Sunday in Oranienburg"
 
 ## Details
 - **Distance (km):** 2.00
-- **Missions in banner:** 6
-- **Total missions completed:** 7464
-- **This is my banner no.:** 323
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Mache eine kleine Tour durch Oranienburg und starte am Bahnhof
 
 
 ## Links
-<a href="https://bannergress.com/banner/spider-sunday-in-oranienburg-67de" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/spider-sunday-in-oranienburg-67de" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000323_spider-sunday-in-oranienburg_2021.md`
-> • #000323
-> • Slug: `spider-sunday-in-oranienburg`
+
+> File: `000323_spider-sunday-in-oranienburg_2021.md` • #000323 • Slug: `spider-sunday-in-oranienburg`

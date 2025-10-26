@@ -16,7 +16,7 @@ lengthKMeters: "2,32"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "I Love München"
 slug: "i-love-mnchen"
 href: "banner/000024_i-love-mnchen_2016.md"
@@ -32,9 +32,9 @@ name: "I Love München"
 
 ## Details
 - **Distance (km):** 2.32
-- **Missions in banner:** 6
-- **Total missions completed:** 426
-- **This is my banner no.:** 24
+
+
+
 
 
 
@@ -44,10 +44,9 @@ I love München.
 
 
 ## Links
-<a href="https://bannergress.com/banner/m%C3%BCnchen-c9f9" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/m%C3%BCnchen-c9f9" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000024_i-love-mnchen_2016.md`
-> • #000024
-> • Slug: `i-love-mnchen`
+
+> File: `000024_i-love-mnchen_2016.md` • #000024 • Slug: `i-love-mnchen`

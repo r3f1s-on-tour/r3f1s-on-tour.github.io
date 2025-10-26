@@ -16,7 +16,7 @@ lengthKMeters: "2"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Deifel in Neubrandenburg"
 slug: "deifel-in-neubrandenburg"
 href: "banner/000492_deifel-in-neubrandenburg_2022.md"
@@ -32,9 +32,9 @@ name: "Deifel in Neubrandenburg"
 
 ## Details
 - **Distance (km):** 2.00
-- **Missions in banner:** 6
-- **Total missions completed:** 10.542
-- **This is my banner no.:** 492
+
+
+
 
 
 
@@ -44,6 +44,4 @@ Starte am Rathaus einen Rundgang und entdecke Neubrandenburg. Auf deinem Abenteu
 
 
 
-> File: `000492_deifel-in-neubrandenburg_2022.md`
-> • #000492
-> • Slug: `deifel-in-neubrandenburg`
+> File: `000492_deifel-in-neubrandenburg_2022.md` • #000492 • Slug: `deifel-in-neubrandenburg`

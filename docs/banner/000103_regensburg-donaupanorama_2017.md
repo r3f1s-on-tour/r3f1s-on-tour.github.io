@@ -16,7 +16,7 @@ lengthKMeters: "8,61"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Regensburg Donaupanorama"
 slug: "regensburg-donaupanorama"
 href: "banner/000103_regensburg-donaupanorama_2017.md"
@@ -32,9 +32,9 @@ name: "Regensburg Donaupanorama"
 
 ## Details
 - **Distance (km):** 8.61
-- **Missions in banner:** 24
-- **Total missions completed:** 2652
-- **This is my banner no.:** 103
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Erlebe unsere wunderschöne Stadt an der Donau durch einen schönen Spaziergang!
 
 
 ## Links
-<a href="https://bannergress.com/banner/regensburg-donaupanorama-8a3d" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/regensburg-donaupanorama-8a3d" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000103_regensburg-donaupanorama_2017.md`
-> • #000103
-> • Slug: `regensburg-donaupanorama`
+
+> File: `000103_regensburg-donaupanorama_2017.md` • #000103 • Slug: `regensburg-donaupanorama`

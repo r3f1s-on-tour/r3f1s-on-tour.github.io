@@ -16,7 +16,7 @@ lengthKMeters: "4,64"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Szczecin Dźwigozaury"
 slug: "szczecin-dwigozaury"
 href: "banner/000437_szczecin-dwigozaury_2022.md"
@@ -32,9 +32,9 @@ name: "Szczecin Dźwigozaury"
 
 ## Details
 - **Distance (km):** 4.64
-- **Missions in banner:** 18
-- **Total missions completed:** 9.114
-- **This is my banner no.:** 437
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Szczecin Dźwigozaury
 
 
 ## Links
-<a href="https://bannergress.com/banner/szczecin-d%C5%BAwigozaury-1ed0" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/szczecin-d%C5%BAwigozaury-1ed0" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000437_szczecin-dwigozaury_2022.md`
-> • #000437
-> • Slug: `szczecin-dwigozaury`
+
+> File: `000437_szczecin-dwigozaury_2022.md` • #000437 • Slug: `szczecin-dwigozaury`

@@ -16,7 +16,7 @@ lengthKMeters: "10,84"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Holzkirchen"
 slug: "holzkirchen"
 href: "banner/000212_holzkirchen_2018.md"
@@ -32,9 +32,9 @@ name: "Holzkirchen"
 
 ## Details
 - **Distance (km):** 10.84
-- **Missions in banner:** 36
-- **Total missions completed:** 5172
-- **This is my banner no.:** 212
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Erfülle alle Missionen in der richtigen Reihenfolge um das Holzkirchner Wappen 
 
 
 ## Links
-<a href="https://bannergress.com/banner/holzkirchen-773c" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/holzkirchen-773c" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000212_holzkirchen_2018.md`
-> • #000212
-> • Slug: `holzkirchen`
+
+> File: `000212_holzkirchen_2018.md` • #000212 • Slug: `holzkirchen`

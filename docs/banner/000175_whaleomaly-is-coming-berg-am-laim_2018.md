@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Whaleomaly is Coming [Berg am Laim]"
 slug: "whaleomaly-is-coming-berg-am-laim"
 href: "banner/000175_whaleomaly-is-coming-berg-am-laim_2018.md"
@@ -32,15 +32,13 @@ name: "Whaleomaly is Coming [Berg am Laim]"
 
 ## Details
 
-- **Missions in banner:** 6
-- **Total missions completed:** 4188
-- **This is my banner no.:** 175
 
 
 
 
 
 
-> File: `000175_whaleomaly-is-coming-berg-am-laim_2018.md`
-> • #000175
-> • Slug: `whaleomaly-is-coming-berg-am-laim`
+
+
+
+> File: `000175_whaleomaly-is-coming-berg-am-laim_2018.md` • #000175 • Slug: `whaleomaly-is-coming-berg-am-laim`

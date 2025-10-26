@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Frühlingsspaziergang"
 slug: "frhlingsspaziergang"
 href: "banner/000156_frhlingsspaziergang_2018.md"
@@ -32,15 +32,13 @@ name: "Frühlingsspaziergang"
 
 ## Details
 
-- **Missions in banner:** 24
-- **Total missions completed:** 3786
-- **This is my banner no.:** 156
 
 
 
 
 
 
-> File: `000156_frhlingsspaziergang_2018.md`
-> • #000156
-> • Slug: `frhlingsspaziergang`
+
+
+
+> File: `000156_frhlingsspaziergang_2018.md` • #000156 • Slug: `frhlingsspaziergang`

@@ -16,7 +16,7 @@ lengthKMeters: "25,94"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Munich resists!"
 slug: "munich-resists"
 href: "banner/000090_munich-resists_2017.md"
@@ -32,9 +32,9 @@ name: "Munich resists!"
 
 ## Details
 - **Distance (km):** 25.94
-- **Missions in banner:** 66
-- **Total missions completed:** 2364
-- **This is my banner no.:** 90
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Sei kein Frosch - und folge dem Weg des Widerstands durch die bayerische Landesh
 
 
 ## Links
-<a href="https://bannergress.com/banner/munich-resists-aa8d" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/munich-resists-aa8d" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000090_munich-resists_2017.md`
-> • #000090
-> • Slug: `munich-resists`
+
+> File: `000090_munich-resists_2017.md` • #000090 • Slug: `munich-resists`

@@ -16,7 +16,7 @@ lengthKMeters: "7,33"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Fire Fighter Schwedt"
 slug: "fire-fighter-schwedt"
 href: "banner/000398_fire-fighter-schwedt_2022.md"
@@ -32,9 +32,9 @@ name: "Fire Fighter Schwedt"
 
 ## Details
 - **Distance (km):** 7.33
-- **Missions in banner:** 18
-- **Total missions completed:** 8.532
-- **This is my banner no.:** 398
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Eine Runde durch Schwedt wird belohnt mit diesem tollen Banner.
 
 
 ## Links
-<a href="https://bannergress.com/banner/fire-fighter-schwedt-ff04" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/fire-fighter-schwedt-ff04" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000398_fire-fighter-schwedt_2022.md`
-> • #000398
-> • Slug: `fire-fighter-schwedt`
+
+> File: `000398_fire-fighter-schwedt_2022.md` • #000398 • Slug: `fire-fighter-schwedt`

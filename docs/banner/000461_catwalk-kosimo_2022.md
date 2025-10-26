@@ -16,7 +16,7 @@ lengthKMeters: "6,862"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Catwalk Kosimo"
 slug: "catwalk-kosimo"
 href: "banner/000461_catwalk-kosimo_2022.md"
@@ -32,9 +32,9 @@ name: "Catwalk Kosimo"
 
 ## Details
 - **Distance (km):** 6.86
-- **Missions in banner:** 18
-- **Total missions completed:** 9.552
-- **This is my banner no.:** 461
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Join my cat Kosimo on a journey of discovery from S+U Lichtenberg to Friedrichsf
 
 
 ## Links
-<a href="https://bannergress.com/banner/catwalk-kosimo-55e1" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/catwalk-kosimo-55e1" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000461_catwalk-kosimo_2022.md`
-> • #000461
-> • Slug: `catwalk-kosimo`
+
+> File: `000461_catwalk-kosimo_2022.md` • #000461 • Slug: `catwalk-kosimo`

@@ -16,7 +16,7 @@ lengthKMeters: "2,89"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Dresdner Zwinger"
 slug: "dresdner-zwinger"
 href: "banner/000249_dresdner-zwinger_2019.md"
@@ -32,9 +32,9 @@ name: "Dresdner Zwinger"
 
 ## Details
 - **Distance (km):** 2.89
-- **Missions in banner:** 12
-- **Total missions completed:** 6048
-- **This is my banner no.:** 249
+
+
+
 
 
 
@@ -47,10 +47,9 @@ Teil 1 von 12
 
 
 ## Links
-<a href="https://bannergress.com/banner/dresdner-zwinger-eab9" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/dresdner-zwinger-eab9" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000249_dresdner-zwinger_2019.md`
-> • #000249
-> • Slug: `dresdner-zwinger`
+
+> File: `000249_dresdner-zwinger_2019.md` • #000249 • Slug: `dresdner-zwinger`

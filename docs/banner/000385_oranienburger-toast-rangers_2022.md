@@ -16,7 +16,7 @@ lengthKMeters: "1,59"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Oranienburger Toast Rangers"
 slug: "oranienburger-toast-rangers"
 href: "banner/000385_oranienburger-toast-rangers_2022.md"
@@ -32,9 +32,9 @@ name: "Oranienburger Toast Rangers"
 
 ## Details
 - **Distance (km):** 1.59
-- **Missions in banner:** 6
-- **Total missions completed:** 8310
-- **This is my banner no.:** 385
+
+
+
 
 
 
@@ -44,6 +44,4 @@ Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und end
 
 
 
-> File: `000385_oranienburger-toast-rangers_2022.md`
-> • #000385
-> • Slug: `oranienburger-toast-rangers`
+> File: `000385_oranienburger-toast-rangers_2022.md` • #000385 • Slug: `oranienburger-toast-rangers`

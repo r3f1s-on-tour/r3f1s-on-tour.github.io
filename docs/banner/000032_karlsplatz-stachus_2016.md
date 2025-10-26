@@ -16,7 +16,7 @@ lengthKMeters: "6,14"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Karlsplatz Stachus"
 slug: "karlsplatz-stachus"
 href: "banner/000032_karlsplatz-stachus_2016.md"
@@ -32,9 +32,9 @@ name: "Karlsplatz Stachus"
 
 ## Details
 - **Distance (km):** 6.14
-- **Missions in banner:** 24
-- **Total missions completed:** 648
-- **This is my banner no.:** 32
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Der Karlsplatz liegt an einer Stelle, über die im Mittelalter die Salzstraße f
 
 
 ## Links
-<a href="https://bannergress.com/banner/karlsplatz-stachus-a1a8" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/karlsplatz-stachus-a1a8" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000032_karlsplatz-stachus_2016.md`
-> • #000032
-> • Slug: `karlsplatz-stachus`
+
+> File: `000032_karlsplatz-stachus_2016.md` • #000032 • Slug: `karlsplatz-stachus`

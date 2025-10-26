@@ -16,7 +16,7 @@ lengthKMeters: "2,49"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Whaleomaly is Coming [Kloster Fürstenfeld]"
 slug: "whaleomaly-is-coming-kloster-frstenfeld"
 href: "banner/000178_whaleomaly-is-coming-kloster-frstenfeld_2018.md"
@@ -32,9 +32,9 @@ name: "Whaleomaly is Coming [Kloster Fürstenfeld]"
 
 ## Details
 - **Distance (km):** 2.49
-- **Missions in banner:** 6
-- **Total missions completed:** 4254
-- **This is my banner no.:** 178
+
+
+
 
 
 
@@ -45,10 +45,9 @@ Explore the Whales of Kloster Fürstenfeld! Take them with you to unite at the W
 
 
 ## Links
-<a href="https://bannergress.com/banner/whaleomaly-is-coming-kloster-f%C3%BCrstenfeld-4826" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/whaleomaly-is-coming-kloster-f%C3%BCrstenfeld-4826" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000178_whaleomaly-is-coming-kloster-frstenfeld_2018.md`
-> • #000178
-> • Slug: `whaleomaly-is-coming-kloster-frstenfeld`
+
+> File: `000178_whaleomaly-is-coming-kloster-frstenfeld_2018.md` • #000178 • Slug: `whaleomaly-is-coming-kloster-frstenfeld`

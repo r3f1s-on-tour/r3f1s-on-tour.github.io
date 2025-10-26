@@ -16,7 +16,7 @@ lengthKMeters: "4,55"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Zombie Apokalypse"
 slug: "zombie-apokalypse"
 href: "banner/000054_zombie-apokalypse_2017.md"
@@ -32,9 +32,9 @@ name: "Zombie Apokalypse"
 
 ## Details
 - **Distance (km):** 4.55
-- **Missions in banner:** 12
-- **Total missions completed:** 1236
-- **This is my banner no.:** 54
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Zombies überrennen die Stadt. Versuche zu entkommen und durchquere die Altstadt
 
 
 ## Links
-<a href="https://bannergress.com/banner/zombie-apokalypse-8e27" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/zombie-apokalypse-8e27" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000054_zombie-apokalypse_2017.md`
-> • #000054
-> • Slug: `zombie-apokalypse`
+
+> File: `000054_zombie-apokalypse_2017.md` • #000054 • Slug: `zombie-apokalypse`

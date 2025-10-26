@@ -16,7 +16,7 @@ lengthKMeters: "14,77"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "EXO5BERLIN West"
 slug: "exo5berlin-west"
 href: "banner/000307_exo5berlin-west_2021.md"
@@ -32,9 +32,9 @@ name: "EXO5BERLIN West"
 
 ## Details
 - **Distance (km):** 14.77
-- **Missions in banner:** 48
-- **Total missions completed:** 7206
-- **This is my banner no.:** 307
+
+
+
 
 
 
@@ -44,10 +44,9 @@ This mission banner will show you famous places in Berlin city west. The first m
 
 
 ## Links
-<a href="https://bannergress.com/banner/exo5berlin-west-4c82" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/exo5berlin-west-4c82" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000307_exo5berlin-west_2021.md`
-> • #000307
-> • Slug: `exo5berlin-west`
+
+> File: `000307_exo5berlin-west_2021.md` • #000307 • Slug: `exo5berlin-west`

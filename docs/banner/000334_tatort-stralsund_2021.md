@@ -16,7 +16,7 @@ lengthKMeters: "6,10"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Tatort Stralsund"
 slug: "tatort-stralsund"
 href: "banner/000334_tatort-stralsund_2021.md"
@@ -32,9 +32,9 @@ name: "Tatort Stralsund"
 
 ## Details
 - **Distance (km):** 6.10
-- **Missions in banner:** 18
-- **Total missions completed:** 7644
-- **This is my banner no.:** 334
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Wir starten am Tatort Brunnenaue.
 
 
 ## Links
-<a href="https://bannergress.com/banner/tatort-stralsund-b5f9" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/tatort-stralsund-b5f9" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000334_tatort-stralsund_2021.md`
-> • #000334
-> • Slug: `tatort-stralsund`
+
+> File: `000334_tatort-stralsund_2021.md` • #000334 • Slug: `tatort-stralsund`

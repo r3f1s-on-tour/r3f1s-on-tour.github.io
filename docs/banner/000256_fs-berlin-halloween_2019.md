@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "FS Berlin Halloween"
 slug: "fs-berlin-halloween"
 href: "banner/000256_fs-berlin-halloween_2019.md"
@@ -32,15 +32,13 @@ name: "FS Berlin Halloween"
 
 ## Details
 
-- **Missions in banner:** 6
-- **Total missions completed:** 6162
-- **This is my banner no.:** 256
 
 
 
 
 
 
-> File: `000256_fs-berlin-halloween_2019.md`
-> • #000256
-> • Slug: `fs-berlin-halloween`
+
+
+
+> File: `000256_fs-berlin-halloween_2019.md` • #000256 • Slug: `fs-berlin-halloween`

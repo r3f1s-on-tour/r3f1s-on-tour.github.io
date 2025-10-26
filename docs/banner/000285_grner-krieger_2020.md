@@ -16,7 +16,7 @@ lengthKMeters: "15,59"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Grüner Krieger"
 slug: "grner-krieger"
 href: "banner/000285_grner-krieger_2020.md"
@@ -32,9 +32,9 @@ name: "Grüner Krieger"
 
 ## Details
 - **Distance (km):** 15.59
-- **Missions in banner:** 54
-- **Total missions completed:** 6684
-- **This is my banner no.:** 285
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Erkunde die Stadt München ab dem Karlsplatz durch die Maxvorstadt bis zum Haupt
 
 
 ## Links
-<a href="https://bannergress.com/banner/gr%C3%BCner-krieger-5ab5" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/gr%C3%BCner-krieger-5ab5" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000285_grner-krieger_2020.md`
-> • #000285
-> • Slug: `grner-krieger`
+
+> File: `000285_grner-krieger_2020.md` • #000285 • Slug: `grner-krieger`

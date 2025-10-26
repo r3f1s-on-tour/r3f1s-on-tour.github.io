@@ -16,7 +16,7 @@ lengthKMeters: "5,756"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Ohara Koson Birds"
 slug: "ohara-koson-birds"
 href: "banner/000554_ohara-koson-birds_2023.md"
@@ -32,9 +32,9 @@ name: "Ohara Koson Birds"
 
 ## Details
 - **Distance (km):** 5.76
-- **Missions in banner:** 96
-- **Total missions completed:** 12.360
-- **This is my banner no.:** 554
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde Sehenswür
 
 
 ## Links
-<a href="https://bannergress.com/banner/second-sunday-bird-in-neubrandenburg-fff5" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/second-sunday-bird-in-neubrandenburg-fff5" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000554_ohara-koson-birds_2023.md`
-> • #000554
-> • Slug: `ohara-koson-birds`
+
+> File: `000554_ohara-koson-birds_2023.md` • #000554 • Slug: `ohara-koson-birds`

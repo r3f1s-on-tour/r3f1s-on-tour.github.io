@@ -16,7 +16,7 @@ lengthKMeters: "11,11"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Der Greif von Mecklenburg"
 slug: "der-greif-von-mecklenburg"
 href: "banner/000027_der-greif-von-mecklenburg_2016.md"
@@ -32,9 +32,9 @@ name: "Der Greif von Mecklenburg"
 
 ## Details
 - **Distance (km):** 11.11
-- **Missions in banner:** 48
-- **Total missions completed:** 516
-- **This is my banner no.:** 27
+
+
+
 
 
 
@@ -45,10 +45,9 @@ solltet ihr zu schnell gehackt haben kann es zum Schluss des Mosaik knapp werden
 
 
 ## Links
-<a href="https://bannergress.com/banner/der-greif-von-mecklenburg-49aa" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/der-greif-von-mecklenburg-49aa" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000027_der-greif-von-mecklenburg_2016.md`
-> • #000027
-> • Slug: `der-greif-von-mecklenburg`
+
+> File: `000027_der-greif-von-mecklenburg_2016.md` • #000027 • Slug: `der-greif-von-mecklenburg`

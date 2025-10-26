@@ -16,7 +16,7 @@ lengthKMeters: "3,41"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Munich city walk"
 slug: "munich-city-walk"
 href: "banner/000287_munich-city-walk_2020.md"
@@ -32,9 +32,9 @@ name: "Munich city walk"
 
 ## Details
 - **Distance (km):** 3.41
-- **Missions in banner:** 12
-- **Total missions completed:** 6702
-- **This is my banner no.:** 287
+
+
+
 
 
 
@@ -44,10 +44,9 @@ A short walk in the inner city. Start east of Marienplatz.
 
 
 ## Links
-<a href="https://bannergress.com/banner/munich-city-walk-bb17" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/munich-city-walk-bb17" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000287_munich-city-walk_2020.md`
-> • #000287
-> • Slug: `munich-city-walk`
+
+> File: `000287_munich-city-walk_2020.md` • #000287 • Slug: `munich-city-walk`

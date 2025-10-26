@@ -16,7 +16,7 @@ lengthKMeters: "15,82"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Berlin musikalisch"
 slug: "berlin-musikalisch"
 href: "banner/000302_berlin-musikalisch_2021.md"
@@ -32,9 +32,9 @@ name: "Berlin musikalisch"
 
 ## Details
 - **Distance (km):** 15.82
-- **Missions in banner:** 48
-- **Total missions completed:** 7062
-- **This is my banner no.:** 302
+
+
+
 
 
 
@@ -45,10 +45,9 @@ Zwei der besten Konzertlocations in Berlin.
 
 
 ## Links
-<a href="https://bannergress.com/banner/berlin-musikalisch-5b7d" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/berlin-musikalisch-5b7d" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000302_berlin-musikalisch_2021.md`
-> • #000302
-> • Slug: `berlin-musikalisch`
+
+> File: `000302_berlin-musikalisch_2021.md` • #000302 • Slug: `berlin-musikalisch`

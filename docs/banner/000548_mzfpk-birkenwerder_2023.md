@@ -16,7 +16,7 @@ lengthKMeters: "0,926"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "MZFPK-Birkenwerder"
 slug: "mzfpk-birkenwerder"
 href: "banner/000548_mzfpk-birkenwerder_2023.md"
@@ -32,9 +32,9 @@ name: "MZFPK-Birkenwerder"
 
 ## Details
 - **Distance (km):** 0.93
-- **Missions in banner:** 6
-- **Total missions completed:** 12.132
-- **This is my banner no.:** 548
+
+
+
 
 
 
@@ -45,10 +45,9 @@ Builder.Enginer-Hacker-Purifier-Translator-Trekker
 
 
 ## Links
-<a href="https://bannergress.com/banner/mzfpk-birkenwerder-20c4" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/mzfpk-birkenwerder-20c4" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000548_mzfpk-birkenwerder_2023.md`
-> • #000548
-> • Slug: `mzfpk-birkenwerder`
+
+> File: `000548_mzfpk-birkenwerder_2023.md` • #000548 • Slug: `mzfpk-birkenwerder`

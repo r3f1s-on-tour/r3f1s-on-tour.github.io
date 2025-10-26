@@ -16,7 +16,7 @@ lengthKMeters: "4,15"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Frankfurter Tor"
 slug: "frankfurter-tor"
 href: "banner/000243_frankfurter-tor_2019.md"
@@ -32,9 +32,9 @@ name: "Frankfurter Tor"
 
 ## Details
 - **Distance (km):** 4.15
-- **Missions in banner:** 12
-- **Total missions completed:** 5814
-- **This is my banner no.:** 243
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Das Frankfurter Tor ist heute ein Platz im Berliner Ortsteil Friedrichshain am �
 
 
 ## Links
-<a href="https://bannergress.com/banner/frankfurter-tor-940b" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/frankfurter-tor-940b" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000243_frankfurter-tor_2019.md`
-> • #000243
-> • Slug: `frankfurter-tor`
+
+> File: `000243_frankfurter-tor_2019.md` • #000243 • Slug: `frankfurter-tor`

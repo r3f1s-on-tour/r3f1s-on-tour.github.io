@@ -16,7 +16,7 @@ lengthKMeters: "3,37"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Heppenheimer Mosaik"
 slug: "heppenheimer-mosaik"
 href: "banner/000135_heppenheimer-mosaik_2018.md"
@@ -32,9 +32,9 @@ name: "Heppenheimer Mosaik"
 
 ## Details
 - **Distance (km):** 3.37
-- **Missions in banner:** 12
-- **Total missions completed:** 3264
-- **This is my banner no.:** 135
+
+
+
 
 
 
@@ -45,10 +45,9 @@ Wenn die Missionen in richtiger Reihenfolge durchgeführt werden fügt sich ein 
 
 
 ## Links
-<a href="https://bannergress.com/banner/heppenheimer-mosaik-9793" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/heppenheimer-mosaik-9793" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000135_heppenheimer-mosaik_2018.md`
-> • #000135
-> • Slug: `heppenheimer-mosaik`
+
+> File: `000135_heppenheimer-mosaik_2018.md` • #000135 • Slug: `heppenheimer-mosaik`

@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Here Be Dragons - Dragomaly"
 slug: "here-be-dragons-dragomaly"
 href: "banner/000208_here-be-dragons-dragomaly_2018.md"
@@ -32,19 +32,18 @@ name: "Here Be Dragons - Dragomaly"
 
 ## Details
 
-- **Missions in banner:** 30
-- **Total missions completed:** 4860
-- **This is my banner no.:** 208
+
+
+
 
 
 
 
 
 ## Links
-<a href="https://bannergress.com/banner/here-be-dragons-a7a8" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/here-be-dragons-a7a8" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000208_here-be-dragons-dragomaly_2018.md`
-> • #000208
-> • Slug: `here-be-dragons-dragomaly`
+
+> File: `000208_here-be-dragons-dragomaly_2018.md` • #000208 • Slug: `here-be-dragons-dragomaly`

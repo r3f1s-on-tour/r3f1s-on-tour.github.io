@@ -16,7 +16,7 @@ lengthKMeters: "1,619"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Happy Penguins"
 slug: "happy-penguins"
 href: "banner/000585_happy-penguins_2023.md"
@@ -32,9 +32,9 @@ name: "Happy Penguins"
 
 ## Details
 - **Distance (km):** 1.62
-- **Missions in banner:** 6
-- **Total missions completed:** 13.008
-- **This is my banner no.:** 585
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Weihnachtliche Pinguine verstecken sich am Dresdner Elbufer. Kannst du sie finde
 
 
 ## Links
-<a href="https://bannergress.com/banner/happy-penguins-d971" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/happy-penguins-d971" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000585_happy-penguins_2023.md`
-> • #000585
-> • Slug: `happy-penguins`
+
+> File: `000585_happy-penguins_2023.md` • #000585 • Slug: `happy-penguins`

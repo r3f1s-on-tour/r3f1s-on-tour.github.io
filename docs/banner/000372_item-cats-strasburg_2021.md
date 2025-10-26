@@ -16,7 +16,7 @@ lengthKMeters: "6,56"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Item Cats Strasburg"
 slug: "item-cats-strasburg"
 href: "banner/000372_item-cats-strasburg_2021.md"
@@ -32,9 +32,9 @@ name: "Item Cats Strasburg"
 
 ## Details
 - **Distance (km):** 6.56
-- **Missions in banner:** 12
-- **Total missions completed:** 8160
-- **This is my banner no.:** 372
+
+
+
 
 
 
@@ -46,10 +46,9 @@ Banner geht am 26.12.2012 offline
 
 
 ## Links
-<a href="https://bannergress.com/banner/item-cats-strasburg-69b2" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/item-cats-strasburg-69b2" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000372_item-cats-strasburg_2021.md`
-> • #000372
-> • Slug: `item-cats-strasburg`
+
+> File: `000372_item-cats-strasburg_2021.md` • #000372 • Slug: `item-cats-strasburg`

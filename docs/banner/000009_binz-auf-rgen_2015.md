@@ -16,7 +16,7 @@ lengthKMeters: "9,08"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Binz auf Rügen"
 slug: "binz-auf-rgen"
 href: "banner/000009_binz-auf-rgen_2015.md"
@@ -32,9 +32,9 @@ name: "Binz auf Rügen"
 
 ## Details
 - **Distance (km):** 9.08
-- **Missions in banner:** 18
-- **Total missions completed:** 198
-- **This is my banner no.:** 9
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Besonderer Anziehungspunkt ist die 3,2 km lange Strandpromenade mit zahlreichen 
 
 
 ## Links
-<a href="https://bannergress.com/banner/binz-auf-r%C3%BCgen-2ec3" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/binz-auf-r%C3%BCgen-2ec3" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000009_binz-auf-rgen_2015.md`
-> • #000009
-> • Slug: `binz-auf-rgen`
+
+> File: `000009_binz-auf-rgen_2015.md` • #000009 • Slug: `binz-auf-rgen`

@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Marx is calling you - Berlin"
 slug: "marx-is-calling-you-berlin"
 href: "banner/000612_marx-is-calling-you-berlin_2025.md"
@@ -32,19 +32,18 @@ name: "Marx is calling you - Berlin"
 
 ## Details
 
-- **Missions in banner:** 6
-- **Total missions completed:** 13.416
-- **This is my banner no.:** 612
+
+
+
 
 
 
 
 
 ## Links
-<a href="https://bannergress.com/banner/marx-is-calling-you-berlin-6c02" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/marx-is-calling-you-berlin-6c02" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000612_marx-is-calling-you-berlin_2025.md`
-> • #000612
-> • Slug: `marx-is-calling-you-berlin`
+
+> File: `000612_marx-is-calling-you-berlin_2025.md` • #000612 • Slug: `marx-is-calling-you-berlin`

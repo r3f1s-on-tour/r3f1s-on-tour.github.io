@@ -16,7 +16,7 @@ lengthKMeters: "7,29"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Brauereien Prenzlauer Berg"
 slug: "brauereien-prenzlauer-berg"
 href: "banner/000290_brauereien-prenzlauer-berg_2020.md"
@@ -32,9 +32,9 @@ name: "Brauereien Prenzlauer Berg"
 
 ## Details
 - **Distance (km):** 7.29
-- **Missions in banner:** 12
-- **Total missions completed:** 6744
-- **This is my banner no.:** 290
+
+
+
 
 
 
@@ -45,10 +45,9 @@ Ein Spaziergang durch den Prenzlauer Berg an 12 ehemaligen Brauereien vorbei. In
 
 
 ## Links
-<a href="https://bannergress.com/banner/brauereien-prenzlauer-berg-deac" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/brauereien-prenzlauer-berg-deac" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000290_brauereien-prenzlauer-berg_2020.md`
-> • #000290
-> • Slug: `brauereien-prenzlauer-berg`
+
+> File: `000290_brauereien-prenzlauer-berg_2020.md` • #000290 • Slug: `brauereien-prenzlauer-berg`

@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Whaleomaly is Coming [Eching]"
 slug: "whaleomaly-is-coming-eching"
 href: "banner/000168_whaleomaly-is-coming-eching_2018.md"
@@ -32,19 +32,18 @@ name: "Whaleomaly is Coming [Eching]"
 
 ## Details
 
-- **Missions in banner:** 6
-- **Total missions completed:** 4098
-- **This is my banner no.:** 168
+
+
+
 
 
 
 
 
 ## Links
-<a href="https://bannergress.com/banner/whaleomaly-is-coming-7628" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/whaleomaly-is-coming-7628" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000168_whaleomaly-is-coming-eching_2018.md`
-> • #000168
-> • Slug: `whaleomaly-is-coming-eching`
+
+> File: `000168_whaleomaly-is-coming-eching_2018.md` • #000168 • Slug: `whaleomaly-is-coming-eching`

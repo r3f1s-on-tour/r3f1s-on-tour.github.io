@@ -16,7 +16,7 @@ lengthKMeters: "1,64"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Frog Evolution in Oranienburg"
 slug: "frog-evolution-in-oranienburg"
 href: "banner/000352_frog-evolution-in-oranienburg_2021.md"
@@ -32,9 +32,9 @@ name: "Frog Evolution in Oranienburg"
 
 ## Details
 - **Distance (km):** 1.64
-- **Missions in banner:** 6
-- **Total missions completed:** 7884
-- **This is my banner no.:** 352
+
+
+
 
 
 
@@ -44,6 +44,4 @@ Mache eine kleine Tour durch Oranienburg und hole dir die Frog Evolution ins Pro
 
 
 
-> File: `000352_frog-evolution-in-oranienburg_2021.md`
-> • #000352
-> • Slug: `frog-evolution-in-oranienburg`
+> File: `000352_frog-evolution-in-oranienburg_2021.md` • #000352 • Slug: `frog-evolution-in-oranienburg`

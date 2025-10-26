@@ -16,7 +16,7 @@ lengthKMeters: "8,57"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Green Galaxy Men in Oranienburg"
 slug: "green-galaxy-men-in-oranienburg"
 href: "banner/000443_green-galaxy-men-in-oranienburg_2022.md"
@@ -32,9 +32,9 @@ name: "Green Galaxy Men in Oranienburg"
 
 ## Details
 - **Distance (km):** 8.57
-- **Missions in banner:** 24
-- **Total missions completed:** 9.192
-- **This is my banner no.:** 443
+
+
+
 
 
 
@@ -44,6 +44,4 @@ Starte in der Bernauer Straße eine Reise durch Galaxie und entdecke den Ursprun
 
 
 
-> File: `000443_green-galaxy-men-in-oranienburg_2022.md`
-> • #000443
-> • Slug: `green-galaxy-men-in-oranienburg`
+> File: `000443_green-galaxy-men-in-oranienburg_2022.md` • #000443 • Slug: `green-galaxy-men-in-oranienburg`

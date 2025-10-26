@@ -16,7 +16,7 @@ lengthKMeters: "5,00"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Catwalk Flummi"
 slug: "catwalk-flummi"
 href: "banner/000401_catwalk-flummi_2022.md"
@@ -32,9 +32,9 @@ name: "Catwalk Flummi"
 
 ## Details
 - **Distance (km):** 5.00
-- **Missions in banner:** 18
-- **Total missions completed:** 8.592
-- **This is my banner no.:** 401
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Begleite Flummi auf einen Entdeckungsstreifzug vom S+U Lichtenberg nach Friedric
 
 
 ## Links
-<a href="https://bannergress.com/banner/catwalk-flummi-13fb" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/catwalk-flummi-13fb" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000401_catwalk-flummi_2022.md`
-> • #000401
-> • Slug: `catwalk-flummi`
+
+> File: `000401_catwalk-flummi_2022.md` • #000401 • Slug: `catwalk-flummi`

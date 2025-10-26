@@ -16,7 +16,7 @@ lengthKMeters: "5,35"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Museumsinsel"
 slug: "museumsinsel"
 href: "banner/000406_museumsinsel_2022.md"
@@ -32,9 +32,9 @@ name: "Museumsinsel"
 
 ## Details
 - **Distance (km):** 5.35
-- **Missions in banner:** 24
-- **Total missions completed:** 8.670
-- **This is my banner no.:** 406
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Das Bode-Museum ist Bestandteil des Bauensembles der Museumsinsel und Weltkultur
 
 
 ## Links
-<a href="https://bannergress.com/banner/museumsinsel-1d09" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/museumsinsel-1d09" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000406_museumsinsel_2022.md`
-> • #000406
-> • Slug: `museumsinsel`
+
+> File: `000406_museumsinsel_2022.md` • #000406 • Slug: `museumsinsel`

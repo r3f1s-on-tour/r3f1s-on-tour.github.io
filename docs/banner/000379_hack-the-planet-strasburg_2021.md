@@ -16,7 +16,7 @@ lengthKMeters: "14,08"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Hack the planet - Strasburg"
 slug: "hack-the-planet-strasburg"
 href: "banner/000379_hack-the-planet-strasburg_2021.md"
@@ -32,9 +32,9 @@ name: "Hack the planet - Strasburg"
 
 ## Details
 - **Distance (km):** 14.08
-- **Missions in banner:** 18
-- **Total missions completed:** 8256
-- **This is my banner no.:** 379
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Erkunde die Stadt Strasburg.
 
 
 ## Links
-<a href="https://bannergress.com/banner/hack-the-planet-strasburg-a0fd" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/hack-the-planet-strasburg-a0fd" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000379_hack-the-planet-strasburg_2021.md`
-> • #000379
-> • Slug: `hack-the-planet-strasburg`
+
+> File: `000379_hack-the-planet-strasburg_2021.md` • #000379 • Slug: `hack-the-planet-strasburg`

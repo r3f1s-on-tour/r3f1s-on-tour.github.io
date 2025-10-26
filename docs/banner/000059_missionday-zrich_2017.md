@@ -16,7 +16,7 @@ lengthKMeters: "20,03"
 umap: ""
 missionDay: "1"
 notice: ""
-trip: ""
+Trips: ""
 title: "MissionDay Zürich"
 slug: "missionday-zrich"
 href: "banner/000059_missionday-zrich_2017.md"
@@ -32,19 +32,18 @@ name: "MissionDay Zürich"
 
 ## Details
 - **Distance (km):** 20.03
-- **Missions in banner:** 24
-- **Total missions completed:** 1344
-- **This is my banner no.:** 59
+
+
+
 - **Mission Day:** Yes
 
 
 
 
 ## Links
-<a href="https://bannergress.com/banner/md-z%C3%BCrich-32cc" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/md-z%C3%BCrich-32cc" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000059_missionday-zrich_2017.md`
-> • #000059
-> • Slug: `missionday-zrich`
+
+> File: `000059_missionday-zrich_2017.md` • #000059 • Slug: `missionday-zrich`

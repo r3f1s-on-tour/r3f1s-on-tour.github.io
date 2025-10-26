@@ -16,7 +16,7 @@ lengthKMeters: "5,48"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Semperoper in Dresden"
 slug: "semperoper-in-dresden"
 href: "banner/000250_semperoper-in-dresden_2019.md"
@@ -32,9 +32,9 @@ name: "Semperoper in Dresden"
 
 ## Details
 - **Distance (km):** 5.48
-- **Missions in banner:** 18
-- **Total missions completed:** 6066
-- **This is my banner no.:** 250
+
+
+
 
 
 
@@ -44,10 +44,9 @@ The Semperoper is the opera house of the Sächsische Staatsoper Dresden (Saxon S
 
 
 ## Links
-<a href="https://bannergress.com/banner/semperoper-in-dresden-53d2" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/semperoper-in-dresden-53d2" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000250_semperoper-in-dresden_2019.md`
-> • #000250
-> • Slug: `semperoper-in-dresden`
+
+> File: `000250_semperoper-in-dresden_2019.md` • #000250 • Slug: `semperoper-in-dresden`

@@ -16,7 +16,7 @@ lengthKMeters: "2,45"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "2nd Sunday - May 4th be with you - Berlin"
 slug: "2nd-sunday-may-4th-be-with-you-berlin"
 href: "banner/000446_2nd-sunday-may-4th-be-with-you-berlin_2022.md"
@@ -32,9 +32,9 @@ name: "2nd Sunday - May 4th be with you - Berlin"
 
 ## Details
 - **Distance (km):** 2.45
-- **Missions in banner:** 6
-- **Total missions completed:** 9.246
-- **This is my banner no.:** 446
+
+
+
 
 
 
@@ -45,6 +45,4 @@ This graphic is submitted / accepted around the Globe in different cities
 
 
 
-> File: `000446_2nd-sunday-may-4th-be-with-you-berlin_2022.md`
-> • #000446
-> • Slug: `2nd-sunday-may-4th-be-with-you-berlin`
+> File: `000446_2nd-sunday-may-4th-be-with-you-berlin_2022.md` • #000446 • Slug: `2nd-sunday-may-4th-be-with-you-berlin`

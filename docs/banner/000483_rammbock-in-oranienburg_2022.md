@@ -16,7 +16,7 @@ lengthKMeters: "1,599"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Rammbock in Oranienburg"
 slug: "rammbock-in-oranienburg"
 href: "banner/000483_rammbock-in-oranienburg_2022.md"
@@ -32,9 +32,9 @@ name: "Rammbock in Oranienburg"
 
 ## Details
 - **Distance (km):** 1.60
-- **Missions in banner:** 6
-- **Total missions completed:** 10.434
-- **This is my banner no.:** 483
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und end
 
 
 ## Links
-<a href="https://bannergress.com/banner/rammbock-in-oranienburg-1b23" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/rammbock-in-oranienburg-1b23" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000483_rammbock-in-oranienburg_2022.md`
-> • #000483
-> • Slug: `rammbock-in-oranienburg`
+
+> File: `000483_rammbock-in-oranienburg_2022.md` • #000483 • Slug: `rammbock-in-oranienburg`

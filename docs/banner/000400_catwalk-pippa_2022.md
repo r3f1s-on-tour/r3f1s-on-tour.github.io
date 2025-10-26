@@ -16,7 +16,7 @@ lengthKMeters: "5,00"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Catwalk Pippa"
 slug: "catwalk-pippa"
 href: "banner/000400_catwalk-pippa_2022.md"
@@ -32,9 +32,9 @@ name: "Catwalk Pippa"
 
 ## Details
 - **Distance (km):** 5.00
-- **Missions in banner:** 18
-- **Total missions completed:** 8.574
-- **This is my banner no.:** 400
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Begleite Pippa auf einen Entdeckungsstreifzug vom S+U Lichtenberg nach Friedrich
 
 
 ## Links
-<a href="https://bannergress.com/banner/catwalk-pippa-9bcd" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/catwalk-pippa-9bcd" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000400_catwalk-pippa_2022.md`
-> • #000400
-> • Slug: `catwalk-pippa`
+
+> File: `000400_catwalk-pippa_2022.md` • #000400 • Slug: `catwalk-pippa`

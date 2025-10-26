@@ -16,7 +16,7 @@ lengthKMeters: "2,79"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Feuerschwert Tour durch Strasburg"
 slug: "feuerschwert-tour-durch-strasburg"
 href: "banner/000364_feuerschwert-tour-durch-strasburg_2021.md"
@@ -32,9 +32,9 @@ name: "Feuerschwert Tour durch Strasburg"
 
 ## Details
 - **Distance (km):** 2.79
-- **Missions in banner:** 6
-- **Total missions completed:** 8010
-- **This is my banner no.:** 364
+
+
+
 
 
 
@@ -44,6 +44,4 @@ Mache eine Entdeckungsrunde durch Strasburg und hole dir ein Feuerschwert ins PR
 
 
 
-> File: `000364_feuerschwert-tour-durch-strasburg_2021.md`
-> • #000364
-> • Slug: `feuerschwert-tour-durch-strasburg`
+> File: `000364_feuerschwert-tour-durch-strasburg_2021.md` • #000364 • Slug: `feuerschwert-tour-durch-strasburg`

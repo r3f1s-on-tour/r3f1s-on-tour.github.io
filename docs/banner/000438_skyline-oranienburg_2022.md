@@ -16,7 +16,7 @@ lengthKMeters: "2,88"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Skyline Oranienburg"
 slug: "skyline-oranienburg"
 href: "banner/000438_skyline-oranienburg_2022.md"
@@ -32,9 +32,9 @@ name: "Skyline Oranienburg"
 
 ## Details
 - **Distance (km):** 2.88
-- **Missions in banner:** 12
-- **Total missions completed:** 9.126
-- **This is my banner no.:** 438
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Nimm Dir Zeit auf Deiner Reise durch Oranienburg. Die Tour beginnt in der Bernau
 
 
 ## Links
-<a href="https://bannergress.com/banner/skyline-oranienburg-a993" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/skyline-oranienburg-a993" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000438_skyline-oranienburg_2022.md`
-> • #000438
-> • Slug: `skyline-oranienburg`
+
+> File: `000438_skyline-oranienburg_2022.md` • #000438 • Slug: `skyline-oranienburg`

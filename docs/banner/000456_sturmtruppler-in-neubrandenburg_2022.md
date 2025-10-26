@@ -16,7 +16,7 @@ lengthKMeters: "30,217"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Sturmtruppler in Neubrandenburg"
 slug: "sturmtruppler-in-neubrandenburg"
 href: "banner/000456_sturmtruppler-in-neubrandenburg_2022.md"
@@ -32,9 +32,9 @@ name: "Sturmtruppler in Neubrandenburg"
 
 ## Details
 - **Distance (km):** 30.22
-- **Missions in banner:** 48
-- **Total missions completed:** 9.474
-- **This is my banner no.:** 456
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Erkunde Neubrandenburg. Die Mission beginnt am Bahnhof, führt durch den Kulturp
 
 
 ## Links
-<a href="https://bannergress.com/banner/sturmtruppler-in-neubrandenburg-ff30" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/sturmtruppler-in-neubrandenburg-ff30" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000456_sturmtruppler-in-neubrandenburg_2022.md`
-> • #000456
-> • Slug: `sturmtruppler-in-neubrandenburg`
+
+> File: `000456_sturmtruppler-in-neubrandenburg_2022.md` • #000456 • Slug: `sturmtruppler-in-neubrandenburg`

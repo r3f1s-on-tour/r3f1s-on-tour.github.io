@@ -16,7 +16,7 @@ lengthKMeters: "6,278"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Ägyptisches Totengericht"
 slug: "gyptisches-totengericht"
 href: "banner/000485_gyptisches-totengericht_2022.md"
@@ -32,9 +32,9 @@ name: "Ägyptisches Totengericht"
 
 ## Details
 - **Distance (km):** 6.28
-- **Missions in banner:** 18
-- **Total missions completed:** 10.482
-- **This is my banner no.:** 485
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Betritt die Halle der vollständigen Wahrheit und lasse dein Herz wiegen.
 
 
 ## Links
-<a href="https://bannergress.com/banner/%C3%A4gyptisches-totengericht-17af" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/%C3%A4gyptisches-totengericht-17af" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000485_gyptisches-totengericht_2022.md`
-> • #000485
-> • Slug: `gyptisches-totengericht`
+
+> File: `000485_gyptisches-totengericht_2022.md` • #000485 • Slug: `gyptisches-totengericht`

@@ -16,7 +16,7 @@ lengthKMeters: "17,46"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Mit der 25 nach Grünwald"
 slug: "mit-der-25-nach-grnwald"
 href: "banner/000081_mit-der-25-nach-grnwald_2017.md"
@@ -32,9 +32,9 @@ name: "Mit der 25 nach Grünwald"
 
 ## Details
 - **Distance (km):** 17.46
-- **Missions in banner:** 18
-- **Total missions completed:** 2160
-- **This is my banner no.:** 81
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Vom Max-Weber-Platz mit der Tram 25 nach Grünwald. Am Ende kann in Grünwald no
 
 
 ## Links
-<a href="https://bannergress.com/banner/mit-der-25-nach-gr%C3%BCnwald-1b1f" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/mit-der-25-nach-gr%C3%BCnwald-1b1f" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000081_mit-der-25-nach-grnwald_2017.md`
-> • #000081
-> • Slug: `mit-der-25-nach-grnwald`
+
+> File: `000081_mit-der-25-nach-grnwald_2017.md` • #000081 • Slug: `mit-der-25-nach-grnwald`

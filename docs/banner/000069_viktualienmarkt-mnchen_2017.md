@@ -16,7 +16,7 @@ lengthKMeters: "7,60"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Viktualienmarkt München"
 slug: "viktualienmarkt-mnchen"
 href: "banner/000069_viktualienmarkt-mnchen_2017.md"
@@ -32,9 +32,9 @@ name: "Viktualienmarkt München"
 
 ## Details
 - **Distance (km):** 7.60
-- **Missions in banner:** 24
-- **Total missions completed:** 1614
-- **This is my banner no.:** 69
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Der Viktualienmarkt am heutigen Ort entstand aus der Verlegung des alten Münchn
 
 
 ## Links
-<a href="https://bannergress.com/banner/viktualienmarkt-m%C3%BCnchen-14f4" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/viktualienmarkt-m%C3%BCnchen-14f4" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000069_viktualienmarkt-mnchen_2017.md`
-> • #000069
-> • Slug: `viktualienmarkt-mnchen`
+
+> File: `000069_viktualienmarkt-mnchen_2017.md` • #000069 • Slug: `viktualienmarkt-mnchen`

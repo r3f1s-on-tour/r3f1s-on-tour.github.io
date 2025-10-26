@@ -16,7 +16,7 @@ lengthKMeters: "24,03"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Green Unicorn"
 slug: "green-unicorn"
 href: "banner/000329_green-unicorn_2021.md"
@@ -32,9 +32,9 @@ name: "Green Unicorn"
 
 ## Details
 - **Distance (km):** 24.03
-- **Missions in banner:** 36
-- **Total missions completed:** 7548
-- **This is my banner no.:** 329
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Die Missionen führen durch die Grünanlagen von Neubrandenburg. Dabei sieht man
 
 
 ## Links
-<a href="https://bannergress.com/banner/green-unicorn-3bef" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/green-unicorn-3bef" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000329_green-unicorn_2021.md`
-> • #000329
-> • Slug: `green-unicorn`
+
+> File: `000329_green-unicorn_2021.md` • #000329 • Slug: `green-unicorn`

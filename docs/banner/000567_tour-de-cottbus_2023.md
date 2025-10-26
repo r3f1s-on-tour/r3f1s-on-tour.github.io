@@ -16,7 +16,7 @@ lengthKMeters: "16,661"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Tour de Cottbus"
 slug: "tour-de-cottbus"
 href: "banner/000567_tour-de-cottbus_2023.md"
@@ -32,9 +32,9 @@ name: "Tour de Cottbus"
 
 ## Details
 - **Distance (km):** 16.66
-- **Missions in banner:** 24
-- **Total missions completed:** 12.552
-- **This is my banner no.:** 567
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Etappe 1 von 24 beginnt am Wahrzeichen von Cottbus und ist eine Runde um den  Sp
 
 
 ## Links
-<a href="https://bannergress.com/banner/tour-de-cottbus-f2cd" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/tour-de-cottbus-f2cd" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000567_tour-de-cottbus_2023.md`
-> • #000567
-> • Slug: `tour-de-cottbus`
+
+> File: `000567_tour-de-cottbus_2023.md` • #000567 • Slug: `tour-de-cottbus`

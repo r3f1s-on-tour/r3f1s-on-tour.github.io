@@ -16,7 +16,7 @@ lengthKMeters: "11,39"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Stadtwappen Dachau"
 slug: "stadtwappen-dachau"
 href: "banner/000076_stadtwappen-dachau_2017.md"
@@ -32,9 +32,9 @@ name: "Stadtwappen Dachau"
 
 ## Details
 - **Distance (km):** 11.39
-- **Missions in banner:** 24
-- **Total missions completed:** 2070
-- **This is my banner no.:** 76
+
+
+
 
 
 
@@ -47,10 +47,9 @@ In rememberance of liberation Dachau's concentration camp.
 
 
 ## Links
-<a href="https://bannergress.com/banner/stadtwappen-dachau-b0c1" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/stadtwappen-dachau-b0c1" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000076_stadtwappen-dachau_2017.md`
-> • #000076
-> • Slug: `stadtwappen-dachau`
+
+> File: `000076_stadtwappen-dachau_2017.md` • #000076 • Slug: `stadtwappen-dachau`

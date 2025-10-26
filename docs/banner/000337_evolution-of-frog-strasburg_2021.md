@@ -16,7 +16,7 @@ lengthKMeters: "3,17"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Evolution of Frog - Strasburg"
 slug: "evolution-of-frog-strasburg"
 href: "banner/000337_evolution-of-frog-strasburg_2021.md"
@@ -32,9 +32,9 @@ name: "Evolution of Frog - Strasburg"
 
 ## Details
 - **Distance (km):** 3.17
-- **Missions in banner:** 6
-- **Total missions completed:** 7662
-- **This is my banner no.:** 337
+
+
+
 
 
 
@@ -46,10 +46,9 @@ Geht am 08.11.2021 offline
 
 
 ## Links
-<a href="https://bannergress.com/banner/evolution-of-frog-strasburg-f93f" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/evolution-of-frog-strasburg-f93f" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000337_evolution-of-frog-strasburg_2021.md`
-> • #000337
-> • Slug: `evolution-of-frog-strasburg`
+
+> File: `000337_evolution-of-frog-strasburg_2021.md` • #000337 • Slug: `evolution-of-frog-strasburg`

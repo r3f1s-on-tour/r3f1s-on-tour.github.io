@@ -16,7 +16,7 @@ lengthKMeters: "3,514"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "The Show Must Go On in Strasburg"
 slug: "the-show-must-go-on-in-strasburg"
 href: "banner/000465_the-show-must-go-on-in-strasburg_2022.md"
@@ -32,9 +32,9 @@ name: "The Show Must Go On in Strasburg"
 
 ## Details
 - **Distance (km):** 3.51
-- **Missions in banner:** 6
-- **Total missions completed:** 10.224
-- **This is my banner no.:** 465
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Starte am Marktplatz  einen Rundgang und entdecke Strasburg. Auf deinem Abenteue
 
 
 ## Links
-<a href="https://bannergress.com/banner/the-show-must-go-on-in-strasburg-2d82" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/the-show-must-go-on-in-strasburg-2d82" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000465_the-show-must-go-on-in-strasburg_2022.md`
-> • #000465
-> • Slug: `the-show-must-go-on-in-strasburg`
+
+> File: `000465_the-show-must-go-on-in-strasburg_2022.md` • #000465 • Slug: `the-show-must-go-on-in-strasburg`

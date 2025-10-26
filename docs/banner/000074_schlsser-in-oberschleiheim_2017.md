@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Schlösser in Oberschleißheim"
 slug: "schlsser-in-oberschleiheim"
 href: "banner/000074_schlsser-in-oberschleiheim_2017.md"
@@ -32,19 +32,18 @@ name: "Schlösser in Oberschleißheim"
 
 ## Details
 
-- **Missions in banner:** 3
-- **Total missions completed:** 2043
-- **This is my banner no.:** 74
+
+
+
 
 
 
 
 
 ## Links
-<a href="https://bannergress.com/banner/schl%C3%B6sser-in-oberschlei%C3%9Fheim-429e" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/schl%C3%B6sser-in-oberschlei%C3%9Fheim-429e" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000074_schlsser-in-oberschleiheim_2017.md`
-> • #000074
-> • Slug: `schlsser-in-oberschleiheim`
+
+> File: `000074_schlsser-in-oberschleiheim_2017.md` • #000074 • Slug: `schlsser-in-oberschleiheim`

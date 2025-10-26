@@ -16,7 +16,7 @@ lengthKMeters: "2,73"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "XMas Otter in Strasburg"
 slug: "xmas-otter-in-strasburg"
 href: "banner/000373_xmas-otter-in-strasburg_2021.md"
@@ -32,9 +32,9 @@ name: "XMas Otter in Strasburg"
 
 ## Details
 - **Distance (km):** 2.73
-- **Missions in banner:** 6
-- **Total missions completed:** 8166
-- **This is my banner no.:** 373
+
+
+
 
 
 
@@ -44,6 +44,4 @@ Mache eine Entdeckungsrunde durch Strasburg und hole dir paar XMas Otter ins Pro
 
 
 
-> File: `000373_xmas-otter-in-strasburg_2021.md`
-> • #000373
-> • Slug: `xmas-otter-in-strasburg`
+> File: `000373_xmas-otter-in-strasburg_2021.md` • #000373 • Slug: `xmas-otter-in-strasburg`

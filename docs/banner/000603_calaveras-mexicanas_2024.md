@@ -16,7 +16,7 @@ lengthKMeters: "1,389"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "CALAVERAS MEXICANAS"
 slug: "calaveras-mexicanas"
 href: "banner/000603_calaveras-mexicanas_2024.md"
@@ -32,9 +32,9 @@ name: "CALAVERAS MEXICANAS"
 
 ## Details
 - **Distance (km):** 1.39
-- **Missions in banner:** 6
-- **Total missions completed:** 13.272
-- **This is my banner no.:** 603
+
+
+
 
 
 
@@ -44,10 +44,9 @@ La Plaza de Toros de Valencia fue inaugurada en 1851. Su estilo neoclásico fue 
 
 
 ## Links
-<a href="https://bannergress.com/banner/calaveras-mexicanas-35f1" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/calaveras-mexicanas-35f1" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000603_calaveras-mexicanas_2024.md`
-> • #000603
-> • Slug: `calaveras-mexicanas`
+
+> File: `000603_calaveras-mexicanas_2024.md` • #000603 • Slug: `calaveras-mexicanas`

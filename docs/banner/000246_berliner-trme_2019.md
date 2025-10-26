@@ -16,7 +16,7 @@ lengthKMeters: "12,05"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Berliner Türme"
 slug: "berliner-trme"
 href: "banner/000246_berliner-trme_2019.md"
@@ -32,9 +32,9 @@ name: "Berliner Türme"
 
 ## Details
 - **Distance (km):** 12.05
-- **Missions in banner:** 24
-- **Total missions completed:** 6012
-- **This is my banner no.:** 246
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Ein Gang von Turm zu Turm
 
 
 ## Links
-<a href="https://bannergress.com/banner/berliner-t%C3%BCrme-7cba" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/berliner-t%C3%BCrme-7cba" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000246_berliner-trme_2019.md`
-> • #000246
-> • Slug: `berliner-trme`
+
+> File: `000246_berliner-trme_2019.md` • #000246 • Slug: `berliner-trme`

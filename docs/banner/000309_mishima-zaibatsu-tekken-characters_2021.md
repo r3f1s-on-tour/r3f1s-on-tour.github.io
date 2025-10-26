@@ -16,7 +16,7 @@ lengthKMeters: "3,63"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Mishima Zaibatsu - Tekken Characters"
 slug: "mishima-zaibatsu-tekken-characters"
 href: "banner/000309_mishima-zaibatsu-tekken-characters_2021.md"
@@ -32,9 +32,9 @@ name: "Mishima Zaibatsu - Tekken Characters"
 
 ## Details
 - **Distance (km):** 3.63
-- **Missions in banner:** 12
-- **Total missions completed:** 7254
-- **This is my banner no.:** 309
+
+
+
 
 
 
@@ -44,10 +44,9 @@ A walk through  the neighborhood of the well known Samaviertel.
 
 
 ## Links
-<a href="https://bannergress.com/banner/mishima-zaibatsu-tekken-characters-8f8e" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/mishima-zaibatsu-tekken-characters-8f8e" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000309_mishima-zaibatsu-tekken-characters_2021.md`
-> • #000309
-> • Slug: `mishima-zaibatsu-tekken-characters`
+
+> File: `000309_mishima-zaibatsu-tekken-characters_2021.md` • #000309 • Slug: `mishima-zaibatsu-tekken-characters`

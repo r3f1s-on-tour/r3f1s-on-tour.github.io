@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Rund um die Ludwigskirche"
 slug: "rund-um-die-ludwigskirche"
 href: "banner/000065_rund-um-die-ludwigskirche_2017.md"
@@ -32,19 +32,18 @@ name: "Rund um die Ludwigskirche"
 
 ## Details
 
-- **Missions in banner:** 24
-- **Total missions completed:** 1488
-- **This is my banner no.:** 65
+
+
+
 
 
 
 
 
 ## Links
-<a href="https://bannergress.com/banner/rund-um-die-ludwigskirche-ac36" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/rund-um-die-ludwigskirche-ac36" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000065_rund-um-die-ludwigskirche_2017.md`
-> • #000065
-> • Slug: `rund-um-die-ludwigskirche`
+
+> File: `000065_rund-um-die-ludwigskirche_2017.md` • #000065 • Slug: `rund-um-die-ludwigskirche`

@@ -16,7 +16,7 @@ lengthKMeters: "17,7"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Snowflakes in Oranienburg"
 slug: "snowflakes-in-oranienburg"
 href: "banner/000523_snowflakes-in-oranienburg_2023.md"
@@ -32,9 +32,9 @@ name: "Snowflakes in Oranienburg"
 
 ## Details
 - **Distance (km):** 17.70
-- **Missions in banner:** 66
-- **Total missions completed:** 11.076
-- **This is my banner no.:** 523
+
+
+
 
 
 
@@ -44,6 +44,4 @@ Starte eine Runde durch Oranienburg zum Second Sunday und denke auf deiner Runde
 
 
 
-> File: `000523_snowflakes-in-oranienburg_2023.md`
-> • #000523
-> • Slug: `snowflakes-in-oranienburg`
+> File: `000523_snowflakes-in-oranienburg_2023.md` • #000523 • Slug: `snowflakes-in-oranienburg`

@@ -16,7 +16,7 @@ lengthKMeters: "8,44"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Domberg-Mosaik"
 slug: "domberg-mosaik"
 href: "banner/000073_domberg-mosaik_2017.md"
@@ -32,9 +32,9 @@ name: "Domberg-Mosaik"
 
 ## Details
 - **Distance (km):** 8.44
-- **Missions in banner:** 18
-- **Total missions completed:** 2040
-- **This is my banner no.:** 73
+
+
+
 
 
 
@@ -45,10 +45,9 @@ Erster Teil startet im Domhof, wo auch der letzte Teil beendet wird.
 
 
 ## Links
-<a href="https://bannergress.com/banner/domberg-mosaik-67a6" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/domberg-mosaik-67a6" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000073_domberg-mosaik_2017.md`
-> • #000073
-> • Slug: `domberg-mosaik`
+
+> File: `000073_domberg-mosaik_2017.md` • #000073 • Slug: `domberg-mosaik`

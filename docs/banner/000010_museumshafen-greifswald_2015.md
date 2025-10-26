@@ -16,7 +16,7 @@ lengthKMeters: "5,93"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Museumshafen Greifswald"
 slug: "museumshafen-greifswald"
 href: "banner/000010_museumshafen-greifswald_2015.md"
@@ -32,9 +32,9 @@ name: "Museumshafen Greifswald"
 
 ## Details
 - **Distance (km):** 5.93
-- **Missions in banner:** 18
-- **Total missions completed:** 216
-- **This is my banner no.:** 10
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Teil 1 der Tour "Museumshafen Greifswald"
 
 
 ## Links
-<a href="https://bannergress.com/banner/museumshafen-greifswald-66c3" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/museumshafen-greifswald-66c3" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000010_museumshafen-greifswald_2015.md`
-> • #000010
-> • Slug: `museumshafen-greifswald`
+
+> File: `000010_museumshafen-greifswald_2015.md` • #000010 • Slug: `museumshafen-greifswald`

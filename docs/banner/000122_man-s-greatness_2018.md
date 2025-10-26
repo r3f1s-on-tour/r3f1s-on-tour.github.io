@@ -16,7 +16,7 @@ lengthKMeters: "20,50"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Man s Greatness"
 slug: "man-s-greatness"
 href: "banner/000122_man-s-greatness_2018.md"
@@ -32,9 +32,9 @@ name: "Man s Greatness"
 
 ## Details
 - **Distance (km):** 20.50
-- **Missions in banner:** 36
-- **Total missions completed:** 2988
-- **This is my banner no.:** 122
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Inspired by the artwork of  Scott Manley, leading my dear fellows in a new area 
 
 
 ## Links
-<a href="https://bannergress.com/banner/man-s-greatness-13d7" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/man-s-greatness-13d7" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000122_man-s-greatness_2018.md`
-> • #000122
-> • Slug: `man-s-greatness`
+
+> File: `000122_man-s-greatness_2018.md` • #000122 • Slug: `man-s-greatness`

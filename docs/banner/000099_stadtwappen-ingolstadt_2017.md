@@ -16,7 +16,7 @@ lengthKMeters: "20,49"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Stadtwappen Ingolstadt"
 slug: "stadtwappen-ingolstadt"
 href: "banner/000099_stadtwappen-ingolstadt_2017.md"
@@ -32,9 +32,9 @@ name: "Stadtwappen Ingolstadt"
 
 ## Details
 - **Distance (km):** 20.49
-- **Missions in banner:** 42
-- **Total missions completed:** 2562
-- **This is my banner no.:** 99
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Das 1200 Jahre alte Ingolstadt war jahrhundertelang Universitätsstadt, Zentrum 
 
 
 ## Links
-<a href="https://bannergress.com/banner/stadtwappen-ingolstadt-73f7" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/stadtwappen-ingolstadt-73f7" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000099_stadtwappen-ingolstadt_2017.md`
-> • #000099
-> • Slug: `stadtwappen-ingolstadt`
+
+> File: `000099_stadtwappen-ingolstadt_2017.md` • #000099 • Slug: `stadtwappen-ingolstadt`

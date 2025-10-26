@@ -16,7 +16,7 @@ lengthKMeters: "3,283"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Sushi Sonntag"
 slug: "sushi-sonntag"
 href: "banner/000496_sushi-sonntag_2022.md"
@@ -32,9 +32,9 @@ name: "Sushi Sonntag"
 
 ## Details
 - **Distance (km):** 3.28
-- **Missions in banner:** 12
-- **Total missions completed:** 10.602
-- **This is my banner no.:** 496
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Zu den neuen Second Sundays Mission Days passt dieses Sushi Sonntag Banner. Auf 
 
 
 ## Links
-<a href="https://bannergress.com/banner/sushi-sonntag-781c" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/sushi-sonntag-781c" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000496_sushi-sonntag_2022.md`
-> • #000496
-> • Slug: `sushi-sonntag`
+
+> File: `000496_sushi-sonntag_2022.md` • #000496 • Slug: `sushi-sonntag`

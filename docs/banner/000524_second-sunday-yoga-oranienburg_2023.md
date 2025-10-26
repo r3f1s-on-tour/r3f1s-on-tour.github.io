@@ -16,7 +16,7 @@ lengthKMeters: "1,29"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Second Sunday Yoga Oranienburg"
 slug: "second-sunday-yoga-oranienburg"
 href: "banner/000524_second-sunday-yoga-oranienburg_2023.md"
@@ -32,9 +32,9 @@ name: "Second Sunday Yoga Oranienburg"
 
 ## Details
 - **Distance (km):** 1.29
-- **Missions in banner:** 6
-- **Total missions completed:** 11.082
-- **This is my banner no.:** 524
+
+
+
 
 
 
@@ -44,6 +44,4 @@ Starte eine Runde durch Oranienburg zum Second Sunday und denke auf deiner Runde
 
 
 
-> File: `000524_second-sunday-yoga-oranienburg_2023.md`
-> • #000524
-> • Slug: `second-sunday-yoga-oranienburg`
+> File: `000524_second-sunday-yoga-oranienburg_2023.md` • #000524 • Slug: `second-sunday-yoga-oranienburg`

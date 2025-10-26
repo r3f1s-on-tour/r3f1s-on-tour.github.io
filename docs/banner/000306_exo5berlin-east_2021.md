@@ -16,7 +16,7 @@ lengthKMeters: "12,65"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "EXO5BERLIN East"
 slug: "exo5berlin-east"
 href: "banner/000306_exo5berlin-east_2021.md"
@@ -32,9 +32,9 @@ name: "EXO5BERLIN East"
 
 ## Details
 - **Distance (km):** 12.65
-- **Missions in banner:** 48
-- **Total missions completed:** 7158
-- **This is my banner no.:** 306
+
+
+
 
 
 
@@ -44,10 +44,9 @@ This mission leads you to famous places in Berlin.  See places of Resistance his
 
 
 ## Links
-<a href="https://bannergress.com/banner/exo5berlin-east-9312" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/exo5berlin-east-9312" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000306_exo5berlin-east_2021.md`
-> • #000306
-> • Slug: `exo5berlin-east`
+
+> File: `000306_exo5berlin-east_2021.md` • #000306 • Slug: `exo5berlin-east`

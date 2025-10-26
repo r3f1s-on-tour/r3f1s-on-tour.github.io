@@ -16,7 +16,7 @@ lengthKMeters: "4,70"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Weißenfels Stadt an der Saale"
 slug: "weienfels-stadt-an-der-saale"
 href: "banner/000118_weienfels-stadt-an-der-saale_2018.md"
@@ -32,9 +32,9 @@ name: "Weißenfels Stadt an der Saale"
 
 ## Details
 - **Distance (km):** 4.70
-- **Missions in banner:** 18
-- **Total missions completed:** 2880
-- **This is my banner no.:** 118
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Herzlich Willkommen zum 18zener Mosaik der Stadt Weißenfels. In jeder Mission e
 
 
 ## Links
-<a href="https://bannergress.com/banner/wei%C3%9Fenfels-stadt-an-der-saale-c456" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/wei%C3%9Fenfels-stadt-an-der-saale-c456" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000118_weienfels-stadt-an-der-saale_2018.md`
-> • #000118
-> • Slug: `weienfels-stadt-an-der-saale`
+
+> File: `000118_weienfels-stadt-an-der-saale_2018.md` • #000118 • Slug: `weienfels-stadt-an-der-saale`

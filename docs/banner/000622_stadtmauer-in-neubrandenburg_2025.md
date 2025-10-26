@@ -16,7 +16,7 @@ lengthKMeters: "11,186"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Stadtmauer in Neubrandenburg"
 slug: "stadtmauer-in-neubrandenburg"
 href: "banner/000622_stadtmauer-in-neubrandenburg_2025.md"
@@ -32,9 +32,9 @@ name: "Stadtmauer in Neubrandenburg"
 
 ## Details
 - **Distance (km):** 11.19
-- **Missions in banner:** 48
-- **Total missions completed:** 13386
-- **This is my banner no.:** 622
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Entdecke bei diesen Missionen insbesondere auch die Stadtmauer von Neubrandenbur
 
 
 ## Links
-<a href="https://bannergress.com/banner/stadtmauer-in-neubrandenburg-db62" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/stadtmauer-in-neubrandenburg-db62" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000622_stadtmauer-in-neubrandenburg_2025.md`
-> • #000622
-> • Slug: `stadtmauer-in-neubrandenburg`
+
+> File: `000622_stadtmauer-in-neubrandenburg_2025.md` • #000622 • Slug: `stadtmauer-in-neubrandenburg`

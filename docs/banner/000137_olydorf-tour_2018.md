@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Olydorf-Tour"
 slug: "olydorf-tour"
 href: "banner/000137_olydorf-tour_2018.md"
@@ -32,15 +32,13 @@ name: "Olydorf-Tour"
 
 ## Details
 
-- **Missions in banner:** 18
-- **Total missions completed:** 3306
-- **This is my banner no.:** 137
 
 
 
 
 
 
-> File: `000137_olydorf-tour_2018.md`
-> • #000137
-> • Slug: `olydorf-tour`
+
+
+
+> File: `000137_olydorf-tour_2018.md` • #000137 • Slug: `olydorf-tour`

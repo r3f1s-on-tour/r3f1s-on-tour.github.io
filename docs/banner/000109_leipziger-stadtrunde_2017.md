@@ -16,7 +16,7 @@ lengthKMeters: "2,22"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Leipziger Stadtrunde"
 slug: "leipziger-stadtrunde"
 href: "banner/000109_leipziger-stadtrunde_2017.md"
@@ -32,9 +32,9 @@ name: "Leipziger Stadtrunde"
 
 ## Details
 - **Distance (km):** 2.22
-- **Missions in banner:** 6
-- **Total missions completed:** 2718
-- **This is my banner no.:** 109
+
+
+
 
 
 
@@ -45,10 +45,9 @@ Ihr startet am ehemals größten Sackbahnhof.
 
 
 ## Links
-<a href="https://bannergress.com/banner/leipziger-stadtrunde-8503" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/leipziger-stadtrunde-8503" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000109_leipziger-stadtrunde_2017.md`
-> • #000109
-> • Slug: `leipziger-stadtrunde`
+
+> File: `000109_leipziger-stadtrunde_2017.md` • #000109 • Slug: `leipziger-stadtrunde`

@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Aquarelle Gdansk"
 slug: "aquarelle-gdansk"
 href: "banner/000618_aquarelle-gdansk_2025.md"
@@ -32,19 +32,18 @@ name: "Aquarelle Gdansk"
 
 ## Details
 
-- **Missions in banner:** 12
-- **Total missions completed:** 13.500
-- **This is my banner no.:** 618
+
+
+
 
 
 
 
 
 ## Links
-<a href="https://bannergress.com/banner/aquarelle-gdansk-a640" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/aquarelle-gdansk-a640" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000618_aquarelle-gdansk_2025.md`
-> • #000618
-> • Slug: `aquarelle-gdansk`
+
+> File: `000618_aquarelle-gdansk_2025.md` • #000618 • Slug: `aquarelle-gdansk`

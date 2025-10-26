@@ -16,7 +16,7 @@ lengthKMeters: "1,63"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "SZCZECIN for TOURISTS"
 slug: "szczecin-for-tourists"
 href: "banner/000092_szczecin-for-tourists_2017.md"
@@ -32,9 +32,9 @@ name: "SZCZECIN for TOURISTS"
 
 ## Details
 - **Distance (km):** 1.63
-- **Missions in banner:** 6
-- **Total missions completed:** 2376
-- **This is my banner no.:** 92
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Welcome to Szczecin! Let's take a walk together and complete the banner! Hack-on
 
 
 ## Links
-<a href="https://bannergress.com/banner/szczecin-for-tourists-0201" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/szczecin-for-tourists-0201" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000092_szczecin-for-tourists_2017.md`
-> • #000092
-> • Slug: `szczecin-for-tourists`
+
+> File: `000092_szczecin-for-tourists_2017.md` • #000092 • Slug: `szczecin-for-tourists`

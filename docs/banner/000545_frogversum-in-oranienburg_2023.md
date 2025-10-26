@@ -16,7 +16,7 @@ lengthKMeters: "9,631"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "FrogVersum in Oranienburg"
 slug: "frogversum-in-oranienburg"
 href: "banner/000545_frogversum-in-oranienburg_2023.md"
@@ -32,9 +32,9 @@ name: "FrogVersum in Oranienburg"
 
 ## Details
 - **Distance (km):** 9.63
-- **Missions in banner:** 36
-- **Total missions completed:** 12.072
-- **This is my banner no.:** 545
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdig
 
 
 ## Links
-<a href="https://bannergress.com/banner/frogversum-in-oranienburg-c78b" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/frogversum-in-oranienburg-c78b" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000545_frogversum-in-oranienburg_2023.md`
-> • #000545
-> • Slug: `frogversum-in-oranienburg`
+
+> File: `000545_frogversum-in-oranienburg_2023.md` • #000545 • Slug: `frogversum-in-oranienburg`

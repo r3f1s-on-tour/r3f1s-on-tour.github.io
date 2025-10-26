@@ -16,7 +16,7 @@ lengthKMeters: "1,31"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Visit Requiem Munich - Szczecin"
 slug: "visit-requiem-munich-szczecin"
 href: "banner/000435_visit-requiem-munich-szczecin_2022.md"
@@ -32,9 +32,9 @@ name: "Visit Requiem Munich - Szczecin"
 
 ## Details
 - **Distance (km):** 1.31
-- **Missions in banner:** 6
-- **Total missions completed:** 9.078
-- **This is my banner no.:** 435
+
+
+
 
 
 
@@ -44,10 +44,9 @@ On the 9th May of 2020 an epic battle between Enlightened and Resistance will ta
 
 
 ## Links
-<a href="https://bannergress.com/banner/visit-requiem-munich-szczecin-f424" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/visit-requiem-munich-szczecin-f424" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000435_visit-requiem-munich-szczecin_2022.md`
-> • #000435
-> • Slug: `visit-requiem-munich-szczecin`
+
+> File: `000435_visit-requiem-munich-szczecin_2022.md` • #000435 • Slug: `visit-requiem-munich-szczecin`

@@ -16,7 +16,7 @@ lengthKMeters: "2,13"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Second Sunday Januar 22 in Oranienburg"
 slug: "second-sunday-januar-22-in-oranienburg"
 href: "banner/000384_second-sunday-januar-22-in-oranienburg_2022.md"
@@ -32,9 +32,9 @@ name: "Second Sunday Januar 22 in Oranienburg"
 
 ## Details
 - **Distance (km):** 2.13
-- **Missions in banner:** 6
-- **Total missions completed:** 8304
-- **This is my banner no.:** 384
+
+
+
 
 
 
@@ -46,10 +46,9 @@ Online bis 10.01.2022
 
 
 ## Links
-<a href="https://bannergress.com/banner/second-sunday-januar-22-in-oranienburg-8d24" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/second-sunday-januar-22-in-oranienburg-8d24" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000384_second-sunday-januar-22-in-oranienburg_2022.md`
-> • #000384
-> • Slug: `second-sunday-januar-22-in-oranienburg`
+
+> File: `000384_second-sunday-januar-22-in-oranienburg_2022.md` • #000384 • Slug: `second-sunday-januar-22-in-oranienburg`

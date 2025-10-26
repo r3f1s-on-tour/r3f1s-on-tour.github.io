@@ -16,7 +16,7 @@ lengthKMeters: "13,40"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Friedensengel"
 slug: "friedensengel"
 href: "banner/000049_friedensengel_2016.md"
@@ -32,9 +32,9 @@ name: "Friedensengel"
 
 ## Details
 - **Distance (km):** 13.40
-- **Missions in banner:** 48
-- **Total missions completed:** 1140
-- **This is my banner no.:** 49
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Der so genannte Friedensengel ist eigentlich der griechischen Siegesgöttin Nike
 
 
 ## Links
-<a href="https://bannergress.com/banner/friedensengel-8105" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/friedensengel-8105" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000049_friedensengel_2016.md`
-> • #000049
-> • Slug: `friedensengel`
+
+> File: `000049_friedensengel_2016.md` • #000049 • Slug: `friedensengel`

@@ -16,7 +16,7 @@ lengthKMeters: "2"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Deifel in Köln"
 slug: "deifel-in-kln"
 href: "banner/000494_deifel-in-kln_2022.md"
@@ -32,9 +32,9 @@ name: "Deifel in Köln"
 
 ## Details
 - **Distance (km):** 2.00
-- **Missions in banner:** 6
-- **Total missions completed:** 10.566
-- **This is my banner no.:** 494
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Starte am Hauptbahnhof einen Rundgang und entdecke Köln. Auf deinem Abenteuer e
 
 
 ## Links
-<a href="https://bannergress.com/banner/deifel-in-k%C3%B6ln-7270" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/deifel-in-k%C3%B6ln-7270" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000494_deifel-in-kln_2022.md`
-> • #000494
-> • Slug: `deifel-in-kln`
+
+> File: `000494_deifel-in-kln_2022.md` • #000494 • Slug: `deifel-in-kln`

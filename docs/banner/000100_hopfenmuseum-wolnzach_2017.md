@@ -16,7 +16,7 @@ lengthKMeters: "10,21"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Hopfenmuseum Wolnzach"
 slug: "hopfenmuseum-wolnzach"
 href: "banner/000100_hopfenmuseum-wolnzach_2017.md"
@@ -32,9 +32,9 @@ name: "Hopfenmuseum Wolnzach"
 
 ## Details
 - **Distance (km):** 10.21
-- **Missions in banner:** 18
-- **Total missions completed:** 2580
-- **This is my banner no.:** 100
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Das Deutsche Hopfenmuseum in Wolnzach in der Hallertau in Bayern wurde 2002 vom 
 
 
 ## Links
-<a href="https://bannergress.com/banner/hopfenmuseum-wolnzach-dec9" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/hopfenmuseum-wolnzach-dec9" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000100_hopfenmuseum-wolnzach_2017.md`
-> • #000100
-> • Slug: `hopfenmuseum-wolnzach`
+
+> File: `000100_hopfenmuseum-wolnzach_2017.md` • #000100 • Slug: `hopfenmuseum-wolnzach`

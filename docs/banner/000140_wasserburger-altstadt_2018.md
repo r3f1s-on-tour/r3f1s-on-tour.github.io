@@ -16,7 +16,7 @@ lengthKMeters: "5,45"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Wasserburger Altstadt"
 slug: "wasserburger-altstadt"
 href: "banner/000140_wasserburger-altstadt_2018.md"
@@ -32,9 +32,9 @@ name: "Wasserburger Altstadt"
 
 ## Details
 - **Distance (km):** 5.45
-- **Missions in banner:** 12
-- **Total missions completed:** 3348
-- **This is my banner no.:** 140
+
+
+
 
 
 
@@ -45,10 +45,9 @@ The missions (1-12) should be done in sequence (start @Busbahnhof) to get a nice
 
 
 ## Links
-<a href="https://bannergress.com/banner/wasserburger-altstadt-2c0e" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/wasserburger-altstadt-2c0e" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000140_wasserburger-altstadt_2018.md`
-> • #000140
-> • Slug: `wasserburger-altstadt`
+
+> File: `000140_wasserburger-altstadt_2018.md` • #000140 • Slug: `wasserburger-altstadt`

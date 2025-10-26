@@ -16,7 +16,7 @@ lengthKMeters: "2,53"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Rainbow Bridge"
 slug: "rainbow-bridge"
 href: "banner/000269_rainbow-bridge_2020.md"
@@ -32,9 +32,9 @@ name: "Rainbow Bridge"
 
 ## Details
 - **Distance (km):** 2.53
-- **Missions in banner:** 12
-- **Total missions completed:** 6354
-- **This is my banner no.:** 269
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Make your rounds in the park around the Märkisches Museum and receive a colourf
 
 
 ## Links
-<a href="https://bannergress.com/banner/rainbow-bridge-f3e7" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/rainbow-bridge-f3e7" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000269_rainbow-bridge_2020.md`
-> • #000269
-> • Slug: `rainbow-bridge`
+
+> File: `000269_rainbow-bridge_2020.md` • #000269 • Slug: `rainbow-bridge`

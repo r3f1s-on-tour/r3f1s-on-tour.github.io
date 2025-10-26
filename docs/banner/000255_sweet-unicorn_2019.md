@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Sweet Unicorn"
 slug: "sweet-unicorn"
 href: "banner/000255_sweet-unicorn_2019.md"
@@ -32,19 +32,18 @@ name: "Sweet Unicorn"
 
 ## Details
 
-- **Missions in banner:** 30
-- **Total missions completed:** 6156
-- **This is my banner no.:** 255
+
+
+
 
 
 
 
 
 ## Links
-<a href="https://bannergress.com/banner/the-sweet-unicorn-cd78" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/the-sweet-unicorn-cd78" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000255_sweet-unicorn_2019.md`
-> • #000255
-> • Slug: `sweet-unicorn`
+
+> File: `000255_sweet-unicorn_2019.md` • #000255 • Slug: `sweet-unicorn`

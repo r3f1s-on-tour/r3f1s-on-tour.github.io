@@ -16,7 +16,7 @@ lengthKMeters: "4,719"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Las Banderas"
 slug: "las-banderas"
 href: "banner/000606_las-banderas_2024.md"
@@ -32,9 +32,9 @@ name: "Las Banderas"
 
 ## Details
 - **Distance (km):** 4.72
-- **Missions in banner:** 12
-- **Total missions completed:** 13.302
-- **This is my banner no.:** 606
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Vamos a pasear desde un gran punto de reunión e interés (La Nau de l'aigua) ha
 
 
 ## Links
-<a href="https://bannergress.com/banner/las-banderas-c32a" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/las-banderas-c32a" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000606_las-banderas_2024.md`
-> • #000606
-> • Slug: `las-banderas`
+
+> File: `000606_las-banderas_2024.md` • #000606 • Slug: `las-banderas`

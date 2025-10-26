@@ -16,7 +16,7 @@ lengthKMeters: "1,828"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "#FS Rubik Cube"
 slug: "fs-rubik-cube"
 href: "banner/000586_fs-rubik-cube_2023.md"
@@ -32,9 +32,9 @@ name: "#FS Rubik Cube"
 
 ## Details
 - **Distance (km):** 1.83
-- **Missions in banner:** 6
-- **Total missions completed:** 13.014
-- **This is my banner no.:** 586
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Can you solve this riddle at the FS in Dresden?
 
 
 ## Links
-<a href="https://bannergress.com/banner/fs-rubik-cube-5915" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/fs-rubik-cube-5915" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000586_fs-rubik-cube_2023.md`
-> • #000586
-> • Slug: `fs-rubik-cube`
+
+> File: `000586_fs-rubik-cube_2023.md` • #000586 • Slug: `fs-rubik-cube`

@@ -16,7 +16,7 @@ lengthKMeters: "4,32"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Tier-, Freizeit- und Saurierpark Germendorf"
 slug: "tier-freizeit-und-saurierpark-germendorf"
 href: "banner/000298_tier-freizeit-und-saurierpark-germendorf_2021.md"
@@ -32,9 +32,9 @@ name: "Tier-, Freizeit- und Saurierpark Germendorf"
 
 ## Details
 - **Distance (km):** 4.32
-- **Missions in banner:** 18
-- **Total missions completed:** 6960
-- **This is my banner no.:** 298
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Tagesausflug im Tierpark
 
 
 ## Links
-<a href="https://bannergress.com/banner/tier-freizeit-und-saurierpark-germendorf-1377" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/tier-freizeit-und-saurierpark-germendorf-1377" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000298_tier-freizeit-und-saurierpark-germendorf_2021.md`
-> • #000298
-> • Slug: `tier-freizeit-und-saurierpark-germendorf`
+
+> File: `000298_tier-freizeit-und-saurierpark-germendorf_2021.md` • #000298 • Slug: `tier-freizeit-und-saurierpark-germendorf`

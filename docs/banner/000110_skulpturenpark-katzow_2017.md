@@ -16,7 +16,7 @@ lengthKMeters: "6,38"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Skulpturenpark Katzow"
 slug: "skulpturenpark-katzow"
 href: "banner/000110_skulpturenpark-katzow_2017.md"
@@ -32,9 +32,9 @@ name: "Skulpturenpark Katzow"
 
 ## Details
 - **Distance (km):** 6.38
-- **Missions in banner:** 24
-- **Total missions completed:** 2742
-- **This is my banner no.:** 110
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Der Park besteht seit 1991. Gründer des Skulpturenparks Katzow ist der Bildhaue
 
 
 ## Links
-<a href="https://bannergress.com/banner/skulpturenpark-katzow-4359" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/skulpturenpark-katzow-4359" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000110_skulpturenpark-katzow_2017.md`
-> • #000110
-> • Slug: `skulpturenpark-katzow`
+
+> File: `000110_skulpturenpark-katzow_2017.md` • #000110 • Slug: `skulpturenpark-katzow`

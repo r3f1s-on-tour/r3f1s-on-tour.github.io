@@ -16,7 +16,7 @@ lengthKMeters: "8,73"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Westpark München"
 slug: "westpark-mnchen"
 href: "banner/000211_westpark-mnchen_2018.md"
@@ -32,9 +32,9 @@ name: "Westpark München"
 
 ## Details
 - **Distance (km):** 8.73
-- **Missions in banner:** 24
-- **Total missions completed:** 5136
-- **This is my banner no.:** 211
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Spaziergang durch den Westpark. Start ist an der U-Bahnstation Holzapfelkreuth, 
 
 
 ## Links
-<a href="https://bannergress.com/banner/westpark-m%C3%BCnchen-bf4a" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/westpark-m%C3%BCnchen-bf4a" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000211_westpark-mnchen_2018.md`
-> • #000211
-> • Slug: `westpark-mnchen`
+
+> File: `000211_westpark-mnchen_2018.md` • #000211 • Slug: `westpark-mnchen`

@@ -16,7 +16,7 @@ lengthKMeters: "8"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Mein grüner Kaktus in Oranienburg"
 slug: "mein-grner-kaktus-in-oranienburg"
 href: "banner/000493_mein-grner-kaktus-in-oranienburg_2022.md"
@@ -32,9 +32,9 @@ name: "Mein grüner Kaktus in Oranienburg"
 
 ## Details
 - **Distance (km):** 8.00
-- **Missions in banner:** 18
-- **Total missions completed:** 10.560
-- **This is my banner no.:** 493
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 ## Links
-<a href="https://bannergress.com/banner/mein-gr%C3%BCner-kaktus-in-oranienburg-fa23" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/mein-gr%C3%BCner-kaktus-in-oranienburg-fa23" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000493_mein-grner-kaktus-in-oranienburg_2022.md`
-> • #000493
-> • Slug: `mein-grner-kaktus-in-oranienburg`
+
+> File: `000493_mein-grner-kaktus-in-oranienburg_2022.md` • #000493 • Slug: `mein-grner-kaktus-in-oranienburg`

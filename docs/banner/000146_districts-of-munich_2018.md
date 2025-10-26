@@ -16,7 +16,7 @@ lengthKMeters: "83,57"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Districts of Munich"
 slug: "districts-of-munich"
 href: "banner/000146_districts-of-munich_2018.md"
@@ -32,9 +32,9 @@ name: "Districts of Munich"
 
 ## Details
 - **Distance (km):** 83.57
-- **Missions in banner:** 24
-- **Total missions completed:** 3546
-- **This is my banner no.:** 146
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Mission-sequence through Munich's districts. DayTicket (Inneraum) helps ;)
 
 
 ## Links
-<a href="https://bannergress.com/banner/districts-of-munich-83ab" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/districts-of-munich-83ab" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000146_districts-of-munich_2018.md`
-> • #000146
-> • Slug: `districts-of-munich`
+
+> File: `000146_districts-of-munich_2018.md` • #000146 • Slug: `districts-of-munich`

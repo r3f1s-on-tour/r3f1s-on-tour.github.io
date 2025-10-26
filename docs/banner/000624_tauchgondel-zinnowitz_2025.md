@@ -16,7 +16,7 @@ lengthKMeters: "4,91"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Tauchgondel Zinnowitz"
 slug: "tauchgondel-zinnowitz"
 href: "banner/000624_tauchgondel-zinnowitz_2025.md"
@@ -32,9 +32,9 @@ name: "Tauchgondel Zinnowitz"
 
 ## Details
 - **Distance (km):** 4.91
-- **Missions in banner:** 12
-- **Total missions completed:** 13590
-- **This is my banner no.:** 624
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Zinnowitz to popularny niemiecki nadbałtycki kurort letni, położony w półno
 
 
 ## Links
-<a href="https://bannergress.com/banner/tauchgondel-zinnowitz-21a3" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/tauchgondel-zinnowitz-21a3" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000624_tauchgondel-zinnowitz_2025.md`
-> • #000624
-> • Slug: `tauchgondel-zinnowitz`
+
+> File: `000624_tauchgondel-zinnowitz_2025.md` • #000624 • Slug: `tauchgondel-zinnowitz`

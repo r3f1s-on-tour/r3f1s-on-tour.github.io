@@ -16,7 +16,7 @@ lengthKMeters: "7,38"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Planten un Blomen Mosaik"
 slug: "planten-un-blomen-mosaik"
 href: "banner/000014_planten-un-blomen-mosaik_2015.md"
@@ -32,9 +32,9 @@ name: "Planten un Blomen Mosaik"
 
 ## Details
 - **Distance (km):** 7.38
-- **Missions in banner:** 18
-- **Total missions completed:** 276
-- **This is my banner no.:** 14
+
+
+
 
 
 
@@ -51,10 +51,9 @@ Oct–Dec | 7–20 Uhr
 
 
 ## Links
-<a href="https://bannergress.com/banner/planten-un-blomen-mosaik-ee10" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/planten-un-blomen-mosaik-ee10" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000014_planten-un-blomen-mosaik_2015.md`
-> • #000014
-> • Slug: `planten-un-blomen-mosaik`
+
+> File: `000014_planten-un-blomen-mosaik_2015.md` • #000014 • Slug: `planten-un-blomen-mosaik`

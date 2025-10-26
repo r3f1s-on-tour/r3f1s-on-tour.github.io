@@ -16,7 +16,7 @@ lengthKMeters: "15,65"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Stress an der Isar"
 slug: "stress-an-der-isar"
 href: "banner/000089_stress-an-der-isar_2017.md"
@@ -32,9 +32,9 @@ name: "Stress an der Isar"
 
 ## Details
 - **Distance (km):** 15.65
-- **Missions in banner:** 36
-- **Total missions completed:** 2298
-- **This is my banner no.:** 89
+
+
+
 
 
 
@@ -44,10 +44,9 @@ name: "Stress an der Isar"
 
 
 ## Links
-<a href="https://bannergress.com/banner/stress-an-der-isar-5cc7" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/stress-an-der-isar-5cc7" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000089_stress-an-der-isar_2017.md`
-> • #000089
-> • Slug: `stress-an-der-isar`
+
+> File: `000089_stress-an-der-isar_2017.md` • #000089 • Slug: `stress-an-der-isar`

@@ -16,7 +16,7 @@ lengthKMeters: "139,56"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Berliner Fernsehturm"
 slug: "berliner-fernsehturm"
 href: "banner/000070_berliner-fernsehturm_2017.md"
@@ -32,9 +32,9 @@ name: "Berliner Fernsehturm"
 
 ## Details
 - **Distance (km):** 139.56
-- **Missions in banner:** 372
-- **Total missions completed:** 1986
-- **This is my banner no.:** 70
+
+
+
 
 
 
@@ -46,10 +46,9 @@ Zur Umgehung des nicht öffentlich begehbaren Charitè-Geländes sind die Missio
 
 
 ## Links
-<a href="https://bannergress.com/banner/berliner-fernsehturm-d601" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/berliner-fernsehturm-d601" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000070_berliner-fernsehturm_2017.md`
-> • #000070
-> • Slug: `berliner-fernsehturm`
+
+> File: `000070_berliner-fernsehturm_2017.md` • #000070 • Slug: `berliner-fernsehturm`

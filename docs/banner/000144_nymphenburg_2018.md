@@ -16,7 +16,7 @@ lengthKMeters: "8,65"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Nymphenburg"
 slug: "nymphenburg"
 href: "banner/000144_nymphenburg_2018.md"
@@ -32,9 +32,9 @@ name: "Nymphenburg"
 
 ## Details
 - **Distance (km):** 8.65
-- **Missions in banner:** 18
-- **Total missions completed:** 3432
-- **This is my banner no.:** 144
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Eine Tour vom Schloss Nymphenburg über den Hubertusbrunnen zum Löwenbräukelle
 
 
 ## Links
-<a href="https://bannergress.com/banner/nymphenburg-2b6d" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/nymphenburg-2b6d" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000144_nymphenburg_2018.md`
-> • #000144
-> • Slug: `nymphenburg`
+
+> File: `000144_nymphenburg_2018.md` • #000144 • Slug: `nymphenburg`

@@ -16,7 +16,7 @@ lengthKMeters: "5,756"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Second Sunday Tower in Neubrandenburg"
 slug: "second-sunday-tower-in-neubrandenburg"
 href: "banner/000539_second-sunday-tower-in-neubrandenburg_2023.md"
@@ -32,9 +32,9 @@ name: "Second Sunday Tower in Neubrandenburg"
 
 ## Details
 - **Distance (km):** 5.76
-- **Missions in banner:** 96
-- **Total missions completed:** 11.958
-- **This is my banner no.:** 539
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde Sehenswür
 
 
 ## Links
-<a href="https://bannergress.com/banner/second-sunday-tower-in-neubrandenburg-ca2b" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/second-sunday-tower-in-neubrandenburg-ca2b" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000539_second-sunday-tower-in-neubrandenburg_2023.md`
-> • #000539
-> • Slug: `second-sunday-tower-in-neubrandenburg`
+
+> File: `000539_second-sunday-tower-in-neubrandenburg_2023.md` • #000539 • Slug: `second-sunday-tower-in-neubrandenburg`

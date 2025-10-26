@@ -16,7 +16,7 @@ lengthKMeters: "8,12"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Catgress Landsberg"
 slug: "catgress-landsberg"
 href: "banner/000180_catgress-landsberg_2018.md"
@@ -32,9 +32,9 @@ name: "Catgress Landsberg"
 
 ## Details
 - **Distance (km):** 8.12
-- **Missions in banner:** 24
-- **Total missions completed:** 4332
-- **This is my banner no.:** 180
+
+
+
 
 
 
@@ -46,10 +46,9 @@ Das Catgress Mosaik besteht aus 24 Einzelmissionen (Hack/Passphrase)
 
 
 ## Links
-<a href="https://bannergress.com/banner/catgress-landsberg-7ccd" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/catgress-landsberg-7ccd" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000180_catgress-landsberg_2018.md`
-> • #000180
-> • Slug: `catgress-landsberg`
+
+> File: `000180_catgress-landsberg_2018.md` • #000180 • Slug: `catgress-landsberg`

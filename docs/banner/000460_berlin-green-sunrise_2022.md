@@ -16,7 +16,7 @@ lengthKMeters: "6,52"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Berlin Green Sunrise"
 slug: "berlin-green-sunrise"
 href: "banner/000460_berlin-green-sunrise_2022.md"
@@ -32,9 +32,9 @@ name: "Berlin Green Sunrise"
 
 ## Details
 - **Distance (km):** 6.52
-- **Missions in banner:** 24
-- **Total missions completed:** 9.534
-- **This is my banner no.:** 460
+
+
+
 
 
 
@@ -44,10 +44,9 @@ See Berlin in the Green Sunrise
 
 
 ## Links
-<a href="https://bannergress.com/banner/berlin-green-sunrise-dc88" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/berlin-green-sunrise-dc88" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000460_berlin-green-sunrise_2022.md`
-> • #000460
-> • Slug: `berlin-green-sunrise`
+
+> File: `000460_berlin-green-sunrise_2022.md` • #000460 • Slug: `berlin-green-sunrise`

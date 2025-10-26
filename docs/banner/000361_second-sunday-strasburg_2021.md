@@ -16,7 +16,7 @@ lengthKMeters: "3,17"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Second Sunday - Strasburg"
 slug: "second-sunday-strasburg"
 href: "banner/000361_second-sunday-strasburg_2021.md"
@@ -32,9 +32,9 @@ name: "Second Sunday - Strasburg"
 
 ## Details
 - **Distance (km):** 3.17
-- **Missions in banner:** 6
-- **Total missions completed:** 7992
-- **This is my banner no.:** 361
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Starte am Marktplatz und entdecke zum Second Sunday die Stadt Strasburg Uckermar
 
 
 ## Links
-<a href="https://bannergress.com/banner/second-sunday-strasburg-1872" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/second-sunday-strasburg-1872" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000361_second-sunday-strasburg_2021.md`
-> • #000361
-> • Slug: `second-sunday-strasburg`
+
+> File: `000361_second-sunday-strasburg_2021.md` • #000361 • Slug: `second-sunday-strasburg`

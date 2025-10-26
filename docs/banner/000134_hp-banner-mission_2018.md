@@ -16,7 +16,7 @@ lengthKMeters: "2,82"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "HP Banner Mission"
 slug: "hp-banner-mission"
 href: "banner/000134_hp-banner-mission_2018.md"
@@ -32,9 +32,9 @@ name: "HP Banner Mission"
 
 ## Details
 - **Distance (km):** 2.82
-- **Missions in banner:** 12
-- **Total missions completed:** 3252
-- **This is my banner no.:** 134
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Schön gemütliche Tour durch die Heppenheimer Fußgängerzone und Altstadt. Bei
 
 
 ## Links
-<a href="https://bannergress.com/banner/hp-banner-mission-0f33" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/hp-banner-mission-0f33" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000134_hp-banner-mission_2018.md`
-> • #000134
-> • Slug: `hp-banner-mission`
+
+> File: `000134_hp-banner-mission_2018.md` • #000134 • Slug: `hp-banner-mission`

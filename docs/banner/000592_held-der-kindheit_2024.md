@@ -16,7 +16,7 @@ lengthKMeters: "4,887"
 umap: ""
 missionDay: "1"
 notice: ""
-trip: ""
+Trips: ""
 title: "Held der Kindheit"
 slug: "held-der-kindheit"
 href: "banner/000592_held-der-kindheit_2024.md"
@@ -32,9 +32,9 @@ name: "Held der Kindheit"
 
 ## Details
 - **Distance (km):** 4.89
-- **Missions in banner:** 12
-- **Total missions completed:** 13.086
-- **This is my banner no.:** 592
+
+
+
 - **Mission Day:** Yes
 
 
@@ -44,10 +44,9 @@ Eine Runde rund um und durch Ründeroth, entlang alter Handelswege und vieler hi
 
 
 ## Links
-<a href="https://bannergress.com/banner/held-der-kindheit-975c" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/held-der-kindheit-975c" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000592_held-der-kindheit_2024.md`
-> • #000592
-> • Slug: `held-der-kindheit`
+
+> File: `000592_held-der-kindheit_2024.md` • #000592 • Slug: `held-der-kindheit`

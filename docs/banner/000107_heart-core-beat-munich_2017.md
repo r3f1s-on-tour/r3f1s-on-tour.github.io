@@ -16,7 +16,7 @@ lengthKMeters: "2,70"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Heart Core Beat Munich"
 slug: "heart-core-beat-munich"
 href: "banner/000107_heart-core-beat-munich_2017.md"
@@ -32,9 +32,9 @@ name: "Heart Core Beat Munich"
 
 ## Details
 - **Distance (km):** 2.70
-- **Missions in banner:** 6
-- **Total missions completed:** 2700
-- **This is my banner no.:** 107
+
+
+
 
 
 
@@ -44,10 +44,9 @@ This resistance heartbeat as a counterpart to the luminescent heart leads  you t
 
 
 ## Links
-<a href="https://bannergress.com/banner/heart-core-beat-munich-4fa6" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/heart-core-beat-munich-4fa6" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000107_heart-core-beat-munich_2017.md`
-> • #000107
-> • Slug: `heart-core-beat-munich`
+
+> File: `000107_heart-core-beat-munich_2017.md` • #000107 • Slug: `heart-core-beat-munich`

@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Catpool (Rote Augsburger Katze)"
 slug: "catpool-rote-augsburger-katze"
 href: "banner/000181_catpool-rote-augsburger-katze_2018.md"
@@ -32,15 +32,13 @@ name: "Catpool (Rote Augsburger Katze)"
 
 ## Details
 
-- **Missions in banner:** 36
-- **Total missions completed:** 4368
-- **This is my banner no.:** 181
 
 
 
 
 
 
-> File: `000181_catpool-rote-augsburger-katze_2018.md`
-> • #000181
-> • Slug: `catpool-rote-augsburger-katze`
+
+
+
+> File: `000181_catpool-rote-augsburger-katze_2018.md` • #000181 • Slug: `catpool-rote-augsburger-katze`

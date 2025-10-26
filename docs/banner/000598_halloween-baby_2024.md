@@ -16,7 +16,7 @@ lengthKMeters: "4,536"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Halloween Baby"
 slug: "halloween-baby"
 href: "banner/000598_halloween-baby_2024.md"
@@ -32,9 +32,9 @@ name: "Halloween Baby"
 
 ## Details
 - **Distance (km):** 4.54
-- **Missions in banner:** 30
-- **Total missions completed:** 13.200
-- **This is my banner no.:** 598
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Recorre nuestra capital y llévate pequeño recuerdo de Halloween 2019
 
 
 ## Links
-<a href="https://bannergress.com/banner/halloween-baby-d7fe" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/halloween-baby-d7fe" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000598_halloween-baby_2024.md`
-> • #000598
-> • Slug: `halloween-baby`
+
+> File: `000598_halloween-baby_2024.md` • #000598 • Slug: `halloween-baby`

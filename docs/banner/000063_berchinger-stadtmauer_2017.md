@@ -16,7 +16,7 @@ lengthKMeters: "7,46"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Berchinger Stadtmauer"
 slug: "berchinger-stadtmauer"
 href: "banner/000063_berchinger-stadtmauer_2017.md"
@@ -32,9 +32,9 @@ name: "Berchinger Stadtmauer"
 
 ## Details
 - **Distance (km):** 7.46
-- **Missions in banner:** 24
-- **Total missions completed:** 1404
-- **This is my banner no.:** 63
+
+
+
 
 
 
@@ -45,10 +45,9 @@ Hack only. Am besten zu Fuß machbar.
 
 
 ## Links
-<a href="https://bannergress.com/banner/berchinger-stadtmauer-6ad3" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/berchinger-stadtmauer-6ad3" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000063_berchinger-stadtmauer_2017.md`
-> • #000063
-> • Slug: `berchinger-stadtmauer`
+
+> File: `000063_berchinger-stadtmauer_2017.md` • #000063 • Slug: `berchinger-stadtmauer`

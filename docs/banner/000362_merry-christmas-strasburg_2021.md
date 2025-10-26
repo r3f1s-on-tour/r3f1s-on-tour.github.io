@@ -16,7 +16,7 @@ lengthKMeters: "3,18"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Merry Christmas - Strasburg"
 slug: "merry-christmas-strasburg"
 href: "banner/000362_merry-christmas-strasburg_2021.md"
@@ -32,9 +32,9 @@ name: "Merry Christmas - Strasburg"
 
 ## Details
 - **Distance (km):** 3.18
-- **Missions in banner:** 6
-- **Total missions completed:** 7998
-- **This is my banner no.:** 362
+
+
+
 
 
 
@@ -44,6 +44,4 @@ Starte am Marktplatz und entdecke Strasburg Uckermark bei einer weihnachtlichen 
 
 
 
-> File: `000362_merry-christmas-strasburg_2021.md`
-> • #000362
-> • Slug: `merry-christmas-strasburg`
+> File: `000362_merry-christmas-strasburg_2021.md` • #000362 • Slug: `merry-christmas-strasburg`

@@ -16,7 +16,7 @@ lengthKMeters: "4,275"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Casco Histórico Plz. La Virgen"
 slug: "casco-histrico-plz-la-virgen"
 href: "banner/000599_casco-histrico-plz-la-virgen_2024.md"
@@ -32,9 +32,9 @@ name: "Casco Histórico Plz. La Virgen"
 
 ## Details
 - **Distance (km):** 4.28
-- **Missions in banner:** 18
-- **Total missions completed:** 13.218
-- **This is my banner no.:** 599
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Uno de los lugares mas emblemáticos de la ciudad Valenciana, es sin duda la pla
 
 
 ## Links
-<a href="https://bannergress.com/banner/casco-hist%C3%B3rico-plz-la-virgen-4c18" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/casco-hist%C3%B3rico-plz-la-virgen-4c18" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000599_casco-histrico-plz-la-virgen_2024.md`
-> • #000599
-> • Slug: `casco-histrico-plz-la-virgen`
+
+> File: `000599_casco-histrico-plz-la-virgen_2024.md` • #000599 • Slug: `casco-histrico-plz-la-virgen`

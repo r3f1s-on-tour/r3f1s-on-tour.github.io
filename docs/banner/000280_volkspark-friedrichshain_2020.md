@@ -16,7 +16,7 @@ lengthKMeters: "4,25"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Volkspark Friedrichshain"
 slug: "volkspark-friedrichshain"
 href: "banner/000280_volkspark-friedrichshain_2020.md"
@@ -32,9 +32,9 @@ name: "Volkspark Friedrichshain"
 
 ## Details
 - **Distance (km):** 4.25
-- **Missions in banner:** 12
-- **Total missions completed:** 6492
-- **This is my banner no.:** 280
+
+
+
 
 
 
@@ -44,10 +44,9 @@ The Volkspark Friedrichshain is the oldest public park in Berlin, opened 1846. T
 
 
 ## Links
-<a href="https://bannergress.com/banner/volkspark-friedrichshain-c30c" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/volkspark-friedrichshain-c30c" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000280_volkspark-friedrichshain_2020.md`
-> • #000280
-> • Slug: `volkspark-friedrichshain`
+
+> File: `000280_volkspark-friedrichshain_2020.md` • #000280 • Slug: `volkspark-friedrichshain`

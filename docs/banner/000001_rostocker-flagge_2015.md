@@ -16,7 +16,7 @@ lengthKMeters: "12,84"
 umap: "https://umap.openstreetmap.de/de/map/r3f1zul-on-tour_19893?feature=Rostocker-Flagge#18/54.077793/12.129966"
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Rostocker Flagge"
 slug: "rostocker-flagge"
 href: "banner/000001_rostocker-flagge_2015.md"
@@ -32,9 +32,9 @@ name: "Rostocker Flagge"
 
 ## Details
 - **Distance (km):** 12.84
-- **Missions in banner:** 24
-- **Total missions completed:** 96
-- **This is my banner no.:** 1
+
+
+
 
 
 
@@ -46,10 +46,9 @@ PS: Es sollte das Fahrrad genutzt werden.
 
 
 ## Links
-<a href="https://bannergress.com/banner/rostocker-flagge-9920" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
-<a href="https://umap.openstreetmap.de/de/map/r3f1zul-on-tour_19893?feature=Rostocker-Flagge#18/54.077793/12.129966" target="_blank" style="display:inline-block;padding:6px 12px;background:#0066cc;color:#fff;text-decoration:none;border-radius:6px;">🗺️ uMap</a>
+<a href="https://bannergress.com/banner/rostocker-flagge-9920" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://umap.openstreetmap.de/de/map/r3f1zul-on-tour_19893?feature=Rostocker-Flagge#18/54.077793/12.129966" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#0066cc;color:#fff;text-decoration:none;border-radius:6px;">🗺️ uMap</a>
 
 
-> File: `000001_rostocker-flagge_2015.md`
-> • #000001
-> • Slug: `rostocker-flagge`
+
+> File: `000001_rostocker-flagge_2015.md` • #000001 • Slug: `rostocker-flagge`

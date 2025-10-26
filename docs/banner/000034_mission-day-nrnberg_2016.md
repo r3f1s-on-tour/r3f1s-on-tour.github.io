@@ -16,7 +16,7 @@ lengthKMeters: "31,10"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Mission Day Nürnberg"
 slug: "mission-day-nrnberg"
 href: "banner/000034_mission-day-nrnberg_2016.md"
@@ -32,9 +32,9 @@ name: "Mission Day Nürnberg"
 
 ## Details
 - **Distance (km):** 31.10
-- **Missions in banner:** 12
-- **Total missions completed:** 684
-- **This is my banner no.:** 34
+
+
+
 
 
 
@@ -44,10 +44,9 @@ The former AEG factory premises have been become a lively urban site with IT off
 
 
 ## Links
-<a href="https://bannergress.com/banner/md-n%C3%BCrnberg-2280" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/md-n%C3%BCrnberg-2280" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000034_mission-day-nrnberg_2016.md`
-> • #000034
-> • Slug: `mission-day-nrnberg`
+
+> File: `000034_mission-day-nrnberg_2016.md` • #000034 • Slug: `mission-day-nrnberg`

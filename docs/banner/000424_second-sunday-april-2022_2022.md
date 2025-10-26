@@ -16,7 +16,7 @@ lengthKMeters: "2,77"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Second Sunday April 2022"
 slug: "second-sunday-april-2022"
 href: "banner/000424_second-sunday-april-2022_2022.md"
@@ -32,9 +32,9 @@ name: "Second Sunday April 2022"
 
 ## Details
 - **Distance (km):** 2.77
-- **Missions in banner:** 6
-- **Total missions completed:** 8.820
-- **This is my banner no.:** 424
+
+
+
 
 
 
@@ -46,10 +46,9 @@ Geht am 11.04.2022 offline
 
 
 ## Links
-<a href="https://bannergress.com/banner/second-sunday-april-2022-4262" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/second-sunday-april-2022-4262" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000424_second-sunday-april-2022_2022.md`
-> • #000424
-> • Slug: `second-sunday-april-2022`
+
+> File: `000424_second-sunday-april-2022_2022.md` • #000424 • Slug: `second-sunday-april-2022`

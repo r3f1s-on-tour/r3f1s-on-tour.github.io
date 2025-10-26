@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Hacking Tour in und um Prohn"
 slug: "hacking-tour-in-und-um-prohn"
 href: "banner/000003_hacking-tour-in-und-um-prohn_2015.md"
@@ -32,15 +32,13 @@ name: "Hacking Tour in und um Prohn"
 
 ## Details
 
-- **Missions in banner:** 6
-- **Total missions completed:** 108
-- **This is my banner no.:** 3
 
 
 
 
 
 
-> File: `000003_hacking-tour-in-und-um-prohn_2015.md`
-> • #000003
-> • Slug: `hacking-tour-in-und-um-prohn`
+
+
+
+> File: `000003_hacking-tour-in-und-um-prohn_2015.md` • #000003 • Slug: `hacking-tour-in-und-um-prohn`

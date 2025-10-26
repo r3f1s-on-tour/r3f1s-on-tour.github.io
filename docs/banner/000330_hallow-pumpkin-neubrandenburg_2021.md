@@ -16,7 +16,7 @@ lengthKMeters: "8,52"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Hallow Pumpkin Neubrandenburg"
 slug: "hallow-pumpkin-neubrandenburg"
 href: "banner/000330_hallow-pumpkin-neubrandenburg_2021.md"
@@ -32,9 +32,9 @@ name: "Hallow Pumpkin Neubrandenburg"
 
 ## Details
 - **Distance (km):** 8.52
-- **Missions in banner:** 18
-- **Total missions completed:** 7566
-- **This is my banner no.:** 330
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Erlebe mit ein paar Missionen die tolle Halloween Tour in Neubrandenburg.
 
 
 ## Links
-<a href="https://bannergress.com/banner/hallow-pumpkin-neubrandenburg-482b" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/hallow-pumpkin-neubrandenburg-482b" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000330_hallow-pumpkin-neubrandenburg_2021.md`
-> • #000330
-> • Slug: `hallow-pumpkin-neubrandenburg`
+
+> File: `000330_hallow-pumpkin-neubrandenburg_2021.md` • #000330 • Slug: `hallow-pumpkin-neubrandenburg`

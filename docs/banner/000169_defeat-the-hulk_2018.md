@@ -16,7 +16,7 @@ lengthKMeters: "1,62"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Defeat the Hulk"
 slug: "defeat-the-hulk"
 href: "banner/000169_defeat-the-hulk_2018.md"
@@ -32,9 +32,9 @@ name: "Defeat the Hulk"
 
 ## Details
 - **Distance (km):** 1.62
-- **Missions in banner:** 6
-- **Total missions completed:** 4104
-- **This is my banner no.:** 169
+
+
+
 
 
 
@@ -44,10 +44,9 @@ This tour guides you through the Friedrichshain Nordkiez which is also known as 
 
 
 ## Links
-<a href="https://bannergress.com/banner/defeat-the-hulk-03ea" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/defeat-the-hulk-03ea" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000169_defeat-the-hulk_2018.md`
-> • #000169
-> • Slug: `defeat-the-hulk`
+
+> File: `000169_defeat-the-hulk_2018.md` • #000169 • Slug: `defeat-the-hulk`

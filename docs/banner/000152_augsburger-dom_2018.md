@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Augsburger Dom"
 slug: "augsburger-dom"
 href: "banner/000152_augsburger-dom_2018.md"
@@ -32,15 +32,13 @@ name: "Augsburger Dom"
 
 ## Details
 
-- **Missions in banner:** 30
-- **Total missions completed:** 3720
-- **This is my banner no.:** 152
 
 
 
 
 
 
-> File: `000152_augsburger-dom_2018.md`
-> • #000152
-> • Slug: `augsburger-dom`
+
+
+
+> File: `000152_augsburger-dom_2018.md` • #000152 • Slug: `augsburger-dom`

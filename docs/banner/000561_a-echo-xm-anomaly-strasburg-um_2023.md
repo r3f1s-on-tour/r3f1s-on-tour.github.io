@@ -16,7 +16,7 @@ lengthKMeters: "2,058"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "A Echo XM Anomaly Strasburg UM"
 slug: "a-echo-xm-anomaly-strasburg-um"
 href: "banner/000561_a-echo-xm-anomaly-strasburg-um_2023.md"
@@ -32,9 +32,9 @@ name: "A Echo XM Anomaly Strasburg UM"
 
 ## Details
 - **Distance (km):** 2.06
-- **Missions in banner:** 6
-- **Total missions completed:** 12.432
-- **This is my banner no.:** 561
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Führen Sie anlässlich der Echo XM Anomaly in Athen eine Event-Mission durch.
 
 
 ## Links
-<a href="https://bannergress.com/banner/a-echo-xm-anomaly-strasburg-um-381b" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/a-echo-xm-anomaly-strasburg-um-381b" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000561_a-echo-xm-anomaly-strasburg-um_2023.md`
-> • #000561
-> • Slug: `a-echo-xm-anomaly-strasburg-um`
+
+> File: `000561_a-echo-xm-anomaly-strasburg-um_2023.md` • #000561 • Slug: `a-echo-xm-anomaly-strasburg-um`

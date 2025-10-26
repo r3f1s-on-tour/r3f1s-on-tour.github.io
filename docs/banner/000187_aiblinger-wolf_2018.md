@@ -16,7 +16,7 @@ lengthKMeters: "3,47"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Aiblinger Wolf"
 slug: "aiblinger-wolf"
 href: "banner/000187_aiblinger-wolf_2018.md"
@@ -32,9 +32,9 @@ name: "Aiblinger Wolf"
 
 ## Details
 - **Distance (km):** 3.47
-- **Missions in banner:** 18
-- **Total missions completed:** 4446
-- **This is my banner no.:** 187
+
+
+
 
 
 
@@ -46,10 +46,9 @@ Nur nach Aufforderung hacken.
 
 
 ## Links
-<a href="https://bannergress.com/banner/aiblinger-wolf-be80" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/aiblinger-wolf-be80" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000187_aiblinger-wolf_2018.md`
-> • #000187
-> • Slug: `aiblinger-wolf`
+
+> File: `000187_aiblinger-wolf_2018.md` • #000187 • Slug: `aiblinger-wolf`

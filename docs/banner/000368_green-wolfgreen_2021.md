@@ -16,7 +16,7 @@ lengthKMeters: "5,56"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Green Wolfgreen"
 slug: "green-wolfgreen"
 href: "banner/000368_green-wolfgreen_2021.md"
@@ -32,9 +32,9 @@ name: "Green Wolfgreen"
 
 ## Details
 - **Distance (km):** 5.56
-- **Missions in banner:** 18
-- **Total missions completed:** 8088
-- **This is my banner no.:** 368
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Erkunde die Innenstadt von Neubrandenburg mit all ihren mittelalterlichen Gebäu
 
 
 ## Links
-<a href="https://bannergress.com/banner/green-wolfgreen-0f7e" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/green-wolfgreen-0f7e" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000368_green-wolfgreen_2021.md`
-> • #000368
-> • Slug: `green-wolfgreen`
+
+> File: `000368_green-wolfgreen_2021.md` • #000368 • Slug: `green-wolfgreen`

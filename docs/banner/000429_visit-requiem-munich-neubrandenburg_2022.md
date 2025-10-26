@@ -16,7 +16,7 @@ lengthKMeters: "4,21"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Visit Requiem Munich - Neubrandenburg"
 slug: "visit-requiem-munich-neubrandenburg"
 href: "banner/000429_visit-requiem-munich-neubrandenburg_2022.md"
@@ -32,9 +32,9 @@ name: "Visit Requiem Munich - Neubrandenburg"
 
 ## Details
 - **Distance (km):** 4.21
-- **Missions in banner:** 6
-- **Total missions completed:** 8.922
-- **This is my banner no.:** 429
+
+
+
 
 
 
@@ -44,10 +44,9 @@ In 2020 there will be an epic fight between the enlightened and resistance in Mu
 
 
 ## Links
-<a href="https://bannergress.com/banner/visit-requiem-munich-neubrandenburg-0a5c" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/visit-requiem-munich-neubrandenburg-0a5c" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000429_visit-requiem-munich-neubrandenburg_2022.md`
-> • #000429
-> • Slug: `visit-requiem-munich-neubrandenburg`
+
+> File: `000429_visit-requiem-munich-neubrandenburg_2022.md` • #000429 • Slug: `visit-requiem-munich-neubrandenburg`

@@ -16,7 +16,7 @@ lengthKMeters: "3,514"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Moutain Dragon in Strasburg"
 slug: "moutain-dragon-in-strasburg"
 href: "banner/000550_moutain-dragon-in-strasburg_2023.md"
@@ -32,9 +32,9 @@ name: "Moutain Dragon in Strasburg"
 
 ## Details
 - **Distance (km):** 3.51
-- **Missions in banner:** 6
-- **Total missions completed:** 12.180
-- **This is my banner no.:** 550
+
+
+
 
 
 
@@ -44,10 +44,9 @@ Starte am Marktplatz  einen Rundgang und entdecke Strasburg. Auf deinem Abenteue
 
 
 ## Links
-<a href="https://bannergress.com/banner/moutain-dragon-in-strasburg-66e0" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/moutain-dragon-in-strasburg-66e0" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000550_moutain-dragon-in-strasburg_2023.md`
-> • #000550
-> • Slug: `moutain-dragon-in-strasburg`
+
+> File: `000550_moutain-dragon-in-strasburg_2023.md` • #000550 • Slug: `moutain-dragon-in-strasburg`

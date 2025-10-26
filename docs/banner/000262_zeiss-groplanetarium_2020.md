@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Zeiss-Großplanetarium"
 slug: "zeiss-groplanetarium"
 href: "banner/000262_zeiss-groplanetarium_2020.md"
@@ -32,19 +32,18 @@ name: "Zeiss-Großplanetarium"
 
 ## Details
 
-- **Missions in banner:** 18
-- **Total missions completed:** 6276
-- **This is my banner no.:** 262
+
+
+
 
 
 
 
 
 ## Links
-<a href="https://bannergress.com/banner/zeiss-gro%C3%9Fplanetarium-6b8c" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/zeiss-gro%C3%9Fplanetarium-6b8c" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000262_zeiss-groplanetarium_2020.md`
-> • #000262
-> • Slug: `zeiss-groplanetarium`
+
+> File: `000262_zeiss-groplanetarium_2020.md` • #000262 • Slug: `zeiss-groplanetarium`

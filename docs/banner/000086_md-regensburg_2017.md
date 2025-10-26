@@ -16,7 +16,7 @@ lengthKMeters: "29,30"
 umap: ""
 missionDay: "1"
 notice: ""
-trip: ""
+Trips: ""
 title: "MD Regensburg"
 slug: "md-regensburg"
 href: "banner/000086_md-regensburg_2017.md"
@@ -32,19 +32,18 @@ name: "MD Regensburg"
 
 ## Details
 - **Distance (km):** 29.30
-- **Missions in banner:** 24
-- **Total missions completed:** 2232
-- **This is my banner no.:** 86
+
+
+
 - **Mission Day:** Yes
 
 
 
 
 ## Links
-<a href="https://bannergress.com/banner/md-regensburg-3d16" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/md-regensburg-3d16" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000086_md-regensburg_2017.md`
-> • #000086
-> • Slug: `md-regensburg`
+
+> File: `000086_md-regensburg_2017.md` • #000086 • Slug: `md-regensburg`

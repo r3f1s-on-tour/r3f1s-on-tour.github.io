@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Raute Blau Weiß 1"
 slug: "raute-blau-wei-1"
 href: "banner/000223_raute-blau-wei-1_2019.md"
@@ -32,19 +32,18 @@ name: "Raute Blau Weiß 1"
 
 ## Details
 
-- **Missions in banner:** 6
-- **Total missions completed:** 5352
-- **This is my banner no.:** 223
+
+
+
 
 
 
 
 
 ## Links
-<a href="https://bannergress.com/banner/raute-blau-wei%C3%9F-teil-i-8b53" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/raute-blau-wei%C3%9F-teil-i-8b53" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000223_raute-blau-wei-1_2019.md`
-> • #000223
-> • Slug: `raute-blau-wei-1`
+
+> File: `000223_raute-blau-wei-1_2019.md` • #000223 • Slug: `raute-blau-wei-1`

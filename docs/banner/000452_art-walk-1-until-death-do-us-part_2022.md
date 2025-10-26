@@ -16,7 +16,7 @@ lengthKMeters: "26,48"
 umap: ""
 missionDay: ""
 notice: ""
-trip: ""
+Trips: ""
 title: "Art walk 1 - Until death do us part"
 slug: "art-walk-1-until-death-do-us-part"
 href: "banner/000452_art-walk-1-until-death-do-us-part_2022.md"
@@ -32,9 +32,9 @@ name: "Art walk 1 - Until death do us part"
 
 ## Details
 - **Distance (km):** 26.48
-- **Missions in banner:** 48
-- **Total missions completed:** 9.366
-- **This is my banner no.:** 452
+
+
+
 
 
 
@@ -46,10 +46,9 @@ Ein Tribute an den großartigen, polnischen Künstler Zdzisław Beksiński (24.0
 
 
 ## Links
-<a href="https://bannergress.com/banner/art-walk-1-until-death-do-us-part-2881" target="_blank" style="display:inline-block;margin-right:8px;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+<a href="https://bannergress.com/banner/art-walk-1-until-death-do-us-part-2881" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 
-> File: `000452_art-walk-1-until-death-do-us-part_2022.md`
-> • #000452
-> • Slug: `art-walk-1-until-death-do-us-part`
+
+> File: `000452_art-walk-1-until-death-do-us-part_2022.md` • #000452 • Slug: `art-walk-1-until-death-do-us-part`
