@@ -4,7 +4,7 @@
 
 - **Gesamtbanner:** 625
 - **Missionen gesamt:** 13596
-- **Gesamt km:** 6811.92
+- **Gesamt km:** 6816.12
 - **MissionDays gesamt:** 20
 - **Anzahl Länder (unique):** 9
 - **Anzahl Städte (unique):** 107
@@ -16,8 +16,8 @@
 - **Ø Banner/Monat:** 4.73
 - **Ø Missionen/Jahr:** 1236.00
 - **Ø Missionen/Monat:** 103.00
-- **Ø km/Jahr:** 619.27
-- **Ø km/Monat:** 51.61
+- **Ø km/Jahr:** 619.65
+- **Ø km/Monat:** 51.64
 
 ## Jahresstatistik
 
@@ -33,7 +33,7 @@
 | 2022 | 138 | 2724 | 1 | 1029.94 | 5 |
 | 2023 | 72 | 2070 | 3 | 1506.02 | 4 |
 | 2024 | 18 | 258 | 2 | 60.23 | 1 |
-| 2025 | 18 | 288 | 2 | 50.73 | 1 |
+| 2025 | 18 | 288 | 2 | 54.93 | 1 |
 
 ## Länder (nach Anzahl Banner)
 
