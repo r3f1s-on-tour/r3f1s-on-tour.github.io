@@ -4,25 +4,20 @@
 CSV -> Markdown (Bannergress banners)
 
 Features:
-- Reads a CSV and creates Markdown files with YAML frontmatter.
-- One file per banner (filename pattern: <padded-number>_<slug>_<date>.md)
-- Handles special fields:
-    * description + notice are quoted and store "\n" as "\\n"
-    * notice can include Markdown links or plain URLs (auto-link)
-- Adds zero-padded numbers (--pad-width)
-- Adds title aliases (title, name, titel)
-- Adds slug, href
-- region->city alias if city is empty
-- Normalizes common link keys to lowercase (e.g., "Trips" -> "trips")
-- Template placeholders:
-    {{__VAL:key__}}          → value
-    {{__VALBR:key__}}        → line breaks (<br>)
-    {{__VAL2DP:key__}}       → numeric 2 decimals
-    {{__VALYESNO:key__}}     → Yes/No
-    {{__VALBRLINKS:key__}}   → line breaks + auto-link + [text](url)
-    {{__IMG:key__}}          → Markdown image
-    {{__IF:key__}}...{{__/IF__}}
-    {{__IFANY:a,b__}}...{{__/IFANY__}}
+- CSV -> 1 Markdown pro Zeile (Dateiname: <padded-number>_<slug>_<date>.md)
+- YAML Frontmatter: alle CSV-Spalten + Helper (slug, href, title-Aliasse)
+- Spezielle Felder:
+    * description + notice: immer in Anführungszeichen, '\n' -> '\\n'
+    * notice: unterstützt Markdown-Links und nackte URLs (autolink) via {{__VALBRLINKS:notice__}}
+- Zahl mit führenden Nullen (--pad-width)
+- Titel-Aliasse: title, name, titel
+- Helper: slug, href
+- region->city Alias (falls city leer)
+- Link-Spalten normalisiert: 'Trips' -> 'trips', 'Umap' -> 'umap'
+- Template-Platzhalter:
+    {{__VAL:key__}}, {{__VALBR:key__}}, {{__VAL2DP:key__}}, {{__VALYESNO:key__}},
+    {{__VALBRLINKS:key__}}, {{__IMG:key__}},
+    {{__IF:key__}}...{{__/IF__}}, {{__IFANY:a,b__}}...{{__/IFANY__}}
 
 Usage:
   python scripts/make_banner_markdown.py \
@@ -40,7 +35,7 @@ PICTURE_KEYS = [
     "picture","pictures","image","images","img","pic","pic_url",
     "picture_url","image_url","bild","bilder","pictureurl","imageurl"
 ]
-# never sanitize values for these keys (keep ':' etc.)
+# Niemals ":"-Sanitizing für diese Keys (und nie URLs generell)
 EXCLUDED_SANITIZE_KEYS = {"bg-link", "picture", "notice", "description", "trips"}
 URL_PREFIXES = ("http://","https://")
 IDENTIFIER_RE = re.compile(r"[A-Za-z_][A-Za-z0-9_]*$")
@@ -92,30 +87,33 @@ def infer_field(row: dict, keys: List[str]) -> str:
                 return val
     return ""
 
+def is_urlish(value: Any) -> bool:
+    return isinstance(value, str) and value.strip().startswith(URL_PREFIXES)
+
 def yaml_escape(value: Any) -> str:
+    """YAML-safe: quote bei Sonderzeichen, insbesondere '#' immer quoten."""
     if value is None: return '""'
     s = str(value)
+    # Hash erzwingt Quote (vermeidet YAML-Kommentar)
+    if "#" in s:
+        s = s.replace("\\","\\\\").replace('"','\\"')
+        return f'"{s}"'
+    # Typische Problemmuster
+    need = False
     if re.fullmatch(r"(true|false|null)", s, flags=re.IGNORECASE) or re.fullmatch(r"-?\d+(\.\d+)?", s):
         need = True
-    else:
-        need = bool(
-            re.search(r"[\\:#{}\[\],&*!|>@`?-]", s)
-            or s.startswith(" ") or s.endswith(" ")
-            or "\n" in s or '"' in s or "'"
-        )
+    if (re.search(r"[\\:#{}\[\],&*!|>@`?-]", s) or s.startswith(" ") or s.endswith(" ") or "\n" in s or '"' in s or "'"):
+        need = True
     if need:
         s = s.replace("\\","\\\\").replace('"','\\"')
         return f'"{s}"'
     return s
 
-def is_urlish(value: Any) -> bool:
-    return isinstance(value, str) and value.strip().startswith(URL_PREFIXES)
-
 def sanitize_value(key: str, val: Any) -> str:
     """
-    Replace ':' with '-' to avoid YAML issues, except:
-    - for keys in EXCLUDED_SANITIZE_KEYS
-    - for any value that looks like a URL (starts with http:// or https://)
+    Ersetze ':' -> '-' zur YAML-Sicherheit, außer:
+    - Keys in EXCLUDED_SANITIZE_KEYS
+    - Werte, die wie URL aussehen (http/https)
     """
     s = "" if val is None else str(val)
     if key.lower() in EXCLUDED_SANITIZE_KEYS:
@@ -159,30 +157,29 @@ def render_placeholders(template_text: str, ctx: Dict[str,Any], open_new_tab: bo
 
     tpl = _expand_if_blocks(tpl, meta)
 
-    # Simple value
+    # __VAL
     for m in re.findall(r"\{\{__VAL:([^}]+)__\}\}", tpl):
         tpl = tpl.replace(f"{{{{__VAL:{m}__}}}}", str(meta.get(m, "")).strip())
 
-    # Line breaks
+    # __VALBR (Zeilenumbrüche)
     for m in re.findall(r"\{\{__VALBR:([^}]+)__\}\}", tpl):
         val = str(meta.get(m, "")).strip().replace("\\n", "<br>")
         tpl = tpl.replace(f"{{{{__VALBR:{m}__}}}}", val)
 
-    # Line breaks + auto-link + Markdown links
+    # __VALBRLINKS (Zeilenumbrüche + Markdown-Links + Autolinks)
     for m in re.findall(r"\{\{__VALBRLINKS:([^}]+)__\}\}", tpl):
         raw = str(meta.get(m, "")).strip()
         html = raw.replace("\\n", "<br>")
-
         link_attr = ' target="_blank" rel="noopener"' if open_new_tab else ""
 
-        # Markdown links [text](url)
+        # Markdown Links [text](url)
         def md_link_sub(match):
             text = match.group(1)
             url  = match.group(2)
             return f'<a href="{url}"{link_attr} style="color:#FFD500;text-decoration:underline;word-break:break-word;">{text}</a>'
         html = re.sub(r"\[([^\]]+)\]\((https?://[^)]+)\)", md_link_sub, html)
 
-        # Autolink plain URLs
+        # Autolink nackter URLs
         def auto_link_sub(match):
             url = match.group(0)
             return f'<a href="{url}"{link_attr} style="color:#FFD500;text-decoration:underline;word-break:break-word;">{url}</a>'
@@ -190,14 +187,14 @@ def render_placeholders(template_text: str, ctx: Dict[str,Any], open_new_tab: bo
 
         tpl = tpl.replace(f"{{{{__VALBRLINKS:{m}__}}}}", html)
 
-    # 2 decimals
+    # __VAL2DP
     for m in re.findall(r"\{\{__VAL2DP:([^}]+)__\}\}", tpl):
         raw = str(meta.get(m, "")).strip().replace(",", ".")
         try: val = f"{float(raw):.2f}"
         except Exception: val = raw
         tpl = tpl.replace(f"{{{{__VAL2DP:{m}__}}}}", val)
 
-    # Yes/No
+    # __VALYESNO
     for m in re.findall(r"\{\{__VALYESNO:([^}]+)__\}\}", tpl):
         val = str(meta.get(m, "")).strip().lower()
         yes = val in ("1","true","yes","y")
@@ -205,16 +202,15 @@ def render_placeholders(template_text: str, ctx: Dict[str,Any], open_new_tab: bo
         out = "Yes" if yes else "No" if no or val else ""
         tpl = tpl.replace(f"{{{{__VALYESNO:{m}__}}}}", out)
 
-    # Links and image
+    # __LINK & __IMG
     for m in re.findall(r"\{\{__LINK:([^}]+)__\}\}", tpl):
         url = str(meta.get(m, "")).strip()
         tpl = tpl.replace(f"{{{{__LINK:{m}__}}}}", f"[{url}]({url})" if is_urlish(url) else "")
-
     for m in re.findall(r"\{\{__IMG:([^}]+)__\}\}", tpl):
         url = str(meta.get(m, "")).strip()
         tpl = tpl.replace(f"{{{{__IMG:{m}__}}}}", f"![{meta.get('title','Image')}]({url})" if url else "")
 
-    # Helpers (prefer region for CITY)
+    # Helfer (CITY bevorzugt region)
     tpl = tpl.replace("{{__TITLE__}}",   str(meta.get("title") or meta.get("name") or meta.get("titel") or "Untitled"))
     tpl = tpl.replace("{{__DATE_DE__}}", fmt_date_de(meta.get("date") or meta.get("datum") or ""))
     tpl = tpl.replace("{{__CITY__}}",    str(meta.get("region") or meta.get("city") or meta.get("stadt") or meta.get("ort") or ""))
@@ -237,11 +233,12 @@ def write_markdown(out_path: str, fm: dict, ordered: list[str], body: str):
         raw = fm.get(k, "")
         v = sanitize_value(k, raw)
         if k.lower() in {"description", "notice"}:
+            # für Multiline interpretierbar speichern
             esc = v.replace("\\","\\\\").replace('"','\\"').replace("\r\n","\n").replace("\r","\n").replace("\n","\\n")
             lines.append(f'{k}: "{esc}"')
         else:
             lines.append(f"{k}: {yaml_escape(v)}")
-    # ensure helper fields
+    # Helper sicherstellen (falls nicht in CSV-Header)
     if "slug" not in ordered:   lines.append(f"slug: {yaml_escape(fm.get('slug',''))}")
     if "href" not in ordered:   lines.append(f"href: {yaml_escape(fm.get('href',''))}")
     if "name" not in ordered:   lines.append(f"name: {yaml_escape(fm.get('name',''))}")
@@ -250,14 +247,6 @@ def write_markdown(out_path: str, fm: dict, ordered: list[str], body: str):
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
     with open(out_path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + body)
-
-def yaml_escape(value: Any) -> str:
-    s = str(value)
-    if s == "": return '""'
-    if any(x in s for x in [":","[","]","{","}","\\","\n","'","\""]):
-        s = s.replace("\\","\\\\").replace('"','\\"')
-        return f'"{s}"'
-    return s
 
 # -------- Main ----------
 def main():
@@ -294,7 +283,7 @@ def main():
             ordered_fields = list(reader.fieldnames)
             fm = {k: sanitize_value(k, (row.get(k,"") or "").strip()) for k in ordered_fields}
 
-            # ensure title/date
+            # Titel/Datum sicherstellen
             if not str(fm.get("title","")).strip():
                 fm["title"] = title_csv
                 if "title" not in ordered_fields: ordered_fields.append("title")
@@ -302,7 +291,7 @@ def main():
                 fm["date"] = date_norm
                 if "date" not in ordered_fields: ordered_fields.append("date")
 
-            # title aliases
+            # Titel-Aliasse
             t = (fm.get("title") or fm.get("titel") or fm.get("name") or title_csv).strip()
             fm["title"] = t
             if not str(fm.get("name","")).strip():  fm["name"]  = t
@@ -312,19 +301,17 @@ def main():
             if str(fm.get("region","")).strip() and not str(fm.get("city","")).strip():
                 fm["city"] = fm["region"]
 
-            # ---- normalize common link keys to lowercase ----
-            # Support 'Trips' (capitalized) by mirroring to 'trips' for template use
+            # Link-Key Normalisierung (Trips/Umap groß -> klein)
             if "Trips" in fm and "trips" not in fm and str(fm["Trips"]).strip():
                 fm["trips"] = fm["Trips"]
-            # Also accept 'Umap' -> 'umap' if ever used
             if "Umap" in fm and "umap" not in fm and str(fm["Umap"]).strip():
                 fm["umap"] = fm["Umap"]
 
-            # helpers
+            # Helper
             fm["slug"] = fm.get("slug") or slug_val
             fm["href"] = fm.get("href") or f"banner/{number_padded}_{slug_val}_{date_norm}.md"
 
-            # render
+            # Render
             ctx = {
                 "meta": fm,
                 "number_padded": number_padded,
@@ -333,6 +320,7 @@ def main():
             }
             body = render_placeholders(tpl, ctx, open_new_tab=args.notice_links_new_tab)
 
+            # Schreiben
             if os.path.exists(out_path):
                 if args.overwrite:
                     write_markdown(out_path, fm, ordered_fields, body)
