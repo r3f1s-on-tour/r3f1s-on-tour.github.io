@@ -16,7 +16,7 @@ lengthKMeters: "2,09"
 umap: ""
 missionDay: ""
 notice: ""
-Trips: "https://r3f1s-on-tour.github.io/banner/gallery/"
+Trips: ""
 title: "Panorama  Wolgast"
 slug: "panorama-wolgast"
 href: "banner/000625_panorama-wolgast_2025.md"
@@ -48,7 +48,7 @@ Es geht Richtung Hafen.
 ## Links
 <a href="https://bannergress.com/banner/panorama-wolgast-7e43" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
-<a href="https://r3f1s-on-tour.github.io/banner/gallery/" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#8a2be2;color:#fff;text-decoration:none;border-radius:6px;">🧭 Trips</a>
+
 
 
 > File: `000625_panorama-wolgast_2025.md` • #000625 • Slug: `panorama-wolgast`

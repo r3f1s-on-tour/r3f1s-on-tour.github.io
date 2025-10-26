@@ -16,7 +16,7 @@ lengthKMeters: ""
 umap: ""
 missionDay: ""
 notice: ""
-Trips: ""
+Trips: "https://r3f1s-on-tour.github.io/trips/poland_train_trip/"
 title: "Warszawska akwarela"
 slug: "warszawska-akwarela"
 href: "banner/000615_warszawska-akwarela_2025.md"
@@ -43,7 +43,7 @@ name: "Warszawska akwarela"
 ## Links
 <a href="https://bannergress.com/banner/warszawska-akwarela-f77f" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
-
+<a href="https://r3f1s-on-tour.github.io/trips/poland_train_trip/" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#8a2be2;color:#fff;text-decoration:none;border-radius:6px;">🧭 Trips</a>
 
 
 > File: `000615_warszawska-akwarela_2025.md` • #000615 • Slug: `warszawska-akwarela`
