@@ -3,7 +3,7 @@ nummer: "532"
 startLatitude: "52,756645"
 startLongitude: "13,244983"
 titel: "Brennende Julia"
-picture: ""
+picture: "https://lh3.googleusercontent.com/pw/AP1GczPEii2QOn6LSIzmYbzN9GpDEx58R8c-yUEBz9LKo6Jz3F4U9sARALkM_uQKPyDV-qQB15twYf6rM01uZXQf5pnwSxoIM-EiLctD8E8KrObAFLjkSuR090P5zCLO5dnA8IpAdciciG8sOmXrld9NCUyP_A"
 region: "Oranienburg"
 country: "Deutschland"
 completed: "11.580"
@@ -26,7 +26,7 @@ name: "Brennende Julia"
 
 *2023* • Oranienburg • Deutschland
 
-
+![Brennende Julia](https://lh3.googleusercontent.com/pw/AP1GczPEii2QOn6LSIzmYbzN9GpDEx58R8c-yUEBz9LKo6Jz3F4U9sARALkM_uQKPyDV-qQB15twYf6rM01uZXQf5pnwSxoIM-EiLctD8E8KrObAFLjkSuR090P5zCLO5dnA8IpAdciciG8sOmXrld9NCUyP_A)
 
 
 

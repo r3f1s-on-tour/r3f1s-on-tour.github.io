@@ -3,7 +3,7 @@ nummer: "553"
 startLatitude: "53,506861"
 startLongitude: "13,74885"
 titel: "Echo Brighton"
-picture: ""
+picture: "https://lh3.googleusercontent.com/pw/AP1GczN0Zj4tsgiSK69pFZBTe-4TVpyvOTKSId9Z9LZyCHfOdxqw72jngTpH1E6JbZ0XD1Bhcsk66Wpr-lrokFgtDUIOhJd5r-UUzCHlRzyHSaBawL3y_aiOnrXeqvcOGEatwS7JNcvHgtzz6alBwVDwMw659A"
 region: "Strasburg (Uckermark)"
 country: "Deutschland"
 completed: "12.264"
@@ -26,7 +26,7 @@ name: "Echo Brighton"
 
 *2023* • Strasburg (Uckermark) • Deutschland
 
-
+![Echo Brighton](https://lh3.googleusercontent.com/pw/AP1GczN0Zj4tsgiSK69pFZBTe-4TVpyvOTKSId9Z9LZyCHfOdxqw72jngTpH1E6JbZ0XD1Bhcsk66Wpr-lrokFgtDUIOhJd5r-UUzCHlRzyHSaBawL3y_aiOnrXeqvcOGEatwS7JNcvHgtzz6alBwVDwMw659A)
 
 
 
