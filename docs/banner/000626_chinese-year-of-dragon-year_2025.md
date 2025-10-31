@@ -3,7 +3,7 @@ nummer: "626"
 startLatitude: "53,561425"
 startLongitude: "13,259994"
 titel: "Chinese Year of Dragon Year"
-picture: "Bitte Url nachtragen"
+picture: "https://api.bannergress.com/bnrs/pictures/03379ec084ec761f07cb48300e9e88ad"
 region: "Neubrandenburg"
 country: "Deutschland"
 completed: "13614"
@@ -26,7 +26,7 @@ name: "Chinese Year of Dragon Year"
 
 *2025* • Neubrandenburg • Deutschland
 
-![Chinese Year of Dragon Year](Bitte Url nachtragen)
+![Chinese Year of Dragon Year](https://api.bannergress.com/bnrs/pictures/03379ec084ec761f07cb48300e9e88ad)
 
 
 
