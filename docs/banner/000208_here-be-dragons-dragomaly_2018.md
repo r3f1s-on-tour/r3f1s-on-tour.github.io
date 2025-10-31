@@ -12,7 +12,7 @@ date: "2018"
 bg-link: "https://bannergress.com/banner/here-be-dragons-a7a8"
 onyx: "0"
 description: ""
-lengthKMeters: ""
+lengthKMeters: "11,00"
 umap: ""
 missionDay: ""
 notice: ""
@@ -31,7 +31,7 @@ name: "Here Be Dragons - Dragomaly"
 
 
 ## Details
-
+- **Distance (km):** 11.00
 
 
 

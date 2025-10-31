@@ -12,7 +12,7 @@ date: "2018"
 bg-link: ""
 onyx: "0"
 description: ""
-lengthKMeters: ""
+lengthKMeters: "5,40"
 umap: ""
 missionDay: ""
 notice: ""
@@ -31,7 +31,7 @@ name: "Goldener Saal Augsburg"
 
 
 ## Details
-
+- **Distance (km):** 5.40
 
 
 

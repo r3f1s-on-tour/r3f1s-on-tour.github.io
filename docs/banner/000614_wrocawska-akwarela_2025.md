@@ -12,7 +12,7 @@ date: "2025"
 bg-link: "https://bannergress.com/banner/wroc%C5%82awska-akwarela-6252"
 onyx: "0"
 description: ""
-lengthKMeters: ""
+lengthKMeters: "4,6"
 umap: ""
 missionDay: ""
 notice: ""
@@ -31,7 +31,7 @@ name: "Wrocławska akwarela"
 
 
 ## Details
-
+- **Distance (km):** 4.60
 
 
 

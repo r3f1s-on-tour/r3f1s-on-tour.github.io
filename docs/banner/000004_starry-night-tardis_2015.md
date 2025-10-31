@@ -12,7 +12,7 @@ date: "2015"
 bg-link: "https://bannergress.com/banner/starry-night-tardis-1458"
 onyx: "0"
 description: ""
-lengthKMeters: ""
+lengthKMeters: "9,30"
 umap: ""
 missionDay: ""
 notice: ""
@@ -31,7 +31,7 @@ name: "Starry Night TARDIS"
 
 
 ## Details
-
+- **Distance (km):** 9.30
 
 
 

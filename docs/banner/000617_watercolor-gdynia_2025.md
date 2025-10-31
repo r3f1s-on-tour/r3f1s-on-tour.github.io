@@ -12,7 +12,7 @@ date: "2025"
 bg-link: "https://bannergress.com/banner/watercolor-gdynia-2799"
 onyx: "0"
 description: ""
-lengthKMeters: ""
+lengthKMeters: "5,8"
 umap: ""
 missionDay: ""
 notice: ""
@@ -31,7 +31,7 @@ name: "Watercolor Gdynia"
 
 
 ## Details
-
+- **Distance (km):** 5.80
 
 
 

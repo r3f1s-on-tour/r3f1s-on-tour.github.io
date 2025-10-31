@@ -12,7 +12,7 @@ date: "2017"
 bg-link: "https://bannergress.com/banner/rund-um-die-ludwigskirche-ac36"
 onyx: "0"
 description: ""
-lengthKMeters: ""
+lengthKMeters: "9,30"
 umap: ""
 missionDay: ""
 notice: ""
@@ -31,7 +31,7 @@ name: "Rund um die Ludwigskirche"
 
 
 ## Details
-
+- **Distance (km):** 9.30
 
 
 

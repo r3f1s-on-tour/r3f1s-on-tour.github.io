@@ -12,7 +12,7 @@ date: "2018"
 bg-link: "https://bannergress.com/banner/salzburg-domination-tour-9711"
 onyx: "0"
 description: ""
-lengthKMeters: ""
+lengthKMeters: "19,00"
 umap: ""
 missionDay: ""
 notice: ""
@@ -31,7 +31,7 @@ name: "Salzburg Domination Tour"
 
 
 ## Details
-
+- **Distance (km):** 19.00
 
 
 

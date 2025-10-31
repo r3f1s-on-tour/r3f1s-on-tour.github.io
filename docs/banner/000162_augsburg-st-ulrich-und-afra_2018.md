@@ -12,7 +12,7 @@ date: "2018"
 bg-link: "https://bannergress.com/banner/augsburg-st-ulrich-und-afra-7c19"
 onyx: "0"
 description: ""
-lengthKMeters: ""
+lengthKMeters: "15,00"
 umap: ""
 missionDay: ""
 notice: ""
@@ -31,7 +31,7 @@ name: "Augsburg St Ulrich und Afra"
 
 
 ## Details
-
+- **Distance (km):** 15.00
 
 
 

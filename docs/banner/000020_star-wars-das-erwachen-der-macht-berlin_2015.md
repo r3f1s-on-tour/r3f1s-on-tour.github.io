@@ -9,10 +9,10 @@ country: "Deutschland"
 completed: "354"
 missions: "6"
 date: "2015"
-bg-link: ""
+bg-link: "https://bannergress.com/banner/star-wars-das-erwachen-der-macht-berlin-b1ac"
 onyx: "0"
 description: ""
-lengthKMeters: ""
+lengthKMeters: "2,20"
 umap: ""
 missionDay: ""
 notice: ""
@@ -31,12 +31,17 @@ name: "STAR WARS - Das Erwachen der Macht (Berlin)"
 
 
 ## Details
+- **Distance (km):** 2.20
 
 
 
 
 
 
+
+
+## Links
+<a href="https://bannergress.com/banner/star-wars-das-erwachen-der-macht-berlin-b1ac" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
 
 
 

@@ -12,7 +12,7 @@ date: "2018"
 bg-link: "https://bannergress.com/banner/augsburg-im-juli-9dbb"
 onyx: "0"
 description: ""
-lengthKMeters: ""
+lengthKMeters: "6,30"
 umap: ""
 missionDay: ""
 notice: ""
@@ -31,7 +31,7 @@ name: "Augsburg im Juli"
 
 
 ## Details
-
+- **Distance (km):** 6.30
 
 
 

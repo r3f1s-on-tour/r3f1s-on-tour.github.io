@@ -12,7 +12,7 @@ date: "2017"
 bg-link: "https://bannergress.com/banner/die-stralsunder-tardis-e5ff"
 onyx: "0"
 description: ""
-lengthKMeters: ""
+lengthKMeters: "18,00"
 umap: ""
 missionDay: ""
 notice: ""
@@ -31,7 +31,7 @@ name: "Die Stralsunder Tardis"
 
 
 ## Details
-
+- **Distance (km):** 18.00
 
 
 

@@ -12,7 +12,7 @@ date: "2017"
 bg-link: "https://bannergress.com/banner/vier-tore-stadt-5193"
 onyx: "0"
 description: ""
-lengthKMeters: ""
+lengthKMeters: "9,40"
 umap: ""
 missionDay: ""
 notice: ""
@@ -31,7 +31,7 @@ name: "Vier-Tore-Stadt"
 
 
 ## Details
-
+- **Distance (km):** 9.40
 
 
 

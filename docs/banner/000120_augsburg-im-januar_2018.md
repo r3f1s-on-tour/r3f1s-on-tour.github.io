@@ -12,7 +12,7 @@ date: "2018"
 bg-link: "https://bannergress.com/banner/augsburg-im-januar-a82b"
 onyx: "0"
 description: ""
-lengthKMeters: ""
+lengthKMeters: "7,10"
 umap: ""
 missionDay: ""
 notice: ""
@@ -31,7 +31,7 @@ name: "Augsburg im Januar"
 
 
 ## Details
-
+- **Distance (km):** 7.10
 
 
 

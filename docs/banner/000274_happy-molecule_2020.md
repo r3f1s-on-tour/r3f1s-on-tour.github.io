@@ -12,7 +12,7 @@ date: "2020"
 bg-link: "https://bannergress.com/banner/happy-molecule-f3bc"
 onyx: "0"
 description: ""
-lengthKMeters: ""
+lengthKMeters: "5,60"
 umap: ""
 missionDay: ""
 notice: ""
@@ -31,7 +31,7 @@ name: "Happy Molecule"
 
 
 ## Details
-
+- **Distance (km):** 5.60
 
 
 

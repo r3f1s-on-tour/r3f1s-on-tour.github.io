@@ -12,7 +12,7 @@ date: "2016"
 bg-link: "https://bannergress.com/banner/erobere-woldegk-13fd"
 onyx: "0"
 description: ""
-lengthKMeters: ""
+lengthKMeters: "13,00"
 umap: ""
 missionDay: ""
 notice: ""
@@ -31,7 +31,7 @@ name: "Erobere Woldegk"
 
 
 ## Details
-
+- **Distance (km):** 13.00
 
 
 

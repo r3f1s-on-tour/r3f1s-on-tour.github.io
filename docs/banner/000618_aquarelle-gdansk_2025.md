@@ -12,7 +12,7 @@ date: "2025"
 bg-link: "https://bannergress.com/banner/aquarelle-gdansk-a640"
 onyx: "1"
 description: ""
-lengthKMeters: ""
+lengthKMeters: "2,8"
 umap: ""
 missionDay: ""
 notice: ""
@@ -31,7 +31,7 @@ name: "Aquarelle Gdansk"
 
 
 ## Details
-
+- **Distance (km):** 2.80
 
 
 

@@ -12,7 +12,7 @@ date: "2017"
 bg-link: "https://bannergress.com/banner/know-your-doctor-10b3"
 onyx: "0"
 description: ""
-lengthKMeters: ""
+lengthKMeters: "11,00"
 umap: ""
 missionDay: ""
 notice: ""
@@ -31,7 +31,7 @@ name: "Know Your Doctor"
 
 
 ## Details
-
+- **Distance (km):** 11.00
 
 
 

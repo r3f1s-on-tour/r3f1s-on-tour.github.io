@@ -12,7 +12,7 @@ date: "2019"
 bg-link: "https://bannergress.com/banner/the-sweet-unicorn-cd78"
 onyx: "0"
 description: ""
-lengthKMeters: ""
+lengthKMeters: "12,00"
 umap: ""
 missionDay: ""
 notice: ""
@@ -31,7 +31,7 @@ name: "Sweet Unicorn"
 
 
 ## Details
-
+- **Distance (km):** 12.00
 
 
 

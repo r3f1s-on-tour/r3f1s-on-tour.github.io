@@ -12,7 +12,7 @@ date: "2020"
 bg-link: "https://bannergress.com/banner/zeiss-gro%C3%9Fplanetarium-6b8c"
 onyx: "0"
 description: ""
-lengthKMeters: ""
+lengthKMeters: "6,00"
 umap: ""
 missionDay: ""
 notice: ""
@@ -31,7 +31,7 @@ name: "Zeiss-Großplanetarium"
 
 
 ## Details
-
+- **Distance (km):** 6.00
 
 
 

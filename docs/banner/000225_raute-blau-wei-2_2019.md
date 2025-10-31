@@ -12,7 +12,7 @@ date: "2019"
 bg-link: "https://bannergress.com/banner/raute-blau-wei%C3%9F-teil-ii-63f0"
 onyx: "0"
 description: ""
-lengthKMeters: ""
+lengthKMeters: "1,60"
 umap: ""
 missionDay: ""
 notice: ""
@@ -31,7 +31,7 @@ name: "Raute Blau Weiß 2"
 
 
 ## Details
-
+- **Distance (km):** 1.60
 
 
 

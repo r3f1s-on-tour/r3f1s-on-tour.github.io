@@ -12,7 +12,7 @@ date: "2017"
 bg-link: "https://bannergress.com/banner/schl%C3%B6sser-in-oberschlei%C3%9Fheim-429e"
 onyx: "0"
 description: ""
-lengthKMeters: ""
+lengthKMeters: "2,30"
 umap: ""
 missionDay: ""
 notice: ""
@@ -31,7 +31,7 @@ name: "Schlösser in Oberschleißheim"
 
 
 ## Details
-
+- **Distance (km):** 2.30
 
 
 

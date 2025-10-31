@@ -12,7 +12,7 @@ date: "2025"
 bg-link: "https://bannergress.com/banner/marx-is-calling-you-berlin-6c02"
 onyx: "0"
 description: ""
-lengthKMeters: ""
+lengthKMeters: "2,1"
 umap: ""
 missionDay: ""
 notice: ""
@@ -31,7 +31,7 @@ name: "Marx is calling you - Berlin"
 
 
 ## Details
-
+- **Distance (km):** 2.10
 
 
 

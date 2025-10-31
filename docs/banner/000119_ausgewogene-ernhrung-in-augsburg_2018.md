@@ -12,7 +12,7 @@ date: "2018"
 bg-link: "https://bannergress.com/banner/ausgewogene-ern%C3%A4hrung-in-augsburg-807f"
 onyx: "0"
 description: ""
-lengthKMeters: ""
+lengthKMeters: "5,10"
 umap: ""
 missionDay: ""
 notice: ""
@@ -31,7 +31,7 @@ name: "Ausgewogene Ernährung in Augsburg"
 
 
 ## Details
-
+- **Distance (km):** 5.10
 
 
 

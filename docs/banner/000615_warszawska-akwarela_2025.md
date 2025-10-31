@@ -12,7 +12,7 @@ date: "2025"
 bg-link: "https://bannergress.com/banner/warszawska-akwarela-f77f"
 onyx: "0"
 description: ""
-lengthKMeters: ""
+lengthKMeters: "5,9"
 umap: ""
 missionDay: ""
 notice: ""
@@ -31,7 +31,7 @@ name: "Warszawska akwarela"
 
 
 ## Details
-
+- **Distance (km):** 5.90
 
 
 

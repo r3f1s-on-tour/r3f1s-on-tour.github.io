@@ -12,7 +12,7 @@ date: "2018"
 bg-link: ""
 onyx: "1"
 description: ""
-lengthKMeters: ""
+lengthKMeters: "4,70"
 umap: ""
 missionDay: ""
 notice: ""
@@ -31,7 +31,7 @@ name: "Eine Woche voller Kuchen"
 
 
 ## Details
-
+- **Distance (km):** 4.70
 
 
 
