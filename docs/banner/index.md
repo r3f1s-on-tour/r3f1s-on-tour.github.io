@@ -120,6 +120,7 @@
 - [Chagall Window blue](./000060_chagall-window-blue_2017/)
 - [Chagall Window yellow](./000061_chagall-window-yellow_2017/)
 - [Cherry Blossom](./000514_cherry-blossom_2022/)
+- [Chinese Year of Dragon Year](./000626_chinese-year-of-dragon-year_2025/)
 - [Circles Strasburg](./000378_circles-strasburg_2021/)
 - [Clear your mind -Valencia](./000595_clear-your-mind-valencia_2024/)
 - [Clockwork Orange](./000370_clockwork-orange_2021/)

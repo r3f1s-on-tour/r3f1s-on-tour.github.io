@@ -2,9 +2,9 @@
 
 ## Gesamtstatistik
 
-- **Gesamtbanner:** 625
-- **Missionen gesamt:** 13596
-- **Gesamt km:** 6816.12
+- **Gesamtbanner:** 626
+- **Missionen gesamt:** 13614
+- **Gesamt km:** 6824.22
 - **MissionDays gesamt:** 20
 - **Anzahl Länder (unique):** 9
 - **Anzahl Städte (unique):** 107
@@ -12,12 +12,12 @@
 
 ## Durchschnittsstatistik
 
-- **Ø Banner/Jahr:** 56.82
-- **Ø Banner/Monat:** 4.73
-- **Ø Missionen/Jahr:** 1236.00
-- **Ø Missionen/Monat:** 103.00
-- **Ø km/Jahr:** 619.65
-- **Ø km/Monat:** 51.64
+- **Ø Banner/Jahr:** 56.91
+- **Ø Banner/Monat:** 4.74
+- **Ø Missionen/Jahr:** 1237.64
+- **Ø Missionen/Monat:** 103.14
+- **Ø km/Jahr:** 620.38
+- **Ø km/Monat:** 51.70
 
 ## Jahresstatistik
 
@@ -33,13 +33,13 @@
 | 2022 | 138 | 2724 | 1 | 1029.94 | 5 |
 | 2023 | 72 | 2070 | 3 | 1506.02 | 4 |
 | 2024 | 18 | 258 | 2 | 60.23 | 1 |
-| 2025 | 18 | 288 | 2 | 54.93 | 1 |
+| 2025 | 19 | 306 | 2 | 63.03 | 1 |
 
 ## Länder (nach Anzahl Banner)
 
 | Land | Banner | Anteil |
 |:-----|------:|------:|
-| Deutschland | 560 | 89.6% |
+| Deutschland | 561 | 89.6% |
 | España | 23 | 3.7% |
 | Polska | 17 | 2.7% |
 | Schweiz/Suisse/Svizzera/Svizra | 8 | 1.3% |
@@ -56,7 +56,7 @@
 | Berlin | 114 | 18.2% |
 | Oranienburg | 85 | 13.6% |
 | München | 75 | 12.0% |
-| Neubrandenburg | 39 | 6.2% |
+| Neubrandenburg | 40 | 6.4% |
 | Strasburg (Uckermark) | 32 | 5.1% |
 | Augsburg | 20 | 3.2% |
 | Dresden | 13 | 2.1% |
