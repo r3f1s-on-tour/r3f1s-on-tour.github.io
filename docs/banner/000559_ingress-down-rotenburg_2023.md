@@ -22,7 +22,7 @@ slug: "ingress-down-rotenburg"
 href: "banner/000559_ingress-down-rotenburg_2023.md"
 name: "Ingress down Rotenburg"
 ---
-# 000559.Ingress down Rotenburg
+# Ingress down Rotenburg
 
 *2023* • Rotenburg an der Fulda • Deutschland
 
@@ -32,8 +32,8 @@ name: "Ingress down Rotenburg"
 
 ## Details
 - **Distance (km):** 2.14
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 12.420
 
 
 
@@ -49,4 +49,9 @@ Entdecke spannende Orte und historische Ecken bei einem kleinen Rundgang durch R
 
 
 
-> File: `000559_ingress-down-rotenburg_2023.md` • #000559 • Slug: `ingress-down-rotenburg`
+> File: 
+```
+• 000559_ingress-down-rotenburg_2023.md
+• #000559 
+• Slug: `ingress-down-rotenburg
+```

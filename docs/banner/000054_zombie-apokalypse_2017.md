@@ -22,7 +22,7 @@ slug: "zombie-apokalypse"
 href: "banner/000054_zombie-apokalypse_2017.md"
 name: "Zombie Apokalypse"
 ---
-# 000054.Zombie Apokalypse
+# Zombie Apokalypse
 
 *2017* • Webling • Deutschland
 
@@ -32,8 +32,8 @@ name: "Zombie Apokalypse"
 
 ## Details
 - **Distance (km):** 4.55
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 1236
 
 
 
@@ -49,4 +49,9 @@ Zombies überrennen die Stadt. Versuche zu entkommen und durchquere die Altstadt
 
 
 
-> File: `000054_zombie-apokalypse_2017.md` • #000054 • Slug: `zombie-apokalypse`
+> File: 
+```
+• 000054_zombie-apokalypse_2017.md
+• #000054 
+• Slug: `zombie-apokalypse
+```

@@ -22,7 +22,7 @@ slug: "green-wolf-in-oranienburg"
 href: "banner/000536_green-wolf-in-oranienburg_2023.md"
 name: "Green Wolf in Oranienburg"
 ---
-# 000536.Green Wolf in Oranienburg
+# Green Wolf in Oranienburg
 
 *2023* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Green Wolf in Oranienburg"
 
 ## Details
 - **Distance (km):** 17.93
-
-
+- **Missions in banner:** 78
+- **Total missions completed:** 11.820
 
 
 
@@ -49,4 +49,9 @@ Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdig
 
 
 
-> File: `000536_green-wolf-in-oranienburg_2023.md` • #000536 • Slug: `green-wolf-in-oranienburg`
+> File: 
+```
+• 000536_green-wolf-in-oranienburg_2023.md
+• #000536 
+• Slug: `green-wolf-in-oranienburg
+```

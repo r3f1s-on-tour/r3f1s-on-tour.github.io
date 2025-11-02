@@ -22,7 +22,7 @@ slug: "blauer-reiter-tour"
 href: "banner/000045_blauer-reiter-tour_2016.md"
 name: "Blauer Reiter Tour"
 ---
-# 000045.Blauer Reiter Tour
+# Blauer Reiter Tour
 
 *2016* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "Blauer Reiter Tour"
 
 ## Details
 - **Distance (km):** 17.08
-
-
+- **Missions in banner:** 48
+- **Total missions completed:** 1026
 
 
 
@@ -51,4 +51,9 @@ Erschaffen hat den Blauen Reiter Franz Marc (1880 – 1916), wo man das Original
 
 
 
-> File: `000045_blauer-reiter-tour_2016.md` • #000045 • Slug: `blauer-reiter-tour`
+> File: 
+```
+• 000045_blauer-reiter-tour_2016.md
+• #000045 
+• Slug: `blauer-reiter-tour
+```

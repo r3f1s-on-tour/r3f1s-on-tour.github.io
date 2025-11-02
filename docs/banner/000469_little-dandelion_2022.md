@@ -22,7 +22,7 @@ slug: "little-dandelion"
 href: "banner/000469_little-dandelion_2022.md"
 name: "Little Dandelion"
 ---
-# 000469.Little Dandelion
+# Little Dandelion
 
 *2022* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Little Dandelion"
 
 ## Details
 - **Distance (km):** 5.08
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 10.308
 
 
 
@@ -49,4 +49,9 @@ Start at Rotes Rathaus for a short tour through the center of Berlin & discover 
 
 
 
-> File: `000469_little-dandelion_2022.md` • #000469 • Slug: `little-dandelion`
+> File: 
+```
+• 000469_little-dandelion_2022.md
+• #000469 
+• Slug: `little-dandelion
+```

@@ -22,7 +22,7 @@ slug: "region-skne-banner"
 href: "banner/000201_region-skne-banner_2018.md"
 name: "Region Skåne Banner"
 ---
-# 000201.Region Skåne Banner
+# Region Skåne Banner
 
 *2018* • Malmö • Sverige
 
@@ -32,6 +32,8 @@ name: "Region Skåne Banner"
 
 ## Details
 
+- **Missions in banner:** 42
+- **Total missions completed:** 4716
 
 
 
@@ -39,6 +41,9 @@ name: "Region Skåne Banner"
 
 
 
-
-
-> File: `000201_region-skne-banner_2018.md` • #000201 • Slug: `region-skne-banner`
+> File: 
+```
+• 000201_region-skne-banner_2018.md
+• #000201 
+• Slug: `region-skne-banner
+```

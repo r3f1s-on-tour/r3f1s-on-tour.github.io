@@ -22,7 +22,7 @@ slug: "wasserburger-altstadt"
 href: "banner/000140_wasserburger-altstadt_2018.md"
 name: "Wasserburger Altstadt"
 ---
-# 000140.Wasserburger Altstadt
+# Wasserburger Altstadt
 
 *2018* • Wasserburg am Inn • Deutschland
 
@@ -32,8 +32,8 @@ name: "Wasserburger Altstadt"
 
 ## Details
 - **Distance (km):** 5.45
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 3348
 
 
 
@@ -50,4 +50,9 @@ The missions (1-12) should be done in sequence (start @Busbahnhof) to get a nice
 
 
 
-> File: `000140_wasserburger-altstadt_2018.md` • #000140 • Slug: `wasserburger-altstadt`
+> File: 
+```
+• 000140_wasserburger-altstadt_2018.md
+• #000140 
+• Slug: `wasserburger-altstadt
+```

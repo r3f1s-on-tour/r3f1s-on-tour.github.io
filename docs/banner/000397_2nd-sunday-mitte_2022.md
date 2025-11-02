@@ -22,7 +22,7 @@ slug: "2nd-sunday-mitte"
 href: "banner/000397_2nd-sunday-mitte_2022.md"
 name: "2nd Sunday Mitte"
 ---
-# 000397.2nd Sunday Mitte
+# 2nd Sunday Mitte
 
 *2022* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "2nd Sunday Mitte"
 
 ## Details
 - **Distance (km):** 2.04
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 8.514
 
 
 
@@ -49,4 +49,9 @@ Spaziere zum Second Sunday 02/22 über den Boulevard Unter den Linden im Bezitk 
 
 
 
-> File: `000397_2nd-sunday-mitte_2022.md` • #000397 • Slug: `2nd-sunday-mitte`
+> File: 
+```
+• 000397_2nd-sunday-mitte_2022.md
+• #000397 
+• Slug: `2nd-sunday-mitte
+```

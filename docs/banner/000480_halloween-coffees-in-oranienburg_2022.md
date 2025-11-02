@@ -22,7 +22,7 @@ slug: "halloween-coffees-in-oranienburg"
 href: "banner/000480_halloween-coffees-in-oranienburg_2022.md"
 name: "Halloween Coffees in Oranienburg"
 ---
-# 000480.Halloween Coffees in Oranienburg
+# Halloween Coffees in Oranienburg
 
 *2022* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Halloween Coffees in Oranienburg"
 
 ## Details
 - **Distance (km):** 1.60
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 10.416
 
 
 
@@ -49,4 +49,9 @@ Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und end
 
 
 
-> File: `000480_halloween-coffees-in-oranienburg_2022.md` • #000480 • Slug: `halloween-coffees-in-oranienburg`
+> File: 
+```
+• 000480_halloween-coffees-in-oranienburg_2022.md
+• #000480 
+• Slug: `halloween-coffees-in-oranienburg
+```

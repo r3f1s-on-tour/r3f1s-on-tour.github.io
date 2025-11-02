@@ -22,7 +22,7 @@ slug: "md-2022-stolpersteine-berlin"
 href: "banner/000516_md-2022-stolpersteine-berlin_2022.md"
 name: "MD 2022: Stolpersteine, Berlin"
 ---
-# 000516.MD 2022: Stolpersteine, Berlin
+# MD 2022: Stolpersteine, Berlin
 
 *2022* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "MD 2022: Stolpersteine, Berlin"
 
 ## Details
 - **Distance (km):** 2.95
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 10.974
 
 - **Mission Day:** Yes
 
@@ -49,4 +49,9 @@ Part of MD 2022: Stolpersteine
 
 
 
-> File: `000516_md-2022-stolpersteine-berlin_2022.md` • #000516 • Slug: `md-2022-stolpersteine-berlin`
+> File: 
+```
+• 000516_md-2022-stolpersteine-berlin_2022.md
+• #000516 
+• Slug: `md-2022-stolpersteine-berlin
+```

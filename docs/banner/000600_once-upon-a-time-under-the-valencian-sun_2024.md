@@ -22,7 +22,7 @@ slug: "once-upon-a-time-under-the-valencian-sun"
 href: "banner/000600_once-upon-a-time-under-the-valencian-sun_2024.md"
 name: "Once Upon A Time Under The Valencian Sun"
 ---
-# 000600.Once Upon A Time Under The Valencian Sun
+# Once Upon A Time Under The Valencian Sun
 
 *2024* • València • España
 
@@ -32,8 +32,8 @@ name: "Once Upon A Time Under The Valencian Sun"
 
 ## Details
 - **Distance (km):** 4.88
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 13.236
 
 
 
@@ -49,4 +49,9 @@ Discover Valencia's Old Town, where historic charm meets vibrant culture. Wander
 
 
 
-> File: `000600_once-upon-a-time-under-the-valencian-sun_2024.md` • #000600 • Slug: `once-upon-a-time-under-the-valencian-sun`
+> File: 
+```
+• 000600_once-upon-a-time-under-the-valencian-sun_2024.md
+• #000600 
+• Slug: `once-upon-a-time-under-the-valencian-sun
+```

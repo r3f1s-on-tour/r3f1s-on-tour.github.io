@@ -22,7 +22,7 @@ slug: "mnchens-biergrten"
 href: "banner/000091_mnchens-biergrten_2017.md"
 name: "Münchens Biergärten"
 ---
-# 000091.Münchens Biergärten
+# Münchens Biergärten
 
 *2017* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "Münchens Biergärten"
 
 ## Details
 - **Distance (km):** 13.99
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 2370
 
 
 
@@ -49,4 +49,9 @@ Besuche Münchens große Biergärten
 
 
 
-> File: `000091_mnchens-biergrten_2017.md` • #000091 • Slug: `mnchens-biergrten`
+> File: 
+```
+• 000091_mnchens-biergrten_2017.md
+• #000091 
+• Slug: `mnchens-biergrten
+```

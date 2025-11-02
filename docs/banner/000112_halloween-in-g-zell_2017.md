@@ -22,7 +22,7 @@ slug: "halloween-in-g-zell"
 href: "banner/000112_halloween-in-g-zell_2017.md"
 name: "Halloween in G zell"
 ---
-# 000112.Halloween in G zell
+# Halloween in G zell
 
 *2017* • Gröbenzell • Deutschland
 
@@ -32,8 +32,8 @@ name: "Halloween in G zell"
 
 ## Details
 - **Distance (km):** 3.38
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 2772
 
 
 
@@ -49,4 +49,9 @@ Ursprünglich aus Irland stammend fand der Brauch, in der Nacht vor Allerheilige
 
 
 
-> File: `000112_halloween-in-g-zell_2017.md` • #000112 • Slug: `halloween-in-g-zell`
+> File: 
+```
+• 000112_halloween-in-g-zell_2017.md
+• #000112 
+• Slug: `halloween-in-g-zell
+```

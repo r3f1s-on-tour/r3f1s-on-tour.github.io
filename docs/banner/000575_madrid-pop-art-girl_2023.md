@@ -22,7 +22,7 @@ slug: "madrid-pop-art-girl"
 href: "banner/000575_madrid-pop-art-girl_2023.md"
 name: "MADRID POP ART GIRL"
 ---
-# 000575.MADRID POP ART GIRL
+# MADRID POP ART GIRL
 
 *2023* • Madrid • España
 
@@ -32,8 +32,8 @@ name: "MADRID POP ART GIRL"
 
 ## Details
 - **Distance (km):** 8.27
-
-
+- **Missions in banner:** 48
+- **Total missions completed:** 12.750
 
 
 
@@ -49,4 +49,9 @@ Descubre los lugares más emblematicos y con encato de Madrid. Desde Sol a la Pl
 
 
 
-> File: `000575_madrid-pop-art-girl_2023.md` • #000575 • Slug: `madrid-pop-art-girl`
+> File: 
+```
+• 000575_madrid-pop-art-girl_2023.md
+• #000575 
+• Slug: `madrid-pop-art-girl
+```

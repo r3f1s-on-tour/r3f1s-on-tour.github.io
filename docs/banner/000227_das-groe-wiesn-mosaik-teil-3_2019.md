@@ -3,7 +3,7 @@ nummer: "227"
 startLatitude: "48.132192"
 startLongitude: "11.553859"
 titel: "Das Große Wiesn Mosaik Teil 3"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/5d776cc83fb15bd6ee763f1a2480803b"
 region: "München"
 country: "Deutschland"
 completed: "5484"
@@ -22,18 +22,18 @@ slug: "das-groe-wiesn-mosaik-teil-3"
 href: "banner/000227_das-groe-wiesn-mosaik-teil-3_2019.md"
 name: "Das Große Wiesn Mosaik Teil 3"
 ---
-# 000227.Das Große Wiesn Mosaik Teil 3
+# Das Große Wiesn Mosaik Teil 3
 
 *2019* • München • Deutschland
 
-
+![Das Große Wiesn Mosaik Teil 3](https://api.bannergress.com/bnrs/pictures/5d776cc83fb15bd6ee763f1a2480803b)
 
 
 
 ## Details
 - **Distance (km):** 34.00
-
-
+- **Missions in banner:** 30
+- **Total missions completed:** 5484
 
 
 
@@ -49,4 +49,9 @@ Teil 3 der großen Wiesnreihe. Start und Ende an der Theresienwiese. Hälfte ist
 
 
 
-> File: `000227_das-groe-wiesn-mosaik-teil-3_2019.md` • #000227 • Slug: `das-groe-wiesn-mosaik-teil-3`
+> File: 
+```
+• 000227_das-groe-wiesn-mosaik-teil-3_2019.md
+• #000227 
+• Slug: `das-groe-wiesn-mosaik-teil-3
+```

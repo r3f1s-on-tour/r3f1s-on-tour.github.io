@@ -3,7 +3,7 @@ nummer: "224"
 startLatitude: "48.135901"
 startLongitude: "11.549709"
 titel: "Das Große Wiesn Mosaik Teil 1"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/a9ecad2661411d14b330de91487eb38c"
 region: "München"
 country: "Deutschland"
 completed: "5400"
@@ -22,18 +22,18 @@ slug: "das-groe-wiesn-mosaik-teil-1"
 href: "banner/000224_das-groe-wiesn-mosaik-teil-1_2019.md"
 name: "Das Große Wiesn Mosaik Teil 1"
 ---
-# 000224.Das Große Wiesn Mosaik Teil 1
+# Das Große Wiesn Mosaik Teil 1
 
 *2019* • München • Deutschland
 
-
+![Das Große Wiesn Mosaik Teil 1](https://api.bannergress.com/bnrs/pictures/a9ecad2661411d14b330de91487eb38c)
 
 
 
 ## Details
 - **Distance (km):** 21.00
-
-
+- **Missions in banner:** 48
+- **Total missions completed:** 5400
 
 
 
@@ -49,4 +49,9 @@ Teil 1 der großen Wiesnreihe. Start und Ende an der Theresienwiese. Hälfte der
 
 
 
-> File: `000224_das-groe-wiesn-mosaik-teil-1_2019.md` • #000224 • Slug: `das-groe-wiesn-mosaik-teil-1`
+> File: 
+```
+• 000224_das-groe-wiesn-mosaik-teil-1_2019.md
+• #000224 
+• Slug: `das-groe-wiesn-mosaik-teil-1
+```

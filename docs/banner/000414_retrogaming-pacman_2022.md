@@ -22,7 +22,7 @@ slug: "retrogaming-pacman"
 href: "banner/000414_retrogaming-pacman_2022.md"
 name: "RetroGaming - Pacman"
 ---
-# 000414.RetroGaming - Pacman
+# RetroGaming - Pacman
 
 *2022* • Pasewalk • Deutschland
 
@@ -32,8 +32,8 @@ name: "RetroGaming - Pacman"
 
 ## Details
 - **Distance (km):** 3.57
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 8.718
 
 
 
@@ -49,4 +49,9 @@ Starte auf dem Markt eine Entdeckungsreise durch die Stadt Pasewalk und entdecke
 
 
 
-> File: `000414_retrogaming-pacman_2022.md` • #000414 • Slug: `retrogaming-pacman`
+> File: 
+```
+• 000414_retrogaming-pacman_2022.md
+• #000414 
+• Slug: `retrogaming-pacman
+```

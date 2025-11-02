@@ -22,7 +22,7 @@ slug: "mzfpk-birkenwerder"
 href: "banner/000548_mzfpk-birkenwerder_2023.md"
 name: "MZFPK-Birkenwerder"
 ---
-# 000548.MZFPK-Birkenwerder
+# MZFPK-Birkenwerder
 
 *2023* • Birkenwerder • Deutschland
 
@@ -32,8 +32,8 @@ name: "MZFPK-Birkenwerder"
 
 ## Details
 - **Distance (km):** 0.93
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 12.132
 
 
 
@@ -50,4 +50,9 @@ Builder.Enginer-Hacker-Purifier-Translator-Trekker
 
 
 
-> File: `000548_mzfpk-birkenwerder_2023.md` • #000548 • Slug: `mzfpk-birkenwerder`
+> File: 
+```
+• 000548_mzfpk-birkenwerder_2023.md
+• #000548 
+• Slug: `mzfpk-birkenwerder
+```

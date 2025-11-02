@@ -22,7 +22,7 @@ slug: "gryf-szczeciski"
 href: "banner/000023_gryf-szczeciski_2016.md"
 name: "Gryf Szczeciński"
 ---
-# 000023.Gryf Szczeciński
+# Gryf Szczeciński
 
 *2016* • Szczecin • Polska
 
@@ -32,8 +32,8 @@ name: "Gryf Szczeciński"
 
 ## Details
 - **Distance (km):** 12.44
-
-
+- **Missions in banner:** 42
+- **Total missions completed:** 420
 
 
 
@@ -49,4 +49,9 @@ Jeden z symboli miejskich Szczecina. Symbol książąt z dynastii Gryfitów.
 
 
 
-> File: `000023_gryf-szczeciski_2016.md` • #000023 • Slug: `gryf-szczeciski`
+> File: 
+```
+• 000023_gryf-szczeciski_2016.md
+• #000023 
+• Slug: `gryf-szczeciski
+```

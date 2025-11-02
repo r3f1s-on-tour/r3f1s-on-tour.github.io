@@ -22,7 +22,7 @@ slug: "stralsund-aquarell"
 href: "banner/000331_stralsund-aquarell_2021.md"
 name: "Stralsund Aquarell"
 ---
-# 000331.Stralsund Aquarell
+# Stralsund Aquarell
 
 *2021* • Stralsund • Deutschland
 
@@ -32,8 +32,8 @@ name: "Stralsund Aquarell"
 
 ## Details
 - **Distance (km):** 3.85
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 7578
 
 
 
@@ -49,4 +49,9 @@ Willkommen am Stralsunder Hauptbahnhof. Von hier aus führt die Missionsreihe in
 
 
 
-> File: `000331_stralsund-aquarell_2021.md` • #000331 • Slug: `stralsund-aquarell`
+> File: 
+```
+• 000331_stralsund-aquarell_2021.md
+• #000331 
+• Slug: `stralsund-aquarell
+```

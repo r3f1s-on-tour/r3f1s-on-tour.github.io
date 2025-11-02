@@ -22,7 +22,7 @@ slug: "xenomorph-walk"
 href: "banner/000387_xenomorph-walk_2022.md"
 name: "Xenomorph Walk"
 ---
-# 000387.Xenomorph Walk
+# Xenomorph Walk
 
 *2022* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Xenomorph Walk"
 
 ## Details
 - **Distance (km):** 3.92
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 8.328
 
 
 
@@ -51,4 +51,9 @@ Online bis 01.05.2022
 
 
 
-> File: `000387_xenomorph-walk_2022.md` • #000387 • Slug: `xenomorph-walk`
+> File: 
+```
+• 000387_xenomorph-walk_2022.md
+• #000387 
+• Slug: `xenomorph-walk
+```

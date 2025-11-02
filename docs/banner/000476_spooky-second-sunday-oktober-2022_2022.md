@@ -22,7 +22,7 @@ slug: "spooky-second-sunday-oktober-2022"
 href: "banner/000476_spooky-second-sunday-oktober-2022_2022.md"
 name: "Spooky Second Sunday - Oktober 2022"
 ---
-# 000476.Spooky Second Sunday - Oktober 2022
+# Spooky Second Sunday - Oktober 2022
 
 *2022* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Spooky Second Sunday - Oktober 2022"
 
 ## Details
 - **Distance (km):** 1.60
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 10.374
 
 
 
@@ -49,4 +49,9 @@ Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und end
 
 
 
-> File: `000476_spooky-second-sunday-oktober-2022_2022.md` • #000476 • Slug: `spooky-second-sunday-oktober-2022`
+> File: 
+```
+• 000476_spooky-second-sunday-oktober-2022_2022.md
+• #000476 
+• Slug: `spooky-second-sunday-oktober-2022
+```

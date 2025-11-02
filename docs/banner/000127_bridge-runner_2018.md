@@ -22,7 +22,7 @@ slug: "bridge-runner"
 href: "banner/000127_bridge-runner_2018.md"
 name: "Bridge Runner"
 ---
-# 000127.Bridge Runner
+# Bridge Runner
 
 *2018* • Heidelberg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Bridge Runner"
 
 ## Details
 - **Distance (km):** 1.59
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 3132
 
 
 
@@ -49,4 +49,9 @@ Hin und her auf der Brücke mit Fragen & Hacks. Als 5er- oder 6er-Mission spielb
 
 
 
-> File: `000127_bridge-runner_2018.md` • #000127 • Slug: `bridge-runner`
+> File: 
+```
+• 000127_bridge-runner_2018.md
+• #000127 
+• Slug: `bridge-runner
+```

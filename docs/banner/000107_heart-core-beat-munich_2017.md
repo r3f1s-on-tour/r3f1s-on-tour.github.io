@@ -22,7 +22,7 @@ slug: "heart-core-beat-munich"
 href: "banner/000107_heart-core-beat-munich_2017.md"
 name: "Heart Core Beat Munich"
 ---
-# 000107.Heart Core Beat Munich
+# Heart Core Beat Munich
 
 *2017* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "Heart Core Beat Munich"
 
 ## Details
 - **Distance (km):** 2.70
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 2700
 
 
 
@@ -49,4 +49,9 @@ This resistance heartbeat as a counterpart to the luminescent heart leads  you t
 
 
 
-> File: `000107_heart-core-beat-munich_2017.md` • #000107 • Slug: `heart-core-beat-munich`
+> File: 
+```
+• 000107_heart-core-beat-munich_2017.md
+• #000107 
+• Slug: `heart-core-beat-munich
+```

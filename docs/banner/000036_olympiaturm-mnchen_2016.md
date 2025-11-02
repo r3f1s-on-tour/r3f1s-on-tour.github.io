@@ -22,7 +22,7 @@ slug: "olympiaturm-mnchen"
 href: "banner/000036_olympiaturm-mnchen_2016.md"
 name: "Olympiaturm München"
 ---
-# 000036.Olympiaturm München
+# Olympiaturm München
 
 *2016* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "Olympiaturm München"
 
 ## Details
 - **Distance (km):** 21.90
-
-
+- **Missions in banner:** 60
+- **Total missions completed:** 750
 
 
 
@@ -49,4 +49,9 @@ Diese Missionsreihe führt dich vom Hauptbahnhof quer durch München zum Olympia
 
 
 
-> File: `000036_olympiaturm-mnchen_2016.md` • #000036 • Slug: `olympiaturm-mnchen`
+> File: 
+```
+• 000036_olympiaturm-mnchen_2016.md
+• #000036 
+• Slug: `olympiaturm-mnchen
+```

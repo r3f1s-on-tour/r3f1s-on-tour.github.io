@@ -22,7 +22,7 @@ slug: "cherry-blossom"
 href: "banner/000514_cherry-blossom_2022.md"
 name: "Cherry Blossom"
 ---
-# 000514.Cherry Blossom
+# Cherry Blossom
 
 *2022* • Bonn • Deutschland
 
@@ -32,8 +32,8 @@ name: "Cherry Blossom"
 
 ## Details
 - **Distance (km):** 5.95
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 10.944
 
 
 
@@ -49,4 +49,9 @@ Welcome to Bonn! Have a great time and enjoy the Cherry Blossom.
 
 
 
-> File: `000514_cherry-blossom_2022.md` • #000514 • Slug: `cherry-blossom`
+> File: 
+```
+• 000514_cherry-blossom_2022.md
+• #000514 
+• Slug: `cherry-blossom
+```

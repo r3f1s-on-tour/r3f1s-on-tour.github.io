@@ -22,7 +22,7 @@ slug: "pasinger-stadtwappen"
 href: "banner/000053_pasinger-stadtwappen_2017.md"
 name: "Pasinger Stadtwappen"
 ---
-# 000053.Pasinger Stadtwappen
+# Pasinger Stadtwappen
 
 *2017* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "Pasinger Stadtwappen"
 
 ## Details
 - **Distance (km):** 13.85
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 1224
 
 
 
@@ -49,4 +49,9 @@ Die nächste Mission beginnt jeweils am letzten Portal der vorherigen Mission. E
 
 
 
-> File: `000053_pasinger-stadtwappen_2017.md` • #000053 • Slug: `pasinger-stadtwappen`
+> File: 
+```
+• 000053_pasinger-stadtwappen_2017.md
+• #000053 
+• Slug: `pasinger-stadtwappen
+```

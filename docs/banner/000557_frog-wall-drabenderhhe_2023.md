@@ -22,7 +22,7 @@ slug: "frog-wall-drabenderhhe"
 href: "banner/000557_frog-wall-drabenderhhe_2023.md"
 name: "Frog Wall Drabenderhöhe"
 ---
-# 000557.Frog Wall Drabenderhöhe
+# Frog Wall Drabenderhöhe
 
 *2023* • Drabenderhöhe • Deutschland
 
@@ -32,8 +32,8 @@ name: "Frog Wall Drabenderhöhe"
 
 ## Details
 - **Distance (km):** 2.08
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 12.390
 
 
 
@@ -49,4 +49,9 @@ Kleine Runde um die Kirche und dem Turm der Erinnerung in Drabenderhöhe.
 
 
 
-> File: `000557_frog-wall-drabenderhhe_2023.md` • #000557 • Slug: `frog-wall-drabenderhhe`
+> File: 
+```
+• 000557_frog-wall-drabenderhhe_2023.md
+• #000557 
+• Slug: `frog-wall-drabenderhhe
+```

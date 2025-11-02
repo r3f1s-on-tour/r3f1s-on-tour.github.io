@@ -22,7 +22,7 @@ slug: "rainbow-people-in-oranienburg"
 href: "banner/000357_rainbow-people-in-oranienburg_2021.md"
 name: "Rainbow People in Oranienburg"
 ---
-# 000357.Rainbow People in Oranienburg
+# Rainbow People in Oranienburg
 
 *2021* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Rainbow People in Oranienburg"
 
 ## Details
 - **Distance (km):** 3.64
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 7956
 
 
 
@@ -44,4 +44,9 @@ Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> File: `000357_rainbow-people-in-oranienburg_2021.md` • #000357 • Slug: `rainbow-people-in-oranienburg`
+> File: 
+```
+• 000357_rainbow-people-in-oranienburg_2021.md
+• #000357 
+• Slug: `rainbow-people-in-oranienburg
+```

@@ -22,7 +22,7 @@ slug: "whaleomaly-is-coming-kloster-frstenfeld"
 href: "banner/000178_whaleomaly-is-coming-kloster-frstenfeld_2018.md"
 name: "Whaleomaly is Coming [Kloster Fürstenfeld]"
 ---
-# 000178.Whaleomaly is Coming [Kloster Fürstenfeld]
+# Whaleomaly is Coming [Kloster Fürstenfeld]
 
 *2018* • Fürstenfeldbruck • Deutschland
 
@@ -32,8 +32,8 @@ name: "Whaleomaly is Coming [Kloster Fürstenfeld]"
 
 ## Details
 - **Distance (km):** 2.49
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 4254
 
 
 
@@ -50,4 +50,9 @@ Explore the Whales of Kloster Fürstenfeld! Take them with you to unite at the W
 
 
 
-> File: `000178_whaleomaly-is-coming-kloster-frstenfeld_2018.md` • #000178 • Slug: `whaleomaly-is-coming-kloster-frstenfeld`
+> File: 
+```
+• 000178_whaleomaly-is-coming-kloster-frstenfeld_2018.md
+• #000178 
+• Slug: `whaleomaly-is-coming-kloster-frstenfeld
+```

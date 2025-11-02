@@ -22,7 +22,7 @@ slug: "grner-krieger"
 href: "banner/000285_grner-krieger_2020.md"
 name: "Grüner Krieger"
 ---
-# 000285.Grüner Krieger
+# Grüner Krieger
 
 *2020* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "Grüner Krieger"
 
 ## Details
 - **Distance (km):** 15.59
-
-
+- **Missions in banner:** 54
+- **Total missions completed:** 6684
 
 
 
@@ -49,4 +49,9 @@ Erkunde die Stadt München ab dem Karlsplatz durch die Maxvorstadt bis zum Haupt
 
 
 
-> File: `000285_grner-krieger_2020.md` • #000285 • Slug: `grner-krieger`
+> File: 
+```
+• 000285_grner-krieger_2020.md
+• #000285 
+• Slug: `grner-krieger
+```

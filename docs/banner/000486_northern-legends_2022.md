@@ -22,7 +22,7 @@ slug: "northern-legends"
 href: "banner/000486_northern-legends_2022.md"
 name: "Northern Legends"
 ---
-# 000486.Northern Legends
+# Northern Legends
 
 *2022* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Northern Legends"
 
 ## Details
 - **Distance (km):** 1.26
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 10.488
 
 
 
@@ -49,4 +49,9 @@ Follow your path through the neighborhood of Friedrichshain.
 
 
 
-> File: `000486_northern-legends_2022.md` • #000486 • Slug: `northern-legends`
+> File: 
+```
+• 000486_northern-legends_2022.md
+• #000486 
+• Slug: `northern-legends
+```

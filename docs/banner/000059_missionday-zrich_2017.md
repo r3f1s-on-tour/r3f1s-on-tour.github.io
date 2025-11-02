@@ -22,7 +22,7 @@ slug: "missionday-zrich"
 href: "banner/000059_missionday-zrich_2017.md"
 name: "MissionDay Zürich"
 ---
-# 000059.MissionDay Zürich
+# MissionDay Zürich
 
 *2017* • Zürich • Schweiz/Suisse/Svizzera/Svizra
 
@@ -32,8 +32,8 @@ name: "MissionDay Zürich"
 
 ## Details
 - **Distance (km):** 20.03
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 1344
 
 - **Mission Day:** Yes
 
@@ -46,4 +46,9 @@ name: "MissionDay Zürich"
 
 
 
-> File: `000059_missionday-zrich_2017.md` • #000059 • Slug: `missionday-zrich`
+> File: 
+```
+• 000059_missionday-zrich_2017.md
+• #000059 
+• Slug: `missionday-zrich
+```

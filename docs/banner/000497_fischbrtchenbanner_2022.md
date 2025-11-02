@@ -22,7 +22,7 @@ slug: "fischbrtchenbanner"
 href: "banner/000497_fischbrtchenbanner_2022.md"
 name: "Fischbrötchenbanner"
 ---
-# 000497.Fischbrötchenbanner
+# Fischbrötchenbanner
 
 *2022* • Köln • Deutschland
 
@@ -32,8 +32,8 @@ name: "Fischbrötchenbanner"
 
 ## Details
 - **Distance (km):** 3.23
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 10.608
 
 
 
@@ -51,4 +51,9 @@ Am Ende des Banners liegt das Pescado. Hier gibt es die Luxusvariante des Fischb
 
 
 
-> File: `000497_fischbrtchenbanner_2022.md` • #000497 • Slug: `fischbrtchenbanner`
+> File: 
+```
+• 000497_fischbrtchenbanner_2022.md
+• #000497 
+• Slug: `fischbrtchenbanner
+```

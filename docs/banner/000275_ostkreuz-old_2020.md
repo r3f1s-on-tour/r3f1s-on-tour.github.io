@@ -22,7 +22,7 @@ slug: "ostkreuz-old"
 href: "banner/000275_ostkreuz-old_2020.md"
 name: "Ostkreuz Old"
 ---
-# 000275.Ostkreuz Old
+# Ostkreuz Old
 
 *2020* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Ostkreuz Old"
 
 ## Details
 - **Distance (km):** 6.47
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 6450
 
 
 
@@ -49,4 +49,9 @@ erkunde die Gegend um das Ostkreuz
 
 
 
-> File: `000275_ostkreuz-old_2020.md` • #000275 • Slug: `ostkreuz-old`
+> File: 
+```
+• 000275_ostkreuz-old_2020.md
+• #000275 
+• Slug: `ostkreuz-old
+```

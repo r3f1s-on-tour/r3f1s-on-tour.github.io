@@ -22,7 +22,7 @@ slug: "xmas-panda-in-strasburg"
 href: "banner/000374_xmas-panda-in-strasburg_2021.md"
 name: "XMas Panda in Strasburg"
 ---
-# 000374.XMas Panda in Strasburg
+# XMas Panda in Strasburg
 
 *2021* • Strasburg (Uckermark) • Deutschland
 
@@ -32,8 +32,8 @@ name: "XMas Panda in Strasburg"
 
 ## Details
 - **Distance (km):** 2.73
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 8172
 
 
 
@@ -44,4 +44,9 @@ Mache eine Entdeckungsrunde durch Strasburg und hole dir paar XMas Panda ins Pro
 
 
 
-> File: `000374_xmas-panda-in-strasburg_2021.md` • #000374 • Slug: `xmas-panda-in-strasburg`
+> File: 
+```
+• 000374_xmas-panda-in-strasburg_2021.md
+• #000374 
+• Slug: `xmas-panda-in-strasburg
+```

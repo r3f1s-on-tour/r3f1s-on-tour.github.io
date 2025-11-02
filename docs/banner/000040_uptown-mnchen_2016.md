@@ -22,7 +22,7 @@ slug: "uptown-mnchen"
 href: "banner/000040_uptown-mnchen_2016.md"
 name: "Uptown München"
 ---
-# 000040.Uptown München
+# Uptown München
 
 *2016* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "Uptown München"
 
 ## Details
 - **Distance (km):** 18.71
-
-
+- **Missions in banner:** 60
+- **Total missions completed:** 888
 
 
 
@@ -49,4 +49,9 @@ Die gläserne Fassade umhüllt das Tragwerk des nach dreijähriger Bauzeit im Ja
 
 
 
-> File: `000040_uptown-mnchen_2016.md` • #000040 • Slug: `uptown-mnchen`
+> File: 
+```
+• 000040_uptown-mnchen_2016.md
+• #000040 
+• Slug: `uptown-mnchen
+```

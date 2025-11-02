@@ -22,7 +22,7 @@ slug: "frog-in-oranienburg"
 href: "banner/000518_frog-in-oranienburg_2023.md"
 name: "Frog in Oranienburg"
 ---
-# 000518.Frog in Oranienburg
+# Frog in Oranienburg
 
 *2023* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Frog in Oranienburg"
 
 ## Details
 - **Distance (km):** 1.29
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 10.986
 
 
 
@@ -44,4 +44,9 @@ Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> File: `000518_frog-in-oranienburg_2023.md` • #000518 • Slug: `frog-in-oranienburg`
+> File: 
+```
+• 000518_frog-in-oranienburg_2023.md
+• #000518 
+• Slug: `frog-in-oranienburg
+```

@@ -22,7 +22,7 @@ slug: "moutain-dragon-in-strasburg"
 href: "banner/000550_moutain-dragon-in-strasburg_2023.md"
 name: "Moutain Dragon in Strasburg"
 ---
-# 000550.Moutain Dragon in Strasburg
+# Moutain Dragon in Strasburg
 
 *2023* • Strasburg (Uckermark) • Deutschland
 
@@ -32,8 +32,8 @@ name: "Moutain Dragon in Strasburg"
 
 ## Details
 - **Distance (km):** 3.51
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 12.180
 
 
 
@@ -49,4 +49,9 @@ Starte am Marktplatz  einen Rundgang und entdecke Strasburg. Auf deinem Abenteue
 
 
 
-> File: `000550_moutain-dragon-in-strasburg_2023.md` • #000550 • Slug: `moutain-dragon-in-strasburg`
+> File: 
+```
+• 000550_moutain-dragon-in-strasburg_2023.md
+• #000550 
+• Slug: `moutain-dragon-in-strasburg
+```

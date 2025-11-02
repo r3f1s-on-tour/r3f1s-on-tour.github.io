@@ -22,7 +22,7 @@ slug: "cat-eyes-green"
 href: "banner/000471_cat-eyes-green_2022.md"
 name: "Cat Eyes Green"
 ---
-# 000471.Cat Eyes Green
+# Cat Eyes Green
 
 *2022* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Cat Eyes Green"
 
 ## Details
 - **Distance (km):** 2.26
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 10.320
 
 
 
@@ -55,4 +55,9 @@ The passphrases are only asking for the current mission number.
 
 
 
-> File: `000471_cat-eyes-green_2022.md` • #000471 • Slug: `cat-eyes-green`
+> File: 
+```
+• 000471_cat-eyes-green_2022.md
+• #000471 
+• Slug: `cat-eyes-green
+```

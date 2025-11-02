@@ -22,7 +22,7 @@ slug: "residenz-wrzburg"
 href: "banner/000105_residenz-wrzburg_2017.md"
 name: "Residenz Würzburg"
 ---
-# 000105.Residenz Würzburg
+# Residenz Würzburg
 
 *2017* • Würzburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Residenz Würzburg"
 
 ## Details
 - **Distance (km):** 5.92
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 2682
 
 
 
@@ -49,4 +49,9 @@ Besuche die ehemalige Residenz der Würzburger Fürstbischöfe. Mosaik Mission. 
 
 
 
-> File: `000105_residenz-wrzburg_2017.md` • #000105 • Slug: `residenz-wrzburg`
+> File: 
+```
+• 000105_residenz-wrzburg_2017.md
+• #000105 
+• Slug: `residenz-wrzburg
+```

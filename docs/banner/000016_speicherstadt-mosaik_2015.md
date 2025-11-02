@@ -22,7 +22,7 @@ slug: "speicherstadt-mosaik"
 href: "banner/000016_speicherstadt-mosaik_2015.md"
 name: "Speicherstadt Mosaik"
 ---
-# 000016.Speicherstadt Mosaik
+# Speicherstadt Mosaik
 
 *2015* • Hamburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Speicherstadt Mosaik"
 
 ## Details
 - **Distance (km):** 5.64
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 312
 
 
 
@@ -50,4 +50,9 @@ Location: Hamburg Germany
 
 
 
-> File: `000016_speicherstadt-mosaik_2015.md` • #000016 • Slug: `speicherstadt-mosaik`
+> File: 
+```
+• 000016_speicherstadt-mosaik_2015.md
+• #000016 
+• Slug: `speicherstadt-mosaik
+```

@@ -22,7 +22,7 @@ slug: "nerv-eva-units"
 href: "banner/000276_nerv-eva-units_2020.md"
 name: "NERV - EVA Units"
 ---
-# 000276.NERV - EVA Units
+# NERV - EVA Units
 
 *2020* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "NERV - EVA Units"
 
 ## Details
 - **Distance (km):** 1.67
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 6456
 
 
 
@@ -49,4 +49,9 @@ Small walk through the neighborhood of famous Berlin Friedrichshain.
 
 
 
-> File: `000276_nerv-eva-units_2020.md` • #000276 • Slug: `nerv-eva-units`
+> File: 
+```
+• 000276_nerv-eva-units_2020.md
+• #000276 
+• Slug: `nerv-eva-units
+```

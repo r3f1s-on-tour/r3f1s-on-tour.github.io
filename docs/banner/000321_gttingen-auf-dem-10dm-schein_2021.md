@@ -22,7 +22,7 @@ slug: "gttingen-auf-dem-10dm-schein"
 href: "banner/000321_gttingen-auf-dem-10dm-schein_2021.md"
 name: "Göttingen auf dem 10DM Schein"
 ---
-# 000321.Göttingen auf dem 10DM Schein
+# Göttingen auf dem 10DM Schein
 
 *2021* • Göttingen • Deutschland
 
@@ -32,8 +32,8 @@ name: "Göttingen auf dem 10DM Schein"
 
 ## Details
 - **Distance (km):** 6.55
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 7452
 
 
 
@@ -49,4 +49,9 @@ Auf dem letzten 10 Deutsche Mark Schein waren die Sternwarte, die Johanniskirche
 
 
 
-> File: `000321_gttingen-auf-dem-10dm-schein_2021.md` • #000321 • Slug: `gttingen-auf-dem-10dm-schein`
+> File: 
+```
+• 000321_gttingen-auf-dem-10dm-schein_2021.md
+• #000321 
+• Slug: `gttingen-auf-dem-10dm-schein
+```

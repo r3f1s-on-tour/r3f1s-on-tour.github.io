@@ -22,7 +22,7 @@ slug: "old-town-frankfurt"
 href: "banner/000130_old-town-frankfurt_2018.md"
 name: "Old Town Frankfurt"
 ---
-# 000130.Old Town Frankfurt
+# Old Town Frankfurt
 
 *2018* • Frankfurt am Main • Deutschland
 
@@ -32,8 +32,8 @@ name: "Old Town Frankfurt"
 
 ## Details
 - **Distance (km):** 6.30
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 3174
 
 
 
@@ -50,4 +50,9 @@ This tour guides you through the Old Town of Frankfurt. We start on the Roemerbe
 
 
 
-> File: `000130_old-town-frankfurt_2018.md` • #000130 • Slug: `old-town-frankfurt`
+> File: 
+```
+• 000130_old-town-frankfurt_2018.md
+• #000130 
+• Slug: `old-town-frankfurt
+```

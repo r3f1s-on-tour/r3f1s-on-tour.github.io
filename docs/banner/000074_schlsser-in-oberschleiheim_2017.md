@@ -22,7 +22,7 @@ slug: "schlsser-in-oberschleiheim"
 href: "banner/000074_schlsser-in-oberschleiheim_2017.md"
 name: "Schlösser in Oberschleißheim"
 ---
-# 000074.Schlösser in Oberschleißheim
+# Schlösser in Oberschleißheim
 
 *2017* • Oberschleißheim • Deutschland
 
@@ -32,8 +32,8 @@ name: "Schlösser in Oberschleißheim"
 
 ## Details
 - **Distance (km):** 2.30
-
-
+- **Missions in banner:** 3
+- **Total missions completed:** 2043
 
 
 
@@ -46,4 +46,9 @@ name: "Schlösser in Oberschleißheim"
 
 
 
-> File: `000074_schlsser-in-oberschleiheim_2017.md` • #000074 • Slug: `schlsser-in-oberschleiheim`
+> File: 
+```
+• 000074_schlsser-in-oberschleiheim_2017.md
+• #000074 
+• Slug: `schlsser-in-oberschleiheim
+```

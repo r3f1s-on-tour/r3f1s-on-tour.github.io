@@ -63,7 +63,7 @@
 |:------|------:|------:|
 | Berlin | 114 | 18.2% |
 | Oranienburg | 85 | 13.6% |
-| München | 75 | 12.0% |
+| München | 76 | 12.1% |
 | Neubrandenburg | 40 | 6.4% |
 | Strasburg (Uckermark) | 32 | 5.1% |
 | Augsburg | 20 | 3.2% |
@@ -111,7 +111,6 @@
 | Oberschleißheim | 2 | 0.3% |
 | Rostock | 2 | 0.3% |
 | Röbel/Müritz | 2 | 0.3% |
-| Vaterstetten | 2 | 0.3% |
 | Woldegk | 2 | 0.3% |
 | Altötting | 1 | 0.2% |
 | Bergisch Gladbach | 1 | 0.2% |
@@ -130,6 +129,7 @@
 | Gröbenzell | 1 | 0.2% |
 | Haag in Oberbayern | 1 | 0.2% |
 | Heidelberg | 1 | 0.2% |
+| Holzkirchen | 1 | 0.2% |
 | Ingolstadt | 1 | 0.2% |
 | Innsbruck | 1 | 0.2% |
 | Ismaning | 1 | 0.2% |
@@ -141,7 +141,6 @@
 | Luckenwalde | 1 | 0.2% |
 | Lüttingen | 1 | 0.2% |
 | Mannheim | 1 | 0.2% |
-| Marschall | 1 | 0.2% |
 | Oberpfaffenhofen | 1 | 0.2% |
 | Porto | 1 | 0.2% |
 | Prenzlau | 1 | 0.2% |
@@ -155,6 +154,7 @@
 | Torun | 1 | 0.2% |
 | Ulm | 1 | 0.2% |
 | Unterföhring | 1 | 0.2% |
+| Vaterstetten | 1 | 0.2% |
 | Velten | 1 | 0.2% |
 | Waldkraiburg | 1 | 0.2% |
 | Warsaw | 1 | 0.2% |

@@ -22,7 +22,7 @@ slug: "deifel-in-bonn"
 href: "banner/000511_deifel-in-bonn_2022.md"
 name: "Deifel in Bonn"
 ---
-# 000511.Deifel in Bonn
+# Deifel in Bonn
 
 *2022* • Bonn • Deutschland
 
@@ -32,8 +32,8 @@ name: "Deifel in Bonn"
 
 ## Details
 - **Distance (km):** 3.00
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 10.884
 
 
 
@@ -49,4 +49,9 @@ Starte am Hauptbahnhof einen Rundgang und entdecke Wuppertal. Auf deinem Abenteu
 
 
 
-> File: `000511_deifel-in-bonn_2022.md` • #000511 • Slug: `deifel-in-bonn`
+> File: 
+```
+• 000511_deifel-in-bonn_2022.md
+• #000511 
+• Slug: `deifel-in-bonn
+```

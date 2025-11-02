@@ -22,7 +22,7 @@ slug: "festung-hohensalzburg"
 href: "banner/000221_festung-hohensalzburg_2019.md"
 name: "Festung Hohensalzburg"
 ---
-# 000221.Festung Hohensalzburg
+# Festung Hohensalzburg
 
 *2019* • Salzburg • Österreich
 
@@ -32,8 +32,8 @@ name: "Festung Hohensalzburg"
 
 ## Details
 - **Distance (km):** 4.20
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 5340
 
 
 
@@ -49,4 +49,9 @@ name: "Festung Hohensalzburg"
 
 
 
-> File: `000221_festung-hohensalzburg_2019.md` • #000221 • Slug: `festung-hohensalzburg`
+> File: 
+```
+• 000221_festung-hohensalzburg_2019.md
+• #000221 
+• Slug: `festung-hohensalzburg
+```

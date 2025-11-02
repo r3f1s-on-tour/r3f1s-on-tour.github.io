@@ -22,7 +22,7 @@ slug: "rosenheimer-tiger"
 href: "banner/000185_rosenheimer-tiger_2018.md"
 name: "Rosenheimer Tiger"
 ---
-# 000185.Rosenheimer Tiger
+# Rosenheimer Tiger
 
 *2018* • Rosenheim • Deutschland
 
@@ -32,8 +32,8 @@ name: "Rosenheimer Tiger"
 
 ## Details
 - **Distance (km):** 4.79
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 4410
 
 
 
@@ -49,4 +49,9 @@ Erkunde Rosenheim!
 
 
 
-> File: `000185_rosenheimer-tiger_2018.md` • #000185 • Slug: `rosenheimer-tiger`
+> File: 
+```
+• 000185_rosenheimer-tiger_2018.md
+• #000185 
+• Slug: `rosenheimer-tiger
+```

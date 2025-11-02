@@ -22,7 +22,7 @@ slug: "hafentempel-xanten"
 href: "banner/000580_hafentempel-xanten_2023.md"
 name: "Hafentempel Xanten"
 ---
-# 000580.Hafentempel Xanten
+# Hafentempel Xanten
 
 *2023* • Lüttingen • Deutschland
 
@@ -32,8 +32,8 @@ name: "Hafentempel Xanten"
 
 ## Details
 - **Distance (km):** 6.67
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 12.864
 
 
 
@@ -49,4 +49,9 @@ Dieses 18 Mosaik führt durch den APX.  Hier muss man Eintritt bezahlen. die Pre
 
 
 
-> File: `000580_hafentempel-xanten_2023.md` • #000580 • Slug: `hafentempel-xanten`
+> File: 
+```
+• 000580_hafentempel-xanten_2023.md
+• #000580 
+• Slug: `hafentempel-xanten
+```

@@ -22,7 +22,7 @@ slug: "know-your-doctor"
 href: "banner/000111_know-your-doctor_2017.md"
 name: "Know Your Doctor"
 ---
-# 000111.Know Your Doctor
+# Know Your Doctor
 
 *2017* • Eching • Deutschland
 
@@ -32,8 +32,8 @@ name: "Know Your Doctor"
 
 ## Details
 - **Distance (km):** 11.00
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 2754
 
 
 
@@ -46,4 +46,9 @@ name: "Know Your Doctor"
 
 
 
-> File: `000111_know-your-doctor_2017.md` • #000111 • Slug: `know-your-doctor`
+> File: 
+```
+• 000111_know-your-doctor_2017.md
+• #000111 
+• Slug: `know-your-doctor
+```

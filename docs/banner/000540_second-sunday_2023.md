@@ -22,7 +22,7 @@ slug: "second-sunday"
 href: "banner/000540_second-sunday_2023.md"
 name: "Second Sunday"
 ---
-# 000540.Second Sunday
+# Second Sunday
 
 *2023* • Neubrandenburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Second Sunday"
 
 ## Details
 - **Distance (km):** 2.13
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 11.964
 
 
 
@@ -49,4 +49,9 @@ Second Sunday im Oktober 2022 in Neubrandenburg
 
 
 
-> File: `000540_second-sunday_2023.md` • #000540 • Slug: `second-sunday`
+> File: 
+```
+• 000540_second-sunday_2023.md
+• #000540 
+• Slug: `second-sunday
+```

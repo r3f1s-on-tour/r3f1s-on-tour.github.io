@@ -22,7 +22,7 @@ slug: "marx-is-calling-you-neubrandenburg"
 href: "banner/000611_marx-is-calling-you-neubrandenburg_2025.md"
 name: "Marx is calling you - Neubrandenburg"
 ---
-# 000611.Marx is calling you - Neubrandenburg
+# Marx is calling you - Neubrandenburg
 
 *2025* • Neubrandenburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Marx is calling you - Neubrandenburg"
 
 ## Details
 - **Distance (km):** 11.00
-
-
+- **Missions in banner:** 48
+- **Total missions completed:** 13.410
 
 
 
@@ -49,4 +49,9 @@ Theta Chemnitz is coming! Explore a city in transformation from industrial herit
 
 
 
-> File: `000611_marx-is-calling-you-neubrandenburg_2025.md` • #000611 • Slug: `marx-is-calling-you-neubrandenburg`
+> File: 
+```
+• 000611_marx-is-calling-you-neubrandenburg_2025.md
+• #000611 
+• Slug: `marx-is-calling-you-neubrandenburg
+```

@@ -22,7 +22,7 @@ slug: "weihnachten-in-neubrandenburg-second-sunday"
 href: "banner/000367_weihnachten-in-neubrandenburg-second-sunday_2021.md"
 name: "Weihnachten in Neubrandenburg - Second Sunday"
 ---
-# 000367.Weihnachten in Neubrandenburg - Second Sunday
+# Weihnachten in Neubrandenburg - Second Sunday
 
 *2021* • Neubrandenburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Weihnachten in Neubrandenburg - Second Sunday"
 
 ## Details
 - **Distance (km):** 2.03
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 8070
 
 
 
@@ -49,4 +49,9 @@ Erkunde Neubrandenburg in der Weihnachtszeit. Die Mission beginnt und endet auf 
 
 
 
-> File: `000367_weihnachten-in-neubrandenburg-second-sunday_2021.md` • #000367 • Slug: `weihnachten-in-neubrandenburg-second-sunday`
+> File: 
+```
+• 000367_weihnachten-in-neubrandenburg-second-sunday_2021.md
+• #000367 
+• Slug: `weihnachten-in-neubrandenburg-second-sunday
+```

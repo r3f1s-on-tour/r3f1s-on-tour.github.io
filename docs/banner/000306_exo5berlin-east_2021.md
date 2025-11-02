@@ -22,7 +22,7 @@ slug: "exo5berlin-east"
 href: "banner/000306_exo5berlin-east_2021.md"
 name: "EXO5BERLIN East"
 ---
-# 000306.EXO5BERLIN East
+# EXO5BERLIN East
 
 *2021* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "EXO5BERLIN East"
 
 ## Details
 - **Distance (km):** 12.65
-
-
+- **Missions in banner:** 48
+- **Total missions completed:** 7158
 
 
 
@@ -49,4 +49,9 @@ This mission leads you to famous places in Berlin.  See places of Resistance his
 
 
 
-> File: `000306_exo5berlin-east_2021.md` • #000306 • Slug: `exo5berlin-east`
+> File: 
+```
+• 000306_exo5berlin-east_2021.md
+• #000306 
+• Slug: `exo5berlin-east
+```

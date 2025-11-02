@@ -22,7 +22,7 @@ slug: "antiquarium-mnchen"
 href: "banner/000042_antiquarium-mnchen_2016.md"
 name: "Antiquarium München"
 ---
-# 000042.Antiquarium München
+# Antiquarium München
 
 *2016* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "Antiquarium München"
 
 ## Details
 - **Distance (km):** 8.23
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 930
 
 
 
@@ -49,4 +49,9 @@ Das Antiquarium wurde ab 1568 zur Aufnahme der herzoglichen Antikensammlung und 
 
 
 
-> File: `000042_antiquarium-mnchen_2016.md` • #000042 • Slug: `antiquarium-mnchen`
+> File: 
+```
+• 000042_antiquarium-mnchen_2016.md
+• #000042 
+• Slug: `antiquarium-mnchen
+```

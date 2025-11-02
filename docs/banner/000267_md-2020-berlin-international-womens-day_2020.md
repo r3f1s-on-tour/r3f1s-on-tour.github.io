@@ -22,7 +22,7 @@ slug: "md-2020-berlin-international-womens-day"
 href: "banner/000267_md-2020-berlin-international-womens-day_2020.md"
 name: "MD 2020: Berlin,  International Women's Day"
 ---
-# 000267.MD 2020: Berlin,  International Women's Day
+# MD 2020: Berlin,  International Women's Day
 
 *2020* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "MD 2020: Berlin,  International Women's Day"
 
 ## Details
 - **Distance (km):** 19.23
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 6330
 
 - **Mission Day:** Yes
 
@@ -46,4 +46,9 @@ name: "MD 2020: Berlin,  International Women's Day"
 
 
 
-> File: `000267_md-2020-berlin-international-womens-day_2020.md` • #000267 • Slug: `md-2020-berlin-international-womens-day`
+> File: 
+```
+• 000267_md-2020-berlin-international-womens-day_2020.md
+• #000267 
+• Slug: `md-2020-berlin-international-womens-day
+```

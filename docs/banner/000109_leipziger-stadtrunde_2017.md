@@ -22,7 +22,7 @@ slug: "leipziger-stadtrunde"
 href: "banner/000109_leipziger-stadtrunde_2017.md"
 name: "Leipziger Stadtrunde"
 ---
-# 000109.Leipziger Stadtrunde
+# Leipziger Stadtrunde
 
 *2017* • Leipzig • Deutschland
 
@@ -32,8 +32,8 @@ name: "Leipziger Stadtrunde"
 
 ## Details
 - **Distance (km):** 2.22
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 2718
 
 
 
@@ -50,4 +50,9 @@ Ihr startet am ehemals größten Sackbahnhof.
 
 
 
-> File: `000109_leipziger-stadtrunde_2017.md` • #000109 • Slug: `leipziger-stadtrunde`
+> File: 
+```
+• 000109_leipziger-stadtrunde_2017.md
+• #000109 
+• Slug: `leipziger-stadtrunde
+```

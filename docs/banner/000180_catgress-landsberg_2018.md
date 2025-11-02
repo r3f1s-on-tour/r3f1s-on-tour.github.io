@@ -22,7 +22,7 @@ slug: "catgress-landsberg"
 href: "banner/000180_catgress-landsberg_2018.md"
 name: "Catgress Landsberg"
 ---
-# 000180.Catgress Landsberg
+# Catgress Landsberg
 
 *2018* • Landsberg am Lech • Deutschland
 
@@ -32,8 +32,8 @@ name: "Catgress Landsberg"
 
 ## Details
 - **Distance (km):** 8.12
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 4332
 
 
 
@@ -51,4 +51,9 @@ Das Catgress Mosaik besteht aus 24 Einzelmissionen (Hack/Passphrase)
 
 
 
-> File: `000180_catgress-landsberg_2018.md` • #000180 • Slug: `catgress-landsberg`
+> File: 
+```
+• 000180_catgress-landsberg_2018.md
+• #000180 
+• Slug: `catgress-landsberg
+```

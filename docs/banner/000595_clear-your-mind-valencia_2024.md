@@ -22,7 +22,7 @@ slug: "clear-your-mind-valencia"
 href: "banner/000595_clear-your-mind-valencia_2024.md"
 name: "Clear your mind -Valencia"
 ---
-# 000595.Clear your mind -Valencia
+# Clear your mind -Valencia
 
 *2024* • València • España
 
@@ -32,8 +32,8 @@ name: "Clear your mind -Valencia"
 
 ## Details
 - **Distance (km):** 1.32
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 13.122
 
 
 
@@ -49,4 +49,9 @@ Agradable paseo por las calles de Valencia
 
 
 
-> File: `000595_clear-your-mind-valencia_2024.md` • #000595 • Slug: `clear-your-mind-valencia`
+> File: 
+```
+• 000595_clear-your-mind-valencia_2024.md
+• #000595 
+• Slug: `clear-your-mind-valencia
+```

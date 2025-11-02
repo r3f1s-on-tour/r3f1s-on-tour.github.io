@@ -22,7 +22,7 @@ slug: "whaleomaly-is-here"
 href: "banner/000203_whaleomaly-is-here_2018.md"
 name: "Whaleomaly Is Here"
 ---
-# 000203.Whaleomaly Is Here
+# Whaleomaly Is Here
 
 *2018* • Oberösterreich • Österreich
 
@@ -32,8 +32,8 @@ name: "Whaleomaly Is Here"
 
 ## Details
 - **Distance (km):** 7.16
-
-
+- **Missions in banner:** 30
+- **Total missions completed:** 4770
 
 
 
@@ -49,4 +49,9 @@ name: "Whaleomaly Is Here"
 
 
 
-> File: `000203_whaleomaly-is-here_2018.md` • #000203 • Slug: `whaleomaly-is-here`
+> File: 
+```
+• 000203_whaleomaly-is-here_2018.md
+• #000203 
+• Slug: `whaleomaly-is-here
+```

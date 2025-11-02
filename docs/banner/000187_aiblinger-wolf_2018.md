@@ -22,7 +22,7 @@ slug: "aiblinger-wolf"
 href: "banner/000187_aiblinger-wolf_2018.md"
 name: "Aiblinger Wolf"
 ---
-# 000187.Aiblinger Wolf
+# Aiblinger Wolf
 
 *2018* • Bad Aibling • Deutschland
 
@@ -32,8 +32,8 @@ name: "Aiblinger Wolf"
 
 ## Details
 - **Distance (km):** 3.47
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 4446
 
 
 
@@ -51,4 +51,9 @@ Nur nach Aufforderung hacken.
 
 
 
-> File: `000187_aiblinger-wolf_2018.md` • #000187 • Slug: `aiblinger-wolf`
+> File: 
+```
+• 000187_aiblinger-wolf_2018.md
+• #000187 
+• Slug: `aiblinger-wolf
+```

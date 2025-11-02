@@ -22,7 +22,7 @@ slug: "schneeflckchen"
 href: "banner/000584_schneeflckchen_2023.md"
 name: "Schneeflöckchen"
 ---
-# 000584.Schneeflöckchen
+# Schneeflöckchen
 
 *2023* • Dresden • Deutschland
 
@@ -32,8 +32,8 @@ name: "Schneeflöckchen"
 
 ## Details
 - **Distance (km):** 1.69
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 13.002
 
 
 
@@ -54,4 +54,9 @@ Ein Spaziergang durch Löbtau-Süd
 
 
 
-> File: `000584_schneeflckchen_2023.md` • #000584 • Slug: `schneeflckchen`
+> File: 
+```
+• 000584_schneeflckchen_2023.md
+• #000584 
+• Slug: `schneeflckchen
+```

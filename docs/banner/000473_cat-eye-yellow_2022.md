@@ -22,7 +22,7 @@ slug: "cat-eye-yellow"
 href: "banner/000473_cat-eye-yellow_2022.md"
 name: "Cat Eye Yellow"
 ---
-# 000473.Cat Eye Yellow
+# Cat Eye Yellow
 
 *2022* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Cat Eye Yellow"
 
 ## Details
 - **Distance (km):** 2.26
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 10.344
 
 
 
@@ -55,4 +55,9 @@ The passphrases are only asking for the current mission number.
 
 
 
-> File: `000473_cat-eye-yellow_2022.md` • #000473 • Slug: `cat-eye-yellow`
+> File: 
+```
+• 000473_cat-eye-yellow_2022.md
+• #000473 
+• Slug: `cat-eye-yellow
+```

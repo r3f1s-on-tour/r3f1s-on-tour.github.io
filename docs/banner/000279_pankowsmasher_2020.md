@@ -22,7 +22,7 @@ slug: "pankowsmasher"
 href: "banner/000279_pankowsmasher_2020.md"
 name: "Pankowsmasher"
 ---
-# 000279.Pankowsmasher
+# Pankowsmasher
 
 *2020* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Pankowsmasher"
 
 ## Details
 - **Distance (km):** 8.97
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 6480
 
 
 
@@ -49,4 +49,9 @@ Diese Mission beginnt in Pankow und geleitet euch vorbei an wunderschönen Wasse
 
 
 
-> File: `000279_pankowsmasher_2020.md` • #000279 • Slug: `pankowsmasher`
+> File: 
+```
+• 000279_pankowsmasher_2020.md
+• #000279 
+• Slug: `pankowsmasher
+```

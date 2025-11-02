@@ -3,7 +3,7 @@ nummer: "247"
 startLatitude: "52.765923"
 startLongitude: "13.278086"
 titel: "Rundum den Lehnitzsee"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/3d196e9aa4fd93b286ba09d136e07879"
 region: "Oranienburg"
 country: "Deutschland"
 completed: "6030"
@@ -22,18 +22,18 @@ slug: "rundum-den-lehnitzsee"
 href: "banner/000247_rundum-den-lehnitzsee_2019.md"
 name: "Rundum den Lehnitzsee"
 ---
-# 000247.Rundum den Lehnitzsee
+# Rundum den Lehnitzsee
 
 *2019* • Oranienburg • Deutschland
 
-
+![Rundum den Lehnitzsee](https://api.bannergress.com/bnrs/pictures/3d196e9aa4fd93b286ba09d136e07879)
 
 
 
 ## Details
 - **Distance (km):** 8.75
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 6030
 
 
 
@@ -50,4 +50,9 @@ Zu Fuß wirst du etwa 4 std. benötigen und kannst dies nur mit dem Fahrrad verk
 
 
 
-> File: `000247_rundum-den-lehnitzsee_2019.md` • #000247 • Slug: `rundum-den-lehnitzsee`
+> File: 
+```
+• 000247_rundum-den-lehnitzsee_2019.md
+• #000247 
+• Slug: `rundum-den-lehnitzsee
+```

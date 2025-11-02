@@ -22,7 +22,7 @@ slug: "das-auge-am-inn"
 href: "banner/000186_das-auge-am-inn_2018.md"
 name: "Das Auge am Inn"
 ---
-# 000186.Das Auge am Inn
+# Das Auge am Inn
 
 *2018* • Rosenheim • Deutschland
 
@@ -32,8 +32,8 @@ name: "Das Auge am Inn"
 
 ## Details
 - **Distance (km):** 4.83
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 4428
 
 
 
@@ -49,4 +49,9 @@ Erkunde die Rosenheimer Portale am Inn
 
 
 
-> File: `000186_das-auge-am-inn_2018.md` • #000186 • Slug: `das-auge-am-inn`
+> File: 
+```
+• 000186_das-auge-am-inn_2018.md
+• #000186 
+• Slug: `das-auge-am-inn
+```

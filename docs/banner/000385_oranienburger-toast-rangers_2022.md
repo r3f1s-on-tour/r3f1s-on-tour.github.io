@@ -22,7 +22,7 @@ slug: "oranienburger-toast-rangers"
 href: "banner/000385_oranienburger-toast-rangers_2022.md"
 name: "Oranienburger Toast Rangers"
 ---
-# 000385.Oranienburger Toast Rangers
+# Oranienburger Toast Rangers
 
 *2022* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Oranienburger Toast Rangers"
 
 ## Details
 - **Distance (km):** 1.59
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 8310
 
 
 
@@ -44,4 +44,9 @@ Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und end
 
 
 
-> File: `000385_oranienburger-toast-rangers_2022.md` • #000385 • Slug: `oranienburger-toast-rangers`
+> File: 
+```
+• 000385_oranienburger-toast-rangers_2022.md
+• #000385 
+• Slug: `oranienburger-toast-rangers
+```

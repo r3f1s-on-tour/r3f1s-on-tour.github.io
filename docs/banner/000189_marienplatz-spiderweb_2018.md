@@ -22,7 +22,7 @@ slug: "marienplatz-spiderweb"
 href: "banner/000189_marienplatz-spiderweb_2018.md"
 name: "Marienplatz SPIDERWEB"
 ---
-# 000189.Marienplatz SPIDERWEB
+# Marienplatz SPIDERWEB
 
 *2018* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "Marienplatz SPIDERWEB"
 
 ## Details
 - **Distance (km):** 2.55
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 4470
 
 
 
@@ -49,4 +49,9 @@ Such link. Very hack. Wow.
 
 
 
-> File: `000189_marienplatz-spiderweb_2018.md` • #000189 • Slug: `marienplatz-spiderweb`
+> File: 
+```
+• 000189_marienplatz-spiderweb_2018.md
+• #000189 
+• Slug: `marienplatz-spiderweb
+```

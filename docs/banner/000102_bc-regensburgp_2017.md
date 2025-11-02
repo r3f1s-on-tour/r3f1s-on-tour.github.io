@@ -22,7 +22,7 @@ slug: "bc-regensburgp"
 href: "banner/000102_bc-regensburgp_2017.md"
 name: "BC Regensburgp"
 ---
-# 000102.BC Regensburgp
+# BC Regensburgp
 
 *2017* • Regensburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "BC Regensburgp"
 
 ## Details
 - **Distance (km):** 6.41
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 2628
 
 
 
@@ -49,4 +49,9 @@ Visit the "Historische Wurstkuchl". This is notable as perhaps the oldest contin
 
 
 
-> File: `000102_bc-regensburgp_2017.md` • #000102 • Slug: `bc-regensburgp`
+> File: 
+```
+• 000102_bc-regensburgp_2017.md
+• #000102 
+• Slug: `bc-regensburgp
+```

@@ -22,7 +22,7 @@ slug: "rostocker-flagge"
 href: "banner/000001_rostocker-flagge_2015.md"
 name: "Rostocker Flagge"
 ---
-# 000001.Rostocker Flagge
+# Rostocker Flagge
 
 *2015* • Rostock • Deutschland
 
@@ -32,8 +32,8 @@ name: "Rostocker Flagge"
 
 ## Details
 - **Distance (km):** 12.84
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 96
 
 
 
@@ -51,4 +51,9 @@ PS: Es sollte das Fahrrad genutzt werden.
 
 
 
-> File: `000001_rostocker-flagge_2015.md` • #000001 • Slug: `rostocker-flagge`
+> File: 
+```
+• 000001_rostocker-flagge_2015.md
+• #000001 
+• Slug: `rostocker-flagge
+```

@@ -22,7 +22,7 @@ slug: "flying-spaghetti-monster"
 href: "banner/000159_flying-spaghetti-monster_2018.md"
 name: "Flying Spaghetti Monster"
 ---
-# 000159.Flying Spaghetti Monster
+# Flying Spaghetti Monster
 
 *2018* • Unterschleißheim • Deutschland
 
@@ -32,8 +32,8 @@ name: "Flying Spaghetti Monster"
 
 ## Details
 - **Distance (km):** 18.35
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 3834
 
 
 
@@ -49,4 +49,9 @@ Diese Mosaik führt vom Bahnhof Unterschleißheim zum Bahnhof Lohhof mit vielen 
 
 
 
-> File: `000159_flying-spaghetti-monster_2018.md` • #000159 • Slug: `flying-spaghetti-monster`
+> File: 
+```
+• 000159_flying-spaghetti-monster_2018.md
+• #000159 
+• Slug: `flying-spaghetti-monster
+```

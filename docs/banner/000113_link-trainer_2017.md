@@ -22,7 +22,7 @@ slug: "link-trainer"
 href: "banner/000113_link-trainer_2017.md"
 name: "Link Trainer"
 ---
-# 000113.Link Trainer
+# Link Trainer
 
 *2017* • Unterschleißheim • Deutschland
 
@@ -32,8 +32,8 @@ name: "Link Trainer"
 
 ## Details
 - **Distance (km):** 18.78
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 2790
 
 
 
@@ -49,4 +49,9 @@ Diese Portalreihe führt euch durch Unterschleißheim. Start ist das Infinity Ho
 
 
 
-> File: `000113_link-trainer_2017.md` • #000113 • Slug: `link-trainer`
+> File: 
+```
+• 000113_link-trainer_2017.md
+• #000113 
+• Slug: `link-trainer
+```

@@ -22,7 +22,7 @@ slug: "creepy-cupcakes-in-oranienburg"
 href: "banner/000479_creepy-cupcakes-in-oranienburg_2022.md"
 name: "Creepy Cupcakes in Oranienburg"
 ---
-# 000479.Creepy Cupcakes in Oranienburg
+# Creepy Cupcakes in Oranienburg
 
 *2022* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Creepy Cupcakes in Oranienburg"
 
 ## Details
 - **Distance (km):** 1.60
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 10.410
 
 
 
@@ -44,4 +44,9 @@ Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und end
 
 
 
-> File: `000479_creepy-cupcakes-in-oranienburg_2022.md` • #000479 • Slug: `creepy-cupcakes-in-oranienburg`
+> File: 
+```
+• 000479_creepy-cupcakes-in-oranienburg_2022.md
+• #000479 
+• Slug: `creepy-cupcakes-in-oranienburg
+```

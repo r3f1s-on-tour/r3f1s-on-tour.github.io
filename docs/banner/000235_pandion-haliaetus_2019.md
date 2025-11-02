@@ -22,7 +22,7 @@ slug: "pandion-haliaetus"
 href: "banner/000235_pandion-haliaetus_2019.md"
 name: "Pandion haliaetus"
 ---
-# 000235.Pandion haliaetus
+# Pandion haliaetus
 
 *2019* • Röbel/Müritz • Deutschland
 
@@ -32,8 +32,8 @@ name: "Pandion haliaetus"
 
 ## Details
 - **Distance (km):** 8.90
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 5568
 
 
 
@@ -49,4 +49,9 @@ Die Missionsreihe führt durch Röbel. Anfang und Ende befinden sich am Müritzu
 
 
 
-> File: `000235_pandion-haliaetus_2019.md` • #000235 • Slug: `pandion-haliaetus`
+> File: 
+```
+• 000235_pandion-haliaetus_2019.md
+• #000235 
+• Slug: `pandion-haliaetus
+```

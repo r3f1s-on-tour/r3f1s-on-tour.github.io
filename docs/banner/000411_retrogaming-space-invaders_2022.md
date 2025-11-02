@@ -22,7 +22,7 @@ slug: "retrogaming-space-invaders"
 href: "banner/000411_retrogaming-space-invaders_2022.md"
 name: "RetroGaming - Space Invaders"
 ---
-# 000411.RetroGaming - Space Invaders
+# RetroGaming - Space Invaders
 
 *2022* • Pasewalk • Deutschland
 
@@ -32,8 +32,8 @@ name: "RetroGaming - Space Invaders"
 
 ## Details
 - **Distance (km):** 3.57
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 8.700
 
 
 
@@ -44,4 +44,9 @@ Starte auf dem Markt eine Entdeckungsreise durch die Stadt Pasewalk und entdecke
 
 
 
-> File: `000411_retrogaming-space-invaders_2022.md` • #000411 • Slug: `retrogaming-space-invaders`
+> File: 
+```
+• 000411_retrogaming-space-invaders_2022.md
+• #000411 
+• Slug: `retrogaming-space-invaders
+```

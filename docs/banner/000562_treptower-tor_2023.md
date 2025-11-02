@@ -22,7 +22,7 @@ slug: "treptower-tor"
 href: "banner/000562_treptower-tor_2023.md"
 name: "Treptower Tor"
 ---
-# 000562.Treptower Tor
+# Treptower Tor
 
 *2023* • Neubrandenburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Treptower Tor"
 
 ## Details
 - **Distance (km):** 10.22
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 12.456
 
 
 
@@ -49,4 +49,9 @@ Das Treptower Tor ist eines von 4 Toren  in Neubrandenburg. Im Baustil  der nord
 
 
 
-> File: `000562_treptower-tor_2023.md` • #000562 • Slug: `treptower-tor`
+> File: 
+```
+• 000562_treptower-tor_2023.md
+• #000562 
+• Slug: `treptower-tor
+```

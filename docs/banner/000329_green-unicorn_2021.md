@@ -22,7 +22,7 @@ slug: "green-unicorn"
 href: "banner/000329_green-unicorn_2021.md"
 name: "Green Unicorn"
 ---
-# 000329.Green Unicorn
+# Green Unicorn
 
 *2021* • Neubrandenburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Green Unicorn"
 
 ## Details
 - **Distance (km):** 24.03
-
-
+- **Missions in banner:** 36
+- **Total missions completed:** 7548
 
 
 
@@ -49,4 +49,9 @@ Die Missionen führen durch die Grünanlagen von Neubrandenburg. Dabei sieht man
 
 
 
-> File: `000329_green-unicorn_2021.md` • #000329 • Slug: `green-unicorn`
+> File: 
+```
+• 000329_green-unicorn_2021.md
+• #000329 
+• Slug: `green-unicorn
+```

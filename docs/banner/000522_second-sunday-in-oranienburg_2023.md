@@ -22,7 +22,7 @@ slug: "second-sunday-in-oranienburg"
 href: "banner/000522_second-sunday-in-oranienburg_2023.md"
 name: "Second Sunday in Oranienburg"
 ---
-# 000522.Second Sunday in Oranienburg
+# Second Sunday in Oranienburg
 
 *2023* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Second Sunday in Oranienburg"
 
 ## Details
 - **Distance (km):** 1.29
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 11.010
 
 
 
@@ -44,4 +44,9 @@ Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> File: `000522_second-sunday-in-oranienburg_2023.md` • #000522 • Slug: `second-sunday-in-oranienburg`
+> File: 
+```
+• 000522_second-sunday-in-oranienburg_2023.md
+• #000522 
+• Slug: `second-sunday-in-oranienburg
+```

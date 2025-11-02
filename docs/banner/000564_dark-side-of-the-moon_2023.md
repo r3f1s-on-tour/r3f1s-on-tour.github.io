@@ -22,7 +22,7 @@ slug: "dark-side-of-the-moon"
 href: "banner/000564_dark-side-of-the-moon_2023.md"
 name: "Dark Side of the Moon"
 ---
-# 000564.Dark Side of the Moon
+# Dark Side of the Moon
 
 *2023* • Potsdam • Deutschland
 
@@ -32,8 +32,8 @@ name: "Dark Side of the Moon"
 
 ## Details
 - **Distance (km):** 5.48
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 12.498
 
 
 
@@ -49,4 +49,9 @@ Discover the dark side of the moon in Potsdam. Start at the Fachhochschule and m
 
 
 
-> File: `000564_dark-side-of-the-moon_2023.md` • #000564 • Slug: `dark-side-of-the-moon`
+> File: 
+```
+• 000564_dark-side-of-the-moon_2023.md
+• #000564 
+• Slug: `dark-side-of-the-moon
+```

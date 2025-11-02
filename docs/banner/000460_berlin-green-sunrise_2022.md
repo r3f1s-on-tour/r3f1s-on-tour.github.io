@@ -22,7 +22,7 @@ slug: "berlin-green-sunrise"
 href: "banner/000460_berlin-green-sunrise_2022.md"
 name: "Berlin Green Sunrise"
 ---
-# 000460.Berlin Green Sunrise
+# Berlin Green Sunrise
 
 *2022* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Berlin Green Sunrise"
 
 ## Details
 - **Distance (km):** 6.52
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 9.534
 
 
 
@@ -49,4 +49,9 @@ See Berlin in the Green Sunrise
 
 
 
-> File: `000460_berlin-green-sunrise_2022.md` • #000460 • Slug: `berlin-green-sunrise`
+> File: 
+```
+• 000460_berlin-green-sunrise_2022.md
+• #000460 
+• Slug: `berlin-green-sunrise
+```

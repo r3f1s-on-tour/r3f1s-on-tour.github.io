@@ -22,7 +22,7 @@ slug: "prenzlau-marienkirche"
 href: "banner/000096_prenzlau-marienkirche_2017.md"
 name: "Prenzlau Marienkirche"
 ---
-# 000096.Prenzlau Marienkirche
+# Prenzlau Marienkirche
 
 *2017* • Prenzlau • Deutschland
 
@@ -32,8 +32,8 @@ name: "Prenzlau Marienkirche"
 
 ## Details
 - **Distance (km):** 4.94
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 2466
 
 
 
@@ -49,4 +49,9 @@ Eine kleine Stadterkundung durch das Zentrum von Prenzlau.
 
 
 
-> File: `000096_prenzlau-marienkirche_2017.md` • #000096 • Slug: `prenzlau-marienkirche`
+> File: 
+```
+• 000096_prenzlau-marienkirche_2017.md
+• #000096 
+• Slug: `prenzlau-marienkirche
+```

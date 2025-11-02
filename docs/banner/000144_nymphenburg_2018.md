@@ -22,7 +22,7 @@ slug: "nymphenburg"
 href: "banner/000144_nymphenburg_2018.md"
 name: "Nymphenburg"
 ---
-# 000144.Nymphenburg
+# Nymphenburg
 
 *2018* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "Nymphenburg"
 
 ## Details
 - **Distance (km):** 8.65
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 3432
 
 
 
@@ -49,4 +49,9 @@ Eine Tour vom Schloss Nymphenburg über den Hubertusbrunnen zum Löwenbräukelle
 
 
 
-> File: `000144_nymphenburg_2018.md` • #000144 • Slug: `nymphenburg`
+> File: 
+```
+• 000144_nymphenburg_2018.md
+• #000144 
+• Slug: `nymphenburg
+```

@@ -3,7 +3,7 @@ nummer: "252"
 startLatitude: "51.052358"
 startLongitude: "13.746748"
 titel: "For the Empire Dresden"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/fa794fc185e72e0e9da337e46278a92a"
 region: "Dresden"
 country: "Deutschland"
 completed: "6090"
@@ -22,18 +22,18 @@ slug: "for-the-empire-dresden"
 href: "banner/000252_for-the-empire-dresden_2019.md"
 name: "For the Empire Dresden"
 ---
-# 000252.For the Empire Dresden
+# For the Empire Dresden
 
 *2019* • Dresden • Deutschland
 
-
+![For the Empire Dresden](https://api.bannergress.com/bnrs/pictures/fa794fc185e72e0e9da337e46278a92a)
 
 
 
 ## Details
 - **Distance (km):** 1.63
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 6090
 
 
 
@@ -49,4 +49,9 @@ For the Empire Umbra Anomaly banner
 
 
 
-> File: `000252_for-the-empire-dresden_2019.md` • #000252 • Slug: `for-the-empire-dresden`
+> File: 
+```
+• 000252_for-the-empire-dresden_2019.md
+• #000252 
+• Slug: `for-the-empire-dresden
+```

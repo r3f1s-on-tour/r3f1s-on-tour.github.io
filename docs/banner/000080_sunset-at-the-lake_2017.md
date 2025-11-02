@@ -22,7 +22,7 @@ slug: "sunset-at-the-lake"
 href: "banner/000080_sunset-at-the-lake_2017.md"
 name: "Sunset at the lake"
 ---
-# 000080.Sunset at the lake
+# Sunset at the lake
 
 *2017* • Oberpfaffenhofen • Deutschland
 
@@ -32,8 +32,8 @@ name: "Sunset at the lake"
 
 ## Details
 - **Distance (km):** 6.25
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 2142
 
 
 
@@ -49,4 +49,9 @@ Erkunde den Wesslinger See und mache ein schönes Bild mit Sonnenuntergang am Se
 
 
 
-> File: `000080_sunset-at-the-lake_2017.md` • #000080 • Slug: `sunset-at-the-lake`
+> File: 
+```
+• 000080_sunset-at-the-lake_2017.md
+• #000080 
+• Slug: `sunset-at-the-lake
+```

@@ -22,7 +22,7 @@ slug: "schweriner-schloss"
 href: "banner/000427_schweriner-schloss_2022.md"
 name: "Schweriner Schloss"
 ---
-# 000427.Schweriner Schloss
+# Schweriner Schloss
 
 *2022* • Schwerin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Schweriner Schloss"
 
 ## Details
 - **Distance (km):** 18.13
-
-
+- **Missions in banner:** 30
+- **Total missions completed:** 8.904
 
 
 
@@ -49,4 +49,9 @@ Nach Absolvieren der Missionsreihe erhalten Sie ein schönes Bild des Schweriner
 
 
 
-> File: `000427_schweriner-schloss_2022.md` • #000427 • Slug: `schweriner-schloss`
+> File: 
+```
+• 000427_schweriner-schloss_2022.md
+• #000427 
+• Slug: `schweriner-schloss
+```

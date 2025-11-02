@@ -22,7 +22,7 @@ slug: "wrocawska-akwarela"
 href: "banner/000614_wrocawska-akwarela_2025.md"
 name: "Wrocławska akwarela"
 ---
-# 000614.Wrocławska akwarela
+# Wrocławska akwarela
 
 *2025* • Wroclaw • Polska
 
@@ -32,8 +32,8 @@ name: "Wrocławska akwarela"
 
 ## Details
 - **Distance (km):** 4.60
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 13.440
 
 
 
@@ -46,4 +46,9 @@ name: "Wrocławska akwarela"
 <a href="https://r3f1s-on-tour.github.io/trips/poland_train_trip/" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#8a2be2;color:#fff;text-decoration:none;border-radius:6px;">🧭 Trips</a>
 
 
-> File: `000614_wrocawska-akwarela_2025.md` • #000614 • Slug: `wrocawska-akwarela`
+> File: 
+```
+• 000614_wrocawska-akwarela_2025.md
+• #000614 
+• Slug: `wrocawska-akwarela
+```

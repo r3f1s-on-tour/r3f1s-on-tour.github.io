@@ -22,7 +22,7 @@ slug: "second-sunday-february-2022"
 href: "banner/000396_second-sunday-february-2022_2022.md"
 name: "Second Sunday - February 2022"
 ---
-# 000396.Second Sunday - February 2022
+# Second Sunday - February 2022
 
 *2022* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Second Sunday - February 2022"
 
 ## Details
 - **Distance (km):** 1.60
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 8.508
 
 
 
@@ -44,4 +44,9 @@ Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und end
 
 
 
-> File: `000396_second-sunday-february-2022_2022.md` • #000396 • Slug: `second-sunday-february-2022`
+> File: 
+```
+• 000396_second-sunday-february-2022_2022.md
+• #000396 
+• Slug: `second-sunday-february-2022
+```

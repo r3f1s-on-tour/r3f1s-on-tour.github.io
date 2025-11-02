@@ -22,7 +22,7 @@ slug: "deifel-in-kln"
 href: "banner/000494_deifel-in-kln_2022.md"
 name: "Deifel in Köln"
 ---
-# 000494.Deifel in Köln
+# Deifel in Köln
 
 *2022* • Köln • Deutschland
 
@@ -32,8 +32,8 @@ name: "Deifel in Köln"
 
 ## Details
 - **Distance (km):** 2.00
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 10.566
 
 
 
@@ -49,4 +49,9 @@ Starte am Hauptbahnhof einen Rundgang und entdecke Köln. Auf deinem Abenteuer e
 
 
 
-> File: `000494_deifel-in-kln_2022.md` • #000494 • Slug: `deifel-in-kln`
+> File: 
+```
+• 000494_deifel-in-kln_2022.md
+• #000494 
+• Slug: `deifel-in-kln
+```

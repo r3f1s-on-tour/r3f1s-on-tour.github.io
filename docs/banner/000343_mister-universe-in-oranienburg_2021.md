@@ -22,7 +22,7 @@ slug: "mister-universe-in-oranienburg"
 href: "banner/000343_mister-universe-in-oranienburg_2021.md"
 name: "Mister-Universe in Oranienburg"
 ---
-# 000343.Mister-Universe in Oranienburg
+# Mister-Universe in Oranienburg
 
 *2021* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Mister-Universe in Oranienburg"
 
 ## Details
 - **Distance (km):** 5.80
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 7758
 
 
 
@@ -44,4 +44,9 @@ Mache eine kleine Tour mit Bengalos durch Oranienburg und starte am Bahnhof
 
 
 
-> File: `000343_mister-universe-in-oranienburg_2021.md` • #000343 • Slug: `mister-universe-in-oranienburg`
+> File: 
+```
+• 000343_mister-universe-in-oranienburg_2021.md
+• #000343 
+• Slug: `mister-universe-in-oranienburg
+```

@@ -22,7 +22,7 @@ slug: "zrich-altstadt"
 href: "banner/000055_zrich-altstadt_2017.md"
 name: "Zürich Altstadt"
 ---
-# 000055.Zürich Altstadt
+# Zürich Altstadt
 
 *2017* • Zürich • Schweiz/Suisse/Svizzera/Svizra
 
@@ -32,8 +32,8 @@ name: "Zürich Altstadt"
 
 ## Details
 - **Distance (km):** 11.49
-
-
+- **Missions in banner:** 36
+- **Total missions completed:** 1272
 
 
 
@@ -49,4 +49,9 @@ Entdecke auf diesem grossen Rundgang die mindere und die mehrere Altstadt von Z�
 
 
 
-> File: `000055_zrich-altstadt_2017.md` • #000055 • Slug: `zrich-altstadt`
+> File: 
+```
+• 000055_zrich-altstadt_2017.md
+• #000055 
+• Slug: `zrich-altstadt
+```

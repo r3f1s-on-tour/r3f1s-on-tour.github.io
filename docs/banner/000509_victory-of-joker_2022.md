@@ -22,7 +22,7 @@ slug: "victory-of-joker"
 href: "banner/000509_victory-of-joker_2022.md"
 name: "Victory of Joker"
 ---
-# 000509.Victory of Joker
+# Victory of Joker
 
 *2022* • Wuppertal • Deutschland
 
@@ -32,8 +32,8 @@ name: "Victory of Joker"
 
 ## Details
 - **Distance (km):** 6.08
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 10.860
 
 
 
@@ -49,4 +49,9 @@ Capture die Innenstadt von Wuppertal/Elberfeld. Am besten bringst du viele burst
 
 
 
-> File: `000509_victory-of-joker_2022.md` • #000509 • Slug: `victory-of-joker`
+> File: 
+```
+• 000509_victory-of-joker_2022.md
+• #000509 
+• Slug: `victory-of-joker
+```

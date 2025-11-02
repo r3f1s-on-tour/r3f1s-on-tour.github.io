@@ -22,7 +22,7 @@ slug: "mongolian-embassy"
 href: "banner/000303_mongolian-embassy_2021.md"
 name: "Mongolian Embassy"
 ---
-# 000303.Mongolian Embassy
+# Mongolian Embassy
 
 *2021* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Mongolian Embassy"
 
 ## Details
 - **Distance (km):** 3.58
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 7074
 
 
 
@@ -49,4 +49,9 @@ This tour will guide you around the area of the mongolian embassy.  Located near
 
 
 
-> File: `000303_mongolian-embassy_2021.md` • #000303 • Slug: `mongolian-embassy`
+> File: 
+```
+• 000303_mongolian-embassy_2021.md
+• #000303 
+• Slug: `mongolian-embassy
+```

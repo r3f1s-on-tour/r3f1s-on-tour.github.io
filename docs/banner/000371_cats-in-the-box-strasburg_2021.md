@@ -22,7 +22,7 @@ slug: "cats-in-the-box-strasburg"
 href: "banner/000371_cats-in-the-box-strasburg_2021.md"
 name: "Cats in the box - Strasburg"
 ---
-# 000371.Cats in the box - Strasburg
+# Cats in the box - Strasburg
 
 *2021* • Strasburg (Uckermark) • Deutschland
 
@@ -32,8 +32,8 @@ name: "Cats in the box - Strasburg"
 
 ## Details
 - **Distance (km):** 3.18
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 8148
 
 
 
@@ -51,4 +51,9 @@ Banner geht am 26.12.2021 offline
 
 
 
-> File: `000371_cats-in-the-box-strasburg_2021.md` • #000371 • Slug: `cats-in-the-box-strasburg`
+> File: 
+```
+• 000371_cats-in-the-box-strasburg_2021.md
+• #000371 
+• Slug: `cats-in-the-box-strasburg
+```

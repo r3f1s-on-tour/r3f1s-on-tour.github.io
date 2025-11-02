@@ -22,7 +22,7 @@ slug: "watercolor-gdynia"
 href: "banner/000617_watercolor-gdynia_2025.md"
 name: "Watercolor Gdynia"
 ---
-# 000617.Watercolor Gdynia
+# Watercolor Gdynia
 
 *2025* • Gdynia • Polska
 
@@ -32,8 +32,8 @@ name: "Watercolor Gdynia"
 
 ## Details
 - **Distance (km):** 5.80
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 13.488
 
 
 
@@ -46,4 +46,9 @@ name: "Watercolor Gdynia"
 <a href="https://r3f1s-on-tour.github.io/trips/poland_train_trip/" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#8a2be2;color:#fff;text-decoration:none;border-radius:6px;">🧭 Trips</a>
 
 
-> File: `000617_watercolor-gdynia_2025.md` • #000617 • Slug: `watercolor-gdynia`
+> File: 
+```
+• 000617_watercolor-gdynia_2025.md
+• #000617 
+• Slug: `watercolor-gdynia
+```

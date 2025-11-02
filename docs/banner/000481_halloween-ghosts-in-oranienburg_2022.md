@@ -22,7 +22,7 @@ slug: "halloween-ghosts-in-oranienburg"
 href: "banner/000481_halloween-ghosts-in-oranienburg_2022.md"
 name: "Halloween Ghosts in Oranienburg"
 ---
-# 000481.Halloween Ghosts in Oranienburg
+# Halloween Ghosts in Oranienburg
 
 *2022* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Halloween Ghosts in Oranienburg"
 
 ## Details
 - **Distance (km):** 1.60
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 10.422
 
 
 
@@ -49,4 +49,9 @@ Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und end
 
 
 
-> File: `000481_halloween-ghosts-in-oranienburg_2022.md` • #000481 • Slug: `halloween-ghosts-in-oranienburg`
+> File: 
+```
+• 000481_halloween-ghosts-in-oranienburg_2022.md
+• #000481 
+• Slug: `halloween-ghosts-in-oranienburg
+```

@@ -22,7 +22,7 @@ slug: "berliner-fernsehturm"
 href: "banner/000070_berliner-fernsehturm_2017.md"
 name: "Berliner Fernsehturm"
 ---
-# 000070.Berliner Fernsehturm
+# Berliner Fernsehturm
 
 *2017* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Berliner Fernsehturm"
 
 ## Details
 - **Distance (km):** 139.56
-
-
+- **Missions in banner:** 372
+- **Total missions completed:** 1986
 
 
 
@@ -51,4 +51,9 @@ Zur Umgehung des nicht öffentlich begehbaren Charitè-Geländes sind die Missio
 
 
 
-> File: `000070_berliner-fernsehturm_2017.md` • #000070 • Slug: `berliner-fernsehturm`
+> File: 
+```
+• 000070_berliner-fernsehturm_2017.md
+• #000070 
+• Slug: `berliner-fernsehturm
+```

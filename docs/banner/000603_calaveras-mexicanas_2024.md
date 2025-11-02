@@ -22,7 +22,7 @@ slug: "calaveras-mexicanas"
 href: "banner/000603_calaveras-mexicanas_2024.md"
 name: "CALAVERAS MEXICANAS"
 ---
-# 000603.CALAVERAS MEXICANAS
+# CALAVERAS MEXICANAS
 
 *2024* • València • España
 
@@ -32,8 +32,8 @@ name: "CALAVERAS MEXICANAS"
 
 ## Details
 - **Distance (km):** 1.39
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 13.272
 
 
 
@@ -49,4 +49,9 @@ La Plaza de Toros de Valencia fue inaugurada en 1851. Su estilo neoclásico fue 
 
 
 
-> File: `000603_calaveras-mexicanas_2024.md` • #000603 • Slug: `calaveras-mexicanas`
+> File: 
+```
+• 000603_calaveras-mexicanas_2024.md
+• #000603 
+• Slug: `calaveras-mexicanas
+```

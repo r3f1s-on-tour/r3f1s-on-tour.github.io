@@ -22,7 +22,7 @@ slug: "hacktour-dus"
 href: "banner/000505_hacktour-dus_2022.md"
 name: "Hacktour DUS"
 ---
-# 000505.Hacktour DUS
+# Hacktour DUS
 
 *2022* • Düsseldorf • Deutschland
 
@@ -32,8 +32,8 @@ name: "Hacktour DUS"
 
 ## Details
 - **Distance (km):** 2.31
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 10.782
 
 
 
@@ -46,4 +46,9 @@ name: "Hacktour DUS"
 
 
 
-> File: `000505_hacktour-dus_2022.md` • #000505 • Slug: `hacktour-dus`
+> File: 
+```
+• 000505_hacktour-dus_2022.md
+• #000505 
+• Slug: `hacktour-dus
+```

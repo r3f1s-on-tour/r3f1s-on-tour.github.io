@@ -22,7 +22,7 @@ slug: "wittenberg-art"
 href: "banner/000174_wittenberg-art_2018.md"
 name: "Wittenberg Art"
 ---
-# 000174.Wittenberg Art
+# Wittenberg Art
 
 *2018* • Wittenberg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Wittenberg Art"
 
 ## Details
 - **Distance (km):** 6.04
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 4182
 
 
 
@@ -49,4 +49,9 @@ eine lustige Runde
 
 
 
-> File: `000174_wittenberg-art_2018.md` • #000174 • Slug: `wittenberg-art`
+> File: 
+```
+• 000174_wittenberg-art_2018.md
+• #000174 
+• Slug: `wittenberg-art
+```

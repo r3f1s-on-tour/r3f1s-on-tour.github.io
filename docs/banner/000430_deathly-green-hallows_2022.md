@@ -22,7 +22,7 @@ slug: "deathly-green-hallows"
 href: "banner/000430_deathly-green-hallows_2022.md"
 name: "Deathly Green Hallows"
 ---
-# 000430.Deathly Green Hallows
+# Deathly Green Hallows
 
 *2022* • Neubrandenburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Deathly Green Hallows"
 
 ## Details
 - **Distance (km):** 21.08
-
-
+- **Missions in banner:** 36
+- **Total missions completed:** 8.952
 
 
 
@@ -49,4 +49,9 @@ Mach eine Entdeckungstour durch den Osten von Neubrandenburg.
 
 
 
-> File: `000430_deathly-green-hallows_2022.md` • #000430 • Slug: `deathly-green-hallows`
+> File: 
+```
+• 000430_deathly-green-hallows_2022.md
+• #000430 
+• Slug: `deathly-green-hallows
+```

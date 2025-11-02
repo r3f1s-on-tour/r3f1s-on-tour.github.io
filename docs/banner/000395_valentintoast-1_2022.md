@@ -22,7 +22,7 @@ slug: "valentintoast-1"
 href: "banner/000395_valentintoast-1_2022.md"
 name: "Valentintoast 1"
 ---
-# 000395.Valentintoast 1
+# Valentintoast 1
 
 *2022* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Valentintoast 1"
 
 ## Details
 - **Distance (km):** 1.60
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 8.502
 
 
 
@@ -44,4 +44,9 @@ Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und end
 
 
 
-> File: `000395_valentintoast-1_2022.md` • #000395 • Slug: `valentintoast-1`
+> File: 
+```
+• 000395_valentintoast-1_2022.md
+• #000395 
+• Slug: `valentintoast-1
+```

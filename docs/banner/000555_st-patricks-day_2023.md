@@ -22,7 +22,7 @@ slug: "st-patricks-day"
 href: "banner/000555_st-patricks-day_2023.md"
 name: "St-Patricks-Day"
 ---
-# 000555.St-Patricks-Day
+# St-Patricks-Day
 
 *2023* • Neubrandenburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "St-Patricks-Day"
 
 ## Details
 - **Distance (km):** 3.30
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 12.366
 
 
 
@@ -49,4 +49,9 @@ Der Saint Patrick’s Day ist der Gedenktag des irischen Bischofs Patrick, der i
 
 
 
-> File: `000555_st-patricks-day_2023.md` • #000555 • Slug: `st-patricks-day`
+> File: 
+```
+• 000555_st-patricks-day_2023.md
+• #000555 
+• Slug: `st-patricks-day
+```

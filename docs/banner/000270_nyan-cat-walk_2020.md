@@ -22,7 +22,7 @@ slug: "nyan-cat-walk"
 href: "banner/000270_nyan-cat-walk_2020.md"
 name: "Nyan Cat Walk"
 ---
-# 000270.Nyan Cat Walk
+# Nyan Cat Walk
 
 *2020* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Nyan Cat Walk"
 
 ## Details
 - **Distance (km):** 3.69
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 6360
 
 
 
@@ -49,4 +49,9 @@ Follow the nyan cat through the Treptower park and gain it as companion on your 
 
 
 
-> File: `000270_nyan-cat-walk_2020.md` • #000270 • Slug: `nyan-cat-walk`
+> File: 
+```
+• 000270_nyan-cat-walk_2020.md
+• #000270 
+• Slug: `nyan-cat-walk
+```

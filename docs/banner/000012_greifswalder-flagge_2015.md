@@ -22,7 +22,7 @@ slug: "greifswalder-flagge"
 href: "banner/000012_greifswalder-flagge_2015.md"
 name: "Greifswalder Flagge"
 ---
-# 000012.Greifswalder Flagge
+# Greifswalder Flagge
 
 *2015* • Greifswald • Deutschland
 
@@ -32,8 +32,8 @@ name: "Greifswalder Flagge"
 
 ## Details
 - **Distance (km):** 12.22
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 240
 
 
 
@@ -49,4 +49,9 @@ Zeige Flagge für die einzigartige Universitäts- und Hansestadt Greifswald! Die
 
 
 
-> File: `000012_greifswalder-flagge_2015.md` • #000012 • Slug: `greifswalder-flagge`
+> File: 
+```
+• 000012_greifswalder-flagge_2015.md
+• #000012 
+• Slug: `greifswalder-flagge
+```

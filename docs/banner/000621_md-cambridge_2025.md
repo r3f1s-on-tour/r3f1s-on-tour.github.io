@@ -22,7 +22,7 @@ slug: "md-cambridge"
 href: "banner/000621_md-cambridge_2025.md"
 name: "MD Cambridge"
 ---
-# 000621.MD Cambridge
+# MD Cambridge
 
 *2025* • Cambridge • Großbritannien
 
@@ -32,8 +32,8 @@ name: "MD Cambridge"
 
 ## Details
 - **Distance (km):** 4.20
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 13.524
 
 - **Mission Day:** Yes
 
@@ -46,4 +46,9 @@ name: "MD Cambridge"
 
 
 
-> File: `000621_md-cambridge_2025.md` • #000621 • Slug: `md-cambridge`
+> File: 
+```
+• 000621_md-cambridge_2025.md
+• #000621 
+• Slug: `md-cambridge
+```

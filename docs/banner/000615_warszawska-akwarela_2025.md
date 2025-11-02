@@ -22,7 +22,7 @@ slug: "warszawska-akwarela"
 href: "banner/000615_warszawska-akwarela_2025.md"
 name: "Warszawska akwarela"
 ---
-# 000615.Warszawska akwarela
+# Warszawska akwarela
 
 *2025* • Warsaw • Polska
 
@@ -32,8 +32,8 @@ name: "Warszawska akwarela"
 
 ## Details
 - **Distance (km):** 5.90
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 13.452
 
 
 
@@ -46,4 +46,9 @@ name: "Warszawska akwarela"
 <a href="https://r3f1s-on-tour.github.io/trips/poland_train_trip/" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#8a2be2;color:#fff;text-decoration:none;border-radius:6px;">🧭 Trips</a>
 
 
-> File: `000615_warszawska-akwarela_2025.md` • #000615 • Slug: `warszawska-akwarela`
+> File: 
+```
+• 000615_warszawska-akwarela_2025.md
+• #000615 
+• Slug: `warszawska-akwarela
+```

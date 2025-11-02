@@ -22,7 +22,7 @@ slug: "rund-um-die-ludwigskirche"
 href: "banner/000065_rund-um-die-ludwigskirche_2017.md"
 name: "Rund um die Ludwigskirche"
 ---
-# 000065.Rund um die Ludwigskirche
+# Rund um die Ludwigskirche
 
 *2017* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "Rund um die Ludwigskirche"
 
 ## Details
 - **Distance (km):** 9.30
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 1488
 
 
 
@@ -46,4 +46,9 @@ name: "Rund um die Ludwigskirche"
 
 
 
-> File: `000065_rund-um-die-ludwigskirche_2017.md` • #000065 • Slug: `rund-um-die-ludwigskirche`
+> File: 
+```
+• 000065_rund-um-die-ludwigskirche_2017.md
+• #000065 
+• Slug: `rund-um-die-ludwigskirche
+```

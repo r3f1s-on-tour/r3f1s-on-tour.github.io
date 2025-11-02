@@ -22,7 +22,7 @@ slug: "thriller-in-oranienburg"
 href: "banner/000326_thriller-in-oranienburg_2021.md"
 name: "Thriller in Oranienburg"
 ---
-# 000326.Thriller in Oranienburg
+# Thriller in Oranienburg
 
 *2021* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Thriller in Oranienburg"
 
 ## Details
 - **Distance (km):** 5.81
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 7500
 
 
 
@@ -49,4 +49,9 @@ Mache eine kleine Tour durch Oranienburg und starte am Bahnhof
 
 
 
-> File: `000326_thriller-in-oranienburg_2021.md` • #000326 • Slug: `thriller-in-oranienburg`
+> File: 
+```
+• 000326_thriller-in-oranienburg_2021.md
+• #000326 
+• Slug: `thriller-in-oranienburg
+```

@@ -22,7 +22,7 @@ slug: "exo5-berlin-resistance-victory"
 href: "banner/000390_exo5-berlin-resistance-victory_2022.md"
 name: "EXO5 Berlin Resistance Victory"
 ---
-# 000390.EXO5 Berlin Resistance Victory
+# EXO5 Berlin Resistance Victory
 
 *2022* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "EXO5 Berlin Resistance Victory"
 
 ## Details
 - **Distance (km):** 2.29
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 8.412
 
 
 
@@ -49,4 +49,9 @@ This is where we fought them! This is where we stood our ground! Remember this d
 
 
 
-> File: `000390_exo5-berlin-resistance-victory_2022.md` • #000390 • Slug: `exo5-berlin-resistance-victory`
+> File: 
+```
+• 000390_exo5-berlin-resistance-victory_2022.md
+• #000390 
+• Slug: `exo5-berlin-resistance-victory
+```

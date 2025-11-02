@@ -22,7 +22,7 @@ slug: "item-cats-strasburg"
 href: "banner/000372_item-cats-strasburg_2021.md"
 name: "Item Cats Strasburg"
 ---
-# 000372.Item Cats Strasburg
+# Item Cats Strasburg
 
 *2021* • Strasburg (Uckermark) • Deutschland
 
@@ -32,8 +32,8 @@ name: "Item Cats Strasburg"
 
 ## Details
 - **Distance (km):** 6.56
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 8160
 
 
 
@@ -51,4 +51,9 @@ Banner geht am 26.12.2012 offline
 
 
 
-> File: `000372_item-cats-strasburg_2021.md` • #000372 • Slug: `item-cats-strasburg`
+> File: 
+```
+• 000372_item-cats-strasburg_2021.md
+• #000372 
+• Slug: `item-cats-strasburg
+```

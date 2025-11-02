@@ -22,7 +22,7 @@ slug: "second-sunday-januar-22-in-oranienburg"
 href: "banner/000384_second-sunday-januar-22-in-oranienburg_2022.md"
 name: "Second Sunday Januar 22 in Oranienburg"
 ---
-# 000384.Second Sunday Januar 22 in Oranienburg
+# Second Sunday Januar 22 in Oranienburg
 
 *2022* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Second Sunday Januar 22 in Oranienburg"
 
 ## Details
 - **Distance (km):** 2.13
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 8304
 
 
 
@@ -51,4 +51,9 @@ Online bis 10.01.2022
 
 
 
-> File: `000384_second-sunday-januar-22-in-oranienburg_2022.md` • #000384 • Slug: `second-sunday-januar-22-in-oranienburg`
+> File: 
+```
+• 000384_second-sunday-januar-22-in-oranienburg_2022.md
+• #000384 
+• Slug: `second-sunday-januar-22-in-oranienburg
+```

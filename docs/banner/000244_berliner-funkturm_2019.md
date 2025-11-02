@@ -22,7 +22,7 @@ slug: "berliner-funkturm"
 href: "banner/000244_berliner-funkturm_2019.md"
 name: "Berliner Funkturm"
 ---
-# 000244.Berliner Funkturm
+# Berliner Funkturm
 
 *2019* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Berliner Funkturm"
 
 ## Details
 - **Distance (km):** 86.77
-
-
+- **Missions in banner:** 150
+- **Total missions completed:** 5964
 
 
 
@@ -49,4 +49,9 @@ Der Berliner Funkturm ist ein 146,7m hoher Stahlfachwerkturm in Berlin und  eine
 
 
 
-> File: `000244_berliner-funkturm_2019.md` • #000244 • Slug: `berliner-funkturm`
+> File: 
+```
+• 000244_berliner-funkturm_2019.md
+• #000244 
+• Slug: `berliner-funkturm
+```

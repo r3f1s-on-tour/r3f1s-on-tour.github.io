@@ -22,7 +22,7 @@ slug: "the-show-must-go-on-in-strasburg"
 href: "banner/000465_the-show-must-go-on-in-strasburg_2022.md"
 name: "The Show Must Go On in Strasburg"
 ---
-# 000465.The Show Must Go On in Strasburg
+# The Show Must Go On in Strasburg
 
 *2022* • Strasburg (Uckermark) • Deutschland
 
@@ -32,8 +32,8 @@ name: "The Show Must Go On in Strasburg"
 
 ## Details
 - **Distance (km):** 3.51
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 10.224
 
 
 
@@ -49,4 +49,9 @@ Starte am Marktplatz  einen Rundgang und entdecke Strasburg. Auf deinem Abenteue
 
 
 
-> File: `000465_the-show-must-go-on-in-strasburg_2022.md` • #000465 • Slug: `the-show-must-go-on-in-strasburg`
+> File: 
+```
+• 000465_the-show-must-go-on-in-strasburg_2022.md
+• #000465 
+• Slug: `the-show-must-go-on-in-strasburg
+```

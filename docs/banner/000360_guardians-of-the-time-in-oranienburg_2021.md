@@ -22,7 +22,7 @@ slug: "guardians-of-the-time-in-oranienburg"
 href: "banner/000360_guardians-of-the-time-in-oranienburg_2021.md"
 name: "Guardians of the Time in Oranienburg"
 ---
-# 000360.Guardians of the Time in Oranienburg
+# Guardians of the Time in Oranienburg
 
 *2021* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Guardians of the Time in Oranienburg"
 
 ## Details
 - **Distance (km):** 6.05
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 7986
 
 
 
@@ -44,4 +44,9 @@ Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße un
 
 
 
-> File: `000360_guardians-of-the-time-in-oranienburg_2021.md` • #000360 • Slug: `guardians-of-the-time-in-oranienburg`
+> File: 
+```
+• 000360_guardians-of-the-time-in-oranienburg_2021.md
+• #000360 
+• Slug: `guardians-of-the-time-in-oranienburg
+```

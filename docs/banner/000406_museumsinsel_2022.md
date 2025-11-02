@@ -22,7 +22,7 @@ slug: "museumsinsel"
 href: "banner/000406_museumsinsel_2022.md"
 name: "Museumsinsel"
 ---
-# 000406.Museumsinsel
+# Museumsinsel
 
 *2022* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Museumsinsel"
 
 ## Details
 - **Distance (km):** 5.35
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 8.670
 
 
 
@@ -49,4 +49,9 @@ Das Bode-Museum ist Bestandteil des Bauensembles der Museumsinsel und Weltkultur
 
 
 
-> File: `000406_museumsinsel_2022.md` • #000406 • Slug: `museumsinsel`
+> File: 
+```
+• 000406_museumsinsel_2022.md
+• #000406 
+• Slug: `museumsinsel
+```

@@ -22,7 +22,7 @@ slug: "second-sunday-tower-in-neubrandenburg"
 href: "banner/000539_second-sunday-tower-in-neubrandenburg_2023.md"
 name: "Second Sunday Tower in Neubrandenburg"
 ---
-# 000539.Second Sunday Tower in Neubrandenburg
+# Second Sunday Tower in Neubrandenburg
 
 *2023* • Neubrandenburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Second Sunday Tower in Neubrandenburg"
 
 ## Details
 - **Distance (km):** 5.76
-
-
+- **Missions in banner:** 96
+- **Total missions completed:** 11.958
 
 
 
@@ -49,4 +49,9 @@ Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde Sehenswür
 
 
 
-> File: `000539_second-sunday-tower-in-neubrandenburg_2023.md` • #000539 • Slug: `second-sunday-tower-in-neubrandenburg`
+> File: 
+```
+• 000539_second-sunday-tower-in-neubrandenburg_2023.md
+• #000539 
+• Slug: `second-sunday-tower-in-neubrandenburg
+```

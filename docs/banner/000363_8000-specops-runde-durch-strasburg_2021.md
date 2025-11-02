@@ -22,7 +22,7 @@ slug: "8000-specops-runde-durch-strasburg"
 href: "banner/000363_8000-specops-runde-durch-strasburg_2021.md"
 name: "8000 SpecOps Runde durch Strasburg"
 ---
-# 000363.8000 SpecOps Runde durch Strasburg
+# 8000 SpecOps Runde durch Strasburg
 
 *2021* • Strasburg (Uckermark) • Deutschland
 
@@ -32,8 +32,8 @@ name: "8000 SpecOps Runde durch Strasburg"
 
 ## Details
 - **Distance (km):** 2.79
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 8004
 
 
 
@@ -44,4 +44,9 @@ Mache eine Entdeckungsrunde durch Strasburg und hole die 8000 ins Profil
 
 
 
-> File: `000363_8000-specops-runde-durch-strasburg_2021.md` • #000363 • Slug: `8000-specops-runde-durch-strasburg`
+> File: 
+```
+• 000363_8000-specops-runde-durch-strasburg_2021.md
+• #000363 
+• Slug: `8000-specops-runde-durch-strasburg
+```

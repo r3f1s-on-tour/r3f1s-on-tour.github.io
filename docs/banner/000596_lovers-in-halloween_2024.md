@@ -22,7 +22,7 @@ slug: "lovers-in-halloween"
 href: "banner/000596_lovers-in-halloween_2024.md"
 name: "Lovers in Halloween"
 ---
-# 000596.Lovers in Halloween
+# Lovers in Halloween
 
 *2024* • València • España
 
@@ -32,8 +32,8 @@ name: "Lovers in Halloween"
 
 ## Details
 - **Distance (km):** 10.57
-
-
+- **Missions in banner:** 42
+- **Total missions completed:** 13.164
 
 
 
@@ -49,4 +49,9 @@ Celebra Halloween haciendo este bonito mural por las calles de Valencia.
 
 
 
-> File: `000596_lovers-in-halloween_2024.md` • #000596 • Slug: `lovers-in-halloween`
+> File: 
+```
+• 000596_lovers-in-halloween_2024.md
+• #000596 
+• Slug: `lovers-in-halloween
+```

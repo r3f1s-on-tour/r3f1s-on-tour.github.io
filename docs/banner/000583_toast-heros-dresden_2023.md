@@ -22,7 +22,7 @@ slug: "toast-heros-dresden"
 href: "banner/000583_toast-heros-dresden_2023.md"
 name: "Toast Heros Dresden"
 ---
-# 000583.Toast Heros Dresden
+# Toast Heros Dresden
 
 *2023* • Dresden • Deutschland
 
@@ -32,8 +32,8 @@ name: "Toast Heros Dresden"
 
 ## Details
 - **Distance (km):** 1.31
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 12.996
 
 
 
@@ -49,4 +49,9 @@ Eine kleine Runde durch den schönen Stadtteil Dresden Löbtau.
 
 
 
-> File: `000583_toast-heros-dresden_2023.md` • #000583 • Slug: `toast-heros-dresden`
+> File: 
+```
+• 000583_toast-heros-dresden_2023.md
+• #000583 
+• Slug: `toast-heros-dresden
+```

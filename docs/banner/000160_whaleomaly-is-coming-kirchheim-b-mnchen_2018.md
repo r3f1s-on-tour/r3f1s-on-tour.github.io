@@ -22,7 +22,7 @@ slug: "whaleomaly-is-coming-kirchheim-b-mnchen"
 href: "banner/000160_whaleomaly-is-coming-kirchheim-b-mnchen_2018.md"
 name: "Whaleomaly is Coming [Kirchheim b. München]"
 ---
-# 000160.Whaleomaly is Coming [Kirchheim b. München]
+# Whaleomaly is Coming [Kirchheim b. München]
 
 *2018* • Kirchheim bei München • Deutschland
 
@@ -32,8 +32,8 @@ name: "Whaleomaly is Coming [Kirchheim b. München]"
 
 ## Details
 - **Distance (km):** 4.55
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 3840
 
 
 
@@ -51,4 +51,9 @@ Entdecke Kirchheims Wale! Bring sie mit, damit wir diese bei der Walomalie in Li
 
 
 
-> File: `000160_whaleomaly-is-coming-kirchheim-b-mnchen_2018.md` • #000160 • Slug: `whaleomaly-is-coming-kirchheim-b-mnchen`
+> File: 
+```
+• 000160_whaleomaly-is-coming-kirchheim-b-mnchen_2018.md
+• #000160 
+• Slug: `whaleomaly-is-coming-kirchheim-b-mnchen
+```

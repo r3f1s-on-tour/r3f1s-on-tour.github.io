@@ -3,7 +3,7 @@ nummer: "259"
 startLatitude: "52.544169"
 startLongitude: "13.409264"
 titel: "Friedrich-Ludwig-Jahn-Sportpark"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/25b38e09e8dc3077940d49a5ea0859fe"
 region: "Berlin"
 country: "Deutschland"
 completed: "6210"
@@ -22,18 +22,18 @@ slug: "friedrich-ludwig-jahn-sportpark"
 href: "banner/000259_friedrich-ludwig-jahn-sportpark_2020.md"
 name: "Friedrich-Ludwig-Jahn-Sportpark"
 ---
-# 000259.Friedrich-Ludwig-Jahn-Sportpark
+# Friedrich-Ludwig-Jahn-Sportpark
 
 *2020* • Berlin • Deutschland
 
-
+![Friedrich-Ludwig-Jahn-Sportpark](https://api.bannergress.com/bnrs/pictures/25b38e09e8dc3077940d49a5ea0859fe)
 
 
 
 ## Details
 - **Distance (km):** 8.10
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 6210
 
 
 
@@ -50,4 +50,9 @@ Eine Runde um den Friedrich-Ludwig-Jahn-Sportpark.
 
 
 
-> File: `000259_friedrich-ludwig-jahn-sportpark_2020.md` • #000259 • Slug: `friedrich-ludwig-jahn-sportpark`
+> File: 
+```
+• 000259_friedrich-ludwig-jahn-sportpark_2020.md
+• #000259 
+• Slug: `friedrich-ludwig-jahn-sportpark
+```

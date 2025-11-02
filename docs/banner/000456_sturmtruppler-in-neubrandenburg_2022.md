@@ -22,7 +22,7 @@ slug: "sturmtruppler-in-neubrandenburg"
 href: "banner/000456_sturmtruppler-in-neubrandenburg_2022.md"
 name: "Sturmtruppler in Neubrandenburg"
 ---
-# 000456.Sturmtruppler in Neubrandenburg
+# Sturmtruppler in Neubrandenburg
 
 *2022* • Neubrandenburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Sturmtruppler in Neubrandenburg"
 
 ## Details
 - **Distance (km):** 30.22
-
-
+- **Missions in banner:** 48
+- **Total missions completed:** 9.474
 
 
 
@@ -49,4 +49,9 @@ Erkunde Neubrandenburg. Die Mission beginnt am Bahnhof, führt durch den Kulturp
 
 
 
-> File: `000456_sturmtruppler-in-neubrandenburg_2022.md` • #000456 • Slug: `sturmtruppler-in-neubrandenburg`
+> File: 
+```
+• 000456_sturmtruppler-in-neubrandenburg_2022.md
+• #000456 
+• Slug: `sturmtruppler-in-neubrandenburg
+```

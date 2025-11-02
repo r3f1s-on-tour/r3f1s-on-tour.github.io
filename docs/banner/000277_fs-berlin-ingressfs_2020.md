@@ -22,7 +22,7 @@ slug: "fs-berlin-ingressfs"
 href: "banner/000277_fs-berlin-ingressfs_2020.md"
 name: "FS Berlin #IngressFS"
 ---
-# 000277.FS Berlin #IngressFS
+# FS Berlin #IngressFS
 
 *2020* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "FS Berlin #IngressFS"
 
 ## Details
 - **Distance (km):** 1.66
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 6462
 
 
 
@@ -49,4 +49,9 @@ Kurze Missionsreihe zum Berliner First Saturday. Bekannte Berliner Motive zusamm
 
 
 
-> File: `000277_fs-berlin-ingressfs_2020.md` • #000277 • Slug: `fs-berlin-ingressfs`
+> File: 
+```
+• 000277_fs-berlin-ingressfs_2020.md
+• #000277 
+• Slug: `fs-berlin-ingressfs
+```

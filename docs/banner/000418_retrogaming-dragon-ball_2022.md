@@ -22,7 +22,7 @@ slug: "retrogaming-dragon-ball"
 href: "banner/000418_retrogaming-dragon-ball_2022.md"
 name: "RetroGaming - Dragon Ball"
 ---
-# 000418.RetroGaming - Dragon Ball
+# RetroGaming - Dragon Ball
 
 *2022* • Pasewalk • Deutschland
 
@@ -32,8 +32,8 @@ name: "RetroGaming - Dragon Ball"
 
 ## Details
 - **Distance (km):** 3.57
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 8.742
 
 
 
@@ -49,4 +49,9 @@ Starte auf dem Markt eine Entdeckungsreise durch die Stadt Pasewalk und entdecke
 
 
 
-> File: `000418_retrogaming-dragon-ball_2022.md` • #000418 • Slug: `retrogaming-dragon-ball`
+> File: 
+```
+• 000418_retrogaming-dragon-ball_2022.md
+• #000418 
+• Slug: `retrogaming-dragon-ball
+```

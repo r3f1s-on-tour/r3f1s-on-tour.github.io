@@ -22,7 +22,7 @@ slug: "friedensengel"
 href: "banner/000049_friedensengel_2016.md"
 name: "Friedensengel"
 ---
-# 000049.Friedensengel
+# Friedensengel
 
 *2016* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "Friedensengel"
 
 ## Details
 - **Distance (km):** 13.40
-
-
+- **Missions in banner:** 48
+- **Total missions completed:** 1140
 
 
 
@@ -49,4 +49,9 @@ Der so genannte Friedensengel ist eigentlich der griechischen Siegesgöttin Nike
 
 
 
-> File: `000049_friedensengel_2016.md` • #000049 • Slug: `friedensengel`
+> File: 
+```
+• 000049_friedensengel_2016.md
+• #000049 
+• Slug: `friedensengel
+```

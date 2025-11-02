@@ -22,7 +22,7 @@ slug: "missionday-kaiserburg"
 href: "banner/000068_missionday-kaiserburg_2017.md"
 name: "MissionDay Kaiserburg"
 ---
-# 000068.MissionDay Kaiserburg
+# MissionDay Kaiserburg
 
 *2017* • Nürnberg • Deutschland
 
@@ -32,8 +32,8 @@ name: "MissionDay Kaiserburg"
 
 ## Details
 - **Distance (km):** 8.73
-
-
+- **Missions in banner:** 30
+- **Total missions completed:** 1590
 
 
 
@@ -49,4 +49,9 @@ Welcome to Nürnberg! Starting at Handwerkerhof across the main station this mis
 
 
 
-> File: `000068_missionday-kaiserburg_2017.md` • #000068 • Slug: `missionday-kaiserburg`
+> File: 
+```
+• 000068_missionday-kaiserburg_2017.md
+• #000068 
+• Slug: `missionday-kaiserburg
+```

@@ -22,7 +22,7 @@ slug: "panorama-wolgast"
 href: "banner/000625_panorama-wolgast_2025.md"
 name: "Panorama  Wolgast"
 ---
-# 000625.Panorama  Wolgast
+# Panorama  Wolgast
 
 *2025* • Wolgast • Deutschland
 
@@ -32,8 +32,8 @@ name: "Panorama  Wolgast"
 
 ## Details
 - **Distance (km):** 2.09
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 13596
 
 
 
@@ -51,4 +51,9 @@ Es geht Richtung Hafen.
 
 
 
-> File: `000625_panorama-wolgast_2025.md` • #000625 • Slug: `panorama-wolgast`
+> File: 
+```
+• 000625_panorama-wolgast_2025.md
+• #000625 
+• Slug: `panorama-wolgast
+```

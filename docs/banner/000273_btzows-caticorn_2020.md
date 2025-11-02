@@ -22,7 +22,7 @@ slug: "btzows-caticorn"
 href: "banner/000273_btzows-caticorn_2020.md"
 name: "Bötzows Caticorn"
 ---
-# 000273.Bötzows Caticorn
+# Bötzows Caticorn
 
 *2020* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Bötzows Caticorn"
 
 ## Details
 - **Distance (km):** 7.65
-
-
+- **Missions in banner:** 42
+- **Total missions completed:** 6426
 
 
 
@@ -49,4 +49,9 @@ Nur noch bis 31.10.2021 spielbar.
 
 
 
-> File: `000273_btzows-caticorn_2020.md` • #000273 • Slug: `btzows-caticorn`
+> File: 
+```
+• 000273_btzows-caticorn_2020.md
+• #000273 
+• Slug: `btzows-caticorn
+```

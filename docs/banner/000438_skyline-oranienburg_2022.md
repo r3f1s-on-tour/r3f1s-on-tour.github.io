@@ -22,7 +22,7 @@ slug: "skyline-oranienburg"
 href: "banner/000438_skyline-oranienburg_2022.md"
 name: "Skyline Oranienburg"
 ---
-# 000438.Skyline Oranienburg
+# Skyline Oranienburg
 
 *2022* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Skyline Oranienburg"
 
 ## Details
 - **Distance (km):** 2.88
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 9.126
 
 
 
@@ -49,4 +49,9 @@ Nimm Dir Zeit auf Deiner Reise durch Oranienburg. Die Tour beginnt in der Bernau
 
 
 
-> File: `000438_skyline-oranienburg_2022.md` • #000438 • Slug: `skyline-oranienburg`
+> File: 
+```
+• 000438_skyline-oranienburg_2022.md
+• #000438 
+• Slug: `skyline-oranienburg
+```

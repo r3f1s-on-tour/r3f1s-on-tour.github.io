@@ -22,7 +22,7 @@ slug: "pinguine-tour-in-oranienburg"
 href: "banner/000454_pinguine-tour-in-oranienburg_2022.md"
 name: "Pinguine Tour in Oranienburg"
 ---
-# 000454.Pinguine Tour in Oranienburg
+# Pinguine Tour in Oranienburg
 
 *2022* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Pinguine Tour in Oranienburg"
 
 ## Details
 - **Distance (km):** 8.57
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 9.408
 
 
 
@@ -51,4 +51,9 @@ Banner ist bis 01.06.2022 online
 
 
 
-> File: `000454_pinguine-tour-in-oranienburg_2022.md` • #000454 • Slug: `pinguine-tour-in-oranienburg`
+> File: 
+```
+• 000454_pinguine-tour-in-oranienburg_2022.md
+• #000454 
+• Slug: `pinguine-tour-in-oranienburg
+```

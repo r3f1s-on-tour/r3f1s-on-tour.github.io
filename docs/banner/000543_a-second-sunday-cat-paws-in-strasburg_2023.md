@@ -22,7 +22,7 @@ slug: "a-second-sunday-cat-paws-in-strasburg"
 href: "banner/000543_a-second-sunday-cat-paws-in-strasburg_2023.md"
 name: "A Second Sunday Cat Paws in Strasburg"
 ---
-# 000543.A Second Sunday Cat Paws in Strasburg
+# A Second Sunday Cat Paws in Strasburg
 
 *2023* • Strasburg (Uckermark) • Deutschland
 
@@ -32,8 +32,8 @@ name: "A Second Sunday Cat Paws in Strasburg"
 
 ## Details
 - **Distance (km):** 1.05
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 12.000
 
 
 
@@ -49,4 +49,9 @@ Beginne eine Runde durch Strasburg und entdecke auf deiner Runde Sehenswürdigke
 
 
 
-> File: `000543_a-second-sunday-cat-paws-in-strasburg_2023.md` • #000543 • Slug: `a-second-sunday-cat-paws-in-strasburg`
+> File: 
+```
+• 000543_a-second-sunday-cat-paws-in-strasburg_2023.md
+• #000543 
+• Slug: `a-second-sunday-cat-paws-in-strasburg
+```

@@ -22,7 +22,7 @@ slug: "augsburger-puppenkiste"
 href: "banner/000085_augsburger-puppenkiste_2017.md"
 name: "Augsburger Puppenkiste"
 ---
-# 000085.Augsburger Puppenkiste
+# Augsburger Puppenkiste
 
 *2017* • Augsburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Augsburger Puppenkiste"
 
 ## Details
 - **Distance (km):** 4.39
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 2208
 
 
 
@@ -49,4 +49,9 @@ This mosaic is devoted to Augsburger Puppenkiste. It is a well known marionette 
 
 
 
-> File: `000085_augsburger-puppenkiste_2017.md` • #000085 • Slug: `augsburger-puppenkiste`
+> File: 
+```
+• 000085_augsburger-puppenkiste_2017.md
+• #000085 
+• Slug: `augsburger-puppenkiste
+```

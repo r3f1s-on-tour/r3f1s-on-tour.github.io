@@ -22,7 +22,7 @@ slug: "smoking-dark-side"
 href: "banner/000299_smoking-dark-side_2021.md"
 name: "Smoking Dark Side"
 ---
-# 000299.Smoking Dark Side
+# Smoking Dark Side
 
 *2021* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Smoking Dark Side"
 
 ## Details
 - **Distance (km):** 7.26
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 6978
 
 
 
@@ -50,4 +50,9 @@ Start ist U-Bahn Eberswalder Straße und endet bei der Tram Prenzlauer Allee / E
 
 
 
-> File: `000299_smoking-dark-side_2021.md` • #000299 • Slug: `smoking-dark-side`
+> File: 
+```
+• 000299_smoking-dark-side_2021.md
+• #000299 
+• Slug: `smoking-dark-side
+```

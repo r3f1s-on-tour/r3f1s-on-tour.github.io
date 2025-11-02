@@ -22,7 +22,7 @@ slug: "augsburg-im-januar"
 href: "banner/000120_augsburg-im-januar_2018.md"
 name: "Augsburg im Januar"
 ---
-# 000120.Augsburg im Januar
+# Augsburg im Januar
 
 *2018* • Augsburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Augsburg im Januar"
 
 ## Details
 - **Distance (km):** 7.10
-
-
+- **Missions in banner:** 30
+- **Total missions completed:** 2934
 
 
 
@@ -46,4 +46,9 @@ name: "Augsburg im Januar"
 
 
 
-> File: `000120_augsburg-im-januar_2018.md` • #000120 • Slug: `augsburg-im-januar`
+> File: 
+```
+• 000120_augsburg-im-januar_2018.md
+• #000120 
+• Slug: `augsburg-im-januar
+```

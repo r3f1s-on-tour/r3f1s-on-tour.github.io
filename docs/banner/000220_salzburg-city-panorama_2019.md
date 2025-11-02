@@ -22,7 +22,7 @@ slug: "salzburg-city-panorama"
 href: "banner/000220_salzburg-city-panorama_2019.md"
 name: "Salzburg City Panorama"
 ---
-# 000220.Salzburg City Panorama
+# Salzburg City Panorama
 
 *2019* • Salzburg • Österreich
 
@@ -32,8 +32,8 @@ name: "Salzburg City Panorama"
 
 ## Details
 - **Distance (km):** 4.19
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 5322
 
 
 
@@ -49,4 +49,9 @@ Salzburg City Panorama
 
 
 
-> File: `000220_salzburg-city-panorama_2019.md` • #000220 • Slug: `salzburg-city-panorama`
+> File: 
+```
+• 000220_salzburg-city-panorama_2019.md
+• #000220 
+• Slug: `salzburg-city-panorama
+```

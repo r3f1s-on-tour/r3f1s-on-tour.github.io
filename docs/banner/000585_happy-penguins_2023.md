@@ -22,7 +22,7 @@ slug: "happy-penguins"
 href: "banner/000585_happy-penguins_2023.md"
 name: "Happy Penguins"
 ---
-# 000585.Happy Penguins
+# Happy Penguins
 
 *2023* • Dresden • Deutschland
 
@@ -32,8 +32,8 @@ name: "Happy Penguins"
 
 ## Details
 - **Distance (km):** 1.62
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 13.008
 
 
 
@@ -49,4 +49,9 @@ Weihnachtliche Pinguine verstecken sich am Dresdner Elbufer. Kannst du sie finde
 
 
 
-> File: `000585_happy-penguins_2023.md` • #000585 • Slug: `happy-penguins`
+> File: 
+```
+• 000585_happy-penguins_2023.md
+• #000585 
+• Slug: `happy-penguins
+```

@@ -22,7 +22,7 @@ slug: "chinese-year-of-dragon-year"
 href: "banner/000626_chinese-year-of-dragon-year_2025.md"
 name: "Chinese Year of Dragon Year"
 ---
-# 000626.Chinese Year of Dragon Year
+# Chinese Year of Dragon Year
 
 *2025* • Neubrandenburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Chinese Year of Dragon Year"
 
 ## Details
 - **Distance (km):** 8.10
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 13614
 
 
 
@@ -49,4 +49,9 @@ Entdecke die Sehenswürdigkeiten von Neubrandenburg.
 
 
 
-> File: `000626_chinese-year-of-dragon-year_2025.md` • #000626 • Slug: `chinese-year-of-dragon-year`
+> File: 
+```
+• 000626_chinese-year-of-dragon-year_2025.md
+• #000626 
+• Slug: `chinese-year-of-dragon-year
+```

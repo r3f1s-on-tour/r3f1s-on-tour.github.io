@@ -22,7 +22,7 @@ slug: "mnchner-tatort-ermittler-1972-bis-heute"
 href: "banner/000082_mnchner-tatort-ermittler-1972-bis-heute_2017.md"
 name: "Münchner Tatort-Ermittler 1972 bis heute"
 ---
-# 000082.Münchner Tatort-Ermittler 1972 bis heute
+# Münchner Tatort-Ermittler 1972 bis heute
 
 *2017* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "Münchner Tatort-Ermittler 1972 bis heute"
 
 ## Details
 - **Distance (km):** 2.11
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 2166
 
 
 
@@ -49,4 +49,9 @@ Ivo Batic und Franz Leitmayr, gespielt von Miroslav Nemec und Udo Wachtveitl, si
 
 
 
-> File: `000082_mnchner-tatort-ermittler-1972-bis-heute_2017.md` • #000082 • Slug: `mnchner-tatort-ermittler-1972-bis-heute`
+> File: 
+```
+• 000082_mnchner-tatort-ermittler-1972-bis-heute_2017.md
+• #000082 
+• Slug: `mnchner-tatort-ermittler-1972-bis-heute
+```

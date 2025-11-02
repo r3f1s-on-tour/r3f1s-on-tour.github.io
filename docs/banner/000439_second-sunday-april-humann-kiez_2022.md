@@ -22,7 +22,7 @@ slug: "second-sunday-april-humann-kiez"
 href: "banner/000439_second-sunday-april-humann-kiez_2022.md"
 name: "Second Sunday April Humann-Kiez"
 ---
-# 000439.Second Sunday April Humann-Kiez
+# Second Sunday April Humann-Kiez
 
 *2022* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Second Sunday April Humann-Kiez"
 
 ## Details
 - **Distance (km):** 1.66
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 9.132
 
 
 
@@ -49,4 +49,9 @@ This mission will guide you from Schoenhauser Allee to Humannplatz
 
 
 
-> File: `000439_second-sunday-april-humann-kiez_2022.md` • #000439 • Slug: `second-sunday-april-humann-kiez`
+> File: 
+```
+• 000439_second-sunday-april-humann-kiez_2022.md
+• #000439 
+• Slug: `second-sunday-april-humann-kiez
+```

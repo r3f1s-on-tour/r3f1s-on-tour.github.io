@@ -22,7 +22,7 @@ slug: "clockwork-orange"
 href: "banner/000370_clockwork-orange_2021.md"
 name: "Clockwork Orange"
 ---
-# 000370.Clockwork Orange
+# Clockwork Orange
 
 *2021* • Neubrandenburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Clockwork Orange"
 
 ## Details
 - **Distance (km):** 21.78
-
-
+- **Missions in banner:** 36
+- **Total missions completed:** 8142
 
 
 
@@ -49,4 +49,9 @@ Geh auf Entdeckungstour durch Neubrandenburg. Es beginnt und endet bei Clockwork
 
 
 
-> File: `000370_clockwork-orange_2021.md` • #000370 • Slug: `clockwork-orange`
+> File: 
+```
+• 000370_clockwork-orange_2021.md
+• #000370 
+• Slug: `clockwork-orange
+```

@@ -22,7 +22,7 @@ slug: "marx-is-calling-you-berlin"
 href: "banner/000612_marx-is-calling-you-berlin_2025.md"
 name: "Marx is calling you - Berlin"
 ---
-# 000612.Marx is calling you - Berlin
+# Marx is calling you - Berlin
 
 *2025* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Marx is calling you - Berlin"
 
 ## Details
 - **Distance (km):** 2.10
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 13.416
 
 
 
@@ -46,4 +46,9 @@ name: "Marx is calling you - Berlin"
 
 
 
-> File: `000612_marx-is-calling-you-berlin_2025.md` • #000612 • Slug: `marx-is-calling-you-berlin`
+> File: 
+```
+• 000612_marx-is-calling-you-berlin_2025.md
+• #000612 
+• Slug: `marx-is-calling-you-berlin
+```

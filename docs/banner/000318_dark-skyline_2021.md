@@ -22,7 +22,7 @@ slug: "dark-skyline"
 href: "banner/000318_dark-skyline_2021.md"
 name: "Dark Skyline"
 ---
-# 000318.Dark Skyline
+# Dark Skyline
 
 *2021* • Hannover • Deutschland
 
@@ -32,8 +32,8 @@ name: "Dark Skyline"
 
 ## Details
 - **Distance (km):** 1.81
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 7386
 
 
 
@@ -49,4 +49,9 @@ Six-mission-set in the city-centre that shows some of Hannovers popular sights.
 
 
 
-> File: `000318_dark-skyline_2021.md` • #000318 • Slug: `dark-skyline`
+> File: 
+```
+• 000318_dark-skyline_2021.md
+• #000318 
+• Slug: `dark-skyline
+```

@@ -22,7 +22,7 @@ slug: "apfelschnitt"
 href: "banner/000527_apfelschnitt_2023.md"
 name: "Apfelschnitt"
 ---
-# 000527.Apfelschnitt
+# Apfelschnitt
 
 *2023* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Apfelschnitt"
 
 ## Details
 - **Distance (km):** 19.40
-
-
+- **Missions in banner:** 72
+- **Total missions completed:** 11.220
 
 
 
@@ -44,4 +44,9 @@ Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdig
 
 
 
-> File: `000527_apfelschnitt_2023.md` • #000527 • Slug: `apfelschnitt`
+> File: 
+```
+• 000527_apfelschnitt_2023.md
+• #000527 
+• Slug: `apfelschnitt
+```

@@ -3,8 +3,8 @@ nummer: "212"
 startLatitude: "47.875529"
 startLongitude: "11.708485"
 titel: "Holzkirchen"
-picture: ""
-region: "Marschall"
+picture: "https://api.bannergress.com/bnrs/pictures/e7747ce07018fefb34fd9b97f6ec75dc"
+region: "Holzkirchen"
 country: "Deutschland"
 completed: "5172"
 missions: "36"
@@ -22,18 +22,18 @@ slug: "holzkirchen"
 href: "banner/000212_holzkirchen_2018.md"
 name: "Holzkirchen"
 ---
-# 000212.Holzkirchen
+# Holzkirchen
 
-*2018* • Marschall • Deutschland
+*2018* • Holzkirchen • Deutschland
 
-
+![Holzkirchen](https://api.bannergress.com/bnrs/pictures/e7747ce07018fefb34fd9b97f6ec75dc)
 
 
 
 ## Details
 - **Distance (km):** 10.84
-
-
+- **Missions in banner:** 36
+- **Total missions completed:** 5172
 
 
 
@@ -49,4 +49,9 @@ Erfülle alle Missionen in der richtigen Reihenfolge um das Holzkirchner Wappen 
 
 
 
-> File: `000212_holzkirchen_2018.md` • #000212 • Slug: `holzkirchen`
+> File: 
+```
+• 000212_holzkirchen_2018.md
+• #000212 
+• Slug: `holzkirchen
+```

@@ -22,7 +22,7 @@ slug: "stadtwappen-dachau"
 href: "banner/000076_stadtwappen-dachau_2017.md"
 name: "Stadtwappen Dachau"
 ---
-# 000076.Stadtwappen Dachau
+# Stadtwappen Dachau
 
 *2017* • Dachau • Deutschland
 
@@ -32,8 +32,8 @@ name: "Stadtwappen Dachau"
 
 ## Details
 - **Distance (km):** 11.39
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 2070
 
 
 
@@ -52,4 +52,9 @@ In rememberance of liberation Dachau's concentration camp.
 
 
 
-> File: `000076_stadtwappen-dachau_2017.md` • #000076 • Slug: `stadtwappen-dachau`
+> File: 
+```
+• 000076_stadtwappen-dachau_2017.md
+• #000076 
+• Slug: `stadtwappen-dachau
+```

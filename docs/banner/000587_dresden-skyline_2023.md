@@ -22,7 +22,7 @@ slug: "dresden-skyline"
 href: "banner/000587_dresden-skyline_2023.md"
 name: "Dresden Skyline"
 ---
-# 000587.Dresden Skyline
+# Dresden Skyline
 
 *2023* • Dresden • Deutschland
 
@@ -32,8 +32,8 @@ name: "Dresden Skyline"
 
 ## Details
 - **Distance (km):** 4.10
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 13.026
 
 
 
@@ -50,4 +50,9 @@ Teil 1 von 12
 
 
 
-> File: `000587_dresden-skyline_2023.md` • #000587 • Slug: `dresden-skyline`
+> File: 
+```
+• 000587_dresden-skyline_2023.md
+• #000587 
+• Slug: `dresden-skyline
+```

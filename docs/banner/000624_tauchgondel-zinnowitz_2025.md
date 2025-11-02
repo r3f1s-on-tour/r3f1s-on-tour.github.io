@@ -22,7 +22,7 @@ slug: "tauchgondel-zinnowitz"
 href: "banner/000624_tauchgondel-zinnowitz_2025.md"
 name: "Tauchgondel Zinnowitz"
 ---
-# 000624.Tauchgondel Zinnowitz
+# Tauchgondel Zinnowitz
 
 *2025* • Zinnowitz • Deutschland
 
@@ -32,8 +32,8 @@ name: "Tauchgondel Zinnowitz"
 
 ## Details
 - **Distance (km):** 4.91
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 13590
 
 
 
@@ -49,4 +49,9 @@ Zinnowitz to popularny niemiecki nadbałtycki kurort letni, położony w półno
 
 
 
-> File: `000624_tauchgondel-zinnowitz_2025.md` • #000624 • Slug: `tauchgondel-zinnowitz`
+> File: 
+```
+• 000624_tauchgondel-zinnowitz_2025.md
+• #000624 
+• Slug: `tauchgondel-zinnowitz
+```

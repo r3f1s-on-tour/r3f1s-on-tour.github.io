@@ -3,7 +3,7 @@ nummer: "263"
 startLatitude: "52.536859"
 startLongitude: "13.383973"
 titel: "Brunnenviertel"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/3234dc7fe62ec04aaa417f431b85de9b"
 region: "Berlin"
 country: "Deutschland"
 completed: "6282"
@@ -22,18 +22,18 @@ slug: "brunnenviertel"
 href: "banner/000263_brunnenviertel_2020.md"
 name: "Brunnenviertel"
 ---
-# 000263.Brunnenviertel
+# Brunnenviertel
 
 *2020* • Berlin • Deutschland
 
-
+![Brunnenviertel](https://api.bannergress.com/bnrs/pictures/3234dc7fe62ec04aaa417f431b85de9b)
 
 
 
 ## Details
 - **Distance (km):** 4.23
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 6282
 
 
 
@@ -49,4 +49,9 @@ Genieße die frische Luft
 
 
 
-> File: `000263_brunnenviertel_2020.md` • #000263 • Slug: `brunnenviertel`
+> File: 
+```
+• 000263_brunnenviertel_2020.md
+• #000263 
+• Slug: `brunnenviertel
+```

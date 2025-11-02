@@ -22,7 +22,7 @@ slug: "whaleomaly-is-coming-rosenheim"
 href: "banner/000184_whaleomaly-is-coming-rosenheim_2018.md"
 name: "Whaleomaly is Coming / [Rosenheim]"
 ---
-# 000184.Whaleomaly is Coming / [Rosenheim]
+# Whaleomaly is Coming / [Rosenheim]
 
 *2018* • Rosenheim • Deutschland
 
@@ -32,8 +32,8 @@ name: "Whaleomaly is Coming / [Rosenheim]"
 
 ## Details
 - **Distance (km):** 1.57
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 4392
 
 
 
@@ -50,4 +50,9 @@ Explore Rosenheims Whales! Take them with you to unite at the Whaleomaly Linz!
 
 
 
-> File: `000184_whaleomaly-is-coming-rosenheim_2018.md` • #000184 • Slug: `whaleomaly-is-coming-rosenheim`
+> File: 
+```
+• 000184_whaleomaly-is-coming-rosenheim_2018.md
+• #000184 
+• Slug: `whaleomaly-is-coming-rosenheim
+```

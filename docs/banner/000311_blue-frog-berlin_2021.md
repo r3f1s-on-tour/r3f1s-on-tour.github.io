@@ -22,7 +22,7 @@ slug: "blue-frog-berlin"
 href: "banner/000311_blue-frog-berlin_2021.md"
 name: "blue Frog Berlin"
 ---
-# 000311.blue Frog Berlin
+# blue Frog Berlin
 
 *2021* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "blue Frog Berlin"
 
 ## Details
 - **Distance (km):** 10.73
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 7284
 
 
 
@@ -49,4 +49,9 @@ Hack  all Portals
 
 
 
-> File: `000311_blue-frog-berlin_2021.md` • #000311 • Slug: `blue-frog-berlin`
+> File: 
+```
+• 000311_blue-frog-berlin_2021.md
+• #000311 
+• Slug: `blue-frog-berlin
+```

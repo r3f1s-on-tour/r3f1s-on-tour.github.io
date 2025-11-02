@@ -22,7 +22,7 @@ slug: "sternbilder"
 href: "banner/000377_sternbilder_2021.md"
 name: "Sternbilder"
 ---
-# 000377.Sternbilder
+# Sternbilder
 
 *2021* • Stralsund • Deutschland
 
@@ -32,8 +32,8 @@ name: "Sternbilder"
 
 ## Details
 - **Distance (km):** 3.47
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 8220
 
 
 
@@ -49,4 +49,9 @@ Besucht die Stadt am Strelasund. Als Belohnung erwarten euch die 12 Sternzeichen
 
 
 
-> File: `000377_sternbilder_2021.md` • #000377 • Slug: `sternbilder`
+> File: 
+```
+• 000377_sternbilder_2021.md
+• #000377 
+• Slug: `sternbilder
+```

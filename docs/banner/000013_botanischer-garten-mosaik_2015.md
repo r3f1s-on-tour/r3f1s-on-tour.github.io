@@ -22,7 +22,7 @@ slug: "botanischer-garten-mosaik"
 href: "banner/000013_botanischer-garten-mosaik_2015.md"
 name: "Botanischer Garten Mosaik"
 ---
-# 000013.Botanischer Garten Mosaik
+# Botanischer Garten Mosaik
 
 *2015* • Hamburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Botanischer Garten Mosaik"
 
 ## Details
 - **Distance (km):** 4.28
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 258
 
 
 
@@ -49,4 +49,9 @@ Ein wunderschönes Mosaik aus dem Botanischen Garten / Loki-Schmidt-Garten
 
 
 
-> File: `000013_botanischer-garten-mosaik_2015.md` • #000013 • Slug: `botanischer-garten-mosaik`
+> File: 
+```
+• 000013_botanischer-garten-mosaik_2015.md
+• #000013 
+• Slug: `botanischer-garten-mosaik
+```

@@ -3,7 +3,7 @@ nummer: "266"
 startLatitude: "52.523294"
 startLongitude: "13.397903"
 titel: "FS Berlin - #IngressFS"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/11f500b1c382b2b3ad283e4dc993f73a"
 region: "Berlin"
 country: "Deutschland"
 completed: "6312"
@@ -22,18 +22,18 @@ slug: "fs-berlin-ingressfs"
 href: "banner/000266_fs-berlin-ingressfs_2020.md"
 name: "FS Berlin - #IngressFS"
 ---
-# 000266.FS Berlin - #IngressFS
+# FS Berlin - #IngressFS
 
 *2020* • Berlin • Deutschland
 
-
+![FS Berlin - #IngressFS](https://api.bannergress.com/bnrs/pictures/11f500b1c382b2b3ad283e4dc993f73a)
 
 
 
 ## Details
 - **Distance (km):** 1.87
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 6312
 
 
 
@@ -49,4 +49,9 @@ Missionset for the First Saturday in Berlin. This mission is dedicated to all be
 
 
 
-> File: `000266_fs-berlin-ingressfs_2020.md` • #000266 • Slug: `fs-berlin-ingressfs`
+> File: 
+```
+• 000266_fs-berlin-ingressfs_2020.md
+• #000266 
+• Slug: `fs-berlin-ingressfs
+```

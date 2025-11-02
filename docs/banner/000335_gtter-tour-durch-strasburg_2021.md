@@ -22,7 +22,7 @@ slug: "gtter-tour-durch-strasburg"
 href: "banner/000335_gtter-tour-durch-strasburg_2021.md"
 name: "Götter Tour durch Strasburg"
 ---
-# 000335.Götter Tour durch Strasburg
+# Götter Tour durch Strasburg
 
 *2021* • Strasburg (Uckermark) • Deutschland
 
@@ -32,8 +32,8 @@ name: "Götter Tour durch Strasburg"
 
 ## Details
 - **Distance (km):** 3.17
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 7650
 
 
 
@@ -51,4 +51,9 @@ Geht am 08.11.2021 offline
 
 
 
-> File: `000335_gtter-tour-durch-strasburg_2021.md` • #000335 • Slug: `gtter-tour-durch-strasburg`
+> File: 
+```
+• 000335_gtter-tour-durch-strasburg_2021.md
+• #000335 
+• Slug: `gtter-tour-durch-strasburg
+```

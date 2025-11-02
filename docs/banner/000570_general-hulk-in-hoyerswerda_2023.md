@@ -22,7 +22,7 @@ slug: "general-hulk-in-hoyerswerda"
 href: "banner/000570_general-hulk-in-hoyerswerda_2023.md"
 name: "General Hulk in Hoyerswerda"
 ---
-# 000570.General Hulk in Hoyerswerda
+# General Hulk in Hoyerswerda
 
 *2023* • Hoyerswerda - Wojerecy • Deutschland
 
@@ -32,8 +32,8 @@ name: "General Hulk in Hoyerswerda"
 
 ## Details
 - **Distance (km):** 15.40
-
-
+- **Missions in banner:** 36
+- **Total missions completed:** 12.600
 
 
 
@@ -50,4 +50,9 @@ Beginnend am Bahnhof, vorbei am Zoo und über Zentralpark kommt Ihr zum Schluss 
 
 
 
-> File: `000570_general-hulk-in-hoyerswerda_2023.md` • #000570 • Slug: `general-hulk-in-hoyerswerda`
+> File: 
+```
+• 000570_general-hulk-in-hoyerswerda_2023.md
+• #000570 
+• Slug: `general-hulk-in-hoyerswerda
+```

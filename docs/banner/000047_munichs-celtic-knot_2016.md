@@ -22,7 +22,7 @@ slug: "munichs-celtic-knot"
 href: "banner/000047_munichs-celtic-knot_2016.md"
 name: "MUNICHS CELTIC KNOT"
 ---
-# 000047.MUNICHS CELTIC KNOT
+# MUNICHS CELTIC KNOT
 
 *2016* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "MUNICHS CELTIC KNOT"
 
 ## Details
 - **Distance (km):** 10.38
-
-
+- **Missions in banner:** 36
+- **Total missions completed:** 1086
 
 
 
@@ -49,4 +49,9 @@ name: "MUNICHS CELTIC KNOT"
 
 
 
-> File: `000047_munichs-celtic-knot_2016.md` • #000047 • Slug: `munichs-celtic-knot`
+> File: 
+```
+• 000047_munichs-celtic-knot_2016.md
+• #000047 
+• Slug: `munichs-celtic-knot
+```

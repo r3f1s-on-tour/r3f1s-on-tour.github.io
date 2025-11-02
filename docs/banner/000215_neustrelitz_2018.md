@@ -22,7 +22,7 @@ slug: "neustrelitz"
 href: "banner/000215_neustrelitz_2018.md"
 name: "Neustrelitz"
 ---
-# 000215.Neustrelitz
+# Neustrelitz
 
 *2018* • Neustrelitz • Deutschland
 
@@ -32,6 +32,8 @@ name: "Neustrelitz"
 
 ## Details
 
+- **Missions in banner:** 18
+- **Total missions completed:** 5220
 
 
 
@@ -39,6 +41,9 @@ name: "Neustrelitz"
 
 
 
-
-
-> File: `000215_neustrelitz_2018.md` • #000215 • Slug: `neustrelitz`
+> File: 
+```
+• 000215_neustrelitz_2018.md
+• #000215 
+• Slug: `neustrelitz
+```

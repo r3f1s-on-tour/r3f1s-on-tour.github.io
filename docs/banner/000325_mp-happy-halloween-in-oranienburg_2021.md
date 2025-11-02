@@ -22,7 +22,7 @@ slug: "mp-happy-halloween-in-oranienburg"
 href: "banner/000325_mp-happy-halloween-in-oranienburg_2021.md"
 name: "#MP Happy Halloween in Oranienburg"
 ---
-# 000325.#MP Happy Halloween in Oranienburg
+# #MP Happy Halloween in Oranienburg
 
 *2021* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "#MP Happy Halloween in Oranienburg"
 
 ## Details
 - **Distance (km):** 3.64
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 7482
 
 
 
@@ -51,4 +51,9 @@ Banner geht am 01.11.2021 offline
 
 
 
-> File: `000325_mp-happy-halloween-in-oranienburg_2021.md` • #000325 • Slug: `mp-happy-halloween-in-oranienburg`
+> File: 
+```
+• 000325_mp-happy-halloween-in-oranienburg_2021.md
+• #000325 
+• Slug: `mp-happy-halloween-in-oranienburg
+```

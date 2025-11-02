@@ -22,7 +22,7 @@ slug: "kiss-toast-in-oranienburg"
 href: "banner/000359_kiss-toast-in-oranienburg_2021.md"
 name: "Kiss Toast in Oranienburg"
 ---
-# 000359.Kiss Toast in Oranienburg
+# Kiss Toast in Oranienburg
 
 *2021* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Kiss Toast in Oranienburg"
 
 ## Details
 - **Distance (km):** 1.64
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 7968
 
 
 
@@ -44,4 +44,9 @@ Mache eine kleine Tour durch Oranienburg und hole dir die Kiss Toast ins Profil
 
 
 
-> File: `000359_kiss-toast-in-oranienburg_2021.md` • #000359 • Slug: `kiss-toast-in-oranienburg`
+> File: 
+```
+• 000359_kiss-toast-in-oranienburg_2021.md
+• #000359 
+• Slug: `kiss-toast-in-oranienburg
+```

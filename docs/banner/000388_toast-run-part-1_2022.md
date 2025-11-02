@@ -22,7 +22,7 @@ slug: "toast-run-part-1"
 href: "banner/000388_toast-run-part-1_2022.md"
 name: "Toast Run Part 1"
 ---
-# 000388.Toast Run Part 1
+# Toast Run Part 1
 
 *2022* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Toast Run Part 1"
 
 ## Details
 - **Distance (km):** 6.88
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 8.352
 
 
 
@@ -45,4 +45,9 @@ Die Runde führt dich unter anderem an der Havel und dem Schloss entlang.
 
 
 
-> File: `000388_toast-run-part-1_2022.md` • #000388 • Slug: `toast-run-part-1`
+> File: 
+```
+• 000388_toast-run-part-1_2022.md
+• #000388 
+• Slug: `toast-run-part-1
+```

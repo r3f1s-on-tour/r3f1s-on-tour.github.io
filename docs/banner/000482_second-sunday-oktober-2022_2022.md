@@ -22,7 +22,7 @@ slug: "second-sunday-oktober-2022"
 href: "banner/000482_second-sunday-oktober-2022_2022.md"
 name: "Second Sunday - Oktober 2022"
 ---
-# 000482.Second Sunday - Oktober 2022
+# Second Sunday - Oktober 2022
 
 *2022* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Second Sunday - Oktober 2022"
 
 ## Details
 - **Distance (km):** 1.60
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 10.428
 
 
 
@@ -49,4 +49,9 @@ Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und end
 
 
 
-> File: `000482_second-sunday-oktober-2022_2022.md` • #000482 • Slug: `second-sunday-oktober-2022`
+> File: 
+```
+• 000482_second-sunday-oktober-2022_2022.md
+• #000482 
+• Slug: `second-sunday-oktober-2022
+```

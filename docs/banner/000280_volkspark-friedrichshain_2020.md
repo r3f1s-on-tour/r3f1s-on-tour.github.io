@@ -22,7 +22,7 @@ slug: "volkspark-friedrichshain"
 href: "banner/000280_volkspark-friedrichshain_2020.md"
 name: "Volkspark Friedrichshain"
 ---
-# 000280.Volkspark Friedrichshain
+# Volkspark Friedrichshain
 
 *2020* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Volkspark Friedrichshain"
 
 ## Details
 - **Distance (km):** 4.25
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 6492
 
 
 
@@ -49,4 +49,9 @@ The Volkspark Friedrichshain is the oldest public park in Berlin, opened 1846. T
 
 
 
-> File: `000280_volkspark-friedrichshain_2020.md` • #000280 • Slug: `volkspark-friedrichshain`
+> File: 
+```
+• 000280_volkspark-friedrichshain_2020.md
+• #000280 
+• Slug: `volkspark-friedrichshain
+```

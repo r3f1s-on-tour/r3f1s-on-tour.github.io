@@ -22,7 +22,7 @@ slug: "banksy-stop-and-search"
 href: "banner/000515_banksy-stop-and-search_2022.md"
 name: "Banksy - Stop and Search"
 ---
-# 000515.Banksy - Stop and Search
+# Banksy - Stop and Search
 
 *2022* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Banksy - Stop and Search"
 
 ## Details
 - **Distance (km):** 6.99
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 10.968
 
 
 
@@ -53,4 +53,9 @@ All credit goes to Banksy. ly <3
 
 
 
-> File: `000515_banksy-stop-and-search_2022.md` • #000515 • Slug: `banksy-stop-and-search`
+> File: 
+```
+• 000515_banksy-stop-and-search_2022.md
+• #000515 
+• Slug: `banksy-stop-and-search
+```

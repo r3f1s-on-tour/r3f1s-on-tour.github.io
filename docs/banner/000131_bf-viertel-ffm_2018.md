@@ -22,7 +22,7 @@ slug: "bf-viertel-ffm"
 href: "banner/000131_bf-viertel-ffm_2018.md"
 name: "Bf-Viertel FFM"
 ---
-# 000131.Bf-Viertel FFM
+# Bf-Viertel FFM
 
 *2018* • Frankfurt am Main • Deutschland
 
@@ -32,8 +32,8 @@ name: "Bf-Viertel FFM"
 
 ## Details
 - **Distance (km):** 4.45
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 3180
 
 
 
@@ -50,4 +50,9 @@ Let's go and... discover a peacefull park.
 
 
 
-> File: `000131_bf-viertel-ffm_2018.md` • #000131 • Slug: `bf-viertel-ffm`
+> File: 
+```
+• 000131_bf-viertel-ffm_2018.md
+• #000131 
+• Slug: `bf-viertel-ffm
+```

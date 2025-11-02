@@ -22,7 +22,7 @@ slug: "skyline-munich"
 href: "banner/000286_skyline-munich_2020.md"
 name: "Skyline Munich"
 ---
-# 000286.Skyline Munich
+# Skyline Munich
 
 *2020* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "Skyline Munich"
 
 ## Details
 - **Distance (km):** 1.45
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 6690
 
 
 
@@ -49,4 +49,9 @@ Part 1 of 6
 
 
 
-> File: `000286_skyline-munich_2020.md` • #000286 • Slug: `skyline-munich`
+> File: 
+```
+• 000286_skyline-munich_2020.md
+• #000286 
+• Slug: `skyline-munich
+```

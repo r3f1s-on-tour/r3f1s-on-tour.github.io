@@ -22,7 +22,7 @@ slug: "frog-in-neubrandenburg"
 href: "banner/000590_frog-in-neubrandenburg_2024.md"
 name: "Frog in Neubrandenburg"
 ---
-# 000590.Frog in Neubrandenburg
+# Frog in Neubrandenburg
 
 *2024* • Neubrandenburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Frog in Neubrandenburg"
 
 ## Details
 - **Distance (km):** 4.79
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 13.068
 
 
 
@@ -49,4 +49,9 @@ Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde die Sehens
 
 
 
-> File: `000590_frog-in-neubrandenburg_2024.md` • #000590 • Slug: `frog-in-neubrandenburg`
+> File: 
+```
+• 000590_frog-in-neubrandenburg_2024.md
+• #000590 
+• Slug: `frog-in-neubrandenburg
+```

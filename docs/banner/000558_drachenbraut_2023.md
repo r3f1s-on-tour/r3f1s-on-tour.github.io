@@ -22,7 +22,7 @@ slug: "drachenbraut"
 href: "banner/000558_drachenbraut_2023.md"
 name: "Drachenbraut"
 ---
-# 000558.Drachenbraut
+# Drachenbraut
 
 *2023* • Rotenburg an der Fulda • Deutschland
 
@@ -32,8 +32,8 @@ name: "Drachenbraut"
 
 ## Details
 - **Distance (km):** 4.39
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 12.408
 
 
 
@@ -49,4 +49,9 @@ Willkommen zu meinen ersten Mossaik in Rotenburg an der Fulda.
 
 
 
-> File: `000558_drachenbraut_2023.md` • #000558 • Slug: `drachenbraut`
+> File: 
+```
+• 000558_drachenbraut_2023.md
+• #000558 
+• Slug: `drachenbraut
+```

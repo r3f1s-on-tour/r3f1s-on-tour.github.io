@@ -22,7 +22,7 @@ slug: "landshuter-katze"
 href: "banner/000097_landshuter-katze_2017.md"
 name: "Landshuter Katze"
 ---
-# 000097.Landshuter Katze
+# Landshuter Katze
 
 *2017* • Landshut • Deutschland
 
@@ -32,8 +32,8 @@ name: "Landshuter Katze"
 
 ## Details
 - **Distance (km):** 7.93
-
-
+- **Missions in banner:** 30
+- **Total missions completed:** 2496
 
 
 
@@ -50,4 +50,9 @@ Viel Spaß
 
 
 
-> File: `000097_landshuter-katze_2017.md` • #000097 • Slug: `landshuter-katze`
+> File: 
+```
+• 000097_landshuter-katze_2017.md
+• #000097 
+• Slug: `landshuter-katze
+```

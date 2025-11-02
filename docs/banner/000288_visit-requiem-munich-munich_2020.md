@@ -22,7 +22,7 @@ slug: "visit-requiem-munich-munich"
 href: "banner/000288_visit-requiem-munich-munich_2020.md"
 name: "Visit Requiem Munich - Munich"
 ---
-# 000288.Visit Requiem Munich - Munich
+# Visit Requiem Munich - Munich
 
 *2020* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "Visit Requiem Munich - Munich"
 
 ## Details
 - **Distance (km):** 1.09
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 6708
 
 
 
@@ -49,4 +49,9 @@ On the 9th May of 2020 an epic battle between Enlightened and Resistance will ta
 
 
 
-> File: `000288_visit-requiem-munich-munich_2020.md` • #000288 • Slug: `visit-requiem-munich-munich`
+> File: 
+```
+• 000288_visit-requiem-munich-munich_2020.md
+• #000288 
+• Slug: `visit-requiem-munich-munich
+```

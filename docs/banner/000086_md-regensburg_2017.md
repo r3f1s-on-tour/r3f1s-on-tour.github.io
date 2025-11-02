@@ -22,7 +22,7 @@ slug: "md-regensburg"
 href: "banner/000086_md-regensburg_2017.md"
 name: "MD Regensburg"
 ---
-# 000086.MD Regensburg
+# MD Regensburg
 
 *2017* • Regensburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "MD Regensburg"
 
 ## Details
 - **Distance (km):** 29.30
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 2232
 
 - **Mission Day:** Yes
 
@@ -46,4 +46,9 @@ name: "MD Regensburg"
 
 
 
-> File: `000086_md-regensburg_2017.md` • #000086 • Slug: `md-regensburg`
+> File: 
+```
+• 000086_md-regensburg_2017.md
+• #000086 
+• Slug: `md-regensburg
+```

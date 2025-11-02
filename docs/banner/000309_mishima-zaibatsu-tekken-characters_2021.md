@@ -22,7 +22,7 @@ slug: "mishima-zaibatsu-tekken-characters"
 href: "banner/000309_mishima-zaibatsu-tekken-characters_2021.md"
 name: "Mishima Zaibatsu - Tekken Characters"
 ---
-# 000309.Mishima Zaibatsu - Tekken Characters
+# Mishima Zaibatsu - Tekken Characters
 
 *2021* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Mishima Zaibatsu - Tekken Characters"
 
 ## Details
 - **Distance (km):** 3.63
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 7254
 
 
 
@@ -49,4 +49,9 @@ A walk through  the neighborhood of the well known Samaviertel.
 
 
 
-> File: `000309_mishima-zaibatsu-tekken-characters_2021.md` • #000309 • Slug: `mishima-zaibatsu-tekken-characters`
+> File: 
+```
+• 000309_mishima-zaibatsu-tekken-characters_2021.md
+• #000309 
+• Slug: `mishima-zaibatsu-tekken-characters
+```

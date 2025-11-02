@@ -22,7 +22,7 @@ slug: "mr-pumpkin-slasher-in-oranienburg-part-2"
 href: "banner/000345_mr-pumpkin-slasher-in-oranienburg-part-2_2021.md"
 name: "Mr Pumpkin Slasher in Oranienburg - Part 2"
 ---
-# 000345.Mr Pumpkin Slasher in Oranienburg - Part 2
+# Mr Pumpkin Slasher in Oranienburg - Part 2
 
 *2021* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Mr Pumpkin Slasher in Oranienburg - Part 2"
 
 ## Details
 - **Distance (km):** 6.05
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 7794
 
 
 
@@ -44,4 +44,9 @@ Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> File: `000345_mr-pumpkin-slasher-in-oranienburg-part-2_2021.md` • #000345 • Slug: `mr-pumpkin-slasher-in-oranienburg-part-2`
+> File: 
+```
+• 000345_mr-pumpkin-slasher-in-oranienburg-part-2_2021.md
+• #000345 
+• Slug: `mr-pumpkin-slasher-in-oranienburg-part-2
+```

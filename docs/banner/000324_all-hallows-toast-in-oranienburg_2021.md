@@ -22,7 +22,7 @@ slug: "all-hallows-toast-in-oranienburg"
 href: "banner/000324_all-hallows-toast-in-oranienburg_2021.md"
 name: "All Hallows Toast in Oranienburg"
 ---
-# 000324.All Hallows Toast in Oranienburg
+# All Hallows Toast in Oranienburg
 
 *2021* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "All Hallows Toast in Oranienburg"
 
 ## Details
 - **Distance (km):** 1.74
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 7470
 
 
 
@@ -51,4 +51,9 @@ Geht am 01.11.2021 offline
 
 
 
-> File: `000324_all-hallows-toast-in-oranienburg_2021.md` • #000324 • Slug: `all-hallows-toast-in-oranienburg`
+> File: 
+```
+• 000324_all-hallows-toast-in-oranienburg_2021.md
+• #000324 
+• Slug: `all-hallows-toast-in-oranienburg
+```

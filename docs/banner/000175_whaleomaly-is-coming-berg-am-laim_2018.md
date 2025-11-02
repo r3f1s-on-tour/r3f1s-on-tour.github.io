@@ -22,7 +22,7 @@ slug: "whaleomaly-is-coming-berg-am-laim"
 href: "banner/000175_whaleomaly-is-coming-berg-am-laim_2018.md"
 name: "Whaleomaly is Coming [Berg am Laim]"
 ---
-# 000175.Whaleomaly is Coming [Berg am Laim]
+# Whaleomaly is Coming [Berg am Laim]
 
 *2018* • München • Deutschland
 
@@ -32,6 +32,8 @@ name: "Whaleomaly is Coming [Berg am Laim]"
 
 ## Details
 
+- **Missions in banner:** 6
+- **Total missions completed:** 4188
 
 
 
@@ -39,6 +41,9 @@ name: "Whaleomaly is Coming [Berg am Laim]"
 
 
 
-
-
-> File: `000175_whaleomaly-is-coming-berg-am-laim_2018.md` • #000175 • Slug: `whaleomaly-is-coming-berg-am-laim`
+> File: 
+```
+• 000175_whaleomaly-is-coming-berg-am-laim_2018.md
+• #000175 
+• Slug: `whaleomaly-is-coming-berg-am-laim
+```

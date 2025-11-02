@@ -22,7 +22,7 @@ slug: "ingress-first-saturday-ffb-03-09-2016"
 href: "banner/000035_ingress-first-saturday-ffb-03-09-2016_2016.md"
 name: "Ingress First Saturday FFB 03 09 2016"
 ---
-# 000035.Ingress First Saturday FFB 03 09 2016
+# Ingress First Saturday FFB 03 09 2016
 
 *2016* • Fürstenfeldbruck • Deutschland
 
@@ -32,6 +32,8 @@ name: "Ingress First Saturday FFB 03 09 2016"
 
 ## Details
 
+- **Missions in banner:** 6
+- **Total missions completed:** 690
 
 
 
@@ -39,6 +41,9 @@ name: "Ingress First Saturday FFB 03 09 2016"
 
 
 
-
-
-> File: `000035_ingress-first-saturday-ffb-03-09-2016_2016.md` • #000035 • Slug: `ingress-first-saturday-ffb-03-09-2016`
+> File: 
+```
+• 000035_ingress-first-saturday-ffb-03-09-2016_2016.md
+• #000035 
+• Slug: `ingress-first-saturday-ffb-03-09-2016
+```

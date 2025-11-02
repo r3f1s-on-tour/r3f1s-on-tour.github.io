@@ -22,7 +22,7 @@ slug: "spaziergang-durch-senftenberg"
 href: "banner/000569_spaziergang-durch-senftenberg_2023.md"
 name: "Spaziergang durch Senftenberg"
 ---
-# 000569.Spaziergang durch Senftenberg
+# Spaziergang durch Senftenberg
 
 *2023* • Senftenberg - Zły Komorow • Deutschland
 
@@ -32,8 +32,8 @@ name: "Spaziergang durch Senftenberg"
 
 ## Details
 - **Distance (km):** 4.12
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 12.564
 
 
 
@@ -51,4 +51,9 @@ Die Festung ist ab ca.17 Uhr geschlossen dann nur noch  Zugang über Treppe am T
 
 
 
-> File: `000569_spaziergang-durch-senftenberg_2023.md` • #000569 • Slug: `spaziergang-durch-senftenberg`
+> File: 
+```
+• 000569_spaziergang-durch-senftenberg_2023.md
+• #000569 
+• Slug: `spaziergang-durch-senftenberg
+```

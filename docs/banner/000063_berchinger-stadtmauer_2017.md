@@ -22,7 +22,7 @@ slug: "berchinger-stadtmauer"
 href: "banner/000063_berchinger-stadtmauer_2017.md"
 name: "Berchinger Stadtmauer"
 ---
-# 000063.Berchinger Stadtmauer
+# Berchinger Stadtmauer
 
 *2017* • Sollngriesbach • Deutschland
 
@@ -32,8 +32,8 @@ name: "Berchinger Stadtmauer"
 
 ## Details
 - **Distance (km):** 7.46
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 1404
 
 
 
@@ -50,4 +50,9 @@ Hack only. Am besten zu Fuß machbar.
 
 
 
-> File: `000063_berchinger-stadtmauer_2017.md` • #000063 • Slug: `berchinger-stadtmauer`
+> File: 
+```
+• 000063_berchinger-stadtmauer_2017.md
+• #000063 
+• Slug: `berchinger-stadtmauer
+```

@@ -22,7 +22,7 @@ slug: "superhelden-toasts-in-oranienburg"
 href: "banner/000382_superhelden-toasts-in-oranienburg_2022.md"
 name: "Superhelden Toasts in Oranienburg"
 ---
-# 000382.Superhelden Toasts in Oranienburg
+# Superhelden Toasts in Oranienburg
 
 *2022* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Superhelden Toasts in Oranienburg"
 
 ## Details
 - **Distance (km):** 2.20
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 8280
 
 
 
@@ -44,4 +44,9 @@ Starte einen kleinen Rundgang durch Oranienburg und hole die Superhelden Toats i
 
 
 
-> File: `000382_superhelden-toasts-in-oranienburg_2022.md` • #000382 • Slug: `superhelden-toasts-in-oranienburg`
+> File: 
+```
+• 000382_superhelden-toasts-in-oranienburg_2022.md
+• #000382 
+• Slug: `superhelden-toasts-in-oranienburg
+```

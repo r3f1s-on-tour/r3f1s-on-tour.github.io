@@ -22,7 +22,7 @@ slug: "deifel-in-dsseldorf"
 href: "banner/000503_deifel-in-dsseldorf_2022.md"
 name: "Deifel in Düsseldorf"
 ---
-# 000503.Deifel in Düsseldorf
+# Deifel in Düsseldorf
 
 *2022* • Düsseldorf • Deutschland
 
@@ -32,8 +32,8 @@ name: "Deifel in Düsseldorf"
 
 ## Details
 - **Distance (km):** 4.00
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 10.752
 
 
 
@@ -49,4 +49,9 @@ Starte am Hauptbahnhof einen Rundgang und entdecke Düsseldorf. Auf deinem Abent
 
 
 
-> File: `000503_deifel-in-dsseldorf_2022.md` • #000503 • Slug: `deifel-in-dsseldorf`
+> File: 
+```
+• 000503_deifel-in-dsseldorf_2022.md
+• #000503 
+• Slug: `deifel-in-dsseldorf
+```

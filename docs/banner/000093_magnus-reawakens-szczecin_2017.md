@@ -22,7 +22,7 @@ slug: "magnus-reawakens-szczecin"
 href: "banner/000093_magnus-reawakens-szczecin_2017.md"
 name: "MAGNUS Reawakens Szczecin"
 ---
-# 000093.MAGNUS Reawakens Szczecin
+# MAGNUS Reawakens Szczecin
 
 *2017* • Szczecin • Polska
 
@@ -32,8 +32,8 @@ name: "MAGNUS Reawakens Szczecin"
 
 ## Details
 - **Distance (km):** 13.54
-
-
+- **Missions in banner:** 42
+- **Total missions completed:** 2418
 
 
 
@@ -49,4 +49,9 @@ name: "MAGNUS Reawakens Szczecin"
 
 
 
-> File: `000093_magnus-reawakens-szczecin_2017.md` • #000093 • Slug: `magnus-reawakens-szczecin`
+> File: 
+```
+• 000093_magnus-reawakens-szczecin_2017.md
+• #000093 
+• Slug: `magnus-reawakens-szczecin
+```

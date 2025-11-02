@@ -22,7 +22,7 @@ slug: "schauspielhaus"
 href: "banner/000538_schauspielhaus_2023.md"
 name: "Schauspielhaus"
 ---
-# 000538.Schauspielhaus
+# Schauspielhaus
 
 *2023* • Neubrandenburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Schauspielhaus"
 
 ## Details
 - **Distance (km):** 5.06
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 11.862
 
 
 
@@ -49,4 +49,9 @@ Das Schauspielhaus befindet sich im Zentrum von Neubrandenburg. Es ist das älte
 
 
 
-> File: `000538_schauspielhaus_2023.md` • #000538 • Slug: `schauspielhaus`
+> File: 
+```
+• 000538_schauspielhaus_2023.md
+• #000538 
+• Slug: `schauspielhaus
+```

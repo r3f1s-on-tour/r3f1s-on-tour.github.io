@@ -22,7 +22,7 @@ slug: "green-dragon"
 href: "banner/000399_green-dragon_2022.md"
 name: "Green Dragon"
 ---
-# 000399.Green Dragon
+# Green Dragon
 
 *2022* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Green Dragon"
 
 ## Details
 - **Distance (km):** 12.00
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 8.556
 
 
 
@@ -49,4 +49,9 @@ Der kleine Drache schlüpft am S+U Bhf Lichtenberg. Begleite ihn Richtung Friedr
 
 
 
-> File: `000399_green-dragon_2022.md` • #000399 • Slug: `green-dragon`
+> File: 
+```
+• 000399_green-dragon_2022.md
+• #000399 
+• Slug: `green-dragon
+```

@@ -22,7 +22,7 @@ slug: "deifel-in-wuppertal"
 href: "banner/000507_deifel-in-wuppertal_2022.md"
 name: "Deifel in Wuppertal"
 ---
-# 000507.Deifel in Wuppertal
+# Deifel in Wuppertal
 
 *2022* • Wuppertal • Deutschland
 
@@ -32,8 +32,8 @@ name: "Deifel in Wuppertal"
 
 ## Details
 - **Distance (km):** 1.32
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 10.824
 
 
 
@@ -49,4 +49,9 @@ Starte am Hauptbahnhof einen Rundgang und entdecke Wuppertal. Auf deinem Abenteu
 
 
 
-> File: `000507_deifel-in-wuppertal_2022.md` • #000507 • Slug: `deifel-in-wuppertal`
+> File: 
+```
+• 000507_deifel-in-wuppertal_2022.md
+• #000507 
+• Slug: `deifel-in-wuppertal
+```

@@ -22,7 +22,7 @@ slug: "szczecin-dwigozaury"
 href: "banner/000437_szczecin-dwigozaury_2022.md"
 name: "Szczecin Dźwigozaury"
 ---
-# 000437.Szczecin Dźwigozaury
+# Szczecin Dźwigozaury
 
 *2022* • Szczecin • Polska
 
@@ -32,8 +32,8 @@ name: "Szczecin Dźwigozaury"
 
 ## Details
 - **Distance (km):** 4.64
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 9.114
 
 
 
@@ -49,4 +49,9 @@ Szczecin Dźwigozaury
 
 
 
-> File: `000437_szczecin-dwigozaury_2022.md` • #000437 • Slug: `szczecin-dwigozaury`
+> File: 
+```
+• 000437_szczecin-dwigozaury_2022.md
+• #000437 
+• Slug: `szczecin-dwigozaury
+```

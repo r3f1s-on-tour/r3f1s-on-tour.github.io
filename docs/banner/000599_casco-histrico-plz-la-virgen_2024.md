@@ -22,7 +22,7 @@ slug: "casco-histrico-plz-la-virgen"
 href: "banner/000599_casco-histrico-plz-la-virgen_2024.md"
 name: "Casco Histórico Plz. La Virgen"
 ---
-# 000599.Casco Histórico Plz. La Virgen
+# Casco Histórico Plz. La Virgen
 
 *2024* • València • España
 
@@ -32,8 +32,8 @@ name: "Casco Histórico Plz. La Virgen"
 
 ## Details
 - **Distance (km):** 4.28
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 13.218
 
 
 
@@ -49,4 +49,9 @@ Uno de los lugares mas emblemáticos de la ciudad Valenciana, es sin duda la pla
 
 
 
-> File: `000599_casco-histrico-plz-la-virgen_2024.md` • #000599 • Slug: `casco-histrico-plz-la-virgen`
+> File: 
+```
+• 000599_casco-histrico-plz-la-virgen_2024.md
+• #000599 
+• Slug: `casco-histrico-plz-la-virgen
+```

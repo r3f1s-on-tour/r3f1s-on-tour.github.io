@@ -22,7 +22,7 @@ slug: "missionday-hamburg"
 href: "banner/000018_missionday-hamburg_2015.md"
 name: "MissionDay Hamburg"
 ---
-# 000018.MissionDay Hamburg
+# MissionDay Hamburg
 
 *2015* • Hamburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "MissionDay Hamburg"
 
 ## Details
 - **Distance (km):** 71.95
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 330
 
 - **Mission Day:** Yes
 
@@ -49,4 +49,9 @@ The Alsterarkaden is the smallest and oldest shopping arcade in Hamburg.
 
 
 
-> File: `000018_missionday-hamburg_2015.md` • #000018 • Slug: `missionday-hamburg`
+> File: 
+```
+• 000018_missionday-hamburg_2015.md
+• #000018 
+• Slug: `missionday-hamburg
+```

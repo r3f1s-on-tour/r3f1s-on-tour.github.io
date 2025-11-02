@@ -22,7 +22,7 @@ slug: "time-space-und-frstenfeldbruck"
 href: "banner/000039_time-space-und-frstenfeldbruck_2016.md"
 name: "Time Space und Fürstenfeldbruck"
 ---
-# 000039.Time Space und Fürstenfeldbruck
+# Time Space und Fürstenfeldbruck
 
 *2016* • Germering • Deutschland
 
@@ -32,8 +32,8 @@ name: "Time Space und Fürstenfeldbruck"
 
 ## Details
 - **Distance (km):** 98.19
-
-
+- **Missions in banner:** 48
+- **Total missions completed:** 828
 
 
 
@@ -49,4 +49,9 @@ Eine Reise durch den schönen Landkreis Fürstenfeldbruck.
 
 
 
-> File: `000039_time-space-und-frstenfeldbruck_2016.md` • #000039 • Slug: `time-space-und-frstenfeldbruck`
+> File: 
+```
+• 000039_time-space-und-frstenfeldbruck_2016.md
+• #000039 
+• Slug: `time-space-und-frstenfeldbruck
+```

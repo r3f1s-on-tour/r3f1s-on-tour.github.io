@@ -3,7 +3,7 @@ nummer: "199"
 startLatitude: "55.606285"
 startLongitude: "12.984311"
 titel: "I want to be a pirate!"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/e28b536b4b5b03372c9fa43a795ffa9a"
 region: "Malmö"
 country: "Sverige"
 completed: "4668"
@@ -22,18 +22,18 @@ slug: "i-want-to-be-a-pirate"
 href: "banner/000199_i-want-to-be-a-pirate_2018.md"
 name: "I want to be a pirate!"
 ---
-# 000199.I want to be a pirate!
+# I want to be a pirate!
 
 *2018* • Malmö • Sverige
 
-
+![I want to be a pirate!](https://api.bannergress.com/bnrs/pictures/e28b536b4b5b03372c9fa43a795ffa9a)
 
 
 
 ## Details
 - **Distance (km):** 6.60
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 4668
 
 
 
@@ -50,4 +50,9 @@ All portals available 24/7
 
 
 
-> File: `000199_i-want-to-be-a-pirate_2018.md` • #000199 • Slug: `i-want-to-be-a-pirate`
+> File: 
+```
+• 000199_i-want-to-be-a-pirate_2018.md
+• #000199 
+• Slug: `i-want-to-be-a-pirate
+```

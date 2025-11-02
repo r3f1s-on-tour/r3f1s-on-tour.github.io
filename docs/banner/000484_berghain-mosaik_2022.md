@@ -22,7 +22,7 @@ slug: "berghain-mosaik"
 href: "banner/000484_berghain-mosaik_2022.md"
 name: "Berghain Mosaik"
 ---
-# 000484.Berghain Mosaik
+# Berghain Mosaik
 
 *2022* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Berghain Mosaik"
 
 ## Details
 - **Distance (km):** 6.63
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 10.452
 
 
 
@@ -51,4 +51,9 @@ You will get some further information about Berghain during your trip.
 
 
 
-> File: `000484_berghain-mosaik_2022.md` • #000484 • Slug: `berghain-mosaik`
+> File: 
+```
+• 000484_berghain-mosaik_2022.md
+• #000484 
+• Slug: `berghain-mosaik
+```

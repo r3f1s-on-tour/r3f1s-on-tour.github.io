@@ -22,7 +22,7 @@ slug: "i-love-mnchen"
 href: "banner/000024_i-love-mnchen_2016.md"
 name: "I Love München"
 ---
-# 000024.I Love München
+# I Love München
 
 *2016* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "I Love München"
 
 ## Details
 - **Distance (km):** 2.32
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 426
 
 
 
@@ -49,4 +49,9 @@ I love München.
 
 
 
-> File: `000024_i-love-mnchen_2016.md` • #000024 • Slug: `i-love-mnchen`
+> File: 
+```
+• 000024_i-love-mnchen_2016.md
+• #000024 
+• Slug: `i-love-mnchen
+```

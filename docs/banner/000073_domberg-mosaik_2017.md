@@ -22,7 +22,7 @@ slug: "domberg-mosaik"
 href: "banner/000073_domberg-mosaik_2017.md"
 name: "Domberg-Mosaik"
 ---
-# 000073.Domberg-Mosaik
+# Domberg-Mosaik
 
 *2017* • Freising • Deutschland
 
@@ -32,8 +32,8 @@ name: "Domberg-Mosaik"
 
 ## Details
 - **Distance (km):** 8.44
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 2040
 
 
 
@@ -50,4 +50,9 @@ Erster Teil startet im Domhof, wo auch der letzte Teil beendet wird.
 
 
 
-> File: `000073_domberg-mosaik_2017.md` • #000073 • Slug: `domberg-mosaik`
+> File: 
+```
+• 000073_domberg-mosaik_2017.md
+• #000073 
+• Slug: `domberg-mosaik
+```

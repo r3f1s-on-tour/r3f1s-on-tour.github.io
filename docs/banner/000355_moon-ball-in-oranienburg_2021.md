@@ -22,7 +22,7 @@ slug: "moon-ball-in-oranienburg"
 href: "banner/000355_moon-ball-in-oranienburg_2021.md"
 name: "Moon Ball in Oranienburg"
 ---
-# 000355.Moon Ball in Oranienburg
+# Moon Ball in Oranienburg
 
 *2021* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Moon Ball in Oranienburg"
 
 ## Details
 - **Distance (km):** 6.05
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 7938
 
 
 
@@ -44,4 +44,9 @@ Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> File: `000355_moon-ball-in-oranienburg_2021.md` • #000355 • Slug: `moon-ball-in-oranienburg`
+> File: 
+```
+• 000355_moon-ball-in-oranienburg_2021.md
+• #000355 
+• Slug: `moon-ball-in-oranienburg
+```

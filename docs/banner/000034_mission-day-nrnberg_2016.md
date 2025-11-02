@@ -22,7 +22,7 @@ slug: "mission-day-nrnberg"
 href: "banner/000034_mission-day-nrnberg_2016.md"
 name: "Mission Day Nürnberg"
 ---
-# 000034.Mission Day Nürnberg
+# Mission Day Nürnberg
 
 *2016* • Nürnberg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Mission Day Nürnberg"
 
 ## Details
 - **Distance (km):** 31.10
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 684
 
 
 
@@ -49,4 +49,9 @@ The former AEG factory premises have been become a lively urban site with IT off
 
 
 
-> File: `000034_mission-day-nrnberg_2016.md` • #000034 • Slug: `mission-day-nrnberg`
+> File: 
+```
+• 000034_mission-day-nrnberg_2016.md
+• #000034 
+• Slug: `mission-day-nrnberg
+```

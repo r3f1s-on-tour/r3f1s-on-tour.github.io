@@ -3,7 +3,7 @@ nummer: "195"
 startLatitude: "48.366462"
 startLongitude: "10.894585"
 titel: "Augsburg im Juli"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/1e14e287d6bc82453a07f657c6d245c4"
 region: "Augsburg"
 country: "Deutschland"
 completed: "4614"
@@ -22,18 +22,18 @@ slug: "augsburg-im-juli"
 href: "banner/000195_augsburg-im-juli_2018.md"
 name: "Augsburg im Juli"
 ---
-# 000195.Augsburg im Juli
+# Augsburg im Juli
 
 *2018* • Augsburg • Deutschland
 
-
+![Augsburg im Juli](https://api.bannergress.com/bnrs/pictures/1e14e287d6bc82453a07f657c6d245c4)
 
 
 
 ## Details
 - **Distance (km):** 6.30
-
-
+- **Missions in banner:** 30
+- **Total missions completed:** 4614
 
 
 
@@ -46,4 +46,9 @@ name: "Augsburg im Juli"
 
 
 
-> File: `000195_augsburg-im-juli_2018.md` • #000195 • Slug: `augsburg-im-juli`
+> File: 
+```
+• 000195_augsburg-im-juli_2018.md
+• #000195 
+• Slug: `augsburg-im-juli
+```

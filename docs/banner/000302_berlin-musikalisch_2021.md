@@ -22,7 +22,7 @@ slug: "berlin-musikalisch"
 href: "banner/000302_berlin-musikalisch_2021.md"
 name: "Berlin musikalisch"
 ---
-# 000302.Berlin musikalisch
+# Berlin musikalisch
 
 *2021* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Berlin musikalisch"
 
 ## Details
 - **Distance (km):** 15.82
-
-
+- **Missions in banner:** 48
+- **Total missions completed:** 7062
 
 
 
@@ -50,4 +50,9 @@ Zwei der besten Konzertlocations in Berlin.
 
 
 
-> File: `000302_berlin-musikalisch_2021.md` • #000302 • Slug: `berlin-musikalisch`
+> File: 
+```
+• 000302_berlin-musikalisch_2021.md
+• #000302 
+• Slug: `berlin-musikalisch
+```

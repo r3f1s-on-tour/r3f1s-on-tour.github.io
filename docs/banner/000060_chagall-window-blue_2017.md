@@ -22,7 +22,7 @@ slug: "chagall-window-blue"
 href: "banner/000060_chagall-window-blue_2017.md"
 name: "Chagall Window blue"
 ---
-# 000060.Chagall Window blue
+# Chagall Window blue
 
 *2017* • Zürich • Schweiz/Suisse/Svizzera/Svizra
 
@@ -32,8 +32,8 @@ name: "Chagall Window blue"
 
 ## Details
 - **Distance (km):** 1.74
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 1350
 
 
 
@@ -51,4 +51,9 @@ Optimal starting point for all three windows
 
 
 
-> File: `000060_chagall-window-blue_2017.md` • #000060 • Slug: `chagall-window-blue`
+> File: 
+```
+• 000060_chagall-window-blue_2017.md
+• #000060 
+• Slug: `chagall-window-blue
+```

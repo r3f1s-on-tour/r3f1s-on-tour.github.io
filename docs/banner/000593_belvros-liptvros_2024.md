@@ -22,7 +22,7 @@ slug: "belvros-liptvros"
 href: "banner/000593_belvros-liptvros_2024.md"
 name: "Belváros-Lipótváros"
 ---
-# 000593.Belváros-Lipótváros
+# Belváros-Lipótváros
 
 *2024* • Budapest • Magyarország
 
@@ -32,8 +32,8 @@ name: "Belváros-Lipótváros"
 
 ## Details
 - **Distance (km):** 4.67
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 13.110
 
 
 
@@ -49,4 +49,9 @@ Discover the central part of Budapest in District V, situated on the east bank o
 
 
 
-> File: `000593_belvros-liptvros_2024.md` • #000593 • Slug: `belvros-liptvros`
+> File: 
+```
+• 000593_belvros-liptvros_2024.md
+• #000593 
+• Slug: `belvros-liptvros
+```

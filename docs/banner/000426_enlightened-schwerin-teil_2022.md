@@ -22,7 +22,7 @@ slug: "enlightened-schwerin-teil"
 href: "banner/000426_enlightened-schwerin-teil_2022.md"
 name: "Enlightened Schwerin Teil"
 ---
-# 000426.Enlightened Schwerin Teil
+# Enlightened Schwerin Teil
 
 *2022* • Schwerin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Enlightened Schwerin Teil"
 
 ## Details
 - **Distance (km):** 2.72
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 8.874
 
 
 
@@ -49,4 +49,9 @@ Der Alte Garten wartet ;)
 
 
 
-> File: `000426_enlightened-schwerin-teil_2022.md` • #000426 • Slug: `enlightened-schwerin-teil`
+> File: 
+```
+• 000426_enlightened-schwerin-teil_2022.md
+• #000426 
+• Slug: `enlightened-schwerin-teil
+```

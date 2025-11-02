@@ -22,7 +22,7 @@ slug: "an-der-paulskirche"
 href: "banner/000132_an-der-paulskirche_2018.md"
 name: "An der Paulskirche"
 ---
-# 000132.An der Paulskirche
+# An der Paulskirche
 
 *2018* • Frankfurt am Main • Deutschland
 
@@ -32,6 +32,8 @@ name: "An der Paulskirche"
 
 ## Details
 
+- **Missions in banner:** 36
+- **Total missions completed:** 3216
 
 
 
@@ -39,6 +41,9 @@ name: "An der Paulskirche"
 
 
 
-
-
-> File: `000132_an-der-paulskirche_2018.md` • #000132 • Slug: `an-der-paulskirche`
+> File: 
+```
+• 000132_an-der-paulskirche_2018.md
+• #000132 
+• Slug: `an-der-paulskirche
+```

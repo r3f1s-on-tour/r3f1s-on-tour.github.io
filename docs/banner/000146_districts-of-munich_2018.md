@@ -22,7 +22,7 @@ slug: "districts-of-munich"
 href: "banner/000146_districts-of-munich_2018.md"
 name: "Districts of Munich"
 ---
-# 000146.Districts of Munich
+# Districts of Munich
 
 *2018* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "Districts of Munich"
 
 ## Details
 - **Distance (km):** 83.57
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 3546
 
 
 
@@ -49,4 +49,9 @@ Mission-sequence through Munich's districts. DayTicket (Inneraum) helps ;)
 
 
 
-> File: `000146_districts-of-munich_2018.md` • #000146 • Slug: `districts-of-munich`
+> File: 
+```
+• 000146_districts-of-munich_2018.md
+• #000146 
+• Slug: `districts-of-munich
+```

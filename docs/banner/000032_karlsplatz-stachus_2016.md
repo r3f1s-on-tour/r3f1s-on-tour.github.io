@@ -22,7 +22,7 @@ slug: "karlsplatz-stachus"
 href: "banner/000032_karlsplatz-stachus_2016.md"
 name: "Karlsplatz Stachus"
 ---
-# 000032.Karlsplatz Stachus
+# Karlsplatz Stachus
 
 *2016* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "Karlsplatz Stachus"
 
 ## Details
 - **Distance (km):** 6.14
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 648
 
 
 
@@ -49,4 +49,9 @@ Der Karlsplatz liegt an einer Stelle, über die im Mittelalter die Salzstraße f
 
 
 
-> File: `000032_karlsplatz-stachus_2016.md` • #000032 • Slug: `karlsplatz-stachus`
+> File: 
+```
+• 000032_karlsplatz-stachus_2016.md
+• #000032 
+• Slug: `karlsplatz-stachus
+```

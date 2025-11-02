@@ -22,7 +22,7 @@ slug: "dark-frog-rises"
 href: "banner/000588_dark-frog-rises_2023.md"
 name: "DARK FROG RISES"
 ---
-# 000588.DARK FROG RISES
+# DARK FROG RISES
 
 *2023* • Dresden • Deutschland
 
@@ -32,8 +32,8 @@ name: "DARK FROG RISES"
 
 ## Details
 - **Distance (km):** 6.81
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 13.044
 
 
 
@@ -50,4 +50,9 @@ Batfrog is calling!
 
 
 
-> File: `000588_dark-frog-rises_2023.md` • #000588 • Slug: `dark-frog-rises`
+> File: 
+```
+• 000588_dark-frog-rises_2023.md
+• #000588 
+• Slug: `dark-frog-rises
+```

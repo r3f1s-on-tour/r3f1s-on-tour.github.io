@@ -22,7 +22,7 @@ slug: "held-der-kindheit"
 href: "banner/000592_held-der-kindheit_2024.md"
 name: "Held der Kindheit"
 ---
-# 000592.Held der Kindheit
+# Held der Kindheit
 
 *2024* • Ründeroth • Deutschland
 
@@ -32,8 +32,8 @@ name: "Held der Kindheit"
 
 ## Details
 - **Distance (km):** 4.89
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 13.086
 
 - **Mission Day:** Yes
 
@@ -49,4 +49,9 @@ Eine Runde rund um und durch Ründeroth, entlang alter Handelswege und vieler hi
 
 
 
-> File: `000592_held-der-kindheit_2024.md` • #000592 • Slug: `held-der-kindheit`
+> File: 
+```
+• 000592_held-der-kindheit_2024.md
+• #000592 
+• Slug: `held-der-kindheit
+```

@@ -22,7 +22,7 @@ slug: "echo-brighton"
 href: "banner/000553_echo-brighton_2023.md"
 name: "Echo Brighton"
 ---
-# 000553.Echo Brighton
+# Echo Brighton
 
 *2023* • Strasburg (Uckermark) • Deutschland
 
@@ -32,8 +32,8 @@ name: "Echo Brighton"
 
 ## Details
 - **Distance (km):** 3.51
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 12.264
 
 
 
@@ -44,4 +44,9 @@ Führen Sie anlässlich der Echo XM Anomaly in Brighton eine Event-Mission durch
 
 
 
-> File: `000553_echo-brighton_2023.md` • #000553 • Slug: `echo-brighton`
+> File: 
+```
+• 000553_echo-brighton_2023.md
+• #000553 
+• Slug: `echo-brighton
+```

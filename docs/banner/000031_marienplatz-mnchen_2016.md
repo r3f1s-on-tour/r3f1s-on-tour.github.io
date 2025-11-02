@@ -22,7 +22,7 @@ slug: "marienplatz-mnchen"
 href: "banner/000031_marienplatz-mnchen_2016.md"
 name: "Marienplatz München"
 ---
-# 000031.Marienplatz München
+# Marienplatz München
 
 *2016* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "Marienplatz München"
 
 ## Details
 - **Distance (km):** 5.84
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 624
 
 
 
@@ -49,4 +49,9 @@ name: "Marienplatz München"
 
 
 
-> File: `000031_marienplatz-mnchen_2016.md` • #000031 • Slug: `marienplatz-mnchen`
+> File: 
+```
+• 000031_marienplatz-mnchen_2016.md
+• #000031 
+• Slug: `marienplatz-mnchen
+```

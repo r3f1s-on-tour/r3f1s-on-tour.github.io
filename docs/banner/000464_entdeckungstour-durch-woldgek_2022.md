@@ -22,7 +22,7 @@ slug: "entdeckungstour-durch-woldgek"
 href: "banner/000464_entdeckungstour-durch-woldgek_2022.md"
 name: "Entdeckungstour durch Woldgek"
 ---
-# 000464.Entdeckungstour durch Woldgek
+# Entdeckungstour durch Woldgek
 
 *2022* • Woldegk • Deutschland
 
@@ -32,8 +32,8 @@ name: "Entdeckungstour durch Woldgek"
 
 ## Details
 - **Distance (km):** 8.60
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 10.218
 
 
 
@@ -49,4 +49,9 @@ Starte am Marktplatz und entdecke die Windmühlenstadt Woldegek. Auf deinem Aben
 
 
 
-> File: `000464_entdeckungstour-durch-woldgek_2022.md` • #000464 • Slug: `entdeckungstour-durch-woldgek`
+> File: 
+```
+• 000464_entdeckungstour-durch-woldgek_2022.md
+• #000464 
+• Slug: `entdeckungstour-durch-woldgek
+```

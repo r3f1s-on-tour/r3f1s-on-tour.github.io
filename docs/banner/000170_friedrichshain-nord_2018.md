@@ -22,7 +22,7 @@ slug: "friedrichshain-nord"
 href: "banner/000170_friedrichshain-nord_2018.md"
 name: "Friedrichshain Nord"
 ---
-# 000170.Friedrichshain Nord
+# Friedrichshain Nord
 
 *2018* • Berlin • Deutschland
 
@@ -32,6 +32,8 @@ name: "Friedrichshain Nord"
 
 ## Details
 
+- **Missions in banner:** 18
+- **Total missions completed:** 4122
 
 
 
@@ -39,6 +41,9 @@ name: "Friedrichshain Nord"
 
 
 
-
-
-> File: `000170_friedrichshain-nord_2018.md` • #000170 • Slug: `friedrichshain-nord`
+> File: 
+```
+• 000170_friedrichshain-nord_2018.md
+• #000170 
+• Slug: `friedrichshain-nord
+```

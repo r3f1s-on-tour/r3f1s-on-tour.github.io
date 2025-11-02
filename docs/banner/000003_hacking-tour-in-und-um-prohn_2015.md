@@ -22,7 +22,7 @@ slug: "hacking-tour-in-und-um-prohn"
 href: "banner/000003_hacking-tour-in-und-um-prohn_2015.md"
 name: "Hacking Tour in und um Prohn"
 ---
-# 000003.Hacking Tour in und um Prohn
+# Hacking Tour in und um Prohn
 
 *2015* • Prohn • Deutschland
 
@@ -32,6 +32,8 @@ name: "Hacking Tour in und um Prohn"
 
 ## Details
 
+- **Missions in banner:** 6
+- **Total missions completed:** 108
 
 
 
@@ -39,6 +41,9 @@ name: "Hacking Tour in und um Prohn"
 
 
 
-
-
-> File: `000003_hacking-tour-in-und-um-prohn_2015.md` • #000003 • Slug: `hacking-tour-in-und-um-prohn`
+> File: 
+```
+• 000003_hacking-tour-in-und-um-prohn_2015.md
+• #000003 
+• Slug: `hacking-tour-in-und-um-prohn
+```

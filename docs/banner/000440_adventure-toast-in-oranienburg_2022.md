@@ -22,7 +22,7 @@ slug: "adventure-toast-in-oranienburg"
 href: "banner/000440_adventure-toast-in-oranienburg_2022.md"
 name: "Adventure Toast in Oranienburg"
 ---
-# 000440.Adventure Toast in Oranienburg
+# Adventure Toast in Oranienburg
 
 *2022* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Adventure Toast in Oranienburg"
 
 ## Details
 - **Distance (km):** 8.57
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 9.156
 
 
 
@@ -44,4 +44,9 @@ Starte in der Bernauer Straße eine Reise durch die Stadt Oranienburg und hole A
 
 
 
-> File: `000440_adventure-toast-in-oranienburg_2022.md` • #000440 • Slug: `adventure-toast-in-oranienburg`
+> File: 
+```
+• 000440_adventure-toast-in-oranienburg_2022.md
+• #000440 
+• Slug: `adventure-toast-in-oranienburg
+```

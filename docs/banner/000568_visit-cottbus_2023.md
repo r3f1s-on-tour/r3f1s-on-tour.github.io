@@ -22,7 +22,7 @@ slug: "visit-cottbus"
 href: "banner/000568_visit-cottbus_2023.md"
 name: "Visit Cottbus"
 ---
-# 000568.Visit Cottbus
+# Visit Cottbus
 
 *2023* • Cottbus - Chóśebuz • Deutschland
 
@@ -32,8 +32,8 @@ name: "Visit Cottbus"
 
 ## Details
 - **Distance (km):** 5.17
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 12.558
 
 
 
@@ -49,4 +49,9 @@ Diese Mission beginnt am Bahnhof und geht über die Bahnhofstraße in Richtung T
 
 
 
-> File: `000568_visit-cottbus_2023.md` • #000568 • Slug: `visit-cottbus`
+> File: 
+```
+• 000568_visit-cottbus_2023.md
+• #000568 
+• Slug: `visit-cottbus
+```

@@ -22,7 +22,7 @@ slug: "a-fantasy-icon"
 href: "banner/000510_a-fantasy-icon_2022.md"
 name: "A fantasy Icon"
 ---
-# 000510.A fantasy Icon
+# A fantasy Icon
 
 *2022* • Wuppertal • Deutschland
 
@@ -32,8 +32,8 @@ name: "A fantasy Icon"
 
 ## Details
 - **Distance (km):** 3.87
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 10.878
 
 
 
@@ -52,4 +52,9 @@ With pretty hard questions. If you need help contact @ElliOpp via telegram.
 
 
 
-> File: `000510_a-fantasy-icon_2022.md` • #000510 • Slug: `a-fantasy-icon`
+> File: 
+```
+• 000510_a-fantasy-icon_2022.md
+• #000510 
+• Slug: `a-fantasy-icon
+```

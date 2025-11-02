@@ -22,7 +22,7 @@ slug: "biocard-szczecin"
 href: "banner/000434_biocard-szczecin_2022.md"
 name: "Biocard Szczecin"
 ---
-# 000434.Biocard Szczecin
+# Biocard Szczecin
 
 *2022* • Szczecin • Polska
 
@@ -32,8 +32,8 @@ name: "Biocard Szczecin"
 
 ## Details
 - **Distance (km):** 18.62
-
-
+- **Missions in banner:** 48
+- **Total missions completed:** 9.072
 
 
 
@@ -49,4 +49,9 @@ Welcome to Szczecin! This banner will lead you through the city's most famous hi
 
 
 
-> File: `000434_biocard-szczecin_2022.md` • #000434 • Slug: `biocard-szczecin`
+> File: 
+```
+• 000434_biocard-szczecin_2022.md
+• #000434 
+• Slug: `biocard-szczecin
+```

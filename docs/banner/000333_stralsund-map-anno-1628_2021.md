@@ -22,7 +22,7 @@ slug: "stralsund-map-anno-1628"
 href: "banner/000333_stralsund-map-anno-1628_2021.md"
 name: "Stralsund Map Anno 1628"
 ---
-# 000333.Stralsund Map Anno 1628
+# Stralsund Map Anno 1628
 
 *2021* • Stralsund • Deutschland
 
@@ -32,8 +32,8 @@ name: "Stralsund Map Anno 1628"
 
 ## Details
 - **Distance (km):** 8.46
-
-
+- **Missions in banner:** 30
+- **Total missions completed:** 7626
 
 
 
@@ -49,4 +49,9 @@ Gehe auf Entdeckungstour durch die Hansestadt Stralsund. Diese Mission beginnt a
 
 
 
-> File: `000333_stralsund-map-anno-1628_2021.md` • #000333 • Slug: `stralsund-map-anno-1628`
+> File: 
+```
+• 000333_stralsund-map-anno-1628_2021.md
+• #000333 
+• Slug: `stralsund-map-anno-1628
+```

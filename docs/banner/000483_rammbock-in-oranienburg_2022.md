@@ -22,7 +22,7 @@ slug: "rammbock-in-oranienburg"
 href: "banner/000483_rammbock-in-oranienburg_2022.md"
 name: "Rammbock in Oranienburg"
 ---
-# 000483.Rammbock in Oranienburg
+# Rammbock in Oranienburg
 
 *2022* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Rammbock in Oranienburg"
 
 ## Details
 - **Distance (km):** 1.60
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 10.434
 
 
 
@@ -49,4 +49,9 @@ Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und end
 
 
 
-> File: `000483_rammbock-in-oranienburg_2022.md` • #000483 • Slug: `rammbock-in-oranienburg`
+> File: 
+```
+• 000483_rammbock-in-oranienburg_2022.md
+• #000483 
+• Slug: `rammbock-in-oranienburg
+```

@@ -22,7 +22,7 @@ slug: "bluesungarching"
 href: "banner/000037_bluesungarching_2016.md"
 name: "BlueSunGarching"
 ---
-# 000037.BlueSunGarching
+# BlueSunGarching
 
 *2016* • Garching bei München • Deutschland
 
@@ -32,8 +32,8 @@ name: "BlueSunGarching"
 
 ## Details
 - **Distance (km):** 26.52
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 774
 
 
 
@@ -49,4 +49,9 @@ A Trip to (nearly) all portals in Garching Hochbrück (1-6), Garching (7-12) and
 
 
 
-> File: `000037_bluesungarching_2016.md` • #000037 • Slug: `bluesungarching`
+> File: 
+```
+• 000037_bluesungarching_2016.md
+• #000037 
+• Slug: `bluesungarching
+```

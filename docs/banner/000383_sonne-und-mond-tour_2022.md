@@ -22,7 +22,7 @@ slug: "sonne-und-mond-tour"
 href: "banner/000383_sonne-und-mond-tour_2022.md"
 name: "Sonne und Mond Tour"
 ---
-# 000383.Sonne und Mond Tour
+# Sonne und Mond Tour
 
 *2022* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Sonne und Mond Tour"
 
 ## Details
 - **Distance (km):** 8.89
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 8298
 
 
 
@@ -49,4 +49,9 @@ Starte am Zeiss-Großplanetarium eine Entdeckungsrunde nach Weissensee
 
 
 
-> File: `000383_sonne-und-mond-tour_2022.md` • #000383 • Slug: `sonne-und-mond-tour`
+> File: 
+```
+• 000383_sonne-und-mond-tour_2022.md
+• #000383 
+• Slug: `sonne-und-mond-tour
+```

@@ -22,7 +22,7 @@ slug: "starry-night-tardis"
 href: "banner/000004_starry-night-tardis_2015.md"
 name: "Starry Night TARDIS"
 ---
-# 000004.Starry Night TARDIS
+# Starry Night TARDIS
 
 *2015* • Stralsund • Deutschland
 
@@ -32,8 +32,8 @@ name: "Starry Night TARDIS"
 
 ## Details
 - **Distance (km):** 9.30
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 132
 
 
 
@@ -46,4 +46,9 @@ name: "Starry Night TARDIS"
 
 
 
-> File: `000004_starry-night-tardis_2015.md` • #000004 • Slug: `starry-night-tardis`
+> File: 
+```
+• 000004_starry-night-tardis_2015.md
+• #000004 
+• Slug: `starry-night-tardis
+```

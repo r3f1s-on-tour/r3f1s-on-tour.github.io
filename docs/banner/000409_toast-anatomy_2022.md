@@ -22,7 +22,7 @@ slug: "toast-anatomy"
 href: "banner/000409_toast-anatomy_2022.md"
 name: "Toast Anatomy"
 ---
-# 000409.Toast Anatomy
+# Toast Anatomy
 
 *2022* • Strasburg (Uckermark) • Deutschland
 
@@ -32,8 +32,8 @@ name: "Toast Anatomy"
 
 ## Details
 - **Distance (km):** 2.76
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 8.688
 
 
 
@@ -44,4 +44,9 @@ Starte am Markt eine Entdeckungsreise durch die Stadt Strasburg Uckermark und en
 
 
 
-> File: `000409_toast-anatomy_2022.md` • #000409 • Slug: `toast-anatomy`
+> File: 
+```
+• 000409_toast-anatomy_2022.md
+• #000409 
+• Slug: `toast-anatomy
+```

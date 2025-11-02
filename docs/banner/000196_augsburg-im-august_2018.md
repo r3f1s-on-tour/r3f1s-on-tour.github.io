@@ -22,7 +22,7 @@ slug: "augsburg-im-august"
 href: "banner/000196_augsburg-im-august_2018.md"
 name: "Augsburg im August"
 ---
-# 000196.Augsburg im August
+# Augsburg im August
 
 *2018* • Augsburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Augsburg im August"
 
 ## Details
 - **Distance (km):** 7.10
-
-
+- **Missions in banner:** 30
+- **Total missions completed:** 4644
 
 
 
@@ -46,4 +46,9 @@ name: "Augsburg im August"
 
 
 
-> File: `000196_augsburg-im-august_2018.md` • #000196 • Slug: `augsburg-im-august`
+> File: 
+```
+• 000196_augsburg-im-august_2018.md
+• #000196 
+• Slug: `augsburg-im-august
+```

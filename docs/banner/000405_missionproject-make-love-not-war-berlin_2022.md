@@ -22,7 +22,7 @@ slug: "missionproject-make-love-not-war-berlin"
 href: "banner/000405_missionproject-make-love-not-war-berlin_2022.md"
 name: "#MissionProject Make Love Not War Berlin"
 ---
-# 000405.#MissionProject Make Love Not War Berlin
+# #MissionProject Make Love Not War Berlin
 
 *2022* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "#MissionProject Make Love Not War Berlin"
 
 ## Details
 - **Distance (km):** 4.13
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 8.646
 
 
 
@@ -49,4 +49,9 @@ Explore the famous Bötzowviertel in Prenzlauer Berg and get a banner that shows
 
 
 
-> File: `000405_missionproject-make-love-not-war-berlin_2022.md` • #000405 • Slug: `missionproject-make-love-not-war-berlin`
+> File: 
+```
+• 000405_missionproject-make-love-not-war-berlin_2022.md
+• #000405 
+• Slug: `missionproject-make-love-not-war-berlin
+```

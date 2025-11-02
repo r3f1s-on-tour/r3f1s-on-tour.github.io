@@ -22,7 +22,7 @@ slug: "waldmeister-tour"
 href: "banner/000459_waldmeister-tour_2022.md"
 name: "Waldmeister Tour"
 ---
-# 000459.Waldmeister Tour
+# Waldmeister Tour
 
 *2022* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Waldmeister Tour"
 
 ## Details
 - **Distance (km):** 10.25
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 9.510
 
 
 
@@ -49,4 +49,9 @@ Starte eine Waldmeister Tour im Mauerpark und mache eine Entdeckungsreise durch 
 
 
 
-> File: `000459_waldmeister-tour_2022.md` • #000459 • Slug: `waldmeister-tour`
+> File: 
+```
+• 000459_waldmeister-tour_2022.md
+• #000459 
+• Slug: `waldmeister-tour
+```

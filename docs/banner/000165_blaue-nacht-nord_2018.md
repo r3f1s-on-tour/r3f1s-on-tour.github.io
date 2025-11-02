@@ -22,7 +22,7 @@ slug: "blaue-nacht-nord"
 href: "banner/000165_blaue-nacht-nord_2018.md"
 name: "Blaue Nacht Nord"
 ---
-# 000165.Blaue Nacht Nord
+# Blaue Nacht Nord
 
 *2018* • Nürnberg • Deutschland
 
@@ -32,6 +32,8 @@ name: "Blaue Nacht Nord"
 
 ## Details
 
+- **Missions in banner:** 36
+- **Total missions completed:** 4020
 
 
 
@@ -39,6 +41,9 @@ name: "Blaue Nacht Nord"
 
 
 
-
-
-> File: `000165_blaue-nacht-nord_2018.md` • #000165 • Slug: `blaue-nacht-nord`
+> File: 
+```
+• 000165_blaue-nacht-nord_2018.md
+• #000165 
+• Slug: `blaue-nacht-nord
+```

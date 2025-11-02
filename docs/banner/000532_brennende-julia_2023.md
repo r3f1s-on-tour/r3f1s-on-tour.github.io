@@ -22,7 +22,7 @@ slug: "brennende-julia"
 href: "banner/000532_brennende-julia_2023.md"
 name: "Brennende Julia"
 ---
-# 000532.Brennende Julia
+# Brennende Julia
 
 *2023* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Brennende Julia"
 
 ## Details
 - **Distance (km):** 19.40
-
-
+- **Missions in banner:** 72
+- **Total missions completed:** 11.580
 
 
 
@@ -44,4 +44,9 @@ Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdig
 
 
 
-> File: `000532_brennende-julia_2023.md` • #000532 • Slug: `brennende-julia`
+> File: 
+```
+• 000532_brennende-julia_2023.md
+• #000532 
+• Slug: `brennende-julia
+```

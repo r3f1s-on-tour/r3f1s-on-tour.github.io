@@ -22,7 +22,7 @@ slug: "frogversum-in-oranienburg"
 href: "banner/000545_frogversum-in-oranienburg_2023.md"
 name: "FrogVersum in Oranienburg"
 ---
-# 000545.FrogVersum in Oranienburg
+# FrogVersum in Oranienburg
 
 *2023* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "FrogVersum in Oranienburg"
 
 ## Details
 - **Distance (km):** 9.63
-
-
+- **Missions in banner:** 36
+- **Total missions completed:** 12.072
 
 
 
@@ -49,4 +49,9 @@ Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdig
 
 
 
-> File: `000545_frogversum-in-oranienburg_2023.md` • #000545 • Slug: `frogversum-in-oranienburg`
+> File: 
+```
+• 000545_frogversum-in-oranienburg_2023.md
+• #000545 
+• Slug: `frogversum-in-oranienburg
+```

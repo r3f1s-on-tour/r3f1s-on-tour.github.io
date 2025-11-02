@@ -22,7 +22,7 @@ slug: "evolution-in-oranienburg"
 href: "banner/000328_evolution-in-oranienburg_2021.md"
 name: "Evolution in Oranienburg"
 ---
-# 000328.Evolution in Oranienburg
+# Evolution in Oranienburg
 
 *2021* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Evolution in Oranienburg"
 
 ## Details
 - **Distance (km):** 1.74
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 7512
 
 
 
@@ -49,4 +49,9 @@ Eine kleine Entdeckungsrunde durch Oranienburg. Die Reihe startet am Bahnhof und
 
 
 
-> File: `000328_evolution-in-oranienburg_2021.md` • #000328 • Slug: `evolution-in-oranienburg`
+> File: 
+```
+• 000328_evolution-in-oranienburg_2021.md
+• #000328 
+• Slug: `evolution-in-oranienburg
+```
