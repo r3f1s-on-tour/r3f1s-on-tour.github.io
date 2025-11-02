@@ -1,4 +1,4 @@
-# {{__TITLE__}}
+# {{__NUMBER__}}.{{__TITLE__}}
 
 *{{__DATE_DE__}}*{{__IF:region__}} • {{__VAL:region__}}{{__/IF__}}{{__IF:country__}} • {{__VAL:country__}}{{__/IF__}}
 
