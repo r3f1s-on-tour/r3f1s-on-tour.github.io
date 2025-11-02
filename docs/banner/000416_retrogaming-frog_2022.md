@@ -22,7 +22,7 @@ slug: "retrogaming-frog"
 href: "banner/000416_retrogaming-frog_2022.md"
 name: "RetroGaming - Frog"
 ---
-# RetroGaming - Frog
+# 000416.RetroGaming - Frog
 
 *2022* • Pasewalk • Deutschland
 

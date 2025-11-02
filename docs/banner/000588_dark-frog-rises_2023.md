@@ -22,7 +22,7 @@ slug: "dark-frog-rises"
 href: "banner/000588_dark-frog-rises_2023.md"
 name: "DARK FROG RISES"
 ---
-# DARK FROG RISES
+# 000588.DARK FROG RISES
 
 *2023* • Dresden • Deutschland
 

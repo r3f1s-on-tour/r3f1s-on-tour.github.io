@@ -22,7 +22,7 @@ slug: "dark-side-of-the-moon"
 href: "banner/000564_dark-side-of-the-moon_2023.md"
 name: "Dark Side of the Moon"
 ---
-# Dark Side of the Moon
+# 000564.Dark Side of the Moon
 
 *2023* • Potsdam • Deutschland
 

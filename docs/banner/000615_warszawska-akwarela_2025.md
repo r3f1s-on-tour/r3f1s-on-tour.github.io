@@ -22,7 +22,7 @@ slug: "warszawska-akwarela"
 href: "banner/000615_warszawska-akwarela_2025.md"
 name: "Warszawska akwarela"
 ---
-# Warszawska akwarela
+# 000615.Warszawska akwarela
 
 *2025* • Warsaw • Polska
 

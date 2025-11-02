@@ -22,7 +22,7 @@ slug: "held-der-kindheit"
 href: "banner/000592_held-der-kindheit_2024.md"
 name: "Held der Kindheit"
 ---
-# Held der Kindheit
+# 000592.Held der Kindheit
 
 *2024* • Ründeroth • Deutschland
 

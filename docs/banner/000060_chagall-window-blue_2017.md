@@ -22,7 +22,7 @@ slug: "chagall-window-blue"
 href: "banner/000060_chagall-window-blue_2017.md"
 name: "Chagall Window blue"
 ---
-# Chagall Window blue
+# 000060.Chagall Window blue
 
 *2017* • Zürich • Schweiz/Suisse/Svizzera/Svizra
 

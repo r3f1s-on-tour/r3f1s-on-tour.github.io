@@ -22,7 +22,7 @@ slug: "i-love-mnchen"
 href: "banner/000024_i-love-mnchen_2016.md"
 name: "I Love München"
 ---
-# I Love München
+# 000024.I Love München
 
 *2016* • München • Deutschland
 

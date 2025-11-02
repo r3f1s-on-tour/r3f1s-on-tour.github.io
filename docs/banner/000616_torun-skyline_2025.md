@@ -22,7 +22,7 @@ slug: "torun-skyline"
 href: "banner/000616_torun-skyline_2025.md"
 name: "Torun skyline"
 ---
-# Torun skyline
+# 000616.Torun skyline
 
 *2025* • Torun • Polska
 

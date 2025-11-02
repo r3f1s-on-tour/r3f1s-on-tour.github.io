@@ -22,7 +22,7 @@ slug: "tour-de-cottbus"
 href: "banner/000567_tour-de-cottbus_2023.md"
 name: "Tour de Cottbus"
 ---
-# Tour de Cottbus
+# 000567.Tour de Cottbus
 
 *2023* • Cottbus - Chóśebuz • Deutschland
 

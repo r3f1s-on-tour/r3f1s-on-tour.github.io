@@ -22,7 +22,7 @@ slug: "spaziergang"
 href: "banner/000407_spaziergang_2022.md"
 name: "SPAZIERGANG"
 ---
-# SPAZIERGANG
+# 000407.SPAZIERGANG
 
 *2022* • Berlin • Deutschland
 

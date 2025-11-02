@@ -22,7 +22,7 @@ slug: "neubrandenburg"
 href: "banner/000293_neubrandenburg_2020.md"
 name: "Neubrandenburg"
 ---
-# Neubrandenburg
+# 000293.Neubrandenburg
 
 *2020* • Neubrandenburg • Deutschland
 

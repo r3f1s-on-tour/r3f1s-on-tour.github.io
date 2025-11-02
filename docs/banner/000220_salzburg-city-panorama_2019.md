@@ -22,7 +22,7 @@ slug: "salzburg-city-panorama"
 href: "banner/000220_salzburg-city-panorama_2019.md"
 name: "Salzburg City Panorama"
 ---
-# Salzburg City Panorama
+# 000220.Salzburg City Panorama
 
 *2019* • Salzburg • Österreich
 

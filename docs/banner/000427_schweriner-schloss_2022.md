@@ -22,7 +22,7 @@ slug: "schweriner-schloss"
 href: "banner/000427_schweriner-schloss_2022.md"
 name: "Schweriner Schloss"
 ---
-# Schweriner Schloss
+# 000427.Schweriner Schloss
 
 *2022* • Schwerin • Deutschland
 

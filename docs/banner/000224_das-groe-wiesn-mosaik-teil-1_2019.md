@@ -22,7 +22,7 @@ slug: "das-groe-wiesn-mosaik-teil-1"
 href: "banner/000224_das-groe-wiesn-mosaik-teil-1_2019.md"
 name: "Das Große Wiesn Mosaik Teil 1"
 ---
-# Das Große Wiesn Mosaik Teil 1
+# 000224.Das Große Wiesn Mosaik Teil 1
 
 *2019* • München • Deutschland
 

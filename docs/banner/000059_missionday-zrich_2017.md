@@ -22,7 +22,7 @@ slug: "missionday-zrich"
 href: "banner/000059_missionday-zrich_2017.md"
 name: "MissionDay Zürich"
 ---
-# MissionDay Zürich
+# 000059.MissionDay Zürich
 
 *2017* • Zürich • Schweiz/Suisse/Svizzera/Svizra
 

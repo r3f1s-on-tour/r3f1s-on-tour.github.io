@@ -22,7 +22,7 @@ slug: "gyptisches-totengericht"
 href: "banner/000485_gyptisches-totengericht_2022.md"
 name: "Ägyptisches Totengericht"
 ---
-# Ägyptisches Totengericht
+# 000485.Ägyptisches Totengericht
 
 *2022* • Berlin • Deutschland
 

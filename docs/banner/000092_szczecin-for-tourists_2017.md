@@ -22,7 +22,7 @@ slug: "szczecin-for-tourists"
 href: "banner/000092_szczecin-for-tourists_2017.md"
 name: "SZCZECIN for TOURISTS"
 ---
-# SZCZECIN for TOURISTS
+# 000092.SZCZECIN for TOURISTS
 
 *2017* • Szczecin • Polska
 

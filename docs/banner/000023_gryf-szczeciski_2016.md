@@ -22,7 +22,7 @@ slug: "gryf-szczeciski"
 href: "banner/000023_gryf-szczeciski_2016.md"
 name: "Gryf Szczeciński"
 ---
-# Gryf Szczeciński
+# 000023.Gryf Szczeciński
 
 *2016* • Szczecin • Polska
 

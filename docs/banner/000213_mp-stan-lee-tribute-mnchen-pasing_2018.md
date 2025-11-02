@@ -22,7 +22,7 @@ slug: "mp-stan-lee-tribute-mnchen-pasing"
 href: "banner/000213_mp-stan-lee-tribute-mnchen-pasing_2018.md"
 name: "#MP Stan Lee Tribute [München-Pasing]"
 ---
-# #MP Stan Lee Tribute [München-Pasing]
+# 000213.#MP Stan Lee Tribute [München-Pasing]
 
 *2018* • München • Deutschland
 

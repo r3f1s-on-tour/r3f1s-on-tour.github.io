@@ -22,7 +22,7 @@ slug: "zombie-apokalypse"
 href: "banner/000054_zombie-apokalypse_2017.md"
 name: "Zombie Apokalypse"
 ---
-# Zombie Apokalypse
+# 000054.Zombie Apokalypse
 
 *2017* • Webling • Deutschland
 

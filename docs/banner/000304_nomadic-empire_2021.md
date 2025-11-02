@@ -22,7 +22,7 @@ slug: "nomadic-empire"
 href: "banner/000304_nomadic-empire_2021.md"
 name: "Nomadic Empire"
 ---
-# Nomadic Empire
+# 000304.Nomadic Empire
 
 *2021* • Berlin • Deutschland
 

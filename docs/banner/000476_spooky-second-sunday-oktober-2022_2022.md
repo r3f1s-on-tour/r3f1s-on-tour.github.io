@@ -22,7 +22,7 @@ slug: "spooky-second-sunday-oktober-2022"
 href: "banner/000476_spooky-second-sunday-oktober-2022_2022.md"
 name: "Spooky Second Sunday - Oktober 2022"
 ---
-# Spooky Second Sunday - Oktober 2022
+# 000476.Spooky Second Sunday - Oktober 2022
 
 *2022* • Oranienburg • Deutschland
 

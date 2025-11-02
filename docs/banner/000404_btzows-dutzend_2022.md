@@ -22,7 +22,7 @@ slug: "btzows-dutzend"
 href: "banner/000404_btzows-dutzend_2022.md"
 name: "Bötzows Dutzend"
 ---
-# Bötzows Dutzend
+# 000404.Bötzows Dutzend
 
 *2022* • Berlin • Deutschland
 

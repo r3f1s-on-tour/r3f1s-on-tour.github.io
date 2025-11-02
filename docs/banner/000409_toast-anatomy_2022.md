@@ -22,7 +22,7 @@ slug: "toast-anatomy"
 href: "banner/000409_toast-anatomy_2022.md"
 name: "Toast Anatomy"
 ---
-# Toast Anatomy
+# 000409.Toast Anatomy
 
 *2022* • Strasburg (Uckermark) • Deutschland
 

@@ -22,7 +22,7 @@ slug: "szczecin-the-view-from-the-oder"
 href: "banner/000433_szczecin-the-view-from-the-oder_2022.md"
 name: "Szczecin, the view from the Oder"
 ---
-# Szczecin, the view from the Oder
+# 000433.Szczecin, the view from the Oder
 
 *2022* • Szczecin • Polska
 

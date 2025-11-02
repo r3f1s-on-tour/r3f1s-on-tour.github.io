@@ -22,7 +22,7 @@ slug: "pasinger-stadtwappen"
 href: "banner/000053_pasinger-stadtwappen_2017.md"
 name: "Pasinger Stadtwappen"
 ---
-# Pasinger Stadtwappen
+# 000053.Pasinger Stadtwappen
 
 *2017* • München • Deutschland
 

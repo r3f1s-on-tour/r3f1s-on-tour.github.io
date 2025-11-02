@@ -22,7 +22,7 @@ slug: "wrocawska-akwarela"
 href: "banner/000614_wrocawska-akwarela_2025.md"
 name: "Wrocławska akwarela"
 ---
-# Wrocławska akwarela
+# 000614.Wrocławska akwarela
 
 *2025* • Wroclaw • Polska
 

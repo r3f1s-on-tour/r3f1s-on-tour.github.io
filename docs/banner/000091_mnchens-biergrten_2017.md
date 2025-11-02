@@ -22,7 +22,7 @@ slug: "mnchens-biergrten"
 href: "banner/000091_mnchens-biergrten_2017.md"
 name: "Münchens Biergärten"
 ---
-# Münchens Biergärten
+# 000091.Münchens Biergärten
 
 *2017* • München • Deutschland
 

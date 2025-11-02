@@ -22,7 +22,7 @@ slug: "nyan-cat-walk"
 href: "banner/000270_nyan-cat-walk_2020.md"
 name: "Nyan Cat Walk"
 ---
-# Nyan Cat Walk
+# 000270.Nyan Cat Walk
 
 *2020* • Berlin • Deutschland
 

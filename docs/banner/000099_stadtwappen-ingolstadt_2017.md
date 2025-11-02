@@ -22,7 +22,7 @@ slug: "stadtwappen-ingolstadt"
 href: "banner/000099_stadtwappen-ingolstadt_2017.md"
 name: "Stadtwappen Ingolstadt"
 ---
-# Stadtwappen Ingolstadt
+# 000099.Stadtwappen Ingolstadt
 
 *2017* • Ingolstadt • Deutschland
 

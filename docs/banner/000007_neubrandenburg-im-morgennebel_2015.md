@@ -22,7 +22,7 @@ slug: "neubrandenburg-im-morgennebel"
 href: "banner/000007_neubrandenburg-im-morgennebel_2015.md"
 name: "Neubrandenburg im Morgennebel"
 ---
-# Neubrandenburg im Morgennebel
+# 000007.Neubrandenburg im Morgennebel
 
 *2015* • Neubrandenburg • Deutschland
 

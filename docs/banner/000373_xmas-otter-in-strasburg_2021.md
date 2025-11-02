@@ -22,7 +22,7 @@ slug: "xmas-otter-in-strasburg"
 href: "banner/000373_xmas-otter-in-strasburg_2021.md"
 name: "XMas Otter in Strasburg"
 ---
-# XMas Otter in Strasburg
+# 000373.XMas Otter in Strasburg
 
 *2021* • Strasburg (Uckermark) • Deutschland
 

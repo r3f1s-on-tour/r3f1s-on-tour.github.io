@@ -22,7 +22,7 @@ slug: "superhelden-toasts-in-oranienburg"
 href: "banner/000382_superhelden-toasts-in-oranienburg_2022.md"
 name: "Superhelden Toasts in Oranienburg"
 ---
-# Superhelden Toasts in Oranienburg
+# 000382.Superhelden Toasts in Oranienburg
 
 *2022* • Oranienburg • Deutschland
 

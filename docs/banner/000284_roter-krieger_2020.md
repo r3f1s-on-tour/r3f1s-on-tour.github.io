@@ -22,7 +22,7 @@ slug: "roter-krieger"
 href: "banner/000284_roter-krieger_2020.md"
 name: "Roter Krieger"
 ---
-# Roter Krieger
+# 000284.Roter Krieger
 
 *2020* • München • Deutschland
 

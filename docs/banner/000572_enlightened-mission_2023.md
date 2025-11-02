@@ -22,7 +22,7 @@ slug: "enlightened-mission"
 href: "banner/000572_enlightened-mission_2023.md"
 name: "Enlightened Mission"
 ---
-# Enlightened Mission
+# 000572.Enlightened Mission
 
 *2023* • Hoyerswerda - Wojerecy • Deutschland
 

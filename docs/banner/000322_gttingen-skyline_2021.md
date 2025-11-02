@@ -22,7 +22,7 @@ slug: "gttingen-skyline"
 href: "banner/000322_gttingen-skyline_2021.md"
 name: "Göttingen Skyline"
 ---
-# Göttingen Skyline
+# 000322.Göttingen Skyline
 
 *2021* • Göttingen • Deutschland
 

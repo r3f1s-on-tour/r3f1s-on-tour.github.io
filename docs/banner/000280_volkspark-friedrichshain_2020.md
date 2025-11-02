@@ -22,7 +22,7 @@ slug: "volkspark-friedrichshain"
 href: "banner/000280_volkspark-friedrichshain_2020.md"
 name: "Volkspark Friedrichshain"
 ---
-# Volkspark Friedrichshain
+# 000280.Volkspark Friedrichshain
 
 *2020* • Berlin • Deutschland
 

@@ -22,7 +22,7 @@ slug: "honey-bees-in-oranienburg"
 href: "banner/000441_honey-bees-in-oranienburg_2022.md"
 name: "Honey Bees in Oranienburg"
 ---
-# Honey Bees in Oranienburg
+# 000441.Honey Bees in Oranienburg
 
 *2022* • Oranienburg • Deutschland
 

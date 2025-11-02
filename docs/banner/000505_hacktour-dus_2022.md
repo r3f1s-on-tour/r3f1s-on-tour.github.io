@@ -22,7 +22,7 @@ slug: "hacktour-dus"
 href: "banner/000505_hacktour-dus_2022.md"
 name: "Hacktour DUS"
 ---
-# Hacktour DUS
+# 000505.Hacktour DUS
 
 *2022* • Düsseldorf • Deutschland
 

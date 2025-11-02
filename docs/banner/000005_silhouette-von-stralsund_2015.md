@@ -22,7 +22,7 @@ slug: "silhouette-von-stralsund"
 href: "banner/000005_silhouette-von-stralsund_2015.md"
 name: "Silhouette von Stralsund"
 ---
-# Silhouette von Stralsund
+# 000005.Silhouette von Stralsund
 
 *2015* • Stralsund • Deutschland
 

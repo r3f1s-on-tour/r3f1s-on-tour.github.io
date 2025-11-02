@@ -22,7 +22,7 @@ slug: "echo-brighton"
 href: "banner/000553_echo-brighton_2023.md"
 name: "Echo Brighton"
 ---
-# Echo Brighton
+# 000553.Echo Brighton
 
 *2023* • Strasburg (Uckermark) • Deutschland
 

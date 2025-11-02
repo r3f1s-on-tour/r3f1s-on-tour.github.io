@@ -22,7 +22,7 @@ slug: "augsburg-im-januar"
 href: "banner/000120_augsburg-im-januar_2018.md"
 name: "Augsburg im Januar"
 ---
-# Augsburg im Januar
+# 000120.Augsburg im Januar
 
 *2018* • Augsburg • Deutschland
 

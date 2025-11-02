@@ -22,7 +22,7 @@ slug: "casco-histrico-plz-la-virgen"
 href: "banner/000599_casco-histrico-plz-la-virgen_2024.md"
 name: "Casco Histórico Plz. La Virgen"
 ---
-# Casco Histórico Plz. La Virgen
+# 000599.Casco Histórico Plz. La Virgen
 
 *2024* • València • España
 

@@ -22,7 +22,7 @@ slug: "guerrero-legendario"
 href: "banner/000574_guerrero-legendario_2023.md"
 name: "Guerrero Legendario"
 ---
-# Guerrero Legendario
+# 000574.Guerrero Legendario
 
 *2023* • Madrid • España
 

@@ -22,7 +22,7 @@ slug: "furby-toast-wars-in-oranienburg"
 href: "banner/000451_furby-toast-wars-in-oranienburg_2022.md"
 name: "Furby Toast Wars in Oranienburg"
 ---
-# Furby Toast Wars in Oranienburg
+# 000451.Furby Toast Wars in Oranienburg
 
 *2022* • Oranienburg • Deutschland
 

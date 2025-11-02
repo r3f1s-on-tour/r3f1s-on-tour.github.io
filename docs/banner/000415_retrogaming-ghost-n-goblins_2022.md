@@ -22,7 +22,7 @@ slug: "retrogaming-ghost-n-goblins"
 href: "banner/000415_retrogaming-ghost-n-goblins_2022.md"
 name: "RetroGaming - Ghost n Goblins"
 ---
-# RetroGaming - Ghost n Goblins
+# 000415.RetroGaming - Ghost n Goblins
 
 *2022* • Pasewalk • Deutschland
 

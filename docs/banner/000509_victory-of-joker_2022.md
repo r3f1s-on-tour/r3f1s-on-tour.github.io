@@ -22,7 +22,7 @@ slug: "victory-of-joker"
 href: "banner/000509_victory-of-joker_2022.md"
 name: "Victory of Joker"
 ---
-# Victory of Joker
+# 000509.Victory of Joker
 
 *2022* • Wuppertal • Deutschland
 

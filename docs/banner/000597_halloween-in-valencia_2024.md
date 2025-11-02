@@ -22,7 +22,7 @@ slug: "halloween-in-valencia"
 href: "banner/000597_halloween-in-valencia_2024.md"
 name: "Halloween in Valencia"
 ---
-# Halloween in Valencia
+# 000597.Halloween in Valencia
 
 *2024* • València • España
 

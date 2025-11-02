@@ -22,7 +22,7 @@ slug: "wittenberg-art"
 href: "banner/000174_wittenberg-art_2018.md"
 name: "Wittenberg Art"
 ---
-# Wittenberg Art
+# 000174.Wittenberg Art
 
 *2018* • Wittenberg • Deutschland
 

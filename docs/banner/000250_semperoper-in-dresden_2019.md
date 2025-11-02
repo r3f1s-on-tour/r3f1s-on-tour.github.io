@@ -22,7 +22,7 @@ slug: "semperoper-in-dresden"
 href: "banner/000250_semperoper-in-dresden_2019.md"
 name: "Semperoper in Dresden"
 ---
-# Semperoper in Dresden
+# 000250.Semperoper in Dresden
 
 *2019* • Dresden • Deutschland
 

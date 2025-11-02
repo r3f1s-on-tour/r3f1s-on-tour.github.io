@@ -22,7 +22,7 @@ slug: "botanischer-garten-mosaik"
 href: "banner/000013_botanischer-garten-mosaik_2015.md"
 name: "Botanischer Garten Mosaik"
 ---
-# Botanischer Garten Mosaik
+# 000013.Botanischer Garten Mosaik
 
 *2015* • Hamburg • Deutschland
 

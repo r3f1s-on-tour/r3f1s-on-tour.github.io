@@ -22,7 +22,7 @@ slug: "deifel-in-bonn"
 href: "banner/000511_deifel-in-bonn_2022.md"
 name: "Deifel in Bonn"
 ---
-# Deifel in Bonn
+# 000511.Deifel in Bonn
 
 *2022* • Bonn • Deutschland
 

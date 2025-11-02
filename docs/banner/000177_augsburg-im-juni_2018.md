@@ -22,7 +22,7 @@ slug: "augsburg-im-juni"
 href: "banner/000177_augsburg-im-juni_2018.md"
 name: "Augsburg im Juni"
 ---
-# Augsburg im Juni
+# 000177.Augsburg im Juni
 
 *2018* • Augsburg • Deutschland
 

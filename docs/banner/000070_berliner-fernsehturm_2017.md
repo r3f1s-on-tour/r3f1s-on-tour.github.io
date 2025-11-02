@@ -22,7 +22,7 @@ slug: "berliner-fernsehturm"
 href: "banner/000070_berliner-fernsehturm_2017.md"
 name: "Berliner Fernsehturm"
 ---
-# Berliner Fernsehturm
+# 000070.Berliner Fernsehturm
 
 *2017* • Berlin • Deutschland
 

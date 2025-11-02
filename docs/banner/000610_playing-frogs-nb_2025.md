@@ -22,7 +22,7 @@ slug: "playing-frogs-nb"
 href: "banner/000610_playing-frogs-nb_2025.md"
 name: "Playing Frogs NB"
 ---
-# Playing Frogs NB
+# 000610.Playing Frogs NB
 
 *2025* • Neubrandenburg • Deutschland
 

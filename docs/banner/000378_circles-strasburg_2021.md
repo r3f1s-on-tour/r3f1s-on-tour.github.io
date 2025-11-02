@@ -22,7 +22,7 @@ slug: "circles-strasburg"
 href: "banner/000378_circles-strasburg_2021.md"
 name: "Circles Strasburg"
 ---
-# Circles Strasburg
+# 000378.Circles Strasburg
 
 *2021* • Strasburg (Uckermark) • Deutschland
 

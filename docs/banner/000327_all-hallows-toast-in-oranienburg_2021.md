@@ -22,7 +22,7 @@ slug: "all-hallows-toast-in-oranienburg"
 href: "banner/000327_all-hallows-toast-in-oranienburg_2021.md"
 name: "All Hallows Toast in Oranienburg"
 ---
-# All Hallows Toast in Oranienburg
+# 000327.All Hallows Toast in Oranienburg
 
 *2021* • Oranienburg • Deutschland
 

@@ -22,7 +22,7 @@ slug: "heart-core-beat-munich"
 href: "banner/000107_heart-core-beat-munich_2017.md"
 name: "Heart Core Beat Munich"
 ---
-# Heart Core Beat Munich
+# 000107.Heart Core Beat Munich
 
 *2017* • München • Deutschland
 

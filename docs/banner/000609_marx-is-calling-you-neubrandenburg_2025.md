@@ -22,7 +22,7 @@ slug: "marx-is-calling-you-neubrandenburg"
 href: "banner/000609_marx-is-calling-you-neubrandenburg_2025.md"
 name: "Marx is calling you - Neubrandenburg"
 ---
-# Marx is calling you - Neubrandenburg
+# 000609.Marx is calling you - Neubrandenburg
 
 *2025* • Neubrandenburg • Deutschland
 

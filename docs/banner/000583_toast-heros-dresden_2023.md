@@ -22,7 +22,7 @@ slug: "toast-heros-dresden"
 href: "banner/000583_toast-heros-dresden_2023.md"
 name: "Toast Heros Dresden"
 ---
-# Toast Heros Dresden
+# 000583.Toast Heros Dresden
 
 *2023* • Dresden • Deutschland
 

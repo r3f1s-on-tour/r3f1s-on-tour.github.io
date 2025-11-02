@@ -22,7 +22,7 @@ slug: "skyline-munich"
 href: "banner/000286_skyline-munich_2020.md"
 name: "Skyline Munich"
 ---
-# Skyline Munich
+# 000286.Skyline Munich
 
 *2020* • München • Deutschland
 

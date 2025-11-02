@@ -22,7 +22,7 @@ slug: "augsburger-dom"
 href: "banner/000152_augsburger-dom_2018.md"
 name: "Augsburger Dom"
 ---
-# Augsburger Dom
+# 000152.Augsburger Dom
 
 *2018* • Augsburg • Deutschland
 

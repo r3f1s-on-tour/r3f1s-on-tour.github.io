@@ -22,7 +22,7 @@ slug: "halloween-coffees-in-oranienburg"
 href: "banner/000480_halloween-coffees-in-oranienburg_2022.md"
 name: "Halloween Coffees in Oranienburg"
 ---
-# Halloween Coffees in Oranienburg
+# 000480.Halloween Coffees in Oranienburg
 
 *2022* • Oranienburg • Deutschland
 

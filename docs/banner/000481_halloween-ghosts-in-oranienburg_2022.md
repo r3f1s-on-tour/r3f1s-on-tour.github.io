@@ -22,7 +22,7 @@ slug: "halloween-ghosts-in-oranienburg"
 href: "banner/000481_halloween-ghosts-in-oranienburg_2022.md"
 name: "Halloween Ghosts in Oranienburg"
 ---
-# Halloween Ghosts in Oranienburg
+# 000481.Halloween Ghosts in Oranienburg
 
 *2022* • Oranienburg • Deutschland
 

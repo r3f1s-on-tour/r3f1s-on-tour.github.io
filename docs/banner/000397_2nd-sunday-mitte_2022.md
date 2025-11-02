@@ -22,7 +22,7 @@ slug: "2nd-sunday-mitte"
 href: "banner/000397_2nd-sunday-mitte_2022.md"
 name: "2nd Sunday Mitte"
 ---
-# 2nd Sunday Mitte
+# 000397.2nd Sunday Mitte
 
 *2022* • Berlin • Deutschland
 

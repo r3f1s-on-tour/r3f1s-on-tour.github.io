@@ -22,7 +22,7 @@ slug: "augsburg-im-april"
 href: "banner/000151_augsburg-im-april_2018.md"
 name: "Augsburg im April"
 ---
-# Augsburg im April
+# 000151.Augsburg im April
 
 *2018* • Augsburg • Deutschland
 

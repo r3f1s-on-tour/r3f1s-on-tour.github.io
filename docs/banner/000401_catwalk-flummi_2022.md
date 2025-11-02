@@ -22,7 +22,7 @@ slug: "catwalk-flummi"
 href: "banner/000401_catwalk-flummi_2022.md"
 name: "Catwalk Flummi"
 ---
-# Catwalk Flummi
+# 000401.Catwalk Flummi
 
 *2022* • Berlin • Deutschland
 

@@ -22,7 +22,7 @@ slug: "mr-pumpkin-slasher-in-oranienburg"
 href: "banner/000344_mr-pumpkin-slasher-in-oranienburg_2021.md"
 name: "Mr Pumpkin Slasher in Oranienburg"
 ---
-# Mr Pumpkin Slasher in Oranienburg
+# 000344.Mr Pumpkin Slasher in Oranienburg
 
 *2021* • Oranienburg • Deutschland
 

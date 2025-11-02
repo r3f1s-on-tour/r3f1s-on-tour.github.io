@@ -22,7 +22,7 @@ slug: "xmas-panda-in-strasburg"
 href: "banner/000374_xmas-panda-in-strasburg_2021.md"
 name: "XMas Panda in Strasburg"
 ---
-# XMas Panda in Strasburg
+# 000374.XMas Panda in Strasburg
 
 *2021* • Strasburg (Uckermark) • Deutschland
 

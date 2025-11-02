@@ -22,7 +22,7 @@ slug: "slaget-om-malm"
 href: "banner/000200_slaget-om-malm_2018.md"
 name: "Slaget om Malmö"
 ---
-# Slaget om Malmö
+# 000200.Slaget om Malmö
 
 *2018* • Malmö • Sverige
 

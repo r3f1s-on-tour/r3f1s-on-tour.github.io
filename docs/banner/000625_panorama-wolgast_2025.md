@@ -22,7 +22,7 @@ slug: "panorama-wolgast"
 href: "banner/000625_panorama-wolgast_2025.md"
 name: "Panorama  Wolgast"
 ---
-# Panorama  Wolgast
+# 000625.Panorama  Wolgast
 
 *2025* • Wolgast • Deutschland
 

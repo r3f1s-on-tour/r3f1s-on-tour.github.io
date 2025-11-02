@@ -22,7 +22,7 @@ slug: "exo5-berlin-resistance-victory"
 href: "banner/000390_exo5-berlin-resistance-victory_2022.md"
 name: "EXO5 Berlin Resistance Victory"
 ---
-# EXO5 Berlin Resistance Victory
+# 000390.EXO5 Berlin Resistance Victory
 
 *2022* • Berlin • Deutschland
 

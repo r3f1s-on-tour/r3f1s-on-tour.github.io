@@ -22,7 +22,7 @@ slug: "find-the-13-archetypes-in-oranienburg"
 href: "banner/000339_find-the-13-archetypes-in-oranienburg_2021.md"
 name: "Find the 13 Archetypes in Oranienburg"
 ---
-# Find the 13 Archetypes in Oranienburg
+# 000339.Find the 13 Archetypes in Oranienburg
 
 *2021* • Oranienburg • Deutschland
 

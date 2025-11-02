@@ -22,7 +22,7 @@ slug: "weihnachten-in-neubrandenburg-second-sunday"
 href: "banner/000367_weihnachten-in-neubrandenburg-second-sunday_2021.md"
 name: "Weihnachten in Neubrandenburg - Second Sunday"
 ---
-# Weihnachten in Neubrandenburg - Second Sunday
+# 000367.Weihnachten in Neubrandenburg - Second Sunday
 
 *2021* • Neubrandenburg • Deutschland
 

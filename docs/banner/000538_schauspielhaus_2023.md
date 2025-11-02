@@ -22,7 +22,7 @@ slug: "schauspielhaus"
 href: "banner/000538_schauspielhaus_2023.md"
 name: "Schauspielhaus"
 ---
-# Schauspielhaus
+# 000538.Schauspielhaus
 
 *2023* • Neubrandenburg • Deutschland
 

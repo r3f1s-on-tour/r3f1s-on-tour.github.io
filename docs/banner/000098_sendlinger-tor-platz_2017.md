@@ -22,7 +22,7 @@ slug: "sendlinger-tor-platz"
 href: "banner/000098_sendlinger-tor-platz_2017.md"
 name: "Sendlinger-Tor-Platz"
 ---
-# Sendlinger-Tor-Platz
+# 000098.Sendlinger-Tor-Platz
 
 *2017* • München • Deutschland
 

@@ -22,7 +22,7 @@ slug: "dresdner-zwinger"
 href: "banner/000249_dresdner-zwinger_2019.md"
 name: "Dresdner Zwinger"
 ---
-# Dresdner Zwinger
+# 000249.Dresdner Zwinger
 
 *2019* • Dresden • Deutschland
 

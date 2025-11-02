@@ -22,7 +22,7 @@ slug: "wahrzeichen-oranienburg"
 href: "banner/000245_wahrzeichen-oranienburg_2019.md"
 name: "Wahrzeichen Oranienburg"
 ---
-# Wahrzeichen Oranienburg
+# 000245.Wahrzeichen Oranienburg
 
 *2019* • Oranienburg • Deutschland
 

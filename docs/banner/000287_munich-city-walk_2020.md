@@ -22,7 +22,7 @@ slug: "munich-city-walk"
 href: "banner/000287_munich-city-walk_2020.md"
 name: "Munich city walk"
 ---
-# Munich city walk
+# 000287.Munich city walk
 
 *2020* • München • Deutschland
 

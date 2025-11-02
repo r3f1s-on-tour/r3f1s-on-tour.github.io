@@ -22,7 +22,7 @@ slug: "fs-rubik-cube"
 href: "banner/000586_fs-rubik-cube_2023.md"
 name: "#FS Rubik Cube"
 ---
-# #FS Rubik Cube
+# 000586.#FS Rubik Cube
 
 *2023* • Dresden • Deutschland
 

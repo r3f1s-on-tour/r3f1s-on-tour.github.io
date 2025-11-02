@@ -22,7 +22,7 @@ slug: "hafentempel-xanten"
 href: "banner/000580_hafentempel-xanten_2023.md"
 name: "Hafentempel Xanten"
 ---
-# Hafentempel Xanten
+# 000580.Hafentempel Xanten
 
 *2023* • Lüttingen • Deutschland
 

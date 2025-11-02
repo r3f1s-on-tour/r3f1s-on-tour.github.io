@@ -22,7 +22,7 @@ slug: "second-sunday-oktober-2022"
 href: "banner/000482_second-sunday-oktober-2022_2022.md"
 name: "Second Sunday - Oktober 2022"
 ---
-# Second Sunday - Oktober 2022
+# 000482.Second Sunday - Oktober 2022
 
 *2022* • Oranienburg • Deutschland
 

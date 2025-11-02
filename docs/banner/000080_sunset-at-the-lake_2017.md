@@ -22,7 +22,7 @@ slug: "sunset-at-the-lake"
 href: "banner/000080_sunset-at-the-lake_2017.md"
 name: "Sunset at the lake"
 ---
-# Sunset at the lake
+# 000080.Sunset at the lake
 
 *2017* • Oberpfaffenhofen • Deutschland
 

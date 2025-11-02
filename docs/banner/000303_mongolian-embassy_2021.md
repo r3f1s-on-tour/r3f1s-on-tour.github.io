@@ -22,7 +22,7 @@ slug: "mongolian-embassy"
 href: "banner/000303_mongolian-embassy_2021.md"
 name: "Mongolian Embassy"
 ---
-# Mongolian Embassy
+# 000303.Mongolian Embassy
 
 *2021* • Berlin • Deutschland
 

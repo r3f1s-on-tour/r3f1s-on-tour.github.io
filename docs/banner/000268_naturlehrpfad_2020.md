@@ -22,7 +22,7 @@ slug: "naturlehrpfad"
 href: "banner/000268_naturlehrpfad_2020.md"
 name: "Naturlehrpfad"
 ---
-# Naturlehrpfad
+# 000268.Naturlehrpfad
 
 *2020* • Velten • Deutschland
 

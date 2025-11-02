@@ -22,7 +22,7 @@ slug: "toastamp-neubrandenburg"
 href: "banner/000556_toastamp-neubrandenburg_2023.md"
 name: "ToastAmp Neubrandenburg"
 ---
-# ToastAmp Neubrandenburg
+# 000556.ToastAmp Neubrandenburg
 
 *2023* • Neubrandenburg • Deutschland
 

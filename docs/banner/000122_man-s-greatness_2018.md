@@ -22,7 +22,7 @@ slug: "man-s-greatness"
 href: "banner/000122_man-s-greatness_2018.md"
 name: "Man s Greatness"
 ---
-# Man s Greatness
+# 000122.Man s Greatness
 
 *2018* • München • Deutschland
 

@@ -22,7 +22,7 @@ slug: "holocaust-mahnmal"
 href: "banner/000300_holocaust-mahnmal_2021.md"
 name: "Holocaust Mahnmal"
 ---
-# Holocaust Mahnmal
+# 000300.Holocaust Mahnmal
 
 *2021* • Berlin • Deutschland
 

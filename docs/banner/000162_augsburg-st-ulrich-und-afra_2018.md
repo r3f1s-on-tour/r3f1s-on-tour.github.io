@@ -22,7 +22,7 @@ slug: "augsburg-st-ulrich-und-afra"
 href: "banner/000162_augsburg-st-ulrich-und-afra_2018.md"
 name: "Augsburg St Ulrich und Afra"
 ---
-# Augsburg St Ulrich und Afra
+# 000162.Augsburg St Ulrich und Afra
 
 *2018* • Augsburg • Deutschland
 

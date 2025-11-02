@@ -22,7 +22,7 @@ slug: "catpool-rote-augsburger-katze"
 href: "banner/000181_catpool-rote-augsburger-katze_2018.md"
 name: "Catpool (Rote Augsburger Katze)"
 ---
-# Catpool (Rote Augsburger Katze)
+# 000181.Catpool (Rote Augsburger Katze)
 
 *2018* • Augsburg • Deutschland
 

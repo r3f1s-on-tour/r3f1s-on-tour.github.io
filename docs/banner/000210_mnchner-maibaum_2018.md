@@ -22,7 +22,7 @@ slug: "mnchner-maibaum"
 href: "banner/000210_mnchner-maibaum_2018.md"
 name: "Münchner Maibaum"
 ---
-# Münchner Maibaum
+# 000210.Münchner Maibaum
 
 *2018* • München • Deutschland
 

@@ -22,7 +22,7 @@ slug: "augsburger-puppenkiste"
 href: "banner/000085_augsburger-puppenkiste_2017.md"
 name: "Augsburger Puppenkiste"
 ---
-# Augsburger Puppenkiste
+# 000085.Augsburger Puppenkiste
 
 *2017* • Augsburg • Deutschland
 

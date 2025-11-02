@@ -22,7 +22,7 @@ slug: "zeiss-groplanetarium"
 href: "banner/000262_zeiss-groplanetarium_2020.md"
 name: "Zeiss-Großplanetarium"
 ---
-# Zeiss-Großplanetarium
+# 000262.Zeiss-Großplanetarium
 
 *2020* • Berlin • Deutschland
 

@@ -22,7 +22,7 @@ slug: "auf-den-spuren-des-wasabi"
 href: "banner/000310_auf-den-spuren-des-wasabi_2021.md"
 name: "Auf den Spuren des Wasabi"
 ---
-# Auf den Spuren des Wasabi
+# 000310.Auf den Spuren des Wasabi
 
 *2021* • Berlin • Deutschland
 

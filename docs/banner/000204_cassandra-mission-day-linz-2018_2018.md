@@ -22,7 +22,7 @@ slug: "cassandra-mission-day-linz-2018"
 href: "banner/000204_cassandra-mission-day-linz-2018_2018.md"
 name: "Cassandra Mission Day Linz 2018"
 ---
-# Cassandra Mission Day Linz 2018
+# 000204.Cassandra Mission Day Linz 2018
 
 *2018* • Oberösterreich • Österreich
 

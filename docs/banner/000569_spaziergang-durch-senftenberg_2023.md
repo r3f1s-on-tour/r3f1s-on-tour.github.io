@@ -22,7 +22,7 @@ slug: "spaziergang-durch-senftenberg"
 href: "banner/000569_spaziergang-durch-senftenberg_2023.md"
 name: "Spaziergang durch Senftenberg"
 ---
-# Spaziergang durch Senftenberg
+# 000569.Spaziergang durch Senftenberg
 
 *2023* • Senftenberg - Zły Komorow • Deutschland
 

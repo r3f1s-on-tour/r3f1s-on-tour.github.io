@@ -22,7 +22,7 @@ slug: "speicherstadt-mosaik"
 href: "banner/000016_speicherstadt-mosaik_2015.md"
 name: "Speicherstadt Mosaik"
 ---
-# Speicherstadt Mosaik
+# 000016.Speicherstadt Mosaik
 
 *2015* • Hamburg • Deutschland
 

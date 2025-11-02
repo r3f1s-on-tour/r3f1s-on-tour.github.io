@@ -22,7 +22,7 @@ slug: "starbattle-of-orionids-berlin"
 href: "banner/000386_starbattle-of-orionids-berlin_2022.md"
 name: "StarBattle of Orionids - Berlin"
 ---
-# StarBattle of Orionids - Berlin
+# 000386.StarBattle of Orionids - Berlin
 
 *2022* • Berlin • Deutschland
 

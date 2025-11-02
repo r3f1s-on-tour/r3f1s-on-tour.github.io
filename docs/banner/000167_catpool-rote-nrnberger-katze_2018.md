@@ -22,7 +22,7 @@ slug: "catpool-rote-nrnberger-katze"
 href: "banner/000167_catpool-rote-nrnberger-katze_2018.md"
 name: "Catpool (Rote Nürnberger Katze)"
 ---
-# Catpool (Rote Nürnberger Katze)
+# 000167.Catpool (Rote Nürnberger Katze)
 
 *2018* • Nürnberg • Deutschland
 

@@ -22,7 +22,7 @@ slug: "general-hulk-in-hoyerswerda"
 href: "banner/000570_general-hulk-in-hoyerswerda_2023.md"
 name: "General Hulk in Hoyerswerda"
 ---
-# General Hulk in Hoyerswerda
+# 000570.General Hulk in Hoyerswerda
 
 *2023* • Hoyerswerda - Wojerecy • Deutschland
 

@@ -22,7 +22,7 @@ slug: "sound-vision"
 href: "banner/000030_sound-vision_2016.md"
 name: "Sound Vision"
 ---
-# Sound Vision
+# 000030.Sound Vision
 
 *2016* • Unterföhring • Deutschland
 

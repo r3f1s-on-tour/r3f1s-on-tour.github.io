@@ -22,7 +22,7 @@ slug: "the-show-must-go-on-in-strasburg"
 href: "banner/000465_the-show-must-go-on-in-strasburg_2022.md"
 name: "The Show Must Go On in Strasburg"
 ---
-# The Show Must Go On in Strasburg
+# 000465.The Show Must Go On in Strasburg
 
 *2022* • Strasburg (Uckermark) • Deutschland
 

@@ -22,7 +22,7 @@ slug: "museumsinsel"
 href: "banner/000406_museumsinsel_2022.md"
 name: "Museumsinsel"
 ---
-# Museumsinsel
+# 000406.Museumsinsel
 
 *2022* • Berlin • Deutschland
 

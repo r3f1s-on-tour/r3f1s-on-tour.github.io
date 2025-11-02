@@ -22,7 +22,7 @@ slug: "schlossplatz-panorama"
 href: "banner/000315_schlossplatz-panorama_2021.md"
 name: "Schlossplatz Panorama"
 ---
-# Schlossplatz Panorama
+# 000315.Schlossplatz Panorama
 
 *2021* • Oldenburg • Deutschland
 

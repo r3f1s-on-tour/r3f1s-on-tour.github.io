@@ -22,7 +22,7 @@ slug: "augsburg-im-februar"
 href: "banner/000124_augsburg-im-februar_2018.md"
 name: "Augsburg im Februar"
 ---
-# Augsburg im Februar
+# 000124.Augsburg im Februar
 
 *2018* • Augsburg • Deutschland
 

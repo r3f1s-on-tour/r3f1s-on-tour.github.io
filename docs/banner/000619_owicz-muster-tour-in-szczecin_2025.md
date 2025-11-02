@@ -22,7 +22,7 @@ slug: "owicz-muster-tour-in-szczecin"
 href: "banner/000619_owicz-muster-tour-in-szczecin_2025.md"
 name: "Łowicz-Muster Tour in Szczecin"
 ---
-# Łowicz-Muster Tour in Szczecin
+# 000619.Łowicz-Muster Tour in Szczecin
 
 *2025* • Szczecin • Polska
 

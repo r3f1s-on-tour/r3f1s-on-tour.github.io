@@ -22,7 +22,7 @@ slug: "calaveras-mexicanas"
 href: "banner/000603_calaveras-mexicanas_2024.md"
 name: "CALAVERAS MEXICANAS"
 ---
-# CALAVERAS MEXICANAS
+# 000603.CALAVERAS MEXICANAS
 
 *2024* • València • España
 

@@ -22,7 +22,7 @@ slug: "chagall-window-yellow"
 href: "banner/000061_chagall-window-yellow_2017.md"
 name: "Chagall Window yellow"
 ---
-# Chagall Window yellow
+# 000061.Chagall Window yellow
 
 *2017* • Zürich • Schweiz/Suisse/Svizzera/Svizra
 

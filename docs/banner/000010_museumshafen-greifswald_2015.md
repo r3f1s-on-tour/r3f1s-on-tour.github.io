@@ -22,7 +22,7 @@ slug: "museumshafen-greifswald"
 href: "banner/000010_museumshafen-greifswald_2015.md"
 name: "Museumshafen Greifswald"
 ---
-# Museumshafen Greifswald
+# 000010.Museumshafen Greifswald
 
 *2015* • Greifswald • Deutschland
 

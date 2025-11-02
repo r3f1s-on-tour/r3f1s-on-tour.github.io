@@ -22,7 +22,7 @@ slug: "brauereien-prenzlauer-berg"
 href: "banner/000290_brauereien-prenzlauer-berg_2020.md"
 name: "Brauereien Prenzlauer Berg"
 ---
-# Brauereien Prenzlauer Berg
+# 000290.Brauereien Prenzlauer Berg
 
 *2020* • Berlin • Deutschland
 

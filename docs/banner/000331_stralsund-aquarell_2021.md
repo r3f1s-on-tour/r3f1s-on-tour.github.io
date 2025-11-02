@@ -22,7 +22,7 @@ slug: "stralsund-aquarell"
 href: "banner/000331_stralsund-aquarell_2021.md"
 name: "Stralsund Aquarell"
 ---
-# Stralsund Aquarell
+# 000331.Stralsund Aquarell
 
 *2021* • Stralsund • Deutschland
 

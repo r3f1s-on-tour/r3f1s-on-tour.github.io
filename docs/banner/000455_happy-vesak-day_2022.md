@@ -22,7 +22,7 @@ slug: "happy-vesak-day"
 href: "banner/000455_happy-vesak-day_2022.md"
 name: "Happy Vesak Day"
 ---
-# Happy Vesak Day
+# 000455.Happy Vesak Day
 
 *2022* • Berlin • Deutschland
 

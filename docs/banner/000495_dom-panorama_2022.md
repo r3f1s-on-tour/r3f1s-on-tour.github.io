@@ -22,7 +22,7 @@ slug: "dom-panorama"
 href: "banner/000495_dom-panorama_2022.md"
 name: "Dom-Panorama"
 ---
-# Dom-Panorama
+# 000495.Dom-Panorama
 
 *2022* • Köln • Deutschland
 

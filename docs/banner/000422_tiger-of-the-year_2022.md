@@ -22,7 +22,7 @@ slug: "tiger-of-the-year"
 href: "banner/000422_tiger-of-the-year_2022.md"
 name: "Tiger of the Year"
 ---
-# Tiger of the Year
+# 000422.Tiger of the Year
 
 *2022* • Neubrandenburg • Deutschland
 

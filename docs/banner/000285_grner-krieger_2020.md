@@ -22,7 +22,7 @@ slug: "grner-krieger"
 href: "banner/000285_grner-krieger_2020.md"
 name: "Grüner Krieger"
 ---
-# Grüner Krieger
+# 000285.Grüner Krieger
 
 *2020* • München • Deutschland
 

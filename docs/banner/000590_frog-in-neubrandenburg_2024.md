@@ -22,7 +22,7 @@ slug: "frog-in-neubrandenburg"
 href: "banner/000590_frog-in-neubrandenburg_2024.md"
 name: "Frog in Neubrandenburg"
 ---
-# Frog in Neubrandenburg
+# 000590.Frog in Neubrandenburg
 
 *2024* • Neubrandenburg • Deutschland
 

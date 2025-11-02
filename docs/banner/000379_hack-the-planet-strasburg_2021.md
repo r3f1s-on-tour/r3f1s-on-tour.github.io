@@ -22,7 +22,7 @@ slug: "hack-the-planet-strasburg"
 href: "banner/000379_hack-the-planet-strasburg_2021.md"
 name: "Hack the planet - Strasburg"
 ---
-# Hack the planet - Strasburg
+# 000379.Hack the planet - Strasburg
 
 *2021* • Strasburg (Uckermark) • Deutschland
 

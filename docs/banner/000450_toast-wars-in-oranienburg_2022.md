@@ -22,7 +22,7 @@ slug: "toast-wars-in-oranienburg"
 href: "banner/000450_toast-wars-in-oranienburg_2022.md"
 name: "Toast Wars in Oranienburg"
 ---
-# Toast Wars in Oranienburg
+# 000450.Toast Wars in Oranienburg
 
 *2022* • Oranienburg • Deutschland
 

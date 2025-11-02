@@ -22,7 +22,7 @@ slug: "augsburg-im-mai"
 href: "banner/000176_augsburg-im-mai_2018.md"
 name: "Augsburg im Mai"
 ---
-# Augsburg im Mai
+# 000176.Augsburg im Mai
 
 *2018* • Augsburg • Deutschland
 

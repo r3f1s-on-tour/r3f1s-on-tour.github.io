@@ -22,7 +22,7 @@ slug: "md-2022-stolpersteine-berlin"
 href: "banner/000516_md-2022-stolpersteine-berlin_2022.md"
 name: "MD 2022: Stolpersteine, Berlin"
 ---
-# MD 2022: Stolpersteine, Berlin
+# 000516.MD 2022: Stolpersteine, Berlin
 
 *2022* • Berlin • Deutschland
 

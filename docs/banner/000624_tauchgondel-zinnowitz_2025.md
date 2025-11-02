@@ -22,7 +22,7 @@ slug: "tauchgondel-zinnowitz"
 href: "banner/000624_tauchgondel-zinnowitz_2025.md"
 name: "Tauchgondel Zinnowitz"
 ---
-# Tauchgondel Zinnowitz
+# 000624.Tauchgondel Zinnowitz
 
 *2025* • Zinnowitz • Deutschland
 

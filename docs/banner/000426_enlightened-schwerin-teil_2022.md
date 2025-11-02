@@ -22,7 +22,7 @@ slug: "enlightened-schwerin-teil"
 href: "banner/000426_enlightened-schwerin-teil_2022.md"
 name: "Enlightened Schwerin Teil"
 ---
-# Enlightened Schwerin Teil
+# 000426.Enlightened Schwerin Teil
 
 *2022* • Schwerin • Deutschland
 

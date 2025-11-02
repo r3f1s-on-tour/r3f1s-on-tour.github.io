@@ -22,7 +22,7 @@ slug: "world-bee-day-in-oranienburg"
 href: "banner/000442_world-bee-day-in-oranienburg_2022.md"
 name: "World Bee Day in Oranienburg"
 ---
-# World Bee Day in Oranienburg
+# 000442.World Bee Day in Oranienburg
 
 *2022* • Oranienburg • Deutschland
 

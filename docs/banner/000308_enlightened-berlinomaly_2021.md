@@ -22,7 +22,7 @@ slug: "enlightened-berlinomaly"
 href: "banner/000308_enlightened-berlinomaly_2021.md"
 name: "Enlightened Berlinomaly"
 ---
-# Enlightened Berlinomaly
+# 000308.Enlightened Berlinomaly
 
 *2021* • Berlin • Deutschland
 

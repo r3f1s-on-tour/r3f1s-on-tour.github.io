@@ -22,7 +22,7 @@ slug: "berlin-green-sunrise"
 href: "banner/000460_berlin-green-sunrise_2022.md"
 name: "Berlin Green Sunrise"
 ---
-# Berlin Green Sunrise
+# 000460.Berlin Green Sunrise
 
 *2022* • Berlin • Deutschland
 

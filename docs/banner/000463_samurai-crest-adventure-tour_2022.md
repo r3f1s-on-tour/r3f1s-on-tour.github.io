@@ -22,7 +22,7 @@ slug: "samurai-crest-adventure-tour"
 href: "banner/000463_samurai-crest-adventure-tour_2022.md"
 name: "Samurai Crest Adventure Tour"
 ---
-# Samurai Crest Adventure Tour
+# 000463.Samurai Crest Adventure Tour
 
 *2022* • Strasburg (Uckermark) • Deutschland
 

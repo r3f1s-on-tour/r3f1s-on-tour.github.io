@@ -22,7 +22,7 @@ slug: "a-second-sunday-cat-paws-in-strasburg"
 href: "banner/000543_a-second-sunday-cat-paws-in-strasburg_2023.md"
 name: "A Second Sunday Cat Paws in Strasburg"
 ---
-# A Second Sunday Cat Paws in Strasburg
+# 000543.A Second Sunday Cat Paws in Strasburg
 
 *2023* • Strasburg (Uckermark) • Deutschland
 

@@ -22,7 +22,7 @@ slug: "mishima-zaibatsu-tekken-characters"
 href: "banner/000309_mishima-zaibatsu-tekken-characters_2021.md"
 name: "Mishima Zaibatsu - Tekken Characters"
 ---
-# Mishima Zaibatsu - Tekken Characters
+# 000309.Mishima Zaibatsu - Tekken Characters
 
 *2021* • Berlin • Deutschland
 

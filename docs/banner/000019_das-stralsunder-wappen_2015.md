@@ -22,7 +22,7 @@ slug: "das-stralsunder-wappen"
 href: "banner/000019_das-stralsunder-wappen_2015.md"
 name: "Das Stralsunder Wappen"
 ---
-# Das Stralsunder Wappen
+# 000019.Das Stralsunder Wappen
 
 *2015* • Stralsund • Deutschland
 

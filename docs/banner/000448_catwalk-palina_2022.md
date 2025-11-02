@@ -22,7 +22,7 @@ slug: "catwalk-palina"
 href: "banner/000448_catwalk-palina_2022.md"
 name: "Catwalk Palina"
 ---
-# Catwalk Palina
+# 000448.Catwalk Palina
 
 *2022* • Berlin • Deutschland
 

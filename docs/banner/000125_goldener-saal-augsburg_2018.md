@@ -22,7 +22,7 @@ slug: "goldener-saal-augsburg"
 href: "banner/000125_goldener-saal-augsburg_2018.md"
 name: "Goldener Saal Augsburg"
 ---
-# Goldener Saal Augsburg
+# 000125.Goldener Saal Augsburg
 
 *2018* • Augsburg • Deutschland
 

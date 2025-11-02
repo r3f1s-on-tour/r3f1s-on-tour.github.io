@@ -22,7 +22,7 @@ slug: "blaue-nacht-sd"
 href: "banner/000166_blaue-nacht-sd_2018.md"
 name: "Blaue Nacht Süd"
 ---
-# Blaue Nacht Süd
+# 000166.Blaue Nacht Süd
 
 *2018* • Nürnberg • Deutschland
 

@@ -22,7 +22,7 @@ slug: "berghain-mosaik"
 href: "banner/000484_berghain-mosaik_2022.md"
 name: "Berghain Mosaik"
 ---
-# Berghain Mosaik
+# 000484.Berghain Mosaik
 
 *2022* • Berlin • Deutschland
 

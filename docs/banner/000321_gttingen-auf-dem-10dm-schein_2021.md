@@ -22,7 +22,7 @@ slug: "gttingen-auf-dem-10dm-schein"
 href: "banner/000321_gttingen-auf-dem-10dm-schein_2021.md"
 name: "Göttingen auf dem 10DM Schein"
 ---
-# Göttingen auf dem 10DM Schein
+# 000321.Göttingen auf dem 10DM Schein
 
 *2021* • Göttingen • Deutschland
 

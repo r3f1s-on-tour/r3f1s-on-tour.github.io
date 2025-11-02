@@ -22,7 +22,7 @@ slug: "regensburg-donaupanorama"
 href: "banner/000103_regensburg-donaupanorama_2017.md"
 name: "Regensburg Donaupanorama"
 ---
-# Regensburg Donaupanorama
+# 000103.Regensburg Donaupanorama
 
 *2017* • Regensburg • Deutschland
 

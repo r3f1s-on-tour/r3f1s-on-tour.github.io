@@ -22,7 +22,7 @@ slug: "beach-xmas-toast-in-oranienburg"
 href: "banner/000347_beach-xmas-toast-in-oranienburg_2021.md"
 name: "Beach XMas Toast in Oranienburg"
 ---
-# Beach XMas Toast in Oranienburg
+# 000347.Beach XMas Toast in Oranienburg
 
 *2021* • Oranienburg • Deutschland
 

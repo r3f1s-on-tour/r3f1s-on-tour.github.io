@@ -22,7 +22,7 @@ slug: "olympiaturm-mnchen"
 href: "banner/000036_olympiaturm-mnchen_2016.md"
 name: "Olympiaturm München"
 ---
-# Olympiaturm München
+# 000036.Olympiaturm München
 
 *2016* • München • Deutschland
 

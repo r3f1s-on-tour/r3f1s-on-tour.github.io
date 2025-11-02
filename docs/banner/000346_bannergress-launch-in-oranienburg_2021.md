@@ -22,7 +22,7 @@ slug: "bannergress-launch-in-oranienburg"
 href: "banner/000346_bannergress-launch-in-oranienburg_2021.md"
 name: "Bannergress Launch in Oranienburg"
 ---
-# Bannergress Launch in Oranienburg
+# 000346.Bannergress Launch in Oranienburg
 
 *2021* • Oranienburg • Deutschland
 

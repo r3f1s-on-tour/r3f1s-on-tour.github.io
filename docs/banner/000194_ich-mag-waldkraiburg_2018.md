@@ -22,7 +22,7 @@ slug: "ich-mag-waldkraiburg"
 href: "banner/000194_ich-mag-waldkraiburg_2018.md"
 name: "Ich mag Waldkraiburg"
 ---
-# Ich mag Waldkraiburg
+# 000194.Ich mag Waldkraiburg
 
 *2018* • Waldkraiburg • Deutschland
 

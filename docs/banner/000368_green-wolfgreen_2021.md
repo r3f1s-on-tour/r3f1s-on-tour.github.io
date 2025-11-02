@@ -22,7 +22,7 @@ slug: "green-wolfgreen"
 href: "banner/000368_green-wolfgreen_2021.md"
 name: "Green Wolfgreen"
 ---
-# Green Wolfgreen
+# 000368.Green Wolfgreen
 
 *2021* • Neubrandenburg • Deutschland
 

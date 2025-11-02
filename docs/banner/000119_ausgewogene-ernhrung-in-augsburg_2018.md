@@ -22,7 +22,7 @@ slug: "ausgewogene-ernhrung-in-augsburg"
 href: "banner/000119_ausgewogene-ernhrung-in-augsburg_2018.md"
 name: "Ausgewogene Ernährung in Augsburg"
 ---
-# Ausgewogene Ernährung in Augsburg
+# 000119.Ausgewogene Ernährung in Augsburg
 
 *2018* • Augsburg • Deutschland
 

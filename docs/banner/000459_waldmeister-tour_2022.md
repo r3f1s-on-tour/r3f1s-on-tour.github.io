@@ -22,7 +22,7 @@ slug: "waldmeister-tour"
 href: "banner/000459_waldmeister-tour_2022.md"
 name: "Waldmeister Tour"
 ---
-# Waldmeister Tour
+# 000459.Waldmeister Tour
 
 *2022* • Berlin • Deutschland
 

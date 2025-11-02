@@ -22,7 +22,7 @@ slug: "blaue-nacht-nord"
 href: "banner/000165_blaue-nacht-nord_2018.md"
 name: "Blaue Nacht Nord"
 ---
-# Blaue Nacht Nord
+# 000165.Blaue Nacht Nord
 
 *2018* • Nürnberg • Deutschland
 

@@ -22,7 +22,7 @@ slug: "weihnachten-am-chinesischen-turm"
 href: "banner/000050_weihnachten-am-chinesischen-turm_2016.md"
 name: "Weihnachten am Chinesischen Turm"
 ---
-# Weihnachten am Chinesischen Turm
+# 000050.Weihnachten am Chinesischen Turm
 
 *2016* • München • Deutschland
 

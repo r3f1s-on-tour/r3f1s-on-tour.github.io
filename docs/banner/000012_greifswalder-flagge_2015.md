@@ -22,7 +22,7 @@ slug: "greifswalder-flagge"
 href: "banner/000012_greifswalder-flagge_2015.md"
 name: "Greifswalder Flagge"
 ---
-# Greifswalder Flagge
+# 000012.Greifswalder Flagge
 
 *2015* • Greifswald • Deutschland
 

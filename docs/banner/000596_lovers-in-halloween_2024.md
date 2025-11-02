@@ -22,7 +22,7 @@ slug: "lovers-in-halloween"
 href: "banner/000596_lovers-in-halloween_2024.md"
 name: "Lovers in Halloween"
 ---
-# Lovers in Halloween
+# 000596.Lovers in Halloween
 
 *2024* • València • España
 

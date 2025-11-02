@@ -22,7 +22,7 @@ slug: "the-berlin-hoff-museum"
 href: "banner/000265_the-berlin-hoff-museum_2020.md"
 name: "The Berlin Hoff Museum"
 ---
-# The Berlin Hoff Museum
+# 000265.The Berlin Hoff Museum
 
 *2020* • Berlin • Deutschland
 

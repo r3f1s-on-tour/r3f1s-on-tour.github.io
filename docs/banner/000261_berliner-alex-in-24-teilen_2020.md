@@ -22,7 +22,7 @@ slug: "berliner-alex-in-24-teilen"
 href: "banner/000261_berliner-alex-in-24-teilen_2020.md"
 name: "Berliner Alex in 24 Teilen"
 ---
-# Berliner Alex in 24 Teilen
+# 000261.Berliner Alex in 24 Teilen
 
 *2020* • Berlin • Deutschland
 

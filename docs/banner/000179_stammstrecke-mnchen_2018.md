@@ -22,7 +22,7 @@ slug: "stammstrecke-mnchen"
 href: "banner/000179_stammstrecke-mnchen_2018.md"
 name: "Stammstrecke München"
 ---
-# Stammstrecke München
+# 000179.Stammstrecke München
 
 *2018* • München • Deutschland
 

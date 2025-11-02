@@ -22,7 +22,7 @@ slug: "spooky-green-second-sunday-in-oranienburg"
 href: "banner/000478_spooky-green-second-sunday-in-oranienburg_2022.md"
 name: "Spooky Green Second Sunday in Oranienburg"
 ---
-# Spooky Green Second Sunday in Oranienburg
+# 000478.Spooky Green Second Sunday in Oranienburg
 
 *2022* • Oranienburg • Deutschland
 

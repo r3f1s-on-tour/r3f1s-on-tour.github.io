@@ -22,7 +22,7 @@ slug: "belvros-liptvros"
 href: "banner/000593_belvros-liptvros_2024.md"
 name: "Belváros-Lipótváros"
 ---
-# Belváros-Lipótváros
+# 000593.Belváros-Lipótváros
 
 *2024* • Budapest • Magyarország
 

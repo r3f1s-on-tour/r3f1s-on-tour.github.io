@@ -22,7 +22,7 @@ slug: "btzows-caticorn"
 href: "banner/000273_btzows-caticorn_2020.md"
 name: "Bötzows Caticorn"
 ---
-# Bötzows Caticorn
+# 000273.Bötzows Caticorn
 
 *2020* • Berlin • Deutschland
 

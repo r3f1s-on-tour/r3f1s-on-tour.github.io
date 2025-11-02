@@ -22,7 +22,7 @@ slug: "catwalk-pippa"
 href: "banner/000400_catwalk-pippa_2022.md"
 name: "Catwalk Pippa"
 ---
-# Catwalk Pippa
+# 000400.Catwalk Pippa
 
 *2022* • Berlin • Deutschland
 

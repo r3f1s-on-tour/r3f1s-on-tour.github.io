@@ -22,7 +22,7 @@ slug: "augsburg-im-juli"
 href: "banner/000195_augsburg-im-juli_2018.md"
 name: "Augsburg im Juli"
 ---
-# Augsburg im Juli
+# 000195.Augsburg im Juli
 
 *2018* • Augsburg • Deutschland
 

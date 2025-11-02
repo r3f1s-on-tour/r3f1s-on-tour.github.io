@@ -22,7 +22,7 @@ slug: "magnus-reawakens-szczecin"
 href: "banner/000093_magnus-reawakens-szczecin_2017.md"
 name: "MAGNUS Reawakens Szczecin"
 ---
-# MAGNUS Reawakens Szczecin
+# 000093.MAGNUS Reawakens Szczecin
 
 *2017* • Szczecin • Polska
 

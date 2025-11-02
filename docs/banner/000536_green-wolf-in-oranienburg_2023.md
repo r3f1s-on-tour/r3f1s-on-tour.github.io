@@ -22,7 +22,7 @@ slug: "green-wolf-in-oranienburg"
 href: "banner/000536_green-wolf-in-oranienburg_2023.md"
 name: "Green Wolf in Oranienburg"
 ---
-# Green Wolf in Oranienburg
+# 000536.Green Wolf in Oranienburg
 
 *2023* • Oranienburg • Deutschland
 

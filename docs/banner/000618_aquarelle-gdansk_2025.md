@@ -22,7 +22,7 @@ slug: "aquarelle-gdansk"
 href: "banner/000618_aquarelle-gdansk_2025.md"
 name: "Aquarelle Gdansk"
 ---
-# Aquarelle Gdansk
+# 000618.Aquarelle Gdansk
 
 *2025* • Gdansk • Polska
 

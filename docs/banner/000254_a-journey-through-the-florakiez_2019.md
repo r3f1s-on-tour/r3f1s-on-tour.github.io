@@ -22,7 +22,7 @@ slug: "a-journey-through-the-florakiez"
 href: "banner/000254_a-journey-through-the-florakiez_2019.md"
 name: "A journey through the florakiez"
 ---
-# A journey through the florakiez
+# 000254.A journey through the florakiez
 
 *2019* • Berlin • Deutschland
 

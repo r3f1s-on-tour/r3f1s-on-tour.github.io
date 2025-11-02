@@ -22,7 +22,7 @@ slug: "vier-tore-stadt"
 href: "banner/000116_vier-tore-stadt_2017.md"
 name: "Vier-Tore-Stadt"
 ---
-# Vier-Tore-Stadt
+# 000116.Vier-Tore-Stadt
 
 *2017* • Neubrandenburg • Deutschland
 

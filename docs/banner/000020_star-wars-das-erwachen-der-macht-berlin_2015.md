@@ -22,7 +22,7 @@ slug: "star-wars-das-erwachen-der-macht-berlin"
 href: "banner/000020_star-wars-das-erwachen-der-macht-berlin_2015.md"
 name: "STAR WARS - Das Erwachen der Macht (Berlin)"
 ---
-# STAR WARS - Das Erwachen der Macht (Berlin)
+# 000020.STAR WARS - Das Erwachen der Macht (Berlin)
 
 *2015* • Berlin • Deutschland
 

@@ -22,7 +22,7 @@ slug: "a-echo-xm-anomaly-strasburg-um"
 href: "banner/000561_a-echo-xm-anomaly-strasburg-um_2023.md"
 name: "A Echo XM Anomaly Strasburg UM"
 ---
-# A Echo XM Anomaly Strasburg UM
+# 000561.A Echo XM Anomaly Strasburg UM
 
 *2023* • Strasburg (Uckermark) • Deutschland
 

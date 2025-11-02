@@ -22,7 +22,7 @@ slug: "schlosskirche-mosaik-teil"
 href: "banner/000173_schlosskirche-mosaik-teil_2018.md"
 name: "Schlosskirche Mosaik Teil"
 ---
-# Schlosskirche Mosaik Teil
+# 000173.Schlosskirche Mosaik Teil
 
 *2018* • Neustrelitz • Deutschland
 

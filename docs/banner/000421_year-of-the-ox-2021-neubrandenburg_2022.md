@@ -22,7 +22,7 @@ slug: "year-of-the-ox-2021-neubrandenburg"
 href: "banner/000421_year-of-the-ox-2021-neubrandenburg_2022.md"
 name: "Year of the Ox 2021 - Neubrandenburg"
 ---
-# Year of the Ox 2021 - Neubrandenburg
+# 000421.Year of the Ox 2021 - Neubrandenburg
 
 *2022* • Neubrandenburg • Deutschland
 

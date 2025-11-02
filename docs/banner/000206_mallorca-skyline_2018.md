@@ -22,7 +22,7 @@ slug: "mallorca-skyline"
 href: "banner/000206_mallorca-skyline_2018.md"
 name: "Mallorca Skyline"
 ---
-# Mallorca Skyline
+# 000206.Mallorca Skyline
 
 *2018* • Palma • España
 

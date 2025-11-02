@@ -22,7 +22,7 @@ slug: "zrich-biocard"
 href: "banner/000062_zrich-biocard_2017.md"
 name: "Zürich Biocard"
 ---
-# Zürich Biocard
+# 000062.Zürich Biocard
 
 *2017* • Zürich • Schweiz/Suisse/Svizzera/Svizra
 

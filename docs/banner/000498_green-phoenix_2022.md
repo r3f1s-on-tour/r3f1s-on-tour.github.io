@@ -22,7 +22,7 @@ slug: "green-phoenix"
 href: "banner/000498_green-phoenix_2022.md"
 name: "Green Phoenix"
 ---
-# Green Phoenix
+# 000498.Green Phoenix
 
 *2022* • Bergisch Gladbach • Deutschland
 

@@ -22,7 +22,7 @@ slug: "galaxymenred"
 href: "banner/000445_galaxymenred_2022.md"
 name: "GalaxyMenRed"
 ---
-# GalaxyMenRed
+# 000445.GalaxyMenRed
 
 *2022* • Berlin • Deutschland
 

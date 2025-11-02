@@ -22,7 +22,7 @@ slug: "3-schwerter-stil-in-oranienburg"
 href: "banner/000348_3-schwerter-stil-in-oranienburg_2021.md"
 name: "3 Schwerter Stil in Oranienburg"
 ---
-# 3 Schwerter Stil in Oranienburg
+# 000348.3 Schwerter Stil in Oranienburg
 
 *2021* • Oranienburg • Deutschland
 

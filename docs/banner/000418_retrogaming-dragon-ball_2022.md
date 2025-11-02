@@ -22,7 +22,7 @@ slug: "retrogaming-dragon-ball"
 href: "banner/000418_retrogaming-dragon-ball_2022.md"
 name: "RetroGaming - Dragon Ball"
 ---
-# RetroGaming - Dragon Ball
+# 000418.RetroGaming - Dragon Ball
 
 *2022* • Pasewalk • Deutschland
 

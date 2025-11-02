@@ -22,7 +22,7 @@ slug: "topographia-bavariae-straubinga"
 href: "banner/000104_topographia-bavariae-straubinga_2017.md"
 name: "Topographia Bavariae Straubinga"
 ---
-# Topographia Bavariae Straubinga
+# 000104.Topographia Bavariae Straubinga
 
 *2017* • Straubing • Deutschland
 

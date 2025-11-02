@@ -22,7 +22,7 @@ slug: "second-sunday-cat"
 href: "banner/000541_second-sunday-cat_2023.md"
 name: "Second Sunday Cat"
 ---
-# Second Sunday Cat
+# 000541.Second Sunday Cat
 
 *2023* • Strasburg (Uckermark) • Deutschland
 

@@ -22,7 +22,7 @@ slug: "rammbock-in-oranienburg"
 href: "banner/000483_rammbock-in-oranienburg_2022.md"
 name: "Rammbock in Oranienburg"
 ---
-# Rammbock in Oranienburg
+# 000483.Rammbock in Oranienburg
 
 *2022* • Oranienburg • Deutschland
 

@@ -22,7 +22,7 @@ slug: "beautiful-frogs-berlin"
 href: "banner/000552_beautiful-frogs-berlin_2023.md"
 name: "Beautiful Frogs Berlin"
 ---
-# Beautiful Frogs Berlin
+# 000552.Beautiful Frogs Berlin
 
 *2023* • Berlin • Deutschland
 

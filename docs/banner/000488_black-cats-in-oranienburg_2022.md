@@ -22,7 +22,7 @@ slug: "black-cats-in-oranienburg"
 href: "banner/000488_black-cats-in-oranienburg_2022.md"
 name: "Black Cats in Oranienburg"
 ---
-# Black Cats in Oranienburg
+# 000488.Black Cats in Oranienburg
 
 *2022* • Oranienburg • Deutschland
 

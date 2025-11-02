@@ -22,7 +22,7 @@ slug: "hopfenmuseum-wolnzach"
 href: "banner/000100_hopfenmuseum-wolnzach_2017.md"
 name: "Hopfenmuseum Wolnzach"
 ---
-# Hopfenmuseum Wolnzach
+# 000100.Hopfenmuseum Wolnzach
 
 *2017* • Lohwinden • Deutschland
 

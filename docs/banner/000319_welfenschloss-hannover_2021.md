@@ -22,7 +22,7 @@ slug: "welfenschloss-hannover"
 href: "banner/000319_welfenschloss-hannover_2021.md"
 name: "Welfenschloss Hannover"
 ---
-# Welfenschloss Hannover
+# 000319.Welfenschloss Hannover
 
 *2021* • Hannover • Deutschland
 

@@ -22,7 +22,7 @@ slug: "binz-auf-rgen"
 href: "banner/000009_binz-auf-rgen_2015.md"
 name: "Binz auf Rügen"
 ---
-# Binz auf Rügen
+# 000009.Binz auf Rügen
 
 *2015* • Binz • Deutschland
 

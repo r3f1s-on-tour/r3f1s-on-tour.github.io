@@ -22,7 +22,7 @@ slug: "frog-in-oranienburg"
 href: "banner/000518_frog-in-oranienburg_2023.md"
 name: "Frog in Oranienburg"
 ---
-# Frog in Oranienburg
+# 000518.Frog in Oranienburg
 
 *2023* • Oranienburg • Deutschland
 

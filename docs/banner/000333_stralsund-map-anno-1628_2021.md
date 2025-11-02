@@ -22,7 +22,7 @@ slug: "stralsund-map-anno-1628"
 href: "banner/000333_stralsund-map-anno-1628_2021.md"
 name: "Stralsund Map Anno 1628"
 ---
-# Stralsund Map Anno 1628
+# 000333.Stralsund Map Anno 1628
 
 *2021* • Stralsund • Deutschland
 

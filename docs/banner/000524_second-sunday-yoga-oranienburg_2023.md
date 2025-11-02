@@ -22,7 +22,7 @@ slug: "second-sunday-yoga-oranienburg"
 href: "banner/000524_second-sunday-yoga-oranienburg_2023.md"
 name: "Second Sunday Yoga Oranienburg"
 ---
-# Second Sunday Yoga Oranienburg
+# 000524.Second Sunday Yoga Oranienburg
 
 *2023* • Oranienburg • Deutschland
 

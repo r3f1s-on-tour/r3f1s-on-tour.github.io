@@ -22,7 +22,7 @@ slug: "pinguine-tour-in-oranienburg-part-2"
 href: "banner/000453_pinguine-tour-in-oranienburg-part-2_2022.md"
 name: "Pinguine Tour in Oranienburg Part 2"
 ---
-# Pinguine Tour in Oranienburg Part 2
+# 000453.Pinguine Tour in Oranienburg Part 2
 
 *2022* • Oranienburg • Deutschland
 

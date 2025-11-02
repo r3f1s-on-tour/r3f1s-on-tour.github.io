@@ -22,7 +22,7 @@ slug: "green-fireworks-in-oranienburg"
 href: "banner/000525_green-fireworks-in-oranienburg_2023.md"
 name: "Green Fireworks in Oranienburg"
 ---
-# Green Fireworks in Oranienburg
+# 000525.Green Fireworks in Oranienburg
 
 *2023* • Oranienburg • Deutschland
 

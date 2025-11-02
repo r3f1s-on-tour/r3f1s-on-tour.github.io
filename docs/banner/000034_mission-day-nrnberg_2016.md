@@ -22,7 +22,7 @@ slug: "mission-day-nrnberg"
 href: "banner/000034_mission-day-nrnberg_2016.md"
 name: "Mission Day Nürnberg"
 ---
-# Mission Day Nürnberg
+# 000034.Mission Day Nürnberg
 
 *2016* • Nürnberg • Deutschland
 

@@ -22,7 +22,7 @@ slug: "space-cats-in-strasburg"
 href: "banner/000542_space-cats-in-strasburg_2023.md"
 name: "Space Cats in Strasburg"
 ---
-# Space Cats in Strasburg
+# 000542.Space Cats in Strasburg
 
 *2023* • Strasburg (Uckermark) • Deutschland
 

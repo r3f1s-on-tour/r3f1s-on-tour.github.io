@@ -22,7 +22,7 @@ slug: "neujahrs-runde-durch-oranienburg"
 href: "banner/000381_neujahrs-runde-durch-oranienburg_2022.md"
 name: "Neujahrs Runde durch Oranienburg"
 ---
-# Neujahrs Runde durch Oranienburg
+# 000381.Neujahrs Runde durch Oranienburg
 
 *2022* • Oranienburg • Deutschland
 

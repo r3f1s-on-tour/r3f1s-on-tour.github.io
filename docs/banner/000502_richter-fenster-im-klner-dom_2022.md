@@ -22,7 +22,7 @@ slug: "richter-fenster-im-klner-dom"
 href: "banner/000502_richter-fenster-im-klner-dom_2022.md"
 name: "Richter Fenster im Kölner Dom"
 ---
-# Richter Fenster im Kölner Dom
+# 000502.Richter Fenster im Kölner Dom
 
 *2022* • Köln • Deutschland
 

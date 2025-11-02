@@ -22,7 +22,7 @@ slug: "fire-fighter-schwedt"
 href: "banner/000398_fire-fighter-schwedt_2022.md"
 name: "Fire Fighter Schwedt"
 ---
-# Fire Fighter Schwedt
+# 000398.Fire Fighter Schwedt
 
 *2022* • Schwedt/Oder • Deutschland
 

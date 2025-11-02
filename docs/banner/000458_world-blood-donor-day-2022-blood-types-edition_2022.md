@@ -22,7 +22,7 @@ slug: "world-blood-donor-day-2022-blood-types-edition"
 href: "banner/000458_world-blood-donor-day-2022-blood-types-edition_2022.md"
 name: "World Blood Donor Day 2022 - Blood Types Edition"
 ---
-# World Blood Donor Day 2022 - Blood Types Edition
+# 000458.World Blood Donor Day 2022 - Blood Types Edition
 
 *2022* • Oranienburg • Deutschland
 

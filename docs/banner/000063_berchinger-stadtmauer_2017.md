@@ -22,7 +22,7 @@ slug: "berchinger-stadtmauer"
 href: "banner/000063_berchinger-stadtmauer_2017.md"
 name: "Berchinger Stadtmauer"
 ---
-# Berchinger Stadtmauer
+# 000063.Berchinger Stadtmauer
 
 *2017* • Sollngriesbach • Deutschland
 

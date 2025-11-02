@@ -22,7 +22,7 @@ slug: "merry-christmas-strasburg"
 href: "banner/000362_merry-christmas-strasburg_2021.md"
 name: "Merry Christmas - Strasburg"
 ---
-# Merry Christmas - Strasburg
+# 000362.Merry Christmas - Strasburg
 
 *2021* • Strasburg (Uckermark) • Deutschland
 

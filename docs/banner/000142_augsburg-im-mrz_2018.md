@@ -22,7 +22,7 @@ slug: "augsburg-im-mrz"
 href: "banner/000142_augsburg-im-mrz_2018.md"
 name: "Augsburg im März"
 ---
-# Augsburg im März
+# 000142.Augsburg im März
 
 *2018* • Augsburg • Deutschland
 

@@ -22,7 +22,7 @@ slug: "skulpturenpark-katzow"
 href: "banner/000110_skulpturenpark-katzow_2017.md"
 name: "Skulpturenpark Katzow"
 ---
-# Skulpturenpark Katzow
+# 000110.Skulpturenpark Katzow
 
 *2017* • Katzow • Deutschland
 

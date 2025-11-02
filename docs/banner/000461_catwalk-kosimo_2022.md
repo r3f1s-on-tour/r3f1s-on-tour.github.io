@@ -22,7 +22,7 @@ slug: "catwalk-kosimo"
 href: "banner/000461_catwalk-kosimo_2022.md"
 name: "Catwalk Kosimo"
 ---
-# Catwalk Kosimo
+# 000461.Catwalk Kosimo
 
 *2022* • Berlin • Deutschland
 

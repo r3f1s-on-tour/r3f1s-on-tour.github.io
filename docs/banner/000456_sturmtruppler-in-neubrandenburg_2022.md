@@ -22,7 +22,7 @@ slug: "sturmtruppler-in-neubrandenburg"
 href: "banner/000456_sturmtruppler-in-neubrandenburg_2022.md"
 name: "Sturmtruppler in Neubrandenburg"
 ---
-# Sturmtruppler in Neubrandenburg
+# 000456.Sturmtruppler in Neubrandenburg
 
 *2022* • Neubrandenburg • Deutschland
 

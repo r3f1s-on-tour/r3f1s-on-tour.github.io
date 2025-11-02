@@ -22,7 +22,7 @@ slug: "bavaria-mnchen"
 href: "banner/000046_bavaria-mnchen_2016.md"
 name: "Bavaria München"
 ---
-# Bavaria München
+# 000046.Bavaria München
 
 *2016* • München • Deutschland
 

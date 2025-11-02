@@ -22,7 +22,7 @@ slug: "clear-your-mind-valencia"
 href: "banner/000595_clear-your-mind-valencia_2024.md"
 name: "Clear your mind -Valencia"
 ---
-# Clear your mind -Valencia
+# 000595.Clear your mind -Valencia
 
 *2024* • València • España
 

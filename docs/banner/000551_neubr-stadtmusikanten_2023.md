@@ -22,7 +22,7 @@ slug: "neubr-stadtmusikanten"
 href: "banner/000551_neubr-stadtmusikanten_2023.md"
 name: "Neubr. Stadtmusikanten"
 ---
-# Neubr. Stadtmusikanten
+# 000551.Neubr. Stadtmusikanten
 
 *2023* • Neubrandenburg • Deutschland
 

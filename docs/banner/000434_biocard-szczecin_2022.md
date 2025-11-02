@@ -22,7 +22,7 @@ slug: "biocard-szczecin"
 href: "banner/000434_biocard-szczecin_2022.md"
 name: "Biocard Szczecin"
 ---
-# Biocard Szczecin
+# 000434.Biocard Szczecin
 
 *2022* • Szczecin • Polska
 

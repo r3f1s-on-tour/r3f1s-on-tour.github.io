@@ -22,7 +22,7 @@ slug: "residenz-wrzburg"
 href: "banner/000105_residenz-wrzburg_2017.md"
 name: "Residenz Würzburg"
 ---
-# Residenz Würzburg
+# 000105.Residenz Würzburg
 
 *2017* • Würzburg • Deutschland
 

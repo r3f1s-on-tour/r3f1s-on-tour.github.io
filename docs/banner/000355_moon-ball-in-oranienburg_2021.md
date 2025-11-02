@@ -22,7 +22,7 @@ slug: "moon-ball-in-oranienburg"
 href: "banner/000355_moon-ball-in-oranienburg_2021.md"
 name: "Moon Ball in Oranienburg"
 ---
-# Moon Ball in Oranienburg
+# 000355.Moon Ball in Oranienburg
 
 *2021* • Oranienburg • Deutschland
 

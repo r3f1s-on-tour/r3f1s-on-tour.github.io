@@ -22,7 +22,7 @@ slug: "ohara-koson-birds"
 href: "banner/000554_ohara-koson-birds_2023.md"
 name: "Ohara Koson Birds"
 ---
-# Ohara Koson Birds
+# 000554.Ohara Koson Birds
 
 *2023* • Neubrandenburg • Deutschland
 

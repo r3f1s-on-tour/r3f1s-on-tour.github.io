@@ -22,7 +22,7 @@ slug: "evolution-of-frog-strasburg"
 href: "banner/000337_evolution-of-frog-strasburg_2021.md"
 name: "Evolution of Frog - Strasburg"
 ---
-# Evolution of Frog - Strasburg
+# 000337.Evolution of Frog - Strasburg
 
 *2021* • Strasburg (Uckermark) • Deutschland
 

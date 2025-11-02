@@ -22,7 +22,7 @@ slug: "feuerschwert-tour-durch-strasburg"
 href: "banner/000364_feuerschwert-tour-durch-strasburg_2021.md"
 name: "Feuerschwert Tour durch Strasburg"
 ---
-# Feuerschwert Tour durch Strasburg
+# 000364.Feuerschwert Tour durch Strasburg
 
 *2021* • Strasburg (Uckermark) • Deutschland
 

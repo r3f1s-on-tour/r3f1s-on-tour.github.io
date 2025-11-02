@@ -22,7 +22,7 @@ slug: "blue-frog-berlin"
 href: "banner/000311_blue-frog-berlin_2021.md"
 name: "blue Frog Berlin"
 ---
-# blue Frog Berlin
+# 000311.blue Frog Berlin
 
 *2021* • Berlin • Deutschland
 

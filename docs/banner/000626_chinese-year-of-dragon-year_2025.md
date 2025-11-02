@@ -22,7 +22,7 @@ slug: "chinese-year-of-dragon-year"
 href: "banner/000626_chinese-year-of-dragon-year_2025.md"
 name: "Chinese Year of Dragon Year"
 ---
-# Chinese Year of Dragon Year
+# 000626.Chinese Year of Dragon Year
 
 *2025* • Neubrandenburg • Deutschland
 

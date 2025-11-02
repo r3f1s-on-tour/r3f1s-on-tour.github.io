@@ -22,7 +22,7 @@ slug: "bats-in-oranienburg"
 href: "banner/000489_bats-in-oranienburg_2022.md"
 name: "Bats in Oranienburg"
 ---
-# Bats in Oranienburg
+# 000489.Bats in Oranienburg
 
 *2022* • Oranienburg • Deutschland
 

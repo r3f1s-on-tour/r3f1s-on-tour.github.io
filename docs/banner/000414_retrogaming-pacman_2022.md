@@ -22,7 +22,7 @@ slug: "retrogaming-pacman"
 href: "banner/000414_retrogaming-pacman_2022.md"
 name: "RetroGaming - Pacman"
 ---
-# RetroGaming - Pacman
+# 000414.RetroGaming - Pacman
 
 *2022* • Pasewalk • Deutschland
 

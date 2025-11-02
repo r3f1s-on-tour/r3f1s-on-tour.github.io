@@ -22,7 +22,7 @@ slug: "cats-in-the-box-strasburg"
 href: "banner/000371_cats-in-the-box-strasburg_2021.md"
 name: "Cats in the box - Strasburg"
 ---
-# Cats in the box - Strasburg
+# 000371.Cats in the box - Strasburg
 
 *2021* • Strasburg (Uckermark) • Deutschland
 

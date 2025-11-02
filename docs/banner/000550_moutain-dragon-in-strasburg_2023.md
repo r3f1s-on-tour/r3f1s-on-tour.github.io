@@ -22,7 +22,7 @@ slug: "moutain-dragon-in-strasburg"
 href: "banner/000550_moutain-dragon-in-strasburg_2023.md"
 name: "Moutain Dragon in Strasburg"
 ---
-# Moutain Dragon in Strasburg
+# 000550.Moutain Dragon in Strasburg
 
 *2023* • Strasburg (Uckermark) • Deutschland
 

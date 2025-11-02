@@ -22,7 +22,7 @@ slug: "stadtmauer-in-neubrandenburg"
 href: "banner/000622_stadtmauer-in-neubrandenburg_2025.md"
 name: "Stadtmauer in Neubrandenburg"
 ---
-# Stadtmauer in Neubrandenburg
+# 000622.Stadtmauer in Neubrandenburg
 
 *2025* • Neubrandenburg • Deutschland
 

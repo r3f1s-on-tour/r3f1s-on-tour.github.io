@@ -22,7 +22,7 @@ slug: "augsburg-im-august"
 href: "banner/000196_augsburg-im-august_2018.md"
 name: "Augsburg im August"
 ---
-# Augsburg im August
+# 000196.Augsburg im August
 
 *2018* • Augsburg • Deutschland
 

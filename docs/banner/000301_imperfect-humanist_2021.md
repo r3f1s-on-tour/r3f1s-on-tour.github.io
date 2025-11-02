@@ -22,7 +22,7 @@ slug: "imperfect-humanist"
 href: "banner/000301_imperfect-humanist_2021.md"
 name: "Imperfect Humanist"
 ---
-# Imperfect Humanist
+# 000301.Imperfect Humanist
 
 *2021* • Berlin • Deutschland
 

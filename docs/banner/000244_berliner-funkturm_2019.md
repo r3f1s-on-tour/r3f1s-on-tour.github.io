@@ -22,7 +22,7 @@ slug: "berliner-funkturm"
 href: "banner/000244_berliner-funkturm_2019.md"
 name: "Berliner Funkturm"
 ---
-# Berliner Funkturm
+# 000244.Berliner Funkturm
 
 *2019* • Berlin • Deutschland
 

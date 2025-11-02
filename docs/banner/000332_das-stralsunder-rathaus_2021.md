@@ -22,7 +22,7 @@ slug: "das-stralsunder-rathaus"
 href: "banner/000332_das-stralsunder-rathaus_2021.md"
 name: "Das Stralsunder Rathaus"
 ---
-# Das Stralsunder Rathaus
+# 000332.Das Stralsunder Rathaus
 
 *2021* • Stralsund • Deutschland
 

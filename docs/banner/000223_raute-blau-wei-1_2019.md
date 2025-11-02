@@ -22,7 +22,7 @@ slug: "raute-blau-wei-1"
 href: "banner/000223_raute-blau-wei-1_2019.md"
 name: "Raute Blau Weiß 1"
 ---
-# Raute Blau Weiß 1
+# 000223.Raute Blau Weiß 1
 
 *2019* • Vaterstetten • Deutschland
 

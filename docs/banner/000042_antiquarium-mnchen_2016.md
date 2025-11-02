@@ -22,7 +22,7 @@ slug: "antiquarium-mnchen"
 href: "banner/000042_antiquarium-mnchen_2016.md"
 name: "Antiquarium München"
 ---
-# Antiquarium München
+# 000042.Antiquarium München
 
 *2016* • München • Deutschland
 

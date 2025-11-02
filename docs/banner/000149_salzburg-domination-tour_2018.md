@@ -22,7 +22,7 @@ slug: "salzburg-domination-tour"
 href: "banner/000149_salzburg-domination-tour_2018.md"
 name: "Salzburg Domination Tour"
 ---
-# Salzburg Domination Tour
+# 000149.Salzburg Domination Tour
 
 *2018* • Salzburg • Österreich
 

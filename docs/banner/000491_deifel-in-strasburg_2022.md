@@ -22,7 +22,7 @@ slug: "deifel-in-strasburg"
 href: "banner/000491_deifel-in-strasburg_2022.md"
 name: "Deifel in Strasburg"
 ---
-# Deifel in Strasburg
+# 000491.Deifel in Strasburg
 
 *2022* • Strasburg (Uckermark) • Deutschland
 

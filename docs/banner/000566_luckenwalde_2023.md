@@ -22,7 +22,7 @@ slug: "luckenwalde"
 href: "banner/000566_luckenwalde_2023.md"
 name: "Luckenwalde"
 ---
-# Luckenwalde
+# 000566.Luckenwalde
 
 *2023* • Luckenwalde • Deutschland
 

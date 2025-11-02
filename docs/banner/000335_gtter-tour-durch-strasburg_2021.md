@@ -22,7 +22,7 @@ slug: "gtter-tour-durch-strasburg"
 href: "banner/000335_gtter-tour-durch-strasburg_2021.md"
 name: "Götter Tour durch Strasburg"
 ---
-# Götter Tour durch Strasburg
+# 000335.Götter Tour durch Strasburg
 
 *2021* • Strasburg (Uckermark) • Deutschland
 

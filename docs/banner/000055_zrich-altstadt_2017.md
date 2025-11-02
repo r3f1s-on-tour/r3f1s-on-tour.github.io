@@ -22,7 +22,7 @@ slug: "zrich-altstadt"
 href: "banner/000055_zrich-altstadt_2017.md"
 name: "Zürich Altstadt"
 ---
-# Zürich Altstadt
+# 000055.Zürich Altstadt
 
 *2017* • Zürich • Schweiz/Suisse/Svizzera/Svizra
 

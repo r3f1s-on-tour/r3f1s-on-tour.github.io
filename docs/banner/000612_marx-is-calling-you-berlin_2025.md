@@ -22,7 +22,7 @@ slug: "marx-is-calling-you-berlin"
 href: "banner/000612_marx-is-calling-you-berlin_2025.md"
 name: "Marx is calling you - Berlin"
 ---
-# Marx is calling you - Berlin
+# 000612.Marx is calling you - Berlin
 
 *2025* • Berlin • Deutschland
 

@@ -22,7 +22,7 @@ slug: "retrogaming-galaxian"
 href: "banner/000413_retrogaming-galaxian_2022.md"
 name: "RetroGaming - Galaxian"
 ---
-# RetroGaming - Galaxian
+# 000413.RetroGaming - Galaxian
 
 *2022* • Pasewalk • Deutschland
 

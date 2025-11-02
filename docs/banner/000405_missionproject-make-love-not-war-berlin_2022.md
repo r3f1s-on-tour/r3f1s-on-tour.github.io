@@ -22,7 +22,7 @@ slug: "missionproject-make-love-not-war-berlin"
 href: "banner/000405_missionproject-make-love-not-war-berlin_2022.md"
 name: "#MissionProject Make Love Not War Berlin"
 ---
-# #MissionProject Make Love Not War Berlin
+# 000405.#MissionProject Make Love Not War Berlin
 
 *2022* • Berlin • Deutschland
 

@@ -22,7 +22,7 @@ slug: "blaue-nacht-ost"
 href: "banner/000164_blaue-nacht-ost_2018.md"
 name: "Blaue Nacht Ost"
 ---
-# Blaue Nacht Ost
+# 000164.Blaue Nacht Ost
 
 *2018* • Nürnberg • Deutschland
 

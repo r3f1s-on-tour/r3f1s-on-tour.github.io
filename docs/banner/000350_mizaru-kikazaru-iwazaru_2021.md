@@ -22,7 +22,7 @@ slug: "mizaru-kikazaru-iwazaru"
 href: "banner/000350_mizaru-kikazaru-iwazaru_2021.md"
 name: "Mizaru, Kikazaru, Iwazaru"
 ---
-# Mizaru, Kikazaru, Iwazaru
+# 000350.Mizaru, Kikazaru, Iwazaru
 
 *2021* • Berlin • Deutschland
 

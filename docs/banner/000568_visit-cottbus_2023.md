@@ -22,7 +22,7 @@ slug: "visit-cottbus"
 href: "banner/000568_visit-cottbus_2023.md"
 name: "Visit Cottbus"
 ---
-# Visit Cottbus
+# 000568.Visit Cottbus
 
 *2023* • Cottbus - Chóśebuz • Deutschland
 

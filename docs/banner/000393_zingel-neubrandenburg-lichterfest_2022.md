@@ -22,7 +22,7 @@ slug: "zingel-neubrandenburg-lichterfest"
 href: "banner/000393_zingel-neubrandenburg-lichterfest_2022.md"
 name: "Zingel Neubrandenburg Lichterfest"
 ---
-# Zingel Neubrandenburg Lichterfest
+# 000393.Zingel Neubrandenburg Lichterfest
 
 *2022* • Neubrandenburg • Deutschland
 

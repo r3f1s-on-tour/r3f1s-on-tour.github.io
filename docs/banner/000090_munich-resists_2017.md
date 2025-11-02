@@ -22,7 +22,7 @@ slug: "munich-resists"
 href: "banner/000090_munich-resists_2017.md"
 name: "Munich resists!"
 ---
-# Munich resists!
+# 000090.Munich resists!
 
 *2017* • München • Deutschland
 

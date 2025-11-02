@@ -22,7 +22,7 @@ slug: "sternbilder"
 href: "banner/000377_sternbilder_2021.md"
 name: "Sternbilder"
 ---
-# Sternbilder
+# 000377.Sternbilder
 
 *2021* • Stralsund • Deutschland
 

@@ -22,7 +22,7 @@ slug: "new-years-toast-in-oranienburg"
 href: "banner/000380_new-years-toast-in-oranienburg_2022.md"
 name: "New Years Toast in Oranienburg"
 ---
-# New Years Toast in Oranienburg
+# 000380.New Years Toast in Oranienburg
 
 *2022* • Oranienburg • Deutschland
 

@@ -22,7 +22,7 @@ slug: "aiblinger-wolf"
 href: "banner/000187_aiblinger-wolf_2018.md"
 name: "Aiblinger Wolf"
 ---
-# Aiblinger Wolf
+# 000187.Aiblinger Wolf
 
 *2018* • Bad Aibling • Deutschland
 

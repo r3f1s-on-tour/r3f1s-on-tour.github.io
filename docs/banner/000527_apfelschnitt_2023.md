@@ -22,7 +22,7 @@ slug: "apfelschnitt"
 href: "banner/000527_apfelschnitt_2023.md"
 name: "Apfelschnitt"
 ---
-# Apfelschnitt
+# 000527.Apfelschnitt
 
 *2023* • Oranienburg • Deutschland
 

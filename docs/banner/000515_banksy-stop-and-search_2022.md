@@ -22,7 +22,7 @@ slug: "banksy-stop-and-search"
 href: "banner/000515_banksy-stop-and-search_2022.md"
 name: "Banksy - Stop and Search"
 ---
-# Banksy - Stop and Search
+# 000515.Banksy - Stop and Search
 
 *2022* • Berlin • Deutschland
 

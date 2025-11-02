@@ -22,7 +22,7 @@ slug: "blauer-krieger"
 href: "banner/000283_blauer-krieger_2020.md"
 name: "Blauer Krieger"
 ---
-# Blauer Krieger
+# 000283.Blauer Krieger
 
 *2020* • München • Deutschland
 

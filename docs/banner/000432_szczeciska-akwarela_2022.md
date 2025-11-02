@@ -22,7 +22,7 @@ slug: "szczeciska-akwarela"
 href: "banner/000432_szczeciska-akwarela_2022.md"
 name: "Szczecińska akwarela"
 ---
-# Szczecińska akwarela
+# 000432.Szczecińska akwarela
 
 *2022* • Szczecin • Polska
 

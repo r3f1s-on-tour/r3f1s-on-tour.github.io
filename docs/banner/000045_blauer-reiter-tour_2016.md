@@ -22,7 +22,7 @@ slug: "blauer-reiter-tour"
 href: "banner/000045_blauer-reiter-tour_2016.md"
 name: "Blauer Reiter Tour"
 ---
-# Blauer Reiter Tour
+# 000045.Blauer Reiter Tour
 
 *2016* • München • Deutschland
 

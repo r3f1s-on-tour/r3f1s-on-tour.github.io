@@ -22,7 +22,7 @@ slug: "winter-friends"
 href: "banner/000589_winter-friends_2023.md"
 name: "Winter Friends"
 ---
-# Winter Friends
+# 000589.Winter Friends
 
 *2023* • Dresden • Deutschland
 

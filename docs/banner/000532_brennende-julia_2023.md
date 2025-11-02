@@ -22,7 +22,7 @@ slug: "brennende-julia"
 href: "banner/000532_brennende-julia_2023.md"
 name: "Brennende Julia"
 ---
-# Brennende Julia
+# 000532.Brennende Julia
 
 *2023* • Oranienburg • Deutschland
 

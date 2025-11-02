@@ -22,7 +22,7 @@ slug: "world-blood-donor-day-2022-oranienburg"
 href: "banner/000457_world-blood-donor-day-2022-oranienburg_2022.md"
 name: "World Blood Donor Day 2022 - Oranienburg"
 ---
-# World Blood Donor Day 2022 - Oranienburg
+# 000457.World Blood Donor Day 2022 - Oranienburg
 
 *2022* • Oranienburg • Deutschland
 

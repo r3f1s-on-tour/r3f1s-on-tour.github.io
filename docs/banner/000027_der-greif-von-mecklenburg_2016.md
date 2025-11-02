@@ -22,7 +22,7 @@ slug: "der-greif-von-mecklenburg"
 href: "banner/000027_der-greif-von-mecklenburg_2016.md"
 name: "Der Greif von Mecklenburg"
 ---
-# Der Greif von Mecklenburg
+# 000027.Der Greif von Mecklenburg
 
 *2016* • Katzow • Deutschland
 

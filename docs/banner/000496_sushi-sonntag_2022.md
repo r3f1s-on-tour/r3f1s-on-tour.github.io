@@ -22,7 +22,7 @@ slug: "sushi-sonntag"
 href: "banner/000496_sushi-sonntag_2022.md"
 name: "Sushi Sonntag"
 ---
-# Sushi Sonntag
+# 000496.Sushi Sonntag
 
 *2022* • Köln • Deutschland
 

@@ -22,7 +22,7 @@ slug: "xmas-toast-in-oranienburg"
 href: "banner/000342_xmas-toast-in-oranienburg_2021.md"
 name: "XMas Toast in Oranienburg"
 ---
-# XMas Toast in Oranienburg
+# 000342.XMas Toast in Oranienburg
 
 *2021* • Oranienburg • Deutschland
 

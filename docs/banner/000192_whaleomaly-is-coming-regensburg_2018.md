@@ -22,7 +22,7 @@ slug: "whaleomaly-is-coming-regensburg"
 href: "banner/000192_whaleomaly-is-coming-regensburg_2018.md"
 name: "Whaleomaly is Coming Regensburg"
 ---
-# Whaleomaly is Coming Regensburg
+# 000192.Whaleomaly is Coming Regensburg
 
 *2018* • Regensburg • Deutschland
 

@@ -22,7 +22,7 @@ slug: "tier-freizeit-und-saurierpark-germendorf"
 href: "banner/000298_tier-freizeit-und-saurierpark-germendorf_2021.md"
 name: "Tier-, Freizeit- und Saurierpark Germendorf"
 ---
-# Tier-, Freizeit- und Saurierpark Germendorf
+# 000298.Tier-, Freizeit- und Saurierpark Germendorf
 
 *2021* • Oranienburg • Deutschland
 

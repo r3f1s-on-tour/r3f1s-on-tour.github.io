@@ -22,7 +22,7 @@ slug: "middle-earth-brews"
 href: "banner/000295_middle-earth-brews_2020.md"
 name: "Middle Earth Brews"
 ---
-# Middle Earth Brews
+# 000295.Middle Earth Brews
 
 *2020* • Berlin • Deutschland
 
