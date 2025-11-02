@@ -48,7 +48,7 @@ name: "Łowicz-Muster Tour in Szczecin"
 - **Distance (km):** 1.30
 - **Missions in banner:** 6
 - **Total missions completed:** 13.506
-
+- **This is my banner no.:** 619
 
 
 

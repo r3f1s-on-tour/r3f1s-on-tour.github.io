@@ -34,7 +34,7 @@ name: "Playing Frogs NB"
 - **Distance (km):** 6.96
 - **Missions in banner:** 24
 - **Total missions completed:** 13.362
-
+- **This is my banner no.:** 610
 
 
 

@@ -34,7 +34,7 @@ name: "MD Regensburg"
 - **Distance (km):** 29.30
 - **Missions in banner:** 24
 - **Total missions completed:** 2232
-
+- **This is my banner no.:** 86
 - **Mission Day:** Yes
 
 

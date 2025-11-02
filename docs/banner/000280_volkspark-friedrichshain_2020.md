@@ -34,7 +34,7 @@ name: "Volkspark Friedrichshain"
 - **Distance (km):** 4.25
 - **Missions in banner:** 12
 - **Total missions completed:** 6492
-
+- **This is my banner no.:** 280
 
 
 

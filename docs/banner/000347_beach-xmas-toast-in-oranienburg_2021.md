@@ -34,7 +34,7 @@ name: "Beach XMas Toast in Oranienburg"
 - **Distance (km):** 1.64
 - **Missions in banner:** 6
 - **Total missions completed:** 7806
-
+- **This is my banner no.:** 347
 
 
 

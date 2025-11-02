@@ -34,7 +34,7 @@ name: "Catwalk Flummi"
 - **Distance (km):** 5.00
 - **Missions in banner:** 18
 - **Total missions completed:** 8.592
-
+- **This is my banner no.:** 401
 
 
 

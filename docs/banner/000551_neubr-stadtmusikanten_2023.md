@@ -34,7 +34,7 @@ name: "Neubr. Stadtmusikanten"
 - **Distance (km):** 12.50
 - **Missions in banner:** 72
 - **Total missions completed:** 12.252
-
+- **This is my banner no.:** 551
 
 
 

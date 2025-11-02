@@ -34,7 +34,7 @@ name: "Second Sunday - Strasburg"
 - **Distance (km):** 3.17
 - **Missions in banner:** 6
 - **Total missions completed:** 7992
-
+- **This is my banner no.:** 361
 
 
 

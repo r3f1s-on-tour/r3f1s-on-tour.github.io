@@ -34,7 +34,7 @@ name: "Blaue Nacht Nord"
 
 - **Missions in banner:** 36
 - **Total missions completed:** 4020
-
+- **This is my banner no.:** 165
 
 
 

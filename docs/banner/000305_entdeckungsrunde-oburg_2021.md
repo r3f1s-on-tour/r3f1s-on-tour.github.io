@@ -34,7 +34,7 @@ name: "Entdeckungsrunde OBurg"
 - **Distance (km):** 1.70
 - **Missions in banner:** 6
 - **Total missions completed:** 7110
-
+- **This is my banner no.:** 305
 
 
 

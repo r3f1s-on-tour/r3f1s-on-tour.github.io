@@ -34,7 +34,7 @@ name: "Whaleomaly is Coming [Eching]"
 
 - **Missions in banner:** 6
 - **Total missions completed:** 4098
-
+- **This is my banner no.:** 168
 
 
 

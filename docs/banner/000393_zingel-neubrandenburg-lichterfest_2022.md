@@ -34,7 +34,7 @@ name: "Zingel Neubrandenburg Lichterfest"
 - **Distance (km):** 8.22
 - **Missions in banner:** 30
 - **Total missions completed:** 8.490
-
+- **This is my banner no.:** 393
 
 
 

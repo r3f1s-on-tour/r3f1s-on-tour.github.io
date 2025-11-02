@@ -34,7 +34,7 @@ name: "Catpool (Rote Nürnberger Katze)"
 
 - **Missions in banner:** 36
 - **Total missions completed:** 4092
-
+- **This is my banner no.:** 167
 
 
 

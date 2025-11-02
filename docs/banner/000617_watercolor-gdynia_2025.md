@@ -34,7 +34,7 @@ name: "Watercolor Gdynia"
 - **Distance (km):** 5.80
 - **Missions in banner:** 18
 - **Total missions completed:** 13.488
-
+- **This is my banner no.:** 617
 
 
 

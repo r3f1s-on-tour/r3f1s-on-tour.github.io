@@ -34,7 +34,7 @@ name: "DARK FROG RISES"
 - **Distance (km):** 6.81
 - **Missions in banner:** 18
 - **Total missions completed:** 13.044
-
+- **This is my banner no.:** 588
 
 
 

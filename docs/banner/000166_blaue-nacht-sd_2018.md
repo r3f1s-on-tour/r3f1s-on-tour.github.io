@@ -34,7 +34,7 @@ name: "Blaue Nacht Süd"
 
 - **Missions in banner:** 36
 - **Total missions completed:** 4056
-
+- **This is my banner no.:** 166
 
 
 

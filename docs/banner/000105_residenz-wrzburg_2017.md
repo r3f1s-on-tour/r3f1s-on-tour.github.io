@@ -34,7 +34,7 @@ name: "Residenz Würzburg"
 - **Distance (km):** 5.92
 - **Missions in banner:** 18
 - **Total missions completed:** 2682
-
+- **This is my banner no.:** 105
 
 
 

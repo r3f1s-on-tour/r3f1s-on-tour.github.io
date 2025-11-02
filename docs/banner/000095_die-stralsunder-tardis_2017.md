@@ -34,7 +34,7 @@ name: "Die Stralsunder Tardis"
 - **Distance (km):** 18.00
 - **Missions in banner:** 24
 - **Total missions completed:** 2454
-
+- **This is my banner no.:** 95
 
 
 

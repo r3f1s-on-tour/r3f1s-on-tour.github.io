@@ -34,7 +34,7 @@ name: "RetroGaming - Tetris"
 - **Distance (km):** 3.57
 - **Missions in banner:** 6
 - **Total missions completed:** 8.748
-
+- **This is my banner no.:** 419
 
 
 

@@ -34,7 +34,7 @@ name: "MissionDay Hamburg"
 - **Distance (km):** 71.95
 - **Missions in banner:** 12
 - **Total missions completed:** 330
-
+- **This is my banner no.:** 18
 - **Mission Day:** Yes
 
 

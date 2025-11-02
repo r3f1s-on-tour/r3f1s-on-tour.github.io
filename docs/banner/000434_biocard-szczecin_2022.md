@@ -34,7 +34,7 @@ name: "Biocard Szczecin"
 - **Distance (km):** 18.62
 - **Missions in banner:** 48
 - **Total missions completed:** 9.072
-
+- **This is my banner no.:** 434
 
 
 

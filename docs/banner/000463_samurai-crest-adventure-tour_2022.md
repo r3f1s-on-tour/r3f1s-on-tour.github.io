@@ -34,7 +34,7 @@ name: "Samurai Crest Adventure Tour"
 - **Distance (km):** 277.36
 - **Missions in banner:** 642
 - **Total missions completed:** 10.200
-
+- **This is my banner no.:** 463
 
 
 

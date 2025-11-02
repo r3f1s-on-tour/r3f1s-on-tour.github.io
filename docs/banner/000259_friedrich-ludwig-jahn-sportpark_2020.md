@@ -34,7 +34,7 @@ name: "Friedrich-Ludwig-Jahn-Sportpark"
 - **Distance (km):** 8.10
 - **Missions in banner:** 18
 - **Total missions completed:** 6210
-
+- **This is my banner no.:** 259
 
 
 

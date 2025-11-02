@@ -34,7 +34,7 @@ name: "Bats in Oranienburg"
 - **Distance (km):** 1.26
 - **Missions in banner:** 6
 - **Total missions completed:** 10.512
-
+- **This is my banner no.:** 489
 
 
 

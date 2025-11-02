@@ -34,7 +34,7 @@ name: "Valentintoast 1"
 - **Distance (km):** 1.60
 - **Missions in banner:** 6
 - **Total missions completed:** 8.502
-
+- **This is my banner no.:** 395
 
 
 

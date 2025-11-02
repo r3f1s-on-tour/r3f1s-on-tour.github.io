@@ -34,7 +34,7 @@ name: "Berchinger Stadtmauer"
 - **Distance (km):** 7.46
 - **Missions in banner:** 24
 - **Total missions completed:** 1404
-
+- **This is my banner no.:** 63
 
 
 

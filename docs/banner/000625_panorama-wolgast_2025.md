@@ -34,7 +34,7 @@ name: "Panorama  Wolgast"
 - **Distance (km):** 2.09
 - **Missions in banner:** 6
 - **Total missions completed:** 13596
-
+- **This is my banner no.:** 625
 
 
 

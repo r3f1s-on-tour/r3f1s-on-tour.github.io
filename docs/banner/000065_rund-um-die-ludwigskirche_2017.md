@@ -34,7 +34,7 @@ name: "Rund um die Ludwigskirche"
 - **Distance (km):** 9.30
 - **Missions in banner:** 24
 - **Total missions completed:** 1488
-
+- **This is my banner no.:** 65
 
 
 

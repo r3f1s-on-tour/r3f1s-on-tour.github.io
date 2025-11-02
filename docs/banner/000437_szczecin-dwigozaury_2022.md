@@ -34,7 +34,7 @@ name: "Szczecin Dźwigozaury"
 - **Distance (km):** 4.64
 - **Missions in banner:** 18
 - **Total missions completed:** 9.114
-
+- **This is my banner no.:** 437
 
 
 

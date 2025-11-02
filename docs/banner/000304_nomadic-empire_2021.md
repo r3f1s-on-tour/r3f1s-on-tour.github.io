@@ -34,7 +34,7 @@ name: "Nomadic Empire"
 - **Distance (km):** 9.70
 - **Missions in banner:** 30
 - **Total missions completed:** 7104
-
+- **This is my banner no.:** 304
 
 
 

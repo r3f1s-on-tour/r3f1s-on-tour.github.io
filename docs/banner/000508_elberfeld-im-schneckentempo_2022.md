@@ -34,7 +34,7 @@ name: "Elberfeld im Schneckentempo"
 - **Distance (km):** 2.83
 - **Missions in banner:** 12
 - **Total missions completed:** 10.836
-
+- **This is my banner no.:** 508
 
 
 

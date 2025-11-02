@@ -34,7 +34,7 @@ name: "Chagall Window blue"
 - **Distance (km):** 1.74
 - **Missions in banner:** 6
 - **Total missions completed:** 1350
-
+- **This is my banner no.:** 60
 
 
 

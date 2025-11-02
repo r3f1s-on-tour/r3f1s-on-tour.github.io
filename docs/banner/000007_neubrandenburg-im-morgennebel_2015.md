@@ -34,7 +34,7 @@ name: "Neubrandenburg im Morgennebel"
 - **Distance (km):** 35.29
 - **Missions in banner:** 30
 - **Total missions completed:** 174
-
+- **This is my banner no.:** 7
 
 
 

@@ -34,7 +34,7 @@ name: "Cassandra Mission Day Linz 2018"
 - **Distance (km):** 21.33
 - **Missions in banner:** 6
 - **Total missions completed:** 4776
-
+- **This is my banner no.:** 204
 - **Mission Day:** Yes
 
 

@@ -34,7 +34,7 @@ name: "Pasinger Stadtwappen"
 - **Distance (km):** 13.85
 - **Missions in banner:** 24
 - **Total missions completed:** 1224
-
+- **This is my banner no.:** 53
 
 
 

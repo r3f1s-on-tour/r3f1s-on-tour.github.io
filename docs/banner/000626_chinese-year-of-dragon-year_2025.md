@@ -34,7 +34,7 @@ name: "Chinese Year of Dragon Year"
 - **Distance (km):** 8.10
 - **Missions in banner:** 18
 - **Total missions completed:** 13614
-
+- **This is my banner no.:** 626
 
 
 

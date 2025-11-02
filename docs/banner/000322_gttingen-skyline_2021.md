@@ -34,7 +34,7 @@ name: "Göttingen Skyline"
 - **Distance (km):** 2.59
 - **Missions in banner:** 6
 - **Total missions completed:** 7458
-
+- **This is my banner no.:** 322
 
 
 

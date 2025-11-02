@@ -34,7 +34,7 @@ name: "Deifel in Strasburg"
 - **Distance (km):** 2.00
 - **Missions in banner:** 6
 - **Total missions completed:** 10.536
-
+- **This is my banner no.:** 491
 
 
 

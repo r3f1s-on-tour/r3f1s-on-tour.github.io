@@ -34,7 +34,7 @@ name: "Sternbilder"
 - **Distance (km):** 3.47
 - **Missions in banner:** 12
 - **Total missions completed:** 8220
-
+- **This is my banner no.:** 377
 
 
 

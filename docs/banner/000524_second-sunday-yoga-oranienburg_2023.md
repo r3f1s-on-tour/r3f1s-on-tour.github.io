@@ -34,7 +34,7 @@ name: "Second Sunday Yoga Oranienburg"
 - **Distance (km):** 1.29
 - **Missions in banner:** 6
 - **Total missions completed:** 11.082
-
+- **This is my banner no.:** 524
 
 
 

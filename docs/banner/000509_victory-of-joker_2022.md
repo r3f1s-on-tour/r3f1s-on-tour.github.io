@@ -34,7 +34,7 @@ name: "Victory of Joker"
 - **Distance (km):** 6.08
 - **Missions in banner:** 24
 - **Total missions completed:** 10.860
-
+- **This is my banner no.:** 509
 
 
 

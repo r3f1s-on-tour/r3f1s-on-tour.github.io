@@ -34,7 +34,7 @@ name: "Domberg-Mosaik"
 - **Distance (km):** 8.44
 - **Missions in banner:** 18
 - **Total missions completed:** 2040
-
+- **This is my banner no.:** 73
 
 
 

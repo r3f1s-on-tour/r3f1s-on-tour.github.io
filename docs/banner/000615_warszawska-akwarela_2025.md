@@ -34,7 +34,7 @@ name: "Warszawska akwarela"
 - **Distance (km):** 5.90
 - **Missions in banner:** 12
 - **Total missions completed:** 13.452
-
+- **This is my banner no.:** 615
 
 
 

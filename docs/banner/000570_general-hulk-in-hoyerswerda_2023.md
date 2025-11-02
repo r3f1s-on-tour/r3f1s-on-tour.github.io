@@ -34,7 +34,7 @@ name: "General Hulk in Hoyerswerda"
 - **Distance (km):** 15.40
 - **Missions in banner:** 36
 - **Total missions completed:** 12.600
-
+- **This is my banner no.:** 570
 
 
 

@@ -34,7 +34,7 @@ name: "Aquarelle Gdansk"
 - **Distance (km):** 2.80
 - **Missions in banner:** 12
 - **Total missions completed:** 13.500
-
+- **This is my banner no.:** 618
 
 
 

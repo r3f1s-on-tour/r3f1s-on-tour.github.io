@@ -34,7 +34,7 @@ name: "Augsburg im August"
 - **Distance (km):** 7.10
 - **Missions in banner:** 30
 - **Total missions completed:** 4644
-
+- **This is my banner no.:** 196
 
 
 

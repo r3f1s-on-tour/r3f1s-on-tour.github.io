@@ -34,7 +34,7 @@ name: "Raute Blau Weiß 1"
 - **Distance (km):** 1.70
 - **Missions in banner:** 6
 - **Total missions completed:** 5352
-
+- **This is my banner no.:** 223
 
 
 

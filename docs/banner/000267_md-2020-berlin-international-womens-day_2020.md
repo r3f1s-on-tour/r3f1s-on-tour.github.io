@@ -34,7 +34,7 @@ name: "MD 2020: Berlin,  International Women's Day"
 - **Distance (km):** 19.23
 - **Missions in banner:** 18
 - **Total missions completed:** 6330
-
+- **This is my banner no.:** 267
 - **Mission Day:** Yes
 
 

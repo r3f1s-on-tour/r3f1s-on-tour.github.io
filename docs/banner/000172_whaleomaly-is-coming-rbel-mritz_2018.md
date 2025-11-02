@@ -34,7 +34,7 @@ name: "Whaleomaly is Coming [Röbel Müritz]"
 
 - **Missions in banner:** 6
 - **Total missions completed:** 4146
-
+- **This is my banner no.:** 172
 
 
 

@@ -34,7 +34,7 @@ name: "Augsburg St Ulrich und Afra"
 - **Distance (km):** 15.00
 - **Missions in banner:** 60
 - **Total missions completed:** 3924
-
+- **This is my banner no.:** 162
 
 
 

@@ -34,7 +34,7 @@ name: "Gryf Szczeciński"
 - **Distance (km):** 12.44
 - **Missions in banner:** 42
 - **Total missions completed:** 420
-
+- **This is my banner no.:** 23
 
 
 

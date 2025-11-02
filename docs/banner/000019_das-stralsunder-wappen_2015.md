@@ -34,7 +34,7 @@ name: "Das Stralsunder Wappen"
 - **Distance (km):** 5.64
 - **Missions in banner:** 18
 - **Total missions completed:** 348
-
+- **This is my banner no.:** 19
 
 
 

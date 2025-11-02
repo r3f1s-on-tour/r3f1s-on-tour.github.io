@@ -34,7 +34,7 @@ name: "EXO5BERLIN East"
 - **Distance (km):** 12.65
 - **Missions in banner:** 48
 - **Total missions completed:** 7158
-
+- **This is my banner no.:** 306
 
 
 

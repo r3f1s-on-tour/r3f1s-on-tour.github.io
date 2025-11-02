@@ -34,7 +34,7 @@ name: "Catwalk Kosimo"
 - **Distance (km):** 6.86
 - **Missions in banner:** 18
 - **Total missions completed:** 9.552
-
+- **This is my banner no.:** 461
 
 
 

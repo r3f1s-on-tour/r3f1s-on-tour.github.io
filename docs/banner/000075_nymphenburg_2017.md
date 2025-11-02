@@ -34,7 +34,7 @@ name: "Nymphenburg"
 - **Distance (km):** 1.14
 - **Missions in banner:** 3
 - **Total missions completed:** 2046
-
+- **This is my banner no.:** 75
 
 
 

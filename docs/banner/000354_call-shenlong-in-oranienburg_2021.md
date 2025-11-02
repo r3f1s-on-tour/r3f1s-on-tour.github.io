@@ -34,7 +34,7 @@ name: "Call Shenlong in Oranienburg"
 - **Distance (km):** 6.05
 - **Missions in banner:** 18
 - **Total missions completed:** 7920
-
+- **This is my banner no.:** 354
 
 
 

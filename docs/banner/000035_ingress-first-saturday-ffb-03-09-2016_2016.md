@@ -34,7 +34,7 @@ name: "Ingress First Saturday FFB 03 09 2016"
 
 - **Missions in banner:** 6
 - **Total missions completed:** 690
-
+- **This is my banner no.:** 35
 
 
 

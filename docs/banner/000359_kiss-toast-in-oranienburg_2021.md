@@ -34,7 +34,7 @@ name: "Kiss Toast in Oranienburg"
 - **Distance (km):** 1.64
 - **Missions in banner:** 6
 - **Total missions completed:** 7968
-
+- **This is my banner no.:** 359
 
 
 

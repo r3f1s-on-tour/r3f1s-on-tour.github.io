@@ -34,7 +34,7 @@ name: "3 Schwerter Stil in Oranienburg"
 - **Distance (km):** 6.05
 - **Missions in banner:** 18
 - **Total missions completed:** 7824
-
+- **This is my banner no.:** 348
 
 
 

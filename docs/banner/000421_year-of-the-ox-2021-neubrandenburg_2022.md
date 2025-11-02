@@ -34,7 +34,7 @@ name: "Year of the Ox 2021 - Neubrandenburg"
 - **Distance (km):** 5.27
 - **Missions in banner:** 18
 - **Total missions completed:** 8.778
-
+- **This is my banner no.:** 421
 
 
 

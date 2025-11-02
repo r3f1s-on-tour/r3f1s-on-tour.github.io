@@ -34,7 +34,7 @@ name: "Marx is calling you - Berlin"
 - **Distance (km):** 2.10
 - **Missions in banner:** 6
 - **Total missions completed:** 13.416
-
+- **This is my banner no.:** 612
 
 
 

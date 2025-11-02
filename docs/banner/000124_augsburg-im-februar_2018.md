@@ -34,7 +34,7 @@ name: "Augsburg im Februar"
 - **Distance (km):** 7.10
 - **Missions in banner:** 30
 - **Total missions completed:** 3054
-
+- **This is my banner no.:** 124
 
 
 

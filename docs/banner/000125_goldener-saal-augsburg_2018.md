@@ -34,7 +34,7 @@ name: "Goldener Saal Augsburg"
 - **Distance (km):** 5.40
 - **Missions in banner:** 24
 - **Total missions completed:** 3078
-
+- **This is my banner no.:** 125
 
 
 

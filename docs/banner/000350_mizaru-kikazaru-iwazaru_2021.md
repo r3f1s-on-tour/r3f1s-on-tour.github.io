@@ -34,7 +34,7 @@ name: "Mizaru, Kikazaru, Iwazaru"
 - **Distance (km):** 6.02
 - **Missions in banner:** 18
 - **Total missions completed:** 7860
-
+- **This is my banner no.:** 350
 
 
 

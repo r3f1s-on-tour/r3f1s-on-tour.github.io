@@ -34,7 +34,7 @@ name: "Marx is calling you - Neubrandenburg"
 - **Distance (km):** 1.37
 - **Missions in banner:** 6
 - **Total missions completed:** 13.338
-
+- **This is my banner no.:** 609
 
 
 

@@ -34,7 +34,7 @@ name: "RetroGaming - Galaxian"
 - **Distance (km):** 3.57
 - **Missions in banner:** 6
 - **Total missions completed:** 8.712
-
+- **This is my banner no.:** 413
 
 
 

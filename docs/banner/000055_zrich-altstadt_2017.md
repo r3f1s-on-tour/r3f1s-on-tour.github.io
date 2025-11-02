@@ -34,7 +34,7 @@ name: "Zürich Altstadt"
 - **Distance (km):** 11.49
 - **Missions in banner:** 36
 - **Total missions completed:** 1272
-
+- **This is my banner no.:** 55
 
 
 

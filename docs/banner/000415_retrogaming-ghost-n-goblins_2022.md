@@ -34,7 +34,7 @@ name: "RetroGaming - Ghost n Goblins"
 - **Distance (km):** 3.57
 - **Missions in banner:** 6
 - **Total missions completed:** 8.724
-
+- **This is my banner no.:** 415
 
 
 

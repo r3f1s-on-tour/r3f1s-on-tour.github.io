@@ -34,7 +34,7 @@ name: "BC Regensburgp"
 - **Distance (km):** 6.41
 - **Missions in banner:** 24
 - **Total missions completed:** 2628
-
+- **This is my banner no.:** 102
 
 
 

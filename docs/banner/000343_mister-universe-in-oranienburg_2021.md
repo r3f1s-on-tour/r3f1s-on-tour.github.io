@@ -34,7 +34,7 @@ name: "Mister-Universe in Oranienburg"
 - **Distance (km):** 5.80
 - **Missions in banner:** 18
 - **Total missions completed:** 7758
-
+- **This is my banner no.:** 343
 
 
 

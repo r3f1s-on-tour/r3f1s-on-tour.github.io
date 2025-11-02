@@ -34,7 +34,7 @@ name: "Skulpturenpark Katzow"
 - **Distance (km):** 6.38
 - **Missions in banner:** 24
 - **Total missions completed:** 2742
-
+- **This is my banner no.:** 110
 
 
 

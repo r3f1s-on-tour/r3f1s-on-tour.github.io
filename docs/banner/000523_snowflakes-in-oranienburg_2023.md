@@ -34,7 +34,7 @@ name: "Snowflakes in Oranienburg"
 - **Distance (km):** 17.70
 - **Missions in banner:** 66
 - **Total missions completed:** 11.076
-
+- **This is my banner no.:** 523
 
 
 

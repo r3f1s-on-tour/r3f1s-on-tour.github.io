@@ -34,7 +34,7 @@ name: "Feuerschwert Tour durch Strasburg"
 - **Distance (km):** 2.79
 - **Missions in banner:** 6
 - **Total missions completed:** 8010
-
+- **This is my banner no.:** 364
 
 
 

@@ -34,7 +34,7 @@ name: "Zeiss-Großplanetarium"
 - **Distance (km):** 6.00
 - **Missions in banner:** 18
 - **Total missions completed:** 6276
-
+- **This is my banner no.:** 262
 
 
 

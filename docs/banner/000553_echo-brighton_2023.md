@@ -34,7 +34,7 @@ name: "Echo Brighton"
 - **Distance (km):** 3.51
 - **Missions in banner:** 6
 - **Total missions completed:** 12.264
-
+- **This is my banner no.:** 553
 
 
 

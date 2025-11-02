@@ -34,7 +34,7 @@ name: "#FS Rubik Cube"
 - **Distance (km):** 1.83
 - **Missions in banner:** 6
 - **Total missions completed:** 13.014
-
+- **This is my banner no.:** 586
 
 
 

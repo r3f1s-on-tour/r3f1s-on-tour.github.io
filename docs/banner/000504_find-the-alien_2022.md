@@ -34,7 +34,7 @@ name: "Find the Alien"
 - **Distance (km):** 5.54
 - **Missions in banner:** 24
 - **Total missions completed:** 10.776
-
+- **This is my banner no.:** 504
 
 
 

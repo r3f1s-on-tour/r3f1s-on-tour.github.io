@@ -34,7 +34,7 @@ name: "Tauchgondel Zinnowitz"
 - **Distance (km):** 4.91
 - **Missions in banner:** 12
 - **Total missions completed:** 13590
-
+- **This is my banner no.:** 624
 
 
 

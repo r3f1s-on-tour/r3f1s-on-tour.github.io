@@ -34,7 +34,7 @@ name: "A Echo XM Anomaly Strasburg UM"
 - **Distance (km):** 2.06
 - **Missions in banner:** 6
 - **Total missions completed:** 12.432
-
+- **This is my banner no.:** 561
 
 
 

@@ -34,7 +34,7 @@ name: "An der Paulskirche"
 
 - **Missions in banner:** 36
 - **Total missions completed:** 3216
-
+- **This is my banner no.:** 132
 
 
 

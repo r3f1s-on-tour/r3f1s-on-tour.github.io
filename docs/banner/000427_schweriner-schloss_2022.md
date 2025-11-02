@@ -34,7 +34,7 @@ name: "Schweriner Schloss"
 - **Distance (km):** 18.13
 - **Missions in banner:** 30
 - **Total missions completed:** 8.904
-
+- **This is my banner no.:** 427
 
 
 

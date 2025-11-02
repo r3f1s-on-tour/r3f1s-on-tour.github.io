@@ -34,7 +34,7 @@ name: "XMas Otter in Strasburg"
 - **Distance (km):** 2.73
 - **Missions in banner:** 6
 - **Total missions completed:** 8166
-
+- **This is my banner no.:** 373
 
 
 

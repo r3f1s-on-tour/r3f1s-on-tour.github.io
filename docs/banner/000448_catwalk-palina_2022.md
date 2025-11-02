@@ -34,7 +34,7 @@ name: "Catwalk Palina"
 - **Distance (km):** 8.00
 - **Missions in banner:** 18
 - **Total missions completed:** 9.282
-
+- **This is my banner no.:** 448
 
 
 

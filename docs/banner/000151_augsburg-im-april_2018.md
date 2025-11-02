@@ -34,7 +34,7 @@ name: "Augsburg im April"
 
 - **Missions in banner:** 30
 - **Total missions completed:** 3690
-
+- **This is my banner no.:** 151
 
 
 

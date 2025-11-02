@@ -34,7 +34,7 @@ name: "Apfelschnitt"
 - **Distance (km):** 19.40
 - **Missions in banner:** 72
 - **Total missions completed:** 11.220
-
+- **This is my banner no.:** 527
 
 
 

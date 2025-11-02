@@ -34,7 +34,7 @@ name: "Mission Day Nürnberg"
 - **Distance (km):** 31.10
 - **Missions in banner:** 12
 - **Total missions completed:** 684
-
+- **This is my banner no.:** 34
 
 
 

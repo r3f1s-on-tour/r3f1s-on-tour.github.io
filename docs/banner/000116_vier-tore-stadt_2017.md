@@ -34,7 +34,7 @@ name: "Vier-Tore-Stadt"
 - **Distance (km):** 9.40
 - **Missions in banner:** 18
 - **Total missions completed:** 2844
-
+- **This is my banner no.:** 116
 
 
 

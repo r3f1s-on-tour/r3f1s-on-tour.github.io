@@ -34,7 +34,7 @@ name: "Second Sunday Januar 22 in Oranienburg"
 - **Distance (km):** 2.13
 - **Missions in banner:** 6
 - **Total missions completed:** 8304
-
+- **This is my banner no.:** 384
 
 
 

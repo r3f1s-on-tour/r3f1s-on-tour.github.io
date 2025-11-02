@@ -34,7 +34,7 @@ name: "Weißenfels Stadt an der Saale"
 - **Distance (km):** 4.70
 - **Missions in banner:** 18
 - **Total missions completed:** 2880
-
+- **This is my banner no.:** 118
 
 
 

@@ -34,7 +34,7 @@ name: "Hack the planet - Strasburg"
 - **Distance (km):** 14.08
 - **Missions in banner:** 18
 - **Total missions completed:** 8256
-
+- **This is my banner no.:** 379
 
 
 
