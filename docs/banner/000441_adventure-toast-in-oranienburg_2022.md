@@ -1,0 +1,52 @@
+---
+nummer: "441"
+startLatitude: "52,756192"
+startLongitude: "13,243981"
+titel: "Adventure Toast in Oranienburg"
+picture: ""
+region: "Oranienburg"
+country: "Deutschland"
+completed: "9.156"
+missions: "24"
+date: "2022"
+bg-link: ""
+onyx: "0"
+description: "Starte in der Bernauer Straße eine Reise durch die Stadt Oranienburg und hole Adventure Toasts ins Profil"
+lengthKMeters: "8,57"
+umap: ""
+missionDay: ""
+notice: ""
+Trips: ""
+title: "Adventure Toast in Oranienburg"
+slug: "adventure-toast-in-oranienburg"
+href: "banner/000441_adventure-toast-in-oranienburg_2022.md"
+name: "Adventure Toast in Oranienburg"
+---
+# Adventure Toast in Oranienburg
+
+*2022* • Oranienburg • Deutschland
+
+
+
+
+
+## Details
+- **Distance (km):** 8.57
+- **Missions in banner:** 24
+- **Total missions completed:** 9.156
+- **This is my banner no.:** 441
+
+
+
+## Description
+Starte in der Bernauer Straße eine Reise durch die Stadt Oranienburg und hole Adventure Toasts ins Profil
+
+
+
+
+> File: 
+```
+• 000441_adventure-toast-in-oranienburg_2022.md
+• #000441 
+• Slug: `adventure-toast-in-oranienburg
+```

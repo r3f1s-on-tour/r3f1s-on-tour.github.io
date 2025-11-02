@@ -1,0 +1,58 @@
+---
+nummer: "294"
+startLatitude: "53.559027"
+startLongitude: "13.265403"
+titel: "Neubrandenburg"
+picture: "https://api.bannergress.com/bnrs/pictures/d85936994fac2c3511a39ba11e6bdcde"
+region: "Neubrandenburg"
+country: "Deutschland"
+completed: "6822"
+missions: "24"
+date: "2020"
+bg-link: "https://bannergress.com/banner/neubrandenburg-284f"
+onyx: "0"
+description: "1170\nFürst Kasimir von Pommern schenkt dem Havelberger Domstift einen Landstrich am Tollensesee. Der Ort, an dem einmal das wunderschöne Neubrandenburg entstehen wird."
+lengthKMeters: "7,10"
+umap: ""
+missionDay: ""
+notice: ""
+Trips: ""
+title: "Neubrandenburg"
+slug: "neubrandenburg"
+href: "banner/000294_neubrandenburg_2020.md"
+name: "Neubrandenburg"
+---
+# Neubrandenburg
+
+*2020* • Neubrandenburg • Deutschland
+
+![Neubrandenburg](https://api.bannergress.com/bnrs/pictures/d85936994fac2c3511a39ba11e6bdcde)
+
+
+
+## Details
+- **Distance (km):** 7.10
+- **Missions in banner:** 24
+- **Total missions completed:** 6822
+- **This is my banner no.:** 294
+
+
+
+## Description
+1170
+Fürst Kasimir von Pommern schenkt dem Havelberger Domstift einen Landstrich am Tollensesee. Der Ort, an dem einmal das wunderschöne Neubrandenburg entstehen wird.
+
+
+
+## Links
+<a href="https://bannergress.com/banner/neubrandenburg-284f" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#3c8b3c;color:#fff;text-decoration:none;border-radius:6px;">🔗 Bannergress</a>
+
+
+
+
+> File: 
+```
+• 000294_neubrandenburg_2020.md
+• #000294 
+• Slug: `neubrandenburg
+```

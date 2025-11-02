@@ -1,0 +1,49 @@
+---
+nummer: "171"
+startLatitude: "52.514424"
+startLongitude: "13.474693"
+titel: "Friedrichshain Nord"
+picture: ""
+region: "Berlin"
+country: "Deutschland"
+completed: "4122"
+missions: "18"
+date: "2018"
+bg-link: ""
+onyx: "0"
+description: ""
+lengthKMeters: ""
+umap: ""
+missionDay: ""
+notice: ""
+Trips: ""
+title: "Friedrichshain Nord"
+slug: "friedrichshain-nord"
+href: "banner/000171_friedrichshain-nord_2018.md"
+name: "Friedrichshain Nord"
+---
+# Friedrichshain Nord
+
+*2018* • Berlin • Deutschland
+
+
+
+
+
+## Details
+
+- **Missions in banner:** 18
+- **Total missions completed:** 4122
+- **This is my banner no.:** 171
+
+
+
+
+
+
+> File: 
+```
+• 000171_friedrichshain-nord_2018.md
+• #000171 
+• Slug: `friedrichshain-nord
+```
