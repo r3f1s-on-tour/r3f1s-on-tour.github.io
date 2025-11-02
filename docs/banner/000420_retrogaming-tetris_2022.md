@@ -1,0 +1,52 @@
+---
+nummer: "420"
+startLatitude: "53,50675"
+startLongitude: "13,745004"
+titel: "RetroGaming - Tetris"
+picture: ""
+region: "Strasburg (Uckermark)"
+country: "Deutschland"
+completed: "8.748"
+missions: "6"
+date: "2022"
+bg-link: ""
+onyx: "0"
+description: "Starte am Markt eine Entdeckungsreise durch die Stadt Strasburg Uckermark und entdecke dabei historische Orte der Stadt"
+lengthKMeters: "3,57"
+umap: ""
+missionDay: ""
+notice: ""
+Trips: ""
+title: "RetroGaming - Tetris"
+slug: "retrogaming-tetris"
+href: "banner/000420_retrogaming-tetris_2022.md"
+name: "RetroGaming - Tetris"
+---
+# RetroGaming - Tetris
+
+*2022* • Strasburg (Uckermark) • Deutschland
+
+
+
+
+
+## Details
+- **Distance (km):** 3.57
+- **Missions in banner:** 6
+- **Total missions completed:** 8.748
+- **This is my banner no.:** 420
+
+
+
+## Description
+Starte am Markt eine Entdeckungsreise durch die Stadt Strasburg Uckermark und entdecke dabei historische Orte der Stadt
+
+
+
+
+> File: 
+```
+• 000420_retrogaming-tetris_2022.md
+• #000420 
+• Slug: `retrogaming-tetris
+```
