@@ -3,7 +3,7 @@ nummer: "185"
 startLatitude: "47.85047"
 startLongitude: "12.119574"
 titel: "Rosenheimer Tiger"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/96eb7bf3f286806a4d2d32a7e5b9220d"
 region: "Rosenheim"
 country: "Deutschland"
 completed: "4410"
@@ -26,7 +26,7 @@ name: "Rosenheimer Tiger"
 
 *2018* • Rosenheim • Deutschland
 
-
+![Rosenheimer Tiger](https://api.bannergress.com/bnrs/pictures/96eb7bf3f286806a4d2d32a7e5b9220d)
 
 
 

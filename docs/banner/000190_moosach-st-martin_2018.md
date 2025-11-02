@@ -3,7 +3,7 @@ nummer: "190"
 startLatitude: "48.179616"
 startLongitude: "11.505557"
 titel: "Moosach St. Martin"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/608fc5983691f896ad742086adeb2692"
 region: "München"
 country: "Deutschland"
 completed: "4506"
@@ -26,7 +26,7 @@ name: "Moosach St. Martin"
 
 *2018* • München • Deutschland
 
-
+![Moosach St. Martin](https://api.bannergress.com/bnrs/pictures/608fc5983691f896ad742086adeb2692)
 
 
 

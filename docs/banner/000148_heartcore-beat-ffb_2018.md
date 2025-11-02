@@ -3,7 +3,7 @@ nummer: "148"
 startLatitude: "48.171765"
 startLongitude: "11.26258"
 titel: "HeartCore Beat FFB"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/e34e90f9295e9bf98749ce5e5512cdf6"
 region: "Fürstenfeldbruck"
 country: "Deutschland"
 completed: "3582"
@@ -26,7 +26,7 @@ name: "HeartCore Beat FFB"
 
 *2018* • Fürstenfeldbruck • Deutschland
 
-
+![HeartCore Beat FFB](https://api.bannergress.com/bnrs/pictures/e34e90f9295e9bf98749ce5e5512cdf6)
 
 
 

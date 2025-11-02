@@ -3,7 +3,7 @@ nummer: "189"
 startLatitude: "48.13722"
 startLongitude: "11.575486"
 titel: "Marienplatz SPIDERWEB"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/b3be7b6562d2666e50a7c582b0eddf74"
 region: "München"
 country: "Deutschland"
 completed: "4470"
@@ -26,7 +26,7 @@ name: "Marienplatz SPIDERWEB"
 
 *2018* • München • Deutschland
 
-
+![Marienplatz SPIDERWEB](https://api.bannergress.com/bnrs/pictures/b3be7b6562d2666e50a7c582b0eddf74)
 
 
 

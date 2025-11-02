@@ -3,7 +3,7 @@ nummer: "192"
 startLatitude: "49.013222"
 startLongitude: "12.100138"
 titel: "Whaleomaly is Coming Regensburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/9e95e77ae84b9483af6673c033c0e458"
 region: "Regensburg"
 country: "Deutschland"
 completed: "4572"
@@ -26,7 +26,7 @@ name: "Whaleomaly is Coming Regensburg"
 
 *2018* • Regensburg • Deutschland
 
-
+![Whaleomaly is Coming Regensburg](https://api.bannergress.com/bnrs/pictures/9e95e77ae84b9483af6673c033c0e458)
 
 
 

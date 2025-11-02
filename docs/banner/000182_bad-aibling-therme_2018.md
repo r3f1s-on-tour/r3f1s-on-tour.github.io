@@ -3,7 +3,7 @@ nummer: "182"
 startLatitude: "47.857743"
 startLongitude: "12.003043"
 titel: "Bad Aibling - Therme"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/aedc02bf9d1dc31734d1b84c74d54994"
 region: "Willing"
 country: "Deutschland"
 completed: "4380"
@@ -26,7 +26,7 @@ name: "Bad Aibling - Therme"
 
 *2018* • Willing • Deutschland
 
-
+![Bad Aibling - Therme](https://api.bannergress.com/bnrs/pictures/aedc02bf9d1dc31734d1b84c74d54994)
 
 
 

@@ -3,7 +3,7 @@ nummer: "184"
 startLatitude: "47.85047"
 startLongitude: "12.119574"
 titel: "Whaleomaly is Coming / [Rosenheim]"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/fef67aaf8e48e6e2d393408fd2199c1f"
 region: "Rosenheim"
 country: "Deutschland"
 completed: "4392"
@@ -26,7 +26,7 @@ name: "Whaleomaly is Coming / [Rosenheim]"
 
 *2018* • Rosenheim • Deutschland
 
-
+![Whaleomaly is Coming / [Rosenheim]](https://api.bannergress.com/bnrs/pictures/fef67aaf8e48e6e2d393408fd2199c1f)
 
 
 

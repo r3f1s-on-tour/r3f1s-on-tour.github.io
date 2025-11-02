@@ -3,7 +3,7 @@ nummer: "187"
 startLatitude: "47.862482"
 startLongitude: "12.009136"
 titel: "Aiblinger Wolf"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/4e1094bf72caf729f16454a0d5013ea4"
 region: "Bad Aibling"
 country: "Deutschland"
 completed: "4446"
@@ -26,7 +26,7 @@ name: "Aiblinger Wolf"
 
 *2018* • Bad Aibling • Deutschland
 
-
+![Aiblinger Wolf](https://api.bannergress.com/bnrs/pictures/4e1094bf72caf729f16454a0d5013ea4)
 
 
 

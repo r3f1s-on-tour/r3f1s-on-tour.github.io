@@ -3,7 +3,7 @@ nummer: "186"
 startLatitude: "47.852574"
 startLongitude: "12.143429"
 titel: "Das Auge am Inn"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/cb9e7ccfd47bf07fdda4b99d2288dfef"
 region: "Rosenheim"
 country: "Deutschland"
 completed: "4428"
@@ -26,7 +26,7 @@ name: "Das Auge am Inn"
 
 *2018* • Rosenheim • Deutschland
 
-
+![Das Auge am Inn](https://api.bannergress.com/bnrs/pictures/cb9e7ccfd47bf07fdda4b99d2288dfef)
 
 
 

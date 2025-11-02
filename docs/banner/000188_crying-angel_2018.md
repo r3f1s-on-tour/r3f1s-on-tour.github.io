@@ -3,7 +3,7 @@ nummer: "188"
 startLatitude: "48.153409"
 startLongitude: "11.571345"
 titel: "Crying Angel"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/ef8e1ffac5bde7952448a84b0310cb31"
 region: "München"
 country: "Deutschland"
 completed: "4458"
@@ -26,7 +26,7 @@ name: "Crying Angel"
 
 *2018* • München • Deutschland
 
-
+![Crying Angel](https://api.bannergress.com/bnrs/pictures/ef8e1ffac5bde7952448a84b0310cb31)
 
 
 

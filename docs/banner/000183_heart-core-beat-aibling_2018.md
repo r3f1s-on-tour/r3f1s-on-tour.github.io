@@ -3,7 +3,7 @@ nummer: "183"
 startLatitude: "47.862026"
 startLongitude: "12.004945"
 titel: "Heart Core Beat Aibling"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/b032ab9bf0c2ba65e12da0be20e47a32"
 region: "Bad Aibling"
 country: "Deutschland"
 completed: "4386"
@@ -26,7 +26,7 @@ name: "Heart Core Beat Aibling"
 
 *2018* • Bad Aibling • Deutschland
 
-
+![Heart Core Beat Aibling](https://api.bannergress.com/bnrs/pictures/b032ab9bf0c2ba65e12da0be20e47a32)
 
 
 
