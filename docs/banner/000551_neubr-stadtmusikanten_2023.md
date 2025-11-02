@@ -22,7 +22,7 @@ slug: "neubr-stadtmusikanten"
 href: "banner/000551_neubr-stadtmusikanten_2023.md"
 name: "Neubr. Stadtmusikanten"
 ---
-# 000551.Neubr. Stadtmusikanten
+# Neubr. Stadtmusikanten
 
 *2023* • Neubrandenburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Neubr. Stadtmusikanten"
 
 ## Details
 - **Distance (km):** 12.50
-
-
+- **Missions in banner:** 72
+- **Total missions completed:** 12.252
 
 
 
@@ -49,4 +49,9 @@ Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde die Sehens
 
 
 
-> File: `000551_neubr-stadtmusikanten_2023.md` • #000551 • Slug: `neubr-stadtmusikanten`
+> File: 
+```
+• 000551_neubr-stadtmusikanten_2023.md
+• #000551 
+• Slug: `neubr-stadtmusikanten
+```

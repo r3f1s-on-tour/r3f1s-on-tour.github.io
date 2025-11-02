@@ -22,7 +22,7 @@ slug: "szczeciska-akwarela"
 href: "banner/000432_szczeciska-akwarela_2022.md"
 name: "Szczecińska akwarela"
 ---
-# 000432.Szczecińska akwarela
+# Szczecińska akwarela
 
 *2022* • Szczecin • Polska
 
@@ -32,8 +32,8 @@ name: "Szczecińska akwarela"
 
 ## Details
 - **Distance (km):** 8.59
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 9.018
 
 
 
@@ -50,4 +50,9 @@ Start - Brama Portowa!
 
 
 
-> File: `000432_szczeciska-akwarela_2022.md` • #000432 • Slug: `szczeciska-akwarela`
+> File: 
+```
+• 000432_szczeciska-akwarela_2022.md
+• #000432 
+• Slug: `szczeciska-akwarela
+```

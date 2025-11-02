@@ -22,7 +22,7 @@ slug: "kloster-frstenfeld"
 href: "banner/000114_kloster-frstenfeld_2017.md"
 name: "Kloster Fürstenfeld"
 ---
-# 000114.Kloster Fürstenfeld
+# Kloster Fürstenfeld
 
 *2017* • Fürstenfeldbruck • Deutschland
 
@@ -32,8 +32,8 @@ name: "Kloster Fürstenfeld"
 
 ## Details
 - **Distance (km):** 8.19
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 2814
 
 
 
@@ -49,4 +49,9 @@ Das Kloster Fürstenfeld ist eine ehemalige Zisterzienserabtei in Fürstenfeldbr
 
 
 
-> File: `000114_kloster-frstenfeld_2017.md` • #000114 • Slug: `kloster-frstenfeld`
+> File: 
+```
+• 000114_kloster-frstenfeld_2017.md
+• #000114 
+• Slug: `kloster-frstenfeld
+```

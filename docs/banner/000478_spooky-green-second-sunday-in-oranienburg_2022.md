@@ -22,7 +22,7 @@ slug: "spooky-green-second-sunday-in-oranienburg"
 href: "banner/000478_spooky-green-second-sunday-in-oranienburg_2022.md"
 name: "Spooky Green Second Sunday in Oranienburg"
 ---
-# 000478.Spooky Green Second Sunday in Oranienburg
+# Spooky Green Second Sunday in Oranienburg
 
 *2022* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Spooky Green Second Sunday in Oranienburg"
 
 ## Details
 - **Distance (km):** 1.60
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 10.404
 
 
 
@@ -49,4 +49,9 @@ Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und end
 
 
 
-> File: `000478_spooky-green-second-sunday-in-oranienburg_2022.md` • #000478 • Slug: `spooky-green-second-sunday-in-oranienburg`
+> File: 
+```
+• 000478_spooky-green-second-sunday-in-oranienburg_2022.md
+• #000478 
+• Slug: `spooky-green-second-sunday-in-oranienburg
+```

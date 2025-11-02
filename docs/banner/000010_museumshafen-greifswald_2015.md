@@ -22,7 +22,7 @@ slug: "museumshafen-greifswald"
 href: "banner/000010_museumshafen-greifswald_2015.md"
 name: "Museumshafen Greifswald"
 ---
-# 000010.Museumshafen Greifswald
+# Museumshafen Greifswald
 
 *2015* • Greifswald • Deutschland
 
@@ -32,8 +32,8 @@ name: "Museumshafen Greifswald"
 
 ## Details
 - **Distance (km):** 5.93
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 216
 
 
 
@@ -49,4 +49,9 @@ Teil 1 der Tour "Museumshafen Greifswald"
 
 
 
-> File: `000010_museumshafen-greifswald_2015.md` • #000010 • Slug: `museumshafen-greifswald`
+> File: 
+```
+• 000010_museumshafen-greifswald_2015.md
+• #000010 
+• Slug: `museumshafen-greifswald
+```

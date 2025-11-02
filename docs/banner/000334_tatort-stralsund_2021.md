@@ -22,7 +22,7 @@ slug: "tatort-stralsund"
 href: "banner/000334_tatort-stralsund_2021.md"
 name: "Tatort Stralsund"
 ---
-# 000334.Tatort Stralsund
+# Tatort Stralsund
 
 *2021* • Stralsund • Deutschland
 
@@ -32,8 +32,8 @@ name: "Tatort Stralsund"
 
 ## Details
 - **Distance (km):** 6.10
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 7644
 
 
 
@@ -49,4 +49,9 @@ Wir starten am Tatort Brunnenaue.
 
 
 
-> File: `000334_tatort-stralsund_2021.md` • #000334 • Slug: `tatort-stralsund`
+> File: 
+```
+• 000334_tatort-stralsund_2021.md
+• #000334 
+• Slug: `tatort-stralsund
+```

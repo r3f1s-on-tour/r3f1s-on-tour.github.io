@@ -22,7 +22,7 @@ slug: "vendetta-in-oranienburg"
 href: "banner/000341_vendetta-in-oranienburg_2021.md"
 name: "Vendetta in Oranienburg"
 ---
-# 000341.Vendetta in Oranienburg
+# Vendetta in Oranienburg
 
 *2021* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Vendetta in Oranienburg"
 
 ## Details
 - **Distance (km):** 13.97
-
-
+- **Missions in banner:** 30
+- **Total missions completed:** 7734
 
 
 
@@ -49,4 +49,9 @@ Starte eine Vendetta in Oranienburg und mache ein Tour durch die Stadt. Die Tour
 
 
 
-> File: `000341_vendetta-in-oranienburg_2021.md` • #000341 • Slug: `vendetta-in-oranienburg`
+> File: 
+```
+• 000341_vendetta-in-oranienburg_2021.md
+• #000341 
+• Slug: `vendetta-in-oranienburg
+```

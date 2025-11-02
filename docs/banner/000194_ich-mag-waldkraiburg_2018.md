@@ -3,7 +3,7 @@ nummer: "194"
 startLatitude: "48.206246"
 startLongitude: "12.40235"
 titel: "Ich mag Waldkraiburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/365716ae2c8f7d5a2dce4e4ad15bdd2a"
 region: "Waldkraiburg"
 country: "Deutschland"
 completed: "4584"
@@ -22,18 +22,18 @@ slug: "ich-mag-waldkraiburg"
 href: "banner/000194_ich-mag-waldkraiburg_2018.md"
 name: "Ich mag Waldkraiburg"
 ---
-# 000194.Ich mag Waldkraiburg
+# Ich mag Waldkraiburg
 
 *2018* • Waldkraiburg • Deutschland
 
-
+![Ich mag Waldkraiburg](https://api.bannergress.com/bnrs/pictures/365716ae2c8f7d5a2dce4e4ad15bdd2a)
 
 
 
 ## Details
 - **Distance (km):** 4.01
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 4584
 
 
 
@@ -50,4 +50,9 @@ Mission 1: Vom Rathaus Richtung Stadtpark
 
 
 
-> File: `000194_ich-mag-waldkraiburg_2018.md` • #000194 • Slug: `ich-mag-waldkraiburg`
+> File: 
+```
+• 000194_ich-mag-waldkraiburg_2018.md
+• #000194 
+• Slug: `ich-mag-waldkraiburg
+```

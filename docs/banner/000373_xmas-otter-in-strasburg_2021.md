@@ -22,7 +22,7 @@ slug: "xmas-otter-in-strasburg"
 href: "banner/000373_xmas-otter-in-strasburg_2021.md"
 name: "XMas Otter in Strasburg"
 ---
-# 000373.XMas Otter in Strasburg
+# XMas Otter in Strasburg
 
 *2021* • Strasburg (Uckermark) • Deutschland
 
@@ -32,8 +32,8 @@ name: "XMas Otter in Strasburg"
 
 ## Details
 - **Distance (km):** 2.73
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 8166
 
 
 
@@ -44,4 +44,9 @@ Mache eine Entdeckungsrunde durch Strasburg und hole dir paar XMas Otter ins Pro
 
 
 
-> File: `000373_xmas-otter-in-strasburg_2021.md` • #000373 • Slug: `xmas-otter-in-strasburg`
+> File: 
+```
+• 000373_xmas-otter-in-strasburg_2021.md
+• #000373 
+• Slug: `xmas-otter-in-strasburg
+```

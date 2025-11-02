@@ -22,7 +22,7 @@ slug: "tour-de-cottbus"
 href: "banner/000567_tour-de-cottbus_2023.md"
 name: "Tour de Cottbus"
 ---
-# 000567.Tour de Cottbus
+# Tour de Cottbus
 
 *2023* • Cottbus - Chóśebuz • Deutschland
 
@@ -32,8 +32,8 @@ name: "Tour de Cottbus"
 
 ## Details
 - **Distance (km):** 16.66
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 12.552
 
 
 
@@ -49,4 +49,9 @@ Etappe 1 von 24 beginnt am Wahrzeichen von Cottbus und ist eine Runde um den  Sp
 
 
 
-> File: `000567_tour-de-cottbus_2023.md` • #000567 • Slug: `tour-de-cottbus`
+> File: 
+```
+• 000567_tour-de-cottbus_2023.md
+• #000567 
+• Slug: `tour-de-cottbus
+```

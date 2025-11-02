@@ -3,7 +3,7 @@ nummer: "238"
 startLatitude: "48.1373932"
 startLongitude: "11.5754485"
 titel: "Watercolor Munich"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/fe5c34f3b6060284e76584d63d375bc8"
 region: "München"
 country: "Deutschland"
 completed: "5694"
@@ -22,18 +22,18 @@ slug: "watercolor-munich"
 href: "banner/000238_watercolor-munich_2019.md"
 name: "Watercolor Munich"
 ---
-# 000238.Watercolor Munich
+# Watercolor Munich
 
 *2019* • München • Deutschland
 
-
+![Watercolor Munich](https://api.bannergress.com/bnrs/pictures/fe5c34f3b6060284e76584d63d375bc8)
 
 
 
 ## Details
 - **Distance (km):** 2.10
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 5694
 
 
 
@@ -49,4 +49,9 @@ Quick walk through Munich city. Start/End Marienplatz.
 
 
 
-> File: `000238_watercolor-munich_2019.md` • #000238 • Slug: `watercolor-munich`
+> File: 
+```
+• 000238_watercolor-munich_2019.md
+• #000238 
+• Slug: `watercolor-munich
+```

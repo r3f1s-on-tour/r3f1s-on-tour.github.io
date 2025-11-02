@@ -22,7 +22,7 @@ slug: "hp-banner-mission"
 href: "banner/000134_hp-banner-mission_2018.md"
 name: "HP Banner Mission"
 ---
-# 000134.HP Banner Mission
+# HP Banner Mission
 
 *2018* • Heppenheim • Deutschland
 
@@ -32,8 +32,8 @@ name: "HP Banner Mission"
 
 ## Details
 - **Distance (km):** 2.82
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 3252
 
 
 
@@ -49,4 +49,9 @@ Schön gemütliche Tour durch die Heppenheimer Fußgängerzone und Altstadt. Bei
 
 
 
-> File: `000134_hp-banner-mission_2018.md` • #000134 • Slug: `hp-banner-mission`
+> File: 
+```
+• 000134_hp-banner-mission_2018.md
+• #000134 
+• Slug: `hp-banner-mission
+```

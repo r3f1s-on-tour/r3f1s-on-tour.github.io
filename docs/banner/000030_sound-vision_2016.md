@@ -22,7 +22,7 @@ slug: "sound-vision"
 href: "banner/000030_sound-vision_2016.md"
 name: "Sound Vision"
 ---
-# 000030.Sound Vision
+# Sound Vision
 
 *2016* • Unterföhring • Deutschland
 
@@ -32,8 +32,8 @@ name: "Sound Vision"
 
 ## Details
 - **Distance (km):** 40.14
-
-
+- **Missions in banner:** 54
+- **Total missions completed:** 600
 
 
 
@@ -49,4 +49,9 @@ Your journey will take you through three beautiful towns of Bavaria. Please enjo
 
 
 
-> File: `000030_sound-vision_2016.md` • #000030 • Slug: `sound-vision`
+> File: 
+```
+• 000030_sound-vision_2016.md
+• #000030 
+• Slug: `sound-vision
+```

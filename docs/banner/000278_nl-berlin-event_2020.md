@@ -22,7 +22,7 @@ slug: "nl-berlin-event"
 href: "banner/000278_nl-berlin-event_2020.md"
 name: "NL - Berlin Event"
 ---
-# 000278.NL - Berlin Event
+# NL - Berlin Event
 
 *2020* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "NL - Berlin Event"
 
 ## Details
 - **Distance (km):** 1.57
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 6468
 
 
 
@@ -49,4 +49,9 @@ A short banner around the berlin NL location. Enjoy.
 
 
 
-> File: `000278_nl-berlin-event_2020.md` • #000278 • Slug: `nl-berlin-event`
+> File: 
+```
+• 000278_nl-berlin-event_2020.md
+• #000278 
+• Slug: `nl-berlin-event
+```

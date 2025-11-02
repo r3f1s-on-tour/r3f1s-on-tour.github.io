@@ -22,7 +22,7 @@ slug: "birkenwerder"
 href: "banner/000271_birkenwerder_2020.md"
 name: "Birkenwerder"
 ---
-# 000271.Birkenwerder
+# Birkenwerder
 
 *2020* • Birkenwerder • Deutschland
 
@@ -32,8 +32,8 @@ name: "Birkenwerder"
 
 ## Details
 - **Distance (km):** 2.33
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 6366
 
 
 
@@ -49,4 +49,9 @@ Eine kleine Runde durch Birkenwerder. Viel Spaß
 
 
 
-> File: `000271_birkenwerder_2020.md` • #000271 • Slug: `birkenwerder`
+> File: 
+```
+• 000271_birkenwerder_2020.md
+• #000271 
+• Slug: `birkenwerder
+```

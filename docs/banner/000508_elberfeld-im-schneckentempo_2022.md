@@ -22,7 +22,7 @@ slug: "elberfeld-im-schneckentempo"
 href: "banner/000508_elberfeld-im-schneckentempo_2022.md"
 name: "Elberfeld im Schneckentempo"
 ---
-# 000508.Elberfeld im Schneckentempo
+# Elberfeld im Schneckentempo
 
 *2022* • Wuppertal • Deutschland
 
@@ -32,8 +32,8 @@ name: "Elberfeld im Schneckentempo"
 
 ## Details
 - **Distance (km):** 2.83
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 10.836
 
 
 
@@ -49,4 +49,9 @@ Eine gemütliche Runde durch den Stadtbezirk Elberfeld der Stadt Wuppertal.
 
 
 
-> File: `000508_elberfeld-im-schneckentempo_2022.md` • #000508 • Slug: `elberfeld-im-schneckentempo`
+> File: 
+```
+• 000508_elberfeld-im-schneckentempo_2022.md
+• #000508 
+• Slug: `elberfeld-im-schneckentempo
+```

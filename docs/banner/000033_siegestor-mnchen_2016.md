@@ -22,7 +22,7 @@ slug: "siegestor-mnchen"
 href: "banner/000033_siegestor-mnchen_2016.md"
 name: "Siegestor München"
 ---
-# 000033.Siegestor München
+# Siegestor München
 
 *2016* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "Siegestor München"
 
 ## Details
 - **Distance (km):** 7.66
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 672
 
 
 
@@ -49,4 +49,9 @@ Das Siegestor wurde 1843 bis 1850 aus Kelheimer Kalkstein errichtet. Am 15. Okto
 
 
 
-> File: `000033_siegestor-mnchen_2016.md` • #000033 • Slug: `siegestor-mnchen`
+> File: 
+```
+• 000033_siegestor-mnchen_2016.md
+• #000033 
+• Slug: `siegestor-mnchen
+```

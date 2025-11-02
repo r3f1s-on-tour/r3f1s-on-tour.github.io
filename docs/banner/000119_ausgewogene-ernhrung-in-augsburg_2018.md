@@ -22,7 +22,7 @@ slug: "ausgewogene-ernhrung-in-augsburg"
 href: "banner/000119_ausgewogene-ernhrung-in-augsburg_2018.md"
 name: "Ausgewogene Ernährung in Augsburg"
 ---
-# 000119.Ausgewogene Ernährung in Augsburg
+# Ausgewogene Ernährung in Augsburg
 
 *2018* • Augsburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Ausgewogene Ernährung in Augsburg"
 
 ## Details
 - **Distance (km):** 5.10
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 2904
 
 
 
@@ -46,4 +46,9 @@ name: "Ausgewogene Ernährung in Augsburg"
 
 
 
-> File: `000119_ausgewogene-ernhrung-in-augsburg_2018.md` • #000119 • Slug: `ausgewogene-ernhrung-in-augsburg`
+> File: 
+```
+• 000119_ausgewogene-ernhrung-in-augsburg_2018.md
+• #000119 
+• Slug: `ausgewogene-ernhrung-in-augsburg
+```

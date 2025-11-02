@@ -22,7 +22,7 @@ slug: "catwalk-flummi"
 href: "banner/000401_catwalk-flummi_2022.md"
 name: "Catwalk Flummi"
 ---
-# 000401.Catwalk Flummi
+# Catwalk Flummi
 
 *2022* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Catwalk Flummi"
 
 ## Details
 - **Distance (km):** 5.00
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 8.592
 
 
 
@@ -49,4 +49,9 @@ Begleite Flummi auf einen Entdeckungsstreifzug vom S+U Lichtenberg nach Friedric
 
 
 
-> File: `000401_catwalk-flummi_2022.md` • #000401 • Slug: `catwalk-flummi`
+> File: 
+```
+• 000401_catwalk-flummi_2022.md
+• #000401 
+• Slug: `catwalk-flummi
+```

@@ -22,7 +22,7 @@ slug: "green-surfer-in-oranienburg"
 href: "banner/000535_green-surfer-in-oranienburg_2023.md"
 name: "Green Surfer  in Oranienburg"
 ---
-# 000535.Green Surfer  in Oranienburg
+# Green Surfer  in Oranienburg
 
 *2023* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Green Surfer  in Oranienburg"
 
 ## Details
 - **Distance (km):** 5.54
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 11.742
 
 
 
@@ -49,4 +49,9 @@ Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> File: `000535_green-surfer-in-oranienburg_2023.md` • #000535 • Slug: `green-surfer-in-oranienburg`
+> File: 
+```
+• 000535_green-surfer-in-oranienburg_2023.md
+• #000535 
+• Slug: `green-surfer-in-oranienburg
+```

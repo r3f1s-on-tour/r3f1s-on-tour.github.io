@@ -22,7 +22,7 @@ slug: "salzburg-domination-tour"
 href: "banner/000149_salzburg-domination-tour_2018.md"
 name: "Salzburg Domination Tour"
 ---
-# 000149.Salzburg Domination Tour
+# Salzburg Domination Tour
 
 *2018* • Salzburg • Österreich
 
@@ -32,8 +32,8 @@ name: "Salzburg Domination Tour"
 
 ## Details
 - **Distance (km):** 19.00
-
-
+- **Missions in banner:** 60
+- **Total missions completed:** 3642
 
 
 
@@ -46,4 +46,9 @@ name: "Salzburg Domination Tour"
 
 
 
-> File: `000149_salzburg-domination-tour_2018.md` • #000149 • Slug: `salzburg-domination-tour`
+> File: 
+```
+• 000149_salzburg-domination-tour_2018.md
+• #000149 
+• Slug: `salzburg-domination-tour
+```

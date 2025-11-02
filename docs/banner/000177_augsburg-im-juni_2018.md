@@ -22,7 +22,7 @@ slug: "augsburg-im-juni"
 href: "banner/000177_augsburg-im-juni_2018.md"
 name: "Augsburg im Juni"
 ---
-# 000177.Augsburg im Juni
+# Augsburg im Juni
 
 *2018* • Augsburg • Deutschland
 
@@ -32,6 +32,8 @@ name: "Augsburg im Juni"
 
 ## Details
 
+- **Missions in banner:** 30
+- **Total missions completed:** 4248
 
 
 
@@ -39,6 +41,9 @@ name: "Augsburg im Juni"
 
 
 
-
-
-> File: `000177_augsburg-im-juni_2018.md` • #000177 • Slug: `augsburg-im-juni`
+> File: 
+```
+• 000177_augsburg-im-juni_2018.md
+• #000177 
+• Slug: `augsburg-im-juni
+```

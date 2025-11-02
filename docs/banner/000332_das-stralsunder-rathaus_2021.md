@@ -22,7 +22,7 @@ slug: "das-stralsunder-rathaus"
 href: "banner/000332_das-stralsunder-rathaus_2021.md"
 name: "Das Stralsunder Rathaus"
 ---
-# 000332.Das Stralsunder Rathaus
+# Das Stralsunder Rathaus
 
 *2021* • Stralsund • Deutschland
 
@@ -32,8 +32,8 @@ name: "Das Stralsunder Rathaus"
 
 ## Details
 - **Distance (km):** 5.45
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 7596
 
 
 
@@ -49,4 +49,9 @@ Die Stadt gehörte nach dem Erlöschen des Fürstentums Rügen 1325 zu Pommern-W
 
 
 
-> File: `000332_das-stralsunder-rathaus_2021.md` • #000332 • Slug: `das-stralsunder-rathaus`
+> File: 
+```
+• 000332_das-stralsunder-rathaus_2021.md
+• #000332 
+• Slug: `das-stralsunder-rathaus
+```

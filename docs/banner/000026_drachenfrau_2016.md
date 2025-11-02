@@ -22,7 +22,7 @@ slug: "drachenfrau"
 href: "banner/000026_drachenfrau_2016.md"
 name: "Drachenfrau"
 ---
-# 000026.Drachenfrau
+# Drachenfrau
 
 *2016* • Leipzig • Deutschland
 
@@ -32,8 +32,8 @@ name: "Drachenfrau"
 
 ## Details
 - **Distance (km):** 7.44
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 468
 
 
 
@@ -49,4 +49,9 @@ In der fast fertig sanierten Innenstadt kann man gut shoppen, altes und neues en
 
 
 
-> File: `000026_drachenfrau_2016.md` • #000026 • Slug: `drachenfrau`
+> File: 
+```
+• 000026_drachenfrau_2016.md
+• #000026 
+• Slug: `drachenfrau
+```

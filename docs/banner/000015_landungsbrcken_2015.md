@@ -22,7 +22,7 @@ slug: "landungsbrcken"
 href: "banner/000015_landungsbrcken_2015.md"
 name: "Landungsbrücken"
 ---
-# 000015.Landungsbrücken
+# Landungsbrücken
 
 *2015* • Hamburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Landungsbrücken"
 
 ## Details
 - **Distance (km):** 5.87
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 294
 
 
 
@@ -49,4 +49,9 @@ Mosaic around the Landungsbrücken
 
 
 
-> File: `000015_landungsbrcken_2015.md` • #000015 • Slug: `landungsbrcken`
+> File: 
+```
+• 000015_landungsbrcken_2015.md
+• #000015 
+• Slug: `landungsbrcken
+```

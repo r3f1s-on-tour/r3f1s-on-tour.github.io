@@ -22,7 +22,7 @@ slug: "skulls-in-oranienburg"
 href: "banner/000356_skulls-in-oranienburg_2021.md"
 name: "Skulls in Oranienburg"
 ---
-# 000356.Skulls in Oranienburg
+# Skulls in Oranienburg
 
 *2021* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Skulls in Oranienburg"
 
 ## Details
 - **Distance (km):** 1.64
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 7944
 
 
 
@@ -44,4 +44,9 @@ Mache eine kleine Tour durch Oranienburg und hole dir die Schädel ins Profil
 
 
 
-> File: `000356_skulls-in-oranienburg_2021.md` • #000356 • Slug: `skulls-in-oranienburg`
+> File: 
+```
+• 000356_skulls-in-oranienburg_2021.md
+• #000356 
+• Slug: `skulls-in-oranienburg
+```

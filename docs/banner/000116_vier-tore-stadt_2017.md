@@ -22,7 +22,7 @@ slug: "vier-tore-stadt"
 href: "banner/000116_vier-tore-stadt_2017.md"
 name: "Vier-Tore-Stadt"
 ---
-# 000116.Vier-Tore-Stadt
+# Vier-Tore-Stadt
 
 *2017* • Neubrandenburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Vier-Tore-Stadt"
 
 ## Details
 - **Distance (km):** 9.40
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 2844
 
 
 
@@ -46,4 +46,9 @@ name: "Vier-Tore-Stadt"
 
 
 
-> File: `000116_vier-tore-stadt_2017.md` • #000116 • Slug: `vier-tore-stadt`
+> File: 
+```
+• 000116_vier-tore-stadt_2017.md
+• #000116 
+• Slug: `vier-tore-stadt
+```

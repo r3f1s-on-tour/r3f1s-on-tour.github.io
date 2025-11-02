@@ -22,7 +22,7 @@ slug: "schlossplatz-panorama"
 href: "banner/000315_schlossplatz-panorama_2021.md"
 name: "Schlossplatz Panorama"
 ---
-# 000315.Schlossplatz Panorama
+# Schlossplatz Panorama
 
 *2021* • Oldenburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Schlossplatz Panorama"
 
 ## Details
 - **Distance (km):** 1.71
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 7338
 
 
 
@@ -51,4 +51,9 @@ You can start at any Mission, after Mission 6 you can put Mission 1 and it will 
 
 
 
-> File: `000315_schlossplatz-panorama_2021.md` • #000315 • Slug: `schlossplatz-panorama`
+> File: 
+```
+• 000315_schlossplatz-panorama_2021.md
+• #000315 
+• Slug: `schlossplatz-panorama
+```

@@ -22,7 +22,7 @@ slug: "sushi-sonntag"
 href: "banner/000496_sushi-sonntag_2022.md"
 name: "Sushi Sonntag"
 ---
-# 000496.Sushi Sonntag
+# Sushi Sonntag
 
 *2022* • Köln • Deutschland
 
@@ -32,8 +32,8 @@ name: "Sushi Sonntag"
 
 ## Details
 - **Distance (km):** 3.28
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 10.602
 
 
 
@@ -49,4 +49,9 @@ Zu den neuen Second Sundays Mission Days passt dieses Sushi Sonntag Banner. Auf 
 
 
 
-> File: `000496_sushi-sonntag_2022.md` • #000496 • Slug: `sushi-sonntag`
+> File: 
+```
+• 000496_sushi-sonntag_2022.md
+• #000496 
+• Slug: `sushi-sonntag
+```

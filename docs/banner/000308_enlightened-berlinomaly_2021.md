@@ -22,7 +22,7 @@ slug: "enlightened-berlinomaly"
 href: "banner/000308_enlightened-berlinomaly_2021.md"
 name: "Enlightened Berlinomaly"
 ---
-# 000308.Enlightened Berlinomaly
+# Enlightened Berlinomaly
 
 *2021* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Enlightened Berlinomaly"
 
 ## Details
 - **Distance (km):** 12.02
-
-
+- **Missions in banner:** 36
+- **Total missions completed:** 7242
 
 
 
@@ -51,4 +51,9 @@ This mission starts at S Friedrichstrasse.
 
 
 
-> File: `000308_enlightened-berlinomaly_2021.md` • #000308 • Slug: `enlightened-berlinomaly`
+> File: 
+```
+• 000308_enlightened-berlinomaly_2021.md
+• #000308 
+• Slug: `enlightened-berlinomaly
+```

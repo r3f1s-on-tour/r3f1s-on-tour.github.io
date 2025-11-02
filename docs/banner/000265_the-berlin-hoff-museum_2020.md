@@ -3,7 +3,7 @@ nummer: "265"
 startLatitude: "52.521616"
 startLongitude: "13.402641"
 titel: "The Berlin Hoff Museum"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/66c7784ceebc7af1b55ab1ccfadd2d9d"
 region: "Berlin"
 country: "Deutschland"
 completed: "6306"
@@ -22,18 +22,18 @@ slug: "the-berlin-hoff-museum"
 href: "banner/000265_the-berlin-hoff-museum_2020.md"
 name: "The Berlin Hoff Museum"
 ---
-# 000265.The Berlin Hoff Museum
+# The Berlin Hoff Museum
 
 *2020* • Berlin • Deutschland
 
-
+![The Berlin Hoff Museum](https://api.bannergress.com/bnrs/pictures/66c7784ceebc7af1b55ab1ccfadd2d9d)
 
 
 
 ## Details
 - **Distance (km):** 1.51
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 6306
 
 
 
@@ -49,4 +49,9 @@ This walk guides you at the end to the small but famous Museum of the Hoff. Its 
 
 
 
-> File: `000265_the-berlin-hoff-museum_2020.md` • #000265 • Slug: `the-berlin-hoff-museum`
+> File: 
+```
+• 000265_the-berlin-hoff-museum_2020.md
+• #000265 
+• Slug: `the-berlin-hoff-museum
+```

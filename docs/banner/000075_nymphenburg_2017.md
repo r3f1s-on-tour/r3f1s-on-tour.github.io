@@ -22,7 +22,7 @@ slug: "nymphenburg"
 href: "banner/000075_nymphenburg_2017.md"
 name: "Nymphenburg"
 ---
-# 000075.Nymphenburg
+# Nymphenburg
 
 *2017* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "Nymphenburg"
 
 ## Details
 - **Distance (km):** 1.14
-
-
+- **Missions in banner:** 3
+- **Total missions completed:** 2046
 
 
 
@@ -49,4 +49,9 @@ Schloss Nymphenburg und seine Parkanlage wurden Ende des 17. Jh. geplant und erb
 
 
 
-> File: `000075_nymphenburg_2017.md` • #000075 • Slug: `nymphenburg`
+> File: 
+```
+• 000075_nymphenburg_2017.md
+• #000075 
+• Slug: `nymphenburg
+```

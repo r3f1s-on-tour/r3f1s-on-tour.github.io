@@ -22,7 +22,7 @@ slug: "bayern-flagge"
 href: "banner/000155_bayern-flagge_2018.md"
 name: "Bayern Flagge"
 ---
-# 000155.Bayern Flagge
+# Bayern Flagge
 
 *2018* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "Bayern Flagge"
 
 ## Details
 - **Distance (km):** 6.57
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 3762
 
 
 
@@ -50,4 +50,9 @@ Diese Mission startet am Marienplatz.
 
 
 
-> File: `000155_bayern-flagge_2018.md` • #000155 • Slug: `bayern-flagge`
+> File: 
+```
+• 000155_bayern-flagge_2018.md
+• #000155 
+• Slug: `bayern-flagge
+```

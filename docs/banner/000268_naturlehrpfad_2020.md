@@ -3,7 +3,7 @@ nummer: "268"
 startLatitude: "52.68642"
 startLongitude: "13.202188"
 titel: "Naturlehrpfad"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/6efa4419d78a36479096989cbf1f3d51"
 region: "Velten"
 country: "Deutschland"
 completed: "6342"
@@ -22,18 +22,18 @@ slug: "naturlehrpfad"
 href: "banner/000268_naturlehrpfad_2020.md"
 name: "Naturlehrpfad"
 ---
-# 000268.Naturlehrpfad
+# Naturlehrpfad
 
 *2020* • Velten • Deutschland
 
-
+![Naturlehrpfad](https://api.bannergress.com/bnrs/pictures/6efa4419d78a36479096989cbf1f3d51)
 
 
 
 ## Details
 - **Distance (km):** 5.28
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 6342
 
 
 
@@ -50,4 +50,9 @@ Lernt etwas daraus und habt spaß beim Wandern.
 
 
 
-> File: `000268_naturlehrpfad_2020.md` • #000268 • Slug: `naturlehrpfad`
+> File: 
+```
+• 000268_naturlehrpfad_2020.md
+• #000268 
+• Slug: `naturlehrpfad
+```

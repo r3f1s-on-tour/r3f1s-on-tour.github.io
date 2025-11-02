@@ -22,7 +22,7 @@ slug: "heartcore-beat-ffb"
 href: "banner/000148_heartcore-beat-ffb_2018.md"
 name: "HeartCore Beat FFB"
 ---
-# 000148.HeartCore Beat FFB
+# HeartCore Beat FFB
 
 *2018* • Fürstenfeldbruck • Deutschland
 
@@ -32,8 +32,8 @@ name: "HeartCore Beat FFB"
 
 ## Details
 - **Distance (km):** 4.09
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 3582
 
 
 
@@ -46,4 +46,9 @@ name: "HeartCore Beat FFB"
 
 
 
-> File: `000148_heartcore-beat-ffb_2018.md` • #000148 • Slug: `heartcore-beat-ffb`
+> File: 
+```
+• 000148_heartcore-beat-ffb_2018.md
+• #000148 
+• Slug: `heartcore-beat-ffb
+```

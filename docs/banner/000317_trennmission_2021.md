@@ -22,7 +22,7 @@ slug: "trennmission"
 href: "banner/000317_trennmission_2021.md"
 name: "Trennmission"
 ---
-# 000317.Trennmission
+# Trennmission
 
 *2021* • Hannover • Deutschland
 
@@ -32,8 +32,8 @@ name: "Trennmission"
 
 ## Details
 - **Distance (km):** 3.21
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 7380
 
 
 
@@ -49,4 +49,9 @@ Hannover bietet so viel! Nutze die Trennmissionen für Deinen Scanner.
 
 
 
-> File: `000317_trennmission_2021.md` • #000317 • Slug: `trennmission`
+> File: 
+```
+• 000317_trennmission_2021.md
+• #000317 
+• Slug: `trennmission
+```

@@ -22,7 +22,7 @@ slug: "catpool-rote-augsburger-katze"
 href: "banner/000181_catpool-rote-augsburger-katze_2018.md"
 name: "Catpool (Rote Augsburger Katze)"
 ---
-# 000181.Catpool (Rote Augsburger Katze)
+# Catpool (Rote Augsburger Katze)
 
 *2018* • Augsburg • Deutschland
 
@@ -32,6 +32,8 @@ name: "Catpool (Rote Augsburger Katze)"
 
 ## Details
 
+- **Missions in banner:** 36
+- **Total missions completed:** 4368
 
 
 
@@ -39,6 +41,9 @@ name: "Catpool (Rote Augsburger Katze)"
 
 
 
-
-
-> File: `000181_catpool-rote-augsburger-katze_2018.md` • #000181 • Slug: `catpool-rote-augsburger-katze`
+> File: 
+```
+• 000181_catpool-rote-augsburger-katze_2018.md
+• #000181 
+• Slug: `catpool-rote-augsburger-katze
+```

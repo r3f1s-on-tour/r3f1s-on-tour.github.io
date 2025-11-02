@@ -22,7 +22,7 @@ slug: "stress-an-der-isar"
 href: "banner/000089_stress-an-der-isar_2017.md"
 name: "Stress an der Isar"
 ---
-# 000089.Stress an der Isar
+# Stress an der Isar
 
 *2017* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "Stress an der Isar"
 
 ## Details
 - **Distance (km):** 15.65
-
-
+- **Missions in banner:** 36
+- **Total missions completed:** 2298
 
 
 
@@ -49,4 +49,9 @@ name: "Stress an der Isar"
 
 
 
-> File: `000089_stress-an-der-isar_2017.md` • #000089 • Slug: `stress-an-der-isar`
+> File: 
+```
+• 000089_stress-an-der-isar_2017.md
+• #000089 
+• Slug: `stress-an-der-isar
+```

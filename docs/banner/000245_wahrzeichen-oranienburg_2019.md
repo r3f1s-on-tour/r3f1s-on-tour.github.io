@@ -3,7 +3,7 @@ nummer: "245"
 startLatitude: "52.75329"
 startLongitude: "13.249462"
 titel: "Wahrzeichen Oranienburg"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/55f38e5fd963d9abb4092dfd3d771bc1"
 region: "Oranienburg"
 country: "Deutschland"
 completed: "5988"
@@ -22,18 +22,18 @@ slug: "wahrzeichen-oranienburg"
 href: "banner/000245_wahrzeichen-oranienburg_2019.md"
 name: "Wahrzeichen Oranienburg"
 ---
-# 000245.Wahrzeichen Oranienburg
+# Wahrzeichen Oranienburg
 
 *2019* • Oranienburg • Deutschland
 
-
+![Wahrzeichen Oranienburg](https://api.bannergress.com/bnrs/pictures/55f38e5fd963d9abb4092dfd3d771bc1)
 
 
 
 ## Details
 - **Distance (km):** 8.98
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 5988
 
 
 
@@ -51,4 +51,9 @@ Viel Spaß
 
 
 
-> File: `000245_wahrzeichen-oranienburg_2019.md` • #000245 • Slug: `wahrzeichen-oranienburg`
+> File: 
+```
+• 000245_wahrzeichen-oranienburg_2019.md
+• #000245 
+• Slug: `wahrzeichen-oranienburg
+```

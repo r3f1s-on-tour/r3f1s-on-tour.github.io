@@ -22,7 +22,7 @@ slug: "evil-penguins-in-oranienburg"
 href: "banner/000519_evil-penguins-in-oranienburg_2023.md"
 name: "Evil Penguins in Oranienburg"
 ---
-# 000519.Evil Penguins in Oranienburg
+# Evil Penguins in Oranienburg
 
 *2023* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Evil Penguins in Oranienburg"
 
 ## Details
 - **Distance (km):** 1.29
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 10.992
 
 
 
@@ -44,4 +44,9 @@ Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> File: `000519_evil-penguins-in-oranienburg_2023.md` • #000519 • Slug: `evil-penguins-in-oranienburg`
+> File: 
+```
+• 000519_evil-penguins-in-oranienburg_2023.md
+• #000519 
+• Slug: `evil-penguins-in-oranienburg
+```

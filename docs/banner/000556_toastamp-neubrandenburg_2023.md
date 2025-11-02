@@ -22,7 +22,7 @@ slug: "toastamp-neubrandenburg"
 href: "banner/000556_toastamp-neubrandenburg_2023.md"
 name: "ToastAmp Neubrandenburg"
 ---
-# 000556.ToastAmp Neubrandenburg
+# ToastAmp Neubrandenburg
 
 *2023* • Neubrandenburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "ToastAmp Neubrandenburg"
 
 ## Details
 - **Distance (km):** 5.94
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 12.384
 
 
 
@@ -49,4 +49,9 @@ Help the Toast fight the Illuminati Link-Amp!
 
 
 
-> File: `000556_toastamp-neubrandenburg_2023.md` • #000556 • Slug: `toastamp-neubrandenburg`
+> File: 
+```
+• 000556_toastamp-neubrandenburg_2023.md
+• #000556 
+• Slug: `toastamp-neubrandenburg
+```

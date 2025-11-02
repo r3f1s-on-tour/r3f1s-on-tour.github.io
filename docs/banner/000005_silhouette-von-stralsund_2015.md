@@ -22,7 +22,7 @@ slug: "silhouette-von-stralsund"
 href: "banner/000005_silhouette-von-stralsund_2015.md"
 name: "Silhouette von Stralsund"
 ---
-# 000005.Silhouette von Stralsund
+# Silhouette von Stralsund
 
 *2015* • Stralsund • Deutschland
 
@@ -32,8 +32,8 @@ name: "Silhouette von Stralsund"
 
 ## Details
 - **Distance (km):** 5.51
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 138
 
 
 
@@ -49,4 +49,9 @@ Vom Dänholm entlang des Strelasunds in Richtung  Parow charakterisiert die neue
 
 
 
-> File: `000005_silhouette-von-stralsund_2015.md` • #000005 • Slug: `silhouette-von-stralsund`
+> File: 
+```
+• 000005_silhouette-von-stralsund_2015.md
+• #000005 
+• Slug: `silhouette-von-stralsund
+```

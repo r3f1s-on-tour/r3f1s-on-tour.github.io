@@ -3,7 +3,7 @@ nummer: "211"
 startLatitude: "48.116477"
 startLongitude: "11.502844"
 titel: "Westpark München"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/8ce6f942c494430084f12e941a191154"
 region: "München"
 country: "Deutschland"
 completed: "5136"
@@ -22,18 +22,18 @@ slug: "westpark-mnchen"
 href: "banner/000211_westpark-mnchen_2018.md"
 name: "Westpark München"
 ---
-# 000211.Westpark München
+# Westpark München
 
 *2018* • München • Deutschland
 
-
+![Westpark München](https://api.bannergress.com/bnrs/pictures/8ce6f942c494430084f12e941a191154)
 
 
 
 ## Details
 - **Distance (km):** 8.73
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 5136
 
 
 
@@ -49,4 +49,9 @@ Spaziergang durch den Westpark. Start ist an der U-Bahnstation Holzapfelkreuth, 
 
 
 
-> File: `000211_westpark-mnchen_2018.md` • #000211 • Slug: `westpark-mnchen`
+> File: 
+```
+• 000211_westpark-mnchen_2018.md
+• #000211 
+• Slug: `westpark-mnchen
+```

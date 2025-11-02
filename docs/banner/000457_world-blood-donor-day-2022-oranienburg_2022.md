@@ -22,7 +22,7 @@ slug: "world-blood-donor-day-2022-oranienburg"
 href: "banner/000457_world-blood-donor-day-2022-oranienburg_2022.md"
 name: "World Blood Donor Day 2022 - Oranienburg"
 ---
-# 000457.World Blood Donor Day 2022 - Oranienburg
+# World Blood Donor Day 2022 - Oranienburg
 
 *2022* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "World Blood Donor Day 2022 - Oranienburg"
 
 ## Details
 - **Distance (km):** 3.01
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 9.480
 
 
 
@@ -49,4 +49,9 @@ Am 14. Juni 2022 ist globaler Blutspendetag! Lasst euch mit diesem Banner durch 
 
 
 
-> File: `000457_world-blood-donor-day-2022-oranienburg_2022.md` • #000457 • Slug: `world-blood-donor-day-2022-oranienburg`
+> File: 
+```
+• 000457_world-blood-donor-day-2022-oranienburg_2022.md
+• #000457 
+• Slug: `world-blood-donor-day-2022-oranienburg
+```

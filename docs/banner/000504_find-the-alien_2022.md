@@ -22,7 +22,7 @@ slug: "find-the-alien"
 href: "banner/000504_find-the-alien_2022.md"
 name: "Find the Alien"
 ---
-# 000504.Find the Alien
+# Find the Alien
 
 *2022* • Düsseldorf • Deutschland
 
@@ -32,8 +32,8 @@ name: "Find the Alien"
 
 ## Details
 - **Distance (km):** 5.54
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 10.776
 
 
 
@@ -50,4 +50,9 @@ gibt es starke Anzeichen dass es hier auch Aliens gibt. Folge der Route in der r
 
 
 
-> File: `000504_find-the-alien_2022.md` • #000504 • Slug: `find-the-alien`
+> File: 
+```
+• 000504_find-the-alien_2022.md
+• #000504 
+• Slug: `find-the-alien
+```

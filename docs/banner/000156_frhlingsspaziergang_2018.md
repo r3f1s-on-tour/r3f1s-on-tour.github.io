@@ -22,7 +22,7 @@ slug: "frhlingsspaziergang"
 href: "banner/000156_frhlingsspaziergang_2018.md"
 name: "Frühlingsspaziergang"
 ---
-# 000156.Frühlingsspaziergang
+# Frühlingsspaziergang
 
 *2018* • München • Deutschland
 
@@ -32,6 +32,8 @@ name: "Frühlingsspaziergang"
 
 ## Details
 
+- **Missions in banner:** 24
+- **Total missions completed:** 3786
 
 
 
@@ -39,6 +41,9 @@ name: "Frühlingsspaziergang"
 
 
 
-
-
-> File: `000156_frhlingsspaziergang_2018.md` • #000156 • Slug: `frhlingsspaziergang`
+> File: 
+```
+• 000156_frhlingsspaziergang_2018.md
+• #000156 
+• Slug: `frhlingsspaziergang
+```

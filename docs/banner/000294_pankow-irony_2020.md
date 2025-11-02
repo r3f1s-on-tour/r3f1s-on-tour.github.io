@@ -22,7 +22,7 @@ slug: "pankow-irony"
 href: "banner/000294_pankow-irony_2020.md"
 name: "Pankow Irony"
 ---
-# 000294.Pankow Irony
+# Pankow Irony
 
 *2020* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Pankow Irony"
 
 ## Details
 - **Distance (km):** 9.21
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 6834
 
 
 
@@ -49,4 +49,9 @@ Diese 12er Missionsreihe beginnt in Pankow und geleitet euch durch den Pankow S�
 
 
 
-> File: `000294_pankow-irony_2020.md` • #000294 • Slug: `pankow-irony`
+> File: 
+```
+• 000294_pankow-irony_2020.md
+• #000294 
+• Slug: `pankow-irony
+```

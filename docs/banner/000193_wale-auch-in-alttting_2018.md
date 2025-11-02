@@ -22,7 +22,7 @@ slug: "wale-auch-in-alttting"
 href: "banner/000193_wale-auch-in-alttting_2018.md"
 name: "Wale auch in Altötting"
 ---
-# 000193.Wale auch in Altötting
+# Wale auch in Altötting
 
 *2018* • Altötting • Deutschland
 
@@ -32,6 +32,8 @@ name: "Wale auch in Altötting"
 
 ## Details
 
+- **Missions in banner:** 6
+- **Total missions completed:** 4578
 
 
 
@@ -39,6 +41,9 @@ name: "Wale auch in Altötting"
 
 
 
-
-
-> File: `000193_wale-auch-in-alttting_2018.md` • #000193 • Slug: `wale-auch-in-alttting`
+> File: 
+```
+• 000193_wale-auch-in-alttting_2018.md
+• #000193 
+• Slug: `wale-auch-in-alttting
+```

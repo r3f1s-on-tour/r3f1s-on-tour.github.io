@@ -22,7 +22,7 @@ slug: "zrich-biocard"
 href: "banner/000062_zrich-biocard_2017.md"
 name: "Zürich Biocard"
 ---
-# 000062.Zürich Biocard
+# Zürich Biocard
 
 *2017* • Zürich • Schweiz/Suisse/Svizzera/Svizra
 
@@ -32,8 +32,8 @@ name: "Zürich Biocard"
 
 ## Details
 - **Distance (km):** 7.97
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 1380
 
 
 
@@ -49,4 +49,9 @@ Zurich Main Station is the largest train station in Switzerland, it serves about
 
 
 
-> File: `000062_zrich-biocard_2017.md` • #000062 • Slug: `zrich-biocard`
+> File: 
+```
+• 000062_zrich-biocard_2017.md
+• #000062 
+• Slug: `zrich-biocard
+```

@@ -22,7 +22,7 @@ slug: "happy-molecule"
 href: "banner/000274_happy-molecule_2020.md"
 name: "Happy Molecule"
 ---
-# 000274.Happy Molecule
+# Happy Molecule
 
 *2020* • Strasburg (Uckermark) • Deutschland
 
@@ -32,8 +32,8 @@ name: "Happy Molecule"
 
 ## Details
 - **Distance (km):** 5.60
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 6432
 
 
 
@@ -46,4 +46,9 @@ name: "Happy Molecule"
 
 
 
-> File: `000274_happy-molecule_2020.md` • #000274 • Slug: `happy-molecule`
+> File: 
+```
+• 000274_happy-molecule_2020.md
+• #000274 
+• Slug: `happy-molecule
+```

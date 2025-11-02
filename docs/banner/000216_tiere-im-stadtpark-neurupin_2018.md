@@ -3,7 +3,7 @@ nummer: "216"
 startLatitude: "52.940687"
 startLongitude: "12.819626"
 titel: "Tiere im Stadtpark Neurupin"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/ba3b9fbb49d8321abf65714d1767bcf3"
 region: "Gildenhall"
 country: "Deutschland"
 completed: "5244"
@@ -22,18 +22,18 @@ slug: "tiere-im-stadtpark-neurupin"
 href: "banner/000216_tiere-im-stadtpark-neurupin_2018.md"
 name: "Tiere im Stadtpark Neurupin"
 ---
-# 000216.Tiere im Stadtpark Neurupin
+# Tiere im Stadtpark Neurupin
 
 *2018* • Gildenhall • Deutschland
 
-
+![Tiere im Stadtpark Neurupin](https://api.bannergress.com/bnrs/pictures/ba3b9fbb49d8321abf65714d1767bcf3)
 
 
 
 ## Details
 - **Distance (km):** 15.23
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 5244
 
 
 
@@ -49,4 +49,9 @@ Der Stadtpark entstand auf Initiative von Oberst A. von Wulffen aus einem Schi
 
 
 
-> File: `000216_tiere-im-stadtpark-neurupin_2018.md` • #000216 • Slug: `tiere-im-stadtpark-neurupin`
+> File: 
+```
+• 000216_tiere-im-stadtpark-neurupin_2018.md
+• #000216 
+• Slug: `tiere-im-stadtpark-neurupin
+```

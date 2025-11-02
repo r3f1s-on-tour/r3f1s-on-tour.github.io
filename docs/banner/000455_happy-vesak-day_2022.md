@@ -22,7 +22,7 @@ slug: "happy-vesak-day"
 href: "banner/000455_happy-vesak-day_2022.md"
 name: "Happy Vesak Day"
 ---
-# 000455.Happy Vesak Day
+# Happy Vesak Day
 
 *2022* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Happy Vesak Day"
 
 ## Details
 - **Distance (km):** 5.59
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 9.426
 
 
 
@@ -49,4 +49,9 @@ Buddhists celebrate Vesak as their most important festival. This day, they remem
 
 
 
-> File: `000455_happy-vesak-day_2022.md` • #000455 • Slug: `happy-vesak-day`
+> File: 
+```
+• 000455_happy-vesak-day_2022.md
+• #000455 
+• Slug: `happy-vesak-day
+```

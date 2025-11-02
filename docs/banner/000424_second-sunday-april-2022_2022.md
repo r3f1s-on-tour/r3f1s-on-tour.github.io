@@ -22,7 +22,7 @@ slug: "second-sunday-april-2022"
 href: "banner/000424_second-sunday-april-2022_2022.md"
 name: "Second Sunday April 2022"
 ---
-# 000424.Second Sunday April 2022
+# Second Sunday April 2022
 
 *2022* • Strasburg (Uckermark) • Deutschland
 
@@ -32,8 +32,8 @@ name: "Second Sunday April 2022"
 
 ## Details
 - **Distance (km):** 2.77
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 8.820
 
 
 
@@ -51,4 +51,9 @@ Geht am 11.04.2022 offline
 
 
 
-> File: `000424_second-sunday-april-2022_2022.md` • #000424 • Slug: `second-sunday-april-2022`
+> File: 
+```
+• 000424_second-sunday-april-2022_2022.md
+• #000424 
+• Slug: `second-sunday-april-2022
+```

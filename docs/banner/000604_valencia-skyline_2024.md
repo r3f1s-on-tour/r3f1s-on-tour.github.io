@@ -22,7 +22,7 @@ slug: "valencia-skyline"
 href: "banner/000604_valencia-skyline_2024.md"
 name: "Valencia Skyline"
 ---
-# 000604.Valencia Skyline
+# Valencia Skyline
 
 *2024* • València • España
 
@@ -32,8 +32,8 @@ name: "Valencia Skyline"
 
 ## Details
 - **Distance (km):** 3.56
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 13.284
 
 
 
@@ -50,4 +50,9 @@ Discover the most emblematic places in Valencia and complete this beautiful bann
 
 
 
-> File: `000604_valencia-skyline_2024.md` • #000604 • Slug: `valencia-skyline`
+> File: 
+```
+• 000604_valencia-skyline_2024.md
+• #000604 
+• Slug: `valencia-skyline
+```

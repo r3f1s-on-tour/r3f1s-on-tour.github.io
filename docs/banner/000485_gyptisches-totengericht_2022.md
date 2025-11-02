@@ -22,7 +22,7 @@ slug: "gyptisches-totengericht"
 href: "banner/000485_gyptisches-totengericht_2022.md"
 name: "Ägyptisches Totengericht"
 ---
-# 000485.Ägyptisches Totengericht
+# Ägyptisches Totengericht
 
 *2022* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Ägyptisches Totengericht"
 
 ## Details
 - **Distance (km):** 6.28
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 10.482
 
 
 
@@ -49,4 +49,9 @@ Betritt die Halle der vollständigen Wahrheit und lasse dein Herz wiegen.
 
 
 
-> File: `000485_gyptisches-totengericht_2022.md` • #000485 • Slug: `gyptisches-totengericht`
+> File: 
+```
+• 000485_gyptisches-totengericht_2022.md
+• #000485 
+• Slug: `gyptisches-totengericht
+```

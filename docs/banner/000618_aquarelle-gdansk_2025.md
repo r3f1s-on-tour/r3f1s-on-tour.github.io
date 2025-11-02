@@ -22,7 +22,7 @@ slug: "aquarelle-gdansk"
 href: "banner/000618_aquarelle-gdansk_2025.md"
 name: "Aquarelle Gdansk"
 ---
-# 000618.Aquarelle Gdansk
+# Aquarelle Gdansk
 
 *2025* • Gdansk • Polska
 
@@ -32,8 +32,8 @@ name: "Aquarelle Gdansk"
 
 ## Details
 - **Distance (km):** 2.80
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 13.500
 
 
 
@@ -46,4 +46,9 @@ name: "Aquarelle Gdansk"
 <a href="https://r3f1s-on-tour.github.io/trips/poland_train_trip/" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#8a2be2;color:#fff;text-decoration:none;border-radius:6px;">🧭 Trips</a>
 
 
-> File: `000618_aquarelle-gdansk_2025.md` • #000618 • Slug: `aquarelle-gdansk`
+> File: 
+```
+• 000618_aquarelle-gdansk_2025.md
+• #000618 
+• Slug: `aquarelle-gdansk
+```

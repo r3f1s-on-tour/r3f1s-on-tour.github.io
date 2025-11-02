@@ -22,7 +22,7 @@ slug: "eine-woche-voller-kuchen"
 href: "banner/000123_eine-woche-voller-kuchen_2018.md"
 name: "Eine Woche voller Kuchen"
 ---
-# 000123.Eine Woche voller Kuchen
+# Eine Woche voller Kuchen
 
 *2018* • Augsburg • Deutschland
 
@@ -32,6 +32,8 @@ name: "Eine Woche voller Kuchen"
 
 ## Details
 - **Distance (km):** 4.70
+- **Missions in banner:** 36
+- **Total missions completed:** 3024
 
 
 
@@ -39,6 +41,9 @@ name: "Eine Woche voller Kuchen"
 
 
 
-
-
-> File: `000123_eine-woche-voller-kuchen_2018.md` • #000123 • Slug: `eine-woche-voller-kuchen`
+> File: 
+```
+• 000123_eine-woche-voller-kuchen_2018.md
+• #000123 
+• Slug: `eine-woche-voller-kuchen
+```

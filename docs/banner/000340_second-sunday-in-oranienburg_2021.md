@@ -22,7 +22,7 @@ slug: "second-sunday-in-oranienburg"
 href: "banner/000340_second-sunday-in-oranienburg_2021.md"
 name: "Second Sunday in Oranienburg"
 ---
-# 000340.Second Sunday in Oranienburg
+# Second Sunday in Oranienburg
 
 *2021* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Second Sunday in Oranienburg"
 
 ## Details
 - **Distance (km):** 2.13
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 7704
 
 
 
@@ -51,4 +51,9 @@ Geht am 17.11.2021 offline
 
 
 
-> File: `000340_second-sunday-in-oranienburg_2021.md` • #000340 • Slug: `second-sunday-in-oranienburg`
+> File: 
+```
+• 000340_second-sunday-in-oranienburg_2021.md
+• #000340 
+• Slug: `second-sunday-in-oranienburg
+```

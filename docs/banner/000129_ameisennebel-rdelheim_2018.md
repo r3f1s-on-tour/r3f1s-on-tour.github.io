@@ -22,7 +22,7 @@ slug: "ameisennebel-rdelheim"
 href: "banner/000129_ameisennebel-rdelheim_2018.md"
 name: "Ameisennebel Rödelheim"
 ---
-# 000129.Ameisennebel Rödelheim
+# Ameisennebel Rödelheim
 
 *2018* • Frankfurt am Main • Deutschland
 
@@ -32,8 +32,8 @@ name: "Ameisennebel Rödelheim"
 
 ## Details
 - **Distance (km):** 7.88
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 3156
 
 
 
@@ -49,4 +49,9 @@ Der Ameisennebel ist ein junger planetarischer Nebel. Der Name Ameisennebel komm
 
 
 
-> File: `000129_ameisennebel-rdelheim_2018.md` • #000129 • Slug: `ameisennebel-rdelheim`
+> File: 
+```
+• 000129_ameisennebel-rdelheim_2018.md
+• #000129 
+• Slug: `ameisennebel-rdelheim
+```

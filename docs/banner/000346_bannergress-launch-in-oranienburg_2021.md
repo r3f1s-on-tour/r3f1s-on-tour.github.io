@@ -22,7 +22,7 @@ slug: "bannergress-launch-in-oranienburg"
 href: "banner/000346_bannergress-launch-in-oranienburg_2021.md"
 name: "Bannergress Launch in Oranienburg"
 ---
-# 000346.Bannergress Launch in Oranienburg
+# Bannergress Launch in Oranienburg
 
 *2021* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Bannergress Launch in Oranienburg"
 
 ## Details
 - **Distance (km):** 1.64
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 7800
 
 
 
@@ -51,4 +51,9 @@ Geht am 21.11.2021 offline
 
 
 
-> File: `000346_bannergress-launch-in-oranienburg_2021.md` • #000346 • Slug: `bannergress-launch-in-oranienburg`
+> File: 
+```
+• 000346_bannergress-launch-in-oranienburg_2021.md
+• #000346 
+• Slug: `bannergress-launch-in-oranienburg
+```

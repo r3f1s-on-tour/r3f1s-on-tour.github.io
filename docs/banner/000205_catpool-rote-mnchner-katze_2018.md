@@ -22,7 +22,7 @@ slug: "catpool-rote-mnchner-katze"
 href: "banner/000205_catpool-rote-mnchner-katze_2018.md"
 name: "Catpool (Rote Münchner Katze)"
 ---
-# 000205.Catpool (Rote Münchner Katze)
+# Catpool (Rote Münchner Katze)
 
 *2018* • München • Deutschland
 
@@ -32,6 +32,8 @@ name: "Catpool (Rote Münchner Katze)"
 
 ## Details
 
+- **Missions in banner:** 36
+- **Total missions completed:** 4812
 
 
 
@@ -39,6 +41,9 @@ name: "Catpool (Rote Münchner Katze)"
 
 
 
-
-
-> File: `000205_catpool-rote-mnchner-katze_2018.md` • #000205 • Slug: `catpool-rote-mnchner-katze`
+> File: 
+```
+• 000205_catpool-rote-mnchner-katze_2018.md
+• #000205 
+• Slug: `catpool-rote-mnchner-katze
+```

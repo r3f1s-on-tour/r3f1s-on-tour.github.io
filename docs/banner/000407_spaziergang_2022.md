@@ -22,7 +22,7 @@ slug: "spaziergang"
 href: "banner/000407_spaziergang_2022.md"
 name: "SPAZIERGANG"
 ---
-# 000407.SPAZIERGANG
+# SPAZIERGANG
 
 *2022* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "SPAZIERGANG"
 
 ## Details
 - **Distance (km):** 6.23
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 8.676
 
 
 
@@ -49,4 +49,9 @@ Eine kleine  Runde in Berlin Mitte
 
 
 
-> File: `000407_spaziergang_2022.md` • #000407 • Slug: `spaziergang`
+> File: 
+```
+• 000407_spaziergang_2022.md
+• #000407 
+• Slug: `spaziergang
+```

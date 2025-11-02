@@ -22,7 +22,7 @@ slug: "cassandra-mission-day-linz-2018"
 href: "banner/000204_cassandra-mission-day-linz-2018_2018.md"
 name: "Cassandra Mission Day Linz 2018"
 ---
-# 000204.Cassandra Mission Day Linz 2018
+# Cassandra Mission Day Linz 2018
 
 *2018* • Oberösterreich • Österreich
 
@@ -32,8 +32,8 @@ name: "Cassandra Mission Day Linz 2018"
 
 ## Details
 - **Distance (km):** 21.33
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 4776
 
 - **Mission Day:** Yes
 
@@ -49,4 +49,9 @@ Discover Linz through missions!
 
 
 
-> File: `000204_cassandra-mission-day-linz-2018_2018.md` • #000204 • Slug: `cassandra-mission-day-linz-2018`
+> File: 
+```
+• 000204_cassandra-mission-day-linz-2018_2018.md
+• #000204 
+• Slug: `cassandra-mission-day-linz-2018
+```

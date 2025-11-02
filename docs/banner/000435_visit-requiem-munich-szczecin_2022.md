@@ -22,7 +22,7 @@ slug: "visit-requiem-munich-szczecin"
 href: "banner/000435_visit-requiem-munich-szczecin_2022.md"
 name: "Visit Requiem Munich - Szczecin"
 ---
-# 000435.Visit Requiem Munich - Szczecin
+# Visit Requiem Munich - Szczecin
 
 *2022* • Szczecin • Polska
 
@@ -32,8 +32,8 @@ name: "Visit Requiem Munich - Szczecin"
 
 ## Details
 - **Distance (km):** 1.31
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 9.078
 
 
 
@@ -49,4 +49,9 @@ On the 9th May of 2020 an epic battle between Enlightened and Resistance will ta
 
 
 
-> File: `000435_visit-requiem-munich-szczecin_2022.md` • #000435 • Slug: `visit-requiem-munich-szczecin`
+> File: 
+```
+• 000435_visit-requiem-munich-szczecin_2022.md
+• #000435 
+• Slug: `visit-requiem-munich-szczecin
+```

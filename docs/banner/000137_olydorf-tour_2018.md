@@ -22,7 +22,7 @@ slug: "olydorf-tour"
 href: "banner/000137_olydorf-tour_2018.md"
 name: "Olydorf-Tour"
 ---
-# 000137.Olydorf-Tour
+# Olydorf-Tour
 
 *2018* • München • Deutschland
 
@@ -32,6 +32,8 @@ name: "Olydorf-Tour"
 
 ## Details
 
+- **Missions in banner:** 18
+- **Total missions completed:** 3306
 
 
 
@@ -39,6 +41,9 @@ name: "Olydorf-Tour"
 
 
 
-
-
-> File: `000137_olydorf-tour_2018.md` • #000137 • Slug: `olydorf-tour`
+> File: 
+```
+• 000137_olydorf-tour_2018.md
+• #000137 
+• Slug: `olydorf-tour
+```

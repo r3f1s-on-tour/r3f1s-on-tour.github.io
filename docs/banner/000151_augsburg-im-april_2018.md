@@ -22,7 +22,7 @@ slug: "augsburg-im-april"
 href: "banner/000151_augsburg-im-april_2018.md"
 name: "Augsburg im April"
 ---
-# 000151.Augsburg im April
+# Augsburg im April
 
 *2018* • Augsburg • Deutschland
 
@@ -32,6 +32,8 @@ name: "Augsburg im April"
 
 ## Details
 
+- **Missions in banner:** 30
+- **Total missions completed:** 3690
 
 
 
@@ -39,6 +41,9 @@ name: "Augsburg im April"
 
 
 
-
-
-> File: `000151_augsburg-im-april_2018.md` • #000151 • Slug: `augsburg-im-april`
+> File: 
+```
+• 000151_augsburg-im-april_2018.md
+• #000151 
+• Slug: `augsburg-im-april
+```

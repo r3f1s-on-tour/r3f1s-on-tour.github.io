@@ -22,7 +22,7 @@ slug: "gttingen-skyline"
 href: "banner/000322_gttingen-skyline_2021.md"
 name: "Göttingen Skyline"
 ---
-# 000322.Göttingen Skyline
+# Göttingen Skyline
 
 *2021* • Göttingen • Deutschland
 
@@ -32,8 +32,8 @@ name: "Göttingen Skyline"
 
 ## Details
 - **Distance (km):** 2.59
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 7458
 
 
 
@@ -49,4 +49,9 @@ kleiner walk durch die Stadt vom Liesel bis zum Rathaus. Teil 1 führt dich zur 
 
 
 
-> File: `000322_gttingen-skyline_2021.md` • #000322 • Slug: `gttingen-skyline`
+> File: 
+```
+• 000322_gttingen-skyline_2021.md
+• #000322 
+• Slug: `gttingen-skyline
+```

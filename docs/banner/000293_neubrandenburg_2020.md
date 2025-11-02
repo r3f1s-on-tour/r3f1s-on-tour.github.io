@@ -22,7 +22,7 @@ slug: "neubrandenburg"
 href: "banner/000293_neubrandenburg_2020.md"
 name: "Neubrandenburg"
 ---
-# 000293.Neubrandenburg
+# Neubrandenburg
 
 *2020* • Neubrandenburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Neubrandenburg"
 
 ## Details
 - **Distance (km):** 7.10
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 6822
 
 
 
@@ -50,4 +50,9 @@ Fürst Kasimir von Pommern schenkt dem Havelberger Domstift einen Landstrich am 
 
 
 
-> File: `000293_neubrandenburg_2020.md` • #000293 • Slug: `neubrandenburg`
+> File: 
+```
+• 000293_neubrandenburg_2020.md
+• #000293 
+• Slug: `neubrandenburg
+```

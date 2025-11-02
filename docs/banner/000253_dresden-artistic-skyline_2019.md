@@ -3,7 +3,7 @@ nummer: "253"
 startLatitude: "51.052006"
 startLongitude: "13.741577"
 titel: "Dresden Artistic Skyline"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/750fc26627ffe1fc78f20d0086b2dfc7"
 region: "Dresden"
 country: "Deutschland"
 completed: "6108"
@@ -22,18 +22,18 @@ slug: "dresden-artistic-skyline"
 href: "banner/000253_dresden-artistic-skyline_2019.md"
 name: "Dresden Artistic Skyline"
 ---
-# 000253.Dresden Artistic Skyline
+# Dresden Artistic Skyline
 
 *2019* • Dresden • Deutschland
 
-
+![Dresden Artistic Skyline](https://api.bannergress.com/bnrs/pictures/750fc26627ffe1fc78f20d0086b2dfc7)
 
 
 
 ## Details
 - **Distance (km):** 4.86
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 6108
 
 
 
@@ -49,4 +49,9 @@ Visit the historic city center of Dresden and create a beautiful artistic Skylin
 
 
 
-> File: `000253_dresden-artistic-skyline_2019.md` • #000253 • Slug: `dresden-artistic-skyline`
+> File: 
+```
+• 000253_dresden-artistic-skyline_2019.md
+• #000253 
+• Slug: `dresden-artistic-skyline
+```

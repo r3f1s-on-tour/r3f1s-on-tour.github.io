@@ -22,7 +22,7 @@ slug: "millenium-falke"
 href: "banner/000467_millenium-falke_2022.md"
 name: "Millenium Falke"
 ---
-# 000467.Millenium Falke
+# Millenium Falke
 
 *2022* • Neubrandenburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Millenium Falke"
 
 ## Details
 - **Distance (km):** 6.46
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 10.266
 
 
 
@@ -49,4 +49,9 @@ Die Missionen führen dich vom Markplatz direkt in den Kulturpark von Neubranden
 
 
 
-> File: `000467_millenium-falke_2022.md` • #000467 • Slug: `millenium-falke`
+> File: 
+```
+• 000467_millenium-falke_2022.md
+• #000467 
+• Slug: `millenium-falke
+```

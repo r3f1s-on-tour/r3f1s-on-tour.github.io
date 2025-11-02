@@ -22,7 +22,7 @@ slug: "retrogaming-donkey-kong"
 href: "banner/000417_retrogaming-donkey-kong_2022.md"
 name: "RetroGaming - Donkey Kong"
 ---
-# 000417.RetroGaming - Donkey Kong
+# RetroGaming - Donkey Kong
 
 *2022* • Pasewalk • Deutschland
 
@@ -32,8 +32,8 @@ name: "RetroGaming - Donkey Kong"
 
 ## Details
 - **Distance (km):** 3.57
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 8.736
 
 
 
@@ -49,4 +49,9 @@ Starte auf dem Markt eine Entdeckungsreise durch die Stadt Pasewalk und entdecke
 
 
 
-> File: `000417_retrogaming-donkey-kong_2022.md` • #000417 • Slug: `retrogaming-donkey-kong`
+> File: 
+```
+• 000417_retrogaming-donkey-kong_2022.md
+• #000417 
+• Slug: `retrogaming-donkey-kong
+```

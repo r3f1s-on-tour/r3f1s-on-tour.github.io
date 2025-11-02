@@ -22,7 +22,7 @@ slug: "marx-is-calling-you-neubrandenburg"
 href: "banner/000609_marx-is-calling-you-neubrandenburg_2025.md"
 name: "Marx is calling you - Neubrandenburg"
 ---
-# 000609.Marx is calling you - Neubrandenburg
+# Marx is calling you - Neubrandenburg
 
 *2025* • Neubrandenburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Marx is calling you - Neubrandenburg"
 
 ## Details
 - **Distance (km):** 1.37
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 13.338
 
 
 
@@ -49,4 +49,9 @@ name: "Marx is calling you - Neubrandenburg"
 
 
 
-> File: `000609_marx-is-calling-you-neubrandenburg_2025.md` • #000609 • Slug: `marx-is-calling-you-neubrandenburg`
+> File: 
+```
+• 000609_marx-is-calling-you-neubrandenburg_2025.md
+• #000609 
+• Slug: `marx-is-calling-you-neubrandenburg
+```

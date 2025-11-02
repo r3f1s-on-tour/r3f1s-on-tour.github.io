@@ -22,7 +22,7 @@ slug: "the-evolution-of-frog"
 href: "banner/000428_the-evolution-of-frog_2022.md"
 name: "The evolution of frog"
 ---
-# 000428.The evolution of frog
+# The evolution of frog
 
 *2022* • Neubrandenburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "The evolution of frog"
 
 ## Details
 - **Distance (km):** 2.37
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 8.910
 
 
 
@@ -49,4 +49,9 @@ Macht einen kleinen Spaziergang durch die Vorstadt und schaut Euch dabei die Ent
 
 
 
-> File: `000428_the-evolution-of-frog_2022.md` • #000428 • Slug: `the-evolution-of-frog`
+> File: 
+```
+• 000428_the-evolution-of-frog_2022.md
+• #000428 
+• Slug: `the-evolution-of-frog
+```

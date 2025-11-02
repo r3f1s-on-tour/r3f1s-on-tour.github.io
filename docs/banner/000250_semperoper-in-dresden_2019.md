@@ -3,7 +3,7 @@ nummer: "250"
 startLatitude: "51.054458"
 startLongitude: "13.735795"
 titel: "Semperoper in Dresden"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/e61959e53565d388d23dc3128036db2d"
 region: "Dresden"
 country: "Deutschland"
 completed: "6066"
@@ -22,18 +22,18 @@ slug: "semperoper-in-dresden"
 href: "banner/000250_semperoper-in-dresden_2019.md"
 name: "Semperoper in Dresden"
 ---
-# 000250.Semperoper in Dresden
+# Semperoper in Dresden
 
 *2019* • Dresden • Deutschland
 
-
+![Semperoper in Dresden](https://api.bannergress.com/bnrs/pictures/e61959e53565d388d23dc3128036db2d)
 
 
 
 ## Details
 - **Distance (km):** 5.48
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 6066
 
 
 
@@ -49,4 +49,9 @@ The Semperoper is the opera house of the Sächsische Staatsoper Dresden (Saxon S
 
 
 
-> File: `000250_semperoper-in-dresden_2019.md` • #000250 • Slug: `semperoper-in-dresden`
+> File: 
+```
+• 000250_semperoper-in-dresden_2019.md
+• #000250 
+• Slug: `semperoper-in-dresden
+```

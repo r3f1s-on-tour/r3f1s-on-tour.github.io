@@ -22,7 +22,7 @@ slug: "middle-earth-brews"
 href: "banner/000295_middle-earth-brews_2020.md"
 name: "Middle Earth Brews"
 ---
-# 000295.Middle Earth Brews
+# Middle Earth Brews
 
 *2020* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Middle Earth Brews"
 
 ## Details
 - **Distance (km):** 5.14
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 6846
 
 
 
@@ -49,4 +49,9 @@ Entdeckungsrunde vom Schäfersee zum Volkspark Rehberge
 
 
 
-> File: `000295_middle-earth-brews_2020.md` • #000295 • Slug: `middle-earth-brews`
+> File: 
+```
+• 000295_middle-earth-brews_2020.md
+• #000295 
+• Slug: `middle-earth-brews
+```

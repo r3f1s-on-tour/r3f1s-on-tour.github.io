@@ -22,7 +22,7 @@ slug: "hunting-ground-wandsbek-markt"
 href: "banner/000021_hunting-ground-wandsbek-markt_2016.md"
 name: "Hunting ground Wandsbek Markt"
 ---
-# 000021.Hunting ground Wandsbek Markt
+# Hunting ground Wandsbek Markt
 
 *2016* • Hamburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Hunting ground Wandsbek Markt"
 
 ## Details
 - **Distance (km):** 1.51
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 360
 
 
 
@@ -49,4 +49,9 @@ Die sechs Vampir Clans der Camarilla begehren diese Domäne. Welcher Clan wird o
 
 
 
-> File: `000021_hunting-ground-wandsbek-markt_2016.md` • #000021 • Slug: `hunting-ground-wandsbek-markt`
+> File: 
+```
+• 000021_hunting-ground-wandsbek-markt_2016.md
+• #000021 
+• Slug: `hunting-ground-wandsbek-markt
+```

@@ -22,7 +22,7 @@ slug: "harmony-unity"
 href: "banner/000506_harmony-unity_2022.md"
 name: "Harmony & Unity"
 ---
-# 000506.Harmony & Unity
+# Harmony & Unity
 
 *2022* • Düsseldorf • Deutschland
 
@@ -32,8 +32,8 @@ name: "Harmony & Unity"
 
 ## Details
 - **Distance (km):** 8.40
-
-
+- **Missions in banner:** 36
+- **Total missions completed:** 10.818
 
 
 
@@ -49,4 +49,9 @@ Genieße diese kleine Runde durch die Düsseldorfer Altstadt und freu dich auf e
 
 
 
-> File: `000506_harmony-unity_2022.md` • #000506 • Slug: `harmony-unity`
+> File: 
+```
+• 000506_harmony-unity_2022.md
+• #000506 
+• Slug: `harmony-unity
+```

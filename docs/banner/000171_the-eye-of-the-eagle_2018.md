@@ -22,7 +22,7 @@ slug: "the-eye-of-the-eagle"
 href: "banner/000171_the-eye-of-the-eagle_2018.md"
 name: "The Eye of the Eagle"
 ---
-# 000171.The Eye of the Eagle
+# The Eye of the Eagle
 
 *2018* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "The Eye of the Eagle"
 
 ## Details
 - **Distance (km):** 5.81
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 4140
 
 
 
@@ -49,4 +49,9 @@ This is a 18 missions walk through the Fennpfuhl park. At the end you will have 
 
 
 
-> File: `000171_the-eye-of-the-eagle_2018.md` • #000171 • Slug: `the-eye-of-the-eagle`
+> File: 
+```
+• 000171_the-eye-of-the-eagle_2018.md
+• #000171 
+• Slug: `the-eye-of-the-eagle
+```

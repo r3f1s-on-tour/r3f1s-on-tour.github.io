@@ -22,7 +22,7 @@ slug: "man-s-greatness"
 href: "banner/000122_man-s-greatness_2018.md"
 name: "Man s Greatness"
 ---
-# 000122.Man s Greatness
+# Man s Greatness
 
 *2018* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "Man s Greatness"
 
 ## Details
 - **Distance (km):** 20.50
-
-
+- **Missions in banner:** 36
+- **Total missions completed:** 2988
 
 
 
@@ -49,4 +49,9 @@ Inspired by the artwork of  Scott Manley, leading my dear fellows in a new area 
 
 
 
-> File: `000122_man-s-greatness_2018.md` • #000122 • Slug: `man-s-greatness`
+> File: 
+```
+• 000122_man-s-greatness_2018.md
+• #000122 
+• Slug: `man-s-greatness
+```

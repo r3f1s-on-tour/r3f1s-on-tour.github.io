@@ -22,7 +22,7 @@ slug: "deifel-in-strasburg"
 href: "banner/000491_deifel-in-strasburg_2022.md"
 name: "Deifel in Strasburg"
 ---
-# 000491.Deifel in Strasburg
+# Deifel in Strasburg
 
 *2022* • Strasburg (Uckermark) • Deutschland
 
@@ -32,8 +32,8 @@ name: "Deifel in Strasburg"
 
 ## Details
 - **Distance (km):** 2.00
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 10.536
 
 
 
@@ -44,4 +44,9 @@ Starte am Marktplatz  einen Rundgang und entdecke Strasburg. Auf deinem Abenteue
 
 
 
-> File: `000491_deifel-in-strasburg_2022.md` • #000491 • Slug: `deifel-in-strasburg`
+> File: 
+```
+• 000491_deifel-in-strasburg_2022.md
+• #000491 
+• Slug: `deifel-in-strasburg
+```

@@ -22,7 +22,7 @@ slug: "hopfenmuseum-wolnzach"
 href: "banner/000100_hopfenmuseum-wolnzach_2017.md"
 name: "Hopfenmuseum Wolnzach"
 ---
-# 000100.Hopfenmuseum Wolnzach
+# Hopfenmuseum Wolnzach
 
 *2017* • Lohwinden • Deutschland
 
@@ -32,8 +32,8 @@ name: "Hopfenmuseum Wolnzach"
 
 ## Details
 - **Distance (km):** 10.21
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 2580
 
 
 
@@ -49,4 +49,9 @@ Das Deutsche Hopfenmuseum in Wolnzach in der Hallertau in Bayern wurde 2002 vom 
 
 
 
-> File: `000100_hopfenmuseum-wolnzach_2017.md` • #000100 • Slug: `hopfenmuseum-wolnzach`
+> File: 
+```
+• 000100_hopfenmuseum-wolnzach_2017.md
+• #000100 
+• Slug: `hopfenmuseum-wolnzach
+```

@@ -22,7 +22,7 @@ slug: "heart-core-beat-aibling"
 href: "banner/000183_heart-core-beat-aibling_2018.md"
 name: "Heart Core Beat Aibling"
 ---
-# 000183.Heart Core Beat Aibling
+# Heart Core Beat Aibling
 
 *2018* • Bad Aibling • Deutschland
 
@@ -32,8 +32,8 @@ name: "Heart Core Beat Aibling"
 
 ## Details
 - **Distance (km):** 1.42
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 4386
 
 
 
@@ -49,4 +49,9 @@ Fühle den Herzschlag vom schönen Bad Aibling.
 
 
 
-> File: `000183_heart-core-beat-aibling_2018.md` • #000183 • Slug: `heart-core-beat-aibling`
+> File: 
+```
+• 000183_heart-core-beat-aibling_2018.md
+• #000183 
+• Slug: `heart-core-beat-aibling
+```

@@ -22,7 +22,7 @@ slug: "db-in-oranienburg"
 href: "banner/000353_db-in-oranienburg_2021.md"
 name: "DB in Oranienburg"
 ---
-# 000353.DB in Oranienburg
+# DB in Oranienburg
 
 *2021* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "DB in Oranienburg"
 
 ## Details
 - **Distance (km):** 6.05
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 7902
 
 
 
@@ -44,4 +44,9 @@ Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> File: `000353_db-in-oranienburg_2021.md` • #000353 • Slug: `db-in-oranienburg`
+> File: 
+```
+• 000353_db-in-oranienburg_2021.md
+• #000353 
+• Slug: `db-in-oranienburg
+```

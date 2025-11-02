@@ -22,7 +22,7 @@ slug: "holocaust-mahnmal"
 href: "banner/000300_holocaust-mahnmal_2021.md"
 name: "Holocaust Mahnmal"
 ---
-# 000300.Holocaust Mahnmal
+# Holocaust Mahnmal
 
 *2021* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Holocaust Mahnmal"
 
 ## Details
 - **Distance (km):** 7.79
-
-
+- **Missions in banner:** 30
+- **Total missions completed:** 7008
 
 
 
@@ -49,4 +49,9 @@ Dieser Spaziergang durch die Mitte Berlins führt dich an vielen interessanten u
 
 
 
-> File: `000300_holocaust-mahnmal_2021.md` • #000300 • Slug: `holocaust-mahnmal`
+> File: 
+```
+• 000300_holocaust-mahnmal_2021.md
+• #000300 
+• Slug: `holocaust-mahnmal
+```

@@ -22,7 +22,7 @@ slug: "der-greif-von-mecklenburg"
 href: "banner/000027_der-greif-von-mecklenburg_2016.md"
 name: "Der Greif von Mecklenburg"
 ---
-# 000027.Der Greif von Mecklenburg
+# Der Greif von Mecklenburg
 
 *2016* • Katzow • Deutschland
 
@@ -32,8 +32,8 @@ name: "Der Greif von Mecklenburg"
 
 ## Details
 - **Distance (km):** 11.11
-
-
+- **Missions in banner:** 48
+- **Total missions completed:** 516
 
 
 
@@ -50,4 +50,9 @@ solltet ihr zu schnell gehackt haben kann es zum Schluss des Mosaik knapp werden
 
 
 
-> File: `000027_der-greif-von-mecklenburg_2016.md` • #000027 • Slug: `der-greif-von-mecklenburg`
+> File: 
+```
+• 000027_der-greif-von-mecklenburg_2016.md
+• #000027 
+• Slug: `der-greif-von-mecklenburg
+```

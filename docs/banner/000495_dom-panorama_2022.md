@@ -22,7 +22,7 @@ slug: "dom-panorama"
 href: "banner/000495_dom-panorama_2022.md"
 name: "Dom-Panorama"
 ---
-# 000495.Dom-Panorama
+# Dom-Panorama
 
 *2022* • Köln • Deutschland
 
@@ -32,8 +32,8 @@ name: "Dom-Panorama"
 
 ## Details
 - **Distance (km):** 6.94
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 10.590
 
 
 
@@ -49,4 +49,9 @@ Diese Mission führt an der Nordseite des Doms vorbei. Alle 24 Missionen ergeben
 
 
 
-> File: `000495_dom-panorama_2022.md` • #000495 • Slug: `dom-panorama`
+> File: 
+```
+• 000495_dom-panorama_2022.md
+• #000495 
+• Slug: `dom-panorama
+```

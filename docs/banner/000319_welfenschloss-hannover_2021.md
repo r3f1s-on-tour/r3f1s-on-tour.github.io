@@ -22,7 +22,7 @@ slug: "welfenschloss-hannover"
 href: "banner/000319_welfenschloss-hannover_2021.md"
 name: "Welfenschloss Hannover"
 ---
-# 000319.Welfenschloss Hannover
+# Welfenschloss Hannover
 
 *2021* • Hannover • Deutschland
 
@@ -32,8 +32,8 @@ name: "Welfenschloss Hannover"
 
 ## Details
 - **Distance (km):** 6.77
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 7410
 
 
 
@@ -49,4 +49,9 @@ Das Welfenschloss ist ein ehemaliges Schloss in Hannover im Stadtteil Nordstadt,
 
 
 
-> File: `000319_welfenschloss-hannover_2021.md` • #000319 • Slug: `welfenschloss-hannover`
+> File: 
+```
+• 000319_welfenschloss-hannover_2021.md
+• #000319 
+• Slug: `welfenschloss-hannover
+```

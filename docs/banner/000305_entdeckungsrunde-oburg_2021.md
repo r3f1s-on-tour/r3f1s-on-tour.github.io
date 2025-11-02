@@ -22,7 +22,7 @@ slug: "entdeckungsrunde-oburg"
 href: "banner/000305_entdeckungsrunde-oburg_2021.md"
 name: "Entdeckungsrunde OBurg"
 ---
-# 000305.Entdeckungsrunde OBurg
+# Entdeckungsrunde OBurg
 
 *2021* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Entdeckungsrunde OBurg"
 
 ## Details
 - **Distance (km):** 1.70
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 7110
 
 
 
@@ -49,4 +49,9 @@ Kleine Runde durch Oranienburg. Start ist am Bahnhof
 
 
 
-> File: `000305_entdeckungsrunde-oburg_2021.md` • #000305 • Slug: `entdeckungsrunde-oburg`
+> File: 
+```
+• 000305_entdeckungsrunde-oburg_2021.md
+• #000305 
+• Slug: `entdeckungsrunde-oburg
+```

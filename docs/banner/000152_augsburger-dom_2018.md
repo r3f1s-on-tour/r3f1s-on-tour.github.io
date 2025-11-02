@@ -22,7 +22,7 @@ slug: "augsburger-dom"
 href: "banner/000152_augsburger-dom_2018.md"
 name: "Augsburger Dom"
 ---
-# 000152.Augsburger Dom
+# Augsburger Dom
 
 *2018* • Augsburg • Deutschland
 
@@ -32,6 +32,8 @@ name: "Augsburger Dom"
 
 ## Details
 
+- **Missions in banner:** 30
+- **Total missions completed:** 3720
 
 
 
@@ -39,6 +41,9 @@ name: "Augsburger Dom"
 
 
 
-
-
-> File: `000152_augsburger-dom_2018.md` • #000152 • Slug: `augsburger-dom`
+> File: 
+```
+• 000152_augsburger-dom_2018.md
+• #000152 
+• Slug: `augsburger-dom
+```

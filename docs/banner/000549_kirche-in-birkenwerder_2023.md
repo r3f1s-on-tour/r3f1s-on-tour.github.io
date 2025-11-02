@@ -22,7 +22,7 @@ slug: "kirche-in-birkenwerder"
 href: "banner/000549_kirche-in-birkenwerder_2023.md"
 name: "Kirche in Birkenwerder"
 ---
-# 000549.Kirche in Birkenwerder
+# Kirche in Birkenwerder
 
 *2023* • Birkenwerder • Deutschland
 
@@ -32,8 +32,8 @@ name: "Kirche in Birkenwerder"
 
 ## Details
 - **Distance (km):** 7.03
-
-
+- **Missions in banner:** 42
+- **Total missions completed:** 12.174
 
 
 
@@ -49,4 +49,9 @@ Beginne eine Runde durch Birkenwerder und entdecke auf deiner Runde die Wassertr
 
 
 
-> File: `000549_kirche-in-birkenwerder_2023.md` • #000549 • Slug: `kirche-in-birkenwerder`
+> File: 
+```
+• 000549_kirche-in-birkenwerder_2023.md
+• #000549 
+• Slug: `kirche-in-birkenwerder
+```

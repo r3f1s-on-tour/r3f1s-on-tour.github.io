@@ -22,7 +22,7 @@ slug: "nyan-toast-strasburg"
 href: "banner/000336_nyan-toast-strasburg_2021.md"
 name: "Nyan Toast - Strasburg"
 ---
-# 000336.Nyan Toast - Strasburg
+# Nyan Toast - Strasburg
 
 *2021* • Strasburg (Uckermark) • Deutschland
 
@@ -32,8 +32,8 @@ name: "Nyan Toast - Strasburg"
 
 ## Details
 - **Distance (km):** 3.17
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 7656
 
 
 
@@ -49,4 +49,9 @@ Starte am Marktplatz und entdecke Strasburg Uckermark und hole dir Toasts ins Pr
 
 
 
-> File: `000336_nyan-toast-strasburg_2021.md` • #000336 • Slug: `nyan-toast-strasburg`
+> File: 
+```
+• 000336_nyan-toast-strasburg_2021.md
+• #000336 
+• Slug: `nyan-toast-strasburg
+```

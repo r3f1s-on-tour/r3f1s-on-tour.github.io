@@ -22,7 +22,7 @@ slug: "visita-a-madrid"
 href: "banner/000579_visita-a-madrid_2023.md"
 name: "Visita a Madrid"
 ---
-# 000579.Visita a Madrid
+# Visita a Madrid
 
 *2023* • Madrid • España
 
@@ -32,8 +32,8 @@ name: "Visita a Madrid"
 
 ## Details
 - **Distance (km):** 949.00
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 12.846
 
 
 
@@ -49,4 +49,9 @@ Primera parte de la visita al la Puerta del Sol y sus alrededores, centro turís
 
 
 
-> File: `000579_visita-a-madrid_2023.md` • #000579 • Slug: `visita-a-madrid`
+> File: 
+```
+• 000579_visita-a-madrid_2023.md
+• #000579 
+• Slug: `visita-a-madrid
+```

@@ -22,7 +22,7 @@ slug: "moosach-st-martin"
 href: "banner/000190_moosach-st-martin_2018.md"
 name: "Moosach St. Martin"
 ---
-# 000190.Moosach St. Martin
+# Moosach St. Martin
 
 *2018* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "Moosach St. Martin"
 
 ## Details
 - **Distance (km):** 26.62
-
-
+- **Missions in banner:** 36
+- **Total missions completed:** 4506
 
 
 
@@ -49,4 +49,9 @@ Die Alte Pfarrkirche St. Martin im Münchner Stadtteil Moosach
 
 
 
-> File: `000190_moosach-st-martin_2018.md` • #000190 • Slug: `moosach-st-martin`
+> File: 
+```
+• 000190_moosach-st-martin_2018.md
+• #000190 
+• Slug: `moosach-st-martin
+```

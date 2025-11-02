@@ -3,7 +3,7 @@ nummer: "246"
 startLatitude: "52.504929"
 startLongitude: "13.279174"
 titel: "Berliner Türme"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/6efecbc9332ce20e4d0fc994d96cb333"
 region: "Berlin"
 country: "Deutschland"
 completed: "6012"
@@ -22,18 +22,18 @@ slug: "berliner-trme"
 href: "banner/000246_berliner-trme_2019.md"
 name: "Berliner Türme"
 ---
-# 000246.Berliner Türme
+# Berliner Türme
 
 *2019* • Berlin • Deutschland
 
-
+![Berliner Türme](https://api.bannergress.com/bnrs/pictures/6efecbc9332ce20e4d0fc994d96cb333)
 
 
 
 ## Details
 - **Distance (km):** 12.05
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 6012
 
 
 
@@ -49,4 +49,9 @@ Ein Gang von Turm zu Turm
 
 
 
-> File: `000246_berliner-trme_2019.md` • #000246 • Slug: `berliner-trme`
+> File: 
+```
+• 000246_berliner-trme_2019.md
+• #000246 
+• Slug: `berliner-trme
+```

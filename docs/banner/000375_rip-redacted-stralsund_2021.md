@@ -22,7 +22,7 @@ slug: "rip-redacted-stralsund"
 href: "banner/000375_rip-redacted-stralsund_2021.md"
 name: "rip redacted - stralsund"
 ---
-# 000375.rip redacted - stralsund
+# rip redacted - stralsund
 
 *2021* • Stralsund • Deutschland
 
@@ -32,8 +32,8 @@ name: "rip redacted - stralsund"
 
 ## Details
 - **Distance (km):** 5.66
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 8190
 
 
 
@@ -49,4 +49,9 @@ Begebe dich auf eine Entdeckungsreise durch die engen Gassen der Stralsunder Alt
 
 
 
-> File: `000375_rip-redacted-stralsund_2021.md` • #000375 • Slug: `rip-redacted-stralsund`
+> File: 
+```
+• 000375_rip-redacted-stralsund_2021.md
+• #000375 
+• Slug: `rip-redacted-stralsund
+```

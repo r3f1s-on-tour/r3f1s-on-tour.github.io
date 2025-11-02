@@ -22,7 +22,7 @@ slug: "enl-municorns"
 href: "banner/000289_enl-municorns_2020.md"
 name: "ENL Municorns"
 ---
-# 000289.ENL Municorns
+# ENL Municorns
 
 *2020* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "ENL Municorns"
 
 ## Details
 - **Distance (km):** 5.87
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 6732
 
 
 
@@ -49,4 +49,9 @@ The most mystical anomaly ever would definitely be the Unicorn anomaly in Munich
 
 
 
-> File: `000289_enl-municorns_2020.md` • #000289 • Slug: `enl-municorns`
+> File: 
+```
+• 000289_enl-municorns_2020.md
+• #000289 
+• Slug: `enl-municorns
+```

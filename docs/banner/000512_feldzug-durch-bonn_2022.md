@@ -22,7 +22,7 @@ slug: "feldzug-durch-bonn"
 href: "banner/000512_feldzug-durch-bonn_2022.md"
 name: "Feldzug durch Bonn"
 ---
-# 000512.Feldzug durch Bonn
+# Feldzug durch Bonn
 
 *2022* • Bonn • Deutschland
 
@@ -32,8 +32,8 @@ name: "Feldzug durch Bonn"
 
 ## Details
 - **Distance (km):** 3.81
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 10.902
 
 
 
@@ -49,4 +49,9 @@ Diese Missionsreihe führt durch Bonn. Vom Hauptbahnhof über den alten Friedhof
 
 
 
-> File: `000512_feldzug-durch-bonn_2022.md` • #000512 • Slug: `feldzug-durch-bonn`
+> File: 
+```
+• 000512_feldzug-durch-bonn_2022.md
+• #000512 
+• Slug: `feldzug-durch-bonn
+```

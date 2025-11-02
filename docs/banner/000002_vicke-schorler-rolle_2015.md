@@ -22,7 +22,7 @@ slug: "vicke-schorler-rolle"
 href: "banner/000002_vicke-schorler-rolle_2015.md"
 name: "Vicke Schorler Rolle"
 ---
-# 000002.Vicke Schorler Rolle
+# Vicke Schorler Rolle
 
 *2015* • Rostock • Deutschland
 
@@ -32,6 +32,8 @@ name: "Vicke Schorler Rolle"
 
 ## Details
 
+- **Missions in banner:** 6
+- **Total missions completed:** 102
 
 
 
@@ -39,6 +41,9 @@ name: "Vicke Schorler Rolle"
 
 
 
-
-
-> File: `000002_vicke-schorler-rolle_2015.md` • #000002 • Slug: `vicke-schorler-rolle`
+> File: 
+```
+• 000002_vicke-schorler-rolle_2015.md
+• #000002 
+• Slug: `vicke-schorler-rolle
+```

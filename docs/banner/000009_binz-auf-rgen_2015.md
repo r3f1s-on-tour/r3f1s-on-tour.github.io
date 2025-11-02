@@ -22,7 +22,7 @@ slug: "binz-auf-rgen"
 href: "banner/000009_binz-auf-rgen_2015.md"
 name: "Binz auf Rügen"
 ---
-# 000009.Binz auf Rügen
+# Binz auf Rügen
 
 *2015* • Binz • Deutschland
 
@@ -32,8 +32,8 @@ name: "Binz auf Rügen"
 
 ## Details
 - **Distance (km):** 9.08
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 198
 
 
 
@@ -49,4 +49,9 @@ Besonderer Anziehungspunkt ist die 3,2 km lange Strandpromenade mit zahlreichen 
 
 
 
-> File: `000009_binz-auf-rgen_2015.md` • #000009 • Slug: `binz-auf-rgen`
+> File: 
+```
+• 000009_binz-auf-rgen_2015.md
+• #000009 
+• Slug: `binz-auf-rgen
+```

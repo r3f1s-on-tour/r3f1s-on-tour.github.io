@@ -22,7 +22,7 @@ slug: "sweet-unicorn"
 href: "banner/000255_sweet-unicorn_2019.md"
 name: "Sweet Unicorn"
 ---
-# 000255.Sweet Unicorn
+# Sweet Unicorn
 
 *2019* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Sweet Unicorn"
 
 ## Details
 - **Distance (km):** 12.00
-
-
+- **Missions in banner:** 30
+- **Total missions completed:** 6156
 
 
 
@@ -46,4 +46,9 @@ name: "Sweet Unicorn"
 
 
 
-> File: `000255_sweet-unicorn_2019.md` • #000255 • Slug: `sweet-unicorn`
+> File: 
+```
+• 000255_sweet-unicorn_2019.md
+• #000255 
+• Slug: `sweet-unicorn
+```

@@ -22,7 +22,7 @@ slug: "retrogaming-pengo"
 href: "banner/000412_retrogaming-pengo_2022.md"
 name: "RetroGaming - Pengo"
 ---
-# 000412.RetroGaming - Pengo
+# RetroGaming - Pengo
 
 *2022* • Pasewalk • Deutschland
 
@@ -32,8 +32,8 @@ name: "RetroGaming - Pengo"
 
 ## Details
 - **Distance (km):** 3.57
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 8.706
 
 
 
@@ -49,4 +49,9 @@ Starte auf dem Markt eine Entdeckungsreise durch die Stadt Pasewalk und entdecke
 
 
 
-> File: `000412_retrogaming-pengo_2022.md` • #000412 • Slug: `retrogaming-pengo`
+> File: 
+```
+• 000412_retrogaming-pengo_2022.md
+• #000412 
+• Slug: `retrogaming-pengo
+```

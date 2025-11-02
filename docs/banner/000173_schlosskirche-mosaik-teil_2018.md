@@ -22,7 +22,7 @@ slug: "schlosskirche-mosaik-teil"
 href: "banner/000173_schlosskirche-mosaik-teil_2018.md"
 name: "Schlosskirche Mosaik Teil"
 ---
-# 000173.Schlosskirche Mosaik Teil
+# Schlosskirche Mosaik Teil
 
 *2018* • Neustrelitz • Deutschland
 
@@ -32,8 +32,8 @@ name: "Schlosskirche Mosaik Teil"
 
 ## Details
 - **Distance (km):** 10.45
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 4164
 
 
 
@@ -49,4 +49,9 @@ In der ersten Mission beginnt ihr den Rundgang durch das historische Neustrelitz
 
 
 
-> File: `000173_schlosskirche-mosaik-teil_2018.md` • #000173 • Slug: `schlosskirche-mosaik-teil`
+> File: 
+```
+• 000173_schlosskirche-mosaik-teil_2018.md
+• #000173 
+• Slug: `schlosskirche-mosaik-teil
+```

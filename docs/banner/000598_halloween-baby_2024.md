@@ -22,7 +22,7 @@ slug: "halloween-baby"
 href: "banner/000598_halloween-baby_2024.md"
 name: "Halloween Baby"
 ---
-# 000598.Halloween Baby
+# Halloween Baby
 
 *2024* • València • España
 
@@ -32,8 +32,8 @@ name: "Halloween Baby"
 
 ## Details
 - **Distance (km):** 4.54
-
-
+- **Missions in banner:** 30
+- **Total missions completed:** 13.200
 
 
 
@@ -49,4 +49,9 @@ Recorre nuestra capital y llévate pequeño recuerdo de Halloween 2019
 
 
 
-> File: `000598_halloween-baby_2024.md` • #000598 • Slug: `halloween-baby`
+> File: 
+```
+• 000598_halloween-baby_2024.md
+• #000598 
+• Slug: `halloween-baby
+```

@@ -22,7 +22,7 @@ slug: "heppenheimer-mosaik"
 href: "banner/000135_heppenheimer-mosaik_2018.md"
 name: "Heppenheimer Mosaik"
 ---
-# 000135.Heppenheimer Mosaik
+# Heppenheimer Mosaik
 
 *2018* • Heppenheim • Deutschland
 
@@ -32,8 +32,8 @@ name: "Heppenheimer Mosaik"
 
 ## Details
 - **Distance (km):** 3.37
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 3264
 
 
 
@@ -50,4 +50,9 @@ Wenn die Missionen in richtiger Reihenfolge durchgeführt werden fügt sich ein 
 
 
 
-> File: `000135_heppenheimer-mosaik_2018.md` • #000135 • Slug: `heppenheimer-mosaik`
+> File: 
+```
+• 000135_heppenheimer-mosaik_2018.md
+• #000135 
+• Slug: `heppenheimer-mosaik
+```

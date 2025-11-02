@@ -22,7 +22,7 @@ slug: "imperfect-humanist"
 href: "banner/000301_imperfect-humanist_2021.md"
 name: "Imperfect Humanist"
 ---
-# 000301.Imperfect Humanist
+# Imperfect Humanist
 
 *2021* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Imperfect Humanist"
 
 ## Details
 - **Distance (km):** 1.25
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 7014
 
 
 
@@ -49,4 +49,9 @@ A special mission for one of the chosen Kaltenberg PLP teams.
 
 
 
-> File: `000301_imperfect-humanist_2021.md` • #000301 • Slug: `imperfect-humanist`
+> File: 
+```
+• 000301_imperfect-humanist_2021.md
+• #000301 
+• Slug: `imperfect-humanist
+```

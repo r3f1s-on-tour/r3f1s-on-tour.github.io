@@ -22,7 +22,7 @@ slug: "winter-friends"
 href: "banner/000589_winter-friends_2023.md"
 name: "Winter Friends"
 ---
-# 000589.Winter Friends
+# Winter Friends
 
 *2023* • Dresden • Deutschland
 
@@ -32,8 +32,8 @@ name: "Winter Friends"
 
 ## Details
 - **Distance (km):** 1.89
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 13.050
 
 
 
@@ -49,4 +49,9 @@ Geh mit deinen Freunden durch Löbtau
 
 
 
-> File: `000589_winter-friends_2023.md` • #000589 • Slug: `winter-friends`
+> File: 
+```
+• 000589_winter-friends_2023.md
+• #000589 
+• Slug: `winter-friends
+```

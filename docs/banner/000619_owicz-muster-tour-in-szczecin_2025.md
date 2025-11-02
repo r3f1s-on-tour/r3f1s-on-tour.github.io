@@ -22,7 +22,7 @@ slug: "owicz-muster-tour-in-szczecin"
 href: "banner/000619_owicz-muster-tour-in-szczecin_2025.md"
 name: "Łowicz-Muster Tour in Szczecin"
 ---
-# 000619.Łowicz-Muster Tour in Szczecin
+# Łowicz-Muster Tour in Szczecin
 
 *2025* • Szczecin • Polska
 
@@ -46,8 +46,8 @@ name: "Łowicz-Muster Tour in Szczecin"
 
 ## Details
 - **Distance (km):** 1.30
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 13.506
 
 
 
@@ -60,4 +60,9 @@ name: "Łowicz-Muster Tour in Szczecin"
 <a href="https://r3f1s-on-tour.github.io/trips/poland_train_trip/" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#8a2be2;color:#fff;text-decoration:none;border-radius:6px;">🧭 Trips</a>
 
 
-> File: `000619_owicz-muster-tour-in-szczecin_2025.md` • #000619 • Slug: `owicz-muster-tour-in-szczecin`
+> File: 
+```
+• 000619_owicz-muster-tour-in-szczecin_2025.md
+• #000619 
+• Slug: `owicz-muster-tour-in-szczecin
+```

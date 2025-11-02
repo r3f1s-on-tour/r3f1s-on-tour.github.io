@@ -3,7 +3,7 @@ nummer: "249"
 startLatitude: "51.051053"
 startLongitude: "13.732924"
 titel: "Dresdner Zwinger"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/a9789bd834e4ec30e3ad1ab5db59e8ed"
 region: "Dresden"
 country: "Deutschland"
 completed: "6048"
@@ -22,18 +22,18 @@ slug: "dresdner-zwinger"
 href: "banner/000249_dresdner-zwinger_2019.md"
 name: "Dresdner Zwinger"
 ---
-# 000249.Dresdner Zwinger
+# Dresdner Zwinger
 
 *2019* • Dresden • Deutschland
 
-
+![Dresdner Zwinger](https://api.bannergress.com/bnrs/pictures/a9789bd834e4ec30e3ad1ab5db59e8ed)
 
 
 
 ## Details
 - **Distance (km):** 2.89
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 6048
 
 
 
@@ -52,4 +52,9 @@ Teil 1 von 12
 
 
 
-> File: `000249_dresdner-zwinger_2019.md` • #000249 • Slug: `dresdner-zwinger`
+> File: 
+```
+• 000249_dresdner-zwinger_2019.md
+• #000249 
+• Slug: `dresdner-zwinger
+```

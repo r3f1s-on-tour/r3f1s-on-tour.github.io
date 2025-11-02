@@ -22,7 +22,7 @@ slug: "circles-strasburg"
 href: "banner/000378_circles-strasburg_2021.md"
 name: "Circles Strasburg"
 ---
-# 000378.Circles Strasburg
+# Circles Strasburg
 
 *2021* • Strasburg (Uckermark) • Deutschland
 
@@ -32,8 +32,8 @@ name: "Circles Strasburg"
 
 ## Details
 - **Distance (km):** 14.99
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 8238
 
 
 
@@ -49,4 +49,9 @@ Geh auf Entdeckungstour durch Strasburg.
 
 
 
-> File: `000378_circles-strasburg_2021.md` • #000378 • Slug: `circles-strasburg`
+> File: 
+```
+• 000378_circles-strasburg_2021.md
+• #000378 
+• Slug: `circles-strasburg
+```

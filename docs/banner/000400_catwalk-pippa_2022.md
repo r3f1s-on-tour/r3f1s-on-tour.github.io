@@ -22,7 +22,7 @@ slug: "catwalk-pippa"
 href: "banner/000400_catwalk-pippa_2022.md"
 name: "Catwalk Pippa"
 ---
-# 000400.Catwalk Pippa
+# Catwalk Pippa
 
 *2022* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Catwalk Pippa"
 
 ## Details
 - **Distance (km):** 5.00
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 8.574
 
 
 
@@ -49,4 +49,9 @@ Begleite Pippa auf einen Entdeckungsstreifzug vom S+U Lichtenberg nach Friedrich
 
 
 
-> File: `000400_catwalk-pippa_2022.md` • #000400 • Slug: `catwalk-pippa`
+> File: 
+```
+• 000400_catwalk-pippa_2022.md
+• #000400 
+• Slug: `catwalk-pippa
+```

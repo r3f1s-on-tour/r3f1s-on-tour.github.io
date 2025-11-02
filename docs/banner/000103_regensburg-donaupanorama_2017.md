@@ -22,7 +22,7 @@ slug: "regensburg-donaupanorama"
 href: "banner/000103_regensburg-donaupanorama_2017.md"
 name: "Regensburg Donaupanorama"
 ---
-# 000103.Regensburg Donaupanorama
+# Regensburg Donaupanorama
 
 *2017* • Regensburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Regensburg Donaupanorama"
 
 ## Details
 - **Distance (km):** 8.61
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 2652
 
 
 
@@ -49,4 +49,9 @@ Erlebe unsere wunderschöne Stadt an der Donau durch einen schönen Spaziergang!
 
 
 
-> File: `000103_regensburg-donaupanorama_2017.md` • #000103 • Slug: `regensburg-donaupanorama`
+> File: 
+```
+• 000103_regensburg-donaupanorama_2017.md
+• #000103 
+• Slug: `regensburg-donaupanorama
+```

@@ -22,7 +22,7 @@ slug: "space-cats-in-strasburg"
 href: "banner/000542_space-cats-in-strasburg_2023.md"
 name: "Space Cats in Strasburg"
 ---
-# 000542.Space Cats in Strasburg
+# Space Cats in Strasburg
 
 *2023* • Strasburg (Uckermark) • Deutschland
 
@@ -32,8 +32,8 @@ name: "Space Cats in Strasburg"
 
 ## Details
 - **Distance (km):** 1.05
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 11.994
 
 
 
@@ -49,4 +49,9 @@ Beginne eine Runde durch Strasburg und entdecke auf deiner Runde Sehenswürdigke
 
 
 
-> File: `000542_space-cats-in-strasburg_2023.md` • #000542 • Slug: `space-cats-in-strasburg`
+> File: 
+```
+• 000542_space-cats-in-strasburg_2023.md
+• #000542 
+• Slug: `space-cats-in-strasburg
+```

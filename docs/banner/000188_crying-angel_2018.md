@@ -22,7 +22,7 @@ slug: "crying-angel"
 href: "banner/000188_crying-angel_2018.md"
 name: "Crying Angel"
 ---
-# 000188.Crying Angel
+# Crying Angel
 
 *2018* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "Crying Angel"
 
 ## Details
 - **Distance (km):** 2.21
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 4458
 
 
 
@@ -49,4 +49,9 @@ Kleine Tour über den alten Nordfriedhof. Vorsicht vor den weinenden Engel
 
 
 
-> File: `000188_crying-angel_2018.md` • #000188 • Slug: `crying-angel`
+> File: 
+```
+• 000188_crying-angel_2018.md
+• #000188 
+• Slug: `crying-angel
+```

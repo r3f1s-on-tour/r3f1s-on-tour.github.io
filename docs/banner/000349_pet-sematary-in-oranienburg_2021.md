@@ -22,7 +22,7 @@ slug: "pet-sematary-in-oranienburg"
 href: "banner/000349_pet-sematary-in-oranienburg_2021.md"
 name: "Pet Sematary in Oranienburg"
 ---
-# 000349.Pet Sematary in Oranienburg
+# Pet Sematary in Oranienburg
 
 *2021* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Pet Sematary in Oranienburg"
 
 ## Details
 - **Distance (km):** 6.05
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 7842
 
 
 
@@ -44,4 +44,9 @@ Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> File: `000349_pet-sematary-in-oranienburg_2021.md` • #000349 • Slug: `pet-sematary-in-oranienburg`
+> File: 
+```
+• 000349_pet-sematary-in-oranienburg_2021.md
+• #000349 
+• Slug: `pet-sematary-in-oranienburg
+```

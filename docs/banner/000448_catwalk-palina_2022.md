@@ -22,7 +22,7 @@ slug: "catwalk-palina"
 href: "banner/000448_catwalk-palina_2022.md"
 name: "Catwalk Palina"
 ---
-# 000448.Catwalk Palina
+# Catwalk Palina
 
 *2022* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Catwalk Palina"
 
 ## Details
 - **Distance (km):** 8.00
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 9.282
 
 
 
@@ -44,4 +44,9 @@ Begleite Palina auf einen Entdeckungsstreifzug vom S+U Lichtenberg nach Friedric
 
 
 
-> File: `000448_catwalk-palina_2022.md` • #000448 • Slug: `catwalk-palina`
+> File: 
+```
+• 000448_catwalk-palina_2022.md
+• #000448 
+• Slug: `catwalk-palina
+```

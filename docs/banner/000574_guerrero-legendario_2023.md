@@ -22,7 +22,7 @@ slug: "guerrero-legendario"
 href: "banner/000574_guerrero-legendario_2023.md"
 name: "Guerrero Legendario"
 ---
-# 000574.Guerrero Legendario
+# Guerrero Legendario
 
 *2023* • Madrid • España
 
@@ -32,8 +32,8 @@ name: "Guerrero Legendario"
 
 ## Details
 - **Distance (km):** 18.34
-
-
+- **Missions in banner:** 72
+- **Total missions completed:** 12.702
 
 
 
@@ -49,4 +49,9 @@ Paseo por el centro de Madrid
 
 
 
-> File: `000574_guerrero-legendario_2023.md` • #000574 • Slug: `guerrero-legendario`
+> File: 
+```
+• 000574_guerrero-legendario_2023.md
+• #000574 
+• Slug: `guerrero-legendario
+```

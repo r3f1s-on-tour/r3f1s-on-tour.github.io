@@ -22,7 +22,7 @@ slug: "catpool-rote-nrnberger-katze"
 href: "banner/000167_catpool-rote-nrnberger-katze_2018.md"
 name: "Catpool (Rote Nürnberger Katze)"
 ---
-# 000167.Catpool (Rote Nürnberger Katze)
+# Catpool (Rote Nürnberger Katze)
 
 *2018* • Nürnberg • Deutschland
 
@@ -32,6 +32,8 @@ name: "Catpool (Rote Nürnberger Katze)"
 
 ## Details
 
+- **Missions in banner:** 36
+- **Total missions completed:** 4092
 
 
 
@@ -39,6 +41,9 @@ name: "Catpool (Rote Nürnberger Katze)"
 
 
 
-
-
-> File: `000167_catpool-rote-nrnberger-katze_2018.md` • #000167 • Slug: `catpool-rote-nrnberger-katze`
+> File: 
+```
+• 000167_catpool-rote-nrnberger-katze_2018.md
+• #000167 
+• Slug: `catpool-rote-nrnberger-katze
+```

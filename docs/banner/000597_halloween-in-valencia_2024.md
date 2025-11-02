@@ -22,7 +22,7 @@ slug: "halloween-in-valencia"
 href: "banner/000597_halloween-in-valencia_2024.md"
 name: "Halloween in Valencia"
 ---
-# 000597.Halloween in Valencia
+# Halloween in Valencia
 
 *2024* • València • España
 
@@ -32,8 +32,8 @@ name: "Halloween in Valencia"
 
 ## Details
 - **Distance (km):** 1.62
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 13.170
 
 
 
@@ -49,4 +49,9 @@ Discover Valencia at Halloween and get this spooky banner!
 
 
 
-> File: `000597_halloween-in-valencia_2024.md` • #000597 • Slug: `halloween-in-valencia`
+> File: 
+```
+• 000597_halloween-in-valencia_2024.md
+• #000597 
+• Slug: `halloween-in-valencia
+```

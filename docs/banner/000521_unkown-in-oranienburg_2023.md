@@ -22,7 +22,7 @@ slug: "unkown-in-oranienburg"
 href: "banner/000521_unkown-in-oranienburg_2023.md"
 name: "Unkown in Oranienburg"
 ---
-# 000521.Unkown in Oranienburg
+# Unkown in Oranienburg
 
 *2023* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Unkown in Oranienburg"
 
 ## Details
 - **Distance (km):** 1.29
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 11.004
 
 
 
@@ -44,4 +44,9 @@ Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> File: `000521_unkown-in-oranienburg_2023.md` • #000521 • Slug: `unkown-in-oranienburg`
+> File: 
+```
+• 000521_unkown-in-oranienburg_2023.md
+• #000521 
+• Slug: `unkown-in-oranienburg
+```

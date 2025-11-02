@@ -22,7 +22,7 @@ slug: "fire-fighter-schwedt"
 href: "banner/000398_fire-fighter-schwedt_2022.md"
 name: "Fire Fighter Schwedt"
 ---
-# 000398.Fire Fighter Schwedt
+# Fire Fighter Schwedt
 
 *2022* • Schwedt/Oder • Deutschland
 
@@ -32,8 +32,8 @@ name: "Fire Fighter Schwedt"
 
 ## Details
 - **Distance (km):** 7.33
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 8.532
 
 
 
@@ -49,4 +49,9 @@ Eine Runde durch Schwedt wird belohnt mit diesem tollen Banner.
 
 
 
-> File: `000398_fire-fighter-schwedt_2022.md` • #000398 • Slug: `fire-fighter-schwedt`
+> File: 
+```
+• 000398_fire-fighter-schwedt_2022.md
+• #000398 
+• Slug: `fire-fighter-schwedt
+```

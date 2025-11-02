@@ -22,7 +22,7 @@ slug: "planten-un-blomen-mosaik"
 href: "banner/000014_planten-un-blomen-mosaik_2015.md"
 name: "Planten un Blomen Mosaik"
 ---
-# 000014.Planten un Blomen Mosaik
+# Planten un Blomen Mosaik
 
 *2015* • Hamburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Planten un Blomen Mosaik"
 
 ## Details
 - **Distance (km):** 7.38
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 276
 
 
 
@@ -56,4 +56,9 @@ Oct–Dec | 7–20 Uhr
 
 
 
-> File: `000014_planten-un-blomen-mosaik_2015.md` • #000014 • Slug: `planten-un-blomen-mosaik`
+> File: 
+```
+• 000014_planten-un-blomen-mosaik_2015.md
+• #000014 
+• Slug: `planten-un-blomen-mosaik
+```

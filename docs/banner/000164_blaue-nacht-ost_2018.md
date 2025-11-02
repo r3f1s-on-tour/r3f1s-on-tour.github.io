@@ -22,7 +22,7 @@ slug: "blaue-nacht-ost"
 href: "banner/000164_blaue-nacht-ost_2018.md"
 name: "Blaue Nacht Ost"
 ---
-# 000164.Blaue Nacht Ost
+# Blaue Nacht Ost
 
 *2018* • Nürnberg • Deutschland
 
@@ -32,6 +32,8 @@ name: "Blaue Nacht Ost"
 
 ## Details
 
+- **Missions in banner:** 36
+- **Total missions completed:** 3984
 
 
 
@@ -39,6 +41,9 @@ name: "Blaue Nacht Ost"
 
 
 
-
-
-> File: `000164_blaue-nacht-ost_2018.md` • #000164 • Slug: `blaue-nacht-ost`
+> File: 
+```
+• 000164_blaue-nacht-ost_2018.md
+• #000164 
+• Slug: `blaue-nacht-ost
+```

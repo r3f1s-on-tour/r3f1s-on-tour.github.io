@@ -22,7 +22,7 @@ slug: "pinguine-tour-in-oranienburg-part-2"
 href: "banner/000453_pinguine-tour-in-oranienburg-part-2_2022.md"
 name: "Pinguine Tour in Oranienburg Part 2"
 ---
-# 000453.Pinguine Tour in Oranienburg Part 2
+# Pinguine Tour in Oranienburg Part 2
 
 *2022* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Pinguine Tour in Oranienburg Part 2"
 
 ## Details
 - **Distance (km):** 6.05
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 9.384
 
 
 
@@ -44,4 +44,9 @@ Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> File: `000453_pinguine-tour-in-oranienburg-part-2_2022.md` • #000453 • Slug: `pinguine-tour-in-oranienburg-part-2`
+> File: 
+```
+• 000453_pinguine-tour-in-oranienburg-part-2_2022.md
+• #000453 
+• Slug: `pinguine-tour-in-oranienburg-part-2
+```

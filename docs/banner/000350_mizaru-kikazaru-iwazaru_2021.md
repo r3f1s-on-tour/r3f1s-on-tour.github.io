@@ -22,7 +22,7 @@ slug: "mizaru-kikazaru-iwazaru"
 href: "banner/000350_mizaru-kikazaru-iwazaru_2021.md"
 name: "Mizaru, Kikazaru, Iwazaru"
 ---
-# 000350.Mizaru, Kikazaru, Iwazaru
+# Mizaru, Kikazaru, Iwazaru
 
 *2021* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Mizaru, Kikazaru, Iwazaru"
 
 ## Details
 - **Distance (km):** 6.02
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 7860
 
 
 
@@ -50,4 +50,9 @@ Start und Ende der Runde ist am Senefelderplatz
 
 
 
-> File: `000350_mizaru-kikazaru-iwazaru_2021.md` • #000350 • Slug: `mizaru-kikazaru-iwazaru`
+> File: 
+```
+• 000350_mizaru-kikazaru-iwazaru_2021.md
+• #000350 
+• Slug: `mizaru-kikazaru-iwazaru
+```

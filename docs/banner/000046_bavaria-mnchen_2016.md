@@ -22,7 +22,7 @@ slug: "bavaria-mnchen"
 href: "banner/000046_bavaria-mnchen_2016.md"
 name: "Bavaria München"
 ---
-# 000046.Bavaria München
+# Bavaria München
 
 *2016* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "Bavaria München"
 
 ## Details
 - **Distance (km):** 9.69
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 1050
 
 
 
@@ -49,4 +49,9 @@ Die kolossale und monumental anmutende Bronzestatue der Bavaria wurde im Auftrag
 
 
 
-> File: `000046_bavaria-mnchen_2016.md` • #000046 • Slug: `bavaria-mnchen`
+> File: 
+```
+• 000046_bavaria-mnchen_2016.md
+• #000046 
+• Slug: `bavaria-mnchen
+```

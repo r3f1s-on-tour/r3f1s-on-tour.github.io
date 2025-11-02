@@ -22,7 +22,7 @@ slug: "the-toasting"
 href: "banner/000394_the-toasting_2022.md"
 name: "The Toasting"
 ---
-# 000394.The Toasting
+# The Toasting
 
 *2022* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "The Toasting"
 
 ## Details
 - **Distance (km):** 1.60
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 8.496
 
 
 
@@ -52,4 +52,9 @@ Online bis 14.02.2022
 
 
 
-> File: `000394_the-toasting_2022.md` • #000394 • Slug: `the-toasting`
+> File: 
+```
+• 000394_the-toasting_2022.md
+• #000394 
+• Slug: `the-toasting
+```

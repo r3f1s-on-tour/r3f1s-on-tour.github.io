@@ -22,7 +22,7 @@ slug: "retrogaming-frog"
 href: "banner/000416_retrogaming-frog_2022.md"
 name: "RetroGaming - Frog"
 ---
-# 000416.RetroGaming - Frog
+# RetroGaming - Frog
 
 *2022* • Pasewalk • Deutschland
 
@@ -32,8 +32,8 @@ name: "RetroGaming - Frog"
 
 ## Details
 - **Distance (km):** 3.57
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 8.730
 
 
 
@@ -49,4 +49,9 @@ Starte auf dem Markt eine Entdeckungsreise durch die Stadt Pasewalk und entdecke
 
 
 
-> File: `000416_retrogaming-frog_2022.md` • #000416 • Slug: `retrogaming-frog`
+> File: 
+```
+• 000416_retrogaming-frog_2022.md
+• #000416 
+• Slug: `retrogaming-frog
+```

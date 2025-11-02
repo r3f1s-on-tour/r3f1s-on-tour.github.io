@@ -3,7 +3,7 @@ nummer: "262"
 startLatitude: "52.542993"
 startLongitude: "13.428082"
 titel: "Zeiss-Großplanetarium"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/1b590876a72707d9e149a5e2819113f7"
 region: "Berlin"
 country: "Deutschland"
 completed: "6276"
@@ -22,18 +22,18 @@ slug: "zeiss-groplanetarium"
 href: "banner/000262_zeiss-groplanetarium_2020.md"
 name: "Zeiss-Großplanetarium"
 ---
-# 000262.Zeiss-Großplanetarium
+# Zeiss-Großplanetarium
 
 *2020* • Berlin • Deutschland
 
-
+![Zeiss-Großplanetarium](https://api.bannergress.com/bnrs/pictures/1b590876a72707d9e149a5e2819113f7)
 
 
 
 ## Details
 - **Distance (km):** 6.00
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 6276
 
 
 
@@ -46,4 +46,9 @@ name: "Zeiss-Großplanetarium"
 
 
 
-> File: `000262_zeiss-groplanetarium_2020.md` • #000262 • Slug: `zeiss-groplanetarium`
+> File: 
+```
+• 000262_zeiss-groplanetarium_2020.md
+• #000262 
+• Slug: `zeiss-groplanetarium
+```

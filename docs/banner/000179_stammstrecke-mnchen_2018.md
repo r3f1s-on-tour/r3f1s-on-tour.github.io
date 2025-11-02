@@ -22,7 +22,7 @@ slug: "stammstrecke-mnchen"
 href: "banner/000179_stammstrecke-mnchen_2018.md"
 name: "Stammstrecke München"
 ---
-# 000179.Stammstrecke München
+# Stammstrecke München
 
 *2018* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "Stammstrecke München"
 
 ## Details
 
-
-
+- **Missions in banner:** 54
+- **Total missions completed:** 4308
 
 
 
@@ -46,4 +46,9 @@ name: "Stammstrecke München"
 
 
 
-> File: `000179_stammstrecke-mnchen_2018.md` • #000179 • Slug: `stammstrecke-mnchen`
+> File: 
+```
+• 000179_stammstrecke-mnchen_2018.md
+• #000179 
+• Slug: `stammstrecke-mnchen
+```

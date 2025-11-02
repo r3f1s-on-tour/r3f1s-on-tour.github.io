@@ -3,7 +3,7 @@ nummer: "225"
 startLatitude: "48.1354439"
 startLongitude: "11.5474184"
 titel: "Raute Blau Weiß 2"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/5789152fd36178d051546ef1598e4d6f"
 region: "München"
 country: "Deutschland"
 completed: "5406"
@@ -22,18 +22,18 @@ slug: "raute-blau-wei-2"
 href: "banner/000225_raute-blau-wei-2_2019.md"
 name: "Raute Blau Weiß 2"
 ---
-# 000225.Raute Blau Weiß 2
+# Raute Blau Weiß 2
 
 *2019* • München • Deutschland
 
-
+![Raute Blau Weiß 2](https://api.bannergress.com/bnrs/pictures/5789152fd36178d051546ef1598e4d6f)
 
 
 
 ## Details
 - **Distance (km):** 1.60
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 5406
 
 
 
@@ -46,4 +46,9 @@ name: "Raute Blau Weiß 2"
 
 
 
-> File: `000225_raute-blau-wei-2_2019.md` • #000225 • Slug: `raute-blau-wei-2`
+> File: 
+```
+• 000225_raute-blau-wei-2_2019.md
+• #000225 
+• Slug: `raute-blau-wei-2
+```

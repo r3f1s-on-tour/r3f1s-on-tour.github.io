@@ -22,7 +22,7 @@ slug: "stadtmauer-in-neubrandenburg"
 href: "banner/000622_stadtmauer-in-neubrandenburg_2025.md"
 name: "Stadtmauer in Neubrandenburg"
 ---
-# 000622.Stadtmauer in Neubrandenburg
+# Stadtmauer in Neubrandenburg
 
 *2025* • Neubrandenburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Stadtmauer in Neubrandenburg"
 
 ## Details
 - **Distance (km):** 11.19
-
-
+- **Missions in banner:** 48
+- **Total missions completed:** 13386
 
 
 
@@ -49,4 +49,9 @@ Entdecke bei diesen Missionen insbesondere auch die Stadtmauer von Neubrandenbur
 
 
 
-> File: `000622_stadtmauer-in-neubrandenburg_2025.md` • #000622 • Slug: `stadtmauer-in-neubrandenburg`
+> File: 
+```
+• 000622_stadtmauer-in-neubrandenburg_2025.md
+• #000622 
+• Slug: `stadtmauer-in-neubrandenburg
+```

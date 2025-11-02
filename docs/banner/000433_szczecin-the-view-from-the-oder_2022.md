@@ -22,7 +22,7 @@ slug: "szczecin-the-view-from-the-oder"
 href: "banner/000433_szczecin-the-view-from-the-oder_2022.md"
 name: "Szczecin, the view from the Oder"
 ---
-# 000433.Szczecin, the view from the Oder
+# Szczecin, the view from the Oder
 
 *2022* • Szczecin • Polska
 
@@ -32,8 +32,8 @@ name: "Szczecin, the view from the Oder"
 
 ## Details
 - **Distance (km):** 3.57
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 9.024
 
 
 
@@ -49,4 +49,9 @@ I invite you to take a walk around Szczecin. Collect all the badges, admire the 
 
 
 
-> File: `000433_szczecin-the-view-from-the-oder_2022.md` • #000433 • Slug: `szczecin-the-view-from-the-oder`
+> File: 
+```
+• 000433_szczecin-the-view-from-the-oder_2022.md
+• #000433 
+• Slug: `szczecin-the-view-from-the-oder
+```

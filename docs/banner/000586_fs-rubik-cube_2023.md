@@ -22,7 +22,7 @@ slug: "fs-rubik-cube"
 href: "banner/000586_fs-rubik-cube_2023.md"
 name: "#FS Rubik Cube"
 ---
-# 000586.#FS Rubik Cube
+# #FS Rubik Cube
 
 *2023* • Dresden • Deutschland
 
@@ -32,8 +32,8 @@ name: "#FS Rubik Cube"
 
 ## Details
 - **Distance (km):** 1.83
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 13.014
 
 
 
@@ -49,4 +49,9 @@ Can you solve this riddle at the FS in Dresden?
 
 
 
-> File: `000586_fs-rubik-cube_2023.md` • #000586 • Slug: `fs-rubik-cube`
+> File: 
+```
+• 000586_fs-rubik-cube_2023.md
+• #000586 
+• Slug: `fs-rubik-cube
+```

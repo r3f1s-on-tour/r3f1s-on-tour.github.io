@@ -22,7 +22,7 @@ slug: "wiener-platz"
 href: "banner/000077_wiener-platz_2017.md"
 name: "Wiener Platz"
 ---
-# 000077.Wiener Platz
+# Wiener Platz
 
 *2017* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "Wiener Platz"
 
 ## Details
 - **Distance (km):** 7.90
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 2088
 
 
 
@@ -49,4 +49,9 @@ Am Wiener Platz befindet sich seit 1889 der kleinste der 4 ständigen Märkte M�
 
 
 
-> File: `000077_wiener-platz_2017.md` • #000077 • Slug: `wiener-platz`
+> File: 
+```
+• 000077_wiener-platz_2017.md
+• #000077 
+• Slug: `wiener-platz
+```

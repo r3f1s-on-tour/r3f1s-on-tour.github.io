@@ -22,7 +22,7 @@ slug: "here-be-dragons-dragomaly"
 href: "banner/000208_here-be-dragons-dragomaly_2018.md"
 name: "Here Be Dragons - Dragomaly"
 ---
-# 000208.Here Be Dragons - Dragomaly
+# Here Be Dragons - Dragomaly
 
 *2018* • Palma • España
 
@@ -32,8 +32,8 @@ name: "Here Be Dragons - Dragomaly"
 
 ## Details
 - **Distance (km):** 11.00
-
-
+- **Missions in banner:** 30
+- **Total missions completed:** 4860
 
 
 
@@ -46,4 +46,9 @@ name: "Here Be Dragons - Dragomaly"
 
 
 
-> File: `000208_here-be-dragons-dragomaly_2018.md` • #000208 • Slug: `here-be-dragons-dragomaly`
+> File: 
+```
+• 000208_here-be-dragons-dragomaly_2018.md
+• #000208 
+• Slug: `here-be-dragons-dragomaly
+```

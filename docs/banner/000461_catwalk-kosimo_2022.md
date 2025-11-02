@@ -22,7 +22,7 @@ slug: "catwalk-kosimo"
 href: "banner/000461_catwalk-kosimo_2022.md"
 name: "Catwalk Kosimo"
 ---
-# 000461.Catwalk Kosimo
+# Catwalk Kosimo
 
 *2022* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Catwalk Kosimo"
 
 ## Details
 - **Distance (km):** 6.86
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 9.552
 
 
 
@@ -49,4 +49,9 @@ Join my cat Kosimo on a journey of discovery from S+U Lichtenberg to Friedrichsf
 
 
 
-> File: `000461_catwalk-kosimo_2022.md` • #000461 • Slug: `catwalk-kosimo`
+> File: 
+```
+• 000461_catwalk-kosimo_2022.md
+• #000461 
+• Slug: `catwalk-kosimo
+```

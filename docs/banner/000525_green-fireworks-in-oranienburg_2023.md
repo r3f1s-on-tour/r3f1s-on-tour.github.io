@@ -22,7 +22,7 @@ slug: "green-fireworks-in-oranienburg"
 href: "banner/000525_green-fireworks-in-oranienburg_2023.md"
 name: "Green Fireworks in Oranienburg"
 ---
-# 000525.Green Fireworks in Oranienburg
+# Green Fireworks in Oranienburg
 
 *2023* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Green Fireworks in Oranienburg"
 
 ## Details
 - **Distance (km):** 5.70
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 11.100
 
 
 
@@ -44,4 +44,9 @@ Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> File: `000525_green-fireworks-in-oranienburg_2023.md` • #000525 • Slug: `green-fireworks-in-oranienburg`
+> File: 
+```
+• 000525_green-fireworks-in-oranienburg_2023.md
+• #000525 
+• Slug: `green-fireworks-in-oranienburg
+```

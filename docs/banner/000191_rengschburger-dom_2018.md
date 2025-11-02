@@ -22,7 +22,7 @@ slug: "rengschburger-dom"
 href: "banner/000191_rengschburger-dom_2018.md"
 name: "Rengschburger Dom"
 ---
-# 000191.Rengschburger Dom
+# Rengschburger Dom
 
 *2018* • Regensburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Rengschburger Dom"
 
 ## Details
 - **Distance (km):** 16.84
-
-
+- **Missions in banner:** 60
+- **Total missions completed:** 4566
 
 
 
@@ -49,4 +49,9 @@ Servus, Griaß di und Habedere in Rengschburg! Dieses Mosaik hat insgesamt 60 Mi
 
 
 
-> File: `000191_rengschburger-dom_2018.md` • #000191 • Slug: `rengschburger-dom`
+> File: 
+```
+• 000191_rengschburger-dom_2018.md
+• #000191 
+• Slug: `rengschburger-dom
+```

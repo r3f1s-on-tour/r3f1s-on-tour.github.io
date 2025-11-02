@@ -22,7 +22,7 @@ slug: "erobere-woldegk"
 href: "banner/000022_erobere-woldegk_2016.md"
 name: "Erobere Woldegk"
 ---
-# 000022.Erobere Woldegk
+# Erobere Woldegk
 
 *2016* • Woldegk • Deutschland
 
@@ -32,8 +32,8 @@ name: "Erobere Woldegk"
 
 ## Details
 - **Distance (km):** 13.00
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 378
 
 
 
@@ -46,4 +46,9 @@ name: "Erobere Woldegk"
 
 
 
-> File: `000022_erobere-woldegk_2016.md` • #000022 • Slug: `erobere-woldegk`
+> File: 
+```
+• 000022_erobere-woldegk_2016.md
+• #000022 
+• Slug: `erobere-woldegk
+```

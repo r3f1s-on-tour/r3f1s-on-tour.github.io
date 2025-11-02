@@ -22,7 +22,7 @@ slug: "evolution-of-frog-strasburg"
 href: "banner/000337_evolution-of-frog-strasburg_2021.md"
 name: "Evolution of Frog - Strasburg"
 ---
-# 000337.Evolution of Frog - Strasburg
+# Evolution of Frog - Strasburg
 
 *2021* • Strasburg (Uckermark) • Deutschland
 
@@ -32,8 +32,8 @@ name: "Evolution of Frog - Strasburg"
 
 ## Details
 - **Distance (km):** 3.17
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 7662
 
 
 
@@ -51,4 +51,9 @@ Geht am 08.11.2021 offline
 
 
 
-> File: `000337_evolution-of-frog-strasburg_2021.md` • #000337 • Slug: `evolution-of-frog-strasburg`
+> File: 
+```
+• 000337_evolution-of-frog-strasburg_2021.md
+• #000337 
+• Slug: `evolution-of-frog-strasburg
+```

@@ -22,7 +22,7 @@ slug: "narrenkappe"
 href: "banner/000500_narrenkappe_2022.md"
 name: "Narrenkappe"
 ---
-# 000500.Narrenkappe
+# Narrenkappe
 
 *2022* • Köln • Deutschland
 
@@ -32,8 +32,8 @@ name: "Narrenkappe"
 
 ## Details
 - **Distance (km):** 9.98
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 10.704
 
 
 
@@ -49,4 +49,9 @@ Take a walk around Koeln-Ehrenfeld. This district is known for its variety of st
 
 
 
-> File: `000500_narrenkappe_2022.md` • #000500 • Slug: `narrenkappe`
+> File: 
+```
+• 000500_narrenkappe_2022.md
+• #000500 
+• Slug: `narrenkappe
+```

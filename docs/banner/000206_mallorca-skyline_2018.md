@@ -3,7 +3,7 @@ nummer: "206"
 startLatitude: "39.575945"
 startLongitude: "2.655087"
 titel: "Mallorca Skyline"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/42eb1816af2bf9258d0847117a66f715"
 region: "Palma"
 country: "España"
 completed: "4818"
@@ -22,18 +22,18 @@ slug: "mallorca-skyline"
 href: "banner/000206_mallorca-skyline_2018.md"
 name: "Mallorca Skyline"
 ---
-# 000206.Mallorca Skyline
+# Mallorca Skyline
 
 *2018* • Palma • España
 
-
+![Mallorca Skyline](https://api.bannergress.com/bnrs/pictures/42eb1816af2bf9258d0847117a66f715)
 
 
 
 ## Details
 - **Distance (km):** 1.75
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 4818
 
 
 
@@ -49,4 +49,9 @@ Mallorca is one of Spain's Balearic Islands in the Mediterranean. It's known for
 
 
 
-> File: `000206_mallorca-skyline_2018.md` • #000206 • Slug: `mallorca-skyline`
+> File: 
+```
+• 000206_mallorca-skyline_2018.md
+• #000206 
+• Slug: `mallorca-skyline
+```

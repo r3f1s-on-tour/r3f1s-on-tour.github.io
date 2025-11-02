@@ -22,7 +22,7 @@ slug: "ostern-in-neubrandenburg"
 href: "banner/000420_ostern-in-neubrandenburg_2022.md"
 name: "Ostern in Neubrandenburg"
 ---
-# 000420.Ostern in Neubrandenburg
+# Ostern in Neubrandenburg
 
 *2022* • Neubrandenburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Ostern in Neubrandenburg"
 
 ## Details
 - **Distance (km):** 3.57
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 8.760
 
 
 
@@ -49,4 +49,9 @@ Mache einen Osterspaziergang in der Neubrandenburger Innenstadt.
 
 
 
-> File: `000420_ostern-in-neubrandenburg_2022.md` • #000420 • Slug: `ostern-in-neubrandenburg`
+> File: 
+```
+• 000420_ostern-in-neubrandenburg_2022.md
+• #000420 
+• Slug: `ostern-in-neubrandenburg
+```

@@ -22,7 +22,7 @@ slug: "exo5berlin-west"
 href: "banner/000307_exo5berlin-west_2021.md"
 name: "EXO5BERLIN West"
 ---
-# 000307.EXO5BERLIN West
+# EXO5BERLIN West
 
 *2021* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "EXO5BERLIN West"
 
 ## Details
 - **Distance (km):** 14.77
-
-
+- **Missions in banner:** 48
+- **Total missions completed:** 7206
 
 
 
@@ -49,4 +49,9 @@ This mission banner will show you famous places in Berlin city west. The first m
 
 
 
-> File: `000307_exo5berlin-west_2021.md` • #000307 • Slug: `exo5berlin-west`
+> File: 
+```
+• 000307_exo5berlin-west_2021.md
+• #000307 
+• Slug: `exo5berlin-west
+```

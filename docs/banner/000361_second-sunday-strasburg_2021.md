@@ -22,7 +22,7 @@ slug: "second-sunday-strasburg"
 href: "banner/000361_second-sunday-strasburg_2021.md"
 name: "Second Sunday - Strasburg"
 ---
-# 000361.Second Sunday - Strasburg
+# Second Sunday - Strasburg
 
 *2021* • Strasburg (Uckermark) • Deutschland
 
@@ -32,8 +32,8 @@ name: "Second Sunday - Strasburg"
 
 ## Details
 - **Distance (km):** 3.17
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 7992
 
 
 
@@ -49,4 +49,9 @@ Starte am Marktplatz und entdecke zum Second Sunday die Stadt Strasburg Uckermar
 
 
 
-> File: `000361_second-sunday-strasburg_2021.md` • #000361 • Slug: `second-sunday-strasburg`
+> File: 
+```
+• 000361_second-sunday-strasburg_2021.md
+• #000361 
+• Slug: `second-sunday-strasburg
+```

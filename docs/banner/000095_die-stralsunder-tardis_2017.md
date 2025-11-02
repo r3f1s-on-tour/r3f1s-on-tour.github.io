@@ -22,7 +22,7 @@ slug: "die-stralsunder-tardis"
 href: "banner/000095_die-stralsunder-tardis_2017.md"
 name: "Die Stralsunder Tardis"
 ---
-# 000095.Die Stralsunder Tardis
+# Die Stralsunder Tardis
 
 *2017* • Stralsund • Deutschland
 
@@ -32,8 +32,8 @@ name: "Die Stralsunder Tardis"
 
 ## Details
 - **Distance (km):** 18.00
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 2454
 
 
 
@@ -46,4 +46,9 @@ name: "Die Stralsunder Tardis"
 
 
 
-> File: `000095_die-stralsunder-tardis_2017.md` • #000095 • Slug: `die-stralsunder-tardis`
+> File: 
+```
+• 000095_die-stralsunder-tardis_2017.md
+• #000095 
+• Slug: `die-stralsunder-tardis
+```

@@ -22,7 +22,7 @@ slug: "retrogaming-ghost-n-goblins"
 href: "banner/000415_retrogaming-ghost-n-goblins_2022.md"
 name: "RetroGaming - Ghost n Goblins"
 ---
-# 000415.RetroGaming - Ghost n Goblins
+# RetroGaming - Ghost n Goblins
 
 *2022* • Pasewalk • Deutschland
 
@@ -32,8 +32,8 @@ name: "RetroGaming - Ghost n Goblins"
 
 ## Details
 - **Distance (km):** 3.57
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 8.724
 
 
 
@@ -49,4 +49,9 @@ Starte auf dem Markt eine Entdeckungsreise durch die Stadt Pasewalk und entdecke
 
 
 
-> File: `000415_retrogaming-ghost-n-goblins_2022.md` • #000415 • Slug: `retrogaming-ghost-n-goblins`
+> File: 
+```
+• 000415_retrogaming-ghost-n-goblins_2022.md
+• #000415 
+• Slug: `retrogaming-ghost-n-goblins
+```

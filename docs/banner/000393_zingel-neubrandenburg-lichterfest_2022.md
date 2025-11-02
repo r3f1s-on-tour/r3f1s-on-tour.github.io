@@ -22,7 +22,7 @@ slug: "zingel-neubrandenburg-lichterfest"
 href: "banner/000393_zingel-neubrandenburg-lichterfest_2022.md"
 name: "Zingel Neubrandenburg Lichterfest"
 ---
-# 000393.Zingel Neubrandenburg Lichterfest
+# Zingel Neubrandenburg Lichterfest
 
 *2022* • Neubrandenburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Zingel Neubrandenburg Lichterfest"
 
 ## Details
 - **Distance (km):** 8.22
-
-
+- **Missions in banner:** 30
+- **Total missions completed:** 8.490
 
 
 
@@ -49,4 +49,9 @@ Der Rundgang führt durch die Innenstadt von Neubrandenburg. Erlebe dabei die za
 
 
 
-> File: `000393_zingel-neubrandenburg-lichterfest_2022.md` • #000393 • Slug: `zingel-neubrandenburg-lichterfest`
+> File: 
+```
+• 000393_zingel-neubrandenburg-lichterfest_2022.md
+• #000393 
+• Slug: `zingel-neubrandenburg-lichterfest
+```

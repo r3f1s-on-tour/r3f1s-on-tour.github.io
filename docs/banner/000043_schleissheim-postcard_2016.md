@@ -22,7 +22,7 @@ slug: "schleissheim-postcard"
 href: "banner/000043_schleissheim-postcard_2016.md"
 name: "Schleissheim Postcard"
 ---
-# 000043.Schleissheim Postcard
+# Schleissheim Postcard
 
 *2016* • Oberschleißheim • Deutschland
 
@@ -32,8 +32,8 @@ name: "Schleissheim Postcard"
 
 ## Details
 - **Distance (km):** 9.63
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 954
 
 
 
@@ -51,4 +51,9 @@ Possible on foot. Bike recommended.
 
 
 
-> File: `000043_schleissheim-postcard_2016.md` • #000043 • Slug: `schleissheim-postcard`
+> File: 
+```
+• 000043_schleissheim-postcard_2016.md
+• #000043 
+• Slug: `schleissheim-postcard
+```

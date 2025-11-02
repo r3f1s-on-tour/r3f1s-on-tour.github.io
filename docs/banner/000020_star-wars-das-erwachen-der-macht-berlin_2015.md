@@ -22,7 +22,7 @@ slug: "star-wars-das-erwachen-der-macht-berlin"
 href: "banner/000020_star-wars-das-erwachen-der-macht-berlin_2015.md"
 name: "STAR WARS - Das Erwachen der Macht (Berlin)"
 ---
-# 000020.STAR WARS - Das Erwachen der Macht (Berlin)
+# STAR WARS - Das Erwachen der Macht (Berlin)
 
 *2015* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "STAR WARS - Das Erwachen der Macht (Berlin)"
 
 ## Details
 - **Distance (km):** 2.20
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 354
 
 
 
@@ -46,4 +46,9 @@ name: "STAR WARS - Das Erwachen der Macht (Berlin)"
 
 
 
-> File: `000020_star-wars-das-erwachen-der-macht-berlin_2015.md` • #000020 • Slug: `star-wars-das-erwachen-der-macht-berlin`
+> File: 
+```
+• 000020_star-wars-das-erwachen-der-macht-berlin_2015.md
+• #000020 
+• Slug: `star-wars-das-erwachen-der-macht-berlin
+```

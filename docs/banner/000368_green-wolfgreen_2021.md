@@ -22,7 +22,7 @@ slug: "green-wolfgreen"
 href: "banner/000368_green-wolfgreen_2021.md"
 name: "Green Wolfgreen"
 ---
-# 000368.Green Wolfgreen
+# Green Wolfgreen
 
 *2021* • Neubrandenburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Green Wolfgreen"
 
 ## Details
 - **Distance (km):** 5.56
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 8088
 
 
 
@@ -49,4 +49,9 @@ Erkunde die Innenstadt von Neubrandenburg mit all ihren mittelalterlichen Gebäu
 
 
 
-> File: `000368_green-wolfgreen_2021.md` • #000368 • Slug: `green-wolfgreen`
+> File: 
+```
+• 000368_green-wolfgreen_2021.md
+• #000368 
+• Slug: `green-wolfgreen
+```

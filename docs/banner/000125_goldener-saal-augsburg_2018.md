@@ -22,7 +22,7 @@ slug: "goldener-saal-augsburg"
 href: "banner/000125_goldener-saal-augsburg_2018.md"
 name: "Goldener Saal Augsburg"
 ---
-# 000125.Goldener Saal Augsburg
+# Goldener Saal Augsburg
 
 *2018* • Augsburg • Deutschland
 
@@ -32,6 +32,8 @@ name: "Goldener Saal Augsburg"
 
 ## Details
 - **Distance (km):** 5.40
+- **Missions in banner:** 24
+- **Total missions completed:** 3078
 
 
 
@@ -39,6 +41,9 @@ name: "Goldener Saal Augsburg"
 
 
 
-
-
-> File: `000125_goldener-saal-augsburg_2018.md` • #000125 • Slug: `goldener-saal-augsburg`
+> File: 
+```
+• 000125_goldener-saal-augsburg_2018.md
+• #000125 
+• Slug: `goldener-saal-augsburg
+```

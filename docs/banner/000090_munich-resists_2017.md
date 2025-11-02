@@ -22,7 +22,7 @@ slug: "munich-resists"
 href: "banner/000090_munich-resists_2017.md"
 name: "Munich resists!"
 ---
-# 000090.Munich resists!
+# Munich resists!
 
 *2017* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "Munich resists!"
 
 ## Details
 - **Distance (km):** 25.94
-
-
+- **Missions in banner:** 66
+- **Total missions completed:** 2364
 
 
 
@@ -49,4 +49,9 @@ Sei kein Frosch - und folge dem Weg des Widerstands durch die bayerische Landesh
 
 
 
-> File: `000090_munich-resists_2017.md` • #000090 • Slug: `munich-resists`
+> File: 
+```
+• 000090_munich-resists_2017.md
+• #000090 
+• Slug: `munich-resists
+```

@@ -22,7 +22,7 @@ slug: "szczecin-for-tourists"
 href: "banner/000092_szczecin-for-tourists_2017.md"
 name: "SZCZECIN for TOURISTS"
 ---
-# 000092.SZCZECIN for TOURISTS
+# SZCZECIN for TOURISTS
 
 *2017* • Szczecin • Polska
 
@@ -32,8 +32,8 @@ name: "SZCZECIN for TOURISTS"
 
 ## Details
 - **Distance (km):** 1.63
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 2376
 
 
 
@@ -49,4 +49,9 @@ Welcome to Szczecin! Let's take a walk together and complete the banner! Hack-on
 
 
 
-> File: `000092_szczecin-for-tourists_2017.md` • #000092 • Slug: `szczecin-for-tourists`
+> File: 
+```
+• 000092_szczecin-for-tourists_2017.md
+• #000092 
+• Slug: `szczecin-for-tourists
+```

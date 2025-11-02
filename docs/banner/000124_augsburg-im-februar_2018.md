@@ -22,7 +22,7 @@ slug: "augsburg-im-februar"
 href: "banner/000124_augsburg-im-februar_2018.md"
 name: "Augsburg im Februar"
 ---
-# 000124.Augsburg im Februar
+# Augsburg im Februar
 
 *2018* • Augsburg • Deutschland
 
@@ -32,6 +32,8 @@ name: "Augsburg im Februar"
 
 ## Details
 - **Distance (km):** 7.10
+- **Missions in banner:** 30
+- **Total missions completed:** 3054
 
 
 
@@ -39,6 +41,9 @@ name: "Augsburg im Februar"
 
 
 
-
-
-> File: `000124_augsburg-im-februar_2018.md` • #000124 • Slug: `augsburg-im-februar`
+> File: 
+```
+• 000124_augsburg-im-februar_2018.md
+• #000124 
+• Slug: `augsburg-im-februar
+```

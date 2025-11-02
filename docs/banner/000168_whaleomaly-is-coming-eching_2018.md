@@ -22,7 +22,7 @@ slug: "whaleomaly-is-coming-eching"
 href: "banner/000168_whaleomaly-is-coming-eching_2018.md"
 name: "Whaleomaly is Coming [Eching]"
 ---
-# 000168.Whaleomaly is Coming [Eching]
+# Whaleomaly is Coming [Eching]
 
 *2018* • Eching • Deutschland
 
@@ -32,8 +32,8 @@ name: "Whaleomaly is Coming [Eching]"
 
 ## Details
 
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 4098
 
 
 
@@ -46,4 +46,9 @@ name: "Whaleomaly is Coming [Eching]"
 
 
 
-> File: `000168_whaleomaly-is-coming-eching_2018.md` • #000168 • Slug: `whaleomaly-is-coming-eching`
+> File: 
+```
+• 000168_whaleomaly-is-coming-eching_2018.md
+• #000168 
+• Slug: `whaleomaly-is-coming-eching
+```

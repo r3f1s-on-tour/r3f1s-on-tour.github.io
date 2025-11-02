@@ -22,7 +22,7 @@ slug: "topographia-bavariae-straubinga"
 href: "banner/000104_topographia-bavariae-straubinga_2017.md"
 name: "Topographia Bavariae Straubinga"
 ---
-# 000104.Topographia Bavariae Straubinga
+# Topographia Bavariae Straubinga
 
 *2017* • Straubing • Deutschland
 
@@ -32,8 +32,8 @@ name: "Topographia Bavariae Straubinga"
 
 ## Details
 - **Distance (km):** 4.14
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 2664
 
 
 
@@ -49,4 +49,9 @@ A Tour through the historical Straubing.
 
 
 
-> File: `000104_topographia-bavariae-straubinga_2017.md` • #000104 • Slug: `topographia-bavariae-straubinga`
+> File: 
+```
+• 000104_topographia-bavariae-straubinga_2017.md
+• #000104 
+• Slug: `topographia-bavariae-straubinga
+```

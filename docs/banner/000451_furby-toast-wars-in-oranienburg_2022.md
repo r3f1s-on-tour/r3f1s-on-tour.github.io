@@ -22,7 +22,7 @@ slug: "furby-toast-wars-in-oranienburg"
 href: "banner/000451_furby-toast-wars-in-oranienburg_2022.md"
 name: "Furby Toast Wars in Oranienburg"
 ---
-# 000451.Furby Toast Wars in Oranienburg
+# Furby Toast Wars in Oranienburg
 
 *2022* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Furby Toast Wars in Oranienburg"
 
 ## Details
 - **Distance (km):** 4.00
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 9.318
 
 
 
@@ -44,4 +44,9 @@ Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> File: `000451_furby-toast-wars-in-oranienburg_2022.md` • #000451 • Slug: `furby-toast-wars-in-oranienburg`
+> File: 
+```
+• 000451_furby-toast-wars-in-oranienburg_2022.md
+• #000451 
+• Slug: `furby-toast-wars-in-oranienburg
+```

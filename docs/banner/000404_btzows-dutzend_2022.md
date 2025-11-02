@@ -22,7 +22,7 @@ slug: "btzows-dutzend"
 href: "banner/000404_btzows-dutzend_2022.md"
 name: "Bötzows Dutzend"
 ---
-# 000404.Bötzows Dutzend
+# Bötzows Dutzend
 
 *2022* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Bötzows Dutzend"
 
 ## Details
 - **Distance (km):** 6.56
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 8.628
 
 
 
@@ -49,4 +49,9 @@ Als Bötzowviertel wird die Ortslage zwischen der Danziger Straße im Nordosten,
 
 
 
-> File: `000404_btzows-dutzend_2022.md` • #000404 • Slug: `btzows-dutzend`
+> File: 
+```
+• 000404_btzows-dutzend_2022.md
+• #000404 
+• Slug: `btzows-dutzend
+```

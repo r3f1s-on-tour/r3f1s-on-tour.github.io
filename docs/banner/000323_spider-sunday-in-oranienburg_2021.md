@@ -22,7 +22,7 @@ slug: "spider-sunday-in-oranienburg"
 href: "banner/000323_spider-sunday-in-oranienburg_2021.md"
 name: "Spider Sunday in Oranienburg"
 ---
-# 000323.Spider Sunday in Oranienburg
+# Spider Sunday in Oranienburg
 
 *2021* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Spider Sunday in Oranienburg"
 
 ## Details
 - **Distance (km):** 2.00
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 7464
 
 
 
@@ -49,4 +49,9 @@ Mache eine kleine Tour durch Oranienburg und starte am Bahnhof
 
 
 
-> File: `000323_spider-sunday-in-oranienburg_2021.md` • #000323 • Slug: `spider-sunday-in-oranienburg`
+> File: 
+```
+• 000323_spider-sunday-in-oranienburg_2021.md
+• #000323 
+• Slug: `spider-sunday-in-oranienburg
+```

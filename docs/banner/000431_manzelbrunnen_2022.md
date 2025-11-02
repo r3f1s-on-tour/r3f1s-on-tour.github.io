@@ -22,7 +22,7 @@ slug: "manzelbrunnen"
 href: "banner/000431_manzelbrunnen_2022.md"
 name: "Manzelbrunnen"
 ---
-# 000431.Manzelbrunnen
+# Manzelbrunnen
 
 *2022* • Szczecin • Polska
 
@@ -32,8 +32,8 @@ name: "Manzelbrunnen"
 
 ## Details
 - **Distance (km):** 13.08
-
-
+- **Missions in banner:** 48
+- **Total missions completed:** 9.000
 
 
 
@@ -49,4 +49,9 @@ Historyczna rzeźba symbolizująca Szczecin, zaginiona w czasie 2 Wojny Światow
 
 
 
-> File: `000431_manzelbrunnen_2022.md` • #000431 • Slug: `manzelbrunnen`
+> File: 
+```
+• 000431_manzelbrunnen_2022.md
+• #000431 
+• Slug: `manzelbrunnen
+```

@@ -22,7 +22,7 @@ slug: "whaleomaly-is-coming-regensburg"
 href: "banner/000192_whaleomaly-is-coming-regensburg_2018.md"
 name: "Whaleomaly is Coming Regensburg"
 ---
-# 000192.Whaleomaly is Coming Regensburg
+# Whaleomaly is Coming Regensburg
 
 *2018* • Regensburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Whaleomaly is Coming Regensburg"
 
 ## Details
 - **Distance (km):** 1.62
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 4572
 
 
 
@@ -50,4 +50,9 @@ Explore Regensburgs Whales! Take them with you to unite at the Whaleomaly Linz!
 
 
 
-> File: `000192_whaleomaly-is-coming-regensburg_2018.md` • #000192 • Slug: `whaleomaly-is-coming-regensburg`
+> File: 
+```
+• 000192_whaleomaly-is-coming-regensburg_2018.md
+• #000192 
+• Slug: `whaleomaly-is-coming-regensburg
+```

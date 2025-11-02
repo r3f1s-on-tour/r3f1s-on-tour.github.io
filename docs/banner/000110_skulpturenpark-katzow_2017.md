@@ -22,7 +22,7 @@ slug: "skulpturenpark-katzow"
 href: "banner/000110_skulpturenpark-katzow_2017.md"
 name: "Skulpturenpark Katzow"
 ---
-# 000110.Skulpturenpark Katzow
+# Skulpturenpark Katzow
 
 *2017* • Katzow • Deutschland
 
@@ -32,8 +32,8 @@ name: "Skulpturenpark Katzow"
 
 ## Details
 - **Distance (km):** 6.38
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 2742
 
 
 
@@ -49,4 +49,9 @@ Der Park besteht seit 1991. Gründer des Skulpturenparks Katzow ist der Bildhaue
 
 
 
-> File: `000110_skulpturenpark-katzow_2017.md` • #000110 • Slug: `skulpturenpark-katzow`
+> File: 
+```
+• 000110_skulpturenpark-katzow_2017.md
+• #000110 
+• Slug: `skulpturenpark-katzow
+```

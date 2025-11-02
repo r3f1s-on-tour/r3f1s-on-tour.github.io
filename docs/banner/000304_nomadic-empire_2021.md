@@ -22,7 +22,7 @@ slug: "nomadic-empire"
 href: "banner/000304_nomadic-empire_2021.md"
 name: "Nomadic Empire"
 ---
-# 000304.Nomadic Empire
+# Nomadic Empire
 
 *2021* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Nomadic Empire"
 
 ## Details
 - **Distance (km):** 9.70
-
-
+- **Missions in banner:** 30
+- **Total missions completed:** 7104
 
 
 
@@ -49,4 +49,9 @@ A nice walk from Alexanderplatz along the Kollwitzkietz to Brunnenviertel with i
 
 
 
-> File: `000304_nomadic-empire_2021.md` • #000304 • Slug: `nomadic-empire`
+> File: 
+```
+• 000304_nomadic-empire_2021.md
+• #000304 
+• Slug: `nomadic-empire
+```

@@ -22,7 +22,7 @@ slug: "munich-city-walls"
 href: "banner/000044_munich-city-walls_2016.md"
 name: "Munich city walls"
 ---
-# 000044.Munich city walls
+# Munich city walls
 
 *2016* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "Munich city walls"
 
 ## Details
 - **Distance (km):** 13.80
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 978
 
 
 
@@ -49,4 +49,9 @@ In former times Munich had two city walls. Later the town was transformed into a
 
 
 
-> File: `000044_munich-city-walls_2016.md` • #000044 • Slug: `munich-city-walls`
+> File: 
+```
+• 000044_munich-city-walls_2016.md
+• #000044 
+• Slug: `munich-city-walls
+```

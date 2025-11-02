@@ -22,7 +22,7 @@ slug: "hallow-pumpkin-neubrandenburg"
 href: "banner/000330_hallow-pumpkin-neubrandenburg_2021.md"
 name: "Hallow Pumpkin Neubrandenburg"
 ---
-# 000330.Hallow Pumpkin Neubrandenburg
+# Hallow Pumpkin Neubrandenburg
 
 *2021* • Neubrandenburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Hallow Pumpkin Neubrandenburg"
 
 ## Details
 - **Distance (km):** 8.52
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 7566
 
 
 
@@ -49,4 +49,9 @@ Erlebe mit ein paar Missionen die tolle Halloween Tour in Neubrandenburg.
 
 
 
-> File: `000330_hallow-pumpkin-neubrandenburg_2021.md` • #000330 • Slug: `hallow-pumpkin-neubrandenburg`
+> File: 
+```
+• 000330_hallow-pumpkin-neubrandenburg_2021.md
+• #000330 
+• Slug: `hallow-pumpkin-neubrandenburg
+```

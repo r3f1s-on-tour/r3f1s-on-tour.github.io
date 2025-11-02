@@ -22,7 +22,7 @@ slug: "defeat-the-hulk"
 href: "banner/000169_defeat-the-hulk_2018.md"
 name: "Defeat the Hulk"
 ---
-# 000169.Defeat the Hulk
+# Defeat the Hulk
 
 *2018* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Defeat the Hulk"
 
 ## Details
 - **Distance (km):** 1.62
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 4104
 
 
 
@@ -49,4 +49,9 @@ This tour guides you through the Friedrichshain Nordkiez which is also known as 
 
 
 
-> File: `000169_defeat-the-hulk_2018.md` • #000169 • Slug: `defeat-the-hulk`
+> File: 
+```
+• 000169_defeat-the-hulk_2018.md
+• #000169 
+• Slug: `defeat-the-hulk
+```

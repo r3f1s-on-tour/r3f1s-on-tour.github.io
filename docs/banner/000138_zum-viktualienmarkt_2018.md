@@ -22,7 +22,7 @@ slug: "zum-viktualienmarkt"
 href: "banner/000138_zum-viktualienmarkt_2018.md"
 name: "Zum Viktualienmarkt"
 ---
-# 000138.Zum Viktualienmarkt
+# Zum Viktualienmarkt
 
 *2018* • München • Deutschland
 
@@ -32,6 +32,8 @@ name: "Zum Viktualienmarkt"
 
 ## Details
 
+- **Missions in banner:** 18
+- **Total missions completed:** 3324
 
 
 
@@ -39,6 +41,9 @@ name: "Zum Viktualienmarkt"
 
 
 
-
-
-> File: `000138_zum-viktualienmarkt_2018.md` • #000138 • Slug: `zum-viktualienmarkt`
+> File: 
+```
+• 000138_zum-viktualienmarkt_2018.md
+• #000138 
+• Slug: `zum-viktualienmarkt
+```

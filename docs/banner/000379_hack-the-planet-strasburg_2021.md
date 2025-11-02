@@ -22,7 +22,7 @@ slug: "hack-the-planet-strasburg"
 href: "banner/000379_hack-the-planet-strasburg_2021.md"
 name: "Hack the planet - Strasburg"
 ---
-# 000379.Hack the planet - Strasburg
+# Hack the planet - Strasburg
 
 *2021* • Strasburg (Uckermark) • Deutschland
 
@@ -32,8 +32,8 @@ name: "Hack the planet - Strasburg"
 
 ## Details
 - **Distance (km):** 14.08
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 8256
 
 
 
@@ -49,4 +49,9 @@ Erkunde die Stadt Strasburg.
 
 
 
-> File: `000379_hack-the-planet-strasburg_2021.md` • #000379 • Slug: `hack-the-planet-strasburg`
+> File: 
+```
+• 000379_hack-the-planet-strasburg_2021.md
+• #000379 
+• Slug: `hack-the-planet-strasburg
+```

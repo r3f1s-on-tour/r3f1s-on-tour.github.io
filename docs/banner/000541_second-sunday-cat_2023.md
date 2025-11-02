@@ -22,7 +22,7 @@ slug: "second-sunday-cat"
 href: "banner/000541_second-sunday-cat_2023.md"
 name: "Second Sunday Cat"
 ---
-# 000541.Second Sunday Cat
+# Second Sunday Cat
 
 *2023* • Strasburg (Uckermark) • Deutschland
 
@@ -32,8 +32,8 @@ name: "Second Sunday Cat"
 
 ## Details
 - **Distance (km):** 8.51
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 11.988
 
 
 
@@ -49,4 +49,9 @@ Beginne eine Runde durch Strasburg und entdecke auf deiner Runde Sehenswürdigke
 
 
 
-> File: `000541_second-sunday-cat_2023.md` • #000541 • Slug: `second-sunday-cat`
+> File: 
+```
+• 000541_second-sunday-cat_2023.md
+• #000541 
+• Slug: `second-sunday-cat
+```

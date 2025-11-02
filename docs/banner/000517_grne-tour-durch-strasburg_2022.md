@@ -22,7 +22,7 @@ slug: "grne-tour-durch-strasburg"
 href: "banner/000517_grne-tour-durch-strasburg_2022.md"
 name: "Grüne Tour durch Strasburg"
 ---
-# 000517.Grüne Tour durch Strasburg
+# Grüne Tour durch Strasburg
 
 *2022* • Strasburg (Uckermark) • Deutschland
 
@@ -32,8 +32,8 @@ name: "Grüne Tour durch Strasburg"
 
 ## Details
 - **Distance (km):** 3.51
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 10.980
 
 
 
@@ -49,4 +49,9 @@ Starte am Marktplatz  einen Rundgang und entdecke Strasburg. Auf deinem Abenteue
 
 
 
-> File: `000517_grne-tour-durch-strasburg_2022.md` • #000517 • Slug: `grne-tour-durch-strasburg`
+> File: 
+```
+• 000517_grne-tour-durch-strasburg_2022.md
+• #000517 
+• Slug: `grne-tour-durch-strasburg
+```

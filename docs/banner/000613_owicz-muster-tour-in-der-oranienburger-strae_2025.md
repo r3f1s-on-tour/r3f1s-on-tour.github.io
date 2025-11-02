@@ -22,7 +22,7 @@ slug: "owicz-muster-tour-in-der-oranienburger-strae"
 href: "banner/000613_owicz-muster-tour-in-der-oranienburger-strae_2025.md"
 name: "Łowicz-Muster Tour in der Oranienburger Straße"
 ---
-# 000613.Łowicz-Muster Tour in der Oranienburger Straße
+# Łowicz-Muster Tour in der Oranienburger Straße
 
 *2025* • Berlin • Deutschland
 
@@ -46,8 +46,8 @@ name: "Łowicz-Muster Tour in der Oranienburger Straße"
 
 ## Details
 - **Distance (km):** 1.60
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 13.422
 
 
 
@@ -60,4 +60,9 @@ name: "Łowicz-Muster Tour in der Oranienburger Straße"
 <a href="https://r3f1s-on-tour.github.io/trips/poland_train_trip/" style="display:inline-block;margin:6px 8px 0 0;padding:6px 12px;background:#8a2be2;color:#fff;text-decoration:none;border-radius:6px;">🧭 Trips</a>
 
 
-> File: `000613_owicz-muster-tour-in-der-oranienburger-strae_2025.md` • #000613 • Slug: `owicz-muster-tour-in-der-oranienburger-strae`
+> File: 
+```
+• 000613_owicz-muster-tour-in-der-oranienburger-strae_2025.md
+• #000613 
+• Slug: `owicz-muster-tour-in-der-oranienburger-strae
+```

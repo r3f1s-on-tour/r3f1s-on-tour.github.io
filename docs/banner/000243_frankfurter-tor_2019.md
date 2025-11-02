@@ -3,7 +3,7 @@ nummer: "243"
 startLatitude: "52.512885"
 startLongitude: "13.451796"
 titel: "Frankfurter Tor"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/296ff5541a3d19f4adc4ca6f10d788bd"
 region: "Berlin"
 country: "Deutschland"
 completed: "5814"
@@ -22,18 +22,18 @@ slug: "frankfurter-tor"
 href: "banner/000243_frankfurter-tor_2019.md"
 name: "Frankfurter Tor"
 ---
-# 000243.Frankfurter Tor
+# Frankfurter Tor
 
 *2019* • Berlin • Deutschland
 
-
+![Frankfurter Tor](https://api.bannergress.com/bnrs/pictures/296ff5541a3d19f4adc4ca6f10d788bd)
 
 
 
 ## Details
 - **Distance (km):** 4.15
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 5814
 
 
 
@@ -49,4 +49,9 @@ Das Frankfurter Tor ist heute ein Platz im Berliner Ortsteil Friedrichshain am �
 
 
 
-> File: `000243_frankfurter-tor_2019.md` • #000243 • Slug: `frankfurter-tor`
+> File: 
+```
+• 000243_frankfurter-tor_2019.md
+• #000243 
+• Slug: `frankfurter-tor
+```

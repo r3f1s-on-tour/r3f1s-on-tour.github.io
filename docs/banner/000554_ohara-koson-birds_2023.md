@@ -22,7 +22,7 @@ slug: "ohara-koson-birds"
 href: "banner/000554_ohara-koson-birds_2023.md"
 name: "Ohara Koson Birds"
 ---
-# 000554.Ohara Koson Birds
+# Ohara Koson Birds
 
 *2023* • Neubrandenburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Ohara Koson Birds"
 
 ## Details
 - **Distance (km):** 5.76
-
-
+- **Missions in banner:** 96
+- **Total missions completed:** 12.360
 
 
 
@@ -49,4 +49,9 @@ Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde Sehenswür
 
 
 
-> File: `000554_ohara-koson-birds_2023.md` • #000554 • Slug: `ohara-koson-birds`
+> File: 
+```
+• 000554_ohara-koson-birds_2023.md
+• #000554 
+• Slug: `ohara-koson-birds
+```

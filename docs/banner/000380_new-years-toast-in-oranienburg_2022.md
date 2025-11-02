@@ -22,7 +22,7 @@ slug: "new-years-toast-in-oranienburg"
 href: "banner/000380_new-years-toast-in-oranienburg_2022.md"
 name: "New Years Toast in Oranienburg"
 ---
-# 000380.New Years Toast in Oranienburg
+# New Years Toast in Oranienburg
 
 *2022* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "New Years Toast in Oranienburg"
 
 ## Details
 - **Distance (km):** 1.68
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 8262
 
 
 
@@ -44,4 +44,9 @@ Mache eine kleine Tour durch Oranienburg und hole dir die Toasts ins Profil
 
 
 
-> File: `000380_new-years-toast-in-oranienburg_2022.md` • #000380 • Slug: `new-years-toast-in-oranienburg`
+> File: 
+```
+• 000380_new-years-toast-in-oranienburg_2022.md
+• #000380 
+• Slug: `new-years-toast-in-oranienburg
+```

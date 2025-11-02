@@ -3,8 +3,8 @@ nummer: "223"
 startLatitude: "48.1363204"
 startLongitude: "11.5628643"
 titel: "Raute Blau Weiß 1"
-picture: ""
-region: "Vaterstetten"
+picture: "https://api.bannergress.com/bnrs/pictures/2934c6c9b13ce7c4230a216d0a8181ab"
+region: "München"
 country: "Deutschland"
 completed: "5352"
 missions: "6"
@@ -22,18 +22,18 @@ slug: "raute-blau-wei-1"
 href: "banner/000223_raute-blau-wei-1_2019.md"
 name: "Raute Blau Weiß 1"
 ---
-# 000223.Raute Blau Weiß 1
+# Raute Blau Weiß 1
 
-*2019* • Vaterstetten • Deutschland
+*2019* • München • Deutschland
 
-
+![Raute Blau Weiß 1](https://api.bannergress.com/bnrs/pictures/2934c6c9b13ce7c4230a216d0a8181ab)
 
 
 
 ## Details
 - **Distance (km):** 1.70
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 5352
 
 
 
@@ -46,4 +46,9 @@ name: "Raute Blau Weiß 1"
 
 
 
-> File: `000223_raute-blau-wei-1_2019.md` • #000223 • Slug: `raute-blau-wei-1`
+> File: 
+```
+• 000223_raute-blau-wei-1_2019.md
+• #000223 
+• Slug: `raute-blau-wei-1
+```

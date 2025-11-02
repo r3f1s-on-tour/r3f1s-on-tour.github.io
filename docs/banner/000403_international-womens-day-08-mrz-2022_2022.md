@@ -22,7 +22,7 @@ slug: "international-womens-day-08-mrz-2022"
 href: "banner/000403_international-womens-day-08-mrz-2022_2022.md"
 name: "International Womens Day 08 März 2022"
 ---
-# 000403.International Womens Day 08 März 2022
+# International Womens Day 08 März 2022
 
 *2022* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "International Womens Day 08 März 2022"
 
 ## Details
 - **Distance (km):** 5.02
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 8.616
 
 
 
@@ -49,4 +49,9 @@ Erkunde und Entdecke Berlin am Frauentag
 
 
 
-> File: `000403_international-womens-day-08-mrz-2022_2022.md` • #000403 • Slug: `international-womens-day-08-mrz-2022`
+> File: 
+```
+• 000403_international-womens-day-08-mrz-2022_2022.md
+• #000403 
+• Slug: `international-womens-day-08-mrz-2022
+```

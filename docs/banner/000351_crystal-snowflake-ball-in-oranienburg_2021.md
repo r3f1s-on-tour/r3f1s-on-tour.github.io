@@ -22,7 +22,7 @@ slug: "crystal-snowflake-ball-in-oranienburg"
 href: "banner/000351_crystal-snowflake-ball-in-oranienburg_2021.md"
 name: "Crystal Snowflake Ball in Oranienburg"
 ---
-# 000351.Crystal Snowflake Ball in Oranienburg
+# Crystal Snowflake Ball in Oranienburg
 
 *2021* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Crystal Snowflake Ball in Oranienburg"
 
 ## Details
 - **Distance (km):** 6.05
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 7878
 
 
 
@@ -44,4 +44,9 @@ Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> File: `000351_crystal-snowflake-ball-in-oranienburg_2021.md` • #000351 • Slug: `crystal-snowflake-ball-in-oranienburg`
+> File: 
+```
+• 000351_crystal-snowflake-ball-in-oranienburg_2021.md
+• #000351 
+• Slug: `crystal-snowflake-ball-in-oranienburg
+```

@@ -22,7 +22,7 @@ slug: "tiger-of-the-year"
 href: "banner/000422_tiger-of-the-year_2022.md"
 name: "Tiger of the Year"
 ---
-# 000422.Tiger of the Year
+# Tiger of the Year
 
 *2022* • Neubrandenburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Tiger of the Year"
 
 ## Details
 - **Distance (km):** 16.08
-
-
+- **Missions in banner:** 30
+- **Total missions completed:** 8.808
 
 
 
@@ -49,4 +49,9 @@ Entdecke durch die Missionen Neubrandenburg. Die Mission beginnt  und endet im V
 
 
 
-> File: `000422_tiger-of-the-year_2022.md` • #000422 • Slug: `tiger-of-the-year`
+> File: 
+```
+• 000422_tiger-of-the-year_2022.md
+• #000422 
+• Slug: `tiger-of-the-year
+```

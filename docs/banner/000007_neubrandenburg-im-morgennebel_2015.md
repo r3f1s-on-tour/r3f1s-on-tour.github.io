@@ -22,7 +22,7 @@ slug: "neubrandenburg-im-morgennebel"
 href: "banner/000007_neubrandenburg-im-morgennebel_2015.md"
 name: "Neubrandenburg im Morgennebel"
 ---
-# 000007.Neubrandenburg im Morgennebel
+# Neubrandenburg im Morgennebel
 
 *2015* • Neubrandenburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Neubrandenburg im Morgennebel"
 
 ## Details
 - **Distance (km):** 35.29
-
-
+- **Missions in banner:** 30
+- **Total missions completed:** 174
 
 
 
@@ -50,4 +50,9 @@ Schon Caspar David Friedrich erkannte 1816 die Schönheit der Stadt.
 
 
 
-> File: `000007_neubrandenburg-im-morgennebel_2015.md` • #000007 • Slug: `neubrandenburg-im-morgennebel`
+> File: 
+```
+• 000007_neubrandenburg-im-morgennebel_2015.md
+• #000007 
+• Slug: `neubrandenburg-im-morgennebel
+```

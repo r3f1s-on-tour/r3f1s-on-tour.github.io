@@ -22,7 +22,7 @@ slug: "find-the-13-archetypes-in-oranienburg"
 href: "banner/000339_find-the-13-archetypes-in-oranienburg_2021.md"
 name: "Find the 13 Archetypes in Oranienburg"
 ---
-# 000339.Find the 13 Archetypes in Oranienburg
+# Find the 13 Archetypes in Oranienburg
 
 *2021* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Find the 13 Archetypes in Oranienburg"
 
 ## Details
 - **Distance (km):** 6.56
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 7698
 
 
 
@@ -49,4 +49,9 @@ Gehe auf Tour in Oranienburg und finde die 13 Archetypen in Oranienburg. Die Tou
 
 
 
-> File: `000339_find-the-13-archetypes-in-oranienburg_2021.md` • #000339 • Slug: `find-the-13-archetypes-in-oranienburg`
+> File: 
+```
+• 000339_find-the-13-archetypes-in-oranienburg_2021.md
+• #000339 
+• Slug: `find-the-13-archetypes-in-oranienburg
+```

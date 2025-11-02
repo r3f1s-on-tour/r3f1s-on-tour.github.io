@@ -22,7 +22,7 @@ slug: "enlightened-mission"
 href: "banner/000572_enlightened-mission_2023.md"
 name: "Enlightened Mission"
 ---
-# 000572.Enlightened Mission
+# Enlightened Mission
 
 *2023* • Hoyerswerda - Wojerecy • Deutschland
 
@@ -32,8 +32,8 @@ name: "Enlightened Mission"
 
 ## Details
 - **Distance (km):** 5.13
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 12.624
 
 
 
@@ -49,4 +49,9 @@ Ne Fixe Runde durch Hoyerswerda damit hier die Erleuchtung wieder einkehrt!
 
 
 
-> File: `000572_enlightened-mission_2023.md` • #000572 • Slug: `enlightened-mission`
+> File: 
+```
+• 000572_enlightened-mission_2023.md
+• #000572 
+• Slug: `enlightened-mission
+```

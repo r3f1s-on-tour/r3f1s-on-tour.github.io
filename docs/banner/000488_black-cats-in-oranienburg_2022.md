@@ -22,7 +22,7 @@ slug: "black-cats-in-oranienburg"
 href: "banner/000488_black-cats-in-oranienburg_2022.md"
 name: "Black Cats in Oranienburg"
 ---
-# 000488.Black Cats in Oranienburg
+# Black Cats in Oranienburg
 
 *2022* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Black Cats in Oranienburg"
 
 ## Details
 - **Distance (km):** 1.26
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 10.506
 
 
 
@@ -44,4 +44,9 @@ Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und end
 
 
 
-> File: `000488_black-cats-in-oranienburg_2022.md` • #000488 • Slug: `black-cats-in-oranienburg`
+> File: 
+```
+• 000488_black-cats-in-oranienburg_2022.md
+• #000488 
+• Slug: `black-cats-in-oranienburg
+```

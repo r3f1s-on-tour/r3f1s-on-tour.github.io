@@ -22,7 +22,7 @@ slug: "blaue-nacht-sd"
 href: "banner/000166_blaue-nacht-sd_2018.md"
 name: "Blaue Nacht Süd"
 ---
-# 000166.Blaue Nacht Süd
+# Blaue Nacht Süd
 
 *2018* • Nürnberg • Deutschland
 
@@ -32,6 +32,8 @@ name: "Blaue Nacht Süd"
 
 ## Details
 
+- **Missions in banner:** 36
+- **Total missions completed:** 4056
 
 
 
@@ -39,6 +41,9 @@ name: "Blaue Nacht Süd"
 
 
 
-
-
-> File: `000166_blaue-nacht-sd_2018.md` • #000166 • Slug: `blaue-nacht-sd`
+> File: 
+```
+• 000166_blaue-nacht-sd_2018.md
+• #000166 
+• Slug: `blaue-nacht-sd
+```

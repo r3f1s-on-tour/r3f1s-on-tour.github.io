@@ -22,7 +22,7 @@ slug: "las-banderas"
 href: "banner/000606_las-banderas_2024.md"
 name: "Las Banderas"
 ---
-# 000606.Las Banderas
+# Las Banderas
 
 *2024* • València • España
 
@@ -32,8 +32,8 @@ name: "Las Banderas"
 
 ## Details
 - **Distance (km):** 4.72
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 13.302
 
 
 
@@ -49,4 +49,9 @@ Vamos a pasear desde un gran punto de reunión e interés (La Nau de l'aigua) ha
 
 
 
-> File: `000606_las-banderas_2024.md` • #000606 • Slug: `las-banderas`
+> File: 
+```
+• 000606_las-banderas_2024.md
+• #000606 
+• Slug: `las-banderas
+```

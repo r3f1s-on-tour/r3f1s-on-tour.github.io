@@ -22,7 +22,7 @@ slug: "stadtwappen-ingolstadt"
 href: "banner/000099_stadtwappen-ingolstadt_2017.md"
 name: "Stadtwappen Ingolstadt"
 ---
-# 000099.Stadtwappen Ingolstadt
+# Stadtwappen Ingolstadt
 
 *2017* • Ingolstadt • Deutschland
 
@@ -32,8 +32,8 @@ name: "Stadtwappen Ingolstadt"
 
 ## Details
 - **Distance (km):** 20.49
-
-
+- **Missions in banner:** 42
+- **Total missions completed:** 2562
 
 
 
@@ -49,4 +49,9 @@ Das 1200 Jahre alte Ingolstadt war jahrhundertelang Universitätsstadt, Zentrum 
 
 
 
-> File: `000099_stadtwappen-ingolstadt_2017.md` • #000099 • Slug: `stadtwappen-ingolstadt`
+> File: 
+```
+• 000099_stadtwappen-ingolstadt_2017.md
+• #000099 
+• Slug: `stadtwappen-ingolstadt
+```

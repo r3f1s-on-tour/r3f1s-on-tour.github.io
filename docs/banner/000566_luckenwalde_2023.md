@@ -22,7 +22,7 @@ slug: "luckenwalde"
 href: "banner/000566_luckenwalde_2023.md"
 name: "Luckenwalde"
 ---
-# 000566.Luckenwalde
+# Luckenwalde
 
 *2023* • Luckenwalde • Deutschland
 
@@ -32,8 +32,8 @@ name: "Luckenwalde"
 
 ## Details
 - **Distance (km):** 1.62
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 12.528
 
 
 
@@ -49,4 +49,9 @@ Beginn am Markt über den Boulevard
 
 
 
-> File: `000566_luckenwalde_2023.md` • #000566 • Slug: `luckenwalde`
+> File: 
+```
+• 000566_luckenwalde_2023.md
+• #000566 
+• Slug: `luckenwalde
+```

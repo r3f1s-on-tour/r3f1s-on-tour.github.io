@@ -22,7 +22,7 @@ slug: "beach-xmas-toast-in-oranienburg"
 href: "banner/000347_beach-xmas-toast-in-oranienburg_2021.md"
 name: "Beach XMas Toast in Oranienburg"
 ---
-# 000347.Beach XMas Toast in Oranienburg
+# Beach XMas Toast in Oranienburg
 
 *2021* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Beach XMas Toast in Oranienburg"
 
 ## Details
 - **Distance (km):** 1.64
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 7806
 
 
 
@@ -44,4 +44,9 @@ Mache eine kleine Tour durch Oranienburg und hole dir die XMas Toast ins PRofil
 
 
 
-> File: `000347_beach-xmas-toast-in-oranienburg_2021.md` • #000347 • Slug: `beach-xmas-toast-in-oranienburg`
+> File: 
+```
+• 000347_beach-xmas-toast-in-oranienburg_2021.md
+• #000347 
+• Slug: `beach-xmas-toast-in-oranienburg
+```

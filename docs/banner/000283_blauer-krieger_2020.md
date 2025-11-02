@@ -22,7 +22,7 @@ slug: "blauer-krieger"
 href: "banner/000283_blauer-krieger_2020.md"
 name: "Blauer Krieger"
 ---
-# 000283.Blauer Krieger
+# Blauer Krieger
 
 *2020* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "Blauer Krieger"
 
 ## Details
 - **Distance (km):** 11.78
-
-
+- **Missions in banner:** 48
+- **Total missions completed:** 6576
 
 
 
@@ -49,4 +49,9 @@ Erkunde die Stadt München ab dem Hauptbahnhof über Schwanthalerhöhe bis zum S
 
 
 
-> File: `000283_blauer-krieger_2020.md` • #000283 • Slug: `blauer-krieger`
+> File: 
+```
+• 000283_blauer-krieger_2020.md
+• #000283 
+• Slug: `blauer-krieger
+```

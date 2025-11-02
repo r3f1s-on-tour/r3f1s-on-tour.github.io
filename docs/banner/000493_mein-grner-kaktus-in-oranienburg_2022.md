@@ -22,7 +22,7 @@ slug: "mein-grner-kaktus-in-oranienburg"
 href: "banner/000493_mein-grner-kaktus-in-oranienburg_2022.md"
 name: "Mein grüner Kaktus in Oranienburg"
 ---
-# 000493.Mein grüner Kaktus in Oranienburg
+# Mein grüner Kaktus in Oranienburg
 
 *2022* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Mein grüner Kaktus in Oranienburg"
 
 ## Details
 - **Distance (km):** 8.00
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 10.560
 
 
 
@@ -49,4 +49,9 @@ Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße
 
 
 
-> File: `000493_mein-grner-kaktus-in-oranienburg_2022.md` • #000493 • Slug: `mein-grner-kaktus-in-oranienburg`
+> File: 
+```
+• 000493_mein-grner-kaktus-in-oranienburg_2022.md
+• #000493 
+• Slug: `mein-grner-kaktus-in-oranienburg
+```

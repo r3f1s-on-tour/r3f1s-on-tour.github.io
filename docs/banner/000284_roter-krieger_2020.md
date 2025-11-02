@@ -22,7 +22,7 @@ slug: "roter-krieger"
 href: "banner/000284_roter-krieger_2020.md"
 name: "Roter Krieger"
 ---
-# 000284.Roter Krieger
+# Roter Krieger
 
 *2020* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "Roter Krieger"
 
 ## Details
 - **Distance (km):** 9.01
-
-
+- **Missions in banner:** 54
+- **Total missions completed:** 6630
 
 
 
@@ -49,4 +49,9 @@ Erkunde die Stadt München ab dem Stachus über den Marienplatz, die Altstadt un
 
 
 
-> File: `000284_roter-krieger_2020.md` • #000284 • Slug: `roter-krieger`
+> File: 
+```
+• 000284_roter-krieger_2020.md
+• #000284 
+• Slug: `roter-krieger
+```

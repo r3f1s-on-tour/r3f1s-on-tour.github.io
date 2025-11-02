@@ -22,7 +22,7 @@ slug: "bad-aibling-therme"
 href: "banner/000182_bad-aibling-therme_2018.md"
 name: "Bad Aibling - Therme"
 ---
-# 000182.Bad Aibling - Therme
+# Bad Aibling - Therme
 
 *2018* • Willing • Deutschland
 
@@ -32,8 +32,8 @@ name: "Bad Aibling - Therme"
 
 ## Details
 - **Distance (km):** 4.40
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 4380
 
 
 
@@ -49,4 +49,9 @@ Die Therme in Bad Aibling ist jedermann bekannt. Mit Abschluss dieser Missionsse
 
 
 
-> File: `000182_bad-aibling-therme_2018.md` • #000182 • Slug: `bad-aibling-therme`
+> File: 
+```
+• 000182_bad-aibling-therme_2018.md
+• #000182 
+• Slug: `bad-aibling-therme
+```

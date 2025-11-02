@@ -22,7 +22,7 @@ slug: "visit-requiem-munich-neubrandenburg"
 href: "banner/000429_visit-requiem-munich-neubrandenburg_2022.md"
 name: "Visit Requiem Munich - Neubrandenburg"
 ---
-# 000429.Visit Requiem Munich - Neubrandenburg
+# Visit Requiem Munich - Neubrandenburg
 
 *2022* • Neubrandenburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Visit Requiem Munich - Neubrandenburg"
 
 ## Details
 - **Distance (km):** 4.21
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 8.922
 
 
 
@@ -49,4 +49,9 @@ In 2020 there will be an epic fight between the enlightened and resistance in Mu
 
 
 
-> File: `000429_visit-requiem-munich-neubrandenburg_2022.md` • #000429 • Slug: `visit-requiem-munich-neubrandenburg`
+> File: 
+```
+• 000429_visit-requiem-munich-neubrandenburg_2022.md
+• #000429 
+• Slug: `visit-requiem-munich-neubrandenburg
+```

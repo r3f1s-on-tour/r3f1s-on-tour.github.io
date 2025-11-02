@@ -22,7 +22,7 @@ slug: "year-of-the-ox-2021-neubrandenburg"
 href: "banner/000421_year-of-the-ox-2021-neubrandenburg_2022.md"
 name: "Year of the Ox 2021 - Neubrandenburg"
 ---
-# 000421.Year of the Ox 2021 - Neubrandenburg
+# Year of the Ox 2021 - Neubrandenburg
 
 *2022* • Neubrandenburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Year of the Ox 2021 - Neubrandenburg"
 
 ## Details
 - **Distance (km):** 5.27
-
-
+- **Missions in banner:** 18
+- **Total missions completed:** 8.778
 
 
 
@@ -49,4 +49,9 @@ Erkunde die Innenstadt von Neubrandenburg. Die Mission beginnt und endet auf dem
 
 
 
-> File: `000421_year-of-the-ox-2021-neubrandenburg_2022.md` • #000421 • Slug: `year-of-the-ox-2021-neubrandenburg`
+> File: 
+```
+• 000421_year-of-the-ox-2021-neubrandenburg_2022.md
+• #000421 
+• Slug: `year-of-the-ox-2021-neubrandenburg
+```

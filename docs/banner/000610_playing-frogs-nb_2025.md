@@ -22,7 +22,7 @@ slug: "playing-frogs-nb"
 href: "banner/000610_playing-frogs-nb_2025.md"
 name: "Playing Frogs NB"
 ---
-# 000610.Playing Frogs NB
+# Playing Frogs NB
 
 *2025* • Neubrandenburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Playing Frogs NB"
 
 ## Details
 - **Distance (km):** 6.96
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 13.362
 
 
 
@@ -49,4 +49,9 @@ Diese Missionen führen entlang des Strandbads Brodas und dem Kulturpark von Neu
 
 
 
-> File: `000610_playing-frogs-nb_2025.md` • #000610 • Slug: `playing-frogs-nb`
+> File: 
+```
+• 000610_playing-frogs-nb_2025.md
+• #000610 
+• Slug: `playing-frogs-nb
+```

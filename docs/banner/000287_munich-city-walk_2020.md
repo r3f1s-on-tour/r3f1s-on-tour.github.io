@@ -22,7 +22,7 @@ slug: "munich-city-walk"
 href: "banner/000287_munich-city-walk_2020.md"
 name: "Munich city walk"
 ---
-# 000287.Munich city walk
+# Munich city walk
 
 *2020* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "Munich city walk"
 
 ## Details
 - **Distance (km):** 3.41
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 6702
 
 
 
@@ -49,4 +49,9 @@ A short walk in the inner city. Start east of Marienplatz.
 
 
 
-> File: `000287_munich-city-walk_2020.md` • #000287 • Slug: `munich-city-walk`
+> File: 
+```
+• 000287_munich-city-walk_2020.md
+• #000287 
+• Slug: `munich-city-walk
+```

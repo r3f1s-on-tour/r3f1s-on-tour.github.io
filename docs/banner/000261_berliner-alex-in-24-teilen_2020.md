@@ -3,7 +3,7 @@ nummer: "261"
 startLatitude: "52.521162"
 startLongitude: "13.41331"
 titel: "Berliner Alex in 24 Teilen"
-picture: ""
+picture: "https://api.bannergress.com/bnrs/pictures/fd23ec2e74b86147b51134de91b22c4f"
 region: "Berlin"
 country: "Deutschland"
 completed: "6258"
@@ -22,18 +22,18 @@ slug: "berliner-alex-in-24-teilen"
 href: "banner/000261_berliner-alex-in-24-teilen_2020.md"
 name: "Berliner Alex in 24 Teilen"
 ---
-# 000261.Berliner Alex in 24 Teilen
+# Berliner Alex in 24 Teilen
 
 *2020* • Berlin • Deutschland
 
-
+![Berliner Alex in 24 Teilen](https://api.bannergress.com/bnrs/pictures/fd23ec2e74b86147b51134de91b22c4f)
 
 
 
 ## Details
 - **Distance (km):** 7.37
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 6258
 
 
 
@@ -50,4 +50,9 @@ Start und Ende an der berühmten Weltzeituhr
 
 
 
-> File: `000261_berliner-alex-in-24-teilen_2020.md` • #000261 • Slug: `berliner-alex-in-24-teilen`
+> File: 
+```
+• 000261_berliner-alex-in-24-teilen_2020.md
+• #000261 
+• Slug: `berliner-alex-in-24-teilen
+```

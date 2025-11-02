@@ -22,7 +22,7 @@ slug: "auf-den-spuren-des-wasabi"
 href: "banner/000310_auf-den-spuren-des-wasabi_2021.md"
 name: "Auf den Spuren des Wasabi"
 ---
-# 000310.Auf den Spuren des Wasabi
+# Auf den Spuren des Wasabi
 
 *2021* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Auf den Spuren des Wasabi"
 
 ## Details
 - **Distance (km):** 1.59
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 7260
 
 
 
@@ -49,4 +49,9 @@ Hier im Kiez liegt die Historie des Wasabiphänomens. In verschiedenen Formen er
 
 
 
-> File: `000310_auf-den-spuren-des-wasabi_2021.md` • #000310 • Slug: `auf-den-spuren-des-wasabi`
+> File: 
+```
+• 000310_auf-den-spuren-des-wasabi_2021.md
+• #000310 
+• Slug: `auf-den-spuren-des-wasabi
+```

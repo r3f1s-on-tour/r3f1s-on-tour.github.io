@@ -22,7 +22,7 @@ slug: "starbattle-of-orionids-berlin"
 href: "banner/000386_starbattle-of-orionids-berlin_2022.md"
 name: "StarBattle of Orionids - Berlin"
 ---
-# 000386.StarBattle of Orionids - Berlin
+# StarBattle of Orionids - Berlin
 
 *2022* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "StarBattle of Orionids - Berlin"
 
 ## Details
 - **Distance (km):** 1.78
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 8.316
 
 
 
@@ -49,4 +49,9 @@ The Orionids meteor shower, is the most prolific meteor shower associated with H
 
 
 
-> File: `000386_starbattle-of-orionids-berlin_2022.md` • #000386 • Slug: `starbattle-of-orionids-berlin`
+> File: 
+```
+• 000386_starbattle-of-orionids-berlin_2022.md
+• #000386 
+• Slug: `starbattle-of-orionids-berlin
+```

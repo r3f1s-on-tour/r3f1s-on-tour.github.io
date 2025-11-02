@@ -22,7 +22,7 @@ slug: "brauereien-prenzlauer-berg"
 href: "banner/000290_brauereien-prenzlauer-berg_2020.md"
 name: "Brauereien Prenzlauer Berg"
 ---
-# 000290.Brauereien Prenzlauer Berg
+# Brauereien Prenzlauer Berg
 
 *2020* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Brauereien Prenzlauer Berg"
 
 ## Details
 - **Distance (km):** 7.29
-
-
+- **Missions in banner:** 12
+- **Total missions completed:** 6744
 
 
 
@@ -50,4 +50,9 @@ Ein Spaziergang durch den Prenzlauer Berg an 12 ehemaligen Brauereien vorbei. In
 
 
 
-> File: `000290_brauereien-prenzlauer-berg_2020.md` • #000290 • Slug: `brauereien-prenzlauer-berg`
+> File: 
+```
+• 000290_brauereien-prenzlauer-berg_2020.md
+• #000290 
+• Slug: `brauereien-prenzlauer-berg
+```

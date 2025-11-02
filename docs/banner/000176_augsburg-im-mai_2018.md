@@ -22,7 +22,7 @@ slug: "augsburg-im-mai"
 href: "banner/000176_augsburg-im-mai_2018.md"
 name: "Augsburg im Mai"
 ---
-# 000176.Augsburg im Mai
+# Augsburg im Mai
 
 *2018* • Augsburg • Deutschland
 
@@ -32,6 +32,8 @@ name: "Augsburg im Mai"
 
 ## Details
 
+- **Missions in banner:** 30
+- **Total missions completed:** 4218
 
 
 
@@ -39,6 +41,9 @@ name: "Augsburg im Mai"
 
 
 
-
-
-> File: `000176_augsburg-im-mai_2018.md` • #000176 • Slug: `augsburg-im-mai`
+> File: 
+```
+• 000176_augsburg-im-mai_2018.md
+• #000176 
+• Slug: `augsburg-im-mai
+```

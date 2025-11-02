@@ -22,7 +22,7 @@ slug: "neuhausen-wal"
 href: "banner/000163_neuhausen-wal_2018.md"
 name: "Neuhausen Wal"
 ---
-# 000163.Neuhausen Wal
+# Neuhausen Wal
 
 *2018* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "Neuhausen Wal"
 
 ## Details
 - **Distance (km):** 9.80
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 3948
 
 
 
@@ -49,4 +49,9 @@ Lass dich verzaubern vom Einhornwal in Neuhausen
 
 
 
-> File: `000163_neuhausen-wal_2018.md` • #000163 • Slug: `neuhausen-wal`
+> File: 
+```
+• 000163_neuhausen-wal_2018.md
+• #000163 
+• Slug: `neuhausen-wal
+```

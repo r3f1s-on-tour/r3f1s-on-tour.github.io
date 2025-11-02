@@ -22,7 +22,7 @@ slug: "honey-bees-in-oranienburg"
 href: "banner/000441_honey-bees-in-oranienburg_2022.md"
 name: "Honey Bees in Oranienburg"
 ---
-# 000441.Honey Bees in Oranienburg
+# Honey Bees in Oranienburg
 
 *2022* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Honey Bees in Oranienburg"
 
 ## Details
 - **Distance (km):** 1.59
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 9.162
 
 
 
@@ -44,4 +44,9 @@ Mache eine kleine Honigbienen Runde durch Oranienburg und hole dir die Bienchen 
 
 
 
-> File: `000441_honey-bees-in-oranienburg_2022.md` • #000441 • Slug: `honey-bees-in-oranienburg`
+> File: 
+```
+• 000441_honey-bees-in-oranienburg_2022.md
+• #000441 
+• Slug: `honey-bees-in-oranienburg
+```

@@ -22,7 +22,7 @@ slug: "besuch-der-4-tore"
 href: "banner/000006_besuch-der-4-tore_2015.md"
 name: "Besuch der 4 Tore"
 ---
-# 000006.Besuch der 4 Tore
+# Besuch der 4 Tore
 
 *2015* • Neubrandenburg • Deutschland
 
@@ -32,6 +32,8 @@ name: "Besuch der 4 Tore"
 
 ## Details
 
+- **Missions in banner:** 6
+- **Total missions completed:** 144
 
 
 
@@ -39,6 +41,9 @@ name: "Besuch der 4 Tore"
 
 
 
-
-
-> File: `000006_besuch-der-4-tore_2015.md` • #000006 • Slug: `besuch-der-4-tore`
+> File: 
+```
+• 000006_besuch-der-4-tore_2015.md
+• #000006 
+• Slug: `besuch-der-4-tore
+```

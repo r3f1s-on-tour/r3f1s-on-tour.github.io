@@ -22,7 +22,7 @@ slug: "from-the-grave-in-oranienburg"
 href: "banner/000477_from-the-grave-in-oranienburg_2022.md"
 name: "From the Grave in Oranienburg"
 ---
-# 000477.From the Grave in Oranienburg
+# From the Grave in Oranienburg
 
 *2022* • Oranienburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "From the Grave in Oranienburg"
 
 ## Details
 - **Distance (km):** 8.96
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 10.398
 
 
 
@@ -49,4 +49,9 @@ Starte in der Bernauer Straße eine Entdeckungstour durch Oranienburg entdecke a
 
 
 
-> File: `000477_from-the-grave-in-oranienburg_2022.md` • #000477 • Slug: `from-the-grave-in-oranienburg`
+> File: 
+```
+• 000477_from-the-grave-in-oranienburg_2022.md
+• #000477 
+• Slug: `from-the-grave-in-oranienburg
+```

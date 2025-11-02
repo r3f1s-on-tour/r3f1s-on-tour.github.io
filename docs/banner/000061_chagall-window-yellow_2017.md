@@ -22,7 +22,7 @@ slug: "chagall-window-yellow"
 href: "banner/000061_chagall-window-yellow_2017.md"
 name: "Chagall Window yellow"
 ---
-# 000061.Chagall Window yellow
+# Chagall Window yellow
 
 *2017* • Zürich • Schweiz/Suisse/Svizzera/Svizra
 
@@ -32,8 +32,8 @@ name: "Chagall Window yellow"
 
 ## Details
 - **Distance (km):** 1.20
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 1356
 
 
 
@@ -46,4 +46,9 @@ name: "Chagall Window yellow"
 
 
 
-> File: `000061_chagall-window-yellow_2017.md` • #000061 • Slug: `chagall-window-yellow`
+> File: 
+```
+• 000061_chagall-window-yellow_2017.md
+• #000061 
+• Slug: `chagall-window-yellow
+```

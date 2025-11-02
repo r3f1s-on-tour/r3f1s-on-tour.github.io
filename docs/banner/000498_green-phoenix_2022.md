@@ -22,7 +22,7 @@ slug: "green-phoenix"
 href: "banner/000498_green-phoenix_2022.md"
 name: "Green Phoenix"
 ---
-# 000498.Green Phoenix
+# Green Phoenix
 
 *2022* • Bergisch Gladbach • Deutschland
 
@@ -32,8 +32,8 @@ name: "Green Phoenix"
 
 ## Details
 - **Distance (km):** 3.10
-
-
+- **Missions in banner:** 60
+- **Total missions completed:** 10.668
 
 
 
@@ -49,4 +49,9 @@ Willkommen im Wildpark Brück. Entdecke bei 60 Missionen die Vielfalt des Waldes
 
 
 
-> File: `000498_green-phoenix_2022.md` • #000498 • Slug: `green-phoenix`
+> File: 
+```
+• 000498_green-phoenix_2022.md
+• #000498 
+• Slug: `green-phoenix
+```

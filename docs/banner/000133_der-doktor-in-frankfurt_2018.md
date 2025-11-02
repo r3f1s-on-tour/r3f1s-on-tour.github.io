@@ -22,7 +22,7 @@ slug: "der-doktor-in-frankfurt"
 href: "banner/000133_der-doktor-in-frankfurt_2018.md"
 name: "Der Doktor in Frankfurt"
 ---
-# 000133.Der Doktor in Frankfurt
+# Der Doktor in Frankfurt
 
 *2018* • Frankfurt am Main • Deutschland
 
@@ -32,8 +32,8 @@ name: "Der Doktor in Frankfurt"
 
 ## Details
 - **Distance (km):** 11.42
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 3240
 
 
 
@@ -49,4 +49,9 @@ Es ist 2017 und Der Doktor ist dabei die Welt in Frankfurt zu retten. Hilf Ihm s
 
 
 
-> File: `000133_der-doktor-in-frankfurt_2018.md` • #000133 • Slug: `der-doktor-in-frankfurt`
+> File: 
+```
+• 000133_der-doktor-in-frankfurt_2018.md
+• #000133 
+• Slug: `der-doktor-in-frankfurt
+```

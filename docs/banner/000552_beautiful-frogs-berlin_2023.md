@@ -22,7 +22,7 @@ slug: "beautiful-frogs-berlin"
 href: "banner/000552_beautiful-frogs-berlin_2023.md"
 name: "Beautiful Frogs Berlin"
 ---
-# 000552.Beautiful Frogs Berlin
+# Beautiful Frogs Berlin
 
 *2023* • Berlin • Deutschland
 
@@ -32,8 +32,8 @@ name: "Beautiful Frogs Berlin"
 
 ## Details
 - **Distance (km):** 1.46
-
-
+- **Missions in banner:** 6
+- **Total missions completed:** 12.258
 
 
 
@@ -49,4 +49,9 @@ Have a walk around the Gethsemane church.
 
 
 
-> File: `000552_beautiful-frogs-berlin_2023.md` • #000552 • Slug: `beautiful-frogs-berlin`
+> File: 
+```
+• 000552_beautiful-frogs-berlin_2023.md
+• #000552 
+• Slug: `beautiful-frogs-berlin
+```

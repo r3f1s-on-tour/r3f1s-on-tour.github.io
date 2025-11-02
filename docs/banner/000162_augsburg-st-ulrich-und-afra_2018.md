@@ -22,7 +22,7 @@ slug: "augsburg-st-ulrich-und-afra"
 href: "banner/000162_augsburg-st-ulrich-und-afra_2018.md"
 name: "Augsburg St Ulrich und Afra"
 ---
-# 000162.Augsburg St Ulrich und Afra
+# Augsburg St Ulrich und Afra
 
 *2018* • Augsburg • Deutschland
 
@@ -32,8 +32,8 @@ name: "Augsburg St Ulrich und Afra"
 
 ## Details
 - **Distance (km):** 15.00
-
-
+- **Missions in banner:** 60
+- **Total missions completed:** 3924
 
 
 
@@ -46,4 +46,9 @@ name: "Augsburg St Ulrich und Afra"
 
 
 
-> File: `000162_augsburg-st-ulrich-und-afra_2018.md` • #000162 • Slug: `augsburg-st-ulrich-und-afra`
+> File: 
+```
+• 000162_augsburg-st-ulrich-und-afra_2018.md
+• #000162 
+• Slug: `augsburg-st-ulrich-und-afra
+```

@@ -22,7 +22,7 @@ slug: "viktualienmarkt-mnchen"
 href: "banner/000069_viktualienmarkt-mnchen_2017.md"
 name: "Viktualienmarkt München"
 ---
-# 000069.Viktualienmarkt München
+# Viktualienmarkt München
 
 *2017* • München • Deutschland
 
@@ -32,8 +32,8 @@ name: "Viktualienmarkt München"
 
 ## Details
 - **Distance (km):** 7.60
-
-
+- **Missions in banner:** 24
+- **Total missions completed:** 1614
 
 
 
@@ -49,4 +49,9 @@ Der Viktualienmarkt am heutigen Ort entstand aus der Verlegung des alten Münchn
 
 
 
-> File: `000069_viktualienmarkt-mnchen_2017.md` • #000069 • Slug: `viktualienmarkt-mnchen`
+> File: 
+```
+• 000069_viktualienmarkt-mnchen_2017.md
+• #000069 
+• Slug: `viktualienmarkt-mnchen
+```
