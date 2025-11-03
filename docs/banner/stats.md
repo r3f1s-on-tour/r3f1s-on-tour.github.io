@@ -8,6 +8,7 @@
 - **MissionDays gesamt:** 21
 - **Anzahl Länder (unique):** 9
 - **Anzahl Städte (unique):** 107
+- **Banner-Größen (unique):** 20
 - **Zeitraum:** 2015 – 2025 (11 Jahre)
 
 ## Durchschnittsstatistik
@@ -44,8 +45,6 @@
 | 2025 | 19 | 306 | 2 | 86.83 | 1 |
 
 ## Banner-Größen
-
-| Total | 20 |
 
 | Banner Size | Count |
 |-----------:|------:|
