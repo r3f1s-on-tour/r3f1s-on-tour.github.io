@@ -8,10 +8,13 @@ make_banner_stats.py
 - 500er-Meilensteine/Jahr: ausschließlich aus kumulierten `missions` (chronologischer Lauf).
 - Jahresstatistik: Missionen = Summe `missions` je Jahr.
 - Länder/Städte: vollständige Tabellen (Anzahl + Anteil).
-- Gesamtstatistik enthält zusätzlich: Anzahl Länder (unique), Anzahl Städte (unique).
+- Gesamtstatistik: enthält zusätzlich Anzahl Länder (unique) & Anzahl Städte (unique).
 - Durchschnitt:
   * Tabelle 1 (Jahr/Monat): Banner, Missionen, km, Meilensteine
   * Tabelle 2 (global): km/Mission, km/Banner, Missionen/Banner
+- NEU: Banner-Größen-Statistik (aus Feld `missions`):
+  * kleine Tabelle „Total“ (Anzahl unterschiedlicher Größen)
+  * Tabelle „Banner Size | Count“ sortiert nach Häufigkeit (desc), Größe (asc)
 - Überschreibt stats.md standardmäßig (Option --no-overwrite verhindert das).
 
 Benötigt: pyyaml
@@ -338,6 +341,13 @@ def main():
     countries = Counter(b["country"] for b in banners if isinstance(b["country"], str) and b["country"].strip())
     cities    = Counter(b["city"]    for b in banners if isinstance(b["city"], str)    and b["city"].strip())
 
+    # --- Banner-Größen (aus missions) ---
+    # Nur sinnvolle Größen zählen (>=1)
+    size_counts = Counter(b["missions"] for b in banners if isinstance(b["missions"], int) and b["missions"] > 0)
+    unique_sizes = sorted(size_counts.keys())
+    # Sortierung: erst nach Häufigkeit (desc), dann nach Größe (asc)
+    sorted_sizes = sorted(size_counts.items(), key=lambda kv: (-kv[1], kv[0]))
+
     # --- Markdown schreiben ---
     md = []
     md += ["# Banner-Statistik", ""]
@@ -388,6 +398,14 @@ def main():
             md += [f"| {r['year']} | {r['banners']} | {r['missions']} | {r['md']} | {r['km']:.2f} | {r['milestones']} |"]
     else:
         md += ["_Keine Jahresdaten gefunden._"]
+    md += [""]
+
+    # --- Banner-Größen (neu) ---
+    md += ["## Banner-Größen", ""]
+    md += [f"| Total | {len(unique_sizes)} |", ""]
+    md += ["| Banner Size | Count |", "|-----------:|------:|"]
+    for size, cnt in sorted_sizes:
+        md += [f"| {size} | {cnt} |"]
     md += [""]
 
     # Länder
