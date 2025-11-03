@@ -3,7 +3,7 @@ nummer: "182"
 startLatitude: "48.369541"
 startLongitude: "10.892914"
 titel: "Catpool (Rote Augsburger Katze)"
-picture: ""
+picture: "https://lh3.googleusercontent.com/pw/AP1GczN8pLk2rzgSVzA1bqmBpgNprbH9e4pPzCgNhU-aO9QRySdGLN6S-Y-nDnaJryws5ZmhU6KTfviNeGbRrgqlgOdEseQyekCajBcVneVv8BOVlWZms_xgF4Nj8m_dHdOoY9sn99QVIFCEsPX-wZJlnGJc0w"
 region: "Augsburg"
 country: "Deutschland"
 completed: "4368"
@@ -26,7 +26,7 @@ name: "Catpool (Rote Augsburger Katze)"
 
 *2018* • Augsburg • Deutschland
 
-
+![Catpool (Rote Augsburger Katze)](https://lh3.googleusercontent.com/pw/AP1GczN8pLk2rzgSVzA1bqmBpgNprbH9e4pPzCgNhU-aO9QRySdGLN6S-Y-nDnaJryws5ZmhU6KTfviNeGbRrgqlgOdEseQyekCajBcVneVv8BOVlWZms_xgF4Nj8m_dHdOoY9sn99QVIFCEsPX-wZJlnGJc0w)
 
 
 

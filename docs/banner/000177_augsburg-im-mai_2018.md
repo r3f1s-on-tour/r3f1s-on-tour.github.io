@@ -3,7 +3,7 @@ nummer: "177"
 startLatitude: "48.366626"
 startLongitude: "10.898483"
 titel: "Augsburg im Mai"
-picture: ""
+picture: "https://lh3.googleusercontent.com/pw/AP1GczMn1-_y7YrfHe-18UYjiYZgZOoeCin9-n4cZhwPpGYMlXIGI8VtuN0ntzaj_fTXJ8NEw7M1_wVqiWT37JFnVcn3YoawLRvHD7qm0_C3jDNm9SRmJyadiF1DGXTvU6O2iL8q7VSiBs5T_kc3uzJ7yTwrjw"
 region: "Augsburg"
 country: "Deutschland"
 completed: "4218"
@@ -26,7 +26,7 @@ name: "Augsburg im Mai"
 
 *2018* • Augsburg • Deutschland
 
-
+![Augsburg im Mai](https://lh3.googleusercontent.com/pw/AP1GczMn1-_y7YrfHe-18UYjiYZgZOoeCin9-n4cZhwPpGYMlXIGI8VtuN0ntzaj_fTXJ8NEw7M1_wVqiWT37JFnVcn3YoawLRvHD7qm0_C3jDNm9SRmJyadiF1DGXTvU6O2iL8q7VSiBs5T_kc3uzJ7yTwrjw)
 
 
 

@@ -3,7 +3,7 @@ nummer: "202"
 startLatitude: "55.597817"
 startLongitude: "13.007023"
 titel: "Region Skåne Banner"
-picture: ""
+picture: "https://lh3.googleusercontent.com/pw/AP1GczMvJsFylAVx6GcXow7QiM5lqXdIYvtiKR9xm7aJ6JMn2ijE1EQRaCqddso3EAWZht22GT0ajt61AFDNLSlnP9_6jLz_pVbr3uR3oPF8EFnt9aOmKRXLPAsFXWFZWObc9-IGuFmKPtsRVWzAvBaj7Zm6Ew"
 region: "Malmö"
 country: "Sverige"
 completed: "4716"
@@ -26,7 +26,7 @@ name: "Region Skåne Banner"
 
 *2018* • Malmö • Sverige
 
-
+![Region Skåne Banner](https://lh3.googleusercontent.com/pw/AP1GczMvJsFylAVx6GcXow7QiM5lqXdIYvtiKR9xm7aJ6JMn2ijE1EQRaCqddso3EAWZht22GT0ajt61AFDNLSlnP9_6jLz_pVbr3uR3oPF8EFnt9aOmKRXLPAsFXWFZWObc9-IGuFmKPtsRVWzAvBaj7Zm6Ew)
 
 
 

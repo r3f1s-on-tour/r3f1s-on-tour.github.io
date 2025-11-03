@@ -3,7 +3,7 @@ nummer: "206"
 startLatitude: "48.137357"
 startLongitude: "11.574875"
 titel: "Catpool (Rote Münchner Katze)"
-picture: ""
+picture: "https://lh3.googleusercontent.com/pw/AP1GczPYRf6x6HDU2N2utxLFN_7IHCC2Kt1VKUpeVIyYaoT5cjQHWTd_4v6o0gzuM7gGjWLyd_1FGWIopIbemmkhtGkig3wun7Y1TcvL6PpE2gpbTuFovybSGFiqhhKnY3bh24KGMedqEa2QJ_Zip1NYYSyyUg"
 region: "München"
 country: "Deutschland"
 completed: "4812"
@@ -26,7 +26,7 @@ name: "Catpool (Rote Münchner Katze)"
 
 *2018* • München • Deutschland
 
-
+![Catpool (Rote Münchner Katze)](https://lh3.googleusercontent.com/pw/AP1GczPYRf6x6HDU2N2utxLFN_7IHCC2Kt1VKUpeVIyYaoT5cjQHWTd_4v6o0gzuM7gGjWLyd_1FGWIopIbemmkhtGkig3wun7Y1TcvL6PpE2gpbTuFovybSGFiqhhKnY3bh24KGMedqEa2QJ_Zip1NYYSyyUg)
 
 
 

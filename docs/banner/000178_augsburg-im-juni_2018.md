@@ -3,7 +3,7 @@ nummer: "178"
 startLatitude: "48.367358"
 startLongitude: "10.899863"
 titel: "Augsburg im Juni"
-picture: ""
+picture: "https://lh3.googleusercontent.com/pw/AP1GczNjaLjNCRgMJTl43u4kieWzNSOv-FxLfOVHUmf0hj85zV5bruIjm7iSjHFAO0SVJosQ3CJ_f0-N1NzCdCVmZivZ7N68yyc9C9PiLqQrgB9RkoQ55AzD_MIjaGoLO9oeGJyjs1LtF9F1X6CKqIr5An-Kig"
 region: "Augsburg"
 country: "Deutschland"
 completed: "4248"
@@ -26,7 +26,7 @@ name: "Augsburg im Juni"
 
 *2018* • Augsburg • Deutschland
 
-
+![Augsburg im Juni](https://lh3.googleusercontent.com/pw/AP1GczNjaLjNCRgMJTl43u4kieWzNSOv-FxLfOVHUmf0hj85zV5bruIjm7iSjHFAO0SVJosQ3CJ_f0-N1NzCdCVmZivZ7N68yyc9C9PiLqQrgB9RkoQ55AzD_MIjaGoLO9oeGJyjs1LtF9F1X6CKqIr5An-Kig)
 
 
 

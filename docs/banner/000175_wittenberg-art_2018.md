@@ -3,7 +3,7 @@ nummer: "175"
 startLatitude: "51.866831"
 startLongitude: "12.633432"
 titel: "Wittenberg Art"
-picture: ""
+picture: "https://lh3.googleusercontent.com/pw/AP1GczMnbeP3uIxxQq0wn6gTCMK7Tn7SlGB2R64M_8CuTdIInZAM7InFtDPkzhOYrJslFGcqqTNlsDefdYn6oU9LwNRKmnCNgR2tm9nG0b6AK3A8MmoFnIbymBPEte6CP91O8JSKVL7RhwhzSoL-UpffDz2BJw"
 region: "Wittenberg"
 country: "Deutschland"
 completed: "4182"
@@ -26,7 +26,7 @@ name: "Wittenberg Art"
 
 *2018* • Wittenberg • Deutschland
 
-
+![Wittenberg Art](https://lh3.googleusercontent.com/pw/AP1GczMnbeP3uIxxQq0wn6gTCMK7Tn7SlGB2R64M_8CuTdIInZAM7InFtDPkzhOYrJslFGcqqTNlsDefdYn6oU9LwNRKmnCNgR2tm9nG0b6AK3A8MmoFnIbymBPEte6CP91O8JSKVL7RhwhzSoL-UpffDz2BJw)
 
 
 
