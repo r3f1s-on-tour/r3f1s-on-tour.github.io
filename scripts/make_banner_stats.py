@@ -8,14 +8,14 @@ make_banner_stats.py
 - 500er-Meilensteine/Jahr: ausschließlich aus kumulierten `missions` (chronologischer Lauf).
 - Jahresstatistik: Missionen = Summe `missions` je Jahr.
 - Länder/Städte: vollständige Tabellen (Anzahl + Anteil).
-- Gesamtstatistik: enthält zusätzlich Anzahl Länder (unique) & Anzahl Städte (unique).
+- Gesamtstatistik: enthält zusätzlich Anzahl Länder (unique), Anzahl Städte (unique),
+  **Banner-Größen (unique)**.
 - Durchschnitt:
   * Tabelle 1 (Jahr/Monat): Banner, Missionen, km, Meilensteine
   * Tabelle 2 (global): km/Mission, km/Banner, Missionen/Banner
-- NEU: Banner-Größen-Statistik (aus Feld `missions`):
-  * kleine Tabelle „Total“ (Anzahl unterschiedlicher Größen)
+- Banner-Größen-Statistik (aus Feld `missions`):
   * Tabelle „Banner Size | Count“ sortiert nach Häufigkeit (desc), Größe (asc)
-- Überschreibt stats.md standardmäßig (Option --no-overwrite verhindert das).
+  * Die Total-Zeile wurde entfernt; stattdessen steht die Zahl als Text in der Gesamtstatistik.
 
 Benötigt: pyyaml
 """
@@ -153,7 +153,6 @@ def banner_distance_km(fm: dict) -> float:
     return 0.0
 
 def detect_year(fm: dict, path: Path):
-    # 1) Datumsschlüssel
     for k in DATE_KEYS:
         dt = parse_date_any(fm.get(k))
         if dt:
@@ -165,7 +164,6 @@ def detect_year(fm: dict, path: Path):
                 return iv
         if isinstance(rv, str) and rv.strip().isdigit() and len(rv.strip())==4:
             return int(rv.strip())
-    # 2) Jahrsschlüssel
     y = find_first_key(fm, YEAR_KEYS)
     if isinstance(y, (int,float)):
         iy = int(y)
@@ -173,7 +171,6 @@ def detect_year(fm: dict, path: Path):
             return iy
     if isinstance(y, str) and y.strip().isdigit() and len(y.strip())==4:
         return int(y.strip())
-    # 3) Fallback: aus Pfad/Dateiname
     m = re.search(r'(?<!\d)(\d{4})(?!\d)', str(path))
     if m:
         try:
@@ -221,12 +218,11 @@ def main():
             reasons_ignored["no_nummer"] += 1
             continue
 
-        # Datum/Jahr
         dt = parse_date_any(find_first_key(fm, DATE_KEYS))
         year = detect_year(fm, path)
 
         missions = parse_int(fm.get("missions")) or 0
-        completed = parse_int(fm.get("completed"))  # kann None sein
+        completed = parse_int(fm.get("completed"))
         km = banner_distance_km(fm)
         mday = parse_mission_day(fm.get("missionDay"))
         city = coalesce(*[fm.get(k) for k in CITY_KEYS])
@@ -238,35 +234,17 @@ def main():
             "km": km, "mday": mday, "city": city, "country": country
         })
 
-    if args.debug:
-        print("DEBUG: Dateien gesamt:", len(all_md))
-        print("DEBUG: Banner berücksichtigt:", len(banners))
-        if reasons_ignored:
-            print("DEBUG: Ignoriert nach Grund:", dict(reasons_ignored))
-
     if not banners:
-        md = ["# Banner-Statistik", "", "Keine geeigneten Banner gefunden (mit `nummer`)."]
         out_path.parent.mkdir(parents=True, exist_ok=True)
-        out_path.write_text("\n".join(md), encoding="utf-8")
+        out_path.write_text("# Banner-Statistik\n\nKeine geeigneten Banner gefunden (mit `nummer`).", encoding="utf-8")
         print(f"Statistik geschrieben nach: {out_path}")
         return 0
 
-    # Chronologisch sortieren
-    def s_key(b):
-        if b["date"]:
-            k = b["date"]
-        elif b["year"]:
-            k = date(b["year"],1,1)
-        else:
-            k = date(2999,1,1)
-        return (k, b["path"].name.lower())
-    banners.sort(key=s_key)
+    banners.sort(key=lambda b: (b["date"] or date(2999,1,1), b["path"].name.lower()))
 
-    # Missionen gesamt: 'completed' des letzten Banners (Fallback: Summe missions)
     last_completed = next((b["completed"] for b in reversed(banners) if b["completed"] is not None), None)
     total_missions = last_completed if last_completed is not None else sum(b["missions"] for b in banners)
 
-    # 500er-Meilensteine NUR aus kumulierten 'missions'
     milestones_per_year = Counter()
     cum_missions = 0
     prev_bucket = 0
@@ -279,25 +257,21 @@ def main():
         prev_bucket = bucket
     total_milestones = sum(milestones_per_year.values())
 
-    # Zeitraum
     today = datetime.now().date()
     years_present = [b["year"] for b in banners if isinstance(b["year"], int)]
     first_year = min(years_present) if years_present else today.year
     span_years = (today.year - first_year) + 1
     months = span_years * 12 if span_years else 1
 
-    # Gruppieren pro Jahr
     per_year = defaultdict(list)
     for b in banners:
         if isinstance(b["year"], int):
             per_year[b["year"]].append(b)
 
-    # Totale
     total_banners = len(banners)
     total_km      = sum(b["km"] for b in banners)
     total_mdays   = sum(b["mday"] for b in banners)
 
-    # Jahresstatistik-Zeilen
     year_rows = []
     for y in sorted(per_year):
         lst = per_year[y]
@@ -310,132 +284,103 @@ def main():
             "milestones": milestones_per_year.get(y, 0)
         })
 
-    # Unique Länder/Städte
     unique_countries = sorted({b["country"].strip() for b in banners if isinstance(b["country"], str) and b["country"].strip()})
     unique_cities    = sorted({b["city"].strip()    for b in banners if isinstance(b["city"], str)    and b["city"].strip()})
     total_unique_countries = len(unique_countries)
     total_unique_cities    = len(unique_cities)
 
-    # Durchschnittswerte (Jahr/Monat) für Aggregate
+    size_counts = Counter(b["missions"] for b in banners if isinstance(b["missions"], int) and b["missions"] > 0)
+    sorted_sizes = sorted(size_counts.items(), key=lambda kv: (-kv[1], kv[0]))
+    total_unique_sizes = len(size_counts)
+
     def safe_div(a, b): return (a / b) if b else 0.0
     avg_year = {
-        "banners":     safe_div(total_banners,  span_years),
-        "missions":    safe_div(total_missions, span_years),
-        "km":          safe_div(total_km,       span_years),
-        "milestones":  safe_div(total_milestones, span_years),
+        "banners": safe_div(total_banners, span_years),
+        "missions": safe_div(total_missions, span_years),
+        "km": safe_div(total_km, span_years),
+        "milestones": safe_div(total_milestones, span_years),
     }
     avg_month = {
-        "banners":     safe_div(total_banners,  months),
-        "missions":    safe_div(total_missions, months),
-        "km":          safe_div(total_km,       months),
-        "milestones":  safe_div(total_milestones, months),
+        "banners": safe_div(total_banners, months),
+        "missions": safe_div(total_missions, months),
+        "km": safe_div(total_km, months),
+        "milestones": safe_div(total_milestones, months),
     }
-    # Globale Verhältnisse (zeitunabhängig)
     ratio = {
-        "km_per_mission":      safe_div(total_km, total_missions),
-        "km_per_banner":       safe_div(total_km, total_banners),
+        "km_per_mission": safe_div(total_km, total_missions),
+        "km_per_banner": safe_div(total_km, total_banners),
         "missions_per_banner": safe_div(total_missions, total_banners),
     }
 
-    # Länder/Städte (für Tabellen)
     countries = Counter(b["country"] for b in banners if isinstance(b["country"], str) and b["country"].strip())
-    cities    = Counter(b["city"]    for b in banners if isinstance(b["city"], str)    and b["city"].strip())
+    cities = Counter(b["city"] for b in banners if isinstance(b["city"], str) and b["city"].strip())
 
-    # --- Banner-Größen (aus missions) ---
-    # Nur sinnvolle Größen zählen (>=1)
-    size_counts = Counter(b["missions"] for b in banners if isinstance(b["missions"], int) and b["missions"] > 0)
-    unique_sizes = sorted(size_counts.keys())
-    # Sortierung: erst nach Häufigkeit (desc), dann nach Größe (asc)
-    sorted_sizes = sorted(size_counts.items(), key=lambda kv: (-kv[1], kv[0]))
-
-    # --- Markdown schreiben ---
-    md = []
-    md += ["# Banner-Statistik", ""]
-
-    # Gesamt
-    md += ["## Gesamtstatistik", ""]
-    md += [
+    md = [
+        "# Banner-Statistik", "",
+        "## Gesamtstatistik", "",
         f"- **Gesamtbanner:** {total_banners}",
         f"- **Missionen gesamt:** {total_missions}",
         f"- **Gesamt km:** {total_km:.2f}",
         f"- **MissionDays gesamt:** {total_mdays}",
         f"- **Anzahl Länder (unique):** {total_unique_countries}",
         f"- **Anzahl Städte (unique):** {total_unique_cities}",
-        f"- **Zeitraum:** {first_year} – {today.year} ({span_years} Jahre)",
-        ""
-    ]
-
-    # Durchschnitt – Tabelle 1: Jahr/Monat (Aggregate)
-    md += ["## Durchschnittsstatistik", ""]
-    md += [
-        "**Aggregierte Durchschnitte** (pro Bezugsgröße):",
-        "",
+        f"- **Banner-Größen (unique):** {total_unique_sizes}",
+        f"- **Zeitraum:** {first_year} – {today.year} ({span_years} Jahre)", "",
+        "## Durchschnittsstatistik", "",
+        "**Aggregierte Durchschnitte** (pro Bezugsgröße):", "",
         "| Bezugsgröße | Banner | Missionen | km | Meilensteine |",
         "|:------------|------:|----------:|---:|-------------:|",
         f"| Jahr  | {avg_year['banners']:.2f} | {avg_year['missions']:.2f} | {avg_year['km']:.2f} | {avg_year['milestones']:.2f} |",
         f"| Monat | {avg_month['banners']:.2f} | {avg_month['missions']:.2f} | {avg_month['km']:.2f} | {avg_month['milestones']:.2f} |",
-        ""
-    ]
-
-    # Durchschnitt – Tabelle 2: Verhältnisse (global)
-    md += [
-        "**Verhältnisse** (gesamt):",
         "",
+        "**Verhältnisse** (gesamt):", "",
         "| Verhältnis | Wert |",
         "|:-----------|----:|",
         f"| km / Mission | {ratio['km_per_mission']:.2f} |",
         f"| km / Banner | {ratio['km_per_banner']:.2f} |",
-        f"| Missionen / Banner | {ratio['missions_per_banner']:.2f} |",
-        ""
+        f"| Missionen / Banner | {ratio['missions_per_banner']:.2f} |", "",
+        "## Jahresstatistik", ""
     ]
 
-    # Jahresstatistik
-    md += ["## Jahresstatistik", ""]
     if year_rows:
         md += ["| Jahr | Banner | Missionen | MissionDays | km | 500er-Meilensteine |",
                "|----:|------:|----------:|-----------:|---:|--------------------:|"]
         for r in year_rows:
-            md += [f"| {r['year']} | {r['banners']} | {r['missions']} | {r['md']} | {r['km']:.2f} | {r['milestones']} |"]
+            md.append(f"| {r['year']} | {r['banners']} | {r['missions']} | {r['md']} | {r['km']:.2f} | {r['milestones']} |")
     else:
-        md += ["_Keine Jahresdaten gefunden._"]
-    md += [""]
-
-    # --- Banner-Größen (neu) ---
-    md += ["## Banner-Größen", ""]
-    md += [f"| Total | {len(unique_sizes)} |", ""]
-    md += ["| Banner Size | Count |", "|-----------:|------:|"]
+        md.append("_Keine Jahresdaten gefunden._")
+    md.append("")
+    md += ["## Banner-Größen", "",
+           "| Banner Size | Count |", "|-----------:|------:|"]
     for size, cnt in sorted_sizes:
-        md += [f"| {size} | {cnt} |"]
-    md += [""]
+        md.append(f"| {size} | {cnt} |")
+    md.append("")
 
-    # Länder
     md += ["## Länder (nach Anzahl Banner)", ""]
     if countries:
         total = total_banners if total_banners else 1
         md += ["| Land | Banner | Anteil |", "|:-----|------:|------:|"]
         for c, v in sorted(countries.items(), key=lambda x: (-x[1], str(x[0]).lower())):
             pct = 100.0 * v / total
-            md += [f"| {c} | {v} | {pct:.1f}% |"]
+            md.append(f"| {c} | {v} | {pct:.1f}% |")
     else:
-        md += ["_Keine Länder gefunden._"]
-    md += [""]
+        md.append("_Keine Länder gefunden._")
+    md.append("")
 
-    # Städte
     md += ["## Städte (nach Anzahl Banner)", ""]
     if cities:
         total = total_banners if total_banners else 1
         md += ["| Stadt | Banner | Anteil |", "|:------|------:|------:|"]
         for c, v in sorted(cities.items(), key=lambda x: (-x[1], str(x[0]).lower())):
             pct = 100.0 * v / total
-            md += [f"| {c} | {v} | {pct:.1f}% |"]
+            md.append(f"| {c} | {v} | {pct:.1f}% |")
     else:
-        md += ["_Keine Städte gefunden._"]
-    md += [""]
+        md.append("_Keine Städte gefunden._")
+    md.append("")
 
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text("\n".join(md), encoding="utf-8")
     print(f"Statistik geschrieben nach: {out_path}")
-    return 0
 
 if __name__ == "__main__":
     raise SystemExit(main())
