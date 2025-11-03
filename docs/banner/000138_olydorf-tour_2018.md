@@ -3,7 +3,7 @@ nummer: "138"
 startLatitude: "48.179037"
 startLongitude: "11.555921"
 titel: "Olydorf-Tour"
-picture: ""
+picture: "https://lh3.googleusercontent.com/pw/AP1GczOGNmk83WUcC565-zTSC2Cigzu3fdRp0rhCInaJt0Jimelk_SYVhxEhIeBGTlNeDM9wM-llMBkxR0OTx7D4PoII0rXtbAK9b-sNo0-lRgO22dQnKnQy6EVTIx-WHYHrGgNRJqgLmtohQ2sNR4bxMQpvzQ"
 region: "München"
 country: "Deutschland"
 completed: "3306"
@@ -26,7 +26,7 @@ name: "Olydorf-Tour"
 
 *2018* • München • Deutschland
 
-
+![Olydorf-Tour](https://lh3.googleusercontent.com/pw/AP1GczOGNmk83WUcC565-zTSC2Cigzu3fdRp0rhCInaJt0Jimelk_SYVhxEhIeBGTlNeDM9wM-llMBkxR0OTx7D4PoII0rXtbAK9b-sNo0-lRgO22dQnKnQy6EVTIx-WHYHrGgNRJqgLmtohQ2sNR4bxMQpvzQ)
 
 
 

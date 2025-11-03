@@ -3,7 +3,7 @@ nummer: "124"
 startLatitude: "48.369633"
 startLongitude: "10.899209"
 titel: "Eine Woche voller Kuchen"
-picture: ""
+picture: "https://lh3.googleusercontent.com/pw/AP1GczMU9kHaXhpMw8MmJOz3Wd9HlsKiDFSsEQl8b59ylca7yVdCiLJHBo0gV_l55Np1C1R9qQseNLojOIUz4D2pERNh__OwQpM5YGYbtVOsBrA2V19sUFCx4IlnKS-SaM4ValyUuc9nu03YO9i6I5jyKBmgFg"
 region: "Augsburg"
 country: "Deutschland"
 completed: "3024"
@@ -26,7 +26,7 @@ name: "Eine Woche voller Kuchen"
 
 *2018* • Augsburg • Deutschland
 
-
+![Eine Woche voller Kuchen](https://lh3.googleusercontent.com/pw/AP1GczMU9kHaXhpMw8MmJOz3Wd9HlsKiDFSsEQl8b59ylca7yVdCiLJHBo0gV_l55Np1C1R9qQseNLojOIUz4D2pERNh__OwQpM5YGYbtVOsBrA2V19sUFCx4IlnKS-SaM4ValyUuc9nu03YO9i6I5jyKBmgFg)
 
 
 

@@ -3,7 +3,7 @@ nummer: "87"
 startLatitude: "49.020225"
 startLongitude: "12.094676"
 titel: "MD Regensburg"
-picture: ""
+picture: "https://lh3.googleusercontent.com/pw/AP1GczMR46xHqpWOEbL1q-kK5XdUdDFLZ-GuKfFC6raMhklorwgcmI7oCheDKtcXmUU3z0ZRIGGLfdefw-025-1oL9t202asLbBrLEpL3N8bXHchR-suMCjFV-fs-jt249lv0fAJcEJLce3Nv4J-JB2zcvdkuw"
 region: "Regensburg"
 country: "Deutschland"
 completed: "2232"
@@ -26,7 +26,7 @@ name: "MD Regensburg"
 
 *2017* • Regensburg • Deutschland
 
-
+![MD Regensburg](https://lh3.googleusercontent.com/pw/AP1GczMR46xHqpWOEbL1q-kK5XdUdDFLZ-GuKfFC6raMhklorwgcmI7oCheDKtcXmUU3z0ZRIGGLfdefw-025-1oL9t202asLbBrLEpL3N8bXHchR-suMCjFV-fs-jt249lv0fAJcEJLce3Nv4J-JB2zcvdkuw)
 
 
 

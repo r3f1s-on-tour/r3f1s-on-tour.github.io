@@ -3,7 +3,7 @@ nummer: "152"
 startLatitude: "48.367894"
 startLongitude: "10.894525"
 titel: "Augsburg im April"
-picture: ""
+picture: "https://lh3.googleusercontent.com/pw/AP1GczP0fWcASl87LxBzwL7aX3WKTm7rNw3yiDmekfFMvLlgWUy3bL4J9_it-Y-1FA6EDhl2Rfo0JbXZRkjiERVIKX7ktSvjxyWkgoJT8f67G3PAhnYyMWN-RlwZnSwVAEhr8_N-b_R0AvfkKG22OXKPY8APhg"
 region: "Augsburg"
 country: "Deutschland"
 completed: "3690"
@@ -26,7 +26,7 @@ name: "Augsburg im April"
 
 *2018* • Augsburg • Deutschland
 
-
+![Augsburg im April](https://lh3.googleusercontent.com/pw/AP1GczP0fWcASl87LxBzwL7aX3WKTm7rNw3yiDmekfFMvLlgWUy3bL4J9_it-Y-1FA6EDhl2Rfo0JbXZRkjiERVIKX7ktSvjxyWkgoJT8f67G3PAhnYyMWN-RlwZnSwVAEhr8_N-b_R0AvfkKG22OXKPY8APhg)
 
 
 

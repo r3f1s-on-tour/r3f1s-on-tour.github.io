@@ -3,7 +3,7 @@ nummer: "166"
 startLatitude: "49.452761"
 startLongitude: "11.078086"
 titel: "Blaue Nacht Nord"
-picture: ""
+picture: "https://lh3.googleusercontent.com/pw/AP1GczPs8yZrhYt5X2UXvUXUQJYBClzdvsvDz8euUS9yAw1ffFTZ_YFlsoI8_HdpLOi37pfPGOPdNpScFtUtQKH6B2sOr3E4RfZqLZCQh4FLxpIVya0qongybp0psXMsKx6MEKoutM1isqLYilU40b5P4UlDDA"
 region: "Nürnberg"
 country: "Deutschland"
 completed: "4020"
@@ -26,7 +26,7 @@ name: "Blaue Nacht Nord"
 
 *2018* • Nürnberg • Deutschland
 
-
+![Blaue Nacht Nord](https://lh3.googleusercontent.com/pw/AP1GczPs8yZrhYt5X2UXvUXUQJYBClzdvsvDz8euUS9yAw1ffFTZ_YFlsoI8_HdpLOi37pfPGOPdNpScFtUtQKH6B2sOr3E4RfZqLZCQh4FLxpIVya0qongybp0psXMsKx6MEKoutM1isqLYilU40b5P4UlDDA)
 
 
 

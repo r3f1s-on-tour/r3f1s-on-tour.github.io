@@ -3,7 +3,7 @@ nummer: "133"
 startLatitude: "50.110098"
 startLongitude: "8.678426"
 titel: "An der Paulskirche"
-picture: ""
+picture: "https://lh3.googleusercontent.com/pw/AP1GczMaKFOzd_rqp-0uUrMPmF7xac5XKSR62Vqgla4HsJV_bO5tATAdFtujuVX1ZLZnghH3GeCKKfUxqp9TfPqJjZ3brNivYXu4AWeykPNJUmCtET2TN9uRZWQs2fEGmHHybl35i316bHHjqW0R4Fpvla62zA"
 region: "Frankfurt am Main"
 country: "Deutschland"
 completed: "3216"
@@ -26,7 +26,7 @@ name: "An der Paulskirche"
 
 *2018* • Frankfurt am Main • Deutschland
 
-
+![An der Paulskirche](https://lh3.googleusercontent.com/pw/AP1GczMaKFOzd_rqp-0uUrMPmF7xac5XKSR62Vqgla4HsJV_bO5tATAdFtujuVX1ZLZnghH3GeCKKfUxqp9TfPqJjZ3brNivYXu4AWeykPNJUmCtET2TN9uRZWQs2fEGmHHybl35i316bHHjqW0R4Fpvla62zA)
 
 
 

@@ -3,7 +3,7 @@ nummer: "147"
 startLatitude: "48.137437"
 startLongitude: "11.575546"
 titel: "Districts of Munich"
-picture: ""
+picture: "https://lh3.googleusercontent.com/pw/AP1GczMF_GJEjuLB-SQl3rTD-d-kAnR13dtHlJvYhK5Xk0sywQ7K8w-_XciSoqLTMwwPQkOYdp0HvVzgfMNDUuQ-nDXPjtbGkW05i4hSDsPiRrRIomjiCwKUl1wLBIbzBObHdxUm6llkTT1LlnUkm5rBvpXQYw"
 region: "München"
 country: "Deutschland"
 completed: "3546"
@@ -26,7 +26,7 @@ name: "Districts of Munich"
 
 *2018* • München • Deutschland
 
-
+![Districts of Munich](https://lh3.googleusercontent.com/pw/AP1GczMF_GJEjuLB-SQl3rTD-d-kAnR13dtHlJvYhK5Xk0sywQ7K8w-_XciSoqLTMwwPQkOYdp0HvVzgfMNDUuQ-nDXPjtbGkW05i4hSDsPiRrRIomjiCwKUl1wLBIbzBObHdxUm6llkTT1LlnUkm5rBvpXQYw)
 
 
 

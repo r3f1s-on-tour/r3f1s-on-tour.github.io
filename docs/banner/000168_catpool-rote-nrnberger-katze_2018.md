@@ -3,7 +3,7 @@ nummer: "168"
 startLatitude: "49.451958"
 startLongitude: "11.08324"
 titel: "Catpool (Rote Nürnberger Katze)"
-picture: ""
+picture: "https://lh3.googleusercontent.com/pw/AP1GczNU4bGNtB8YpEsPC_le5j-4Fz0UjOfA0vUKmE0cL4oN_1r7eT7dVgNt5Cerc03KW6H8PRLAWKq7mPESJBgNFnTQms9viawun9RNG_w9i3YyrAqisp17iM8OvshAzVioGAzgdo_KpYn1zS_qqQzI6aGTjQ"
 region: "Nürnberg"
 country: "Deutschland"
 completed: "4092"
@@ -26,7 +26,7 @@ name: "Catpool (Rote Nürnberger Katze)"
 
 *2018* • Nürnberg • Deutschland
 
-
+![Catpool (Rote Nürnberger Katze)](https://lh3.googleusercontent.com/pw/AP1GczNU4bGNtB8YpEsPC_le5j-4Fz0UjOfA0vUKmE0cL4oN_1r7eT7dVgNt5Cerc03KW6H8PRLAWKq7mPESJBgNFnTQms9viawun9RNG_w9i3YyrAqisp17iM8OvshAzVioGAzgdo_KpYn1zS_qqQzI6aGTjQ)
 
 
 

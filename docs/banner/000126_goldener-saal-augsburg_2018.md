@@ -3,7 +3,7 @@ nummer: "126"
 startLatitude: "48.368734"
 startLongitude: "10.89838"
 titel: "Goldener Saal Augsburg"
-picture: ""
+picture: "https://lh3.googleusercontent.com/pw/AP1GczO4e34OK7z4sOESzV4zX85BcLih6Gvoee1Ue54Sfj1L82xrVT5g3yePPN98wDCgYsh8KY90eQWaS6tRHKDGn7TXx_iSNSraSam7P4_J-jkezWcBjWWItU7lGFzxUG5ZE2LqLESIodzsMgE2I3UNNqyrhA"
 region: "Augsburg"
 country: "Deutschland"
 completed: "3078"
@@ -26,7 +26,7 @@ name: "Goldener Saal Augsburg"
 
 *2018* • Augsburg • Deutschland
 
-
+![Goldener Saal Augsburg](https://lh3.googleusercontent.com/pw/AP1GczO4e34OK7z4sOESzV4zX85BcLih6Gvoee1Ue54Sfj1L82xrVT5g3yePPN98wDCgYsh8KY90eQWaS6tRHKDGn7TXx_iSNSraSam7P4_J-jkezWcBjWWItU7lGFzxUG5ZE2LqLESIodzsMgE2I3UNNqyrhA)
 
 
 

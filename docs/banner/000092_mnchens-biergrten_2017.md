@@ -3,7 +3,7 @@ nummer: "92"
 startLatitude: "48.157372"
 startLongitude: "11.584719"
 titel: "Münchens Biergärten"
-picture: ""
+picture: "https://lh3.googleusercontent.com/pw/AP1GczMljydWpc02ozbvYuF2KGOcwyxmYDBaQs_HNEv5h_T-ZkXOQPPduWpccj0iZ-dOewiqbRPRESoasTYBgmJ51_XNCrPyPAm0AQ4UgLUVWy7MjmawKoKRAQIn7I8UlwL4vhwVbieFLwX2qQa-x2NXPegGzA"
 region: "München"
 country: "Deutschland"
 completed: "2370"
@@ -26,7 +26,7 @@ name: "Münchens Biergärten"
 
 *2017* • München • Deutschland
 
-
+![Münchens Biergärten](https://lh3.googleusercontent.com/pw/AP1GczMljydWpc02ozbvYuF2KGOcwyxmYDBaQs_HNEv5h_T-ZkXOQPPduWpccj0iZ-dOewiqbRPRESoasTYBgmJ51_XNCrPyPAm0AQ4UgLUVWy7MjmawKoKRAQIn7I8UlwL4vhwVbieFLwX2qQa-x2NXPegGzA)
 
 
 

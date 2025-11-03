@@ -3,7 +3,7 @@ nummer: "143"
 startLatitude: "48.366462"
 startLongitude: "10.894585"
 titel: "Augsburg im März"
-picture: ""
+picture: "https://lh3.googleusercontent.com/pw/AP1GczMRXUh-rAGuq_r7uY9ki0s0bucwpWbVcO5kGunR9tRt4MrbJRBRgESNEjMj6mN_hWOXX_r3aiJRGRdv32OhBo1SlRrUZdydFvsP5LzCyX0GbT5GHGUtJ1ezpvm44Dsg9rvAR_T5QWJ2m66nuz5g94DiMg"
 region: "Augsburg"
 country: "Deutschland"
 completed: "3396"
@@ -26,7 +26,7 @@ name: "Augsburg im März"
 
 *2018* • Augsburg • Deutschland
 
-
+![Augsburg im März](https://lh3.googleusercontent.com/pw/AP1GczMRXUh-rAGuq_r7uY9ki0s0bucwpWbVcO5kGunR9tRt4MrbJRBRgESNEjMj6mN_hWOXX_r3aiJRGRdv32OhBo1SlRrUZdydFvsP5LzCyX0GbT5GHGUtJ1ezpvm44Dsg9rvAR_T5QWJ2m66nuz5g94DiMg)
 
 
 

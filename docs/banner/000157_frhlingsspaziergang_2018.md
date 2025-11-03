@@ -3,7 +3,7 @@ nummer: "157"
 startLatitude: "48.117838"
 startLongitude: "11.536431"
 titel: "Frühlingsspaziergang"
-picture: ""
+picture: "https://lh3.googleusercontent.com/pw/AP1GczNlvbTQQriAUrNSf3Wc_NoojfjNZK-05Y_T1YhDNAnKcRDE0j9c_001VaBMXWRh3VkqPFvRziSjmgwNr-C1kb2uDSG4ovebk0V4eTuKSdiDn4L6qlzVFlPaR-U6b7ep0rg0iEGRaHmQ86a8d0f6NzolGw"
 region: "München"
 country: "Deutschland"
 completed: "3786"
@@ -26,7 +26,7 @@ name: "Frühlingsspaziergang"
 
 *2018* • München • Deutschland
 
-
+![Frühlingsspaziergang](https://lh3.googleusercontent.com/pw/AP1GczNlvbTQQriAUrNSf3Wc_NoojfjNZK-05Y_T1YhDNAnKcRDE0j9c_001VaBMXWRh3VkqPFvRziSjmgwNr-C1kb2uDSG4ovebk0V4eTuKSdiDn4L6qlzVFlPaR-U6b7ep0rg0iEGRaHmQ86a8d0f6NzolGw)
 
 
 
