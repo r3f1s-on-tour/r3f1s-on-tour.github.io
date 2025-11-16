@@ -2,12 +2,12 @@
 
 ## Gesamtstatistik
 
-- **Gesamtbanner:** 627
-- **Missionen gesamt:** 13614
-- **Gesamt km:** 7068.72
+- **Gesamtbanner:** 634
+- **Missionen gesamt:** 13776
+- **Gesamt km:** 7117.00
 - **MissionDays gesamt:** 21
-- **Anzahl Länder (unique):** 9
-- **Anzahl Städte (unique):** 107
+- **Anzahl Länder (unique):** 10
+- **Anzahl Städte (unique):** 108
 - **Banner-Größen (unique):** 20
 - **Zeitraum:** 2015 – 2025 (11 Jahre)
 
@@ -17,16 +17,16 @@
 
 | Bezugsgröße | Banner | Missionen | km | Meilensteine |
 |:------------|------:|----------:|---:|-------------:|
-| Jahr  | 57.00 | 1237.64 | 642.61 | 2.45 |
-| Monat | 4.75 | 103.14 | 53.55 | 0.20 |
+| Jahr  | 57.64 | 1252.36 | 647.00 | 2.45 |
+| Monat | 4.80 | 104.36 | 53.92 | 0.20 |
 
 **Verhältnisse** (gesamt):
 
 | Verhältnis | Wert |
 |:-----------|----:|
 | km / Mission | 0.52 |
-| km / Banner | 11.27 |
-| Missionen / Banner | 21.71 |
+| km / Banner | 11.23 |
+| Missionen / Banner | 21.73 |
 
 ## Jahresstatistik
 
@@ -42,23 +42,23 @@
 | 2022 | 138 | 2724 | 1 | 1029.94 | 5 |
 | 2023 | 72 | 2070 | 3 | 1506.02 | 4 |
 | 2024 | 18 | 258 | 2 | 64.83 | 1 |
-| 2025 | 19 | 306 | 2 | 86.83 | 1 |
+| 2025 | 26 | 468 | 2 | 135.11 | 1 |
 
 ## Banner-Größen
 
 | Banner Size | Count |
 |-----------:|------:|
-| 6 | 208 |
-| 18 | 135 |
+| 6 | 210 |
+| 18 | 136 |
 | 24 | 89 |
-| 12 | 67 |
-| 36 | 30 |
-| 30 | 26 |
+| 12 | 68 |
+| 36 | 31 |
+| 30 | 27 |
 | 48 | 23 |
 | 72 | 10 |
 | 60 | 9 |
 | 42 | 8 |
-| 54 | 6 |
+| 54 | 7 |
 | 3 | 4 |
 | 66 | 3 |
 | 90 | 2 |
@@ -73,11 +73,12 @@
 
 | Land | Banner | Anteil |
 |:-----|------:|------:|
-| Deutschland | 562 | 89.6% |
-| España | 23 | 3.7% |
+| Deutschland | 562 | 88.6% |
+| España | 23 | 3.6% |
 | Polska | 17 | 2.7% |
 | Schweiz/Suisse/Svizzera/Svizra | 8 | 1.3% |
 | Österreich | 8 | 1.3% |
+| Nederland | 7 | 1.1% |
 | Sverige | 5 | 0.8% |
 | Magyarország | 2 | 0.3% |
 | Großbritannien | 1 | 0.2% |
@@ -87,24 +88,25 @@
 
 | Stadt | Banner | Anteil |
 |:------|------:|------:|
-| Berlin | 114 | 18.2% |
-| Oranienburg | 85 | 13.6% |
-| München | 76 | 12.1% |
-| Neubrandenburg | 40 | 6.4% |
-| Strasburg (Uckermark) | 32 | 5.1% |
+| Berlin | 114 | 18.0% |
+| Oranienburg | 85 | 13.4% |
+| München | 76 | 12.0% |
+| Neubrandenburg | 40 | 6.3% |
+| Strasburg (Uckermark) | 32 | 5.0% |
 | Augsburg | 20 | 3.2% |
 | Dresden | 13 | 2.1% |
 | València | 13 | 2.1% |
 | Szczecin | 12 | 1.9% |
-| Stralsund | 11 | 1.8% |
+| Stralsund | 11 | 1.7% |
 | Pasewalk | 9 | 1.4% |
 | Köln | 8 | 1.3% |
 | Zürich | 8 | 1.3% |
+| Den Haag | 7 | 1.1% |
 | Hamburg | 7 | 1.1% |
 | Nürnberg | 7 | 1.1% |
 | Regensburg | 7 | 1.1% |
-| Frankfurt am Main | 6 | 1.0% |
-| Madrid | 6 | 1.0% |
+| Frankfurt am Main | 6 | 0.9% |
+| Madrid | 6 | 0.9% |
 | Malmö | 5 | 0.8% |
 | Bonn | 4 | 0.6% |
 | Düsseldorf | 4 | 0.6% |
