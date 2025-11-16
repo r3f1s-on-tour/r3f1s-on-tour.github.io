@@ -2,10 +2,10 @@
 
 ## Gesamtstatistik
 
-- **Gesamtbanner:** 634
-- **Missionen gesamt:** 13776
-- **Gesamt km:** 7117.00
-- **MissionDays gesamt:** 21
+- **Gesamtbanner:** 635
+- **Missionen gesamt:** 13782
+- **Gesamt km:** 7121.50
+- **MissionDays gesamt:** 22
 - **Anzahl Länder (unique):** 10
 - **Anzahl Städte (unique):** 108
 - **Banner-Größen (unique):** 20
@@ -17,16 +17,16 @@
 
 | Bezugsgröße | Banner | Missionen | km | Meilensteine |
 |:------------|------:|----------:|---:|-------------:|
-| Jahr  | 57.64 | 1252.36 | 647.00 | 2.45 |
-| Monat | 4.80 | 104.36 | 53.92 | 0.20 |
+| Jahr  | 57.73 | 1252.91 | 647.41 | 2.45 |
+| Monat | 4.81 | 104.41 | 53.95 | 0.20 |
 
 **Verhältnisse** (gesamt):
 
 | Verhältnis | Wert |
 |:-----------|----:|
 | km / Mission | 0.52 |
-| km / Banner | 11.23 |
-| Missionen / Banner | 21.73 |
+| km / Banner | 11.21 |
+| Missionen / Banner | 21.70 |
 
 ## Jahresstatistik
 
@@ -42,13 +42,13 @@
 | 2022 | 138 | 2724 | 1 | 1029.94 | 5 |
 | 2023 | 72 | 2070 | 3 | 1506.02 | 4 |
 | 2024 | 18 | 258 | 2 | 64.83 | 1 |
-| 2025 | 26 | 468 | 2 | 135.11 | 1 |
+| 2025 | 27 | 474 | 3 | 139.61 | 1 |
 
 ## Banner-Größen
 
 | Banner Size | Count |
 |-----------:|------:|
-| 6 | 210 |
+| 6 | 211 |
 | 18 | 136 |
 | 24 | 89 |
 | 12 | 68 |
@@ -73,12 +73,12 @@
 
 | Land | Banner | Anteil |
 |:-----|------:|------:|
-| Deutschland | 562 | 88.6% |
+| Deutschland | 562 | 88.5% |
 | España | 23 | 3.6% |
 | Polska | 17 | 2.7% |
+| Nederland | 8 | 1.3% |
 | Schweiz/Suisse/Svizzera/Svizra | 8 | 1.3% |
 | Österreich | 8 | 1.3% |
-| Nederland | 7 | 1.1% |
 | Sverige | 5 | 0.8% |
 | Magyarország | 2 | 0.3% |
 | Großbritannien | 1 | 0.2% |
@@ -93,15 +93,15 @@
 | München | 76 | 12.0% |
 | Neubrandenburg | 40 | 6.3% |
 | Strasburg (Uckermark) | 32 | 5.0% |
-| Augsburg | 20 | 3.2% |
-| Dresden | 13 | 2.1% |
-| València | 13 | 2.1% |
+| Augsburg | 20 | 3.1% |
+| Dresden | 13 | 2.0% |
+| València | 13 | 2.0% |
 | Szczecin | 12 | 1.9% |
 | Stralsund | 11 | 1.7% |
 | Pasewalk | 9 | 1.4% |
+| Den Haag | 8 | 1.3% |
 | Köln | 8 | 1.3% |
 | Zürich | 8 | 1.3% |
-| Den Haag | 7 | 1.1% |
 | Hamburg | 7 | 1.1% |
 | Nürnberg | 7 | 1.1% |
 | Regensburg | 7 | 1.1% |
